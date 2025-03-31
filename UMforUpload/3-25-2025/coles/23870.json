@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-kids-gummies-eye-health-50-pack-3279469",
+    "name": "Nature's Way Kids Gummies Eye Health | 50 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3279469.jpg&w=640&q=90",
+    "source_id": "3279469",
+    "barcode": "9314807060930",
+    "shop": "coles",
+    "category_id": "23870",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2600",
+        "price_per_unit": "5200",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-ginkgo-biloba-2000-memory-support-tablets-100-pack-4730592",
+    "name": "Cenovis Ginkgo Biloba 2000 Memory Support Tablets | 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4730592.jpg&w=640&q=90",
+    "source_id": "4730592",
+    "barcode": "9300705602662",
+    "shop": "coles",
+    "category_id": "23870",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-brain-and-memeory-gingko-2000mg-120-pack-4856954",
+    "name": "Nature's Way Brain & Memeory Gingko 2000Mg | 120 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4856954.jpg&w=640&q=90",
+    "source_id": "4856954",
+    "barcode": "9314807010027",
+    "shop": "coles",
+    "category_id": "23870",
+    "weight": "120pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "1417",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-mega-vitamin-e-500mg-capsules-250-pack-5602383",
+    "name": "Cenovis Mega Vitamin E 500mg Capsules | 250 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5602383.jpg&w=640&q=90",
+    "source_id": "5602383",
+    "barcode": "9300705603072",
+    "shop": "coles",
+    "category_id": "23870",
+    "weight": "250pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4400",
+        "price_per_unit": "1760",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coco-earth-lions-mane-+-noo-oil-60ml-6496463",
+    "name": "Coco Earth Lions Mane + Noo Oil | 60mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6496463.jpg&w=640&q=90",
+    "source_id": "6496463",
+    "barcode": "9349580005625",
+    "shop": "coles",
+    "category_id": "23870",
+    "weight": "60ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "3333",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-adult-vita-gummies-omega-3-110-pack-9114086",
+    "name": "Nature's Way Adult Vita Gummies Omega 3 | 110 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9114086.jpg&w=640&q=90",
+    "source_id": "9114086",
+    "barcode": "9314807066703",
+    "shop": "coles",
+    "category_id": "23870",
+    "weight": "110pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2550",
+        "price_per_unit": "2318",
+        "price_unit": "pack"
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/249344/mccain-beer-batter-wedges",
+    "name": "McCain Beer Batter Wedges 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/249344.jpg",
+    "source_id": "249344",
+    "barcode": "9310174022861",
+    "shop": "Woolworths",
+    "category_id": "22285",
+    "weight": "750G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "613",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/693777/woolworths-potato-wedges",
+    "name": "Woolworths Potato Wedges 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/693777.jpg",
+    "source_id": "693777",
+    "barcode": "9300633285562",
+    "shop": "Woolworths",
+    "category_id": "22285",
+    "weight": "750G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

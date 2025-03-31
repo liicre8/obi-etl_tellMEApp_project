@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/921142/just-veg-carrot-shred",
+    "name": "Just Veg. Carrot Shred 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/921142.jpg",
+    "source_id": "921142",
+    "barcode": "9321406001660",
+    "shop": "Woolworths",
+    "category_id": "22383",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/921080/just-veg-carrot-sticks",
+    "name": "Just Veg. Carrot Sticks 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/921080.jpg",
+    "source_id": "921080",
+    "barcode": "9321406001653",
+    "shop": "Woolworths",
+    "category_id": "22383",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/780371/woolworths-whole-fresh-beetroot",
+    "name": "Woolworths Whole Fresh Beetroot 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/780371.jpg",
+    "source_id": "780371",
+    "barcode": "9300633473853",
+    "shop": "Woolworths",
+    "category_id": "22383",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/386073/just-cook-onion-rings",
+    "name": "Just Cook Onion Rings 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/386073.jpg",
+    "source_id": "386073",
+    "barcode": "9315822020084",
+    "shop": "Woolworths",
+    "category_id": "22383",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

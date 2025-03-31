@@ -1,0 +1,326 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/272125/bakery-du-jour-pain-au-choclat",
+    "name": "Bakery Du Jour Pain Au Choclat 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/272125.jpg",
+    "source_id": "272125",
+    "barcode": "9336047001498",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "108",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/668560/brioche-gourmet-croissant-rolls",
+    "name": "Brioche Gourmet Croissant Rolls 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/668560.jpg",
+    "source_id": "668560",
+    "barcode": "3587220005758",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "485",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/119055/krispy-kreme-assorted-doughnuts",
+    "name": "Krispy Kreme Assorted Doughnuts 3 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/119055.jpg",
+    "source_id": "119055",
+    "barcode": "9342695000714",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "3 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "367",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/117701/krispy-kreme-assorted-doughnuts",
+    "name": "Krispy Kreme Assorted Doughnuts 9 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/117701.jpg",
+    "source_id": "117701",
+    "barcode": "9342695000721",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "9 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2800",
+        "price_per_unit": "311",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/312869/original-waffle-co-waffles-english-style",
+    "name": "Original Waffle Co Waffles English Style 130g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/312869.jpg",
+    "source_id": "312869",
+    "barcode": "8858762710017",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "130G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "415",
+        "price_per_unit": "319",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6000252/sara-lee-sandwich-croissant",
+    "name": "Sara Lee Sandwich Croissant 225g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6000252.jpg",
+    "source_id": "6000252",
+    "barcode": "9310135101154",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "225g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "133",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/4378/toscano-chocolate-croissants",
+    "name": "Toscano Chocolate Croissants 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/004378.jpg",
+    "source_id": "4378",
+    "barcode": "9350007002059",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/291058/toscano-french-crepes-strawberry-filled",
+    "name": "Toscano French Crepes Strawberry Filled 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/291058.jpg",
+    "source_id": "291058",
+    "barcode": "9300602375232",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "278",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/684682/toscano-french-croissants",
+    "name": "Toscano French Croissants 240g x6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/684682.jpg",
+    "source_id": "684682",
+    "barcode": "9350007001656",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "240G x6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/118316/toscano-mini-cinnamon-waffles-200g-waffles-cinnamon",
+    "name": "Toscano Mini Cinnamon Waffles 200g 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/118316.jpg",
+    "source_id": "118316",
+    "barcode": "9300602382599",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "275",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/97237/woolworths-all-butter-croissant",
+    "name": "Woolworths All Butter Croissant 3 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/097237.jpg",
+    "source_id": "97237",
+    "barcode": "9300633680572",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "3 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "295",
+        "price_per_unit": "98",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/40291/woolworths-caramel-iced-donuts",
+    "name": "Woolworths Caramel Iced Donuts 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/040291.jpg",
+    "source_id": "40291",
+    "barcode": "9339687096336",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "150",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/698110/woolworths-chocolate-brownie",
+    "name": "Woolworths Chocolate Brownie 300G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/698110.jpg",
+    "source_id": "698110",
+    "barcode": "9339687056996",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/40283/woolworths-chocolate-iced-donuts",
+    "name": "Woolworths Chocolate Iced Donuts 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/040283.jpg",
+    "source_id": "40283",
+    "barcode": "9339687096312",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "150",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/27078/woolworths-indulgent-mini-dessert-cake-selection",
+    "name": "Woolworths Indulgent Mini Dessert Cake Selection 20 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/027078.jpg",
+    "source_id": "27078",
+    "barcode": "9339687095889",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "20 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2300",
+        "price_per_unit": "115",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/91895/woolworths-large-pavlova-base",
+    "name": "Woolworths Large Pavlova Base Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/091895.jpg",
+    "source_id": "91895",
+    "barcode": "9339687170678",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "920",
+        "price_per_unit": "920",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/256234/woolworths-meringue-nests",
+    "name": "Woolworths Meringue Nests 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/256234.jpg",
+    "source_id": "256234",
+    "barcode": "9300633041021",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/40285/woolworths-strawberry-iced-donuts",
+    "name": "Woolworths Strawberry Iced Donuts 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/040285.jpg",
+    "source_id": "40285",
+    "barcode": "9339687096329",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "150",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

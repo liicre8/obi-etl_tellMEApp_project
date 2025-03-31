@@ -1,0 +1,722 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/177092/anihana-shampoo-bar-lavender-rosemary",
+    "name": "Anihana Shampoo Bar Lavender & Rosemary 65g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/177092.jpg",
+    "source_id": "177092",
+    "barcode": "9421906696028",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "65g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "2154",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6004861/batiste-dry-shampoo-sensitive-scalp",
+    "name": "Batiste Dry Shampoo Sensitive Scalp 200mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6004861.jpg",
+    "source_id": "6004861",
+    "barcode": "5010724000762",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "200mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "350",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32952/cedel-hair-spray-extra-firm",
+    "name": "Cedel Hair Spray Extra Firm 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/032952.jpg",
+    "source_id": "32952",
+    "barcode": "9300703000132",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "240",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32357/cedel-hair-spray-firm-hold",
+    "name": "Cedel Hair Spray Firm Hold 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/032357.jpg",
+    "source_id": "32357",
+    "barcode": "9300703000033",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "240",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/675316/colab-dry-shampoo-fresh",
+    "name": "CoLab Dry Shampoo Fresh 200mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/675316.jpg",
+    "source_id": "675316",
+    "barcode": "5016155120017",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "200mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/76524/colab-dry-shampoo-original-original-fragrance",
+    "name": "CoLab Dry Shampoo Original 200mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/076524.jpg",
+    "source_id": "76524",
+    "barcode": "5016155119806",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "200mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/684058/colab-dry-shampoo-paradise-paradise-fragrance",
+    "name": "CoLab Dry Shampoo Paradise 200mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/684058.jpg",
+    "source_id": "684058",
+    "barcode": "5016155128518",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "200mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/609209/dove-hair-dry-shampoo-refresh-care",
+    "name": "Dove Hair Dry Shampoo Refresh & Care 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/609209.jpg",
+    "source_id": "609209",
+    "barcode": "8710908056505",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/758007/georgiemane-anti-frizz-serum",
+    "name": "Georgiemane Anti-Frizz Serum 100mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/758007.jpg",
+    "source_id": "758007",
+    "barcode": "9369998157426",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "100mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/755577/georgiemane-curl-cream",
+    "name": "Georgiemane Curl Cream 200mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/755577.jpg",
+    "source_id": "755577",
+    "barcode": "9369998203130",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "200mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "1050",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/757820/georgiemane-dry-shampoo",
+    "name": "Georgiemane Dry Shampoo 30g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/757820.jpg",
+    "source_id": "757820",
+    "barcode": "9369998203635",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "30g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "6000",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6005480/got2b-farewell-fly-aways",
+    "name": "Got2B Farewell Fly Aways 16mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6005480.jpg",
+    "source_id": "6005480",
+    "barcode": "9310714230442",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "16mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "15625",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6005433/got2b-glued-wax-stick",
+    "name": "Got2B Glued Wax Stick 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6005433.jpg",
+    "source_id": "6005433",
+    "barcode": "5012583212799",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "5000",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6004815/got2b-got-gloss-shine-primer",
+    "name": "Got2B Got Gloss Shine Primer 150mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6004815.jpg",
+    "source_id": "6004815",
+    "barcode": "5012583212317",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "150mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "1133",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/845626/john-frieda-air-dry-waves",
+    "name": "John Frieda Air Dry Waves 147ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/845626.jpg",
+    "source_id": "845626",
+    "barcode": "717226208805",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "147mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "714",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6007141/john-frieda-frizz-ease-dream-curls-hydrating-jelly",
+    "name": "John Frieda Frizz Ease Dream Curls Hydrating Jelly 200mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6007141.jpg",
+    "source_id": "6007141",
+    "barcode": "717226295652",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "200mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "525",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/173167/john-frieda-frizz-ease-secret-weapon-styler",
+    "name": "John Frieda Frizz Ease Secret Weapon Styler 113g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/173167.jpg",
+    "source_id": "173167",
+    "barcode": "717226111433",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "113G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "929",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/203807/john-frieda-frizz-ease-serum-extra-strength",
+    "name": "John Frieda Frizz Ease Serum Extra Strength 50ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/203807.jpg",
+    "source_id": "203807",
+    "barcode": "717226280245",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "50ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6011486/klorane-oil-control-dry-shampoo-with-nettle-vitamin-e",
+    "name": "Klorane Oil Control Dry Shampoo With Nettle & Vitamin E 150mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6011486.jpg",
+    "source_id": "6011486",
+    "barcode": "3282770396362",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "150mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/378909/l-oreal-hair-spray-elnett-supreme-volume-hold",
+    "name": "L'Oreal Hair Spray Elnett Supreme Volume Hold 400ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/378909.jpg",
+    "source_id": "378909",
+    "barcode": "3600524109714",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "400mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "375",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/307851/marc-daniels-treatment-go-curly-makes-hair-curly",
+    "name": "Marc Daniels Treatment Go Curly Makes Hair Curly 150ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/307851.jpg",
+    "source_id": "307851",
+    "barcode": "694530000434",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "150mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "533",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85695/ogx-argan-oil-dry-shampoo-for-all-hair-types",
+    "name": "OGX Argan Oil Dry Shampoo For All Hair Types 200mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085695.jpg",
+    "source_id": "85695",
+    "barcode": "9300607610482",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "200mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "575",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83973/ogx-argan-oil-heat-protect-hair-spray-for-heat-styled-hair",
+    "name": "OGX Argan Oil Heat Protect Hair Spray For Heat Styled Hair 177mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/083973.jpg",
+    "source_id": "83973",
+    "barcode": "3574661547046",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "177mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "763",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/84979/ogx-coconut-milk-dry-shampoo",
+    "name": "OGX Coconut Milk Dry Shampoo 200ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/084979.jpg",
+    "source_id": "84979",
+    "barcode": "9300607610499",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "200mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "575",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/172768/oscar-orsen-hair-spray-regular-hold",
+    "name": "Oscar Orsen Hair Spray Regular Hold 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/172768.jpg",
+    "source_id": "172768",
+    "barcode": "29339687269246",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "116",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/172767/oscar-orsen-styling-mousse-regular-hold",
+    "name": "Oscar Orsen Styling Mousse Regular Hold 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/172767.jpg",
+    "source_id": "172767",
+    "barcode": "9339687269242",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "104",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/35458/schwarzkopf-extra-care-hair-spray-strong-styling-hairspray",
+    "name": "Schwarzkopf Extra Care Hair Spray Strong Styling Hairspray 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/035458.jpg",
+    "source_id": "35458",
+    "barcode": "9310714467381",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "325",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/591533/slickhair-slick-stick-anti-flyaway-hair-wand",
+    "name": "Slickhair Slick Stick Anti Flyaway Hair Wand 10mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/591533.jpg",
+    "source_id": "591533",
+    "barcode": "9360477000059",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "10mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/554626/thanks-to-nature-cool-curls-curling-gel",
+    "name": "Thanks To Nature Cool Curls Curling Gel 150mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/554626.jpg",
+    "source_id": "554626",
+    "barcode": "9342746005637",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "150mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6004622/thanks-to-nature-glam-glaze-miracle-spray",
+    "name": "Thanks To Nature Glam Glaze Miracle Spray 200mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6004622.jpg",
+    "source_id": "6004622",
+    "barcode": "9342746007754",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "200mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6004441/thanks-to-nature-hair-spray-flexible-hold-with-argan-oil",
+    "name": "Thanks To Nature Hair Spray Flexible Hold With Argan Oil 150mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6004441.jpg",
+    "source_id": "6004441",
+    "barcode": "9342746007761",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "150mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/578061/thanks-to-nature-hair-styling-wax-stick",
+    "name": "Thanks To Nature Hair Styling Wax Stick 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/578061.jpg",
+    "source_id": "578061",
+    "barcode": "9342746005828",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6004142/thanks-to-nature-smooth-control-anti-frizz-hair-spray-with-keratin",
+    "name": "Thanks To Nature Smooth & Control Anti Frizz Hair Spray With Keratin 150mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6004142.jpg",
+    "source_id": "6004142",
+    "barcode": "9342746007709",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "150mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "667",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6004649/thanks-to-nature-styling-mousse",
+    "name": "Thanks To Nature Styling Mousse 150mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6004649.jpg",
+    "source_id": "6004649",
+    "barcode": "9342746007778",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "150mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "600",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6004397/thanks-to-nature-volume-boost-thickening-spray-with-biotin-collagen",
+    "name": "Thanks To Nature Volume Boost Thickening Spray With Biotin & Collagen 150mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6004397.jpg",
+    "source_id": "6004397",
+    "barcode": "9342746007716",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "150mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "667",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/152536/toni-guy-brunette-dry-shampoo",
+    "name": "Toni & Guy Brunette Dry Shampoo 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/152536.jpg",
+    "source_id": "152536",
+    "barcode": "9300830057771",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "380",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/855768/toni-guy-sky-high-volume-dry-shampoo",
+    "name": "Toni & Guy Sky High Volume Dry Shampoo 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/855768.jpg",
+    "source_id": "855768",
+    "barcode": "667803002657",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "380",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6007861/vo5-invisible-firm-hold-hairspray",
+    "name": "Vo5 Invisible Firm Hold Hairspray 400mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6007861.jpg",
+    "source_id": "6007861",
+    "barcode": "8717163643938",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "400mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1180",
+        "price_per_unit": "295",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6007769/vo5-invisible-ultimate-hold-hairspray",
+    "name": "Vo5 Invisible Ultimate Hold Hairspray 400mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6007769.jpg",
+    "source_id": "6007769",
+    "barcode": "8717163643839",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "400mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1180",
+        "price_per_unit": "295",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/430863/vo5-mega-hold-mousse",
+    "name": "Vo5 Mega Hold Mousse 200mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/430863.jpg",
+    "source_id": "430863",
+    "barcode": "5012254060018",
+    "shop": "Woolworths",
+    "category_id": "23905",
+    "weight": "200mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "425",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

@@ -1,0 +1,830 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-fresh-pink-ling-fillet-approx-1kg-1024423",
+    "name": "Coles Fresh Pink Ling Fillet | approx 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1024423.jpg&w=640&q=90",
+    "source_id": "1024423",
+    "barcode": "9310645269931",
+    "shop": "coles",
+    "category_id": "22761",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "3600",
+        "price_per_unit": "3600",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/huon-premium-tasmanian-wood-roasted-salmon-blackened-spice-150g-1499781",
+    "name": "Huon Premium Tasmanian Wood Roasted Salmon Blackened Spice | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1499781.jpg&w=640&q=90",
+    "source_id": "1499781",
+    "barcode": "9315896100460",
+    "shop": "coles",
+    "category_id": "22761",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "975",
+        "price_per_unit": "6500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ocean-blue-mini-blinis-168g-3661960",
+    "name": "Ocean Blue Mini Blinis | 168g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3661960.jpg&w=640&q=90",
+    "source_id": "3661960",
+    "barcode": "9343005009038",
+    "shop": "coles",
+    "category_id": "22761",
+    "weight": "168g",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "626",
+        "price_per_unit": "373",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "580",
+        "price_per_unit": "345",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "580",
+        "price_per_unit": "345",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "345",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "580",
+        "price_per_unit": "345",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "580",
+        "price_per_unit": "345",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "580",
+        "price_per_unit": "345",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "580",
+        "price_per_unit": "345",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fremantle-marinated-octopus-original-250g-3854807",
+    "name": "Fremantle Marinated Octopus Original | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3854807.jpg&w=640&q=90",
+    "source_id": "3854807",
+    "barcode": "9334572000030",
+    "shop": "coles",
+    "category_id": "22761",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "1500",
+        "price_per_unit": "6000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1500",
+        "price_per_unit": "6000",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "1500",
+        "price_per_unit": "6000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "6000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1500",
+        "price_per_unit": "6000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1500",
+        "price_per_unit": "6000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1500",
+        "price_per_unit": "6000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1500",
+        "price_per_unit": "6000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cold-smoked-salmon-500g-3873437",
+    "name": "Coles Cold Smoked Salmon | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3873437.jpg&w=640&q=90",
+    "source_id": "3873437",
+    "barcode": "9310645312866",
+    "shop": "coles",
+    "category_id": "22761",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "2500",
+        "price_per_unit": "5000",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "2500",
+        "price_per_unit": "5000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "5000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2500",
+        "price_per_unit": "5000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2500",
+        "price_per_unit": "5000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-smoked-trout-150g-3873448",
+    "name": "Coles Smoked Trout | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3873448.jpg&w=640&q=90",
+    "source_id": "3873448",
+    "barcode": "9310645312859",
+    "shop": "coles",
+    "category_id": "22761",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "1026",
+        "price_per_unit": "6840",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "6334",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "5000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "6334",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "6334",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "6334",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "6334",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ocean-king-bismarck-herring-500g-3899135",
+    "name": "Ocean King Bismarck Herring | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3899135.jpg&w=640&q=90",
+    "source_id": "3899135",
+    "barcode": "9310677001608",
+    "shop": "coles",
+    "category_id": "22761",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ocean-king-black-lumpfish-caviar-50g-3899340",
+    "name": "Ocean King Black Lumpfish Caviar | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3899340.jpg&w=640&q=90",
+    "source_id": "3899340",
+    "barcode": "9310677999936",
+    "shop": "coles",
+    "category_id": "22761",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "702",
+        "price_per_unit": "14040",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "13000",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "13000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "13000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "13000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "13000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "13000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "13000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/petuna-deli-fresh-salmon-portions-skin-on-tray-2.5kg-4803506",
+    "name": "Petuna Deli Fresh Salmon Portions Skin On Tray | 2.5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4803506.jpg&w=640&q=90",
+    "source_id": "4803506",
+    "barcode": "9310645276250",
+    "shop": "coles",
+    "category_id": "22761",
+    "weight": "2.5kg",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "9000",
+        "price_per_unit": "3600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "ACT",
+        "price": "9000",
+        "price_per_unit": "3600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NSW",
+        "price": "9000",
+        "price_per_unit": "3600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "QLD",
+        "price": "9000",
+        "price_per_unit": "3600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "WA",
+        "price": "9000",
+        "price_per_unit": "3600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "SA",
+        "price": "9000",
+        "price_per_unit": "3600",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "TAS",
+        "price": "9000",
+        "price_per_unit": "3600",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tassal-tasmanian-smoked-salmon-premium-selection-180g-5009534",
+    "name": "Tassal Tasmanian Smoked Salmon Premium Selection | 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5009534.jpg&w=640&q=90",
+    "source_id": "5009534",
+    "barcode": "9313107161446",
+    "shop": "coles",
+    "category_id": "22761",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "7778",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "7778",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "7778",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "7778",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "7778",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "7778",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "7778",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "7778",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/regal-new-zealand-king-salmon-manuka-wood-smoked-slices-100g-5014523",
+    "name": "Regal New Zealand King Salmon Manuka Wood Smoked Slices | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5014523.jpg&w=640&q=90",
+    "source_id": "5014523",
+    "barcode": "9415466008582",
+    "shop": "coles",
+    "category_id": "22761",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "1140",
+        "price_per_unit": "11400",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "1140",
+        "price_per_unit": "11400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1140",
+        "price_per_unit": "11400",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1140",
+        "price_per_unit": "11400",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1140",
+        "price_per_unit": "11400",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1140",
+        "price_per_unit": "11400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/talley's-mussels-natural-375g-5032467",
+    "name": "Talley's Mussels Natural | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5032467.jpg&w=640&q=90",
+    "source_id": "5032467",
+    "barcode": "9414897011918",
+    "shop": "coles",
+    "category_id": "22761",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "1733",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "1733",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "1733",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "1733",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "1733",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "1733",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "1733",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "1733",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tassal-tasmanian-smoked-salmon-twin-pack-100g-5579328",
+    "name": "Tassal Tasmanian Smoked Salmon Twin Pack | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5579328.jpg&w=640&q=90",
+    "source_id": "5579328",
+    "barcode": "9313107161460",
+    "shop": "coles",
+    "category_id": "22761",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-marinara-mix-280g-7069050",
+    "name": "Coles Marinara Mix | 280g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7069050.jpg&w=640&q=90",
+    "source_id": "7069050",
+    "barcode": "9310645426037",
+    "shop": "coles",
+    "category_id": "22761",
+    "weight": "280g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "3036",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-deli-fresh-tasmanian-salmon-portions-skin-off-approx.-250g-8104860",
+    "name": "Coles Deli Fresh Tasmanian Salmon Portions Skin Off | approx. 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8104860.jpg&w=640&q=90",
+    "source_id": "8104860",
+    "barcode": "9317967001348",
+    "shop": "coles",
+    "category_id": "22761",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "1150",
+        "price_per_unit": "4600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "4600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1150",
+        "price_per_unit": "4600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1150",
+        "price_per_unit": "4600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1150",
+        "price_per_unit": "4600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1150",
+        "price_per_unit": "4600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-deli-fresh-tasmanian-salmon-portions-skin-on-approx.-200g-8106800",
+    "name": "Coles Deli Fresh Tasmanian Salmon Portions Skin On | approx. 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8106800.jpg&w=640&q=90",
+    "source_id": "8106800",
+    "barcode": "9317967000969",
+    "shop": "coles",
+    "category_id": "22761",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "720",
+        "price_per_unit": "3600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "720",
+        "price_per_unit": "3600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "720",
+        "price_per_unit": "3600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "720",
+        "price_per_unit": "3600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "720",
+        "price_per_unit": "3600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "720",
+        "price_per_unit": "3600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/talley's-mussels-garlic-375g-9596067",
+    "name": "Talley's Mussels Garlic | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9596067.jpg&w=640&q=90",
+    "source_id": "9596067",
+    "barcode": "9414897011796",
+    "shop": "coles",
+    "category_id": "22761",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "1733",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "1733",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "1733",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "1733",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "1733",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "1733",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "1733",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "1733",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

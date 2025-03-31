@@ -122,7 +122,7 @@ const getData = async () => {
    * This is for matched products to push in API
    */
 const chunkSize = 100;
-const skipCount = 2297; // Starting point
+const skipCount = 0; // Starting point
 let fileNumber = 1
 for (const categ of MYCATEGORIES) {
   for (const sub of categ.children) {

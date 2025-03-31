@@ -1,0 +1,20 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bananas-prepacked-750g-7017500",
+    "name": "Coles Bananas Prepacked | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7017500.jpg&w=640&q=90",
+    "source_id": "7017500",
+    "barcode": "9342264000206",
+    "shop": "coles",
+    "category_id": "22354",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "653",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

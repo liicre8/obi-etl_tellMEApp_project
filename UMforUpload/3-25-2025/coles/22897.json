@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/doritos-original-corn-chips-380g-4382634",
+    "name": "Doritos Original Corn Chips | 380g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4382634.jpg&w=640&q=90",
+    "source_id": "4382634",
+    "barcode": "9310015247828",
+    "shop": "coles",
+    "category_id": "22897",
+    "weight": "380g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "224",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-salsa-mild-300g-5859834",
+    "name": "Coles Salsa Mild | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5859834.jpg&w=640&q=90",
+    "source_id": "5859834",
+    "barcode": "9310645436517",
+    "shop": "coles",
+    "category_id": "22897",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "67",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tostitos-restaurant-style-mild-mexican-salsa-165g-6596311",
+    "name": "Tostitos Restaurant Style Mild Mexican Salsa | 165g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6596311.jpg&w=640&q=90",
+    "source_id": "6596311",
+    "barcode": "9310015255908",
+    "shop": "coles",
+    "category_id": "22897",
+    "weight": "165g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "315",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tostitos-restaurant-style-smokin-chipotle-sour-cream-165g-6596322",
+    "name": "Tostitos Restaurant Style Smokin Chipotle Sour Cream | 165g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6596322.jpg&w=640&q=90",
+    "source_id": "6596322",
+    "barcode": "9310015255922",
+    "shop": "coles",
+    "category_id": "22897",
+    "weight": "165g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "315",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-corn-chips-cheese-supreme-175g-6696393",
+    "name": "Coles Corn Chips Cheese Supreme | 175g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6696393.jpg&w=640&q=90",
+    "source_id": "6696393",
+    "barcode": "9310645421988",
+    "shop": "coles",
+    "category_id": "22897",
+    "weight": "175g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "131",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-corn-chips-original-175g-6696407",
+    "name": "Coles Corn Chips Original | 175g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6696407.jpg&w=640&q=90",
+    "source_id": "6696407",
+    "barcode": "9310645421971",
+    "shop": "coles",
+    "category_id": "22897",
+    "weight": "175g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "131",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

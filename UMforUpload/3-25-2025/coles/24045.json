@@ -1,0 +1,20 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/natures-kitchen-falafel-225g-6813180",
+    "name": "Natures Kitchen Falafel | 225g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6813180.jpg&w=640&q=90",
+    "source_id": "6813180",
+    "barcode": "9310645421940",
+    "shop": "coles",
+    "category_id": "24045",
+    "weight": "225g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/zooper-dooper-8-cosmic-flavours-water-ice-70ml-tubes-24-pack-198393",
+    "name": "Zooper Dooper 8 Cosmic Flavours Water Ice 70mL Tubes | 24 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F198393.jpg&w=640&q=90",
+    "source_id": "198393",
+    "barcode": "9300648340300",
+    "shop": "coles",
+    "category_id": "22826",
+    "weight": "24pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/zooper-dooper-no-sugar-ice-water-24-pack-3639098",
+    "name": "Zooper Dooper No Sugar Ice Water | 24 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3639098.jpg&w=640&q=90",
+    "source_id": "3639098",
+    "barcode": "9310113903817",
+    "shop": "coles",
+    "category_id": "22826",
+    "weight": "24pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/zooper-dooper-fairy-floss-24x70ml-24-pack-5495920",
+    "name": "Zooper Dooper Fairy Floss  24x70mL | 24 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5495920.jpg&w=640&q=90",
+    "source_id": "5495920",
+    "barcode": "9310113905125",
+    "shop": "coles",
+    "category_id": "22826",
+    "weight": "24pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/zooper-dooper-cola-24x70ml-24-pack-7034099",
+    "name": "Zooper Dooper Cola 24x70mL | 24 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7034099.jpg&w=640&q=90",
+    "source_id": "7034099",
+    "barcode": "9310113905477",
+    "shop": "coles",
+    "category_id": "22826",
+    "weight": "24pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "pack"
+      }
+    ]
+  }
+]

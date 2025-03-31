@@ -1,0 +1,50 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-strawberries-premium-350g-5707745",
+    "name": "Coles Strawberries Premium | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5707745.jpg&w=640&q=90",
+    "source_id": "5707745",
+    "barcode": "9342373000456",
+    "shop": "coles",
+    "category_id": "22355",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "2143",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "2143",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "2143",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "2143",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "2143",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "2143",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

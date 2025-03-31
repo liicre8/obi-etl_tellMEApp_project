@@ -1,0 +1,92 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/482440/clearblue-trying-to-get-pregnant-kit-10-ovulation-1-pregnancy-test",
+    "name": "Clearblue Trying To Get Pregnant Kit 10 Ovulation & 1 Pregnancy Test each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/482440.jpg",
+    "source_id": "482440",
+    "barcode": "4987176212023",
+    "shop": "Woolworths",
+    "category_id": "23895",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4000",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/275790/clearblue-visual-early-detect-pregnancy-tests",
+    "name": "Clearblue Visual Early Detect Pregnancy Tests 7 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/275790.jpg",
+    "source_id": "275790",
+    "barcode": "4987176178510",
+    "shop": "Woolworths",
+    "category_id": "23895",
+    "weight": "7 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3600",
+        "price_per_unit": "514",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/208519/first-response-pregnancy-test-dip-read",
+    "name": "First Response Pregnancy Test Dip Read 3 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/208519.jpg",
+    "source_id": "208519",
+    "barcode": "9310320000224",
+    "shop": "Woolworths",
+    "category_id": "23895",
+    "weight": "3 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1280",
+        "price_per_unit": "427",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/136788/nvita-pregnancy-hcg-test-kit",
+    "name": "Nvita Pregnancy Hcg Test Kit 3 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/136788.jpg",
+    "source_id": "136788",
+    "barcode": "9346720009901",
+    "shop": "Woolworths",
+    "category_id": "23895",
+    "weight": "3 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/136477/nvita-pregnancy-hcg-test-kit",
+    "name": "Nvita Pregnancy Hcg Test Kit Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/136477.jpg",
+    "source_id": "136477",
+    "barcode": "9346720009895",
+    "shop": "Woolworths",
+    "category_id": "23895",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

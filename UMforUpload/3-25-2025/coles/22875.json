@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/san-remo-couscous-500g-6079397",
+    "name": "San Remo CousCous | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6079397.jpg&w=640&q=90",
+    "source_id": "6079397",
+    "barcode": "9310155305037",
+    "shop": "coles",
+    "category_id": "22875",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "60",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cous-cous-500g-8641268",
+    "name": "Coles Cous Cous | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8641268.jpg&w=640&q=90",
+    "source_id": "8641268",
+    "barcode": "9310645368078",
+    "shop": "coles",
+    "category_id": "22875",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "40",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

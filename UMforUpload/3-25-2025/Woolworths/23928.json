@@ -1,0 +1,56 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/125302/chux-extra-comfort-gloves-sensitive-skin-large",
+    "name": "Chux Extra Comfort Gloves Sensitive Skin Large 1 Pair",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/125302.jpg",
+    "source_id": "125302",
+    "barcode": "9318191901008",
+    "shop": "Woolworths",
+    "category_id": "23928",
+    "weight": "1 Pair",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/125331/chux-extra-comfort-gloves-sensitive-skin-medium",
+    "name": "Chux Extra Comfort Gloves Sensitive Skin Medium 1 Pair",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/125331.jpg",
+    "source_id": "125331",
+    "barcode": "9318191901015",
+    "shop": "Woolworths",
+    "category_id": "23928",
+    "weight": "1 Pair",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/125305/chux-extra-comfort-gloves-sensitive-skin-small",
+    "name": "Chux Extra Comfort Gloves Sensitive Skin Small 1 Pair",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/125305.jpg",
+    "source_id": "125305",
+    "barcode": "9318191901022",
+    "shop": "Woolworths",
+    "category_id": "23928",
+    "weight": "1 Pair",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

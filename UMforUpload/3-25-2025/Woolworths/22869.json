@@ -1,0 +1,452 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/47893/annalisa-beans-borlotti",
+    "name": "Annalisa Beans Borlotti 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/047893.jpg",
+    "source_id": "47893",
+    "barcode": "8002560070709",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/47882/annalisa-beans-cannellini",
+    "name": "Annalisa Beans Cannellini 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/047882.jpg",
+    "source_id": "47882",
+    "barcode": "8002560150708",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/106193/annalisa-butter-beans-butter-lima",
+    "name": "Annalisa Butter Beans 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/106193.jpg",
+    "source_id": "106193",
+    "barcode": "8002560060700",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178262/annalisa-chickpeas",
+    "name": "Annalisa Chickpeas 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/178262.jpg",
+    "source_id": "178262",
+    "barcode": "8002560020704",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/195100/annalisa-lentils",
+    "name": "Annalisa Lentils 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/195100.jpg",
+    "source_id": "195100",
+    "barcode": "8002560120701",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/292952/edgell-snack-time-chickpeas-with-lemon-tahini-garlic",
+    "name": "Edgell Snack Time Chickpeas With Lemon, Tahini & Garlic 70g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/292952.jpg",
+    "source_id": "292952",
+    "barcode": "9310082133185",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "70g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "2286",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/779953/edgell-snack-time-sweet-corn-with-smoked-paprika-salt-pepper",
+    "name": "Edgell Snack Time Sweet Corn With Smoked Paprika Salt & Pepper 70g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/779953.jpg",
+    "source_id": "779953",
+    "barcode": "9310082135141",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "70g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "2286",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/70432/macro-organic-adzuki-beans",
+    "name": "Macro Organic Adzuki Beans 420g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/070432.jpg",
+    "source_id": "70432",
+    "barcode": "9339687137190",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "420G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "357",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/663584/macro-organic-black-bean-no-added-salt",
+    "name": "Macro Organic Black Bean No Added Salt 420g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/663584.jpg",
+    "source_id": "663584",
+    "barcode": "9339687011278",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "420G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "357",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/70271/macro-organic-borlotti-beans-no-added-salt",
+    "name": "Macro Organic Borlotti Beans No Added Salt 420g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/070271.jpg",
+    "source_id": "70271",
+    "barcode": "9339687137183",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "420G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "135",
+        "price_per_unit": "321",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/700639/macro-organic-cannellini-beans",
+    "name": "Macro Organic Cannellini Beans 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/700639.jpg",
+    "source_id": "700639",
+    "barcode": "9300633227289",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "353",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/700638/macro-organic-chickpeas",
+    "name": "Macro Organic Chickpeas 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/700638.jpg",
+    "source_id": "700638",
+    "barcode": "9300633227272",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "425G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "353",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/771216/macro-organic-lentils",
+    "name": "Macro Organic Lentils 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/771216.jpg",
+    "source_id": "771216",
+    "barcode": "9300633454296",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "425G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "353",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/70433/macro-organic-pinto-beans",
+    "name": "Macro Organic Pinto Beans 420g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/070433.jpg",
+    "source_id": "70433",
+    "barcode": "9339687137206",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "420G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "357",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/740764/mckenzie-s-cannellini-beans",
+    "name": "McKenzie's Cannellini Beans 380g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/740764.jpg",
+    "source_id": "740764",
+    "barcode": "9310061126641",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "380g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "289",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/699489/mckenzie-s-chick-peas",
+    "name": "McKenzie's Chick Peas 380g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/699489.jpg",
+    "source_id": "699489",
+    "barcode": "9310061126610",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "380g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "289",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/741560/mckenzie-s-lentils",
+    "name": "McKenzie's Lentils 380g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/741560.jpg",
+    "source_id": "741560",
+    "barcode": "9310061126634",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "380g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "289",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/741703/mckenzie-s-red-kidney-beans",
+    "name": "McKenzie's Red Kidney Beans 380g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/741703.jpg",
+    "source_id": "741703",
+    "barcode": "9310061126603",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "380g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "289",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/699487/mckenzie-s-three-bean-mix",
+    "name": "McKenzie's Three Bean Mix 380g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/699487.jpg",
+    "source_id": "699487",
+    "barcode": "9310061126627",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "380g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "289",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/677888/sandhurst-black-beans",
+    "name": "Sandhurst Black Beans 380g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/677888.jpg",
+    "source_id": "677888",
+    "barcode": "9313839014034",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "380g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "289",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/682518/sandhurst-chick-peas",
+    "name": "Sandhurst Chick Peas 380g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/682518.jpg",
+    "source_id": "682518",
+    "barcode": "9313839014058",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "380g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "289",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/682723/sandhurst-lentils",
+    "name": "Sandhurst Lentils 380g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/682723.jpg",
+    "source_id": "682723",
+    "barcode": "9313839014065",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "380g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "289",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/676850/sandhurst-red-kidney-beans",
+    "name": "Sandhurst Red Kidney Beans 380g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/676850.jpg",
+    "source_id": "676850",
+    "barcode": "9313839014041",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "380g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "289",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/259399/woolworths-chickpeas-no-added-salt",
+    "name": "Woolworths Chickpeas No Added Salt 420g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/259399.jpg",
+    "source_id": "259399",
+    "barcode": "9300633951320",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "420G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "262",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/259400/woolworths-lentils-no-added-salt",
+    "name": "Woolworths Lentils No Added Salt 420g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/259400.jpg",
+    "source_id": "259400",
+    "barcode": "9300633951337",
+    "shop": "Woolworths",
+    "category_id": "22869",
+    "weight": "420G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "262",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

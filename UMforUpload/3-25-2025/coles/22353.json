@@ -1,0 +1,794 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-smitten-apples-approx.170g-each-2385325",
+    "name": "Coles Smitten Apples | approx.170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2385325.jpg&w=640&q=90",
+    "source_id": "2385325",
+    "barcode": "9322288005883",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "approx.170geach",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "590",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "100",
+        "price_per_unit": "590",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "590",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "590",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "590",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "590",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "100",
+        "price_per_unit": "590",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-apples-mini-1kg-1-each-2511678",
+    "name": "Coles Apples Mini 1kg | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2511678.jpg&w=640&q=90",
+    "source_id": "2511678",
+    "barcode": "9300601930111",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-modi-apples-1-each-2832762",
+    "name": "Coles Modi Apples | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2832762.jpg&w=640&q=90",
+    "source_id": "2832762",
+    "barcode": "9329278001832",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-smitten-apples-1kg-1-each-3214500",
+    "name": "Coles Smitten Apples 1kg | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3214500.jpg&w=640&q=90",
+    "source_id": "3214500",
+    "barcode": "9322288004329",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-i'm-perfect-apples-prepacked-2kg-3586446",
+    "name": "Coles I'M Perfect Apples Prepacked | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3586446.jpg&w=640&q=90",
+    "source_id": "3586446",
+    "barcode": "9310645263793",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "590",
+        "price_per_unit": "295",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "590",
+        "price_per_unit": "295",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-honey-belle-pears-approx.-170g-3773013",
+    "name": "Coles Honey Belle Pears | approx. 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3773013.jpg&w=640&q=90",
+    "source_id": "3773013",
+    "barcode": "9352717000103",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "83",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-honey-belle-pears-750g-1-each-3773647",
+    "name": "Coles Honey Belle Pears 750g | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3773647.jpg&w=640&q=90",
+    "source_id": "3773647",
+    "barcode": "9329278002716",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "467",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-red-sienna-pride-pears-approx.-200g-each-3780370",
+    "name": "Fresh Red Sienna Pride Pears | approx. 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3780370.jpg&w=640&q=90",
+    "source_id": "3780370",
+    "barcode": "9347517000569",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "200geach",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "64",
+        "price_per_unit": "320",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "80",
+        "price_per_unit": "400",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-red-delicious-apples-loose-approx.-180g-each-409251",
+    "name": "Coles Red Delicious Apples Loose | approx. 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F409251.jpg&w=640&q=90",
+    "source_id": "409251",
+    "barcode": "9369998122851",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "180geach",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "88",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-golden-delicious-apples-approx.-180g-each-409295",
+    "name": "Coles Golden Delicious Apples | approx. 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F409295.jpg&w=640&q=90",
+    "source_id": "409295",
+    "barcode": "9369998324453",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "180geach",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "99",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "106",
+        "price_per_unit": "590",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "99",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-oranges-approx.-200g-each-4352291",
+    "name": "Coles Organic Oranges | approx. 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4352291.jpg&w=640&q=90",
+    "source_id": "4352291",
+    "barcode": "9321444889459",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "200geach",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "130",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "130",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "130",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-golden-delicious-apples-1kg-4432095",
+    "name": "Coles Golden Delicious Apples | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4432095.jpg&w=640&q=90",
+    "source_id": "4432095",
+    "barcode": "9300601524471",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-josephine-pears-approx.-230g-444503",
+    "name": "Coles Josephine Pears | approx. 230g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F444503.jpg&w=640&q=90",
+    "source_id": "444503",
+    "barcode": "9352773000178",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "230g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "138",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "138",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "138",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "138",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-in-conv-apple-granny-smith-1kg-4678222",
+    "name": "Coles Organic In Conv Apple Granny Smith | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4678222.jpg&w=640&q=90",
+    "source_id": "4678222",
+    "barcode": "9342446001014",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-mini-melon-approx.-1.8kg-each-4764299",
+    "name": "Coles Organic Mini Melon | approx. 1.8kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4764299.jpg&w=640&q=90",
+    "source_id": "4764299",
+    "barcode": "9358900000028",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "1.8kgeach",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "864",
+        "price_per_unit": "480",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "864",
+        "price_per_unit": "480",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-plums-prepacked-500g-4981923",
+    "name": "Coles Organic Plums Prepacked | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4981923.jpg&w=640&q=90",
+    "source_id": "4981923",
+    "barcode": "9369999041267",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "1320",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "890",
+        "price_per_unit": "1780",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "660",
+        "price_per_unit": "1320",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-pears-1kg-5162214",
+    "name": "Coles Organic Pears | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5162214.jpg&w=640&q=90",
+    "source_id": "5162214",
+    "barcode": "9347517000873",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-fuji-apples-medium-approx.-180g-each-5226011",
+    "name": "Coles Fuji Apples Medium | approx. 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5226011.jpg&w=640&q=90",
+    "source_id": "5226011",
+    "barcode": "9369999094065",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "180geach",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "70",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "70",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "88",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "99",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "70",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "99",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-i'm-perfect-pears-prepacked-1.5kg-5629266",
+    "name": "Coles I'M Perfect Pears Prepacked | 1.5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5629266.jpg&w=640&q=90",
+    "source_id": "5629266",
+    "barcode": "9310645390949",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "1.5kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "260",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "327",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "327",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "SA",
+        "price": "590",
+        "price_per_unit": "393",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "TAS",
+        "price": "590",
+        "price_per_unit": "393",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "327",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NT",
+        "price": "590",
+        "price_per_unit": "393",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-modi-apples-approx.-180g-each-5899409",
+    "name": "Coles Modi Apples | approx. 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5899409.jpg&w=640&q=90",
+    "source_id": "5899409",
+    "barcode": "9329278002624",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "180geach",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "88",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "88",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "88",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "88",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "88",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "88",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "88",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-apples-500g-6409797",
+    "name": "Coles Organic Apples | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6409797.jpg&w=640&q=90",
+    "source_id": "6409797",
+    "barcode": "9310645414089",
+    "shop": "coles",
+    "category_id": "22353",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

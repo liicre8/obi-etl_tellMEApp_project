@@ -1,0 +1,200 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/893887/chobani-long-life-oat-milk-chocolate",
+    "name": "Chobani Long Life Oat Milk Chocolate 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/893887.jpg",
+    "source_id": "893887",
+    "barcode": "9310653106600",
+    "shop": "Woolworths",
+    "category_id": "23843",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/893882/chobani-long-life-oat-milk-original",
+    "name": "Chobani Long Life Oat Milk Original 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/893882.jpg",
+    "source_id": "893882",
+    "barcode": "9310653106617",
+    "shop": "Woolworths",
+    "category_id": "23843",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/701667/macro-organic-rice-milk",
+    "name": "Macro Organic Rice Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/701667.jpg",
+    "source_id": "701667",
+    "barcode": "9300633226961",
+    "shop": "Woolworths",
+    "category_id": "23843",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/155063/minor-figures-barista-organic-oat-milk-uht-organic-milk",
+    "name": "Minor Figures Barista Organic Oat Milk 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/155063.jpg",
+    "source_id": "155063",
+    "barcode": "5060406081008",
+    "shop": "Woolworths",
+    "category_id": "23843",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/242968/minor-figures-everyday-oat-milk",
+    "name": "Minor Figures Everyday Oat Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/242968.jpg",
+    "source_id": "242968",
+    "barcode": "5060406081442",
+    "shop": "Woolworths",
+    "category_id": "23843",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "295",
+        "price_per_unit": "295",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/847038/oatly-oat-milk-chocolate",
+    "name": "Oatly! Oat Milk Chocolate 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/847038.jpg",
+    "source_id": "847038",
+    "barcode": "7394376617409",
+    "shop": "Woolworths",
+    "category_id": "23843",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/265260/oatly-oat-milk-vanilla",
+    "name": "Oatly! Oat Milk Vanilla 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/265260.jpg",
+    "source_id": "265260",
+    "barcode": "7394376620607",
+    "shop": "Woolworths",
+    "category_id": "23843",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/203577/pure-harvest-organic-oat-creamy",
+    "name": "Pure Harvest Organic Oat Creamy 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/203577.jpg",
+    "source_id": "203577",
+    "barcode": "9312231221538",
+    "shop": "Woolworths",
+    "category_id": "23843",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/86298/pureharvest-organic-oat-milk",
+    "name": "Pureharvest Organic Oat Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/086298.jpg",
+    "source_id": "86298",
+    "barcode": "9312231222023",
+    "shop": "Woolworths",
+    "category_id": "23843",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/148781/vitasoy-oat-milky-uht-milk",
+    "name": "Vitasoy Oat Milky UHT Milk 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/148781.jpg",
+    "source_id": "148781",
+    "barcode": "9341650001599",
+    "shop": "Woolworths",
+    "category_id": "23843",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/209424/vitasoy-rice-milk",
+    "name": "Vitasoy Rice Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/209424.jpg",
+    "source_id": "209424",
+    "barcode": "9310232100401",
+    "shop": "Woolworths",
+    "category_id": "23843",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

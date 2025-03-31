@@ -1,0 +1,218 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/140267/asp-scottish-fish-kippers",
+    "name": "ASP Scottish Fish Kippers 335g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/140267.jpg",
+    "source_id": "140267",
+    "barcode": "9318312500547",
+    "shop": "Woolworths",
+    "category_id": "22761",
+    "weight": "335g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "2537",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/905726/better-choice-fisheries-australian-whiting-fillets",
+    "name": "Better Choice Fisheries Australian Whiting Fillets 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/905726.jpg",
+    "source_id": "905726",
+    "barcode": "9319270001473",
+    "shop": "Woolworths",
+    "category_id": "22761",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "4333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/399584/humpty-doo-australian-saltwater-barramundi",
+    "name": "Humpty Doo Australian Saltwater Barramundi 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/399584.jpg",
+    "source_id": "399584",
+    "barcode": "9357156000073",
+    "shop": "Woolworths",
+    "category_id": "22761",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "4167",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/394858/just-caught-skinless-basa-fillets-frozen",
+    "name": "Just Caught Skinless Basa Fillets Frozen 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/394858.jpg",
+    "source_id": "394858",
+    "barcode": "9315822020312",
+    "shop": "Woolworths",
+    "category_id": "22761",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/346571/just-caught-whiting-fillets-skin-on",
+    "name": "Just Caught Whiting Fillets Skin On 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/346571.jpg",
+    "source_id": "346571",
+    "barcode": "9315822002394",
+    "shop": "Woolworths",
+    "category_id": "22761",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/247612/ocean-chef-fish-barramundi-portions-skin-on",
+    "name": "Ocean Chef Fish Barramundi Portions Skin On 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/247612.jpg",
+    "source_id": "247612",
+    "barcode": "9323015021930",
+    "shop": "Woolworths",
+    "category_id": "22761",
+    "weight": "10 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/794638/ocean-chef-fish-king-snapper-portions",
+    "name": "Ocean Chef Fish King Snapper Portions 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/794638.jpg",
+    "source_id": "794638",
+    "barcode": "9323015014413",
+    "shop": "Woolworths",
+    "category_id": "22761",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/665989/ocean-chef-hoki-fillets",
+    "name": "Ocean Chef Hoki Fillets 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/665989.jpg",
+    "source_id": "665989",
+    "barcode": "9323015017827",
+    "shop": "Woolworths",
+    "category_id": "22761",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/682485/ocean-chef-south-american-flathead-fillets",
+    "name": "Ocean Chef South American Flathead Fillets 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/682485.jpg",
+    "source_id": "682485",
+    "barcode": "9323015018183",
+    "shop": "Woolworths",
+    "category_id": "22761",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/782001/ocean-chef-tuna-yellowfin-tuna-steaks",
+    "name": "Ocean Chef Tuna Yellowfin Tuna Steaks 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/782001.jpg",
+    "source_id": "782001",
+    "barcode": "9323015014031",
+    "shop": "Woolworths",
+    "category_id": "22761",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/664737/woolworths-frozen-barramundi",
+    "name": "Woolworths Frozen Barramundi 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/664737.jpg",
+    "source_id": "664737",
+    "barcode": "9339687013456",
+    "shop": "Woolworths",
+    "category_id": "22761",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2090",
+        "price_per_unit": "2090",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/445352/woolworths-frozen-basa-fillets",
+    "name": "Woolworths Frozen Basa Fillets 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/445352.jpg",
+    "source_id": "445352",
+    "barcode": "9300633582449",
+    "shop": "Woolworths",
+    "category_id": "22761",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

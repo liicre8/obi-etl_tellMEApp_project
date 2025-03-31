@@ -1,0 +1,740 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/58576/always-fresh-green-peppercorns",
+    "name": "Always Fresh Green Peppercorns 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/058576.jpg",
+    "source_id": "58576",
+    "barcode": "9300602363758",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "35",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85821/cornish-salt-co-sea-salt-flakes",
+    "name": "Cornish Salt Co Sea Salt Flakes 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085821.jpg",
+    "source_id": "85821",
+    "barcode": "5060155200132",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "37",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/758501/essentials-iodised-salt",
+    "name": "Essentials Iodised Salt 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/758501.jpg",
+    "source_id": "758501",
+    "barcode": "9300633423209",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "295",
+        "price_per_unit": "3",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/204373/essentials-iodised-table-salt-drum",
+    "name": "Essentials Iodised Table Salt Drum 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/204373.jpg",
+    "source_id": "204373",
+    "barcode": "9300633004897",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "4",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37687/essentials-table-salt",
+    "name": "Essentials Table Salt 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/037687.jpg",
+    "source_id": "37687",
+    "barcode": "9300633376871",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "2",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/262729/heart-salt-chicken-salt",
+    "name": "Heart Salt Chicken Salt 130g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/262729.jpg",
+    "source_id": "262729",
+    "barcode": "9349754000975",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "130g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "23",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/262816/heart-salt-table-salt",
+    "name": "Heart Salt Table Salt 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/262816.jpg",
+    "source_id": "262816",
+    "barcode": "9349754000968",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "20",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6010296/mckenzie-s-fine-sea-salt",
+    "name": "McKenzie's Fine Sea Salt 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6010296.jpg",
+    "source_id": "6010296",
+    "barcode": "9310061127006",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "16",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6014404/mckenzie-s-ground-white-pepper",
+    "name": "McKenzie's Ground White Pepper 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6014404.jpg",
+    "source_id": "6014404",
+    "barcode": "9310061127037",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6010781/mckenzie-s-iodised-fine-sea-salt",
+    "name": "McKenzie's Iodised Fine Sea Salt 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6010781.jpg",
+    "source_id": "6010781",
+    "barcode": "9310061127013",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "16",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/320992/mckenzie-s-natural-salt-sea",
+    "name": "McKenzie's Natural Salt Sea 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/320992.jpg",
+    "source_id": "320992",
+    "barcode": "9310061967213",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "595",
+        "price_per_unit": "15",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6010216/mckenzie-s-natural-sea-salt",
+    "name": "McKenzie's Natural Sea Salt 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6010216.jpg",
+    "source_id": "6010216",
+    "barcode": "9310061126955",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/320995/mckenzie-s-pepper-black-corns-blended",
+    "name": "McKenzie's Pepper Black Corns Blended 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/320995.jpg",
+    "source_id": "320995",
+    "barcode": "9310061967251",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "595",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/75194/mckenzie-s-pepper-black-ground",
+    "name": "McKenzie's Pepper Black Ground 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/075194.jpg",
+    "source_id": "75194",
+    "barcode": "9310061390400",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "42",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/75202/mckenzie-s-pepper-white-ground",
+    "name": "McKenzie's Pepper White Ground 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/075202.jpg",
+    "source_id": "75202",
+    "barcode": "9310061386809",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "42",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/415808/melach-kosher-fine-sea-salt",
+    "name": "Melach Kosher Fine Sea Salt 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/415808.jpg",
+    "source_id": "415808",
+    "barcode": "9359217000022",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1190",
+        "price_per_unit": "24",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/416341/melach-kosher-large-sea-salt-flakes",
+    "name": "Melach Kosher Large Sea Salt Flakes 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/416341.jpg",
+    "source_id": "416341",
+    "barcode": "9359217000039",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1320",
+        "price_per_unit": "26",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/58611/mitani-chicken-salt",
+    "name": "Mitani Chicken Salt 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/058611.jpg",
+    "source_id": "58611",
+    "barcode": "9315404002019",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "19",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/240568/murray-river-salt-flakes",
+    "name": "Murray River Salt Flakes 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/240568.jpg",
+    "source_id": "240568",
+    "barcode": "9332191000127",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "150G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "47",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/197121/natural-black-peppercorn-ceramic-grinder",
+    "name": "Natural Black Peppercorn Ceramic Grinder 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/197121.jpg",
+    "source_id": "197121",
+    "barcode": "837038000159",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "50G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/445342/natural-ceramic-grinder-himalayan-rock-salt",
+    "name": "Natural Ceramic Grinder Himalayan Rock Salt 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/445342.jpg",
+    "source_id": "445342",
+    "barcode": "837038000500",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "53",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/500876/natural-large-black-peppercorns-grinder",
+    "name": "Natural Large Black Peppercorns Grinder 130g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/500876.jpg",
+    "source_id": "500876",
+    "barcode": "9328418000773",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "130g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "46",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/498387/natural-large-himalayan-salt-grinder",
+    "name": "Natural Large Himalayan Salt Grinder 260g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/498387.jpg",
+    "source_id": "498387",
+    "barcode": "9328418000766",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "260g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "23",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/494627/natural-large-sea-salt-grinder",
+    "name": "Natural Large Sea Salt Grinder 260g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/494627.jpg",
+    "source_id": "494627",
+    "barcode": "9328418000759",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "260g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "23",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/306491/saxa-natural-australian-salt-traditional-cooking-seasoning",
+    "name": "Saxa Natural Australian Salt Traditional Cooking Seasoning 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/306491.jpg",
+    "source_id": "306491",
+    "barcode": "9310412000934",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "3",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/306486/saxa-natural-australian-salt-traditional-cooking-seasoning",
+    "name": "Saxa Natural Australian Salt Traditional Cooking Seasoning 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/306486.jpg",
+    "source_id": "306486",
+    "barcode": "9310412001597",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "2",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/63667/saxa-picnic-pack-iodised-table-salt",
+    "name": "Saxa Picnic Pack Iodised Table Salt 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/063667.jpg",
+    "source_id": "63667",
+    "barcode": "93352246",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "125G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "22",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/445775/saxa-refill-value-pack-natural-pink-himalayan-rock-salt",
+    "name": "Saxa Refill Value Pack Natural Pink Himalayan Rock Salt 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/445775.jpg",
+    "source_id": "445775",
+    "barcode": "9310412001283",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "10",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/306497/saxa-refill-value-pack-natural-rock-salt",
+    "name": "Saxa Refill Value Pack Natural Rock Salt 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/306497.jpg",
+    "source_id": "306497",
+    "barcode": "9310412001733",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "6",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/43115/saxa-table-salt-picnic-pack-picnic-pack",
+    "name": "Saxa Table Salt Picnic Pack 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/043115.jpg",
+    "source_id": "43115",
+    "barcode": "93201704",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "125G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "22",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/345832/woolworths-black-peppercorn-refillable-grinder",
+    "name": "Woolworths Black Peppercorn Refillable Grinder 124g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/345832.jpg",
+    "source_id": "345832",
+    "barcode": "9339687349487",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "124g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "52",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/476442/woolworths-himalayan-pink-fine-table-salt",
+    "name": "Woolworths Himalayan Pink Fine Table Salt 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/476442.jpg",
+    "source_id": "476442",
+    "barcode": "9300633584481",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "4",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/476441/woolworths-himalayan-pink-fine-table-salt",
+    "name": "Woolworths Himalayan Pink Fine Table Salt 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/476441.jpg",
+    "source_id": "476441",
+    "barcode": "9300633584474",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "750G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "6",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/476440/woolworths-himalayan-pink-salt-fine-cut-shaker",
+    "name": "Woolworths Himalayan Pink Salt Fine Cut Shaker 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/476440.jpg",
+    "source_id": "476440",
+    "barcode": "9300633584467",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "125G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "26",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/386603/woolworths-himalayan-pink-salt-refill",
+    "name": "Woolworths Himalayan Pink Salt Refill 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/386603.jpg",
+    "source_id": "386603",
+    "barcode": "9339687354511",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "7",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/345824/woolworths-himalayan-pink-salt-refillable-grinder",
+    "name": "Woolworths Himalayan Pink Salt Refillable Grinder 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/345824.jpg",
+    "source_id": "345824",
+    "barcode": "9339687349463",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "26",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/334639/woolworths-pepper-grinder-black-peppercorn",
+    "name": "Woolworths Pepper Grinder Black Peppercorn 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/334639.jpg",
+    "source_id": "334639",
+    "barcode": "9300633999544",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "50G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "80",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/887994/woolworths-pink-himalayan-salt-grinder",
+    "name": "Woolworths Pink Himalayan Salt Grinder 110g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/887994.jpg",
+    "source_id": "887994",
+    "barcode": "9300633557065",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "110G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "33",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/887995/woolworths-sea-salt-grinder",
+    "name": "Woolworths Sea Salt Grinder 110g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/887995.jpg",
+    "source_id": "887995",
+    "barcode": "9300633557072",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "110G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "36",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/386604/woolworths-sea-salt-refill",
+    "name": "Woolworths Sea Salt Refill 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/386604.jpg",
+    "source_id": "386604",
+    "barcode": "9339687354528",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "4",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/345716/woolworths-sea-salt-refillable-grinder",
+    "name": "Woolworths Sea Salt Refillable Grinder 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/345716.jpg",
+    "source_id": "345716",
+    "barcode": "9339687349500",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "26",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

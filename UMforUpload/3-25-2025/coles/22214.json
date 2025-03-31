@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/carlton-zero-can-375ml-4-pack-3269476",
+    "name": "Carlton Zero Can 375mL | 4 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3269476.jpg&w=640&q=90",
+    "source_id": "3269476",
+    "barcode": "9320000503938",
+    "shop": "coles",
+    "category_id": "22214",
+    "weight": "4pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "860",
+        "price_per_unit": "573",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/carlton-zero-bottle-330ml-24-pack-3346078",
+    "name": "Carlton Zero Bottle 330mL | 24 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3346078.jpg&w=640&q=90",
+    "source_id": "3346078",
+    "barcode": "9320000504003",
+    "shop": "coles",
+    "category_id": "22214",
+    "weight": "24pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4600",
+        "price_per_unit": "581",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/carlton-zero-bottle-330ml-6-pack-3346089",
+    "name": "Carlton Zero Bottle 330mL | 6 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3346089.jpg&w=640&q=90",
+    "source_id": "3346089",
+    "barcode": "9320000503990",
+    "shop": "coles",
+    "category_id": "22214",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "606",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/great-northern-zero-can-375ml-6-pack-4406142",
+    "name": "Great Northern Zero Can 375mL | 6 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4406142.jpg&w=640&q=90",
+    "source_id": "4406142",
+    "barcode": "9320000508629",
+    "shop": "coles",
+    "category_id": "22214",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1080",
+        "price_per_unit": "480",
+        "price_unit": "pack"
+      }
+    ]
+  }
+]

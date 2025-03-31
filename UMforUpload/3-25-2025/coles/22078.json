@@ -1,0 +1,128 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-croissants-12-pack-900g-2067341",
+    "name": "Coles Croissants 12 Pack | 900g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2067341.jpg&w=640&q=90",
+    "source_id": "2067341",
+    "barcode": "9336047000347",
+    "shop": "coles",
+    "category_id": "22078",
+    "weight": "900g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "139",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/laurent-almond-croissant-1-each-5792926",
+    "name": "Laurent Almond Croissant | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5792926.jpg&w=640&q=90",
+    "source_id": "5792926",
+    "barcode": "9328282014197",
+    "shop": "coles",
+    "category_id": "22078",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-mini-pain-au-choc-8-pack-240g-6397009",
+    "name": "Coles Mini Pain Au Choc 8 pack | 240g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6397009.jpg&w=640&q=90",
+    "source_id": "6397009",
+    "barcode": "9310645355047",
+    "shop": "coles",
+    "category_id": "22078",
+    "weight": "240g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "425",
+        "price_per_unit": "177",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-croissants-3-pack-189g-7266287",
+    "name": "Coles Croissants 3 Pack | 189g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7266287.jpg&w=640&q=90",
+    "source_id": "7266287",
+    "barcode": "9300601393770",
+    "shop": "coles",
+    "category_id": "22078",
+    "weight": "189g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "295",
+        "price_per_unit": "156",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-all-butter-croissants-4-pack-168g-7266367",
+    "name": "Coles All Butter Croissants 4 Pack | 168g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7266367.jpg&w=640&q=90",
+    "source_id": "7266367",
+    "barcode": "9300601393763",
+    "shop": "coles",
+    "category_id": "22078",
+    "weight": "168g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "295",
+        "price_per_unit": "176",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-mini-croissants-160g-9933564",
+    "name": "Coles Mini Croissants | 160g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9933564.jpg&w=640&q=90",
+    "source_id": "9933564",
+    "barcode": "9300601767755",
+    "shop": "coles",
+    "category_id": "22078",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "288",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-pain-au-chocolate-4-pack-220g-9933713",
+    "name": "Coles Pain Au Chocolate 4 Pack | 220g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9933713.jpg&w=640&q=90",
+    "source_id": "9933713",
+    "barcode": "9300601767762",
+    "shop": "coles",
+    "category_id": "22078",
+    "weight": "220g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "425",
+        "price_per_unit": "193",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

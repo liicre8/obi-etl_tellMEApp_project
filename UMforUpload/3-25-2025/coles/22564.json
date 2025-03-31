@@ -1,0 +1,596 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/glad-regular-oven-bags-25cm-x-38cm-5-pack-106726",
+    "name": "Glad Regular Oven Bags 25cm X 38cm | 5 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F106726.jpg&w=640&q=90",
+    "source_id": "106726",
+    "barcode": "9310050012009",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "5pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-extra-large-oven-bags-4-pack-2362192",
+    "name": "Coles Extra Large Oven Bags | 4 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2362192.jpg&w=640&q=90",
+    "source_id": "2362192",
+    "barcode": "9310645327778",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "4pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "50",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hercules-click-zip-sandwich-bags-100-pack-2858766",
+    "name": "Hercules Click Zip Sandwich Bags | 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2858766.jpg&w=640&q=90",
+    "source_id": "2858766",
+    "barcode": "9322596008750",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "5",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/glad-cling-wrap-150m-x-33cm-150m-309461",
+    "name": "Glad Cling Wrap 150m x 33cm | 150m",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F309461.jpg&w=640&q=90",
+    "source_id": "309461",
+    "barcode": "9310050000068",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "150m",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "945",
+        "price_per_unit": "6",
+        "price_unit": "m"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bags-freezer-large-40-pack-324997",
+    "name": "Coles Bags Freezer Large | 40 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F324997.jpg&w=640&q=90",
+    "source_id": "324997",
+    "barcode": "9310645327143",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "40pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "80",
+        "price_per_unit": "2",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bags-freezer-medium-80-pack-325005",
+    "name": "Coles Bags Freezer Medium | 80 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F325005.jpg&w=640&q=90",
+    "source_id": "325005",
+    "barcode": "9310645327136",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "80pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "90",
+        "price_per_unit": "1",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hercules-twinzip-resealable-medium-storage-bags-15-pack-3364794",
+    "name": "Hercules Twinzip Resealable Medium Storage Bags | 15 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3364794.jpg&w=640&q=90",
+    "source_id": "3364794",
+    "barcode": "9322596008545",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "15pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "20",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hercules-resealable-value-pack-sandwich-bags-200-pack-3364808",
+    "name": "Hercules Resealable Value Pack Sandwich Bags | 200 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3364808.jpg&w=640&q=90",
+    "source_id": "3364808",
+    "barcode": "9322596009207",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "200pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": "4",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-pillow-sandwich-bags-150-pack-3509478",
+    "name": "Coles Pillow Sandwich Bags | 150 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3509478.jpg&w=640&q=90",
+    "source_id": "3509478",
+    "barcode": "9310645260242",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "150pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "120",
+        "price_per_unit": "1",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-resealable-slider-bags-25-pack-3591956",
+    "name": "Coles Resealable Slider Bags | 25 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3591956.jpg&w=640&q=90",
+    "source_id": "3591956",
+    "barcode": "9310645275376",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "25pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "15",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/glad-large-oven-bags-4-pack-385594",
+    "name": "Glad Large Oven Bags | 4 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F385594.jpg&w=640&q=90",
+    "source_id": "385594",
+    "barcode": "9310050012030",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "4pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "63",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/multix-greener-plant-based-cling-wrap-20m-1-pack-3975186",
+    "name": "Multix Greener Plant Based Cling wrap 20m | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3975186.jpg&w=640&q=90",
+    "source_id": "3975186",
+    "barcode": "9310049700375",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "12",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ziploc-medium-resealable-food-storage-freezer-bags-19-pack-3975594",
+    "name": "Ziploc Medium Resealable Food Storage Freezer Bags | 19 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3975594.jpg&w=640&q=90",
+    "source_id": "3975594",
+    "barcode": "9300622002330",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "19pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "23",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ziploc-large-resealable-food-storage-freezer-bags-14-pack-3975608",
+    "name": "Ziploc Large Resealable Food Storage Freezer Bags | 14 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3975608.jpg&w=640&q=90",
+    "source_id": "3975608",
+    "barcode": "9300622002347",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "14pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "31",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/multix-large-freezer-bags-45cm-x-30cm-40-pack-397775",
+    "name": "Multix Large Freezer Bags 45cm x 30cm | 40 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F397775.jpg&w=640&q=90",
+    "source_id": "397775",
+    "barcode": "9310049313230",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "40pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "8",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/multix-medium-freezer-bags-80-pack-397786",
+    "name": "Multix Medium Freezer Bags | 80 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F397786.jpg&w=640&q=90",
+    "source_id": "397786",
+    "barcode": "9310049313223",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "80pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "4",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/multix-small-freezer-bags-120-pack-429306",
+    "name": "Multix Small Freezer Bags | 120 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F429306.jpg&w=640&q=90",
+    "source_id": "429306",
+    "barcode": "9310049313216",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "120pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "3",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-brown-paper-lunch-bags-100-pack-4485105",
+    "name": "Coles Brown Paper Lunch Bags | 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4485105.jpg&w=640&q=90",
+    "source_id": "4485105",
+    "barcode": "9300601246069",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "4",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cling-wrap-super-stretch-30-metre-4486040",
+    "name": "Coles Cling Wrap Super Stretch | 30 metre",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4486040.jpg&w=640&q=90",
+    "source_id": "4486040",
+    "barcode": "9310645327150",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "30metre",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "7",
+        "price_unit": "metre"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cling-wrap-super-stretch-60-metre-4486163",
+    "name": "Coles Cling Wrap Super Stretch | 60 metre",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4486163.jpg&w=640&q=90",
+    "source_id": "4486163",
+    "barcode": "9310645327167",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "60metre",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "6",
+        "price_unit": "metre"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-small-resealable-storage-bags-50-pack-4486356",
+    "name": "Coles Small Resealable Storage Bags | 50 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4486356.jpg&w=640&q=90",
+    "source_id": "4486356",
+    "barcode": "9310645327204",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "3",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-medium-resealable-storage-bags-30-pack-4486390",
+    "name": "Coles Medium Resealable Storage Bags | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4486390.jpg&w=640&q=90",
+    "source_id": "4486390",
+    "barcode": "9310645327211",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "9",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-large-resealable-storage-bags-20-pack-4486447",
+    "name": "Coles Large Resealable Storage Bags | 20 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4486447.jpg&w=640&q=90",
+    "source_id": "4486447",
+    "barcode": "9310645327228",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "20pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "12",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hercules-twinzip-resealable-large-storage-bags-15-pack-4582032",
+    "name": "Hercules Twinzip Resealable Large Storage Bags | 15 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4582032.jpg&w=640&q=90",
+    "source_id": "4582032",
+    "barcode": "9322596000945",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "15pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "315",
+        "price_per_unit": "21",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hercules-twinzip-sandwich-bags-large-22cm-x-22cm-25-pack-5185843",
+    "name": "Hercules Twinzip Sandwich Bags Large 22cm x 22cm | 25 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5185843.jpg&w=640&q=90",
+    "source_id": "5185843",
+    "barcode": "9322596003991",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "25pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "255",
+        "price_per_unit": "10",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-simply-cling-wrap-60-metre-5896648",
+    "name": "Coles Simply Cling Wrap | 60 metre",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5896648.jpg&w=640&q=90",
+    "source_id": "5896648",
+    "barcode": "9310645327174",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "60metre",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "165",
+        "price_per_unit": "3",
+        "price_unit": "metre"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-simply-cling-wrap-300-metre-5896659",
+    "name": "Coles Simply Cling Wrap | 300 metre",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5896659.jpg&w=640&q=90",
+    "source_id": "5896659",
+    "barcode": "9310645327181",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "300metre",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "830",
+        "price_per_unit": "3",
+        "price_unit": "metre"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ziploc-storage-bags-medium-resealable-food-storage-15-pack-6054727",
+    "name": "Ziploc Storage Bags Medium Resealable Food Storage | 15 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6054727.jpg&w=640&q=90",
+    "source_id": "6054727",
+    "barcode": "9300622008080",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "15pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "29",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ziploc-snack-bag-resealable-food-storage-40-pack-6062260",
+    "name": "Ziploc Snack Bag Resealable Food Storage | 40 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6062260.jpg&w=640&q=90",
+    "source_id": "6062260",
+    "barcode": "9300622008103",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "40pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "11",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ziploc-sandwich-bags-resealable-food-storage-40-pack-6062270",
+    "name": "Ziploc Sandwich Bags Resealable Food Storage | 40 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6062270.jpg&w=640&q=90",
+    "source_id": "6062270",
+    "barcode": "9300622008134",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "40pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "11",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hercules-clickzip-sandwich-bags-18cm-x-16.5cm-40-pack-8687837",
+    "name": "Hercules Clickzip Sandwich Bags 18cm x 16.5cm | 40 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8687837.jpg&w=640&q=90",
+    "source_id": "8687837",
+    "barcode": "9322596002116",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "40pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "5",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hercules-clickzip-snack-bags-small-15cm-x-10cm-40-pack-8688953",
+    "name": "Hercules Clickzip Snack Bags Small 15cm x 10cm | 40 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8688953.jpg&w=640&q=90",
+    "source_id": "8688953",
+    "barcode": "9322596002109",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "40pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "5",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/glad-cling-wrap-100m-8730539",
+    "name": "Glad Cling Wrap | 100m",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8730539.jpg&w=640&q=90",
+    "source_id": "8730539",
+    "barcode": "9310050113843",
+    "shop": "coles",
+    "category_id": "22564",
+    "weight": "100m",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "6",
+        "price_unit": "m"
+      }
+    ]
+  }
+]

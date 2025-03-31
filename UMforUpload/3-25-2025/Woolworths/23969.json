@@ -1,0 +1,380 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/671152/cadbury-dairy-milk-chocolate-sitting-easter-bunny",
+    "name": "Cadbury Dairy Milk Chocolate Sitting Easter Bunny 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/671152.jpg",
+    "source_id": "671152",
+    "barcode": "9300617062356",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "471",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/953973/cadbury-favourites-boxed-chocolate",
+    "name": "Cadbury Favourites Boxed Chocolate 820g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/953973.jpg",
+    "source_id": "953973",
+    "barcode": "9300617304265",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "820g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "195",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/907440/cadbury-favourites-marvellous-creations-edition",
+    "name": "Cadbury Favourites Marvellous Creations Edition 336g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/907440.jpg",
+    "source_id": "907440",
+    "barcode": "9300617307181",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "336g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "476",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/375103/cadbury-milk-tray-boxed-chocolate",
+    "name": "Cadbury Milk Tray Boxed Chocolate 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/375103.jpg",
+    "source_id": "375103",
+    "barcode": "9300617305583",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "694",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/778262/cadbury-old-gold-chocolate-easter-bunny",
+    "name": "Cadbury Old Gold Chocolate Easter Bunny 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/778262.jpg",
+    "source_id": "778262",
+    "barcode": "9300617073758",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "533",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/769725/ferrero-easter-eggs-hazelnut-choc-and-hazelnut",
+    "name": "Ferrero Easter Eggs Hazelnut Choc and Hazelnut 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/769725.jpg",
+    "source_id": "769725",
+    "barcode": "9300698501249",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "560",
+        "price_per_unit": "560",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/8896/ferrero-rocher-chocolate-gift-box",
+    "name": "Ferrero Rocher Chocolate Gift Box 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/008896.jpg",
+    "source_id": "8896",
+    "barcode": "8000500003787",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "16 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/9023/ferrero-rocher-chocolate-gift-box",
+    "name": "Ferrero Rocher Chocolate Gift Box 30 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/009023.jpg",
+    "source_id": "9023",
+    "barcode": "8000500032237",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/823237/guylian-chocolate-opus-gift-box",
+    "name": "Guylian Chocolate Opus Gift Box 180g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/823237.jpg",
+    "source_id": "823237",
+    "barcode": "5410976271017",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "1111",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/512600/kinder-surprise-maxi-egg-barbie-assorted",
+    "name": "Kinder Surprise Maxi Egg Barbie Assorted 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/512600.jpg",
+    "source_id": "512600",
+    "barcode": "9300698502277",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1290",
+        "price_per_unit": "1290",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/518049/kinder-surprise-maxi-egg-dino-world",
+    "name": "Kinder Surprise Maxi Egg Dino World 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/518049.jpg",
+    "source_id": "518049",
+    "barcode": "9300698501683",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "1467",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/797915/kinder-surprise-maxi-egg-natoons",
+    "name": "Kinder Surprise Maxi Egg Natoons 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/797915.jpg",
+    "source_id": "797915",
+    "barcode": "9300698501706",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1290",
+        "price_per_unit": "1290",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/966536/lindt-easter-gold-bunny-egg-dark-chocolate-gift-box",
+    "name": "Lindt Easter Gold Bunny & Egg Dark Chocolate Gift Box 240g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/966536.jpg",
+    "source_id": "966536",
+    "barcode": "9323966115115",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "240g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "1042",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/966557/lindt-easter-gold-bunny-egg-milk-chocolate-gift-box",
+    "name": "Lindt Easter Gold Bunny & Egg Milk Chocolate Gift Box 240g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/966557.jpg",
+    "source_id": "966557",
+    "barcode": "9323966115283",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "240g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "1042",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/132820/lindt-gourmet-eggs-milk-chocolate",
+    "name": "Lindt Gourmet Eggs Milk Chocolate 106g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/132820.jpg",
+    "source_id": "132820",
+    "barcode": "9323966119366",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "106g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "1038",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/126395/lindt-lindor-assorted-chocolate-gift-box",
+    "name": "Lindt Lindor Assorted Chocolate Gift Box 235g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/126395.jpg",
+    "source_id": "126395",
+    "barcode": "9323966101002",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "235g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "596",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/788702/raffaello-coconut-almond-gift-box-ballotin",
+    "name": "Raffaello Coconut & Almond Gift Box Ballotin 230g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/788702.jpg",
+    "source_id": "788702",
+    "barcode": "9300698501775",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "230g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "370",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/69549/red-tulip-chocolate-sitting-easter-bunny-sitting-easter-bunny-assorted",
+    "name": "Red Tulip Chocolate Sitting Easter Bunny 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/069549.jpg",
+    "source_id": "69549",
+    "barcode": "9300616134597",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "471",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/515156/terry-s-chocolate-orange-milk-ball",
+    "name": "Terry's Chocolate Orange Milk Ball 157g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/515156.jpg",
+    "source_id": "515156",
+    "barcode": "3664346310208",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "157g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "573",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/210508/toblerone-orange-twist-chocolate-bar-milk-chocolate-bar",
+    "name": "Toblerone Orange Twist Chocolate Bar Milk Chocolate Bar 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/210508.jpg",
+    "source_id": "210508",
+    "barcode": "9300617298977",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/605239/yowie-chocolate",
+    "name": "Yowie Chocolate 28g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/605239.jpg",
+    "source_id": "605239",
+    "barcode": "810808020069",
+    "shop": "Woolworths",
+    "category_id": "23969",
+    "weight": "28G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "1250",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

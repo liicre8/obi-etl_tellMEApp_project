@@ -1,0 +1,128 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kitchen-cheese-and-garlic-baguette-250g-3766426",
+    "name": "Coles Kitchen Cheese & Garlic Baguette | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3766426.jpg&w=640&q=90",
+    "source_id": "3766426",
+    "barcode": "9310645309286",
+    "shop": "coles",
+    "category_id": "22290",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "104",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-finest-stone-baked-garlic-ciabatta-200g-4706463",
+    "name": "Coles Finest Stone Baked Garlic Ciabatta | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4706463.jpg&w=640&q=90",
+    "source_id": "4706463",
+    "barcode": "9310645353333",
+    "shop": "coles",
+    "category_id": "22290",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kitchen-pizza-side-tear-and-share-cheesy-garlic-bread-350g-6009675",
+    "name": "Coles Kitchen Pizza Side Tear & Share Cheesy Garlic Bread | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6009675.jpg&w=640&q=90",
+    "source_id": "6009675",
+    "barcode": "9310645404042",
+    "shop": "coles",
+    "category_id": "22290",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "143",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kitchen-garlic-baguette-twin-pack-450g-6113633",
+    "name": "Coles Kitchen Garlic Baguette Twin Pack | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6113633.jpg&w=640&q=90",
+    "source_id": "6113633",
+    "barcode": "9300601393824",
+    "shop": "coles",
+    "category_id": "22290",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "71",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-simply-garlic-bread-twin-pack-450g-7319725",
+    "name": "Coles Simply Garlic Bread Twin Pack | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7319725.jpg&w=640&q=90",
+    "source_id": "7319725",
+    "barcode": "9300601393862",
+    "shop": "coles",
+    "category_id": "22290",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "51",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/supreme-quality-foods-roti-mini-125g-9230270",
+    "name": "Supreme Quality Foods Roti Mini | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9230270.jpg&w=640&q=90",
+    "source_id": "9230270",
+    "barcode": "9313025000667",
+    "shop": "coles",
+    "category_id": "22290",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-fruit-apple-pie-snack-4-pack-500g-5438778",
+    "name": "Coles Fruit Apple Pie Snack 4 pack | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5438778.jpg&w=640&q=90",
+    "source_id": "5438778",
+    "barcode": "9300601017546",
+    "shop": "coles",
+    "category_id": "22290",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "76",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

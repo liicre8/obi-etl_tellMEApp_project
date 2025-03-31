@@ -28,10 +28,10 @@ const fileName = "woolworthsUnMatched.json"; // adjust as needed
 const outputFilePath = path.join(__dirname, 'UnMatchedAll', folderDate, fileName);
 
 // Set the chunk size
-const chunkSize = 5;
+const chunkSize = 50;
 
 // Retrieve the starting index from the environment variables; default is 0.
-const startIndex = 2292;
+const startIndex = 0;//7265;// 7015;// 2155;
 
 // Create Keep-Alive agents
 const httpAgent = new http.Agent({ keepAlive: true });
@@ -66,9 +66,11 @@ axiosRetry(axios, {
     //  await delay(2000);
       const chunk = data.slice(i, i + chunkSize);
       console.log(`🚀 Sending batch ${batchNumber} with ${chunk.length} objects (Index ${i + 1} to ${i + chunk.length} of ${data.length})`);
-      chunk.forEach((obj, index) => {
-        console.log(`🔹 Object ${index + 1} in batch ${batchNumber}:`, obj.name);
-    });
+
+    //   chunk.forEach((obj, index) => {
+    //     console.log(`🔹 Object ${index + 1} in batch ${batchNumber}:`, obj.name);
+    // });
+
       try {
         const externalApiUrl = process.env.JARROD_API;
         const apiKey = process.env.JARROD_KEY;

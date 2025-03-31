@@ -1,0 +1,410 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-brushed-potatoes-prepacked-1kg-1418484",
+    "name": "Coles Organic Brushed Potatoes Prepacked | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1418484.jpg&w=640&q=90",
+    "source_id": "1418484",
+    "barcode": "9326300001518",
+    "shop": "coles",
+    "category_id": "22389",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-king-edwards-brushed-potato-2kg-2515748",
+    "name": "Coles King Edwards Brushed Potato | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2515748.jpg&w=640&q=90",
+    "source_id": "2515748",
+    "barcode": "9326300001716",
+    "shop": "coles",
+    "category_id": "22389",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kestrel-potatoes-prepacked-2kg-2743866",
+    "name": "Coles Kestrel Potatoes Prepacked | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2743866.jpg&w=640&q=90",
+    "source_id": "2743866",
+    "barcode": "9318085022413",
+    "shop": "coles",
+    "category_id": "22389",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "790",
+        "price_per_unit": "395",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "790",
+        "price_per_unit": "395",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-butternut-pumpkin-cut-approx.-500g-each-3119190",
+    "name": "Coles Organic Butternut Pumpkin Cut | approx. 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3119190.jpg&w=640&q=90",
+    "source_id": "3119190",
+    "barcode": "9321406910054",
+    "shop": "coles",
+    "category_id": "22389",
+    "weight": "500geach",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "245",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-i'm-perfect-sweet-potato-1.5kg-3616751",
+    "name": "Coles I'm Perfect Sweet Potato | 1.5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3616751.jpg&w=640&q=90",
+    "source_id": "3616751",
+    "barcode": "9310645278223",
+    "shop": "coles",
+    "category_id": "22389",
+    "weight": "1.5kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "260",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "327",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "327",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "327",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "260",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "327",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "327",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-wrapped-butternut-pumpkin-approx.-700g-each-4190600",
+    "name": "Coles Wrapped Butternut Pumpkin | approx. 700g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4190600.jpg&w=640&q=90",
+    "source_id": "4190600",
+    "barcode": "9310645204512",
+    "shop": "coles",
+    "category_id": "22389",
+    "weight": "700geach",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "273",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "203",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "273",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "273",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "280",
+        "price_per_unit": "400",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "203",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "273",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-tasmanian-pink-eye-washed-potatoes-1kg-4982234",
+    "name": "Fresh Tasmanian Pink Eye Washed Potatoes | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4982234.jpg&w=640&q=90",
+    "source_id": "4982234",
+    "barcode": "9315309000189",
+    "shop": "coles",
+    "category_id": "22389",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-brushed-potatoes-prepacked-2kg-5024866",
+    "name": "Coles Organic Brushed Potatoes Prepacked | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5024866.jpg&w=640&q=90",
+    "source_id": "5024866",
+    "barcode": "9341874000576",
+    "shop": "coles",
+    "category_id": "22389",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1050",
+        "price_per_unit": "525",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "525",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "990",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1050",
+        "price_per_unit": "525",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1050",
+        "price_per_unit": "525",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "525",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-organic-washed-potatoes-1kg-1-each-6391046",
+    "name": "Fresh Organic Washed Potatoes 1kg | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6391046.jpg&w=640&q=90",
+    "source_id": "6391046",
+    "barcode": "9369999296018",
+    "shop": "coles",
+    "category_id": "22389",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "498",
+        "price_per_unit": "498",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-carisma-washed-potatoes-2kg-7712327",
+    "name": "Coles Carisma Washed Potatoes | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7712327.jpg&w=640&q=90",
+    "source_id": "7712327",
+    "barcode": "9300601428472",
+    "shop": "coles",
+    "category_id": "22389",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "790",
+        "price_per_unit": "395",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "395",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "790",
+        "price_per_unit": "395",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "275",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "790",
+        "price_per_unit": "395",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "790",
+        "price_per_unit": "395",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "790",
+        "price_per_unit": "395",
+        "price_unit": "kg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/bega-smooth-peanut-butter-325g-1167158",
+    "name": "Bega Smooth Peanut Butter | 325g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1167158.jpg&w=640&q=90",
+    "source_id": "1167158",
+    "barcode": "9352042000243",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "325g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "145",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-smooth-peanut-butter-375g-2080124",
+    "name": "Coles Organic Smooth Peanut Butter | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2080124.jpg&w=640&q=90",
+    "source_id": "2080124",
+    "barcode": "9310645099835",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "160",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nutella-hazelnut-spread-with-cocoa-1kg-2620684",
+    "name": "Nutella Hazelnut Spread With Cocoa | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2620684.jpg&w=640&q=90",
+    "source_id": "2620684",
+    "barcode": "9300698502949",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "130",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-australian-almond-butter-250g-2915542",
+    "name": "Coles Australian Almond Butter | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2915542.jpg&w=640&q=90",
+    "source_id": "2915542",
+    "barcode": "9310645206219",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-power-mix-spread-280g-3051336",
+    "name": "Coles Power Mix Spread | 280g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3051336.jpg&w=640&q=90",
+    "source_id": "3051336",
+    "barcode": "9310645217161",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "280g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "143",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-abc-spread-250g-3134309",
+    "name": "Coles ABC Spread | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3134309.jpg&w=640&q=90",
+    "source_id": "3134309",
+    "barcode": "9310645221670",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/99th-monkey-pistachio-and-almond-butter-200g-3299557",
+    "name": "99th Monkey Pistachio & Almond Butter | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3299557.jpg&w=640&q=90",
+    "source_id": "3299557",
+    "barcode": "9354147000098",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/99th-monkey-natural-almond-butter-200g-3299568",
+    "name": "99th Monkey Natural Almond Butter | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3299568.jpg&w=640&q=90",
+    "source_id": "3299568",
+    "barcode": "9354147000067",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-smooth-hazelnut-spread-1kg-3529690",
+    "name": "Coles Smooth Hazelnut Spread | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3529690.jpg&w=640&q=90",
+    "source_id": "3529690",
+    "barcode": "9310645262055",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nutella-go-hazelnut-spread-with-cocoa-breadsticks-multipack-48g-4-pack-3574709",
+    "name": "Nutella Go Hazelnut Spread With Cocoa Breadsticks Multipack 48g | 4 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3574709.jpg&w=640&q=90",
+    "source_id": "3574709",
+    "barcode": "9300698502536",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "4pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "417",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lotus-biscoff-smooth-spread-400g-3577219",
+    "name": "Lotus Biscoff Smooth Spread | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3577219.jpg&w=640&q=90",
+    "source_id": "3577219",
+    "barcode": "5410126146950",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pic's-really-good-crunchy-peanut-butter-1kg-3609009",
+    "name": "Pic's Really Good Crunchy Peanut Butter | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3609009.jpg&w=640&q=90",
+    "source_id": "3609009",
+    "barcode": "9421901881054",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "160",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mayver's-smooth-natural-hazelnut-cacao-and-cashew-butter-240g-3849330",
+    "name": "Mayver's Smooth Natural Hazelnut Cacao & Cashew Butter | 240g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3849330.jpg&w=640&q=90",
+    "source_id": "3849330",
+    "barcode": "9310885115777",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "240g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "354",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cashew-butter-250g-4301370",
+    "name": "Coles Cashew Butter | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4301370.jpg&w=640&q=90",
+    "source_id": "4301370",
+    "barcode": "9310645342146",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-crunchy-hazelnut-spread-1-kg-4370806",
+    "name": "Coles Crunchy Hazelnut Spread | 1 kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4370806.jpg&w=640&q=90",
+    "source_id": "4370806",
+    "barcode": "9310645344393",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-hazelnut-smooth-spread-400g-4390993",
+    "name": "Coles Hazelnut Smooth Spread | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4390993.jpg&w=640&q=90",
+    "source_id": "4390993",
+    "barcode": "9300601187140",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "113",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pana-organic-smooth-hazelnut-chocolate-spread-400g-4454961",
+    "name": "Pana Organic Smooth Hazelnut Chocolate Spread | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4454961.jpg&w=640&q=90",
+    "source_id": "4454961",
+    "barcode": "9346758006279",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "338",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/leo-coco-belgian-white-chocolate-and-hazelnut-spread-325g-4463973",
+    "name": "Leo Coco Belgian White Chocolate & Hazelnut Spread | 325g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4463973.jpg&w=640&q=90",
+    "source_id": "4463973",
+    "barcode": "9352042003374",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "325g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "138",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/leo-coco-belgian-milk-chocolate-and-hazelnut-spread-325g-4463984",
+    "name": "Leo Coco Belgian Milk Chocolate & Hazelnut Spread | 325g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4463984.jpg&w=640&q=90",
+    "source_id": "4463984",
+    "barcode": "9352042003381",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "325g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "138",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-high-fibre-wholemeal-bread-700g-4938276",
+    "name": "Coles High Fibre Wholemeal Bread | 700g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4938276.jpg&w=640&q=90",
+    "source_id": "4938276",
+    "barcode": "9300601274475",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "51",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/99th-monkey-crunchy-natural-almond-butter-200g-5492310",
+    "name": "99th Monkey Crunchy Natural Almond Butter | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5492310.jpg&w=640&q=90",
+    "source_id": "5492310",
+    "barcode": "9354147000296",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/buddee-crunchy-spread-270g-5497234",
+    "name": "Buddee Crunchy Spread | 270g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5497234.jpg&w=640&q=90",
+    "source_id": "5497234",
+    "barcode": "9369998253418",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "270g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "252",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pana-organic-crunchy-hazelnut-chocolate-spread-400g-6893441",
+    "name": "Pana Organic Crunchy Hazelnut Chocolate Spread | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6893441.jpg&w=640&q=90",
+    "source_id": "6893441",
+    "barcode": "9346758005029",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "338",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mayvers-indulgence-choc-chip-cookie-dough-peanut-butter-280g-7041312",
+    "name": "Mayvers Indulgence Choc Chip Cookie Dough Peanut Butter | 280g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7041312.jpg&w=640&q=90",
+    "source_id": "7041312",
+    "barcode": "9310885115333",
+    "shop": "coles",
+    "category_id": "22795",
+    "weight": "280g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "890",
+        "price_per_unit": "318",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

@@ -1,0 +1,776 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-smoked-paprika-50g-1343749",
+    "name": "Hoyts Smoked Paprika | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1343749.jpg&w=640&q=90",
+    "source_id": "1343749",
+    "barcode": "9300725012458",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "72",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-italian-mix-herbs-140g-2480508",
+    "name": "Hoyts Italian Mix Herbs | 140g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2480508.jpg&w=640&q=90",
+    "source_id": "2480508",
+    "barcode": "9300725012564",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "140g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "43",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-cumin-ground-130g-2480530",
+    "name": "Hoyts Cumin Ground | 130g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2480530.jpg&w=640&q=90",
+    "source_id": "2480530",
+    "barcode": "9300725011550",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "130g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "530",
+        "price_per_unit": "41",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-ground-ginger-25g-287085",
+    "name": "Hoyts Ground Ginger | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F287085.jpg&w=640&q=90",
+    "source_id": "287085",
+    "barcode": "9300725001650",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "88",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-marjoram-25g-287223",
+    "name": "Hoyts Marjoram | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F287223.jpg&w=640&q=90",
+    "source_id": "287223",
+    "barcode": "9300725001247",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "72",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-imitation-yellow-saffron-15g-287518",
+    "name": "Hoyts Imitation Yellow Saffron | 15g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F287518.jpg&w=640&q=90",
+    "source_id": "287518",
+    "barcode": "9300725001551",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "15g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "140",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/saxa-ground-black-pepper-50g-333207",
+    "name": "Saxa Ground Black Pepper | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F333207.jpg&w=640&q=90",
+    "source_id": "333207",
+    "barcode": "93681278",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-pure-saffron-0.25g-4289548",
+    "name": "MasterFoods Pure Saffron | 0.25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4289548.jpg&w=640&q=90",
+    "source_id": "4289548",
+    "barcode": "9310012060017",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "0.25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1490",
+        "price_per_unit": "59600",
+        "price_unit": ".g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/table-of-plenty-classic-dukkah-45g-4295777",
+    "name": "Table Of Plenty Classic Dukkah | 45g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4295777.jpg&w=640&q=90",
+    "source_id": "4295777",
+    "barcode": "9335777003994",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "45g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "88",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-all-purpose-seasoning-54g-5070820",
+    "name": "Coles All Purpose Seasoning | 54g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5070820.jpg&w=640&q=90",
+    "source_id": "5070820",
+    "barcode": "9310645358901",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "54g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "43",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-onion-powder-42g-5070863",
+    "name": "Coles Onion Powder | 42g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5070863.jpg&w=640&q=90",
+    "source_id": "5070863",
+    "barcode": "9310645358918",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "42g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "65",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-ground-sumac-46g-5070910",
+    "name": "Coles Ground Sumac | 46g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5070910.jpg&w=640&q=90",
+    "source_id": "5070910",
+    "barcode": "9310645358925",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "46g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "70",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-ground-cardamon-32g-5070943",
+    "name": "Coles Ground Cardamon | 32g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5070943.jpg&w=640&q=90",
+    "source_id": "5070943",
+    "barcode": "9310645358932",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "32g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "94",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-parsley-40g-5269921",
+    "name": "Hoyts Parsley | 40g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5269921.jpg&w=640&q=90",
+    "source_id": "5269921",
+    "barcode": "9300725002312",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "83",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-poppy-seeds-240g-5270079",
+    "name": "Hoyts Poppy Seeds | 240g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5270079.jpg&w=640&q=90",
+    "source_id": "5270079",
+    "barcode": "9300725011345",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "240g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "21",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nice-n'-tasty-seasoning-chicken-salt-400g-7870226",
+    "name": "Nice N' Tasty Seasoning Chicken Salt | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7870226.jpg&w=640&q=90",
+    "source_id": "7870226",
+    "barcode": "9336575000024",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "495",
+        "price_per_unit": "12",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/anchor-chicken-chippy-salt-170g-8008232",
+    "name": "Anchor Chicken Chippy Salt | 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8008232.jpg&w=640&q=90",
+    "source_id": "8008232",
+    "barcode": "9300609103319",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "21",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cinnamon-ground-41g-8982826",
+    "name": "Coles Cinnamon Ground | 41g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8982826.jpg&w=640&q=90",
+    "source_id": "8982826",
+    "barcode": "9310645213156",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "41g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "255",
+        "price_per_unit": "62",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cumin-seeds-ground-42g-8982837",
+    "name": "Coles Cumin Seeds Ground | 42g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8982837.jpg&w=640&q=90",
+    "source_id": "8982837",
+    "barcode": "9310645213163",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "42g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "265",
+        "price_per_unit": "63",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-all-spice-50g-8982859",
+    "name": "Coles All Spice | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8982859.jpg&w=640&q=90",
+    "source_id": "8982859",
+    "barcode": "9310645213170",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "80",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-oregano-leaves-10g-8982881",
+    "name": "Coles Oregano Leaves | 10g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8982881.jpg&w=640&q=90",
+    "source_id": "8982881",
+    "barcode": "9310645213187",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "10g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-ground-paprika-39g-8982961",
+    "name": "Coles Ground Paprika | 39g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8982961.jpg&w=640&q=90",
+    "source_id": "8982961",
+    "barcode": "9310645213194",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "39g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "59",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-thyme-leaves-18g-8983046",
+    "name": "Coles Thyme Leaves | 18g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8983046.jpg&w=640&q=90",
+    "source_id": "8983046",
+    "barcode": "9310645213200",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "18g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "111",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cinnamon-sugar-73g-8983523",
+    "name": "Coles Cinnamon Sugar | 73g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8983523.jpg&w=640&q=90",
+    "source_id": "8983523",
+    "barcode": "9310645213231",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "73g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "32",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cayenne-pepper-ground-extra-hot-41g-8983556",
+    "name": "Coles Cayenne Pepper Ground Extra Hot | 41g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8983556.jpg&w=640&q=90",
+    "source_id": "8983556",
+    "barcode": "9310645213248",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "41g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "84",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-garlic-salt-89g-8983590",
+    "name": "Coles Garlic Salt | 89g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8983590.jpg&w=640&q=90",
+    "source_id": "8983590",
+    "barcode": "9310645213255",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "89g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "235",
+        "price_per_unit": "26",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-chilli-flakes-hot-37g-8983625",
+    "name": "Coles Chilli Flakes Hot | 37g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8983625.jpg&w=640&q=90",
+    "source_id": "8983625",
+    "barcode": "9310645213262",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "37g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-chillies-ground-hot-43g-8983636",
+    "name": "Coles Chillies Ground Hot | 43g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8983636.jpg&w=640&q=90",
+    "source_id": "8983636",
+    "barcode": "9310645213279",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "43g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "58",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-smoked-paprika-39g-8984210",
+    "name": "Coles Smoked Paprika | 39g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8984210.jpg&w=640&q=90",
+    "source_id": "8984210",
+    "barcode": "9310645213286",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "39g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "88",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-rosemary-leaves-28g-8984220",
+    "name": "Coles Rosemary Leaves | 28g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8984220.jpg&w=640&q=90",
+    "source_id": "8984220",
+    "barcode": "9310645213293",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "28g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "295",
+        "price_per_unit": "105",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-ginger-ground-36g-8984231",
+    "name": "Coles Ginger Ground | 36g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8984231.jpg&w=640&q=90",
+    "source_id": "8984231",
+    "barcode": "9310645213309",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "36g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "61",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-basil-leaves-14g-8984253",
+    "name": "Coles Basil Leaves | 14g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8984253.jpg&w=640&q=90",
+    "source_id": "8984253",
+    "barcode": "9310645213316",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "14g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-parsley-flakes-8g-8985063",
+    "name": "Coles Parsley Flakes | 8g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8985063.jpg&w=640&q=90",
+    "source_id": "8985063",
+    "barcode": "9310645213330",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "8g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-garlic-powder-60g-8985074",
+    "name": "Coles Garlic Powder | 60g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8985074.jpg&w=640&q=90",
+    "source_id": "8985074",
+    "barcode": "9310645213347",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "60g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "40",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-italian-herbs-13g-8985540",
+    "name": "Coles Italian Herbs | 13g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8985540.jpg&w=640&q=90",
+    "source_id": "8985540",
+    "barcode": "9310645213354",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "13g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "169",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-five-spice-chinese-41g-8987150",
+    "name": "Coles Five Spice Chinese | 41g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8987150.jpg&w=640&q=90",
+    "source_id": "8987150",
+    "barcode": "9310645213378",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "41g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "59",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-coriander-leaves-6g-8987230",
+    "name": "Coles Coriander Leaves | 6g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8987230.jpg&w=640&q=90",
+    "source_id": "8987230",
+    "barcode": "9310645213392",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "6g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "245",
+        "price_per_unit": "408",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-mixed-herbs-13g-8987375",
+    "name": "Coles Mixed Herbs | 13g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8987375.jpg&w=640&q=90",
+    "source_id": "8987375",
+    "barcode": "9310645213415",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "13g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "295",
+        "price_per_unit": "227",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-whole-fennel-seeds-36g-8987386",
+    "name": "Coles Whole Fennel Seeds | 36g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8987386.jpg&w=640&q=90",
+    "source_id": "8987386",
+    "barcode": "9310645213422",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "36g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "69",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cracked-black-peppercorns-48g-8987808",
+    "name": "Coles Cracked Black Peppercorns | 48g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8987808.jpg&w=640&q=90",
+    "source_id": "8987808",
+    "barcode": "9310645217123",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "48g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "52",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cloves-ground-48g-8990019",
+    "name": "Coles Cloves Ground | 48g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8990019.jpg&w=640&q=90",
+    "source_id": "8990019",
+    "barcode": "9310645213538",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "48g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "90",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-nutmeg-ground-44g-8991260",
+    "name": "Coles Nutmeg Ground | 44g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8991260.jpg&w=640&q=90",
+    "source_id": "8991260",
+    "barcode": "9310645213552",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "44g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "73",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-white-pepper-100g-9044719",
+    "name": "Coles White Pepper | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9044719.jpg&w=640&q=90",
+    "source_id": "9044719",
+    "barcode": "9300601189502",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

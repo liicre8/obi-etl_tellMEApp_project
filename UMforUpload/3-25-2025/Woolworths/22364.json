@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/774692/golden-palm-medjool-dates",
+    "name": "Golden Palm Medjool Dates 225g Punnet",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/774692.jpg",
+    "source_id": "774692",
+    "barcode": "9300633434694",
+    "shop": "Woolworths",
+    "category_id": "22364",
+    "weight": "225G Punnet",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "3778",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/774699/golden-palm-medjool-dates-roll-with-coconut-punnet",
+    "name": "Golden Palm Medjool Dates Roll With Coconut Punnet 225g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/774699.jpg",
+    "source_id": "774699",
+    "barcode": "9300633434717",
+    "shop": "Woolworths",
+    "category_id": "22364",
+    "weight": "225G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "3778",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

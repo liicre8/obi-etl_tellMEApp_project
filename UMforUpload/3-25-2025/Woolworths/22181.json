@@ -1,0 +1,470 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/825564/golden-circle-apple-blackcurrant-juice-no-added-sugar-fruit-juices",
+    "name": "Golden Circle Apple Blackcurrant Juice No Added Sugar Fruit Juices 3l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/825564.jpg",
+    "source_id": "825564",
+    "barcode": "9310179005203",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "3L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "183",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67060/golden-circle-apple-juice-no-added-sugar-fruit-juice",
+    "name": "Golden Circle Apple Juice No Added Sugar Fruit Juice 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/067060.jpg",
+    "source_id": "67060",
+    "barcode": "9310179008624",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/51655/golden-circle-apple-mango-banana-juice-no-added-sugar-fruit-juices",
+    "name": "Golden Circle Apple, Mango & Banana Juice No Added Sugar Fruit Juices 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/051655.jpg",
+    "source_id": "51655",
+    "barcode": "9310179188302",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/826651/golden-circle-drinks-apple-blackcurrant-fruit-drink",
+    "name": "Golden Circle Drinks Apple Blackcurrant Fruit Drink 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/826651.jpg",
+    "source_id": "826651",
+    "barcode": "9310179199469",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/786549/golden-circle-fruit-drinks-mango-nectar",
+    "name": "Golden Circle Fruit Drinks Mango Nectar 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/786549.jpg",
+    "source_id": "786549",
+    "barcode": "9310179199339",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/786550/golden-circle-fruit-drinks-pear-nectar",
+    "name": "Golden Circle Fruit Drinks Pear Nectar 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/786550.jpg",
+    "source_id": "786550",
+    "barcode": "9310179199384",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32747/golden-circle-orange-burst-fruit-drink-breakfast-drink",
+    "name": "Golden Circle Orange Burst Fruit Drink Breakfast Drink 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/032747.jpg",
+    "source_id": "32747",
+    "barcode": "9310179006682",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/51659/golden-circle-tomato-juice-no-added-sugar-vegetable-juice",
+    "name": "Golden Circle Tomato Juice No Added Sugar Vegetable Juice 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/051659.jpg",
+    "source_id": "51659",
+    "barcode": "9310179188333",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/106537/juicy-isle-organic-apple-juice",
+    "name": "Juicy Isle Organic Apple Juice 1.5l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/106537.jpg",
+    "source_id": "106537",
+    "barcode": "9315251902623",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "1.5L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/311515/ocean-spray-cran-pomegranate-juice-drink",
+    "name": "Ocean Spray Cran Pomegranate Juice Drink 1.5l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/311515.jpg",
+    "source_id": "311515",
+    "barcode": "9331200430948",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "1.5L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "327",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/229204/p-n-apple-fruit-juice",
+    "name": "P&N Apple Fruit Juice 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/229204.jpg",
+    "source_id": "229204",
+    "barcode": "9345905010381",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/390862/p-n-apple-mango-juice",
+    "name": "P&N Apple Mango Juice 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/390862.jpg",
+    "source_id": "390862",
+    "barcode": "9345905010862",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/290704/p-n-fruit-drink-apple-crush",
+    "name": "P&N Fruit Drink Apple Crush 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/290704.jpg",
+    "source_id": "290704",
+    "barcode": "9345905010671",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/290651/p-n-fruit-drink-golden-crush",
+    "name": "P&N Fruit Drink Golden Crush 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/290651.jpg",
+    "source_id": "290651",
+    "barcode": "9345905010695",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/290703/p-n-fruit-drink-tropical",
+    "name": "P&N Fruit Drink Tropical 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/290703.jpg",
+    "source_id": "290703",
+    "barcode": "9345905010688",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/906372/p-n-fruit-juice-cranberry-drink",
+    "name": "P&N Fruit Juice Cranberry Drink 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/906372.jpg",
+    "source_id": "906372",
+    "barcode": "9345905011142",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "375",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/229433/p-n-mango-nectar-fruit-drink",
+    "name": "P&N Mango Nectar Fruit Drink 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/229433.jpg",
+    "source_id": "229433",
+    "barcode": "9345905010428",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/906274/p-n-sparkling-apple-juice",
+    "name": "P&N Sparkling Apple Juice 750ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/906274.jpg",
+    "source_id": "906274",
+    "barcode": "9345905011135",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "285",
+        "price_per_unit": "380",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/81540/woolworths-100-cloudy-pear-juice",
+    "name": "Woolworths 100% Cloudy Pear Juice 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/081540.jpg",
+    "source_id": "81540",
+    "barcode": "9339687157273",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/80569/woolworths-100-prune-juice",
+    "name": "Woolworths 100% Prune Juice 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/080569.jpg",
+    "source_id": "80569",
+    "barcode": "9339687156597",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/673135/woolworths-apple-mango-juice",
+    "name": "Woolworths Apple & Mango Juice 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/673135.jpg",
+    "source_id": "673135",
+    "barcode": "9339687027330",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55071/woolworths-breakfast-juice",
+    "name": "Woolworths Breakfast Juice 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/055071.jpg",
+    "source_id": "55071",
+    "barcode": "9339687105953",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55070/woolworths-multivitamin-juice",
+    "name": "Woolworths Multivitamin Juice 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/055070.jpg",
+    "source_id": "55070",
+    "barcode": "9339687105946",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/59561/woolworths-no-added-sugar-pineapple-juice",
+    "name": "Woolworths No Added Sugar Pineapple Juice 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/059561.jpg",
+    "source_id": "59561",
+    "barcode": "9339687107933",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/59722/woolworths-no-added-sugar-tomato-juice",
+    "name": "Woolworths No Added Sugar Tomato Juice 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/059722.jpg",
+    "source_id": "59722",
+    "barcode": "9339687107940",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/142929/woolworths-orange-juice-with-pulp",
+    "name": "Woolworths Orange Juice With Pulp 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/142929.jpg",
+    "source_id": "142929",
+    "barcode": "9339687236688",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

@@ -1,0 +1,866 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-medium-microwavable-brown-rice-cups-250g-1074953",
+    "name": "Coles Medium Microwavable Brown Rice Cups | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1074953.jpg&w=640&q=90",
+    "source_id": "1074953",
+    "barcode": "9310645338774",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "88",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-brown-rice-1-kg-1075107",
+    "name": "Coles Brown Rice | 1 kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1075107.jpg&w=640&q=90",
+    "source_id": "1075107",
+    "barcode": "9310645315706",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "25",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-microwave-7-grains-rice-250g-1953819",
+    "name": "Coles Microwave 7 Grains Rice | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1953819.jpg&w=640&q=90",
+    "source_id": "1953819",
+    "barcode": "9310645094847",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "215",
+        "price_per_unit": "86",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-microwave-quinoa-brown-rice-250g-1954050",
+    "name": "Coles Microwave Quinoa Brown Rice | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1954050.jpg&w=640&q=90",
+    "source_id": "1954050",
+    "barcode": "9310645094878",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "215",
+        "price_per_unit": "86",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunrice-microwave-brown-rice-and-quinoa-rice-cup-2x125g-250g-2017795",
+    "name": "Sunrice Microwave Brown Rice & Quinoa Rice Cup 2x125g | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2017795.jpg&w=640&q=90",
+    "source_id": "2017795",
+    "barcode": "9310140007298",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/taj-classic-basmati-rice-5kg-2051090",
+    "name": "Taj Classic Basmati Rice | 5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2051090.jpg&w=640&q=90",
+    "source_id": "2051090",
+    "barcode": "9315420000006",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2800",
+        "price_per_unit": "56",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-tiger-basmati-rice-5kg-2060160",
+    "name": "White Tiger Basmati Rice | 5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2060160.jpg&w=640&q=90",
+    "source_id": "2060160",
+    "barcode": "9315420529231",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2300",
+        "price_per_unit": "46",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunrice-australian-medium-grain-white-rice-5kg-206560",
+    "name": "Sunrice Australian Medium Grain White Rice | 5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F206560.jpg&w=640&q=90",
+    "source_id": "206560",
+    "barcode": "9310140001050",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "38",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-microwave-rice-black-250g-2599384",
+    "name": "Coles Microwave Rice Black | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2599384.jpg&w=640&q=90",
+    "source_id": "2599384",
+    "barcode": "9310645117386",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "265",
+        "price_per_unit": "106",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-jasmine-rice-5kg-2599420",
+    "name": "Coles Jasmine Rice | 5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2599420.jpg&w=640&q=90",
+    "source_id": "2599420",
+    "barcode": "9310645358864",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "30",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-white-medium-grain-rice-1kg-2603437",
+    "name": "Coles White Medium Grain Rice | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2603437.jpg&w=640&q=90",
+    "source_id": "2603437",
+    "barcode": "9310645117812",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-microwavable-brown-rice-5-pack-625g-3231098",
+    "name": "Coles Microwavable Brown Rice 5 Pack | 625g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3231098.jpg&w=640&q=90",
+    "source_id": "3231098",
+    "barcode": "9310645237213",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "625g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "64",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-microwave-rice-pouch-coconut-chilli-lime-250g-3231134",
+    "name": "Coles Microwave Rice Pouch Coconut Chilli Lime | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3231134.jpg&w=640&q=90",
+    "source_id": "3231134",
+    "barcode": "9310645237237",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "265",
+        "price_per_unit": "106",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-microwave-basmati-rice-cup-250g-3234664",
+    "name": "Coles Microwave Basmati Rice Cup | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3234664.jpg&w=640&q=90",
+    "source_id": "3234664",
+    "barcode": "9310645241555",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "88",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/street-kitchen-malaysian-peanut-satay-255g-3259712",
+    "name": "Street Kitchen Malaysian Peanut Satay | 255g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3259712.jpg&w=640&q=90",
+    "source_id": "3259712",
+    "barcode": "9334279004041",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "255g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "235",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-brown-basmati-rice-1kg-3283943",
+    "name": "Coles Brown Basmati Rice | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3283943.jpg&w=640&q=90",
+    "source_id": "3283943",
+    "barcode": "9310645244396",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/the-spice-tailor-indonesian-rendang-curry-275g-3735830",
+    "name": "The Spice Tailor Indonesian Rendang Curry | 275g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3735830.jpg&w=640&q=90",
+    "source_id": "3735830",
+    "barcode": "5052675000958",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "275g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "145",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mr-chen's-vietnamese-beef-pho-kit-500g-3740557",
+    "name": "Mr Chen's Vietnamese Beef Pho Kit | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3740557.jpg&w=640&q=90",
+    "source_id": "3740557",
+    "barcode": "9349673002821",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "170",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mr-chen's-japanese-ramen-kit-604g-3740568",
+    "name": "Mr Chen's Japanese Ramen Kit | 604g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3740568.jpg&w=640&q=90",
+    "source_id": "3740568",
+    "barcode": "9349673002838",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "604g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "141",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mr-chen's-malaysian-curry-laksa-kit-605g-3740580",
+    "name": "Mr Chen's Malaysian Curry Laksa Kit | 605g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3740580.jpg&w=640&q=90",
+    "source_id": "3740580",
+    "barcode": "9349673002852",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "605g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "140",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/street-kitchen-thai-green-curry-285g-3777874",
+    "name": "Street Kitchen Thai Green Curry | 285g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3777874.jpg&w=640&q=90",
+    "source_id": "3777874",
+    "barcode": "9334279004003",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "285g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "211",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-egg-fried-rice-250g-3810459",
+    "name": "Coles Egg Fried Rice | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3810459.jpg&w=640&q=90",
+    "source_id": "3810459",
+    "barcode": "9310645313511",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "116",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-microwavable-brown-rice-and-quinoa-pouch-5pack-625g-3817822",
+    "name": "Coles Microwavable Brown Rice & Quinoa Pouch 5pack | 625g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3817822.jpg&w=640&q=90",
+    "source_id": "3817822",
+    "barcode": "9310645313528",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "625g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "64",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-coconut-cream-400ml-3902998",
+    "name": "Coles Organic Coconut Cream | 400mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3902998.jpg&w=640&q=90",
+    "source_id": "3902998",
+    "barcode": "9310645322544",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "400ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "235",
+        "price_per_unit": "59",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ben's-original-taste-of-takeaway-peri-peri-rice-pouch-240g-4160600",
+    "name": "Ben's Original Taste Of Takeaway Peri Peri Rice Pouch | 240g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4160600.jpg&w=640&q=90",
+    "source_id": "4160600",
+    "barcode": "9310012060789",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "240g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "167",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/street-kitchen-thai-yellow-curry-285g-4304040",
+    "name": "Street Kitchen Thai Yellow Curry | 285g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4304040.jpg&w=640&q=90",
+    "source_id": "4304040",
+    "barcode": "9334279004027",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "285g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "211",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/street-kitchen-pad-thai-255g-4304051",
+    "name": "Street Kitchen Pad Thai | 255g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4304051.jpg&w=640&q=90",
+    "source_id": "4304051",
+    "barcode": "9334279004805",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "255g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "235",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sungrow-medium-grain-white-rice-5-kg-4685239",
+    "name": "Sungrow Medium Grain White Rice | 5 kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4685239.jpg&w=640&q=90",
+    "source_id": "4685239",
+    "barcode": "9315420001690",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "30",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sungrow-rice-jasmine-1-kg-4685294",
+    "name": "Sungrow Rice Jasmine | 1 kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4685294.jpg&w=640&q=90",
+    "source_id": "4685294",
+    "barcode": "9315420001782",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sungrow-rice-jasmine-5kg-4685308",
+    "name": "Sungrow Rice Jasmine | 5KG",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4685308.jpg&w=640&q=90",
+    "source_id": "4685308",
+    "barcode": "9315420001775",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "36",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sungrow-rice-black-500g-4685330",
+    "name": "Sungrow Rice Black | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4685330.jpg&w=640&q=90",
+    "source_id": "4685330",
+    "barcode": "9315420001805",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sungrow-rice-red-500g-4685400",
+    "name": "Sungrow Rice Red | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4685400.jpg&w=640&q=90",
+    "source_id": "4685400",
+    "barcode": "9315420001799",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-long-grain-white-rice-2kg-4698955",
+    "name": "Coles Long Grain White Rice | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4698955.jpg&w=640&q=90",
+    "source_id": "4698955",
+    "barcode": "9310645358833",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "18",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-long-grain-rice-1kg-5357574",
+    "name": "Coles Long Grain Rice | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5357574.jpg&w=640&q=90",
+    "source_id": "5357574",
+    "barcode": "9310645358826",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "18",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/marion's-kitchen-singapore-noodles-kit-419g-5368195",
+    "name": "Marion's Kitchen Singapore Noodles Kit | 419g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5368195.jpg&w=640&q=90",
+    "source_id": "5368195",
+    "barcode": "9345654000619",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "419g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "267",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunrice-basmati-rice-2kg-5877359",
+    "name": "Sunrice Basmati Rice | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5877359.jpg&w=640&q=90",
+    "source_id": "5877359",
+    "barcode": "9310140002545",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1290",
+        "price_per_unit": "65",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/street-kitchen-korean-bulgogi-beef-kit-255g-7047217",
+    "name": "Street Kitchen Korean Bulgogi Beef Kit | 255g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7047217.jpg&w=640&q=90",
+    "source_id": "7047217",
+    "barcode": "9334279040346",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "255g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "235",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/maharajah's-choice-calico-basmati-rice-5kg-7210045",
+    "name": "Maharajah's Choice Calico Basmati Rice | 5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7210045.jpg&w=640&q=90",
+    "source_id": "7210045",
+    "barcode": "9311503220040",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2300",
+        "price_per_unit": "46",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cucina-matese-arborio-rice-1kg-8465788",
+    "name": "Cucina Matese Arborio Rice | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8465788.jpg&w=640&q=90",
+    "source_id": "8465788",
+    "barcode": "9300601526918",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-microwave-rice-basmati-250g-8471340",
+    "name": "Coles Microwave Rice Basmati | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8471340.jpg&w=640&q=90",
+    "source_id": "8471340",
+    "barcode": "9310645091310",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "76",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-microwave-jasmine-rice-250g-8471383",
+    "name": "Coles Microwave Jasmine Rice | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8471383.jpg&w=640&q=90",
+    "source_id": "8471383",
+    "barcode": "9310645091334",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "76",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-microwave-rice-brown-250g-8471408",
+    "name": "Coles Microwave Rice Brown | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8471408.jpg&w=640&q=90",
+    "source_id": "8471408",
+    "barcode": "9310645091303",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "76",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/marion's-kitchen-thai-green-curry-cooking-kit-475g-8643300",
+    "name": "Marion's Kitchen Thai Green Curry Cooking Kit | 475g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8643300.jpg&w=640&q=90",
+    "source_id": "8643300",
+    "barcode": "9369999301286",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "475g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "203",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/marion's-kitchen-thai-red-curry-cooking-kit-450g-8643365",
+    "name": "Marion's Kitchen Thai Red Curry Cooking Kit | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8643365.jpg&w=640&q=90",
+    "source_id": "8643365",
+    "barcode": "9369999030261",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "216",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-rice-jasmine-1kg-8703004",
+    "name": "Coles Rice Jasmine | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8703004.jpg&w=640&q=90",
+    "source_id": "8703004",
+    "barcode": "9310645358840",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "35",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-basmati-rice-1kg-8703059",
+    "name": "Coles Basmati Rice | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8703059.jpg&w=640&q=90",
+    "source_id": "8703059",
+    "barcode": "9300601176762",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-basmati-rice-5kg-9540288",
+    "name": "Coles Basmati Rice | 5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9540288.jpg&w=640&q=90",
+    "source_id": "9540288",
+    "barcode": "9300601210220",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "36",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-jasmine-rice-2kg-9540299",
+    "name": "Coles Jasmine Rice | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9540299.jpg&w=640&q=90",
+    "source_id": "9540299",
+    "barcode": "9310645358857",
+    "shop": "coles",
+    "category_id": "22876",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "28",
+        "price_unit": "kg"
+      }
+    ]
+  }
+]

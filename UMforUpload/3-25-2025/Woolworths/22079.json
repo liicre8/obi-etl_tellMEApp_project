@@ -1,0 +1,362 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/852474/bare-bakers-choc-brownie",
+    "name": "Bare Bakers Choc Brownie 270g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/852474.jpg",
+    "source_id": "852474",
+    "barcode": "9350007005715",
+    "shop": "Woolworths",
+    "category_id": "22079",
+    "weight": "270G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "278",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/289574/bare-bakers-gluten-free-double-chocolate-muffin-bar",
+    "name": "Bare Bakers Gluten Free Double Chocolate Muffin Bar 5 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/289574.jpg",
+    "source_id": "289574",
+    "barcode": "9300602377632",
+    "shop": "Woolworths",
+    "category_id": "22079",
+    "weight": "5 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "378",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/852475/bare-bakers-salted-caramel-choc-brownie",
+    "name": "Bare Bakers Salted Caramel Choc Brownie 270g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/852475.jpg",
+    "source_id": "852475",
+    "barcode": "9350007003049",
+    "shop": "Woolworths",
+    "category_id": "22079",
+    "weight": "270G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "278",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387340/bfree-4-stone-baked-wholegrain-pita-bread",
+    "name": "Bfree 4 Stone Baked Wholegrain Pita Bread 220g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/387340.jpg",
+    "source_id": "387340",
+    "barcode": "5391521691446",
+    "shop": "Woolworths",
+    "category_id": "22079",
+    "weight": "220g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "318",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387190/bfree-5-avocado-wraps",
+    "name": "Bfree 5 Avocado Wraps 210g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/387190.jpg",
+    "source_id": "387190",
+    "barcode": "5391521691378",
+    "shop": "Woolworths",
+    "category_id": "22079",
+    "weight": "210g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "670",
+        "price_per_unit": "319",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/57631/bfree-pita-pockets",
+    "name": "Bfree Pita Pockets 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/057631.jpg",
+    "source_id": "57631",
+    "barcode": "5391521691002",
+    "shop": "Woolworths",
+    "category_id": "22079",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "560",
+        "price_per_unit": "292",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/285313/bfree-wholegrain-wraps",
+    "name": "Bfree Wholegrain Wraps 5 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/285313.jpg",
+    "source_id": "285313",
+    "barcode": "5391521691545",
+    "shop": "Woolworths",
+    "category_id": "22079",
+    "weight": "5 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "840",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/347787/cakemark-cookies-coconut-macaroons",
+    "name": "Cakemark Cookies Coconut Macaroons 6 Pack 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/347787.jpg",
+    "source_id": "347787",
+    "barcode": "9337925000824",
+    "shop": "Woolworths",
+    "category_id": "22079",
+    "weight": "6 Pack 200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/388377/liberate-classic-belgian-style-waffles",
+    "name": "Liberate Classic Belgian Style Waffles 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/388377.jpg",
+    "source_id": "388377",
+    "barcode": "9309000226023",
+    "shop": "Woolworths",
+    "category_id": "22079",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "375",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/389412/liberate-english-muffin",
+    "name": "Liberate English Muffin 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/389412.jpg",
+    "source_id": "389412",
+    "barcode": "9309000226009",
+    "shop": "Woolworths",
+    "category_id": "22079",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/355416/old-time-bakery-pizza-bases-gluten-free",
+    "name": "Old Time Bakery Pizza Bases Gluten Free 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/355416.jpg",
+    "source_id": "355416",
+    "barcode": "9330856000208",
+    "shop": "Woolworths",
+    "category_id": "22079",
+    "weight": "2 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "217",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/125713/woolworths-free-from-gluten-brioche-style-burger-buns",
+    "name": "Woolworths Free From Gluten Brioche Style Burger Buns 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/125713.jpg",
+    "source_id": "125713",
+    "barcode": "9339687214860",
+    "shop": "Woolworths",
+    "category_id": "22079",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/103123/woolworths-free-from-gluten-croissants",
+    "name": "Woolworths Free From Gluten Croissants 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/103123.jpg",
+    "source_id": "103123",
+    "barcode": "9339687189007",
+    "shop": "Woolworths",
+    "category_id": "22079",
+    "weight": "2 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "275",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/808593/woolworths-free-from-gluten-dairy-free-chocolate-cheesecake",
+    "name": "Woolworths Free From Gluten Dairy Free Chocolate Cheesecake 675g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/808593.jpg",
+    "source_id": "808593",
+    "barcode": "9339687067602",
+    "shop": "Woolworths",
+    "category_id": "22079",
+    "weight": "675G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "193",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/816101/woolworths-free-from-gluten-eng-muffins",
+    "name": "Woolworths Free From Gluten Eng Muffins 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/816101.jpg",
+    "source_id": "816101",
+    "barcode": "9339687074204",
+    "shop": "Woolworths",
+    "category_id": "22079",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/283210/woolworths-free-from-gluten-fruit-bread-loaf",
+    "name": "Woolworths Free From Gluten Fruit Bread Loaf 460g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/283210.jpg",
+    "source_id": "283210",
+    "barcode": "9339687340088",
+    "shop": "Woolworths",
+    "category_id": "22079",
+    "weight": "460g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "570",
+        "price_per_unit": "124",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/821560/woolworths-free-from-gluten-pizza-base",
+    "name": "Woolworths Free From Gluten Pizza Base 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/821560.jpg",
+    "source_id": "821560",
+    "barcode": "9339687080649",
+    "shop": "Woolworths",
+    "category_id": "22079",
+    "weight": "190G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "316",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/277577/woolworths-free-from-gluten-seeded-bread-loaf",
+    "name": "Woolworths Free From Gluten Seeded Bread Loaf 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/277577.jpg",
+    "source_id": "277577",
+    "barcode": "9339687335992",
+    "shop": "Woolworths",
+    "category_id": "22079",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "139",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/140171/woolworths-free-from-gluten-white-burger-buns",
+    "name": "Woolworths Free From Gluten White Burger Buns 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/140171.jpg",
+    "source_id": "140171",
+    "barcode": "9339687227365",
+    "shop": "Woolworths",
+    "category_id": "22079",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "172",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/91895/woolworths-large-pavlova-base",
+    "name": "Woolworths Large Pavlova Base Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/091895.jpg",
+    "source_id": "91895",
+    "barcode": "9339687170678",
+    "shop": "Woolworths",
+    "category_id": "22079",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "920",
+        "price_per_unit": "920",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

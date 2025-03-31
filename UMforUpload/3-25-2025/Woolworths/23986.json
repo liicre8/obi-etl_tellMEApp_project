@@ -1,0 +1,200 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/904774/free-from-gluten-spaghetti",
+    "name": "Free From Gluten Spaghetti 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/904774.jpg",
+    "source_id": "904774",
+    "barcode": "9339687386284",
+    "shop": "Woolworths",
+    "category_id": "23986",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55479/la-molisana-pastico-gluten-free-potato-gnocchi",
+    "name": "La Molisana Pastico Gluten Free Potato Gnocchi 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/055479.jpg",
+    "source_id": "55479",
+    "barcode": "8004690316245",
+    "shop": "Woolworths",
+    "category_id": "23986",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "65",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/68981/macro-organic-gluten-free-penne",
+    "name": "Macro Organic Gluten Free Penne 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/068981.jpg",
+    "source_id": "68981",
+    "barcode": "9339687137046",
+    "shop": "Woolworths",
+    "category_id": "23986",
+    "weight": "350G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/68980/macro-organic-gluten-free-spaghetti",
+    "name": "Macro Organic Gluten Free Spaghetti 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/068980.jpg",
+    "source_id": "68980",
+    "barcode": "9339687137039",
+    "shop": "Woolworths",
+    "category_id": "23986",
+    "weight": "350G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/69092/macro-organic-gluten-free-spirals",
+    "name": "Macro Organic Gluten Free Spirals 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/069092.jpg",
+    "source_id": "69092",
+    "barcode": "9339687137053",
+    "shop": "Woolworths",
+    "category_id": "23986",
+    "weight": "350G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "106",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/198648/pasta-roma-gluten-free-penne",
+    "name": "Pasta Roma Gluten Free Penne 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/198648.jpg",
+    "source_id": "198648",
+    "barcode": "720516025464",
+    "shop": "Woolworths",
+    "category_id": "23986",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "111",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/199385/pasta-roma-gluten-free-spirals",
+    "name": "Pasta Roma Gluten Free Spirals 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/199385.jpg",
+    "source_id": "199385",
+    "barcode": "720516025457",
+    "shop": "Woolworths",
+    "category_id": "23986",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "111",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/647730/san-remo-gluten-free-brown-rice-penne",
+    "name": "San Remo Gluten Free Brown Rice Penne 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/647730.jpg",
+    "source_id": "647730",
+    "barcode": "9310155005517",
+    "shop": "Woolworths",
+    "category_id": "23986",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/657011/san-remo-gluten-free-fettuccine",
+    "name": "San Remo Gluten Free Fettuccine 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/657011.jpg",
+    "source_id": "657011",
+    "barcode": "9310155009584",
+    "shop": "Woolworths",
+    "category_id": "23986",
+    "weight": "350G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "129",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/116403/san-remo-gluten-free-gnocchi",
+    "name": "San Remo Gluten Free Gnocchi 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/116403.jpg",
+    "source_id": "116403",
+    "barcode": "9310155010269",
+    "shop": "Woolworths",
+    "category_id": "23986",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/619463/san-remo-pasta-chickpea-spirals",
+    "name": "San Remo Pasta Chickpea Spirals 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/619463.jpg",
+    "source_id": "619463",
+    "barcode": "9310155008921",
+    "shop": "Woolworths",
+    "category_id": "23986",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

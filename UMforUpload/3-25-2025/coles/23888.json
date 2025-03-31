@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/nivea-men-protect-and-care-refreshing-face-wash-150ml-2862413",
+    "name": "Nivea Men Protect & Care Refreshing Face Wash | 150mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2862413.jpg&w=640&q=90",
+    "source_id": "2862413",
+    "barcode": "4005900358714",
+    "shop": "coles",
+    "category_id": "23888",
+    "weight": "150ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "933",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/l'oreal-men-expert-face-wash-magnesium-defence-100ml-5300384",
+    "name": "L'Oreal Men Expert Face Wash Magnesium Defence | 100mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5300384.jpg&w=640&q=90",
+    "source_id": "5300384",
+    "barcode": "3600524030520",
+    "shop": "coles",
+    "category_id": "23888",
+    "weight": "100ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "720",
+        "price_per_unit": "720",
+        "price_unit": "ml"
+      }
+    ]
+  }
+]

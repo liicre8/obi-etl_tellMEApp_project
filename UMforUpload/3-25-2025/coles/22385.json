@@ -1,0 +1,122 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-garlic-paste-140g-3329079",
+    "name": "Coles Garlic Paste | 140g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3329079.jpg&w=640&q=90",
+    "source_id": "3329079",
+    "barcode": "9300601318117",
+    "shop": "coles",
+    "category_id": "22385",
+    "weight": "140g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "32",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "32",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "32",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "32",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "32",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "32",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "32",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "32",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-garlic-cloves-prepacked-70g-3479162",
+    "name": "Fresh Garlic Cloves Prepacked | 70g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3479162.jpg&w=640&q=90",
+    "source_id": "3479162",
+    "barcode": "9310645260754",
+    "shop": "coles",
+    "category_id": "22385",
+    "weight": "70g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "280",
+        "price_per_unit": "4000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "4000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "280",
+        "price_per_unit": "4000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "280",
+        "price_per_unit": "4000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "280",
+        "price_per_unit": "4000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "280",
+        "price_per_unit": "4000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "280",
+        "price_per_unit": "4000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "280",
+        "price_per_unit": "4000",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

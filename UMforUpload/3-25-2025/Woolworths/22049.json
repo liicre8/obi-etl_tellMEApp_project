@@ -1,0 +1,56 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/52175/babylove-cosifit-nappies-size-4-9-14kg-",
+    "name": "Babylove Cosifit Nappies Size 4 (9-14kg) 34 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/052175.jpg",
+    "source_id": "52175",
+    "barcode": "9312818004455",
+    "shop": "Woolworths",
+    "category_id": "22049",
+    "weight": "34 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "35",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/676127/eco-by-naty-nappies-bulk-size-4",
+    "name": "Eco By Naty Nappies Bulk Size 4 44 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/676127.jpg",
+    "source_id": "676127",
+    "barcode": "7330933178433",
+    "shop": "Woolworths",
+    "category_id": "22049",
+    "weight": "44 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "45",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/86176/little-one-s-size-4-ultra-dry-nappies-toddler-10-15kg-boys-girls",
+    "name": "Little One's Size 4 Ultra Dry Nappies Toddler 10-15kg Boys & Girls 50 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/086176.jpg",
+    "source_id": "86176",
+    "barcode": "9339687165131",
+    "shop": "Woolworths",
+    "category_id": "22049",
+    "weight": "50 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "24",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

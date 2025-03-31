@@ -1,0 +1,308 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/682573/abe-s-bagels-blueberry-bagels",
+    "name": "Abe's Bagels Blueberry Bagels 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/682573.jpg",
+    "source_id": "682573",
+    "barcode": "9421001850813",
+    "shop": "Woolworths",
+    "category_id": "22087",
+    "weight": "4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/298548/abe-s-bagels-brioche-bagels",
+    "name": "Abe's Bagels Brioche Bagels 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/298548.jpg",
+    "source_id": "298548",
+    "barcode": "9421001852640",
+    "shop": "Woolworths",
+    "category_id": "22087",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387749/abe-s-bagels-the-supergrain-bagels",
+    "name": "Abe's Bagels The Supergrain Bagels 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/387749.jpg",
+    "source_id": "387749",
+    "barcode": "9421001850967",
+    "shop": "Woolworths",
+    "category_id": "22087",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/925692/abe-s-bagels-thins-natural",
+    "name": "Abe's Bagels Thins Natural 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/925692.jpg",
+    "source_id": "925692",
+    "barcode": "9421001852749",
+    "shop": "Woolworths",
+    "category_id": "22087",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/924888/abe-s-bagels-thins-sesame",
+    "name": "Abe's Bagels Thins Sesame 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/924888.jpg",
+    "source_id": "924888",
+    "barcode": "9421001852756",
+    "shop": "Woolworths",
+    "category_id": "22087",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/645865/bakery-du-jour-brioche-burger-buns",
+    "name": "Bakery Du Jour Brioche Burger Buns 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/645865.jpg",
+    "source_id": "645865",
+    "barcode": "9336047001702",
+    "shop": "Woolworths",
+    "category_id": "22087",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/390660/glicks-everything-bagels",
+    "name": "Glicks Everything Bagels 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/390660.jpg",
+    "source_id": "390660",
+    "barcode": "9313153998768",
+    "shop": "Woolworths",
+    "category_id": "22087",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "108",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/71654/glicks-plain-bagel",
+    "name": "Glicks Plain Bagel 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/071654.jpg",
+    "source_id": "71654",
+    "barcode": "9313153001086",
+    "shop": "Woolworths",
+    "category_id": "22087",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "108",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/71647/glicks-sesame-bagel",
+    "name": "Glicks Sesame Bagel 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/071647.jpg",
+    "source_id": "71647",
+    "barcode": "9313153001093",
+    "shop": "Woolworths",
+    "category_id": "22087",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "108",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/13044/mighty-soft-bread-rolls-hamburger-buns",
+    "name": "Mighty Soft Bread Rolls Hamburger Buns 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/013044.jpg",
+    "source_id": "13044",
+    "barcode": "9310023133533",
+    "shop": "Woolworths",
+    "category_id": "22087",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "46",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/165218/tip-top-damper-rolls-bbq-bread-bakery",
+    "name": "Tip Top Damper Rolls BBQ Bread Bakery 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/165218.jpg",
+    "source_id": "165218",
+    "barcode": "9310043005629",
+    "shop": "Woolworths",
+    "category_id": "22087",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "78",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/165219/tip-top-hamburger-white-bread-rolls-bbq-buns-bakery",
+    "name": "Tip Top Hamburger White Bread Rolls BBQ Buns Bakery 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/165219.jpg",
+    "source_id": "165219",
+    "barcode": "9310043005605",
+    "shop": "Woolworths",
+    "category_id": "22087",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "78",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/165220/tip-top-hot-dog-bread-rolls-bbq-bakery",
+    "name": "Tip Top Hot Dog Bread Rolls BBQ Bakery 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/165220.jpg",
+    "source_id": "165220",
+    "barcode": "9310043005612",
+    "shop": "Woolworths",
+    "category_id": "22087",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "78",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/217401/tip-top-potato-burger-buns-bbq-bread-rolls-bakery",
+    "name": "Tip Top Potato Burger Buns BBQ Bread Rolls Bakery 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/217401.jpg",
+    "source_id": "217401",
+    "barcode": "9339423009330",
+    "shop": "Woolworths",
+    "category_id": "22087",
+    "weight": "4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "154",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/222270/woolworths-plain-bagels",
+    "name": "Woolworths Plain Bagels 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/222270.jpg",
+    "source_id": "222270",
+    "barcode": "9339687304592",
+    "shop": "Woolworths",
+    "category_id": "22087",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "75",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/221763/woolworths-sesame-bagels",
+    "name": "Woolworths Sesame Bagels 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/221763.jpg",
+    "source_id": "221763",
+    "barcode": "9339687304523",
+    "shop": "Woolworths",
+    "category_id": "22087",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "75",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/140173/woolworths-soft-glazed-milk-buns",
+    "name": "Woolworths Soft & Glazed Milk Buns 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/140173.jpg",
+    "source_id": "140173",
+    "barcode": "9339687227389",
+    "shop": "Woolworths",
+    "category_id": "22087",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "138",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

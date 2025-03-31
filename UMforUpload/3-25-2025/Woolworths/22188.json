@@ -1,0 +1,20 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/227824/chatime-passionfruit-iced-bubble-tea",
+    "name": "Chatime Passionfruit Iced Bubble Tea 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/227824.jpg",
+    "source_id": "227824",
+    "barcode": "9359338000079",
+    "shop": "Woolworths",
+    "category_id": "22188",
+    "weight": "4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "150",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

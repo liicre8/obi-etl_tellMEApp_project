@@ -1,0 +1,20 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/smiths-cheese-onion-crinkle-60g-3851820",
+    "name": "Smiths Cheese Onion Crinkle | 60g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3851820.jpg&w=640&q=90",
+    "source_id": "3851820",
+    "barcode": "9310015243677",
+    "shop": "coles",
+    "category_id": "22893",
+    "weight": "60g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "333",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

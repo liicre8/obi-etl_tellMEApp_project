@@ -1,0 +1,128 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/162633/doctor-b-s-barf-combo-recipe-frozen-dog-food",
+    "name": "Doctor B's Barf Combo Recipe Frozen Dog Food 227gx 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/162633.jpg",
+    "source_id": "162633",
+    "barcode": "9335355000322",
+    "shop": "Woolworths",
+    "category_id": "22937",
+    "weight": "227gx 12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3400",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/174541/doctor-b-s-barf-frozen-combo-medallions-dog-food",
+    "name": "Doctor B's Barf Frozen Combo Medallions Dog Food 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/174541.jpg",
+    "source_id": "174541",
+    "barcode": "9319185004903",
+    "shop": "Woolworths",
+    "category_id": "22937",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "170",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/177079/doctor-b-s-barf-frozen-kangaroo-retriever-bone",
+    "name": "Doctor B's Barf Frozen Kangaroo Retriever Bone 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/177079.jpg",
+    "source_id": "177079",
+    "barcode": "9319185004804",
+    "shop": "Woolworths",
+    "category_id": "22937",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/177525/doctor-b-s-barf-frozen-kangaroo-tail-bones-adult-dog-treats",
+    "name": "Doctor B's Barf Frozen Kangaroo Tail Bones Adult Dog Treats 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/177525.jpg",
+    "source_id": "177525",
+    "barcode": "9319185004811",
+    "shop": "Woolworths",
+    "category_id": "22937",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/162047/doctor-b-s-barf-kangaroo-recipe-frozen-dog-food",
+    "name": "Doctor B's Barf Kangaroo Recipe Frozen Dog Food 227gx 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/162047.jpg",
+    "source_id": "162047",
+    "barcode": "9335355000315",
+    "shop": "Woolworths",
+    "category_id": "22937",
+    "weight": "227gx 12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3400",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/162386/dr-bs-dr-b-s-barf-chicken-recipe-frozen-dog-food",
+    "name": "Dr b's Barf Chicken Recipe Frozen Dog Food 227g x12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/162386.jpg",
+    "source_id": "162386",
+    "barcode": "9335355060012",
+    "shop": "Woolworths",
+    "category_id": "22937",
+    "weight": "227g x12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3400",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/899856/premi-yum-dog-food-frozen-meatballs-chicken",
+    "name": "Premi-Yum Dog Food Frozen Meatballs Chicken 1.6kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/899856.jpg",
+    "source_id": "899856",
+    "barcode": "9334864006658",
+    "shop": "Woolworths",
+    "category_id": "22937",
+    "weight": "1.6kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "131",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

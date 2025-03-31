@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/51952/b-green-organic-slow-release-fert",
+    "name": "B-green Organic Slow Release Fert 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/051952.jpg",
+    "source_id": "51952",
+    "barcode": "9310202300039",
+    "shop": "Woolworths",
+    "category_id": "22528",
+    "weight": "800G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "730",
+        "price_per_unit": "91",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/169533/brunnings-all-purpose-npk-fertiliser",
+    "name": "Brunnings All Purpose Npk Fertiliser 3kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/169533.jpg",
+    "source_id": "169533",
+    "barcode": "9310522500720",
+    "shop": "Woolworths",
+    "category_id": "22528",
+    "weight": "3Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1850",
+        "price_per_unit": "62",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/12492/brunnings-organic-fruit-citrus-food",
+    "name": "Brunnings Organic Fruit & Citrus Food 2.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/012492.jpg",
+    "source_id": "12492",
+    "barcode": "9310522025506",
+    "shop": "Woolworths",
+    "category_id": "22528",
+    "weight": "2.5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/12482/brunnings-organic-rose-flower-food",
+    "name": "Brunnings Organic Rose & Flower Food 2.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/012482.jpg",
+    "source_id": "12482",
+    "barcode": "9310522025490",
+    "shop": "Woolworths",
+    "category_id": "22528",
+    "weight": "2.5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

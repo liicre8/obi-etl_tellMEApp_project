@@ -1,0 +1,92 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/foster-clarks-quick-custard-powder-mix-80g-219959",
+    "name": "Foster Clarks Quick Custard Powder Mix | 80g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F219959.jpg&w=640&q=90",
+    "source_id": "219959",
+    "barcode": "9300681403284",
+    "shop": "coles",
+    "category_id": "22983",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "325",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/easiyo-black-yoghurt-maker-1-each-2745748",
+    "name": "Easiyo Black Yoghurt Maker | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2745748.jpg&w=640&q=90",
+    "source_id": "2745748",
+    "barcode": "9416892125157",
+    "shop": "coles",
+    "category_id": "22983",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2750",
+        "price_per_unit": "2750",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/easiyo-greek-style-unsweetened-yoghurt-170g-2745985",
+    "name": "Easiyo Greek Style Unsweetened Yoghurt | 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2745985.jpg&w=640&q=90",
+    "source_id": "2745985",
+    "barcode": "9416892292125",
+    "shop": "coles",
+    "category_id": "22983",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "353",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-custard-powder-350g-5896229",
+    "name": "Coles Custard Powder | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5896229.jpg&w=640&q=90",
+    "source_id": "5896229",
+    "barcode": "9300601322831",
+    "shop": "coles",
+    "category_id": "22983",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "71",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-wings-in-a-cup-cinnamon-doughnut-220g-6373226",
+    "name": "White Wings In A Cup Cinnamon Doughnut | 220g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6373226.jpg&w=640&q=90",
+    "source_id": "6373226",
+    "barcode": "9310047218230",
+    "shop": "coles",
+    "category_id": "22983",
+    "weight": "220g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "273",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

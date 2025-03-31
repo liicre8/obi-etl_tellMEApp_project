@@ -11,7 +11,7 @@ const __dirname = path.dirname(__filename);
 
 // Resolve correct paths
 const sourceFolder = path.resolve(__dirname, `../matched/${process.env.FOLDER_DATE}/`);
-const keyValueFilePath = path.join(__dirname, "folder1", "matchedList.json"); // JSON Object file
+const keyValueFilePath = path.join(__dirname, "Matched_Barcodes", "matchedList.json"); // JSON Object file
 
 const compareFolder1 = path.resolve(__dirname, `./data/${process.env.FOLDER_DATE}/`);
 const compareFolder2 = path.resolve(__dirname, `../woolworths/data/${process.env.FOLDER_DATE}/`);

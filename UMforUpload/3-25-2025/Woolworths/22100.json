@@ -1,0 +1,434 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6000203/bega-cheese-fridge-sticks",
+    "name": "Bega Cheese Fridge Sticks 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6000203.jpg",
+    "source_id": "6000203",
+    "barcode": "9352042004821",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/346623/bega-cheese-snack-stringers-cheddar-cheese",
+    "name": "Bega Cheese Snack Stringers Cheddar 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/346623.jpg",
+    "source_id": "346623",
+    "barcode": "9310264912126",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "4375",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/280377/bega-cheese-snack-stringers-cheese-cheese",
+    "name": "Bega Cheese Snack Stringers Cheese 240g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/280377.jpg",
+    "source_id": "280377",
+    "barcode": "9310052276492",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "240g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "920",
+        "price_per_unit": "3833",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/901658/bega-colby-cheese-crackers",
+    "name": "Bega Colby Cheese & Crackers 38g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/901658.jpg",
+    "source_id": "901658",
+    "barcode": "9310053108310",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "38g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "6579",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/105947/bega-strong-bitey-cheese-crackers",
+    "name": "Bega Strong & Bitey Cheese & Crackers 28g x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/105947.jpg",
+    "source_id": "105947",
+    "barcode": "9310053108426",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "28g x 4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "5625",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/769404/dairyworks-colby-cheese-rice-crackers",
+    "name": "Dairyworks Colby Cheese & Rice Crackers 4x120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/769404.jpg",
+    "source_id": "769404",
+    "barcode": "9421018080609",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "4x120G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "4167",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/578498/dairyworks-tasty-cheese-rice-cracker",
+    "name": "Dairyworks Tasty Cheese & Rice Cracker 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/578498.jpg",
+    "source_id": "578498",
+    "barcode": "9421018082849",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "3667",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/410455/kraft-bluey-mild-cheese-sticks",
+    "name": "Kraft Bluey Mild Cheese Sticks 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/410455.jpg",
+    "source_id": "410455",
+    "barcode": "9316389198001",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/420584/kraft-bluey-mild-cheese-sticks",
+    "name": "Kraft Bluey Mild Cheese Sticks 5 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/420584.jpg",
+    "source_id": "420584",
+    "barcode": "9316389197905",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "5 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/224796/mainland-cheese-snack-with-crackers-extra-tasty-special-res-cheese",
+    "name": "Mainland Cheese Snack with Crackers Extra Tasty Special Res Cheese 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/224796.jpg",
+    "source_id": "224796",
+    "barcode": "9310052310394",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/224795/mainland-cheese-snack-with-crackers-tasty-cheese",
+    "name": "Mainland Cheese Snack with Crackers Tasty Cheese 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/224795.jpg",
+    "source_id": "224795",
+    "barcode": "9310052310387",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/903703/mainland-extra-tasty-cheddar-cracker-cuts",
+    "name": "Mainland Extra Tasty Cheddar Cracker Cuts 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/903703.jpg",
+    "source_id": "903703",
+    "barcode": "9310053108174",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/316673/moondarra-cream-cheese-herb-garlic-snack-pack",
+    "name": "Moondarra Cream Cheese Herb & Garlic Snack Pack 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/316673.jpg",
+    "source_id": "316673",
+    "barcode": "9329427005148",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/317172/moondarra-cream-cheese-honey-pistachio-snack-pack",
+    "name": "Moondarra Cream Cheese Honey & Pistachio Snack Pack 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/317172.jpg",
+    "source_id": "317172",
+    "barcode": "9329427005209",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/903948/primo-paw-patrol-leg-ham-choc-chip-cookies-tasty-cheese",
+    "name": "Primo Paw Patrol Leg Ham Choc Chip Cookies & Tasty Cheese 38g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/903948.jpg",
+    "source_id": "903948",
+    "barcode": "9311594014931",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "38g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "9211",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/453301/woolworths-cheese-crackers-light-tasty",
+    "name": "Woolworths Cheese & Crackers Light Tasty 50g Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/453301.jpg",
+    "source_id": "453301",
+    "barcode": "9300633583644",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "50G Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "3800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/120673/woolworths-extra-tasty-cheese-crackers",
+    "name": "Woolworths Extra Tasty Cheese & Crackers 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/120673.jpg",
+    "source_id": "120673",
+    "barcode": "9339687212385",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "120G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "3667",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/120672/woolworths-light-tasty-cheese-crackers",
+    "name": "Woolworths Light Tasty Cheese & Crackers 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/120672.jpg",
+    "source_id": "120672",
+    "barcode": "9339687212378",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "120G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "3667",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/453303/woolworths-natural-cheese-sticks",
+    "name": "Woolworths Natural Cheese Sticks 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/453303.jpg",
+    "source_id": "453303",
+    "barcode": "9300633583668",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "160G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "570",
+        "price_per_unit": "3563",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/453300/woolworths-natural-tasty-cheese-crackers",
+    "name": "Woolworths Natural Tasty Cheese & Crackers Each 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/453300.jpg",
+    "source_id": "453300",
+    "barcode": "9300633583637",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "Each 50G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "3800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/120581/woolworths-tasty-cheese-crackers",
+    "name": "Woolworths Tasty Cheese & Crackers 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/120581.jpg",
+    "source_id": "120581",
+    "barcode": "9339687212361",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "120G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "3667",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85679/woolworths-tasty-cheese-cubes-mini-pretzels",
+    "name": "Woolworths Tasty Cheese Cubes & Mini Pretzels 35g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085679.jpg",
+    "source_id": "85679",
+    "barcode": "9339687269624",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "35G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "6571",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/918310/woolworths-tasty-cheese-ham-rice-cracker",
+    "name": "Woolworths Tasty Cheese Ham & Rice Cracker 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/918310.jpg",
+    "source_id": "918310",
+    "barcode": "9339687390823",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "7000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/919729/woolworths-tasty-cheese-salami-water-crackers",
+    "name": "Woolworths Tasty Cheese Salami & Water Crackers 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/919729.jpg",
+    "source_id": "919729",
+    "barcode": "9339687391165",
+    "shop": "Woolworths",
+    "category_id": "22100",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "7000",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

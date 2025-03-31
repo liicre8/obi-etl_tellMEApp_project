@@ -1,0 +1,92 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/savlon-antiseptic-cream-75g-197277",
+    "name": "Savlon Antiseptic Cream | 75g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F197277.jpg&w=640&q=90",
+    "source_id": "197277",
+    "barcode": "9300711023925",
+    "shop": "coles",
+    "category_id": "22415",
+    "weight": "75g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1067",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/thursday-plantation-tea-tree-and-manuka-healing-balm-30g-3163522",
+    "name": "Thursday Plantation Tea Tree & Manuka Healing Balm | 30g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3163522.jpg&w=640&q=90",
+    "source_id": "3163522",
+    "barcode": "9312146010869",
+    "shop": "coles",
+    "category_id": "22415",
+    "weight": "30g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "4667",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/medi-creme-antiseptic-cream-50g-3615395",
+    "name": "Medi Creme Antiseptic Cream | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3615395.jpg&w=640&q=90",
+    "source_id": "3615395",
+    "barcode": "9314807007065",
+    "shop": "coles",
+    "category_id": "22415",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/isocol-rubbing-alcohol-spray-450ml-6138215",
+    "name": "Isocol Rubbing Alcohol Spray | 450mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6138215.jpg&w=640&q=90",
+    "source_id": "6138215",
+    "barcode": "9338608007383",
+    "shop": "coles",
+    "category_id": "22415",
+    "weight": "450ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "444",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-antiseptic-liquid-250ml-9255270",
+    "name": "Coles Antiseptic Liquid | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9255270.jpg&w=640&q=90",
+    "source_id": "9255270",
+    "barcode": "9300601389025",
+    "shop": "coles",
+    "category_id": "22415",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      }
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/alula-gold-soy-0-12-months-infant-formula-900g-4156781",
+    "name": "Alula Gold Soy 0-12 Months Infant Formula | 900g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4156781.jpg&w=640&q=90",
+    "source_id": "4156781",
+    "barcode": "9347832001166",
+    "shop": "coles",
+    "category_id": "23830",
+    "weight": "900g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2900",
+        "price_per_unit": "322",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/karicare-goat-milk-infant-formula-900g-4991905",
+    "name": "Karicare Goat Milk Infant Formula | 900g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4991905.jpg&w=640&q=90",
+    "source_id": "4991905",
+    "barcode": "9421906332001",
+    "shop": "coles",
+    "category_id": "23830",
+    "weight": "900g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5000",
+        "price_per_unit": "556",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/karicare-goat-milk-follow-up-formula-900g-4992078",
+    "name": "Karicare Goat Milk Follow Up Formula | 900g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4992078.jpg&w=640&q=90",
+    "source_id": "4992078",
+    "barcode": "9421906332018",
+    "shop": "coles",
+    "category_id": "23830",
+    "weight": "900g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5000",
+        "price_per_unit": "556",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/karicare-goat-milk-toddler-milk-drink-900g-4992090",
+    "name": "Karicare Goat Milk Toddler Milk Drink | 900g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4992090.jpg&w=640&q=90",
+    "source_id": "4992090",
+    "barcode": "9421906332025",
+    "shop": "coles",
+    "category_id": "23830",
+    "weight": "900g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4800",
+        "price_per_unit": "533",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/alula-gold-allergy-0-12-months-infant-formula-800g-6184391",
+    "name": "Alula Gold Allergy 0-12 Months Infant Formula | 800g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6184391.jpg&w=640&q=90",
+    "source_id": "6184391",
+    "barcode": "9347832001203",
+    "shop": "coles",
+    "category_id": "23830",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4200",
+        "price_per_unit": "525",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-nan-expertpro-sensipro-infant-formula-premium-starter-formula-suitable-from-birth-1-each-6251717",
+    "name": "Nestle NAN Expertpro Sensipro Infant Formula Premium Starter Formula Suitable From Birth | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6251717.jpg&w=640&q=90",
+    "source_id": "6251717",
+    "barcode": "9300605152878",
+    "shop": "coles",
+    "category_id": "23830",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3500",
+        "price_per_unit": "438",
+        "price_unit": "each"
+      }
+    ]
+  }
+]

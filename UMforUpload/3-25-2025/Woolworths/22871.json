@@ -1,0 +1,128 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/606763/dinner-winner-pasta-beef",
+    "name": "Dinner Winner Pasta Beef 153g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/606763.jpg",
+    "source_id": "606763",
+    "barcode": "9300683504880",
+    "shop": "Woolworths",
+    "category_id": "22871",
+    "weight": "153G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "261",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/167302/kraft-vegan-mac-cheese-dinner-macaroni-pasta-noodles-cheese",
+    "name": "Kraft Vegan Mac & Cheese Dinner Macaroni Pasta Noodles Cheese 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/167302.jpg",
+    "source_id": "167302",
+    "barcode": "9300657660987",
+    "shop": "Woolworths",
+    "category_id": "22871",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/109137/mug-shot-creamy-cheese-pasta",
+    "name": "Mug Shot Creamy Cheese Pasta 68g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/109137.jpg",
+    "source_id": "109137",
+    "barcode": "5050665045576",
+    "shop": "Woolworths",
+    "category_id": "22871",
+    "weight": "68G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "130",
+        "price_per_unit": "191",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/218913/mug-shot-pasta-roast-chicken-flavour",
+    "name": "Mug Shot Pasta Roast Chicken Flavour 55g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/218913.jpg",
+    "source_id": "218913",
+    "barcode": "5050665047723",
+    "shop": "Woolworths",
+    "category_id": "22871",
+    "weight": "55g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "130",
+        "price_per_unit": "236",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/108509/mug-shot-tomato-herb-pasta",
+    "name": "Mug Shot Tomato & Herb Pasta 64g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/108509.jpg",
+    "source_id": "108509",
+    "barcode": "5050665045590",
+    "shop": "Woolworths",
+    "category_id": "22871",
+    "weight": "64G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "130",
+        "price_per_unit": "203",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/700712/san-remo-la-pasta-creamy-bacon",
+    "name": "San Remo La Pasta Creamy Bacon 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/700712.jpg",
+    "source_id": "700712",
+    "barcode": "9310155001830",
+    "shop": "Woolworths",
+    "category_id": "22871",
+    "weight": "160G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/884028/the-big-cheese-extra-large-macaroni-cheesy-chook",
+    "name": "The Big Cheese Extra Large Macaroni & Cheesy Chook 105g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/884028.jpg",
+    "source_id": "884028",
+    "barcode": "9310155612067",
+    "shop": "Woolworths",
+    "category_id": "22871",
+    "weight": "105g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/bosisto's-eucalyptus-solution-500ml-1216162",
+    "name": "Bosisto's Eucalyptus Solution | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1216162.jpg&w=640&q=90",
+    "source_id": "1216162",
+    "barcode": "9300710001047",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/eureka-eucalyptus-water-soluble-solution-500ml-1746031",
+    "name": "Eureka Eucalyptus Water Soluble Solution | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1746031.jpg&w=640&q=90",
+    "source_id": "1746031",
+    "barcode": "9312146011071",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "280",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-rapid-tablets-ibuprofen-24pack-2843292",
+    "name": "Coles Rapid Tablets Ibuprofen | 24pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2843292.jpg&w=640&q=90",
+    "source_id": "2843292",
+    "barcode": "9310645182353",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "24pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "19",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-epsom-salts-1kg-2845946",
+    "name": "Coles Epsom Salts | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2845946.jpg&w=640&q=90",
+    "source_id": "2845946",
+    "barcode": "9310645182377",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/eureka-lavender-water-soluble-solution-100ml-3414746",
+    "name": "Eureka Lavender Water Soluble Solution | 100mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3414746.jpg&w=640&q=90",
+    "source_id": "3414746",
+    "barcode": "9312146011095",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "100ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "980",
+        "price_per_unit": "980",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-ibuprofen-mini-capsules-bottle-25-pack-3417937",
+    "name": "Coles Ibuprofen Mini Capsules Bottle | 25 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3417937.jpg&w=640&q=90",
+    "source_id": "3417937",
+    "barcode": "9310645254685",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "25pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "10",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-ankle-support-premium-1-each-3540037",
+    "name": "Coles Ankle Support Premium | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3540037.jpg&w=640&q=90",
+    "source_id": "3540037",
+    "barcode": "9310645269573",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-knee-support-premium-1-each-3540048",
+    "name": "Coles Knee Support Premium | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3540048.jpg&w=640&q=90",
+    "source_id": "3540048",
+    "barcode": "9310645269580",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-wrist-support-premium-1-each-3540059",
+    "name": "Coles Wrist Support Premium | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3540059.jpg&w=640&q=90",
+    "source_id": "3540059",
+    "barcode": "9310645269597",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-reusable-gel-hotcold-pack-1-each-3540128",
+    "name": "Coles Reusable Gel Hot/Cold Pack | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3540128.jpg&w=640&q=90",
+    "source_id": "3540128",
+    "barcode": "9310645269610",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-heat-pack-silicone-bead-1-each-3540140",
+    "name": "Coles Heat Pack Silicone Bead | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3540140.jpg&w=640&q=90",
+    "source_id": "3540140",
+    "barcode": "9310645269603",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-eucalyptus-oil-175ml-3653372",
+    "name": "Coles Eucalyptus Oil | 175mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3653372.jpg&w=640&q=90",
+    "source_id": "3653372",
+    "barcode": "9310645353951",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "175ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "800",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-eucalyptus-solution-10percent-500ml-3844392",
+    "name": "Coles Eucalyptus Solution 10% | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3844392.jpg&w=640&q=90",
+    "source_id": "3844392",
+    "barcode": "9310645314679",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "240",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/salts-and-co-pure-epsom-and-pink-himalayan-bath-salts-1kg-4509280",
+    "name": "Salts & Co Pure Epsom And Pink Himalayan Bath Salts | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4509280.jpg&w=640&q=90",
+    "source_id": "4509280",
+    "barcode": "9322662040172",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/curash-medicated-anti-rash-powder-with-cornstarch-100g-5063347",
+    "name": "Curash Medicated Anti Rash Powder With Cornstarch | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5063347.jpg&w=640&q=90",
+    "source_id": "5063347",
+    "barcode": "9312059473034",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/salts-and-co-epsom-and-dead-sea-bath-salt-750g-6122805",
+    "name": "Salts & Co Epsom & Dead Sea Bath Salt | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6122805.jpg&w=640&q=90",
+    "source_id": "6122805",
+    "barcode": "9322662046402",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "93",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/planet-remedy-hayfever-inhaler-1ml-6123193",
+    "name": "Planet Remedy Hayfever Inhaler | 1mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6123193.jpg&w=640&q=90",
+    "source_id": "6123193",
+    "barcode": "9358859000438",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "1ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "54000",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/planet-remedy-headache-inhaler-1ml-6123218",
+    "name": "Planet Remedy Headache Inhaler | 1mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6123218.jpg&w=640&q=90",
+    "source_id": "6123218",
+    "barcode": "9358859000452",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "1ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "54000",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dermal-therapy-chafing-and-sweat-rash-prevention-cream-75g-6137890",
+    "name": "Dermal Therapy Chafing & Sweat Rash Prevention Cream | 75g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6137890.jpg&w=640&q=90",
+    "source_id": "6137890",
+    "barcode": "9329224002456",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "75g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "2000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanofi-glycerine-softens-rough-skin-200ml-9436333",
+    "name": "Sanofi Glycerine - Softens Rough Skin | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9436333.jpg&w=640&q=90",
+    "source_id": "9436333",
+    "barcode": "9300655602880",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "ml"
+      }
+    ]
+  }
+]

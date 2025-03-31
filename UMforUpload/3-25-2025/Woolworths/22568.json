@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/236983/adesso-steam-iron",
+    "name": "Adesso Steam Iron Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/236983.jpg",
+    "source_id": "236983",
+    "barcode": "9339687303465",
+    "shop": "Woolworths",
+    "category_id": "22568",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/248547/clean-iron-aid-starch-spray",
+    "name": "Clean Iron Aid Starch Spray 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/248547.jpg",
+    "source_id": "248547",
+    "barcode": "9339687316397",
+    "shop": "Woolworths",
+    "category_id": "22568",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "625",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

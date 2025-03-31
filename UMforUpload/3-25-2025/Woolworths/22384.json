@@ -1,0 +1,20 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/921080/just-veg-carrot-sticks",
+    "name": "Just Veg. Carrot Sticks 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/921080.jpg",
+    "source_id": "921080",
+    "barcode": "9321406001653",
+    "shop": "Woolworths",
+    "category_id": "22384",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

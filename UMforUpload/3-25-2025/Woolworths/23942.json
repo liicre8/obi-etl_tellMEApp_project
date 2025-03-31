@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/545902/liquid-death-mango-chainsaw-flavoured-sparkling-water",
+    "name": "Liquid Death Mango Chainsaw Flavoured Sparkling Water 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/545902.jpg",
+    "source_id": "545902",
+    "barcode": "850031700727",
+    "shop": "Woolworths",
+    "category_id": "23942",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/528879/liquid-death-mountain-water",
+    "name": "Liquid Death Mountain Water 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/528879.jpg",
+    "source_id": "528879",
+    "barcode": "850031700680",
+    "shop": "Woolworths",
+    "category_id": "23942",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/513467/liquid-death-severed-lime-sparkling-water",
+    "name": "Liquid Death Severed Lime Sparkling Water 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/513467.jpg",
+    "source_id": "513467",
+    "barcode": "850031700703",
+    "shop": "Woolworths",
+    "category_id": "23942",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/109915/nu-pure-still-spring-water",
+    "name": "Nu Pure Still Spring Water 600ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/109915.jpg",
+    "source_id": "109915",
+    "barcode": "9335388001884",
+    "shop": "Woolworths",
+    "category_id": "23942",
+    "weight": "600mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "125",
+        "price_per_unit": "208",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

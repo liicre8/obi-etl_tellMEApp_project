@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const keyValueFilePath = path.join(__dirname, 'folder1', 'matchedList.json'); // JSON Object file
+const keyValueFilePath = path.join(__dirname, 'Matched_Barcodes', 'matchedList.json'); // JSON Object file
 const targetFile = path.join(__dirname, 'data'); // Path to the nested folder containing JSON array files
 
 // Step 1: Read the key-value pair from the JSON object file

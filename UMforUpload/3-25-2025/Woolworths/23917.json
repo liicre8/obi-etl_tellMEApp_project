@@ -1,0 +1,146 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/166702/femfresh-pocket-wipes",
+    "name": "Femfresh Pocket Wipes 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/166702.jpg",
+    "source_id": "166702",
+    "barcode": "9310320003775",
+    "shop": "Woolworths",
+    "category_id": "23917",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "33",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/787572/nivea-soft-moisturiser-for-face-and-body-mini-tub",
+    "name": "Nivea Soft Moisturiser For Face And Body Mini Tub 50ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/787572.jpg",
+    "source_id": "787572",
+    "barcode": "42207443",
+    "shop": "Woolworths",
+    "category_id": "23917",
+    "weight": "50ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "860",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/698244/ogx-argan-oil-shampoo-for-dry-damaged-hair",
+    "name": "OGX Argan Oil Shampoo For Dry & Damaged Hair 88.7mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/698244.jpg",
+    "source_id": "698244",
+    "barcode": "22796913111",
+    "shop": "Woolworths",
+    "category_id": "23917",
+    "weight": "88.7mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "676",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/254984/rexona-men-antiperspirant-aerosol-deodorant-original",
+    "name": "Rexona Men Antiperspirant Aerosol Deodorant Original 50ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/254984.jpg",
+    "source_id": "254984",
+    "barcode": "93210461",
+    "shop": "Woolworths",
+    "category_id": "23917",
+    "weight": "50mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/557929/rexona-women-antiperspirant-aerosol-deodorant-sexy-bouquet",
+    "name": "Rexona Women Antiperspirant Aerosol Deodorant Sexy Bouquet 50ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/557929.jpg",
+    "source_id": "557929",
+    "barcode": "93666763",
+    "shop": "Woolworths",
+    "category_id": "23917",
+    "weight": "50mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/385450/thanks-to-nature-7-piece-accessories-kit",
+    "name": "Thanks To Nature 7 Piece Accessories Kit Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/385450.jpg",
+    "source_id": "385450",
+    "barcode": "9342746002063",
+    "shop": "Woolworths",
+    "category_id": "23917",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "1600",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/385099/thanks-to-nature-smooth-control-conditioner-mini",
+    "name": "Thanks To Nature Smooth & Control Conditioner Mini 75ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/385099.jpg",
+    "source_id": "385099",
+    "barcode": "9342746005408",
+    "shop": "Woolworths",
+    "category_id": "23917",
+    "weight": "75ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "667",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/385429/thanks-to-nature-smooth-control-shampoo-mini",
+    "name": "Thanks To Nature Smooth & Control Shampoo Mini 75ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/385429.jpg",
+    "source_id": "385429",
+    "barcode": "9342746005392",
+    "shop": "Woolworths",
+    "category_id": "23917",
+    "weight": "75ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "667",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

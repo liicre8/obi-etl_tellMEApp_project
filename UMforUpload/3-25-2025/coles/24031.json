@@ -1,0 +1,56 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/natural-wafer-crackers-100g-2449676",
+    "name": "Natural  Wafer Crackers | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2449676.jpg&w=640&q=90",
+    "source_id": "2449676",
+    "barcode": "9349571000103",
+    "shop": "coles",
+    "category_id": "24031",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fine-foods-cracked-pepper-wafer-crackers-100g-2452976",
+    "name": "Fine Foods Cracked Pepper Wafer Crackers | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2452976.jpg&w=640&q=90",
+    "source_id": "2452976",
+    "barcode": "9349571000134",
+    "shop": "coles",
+    "category_id": "24031",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ob-finest-gluten-free-wafer-crackers-100g-3053080",
+    "name": "OB Finest Gluten Free Wafer Crackers | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3053080.jpg&w=640&q=90",
+    "source_id": "3053080",
+    "barcode": "9349571000158",
+    "shop": "coles",
+    "category_id": "24031",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

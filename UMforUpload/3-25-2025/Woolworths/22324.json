@@ -1,0 +1,92 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/372513/blueline-seafood-crumbed-fish-fingers",
+    "name": "Blueline Seafood Crumbed Fish Fingers 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/372513.jpg",
+    "source_id": "372513",
+    "barcode": "9315822020190",
+    "shop": "Woolworths",
+    "category_id": "22324",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/310432/findus-crumbed-fish-fingers",
+    "name": "Findus Crumbed Fish Fingers 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/310432.jpg",
+    "source_id": "310432",
+    "barcode": "5000116128495",
+    "shop": "Woolworths",
+    "category_id": "22324",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "1179",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/309991/findus-crumbed-fish-fingers",
+    "name": "Findus Crumbed Fish Fingers 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/309991.jpg",
+    "source_id": "309991",
+    "barcode": "5000116127900",
+    "shop": "Woolworths",
+    "category_id": "22324",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "1444",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/229593/findus-crumbed-fish-fingers",
+    "name": "Findus Crumbed Fish Fingers 840g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/229593.jpg",
+    "source_id": "229593",
+    "barcode": "7310500184999",
+    "shop": "Woolworths",
+    "category_id": "22324",
+    "weight": "840g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "1429",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/413030/sealord-gluten-free-hoki-fish-fillet-crumb",
+    "name": "Sealord Gluten Free Hoki Fish Fillet Crumb 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/413030.jpg",
+    "source_id": "413030",
+    "barcode": "9415022027682",
+    "shop": "Woolworths",
+    "category_id": "22324",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "2167",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

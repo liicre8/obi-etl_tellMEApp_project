@@ -1,0 +1,20 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-autumn-avocado-1-each-3766540",
+    "name": "Coles Autumn Avocado | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3766540.jpg&w=640&q=90",
+    "source_id": "3766540",
+    "barcode": "9369998085842",
+    "shop": "coles",
+    "category_id": "22380",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "each"
+      }
+    ]
+  }
+]

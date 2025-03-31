@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/780371/woolworths-whole-fresh-beetroot",
+    "name": "Woolworths Whole Fresh Beetroot 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/780371.jpg",
+    "source_id": "780371",
+    "barcode": "9300633473853",
+    "shop": "Woolworths",
+    "category_id": "22374",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/780372/woolworths-whole-fresh-beetroot",
+    "name": "Woolworths Whole Fresh Beetroot 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/780372.jpg",
+    "source_id": "780372",
+    "barcode": "9300633473860",
+    "shop": "Woolworths",
+    "category_id": "22374",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-bottle-330ml-1755190",
+    "name": "Coca-Cola Zero Sugar Soft Drink Bottle | 330mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1755190.jpg&w=640&q=90",
+    "source_id": "1755190",
+    "barcode": "9300675084192",
+    "shop": "coles",
+    "category_id": "23943",
+    "weight": "330ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "1091",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kirks-portello-soft-drink-bottle-600ml-2599679",
+    "name": "Kirks Portello Soft Drink Bottle | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2599679.jpg&w=640&q=90",
+    "source_id": "2599679",
+    "barcode": "9300624016656",
+    "shop": "coles",
+    "category_id": "23943",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "385",
+        "price_per_unit": "642",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-classic-soft-drink-bottle-1l-4869333",
+    "name": "Coca-Cola Classic Soft Drink Bottle | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4869333.jpg&w=640&q=90",
+    "source_id": "4869333",
+    "barcode": "9300675001243",
+    "shop": "coles",
+    "category_id": "23943",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "355",
+        "price_per_unit": "355",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-bottle-1l-4991202",
+    "name": "Coca-Cola Zero Sugar Soft Drink Bottle | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4991202.jpg&w=640&q=90",
+    "source_id": "4991202",
+    "barcode": "9300675084536",
+    "shop": "coles",
+    "category_id": "23943",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "355",
+        "price_per_unit": "355",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pepsi-max-raspberry-no-sugar-cola-soft-drink-bottle-600ml-5486679",
+    "name": "Pepsi Max Raspberry No Sugar Cola Soft Drink Bottle | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5486679.jpg&w=640&q=90",
+    "source_id": "5486679",
+    "barcode": "9313820002637",
+    "shop": "coles",
+    "category_id": "23943",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "583",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fanta-orange-soft-drink-bottle-600ml-5603820",
+    "name": "Fanta Orange Soft Drink Bottle | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5603820.jpg&w=640&q=90",
+    "source_id": "5603820",
+    "barcode": "9300675009843",
+    "shop": "coles",
+    "category_id": "23943",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "425",
+        "price_per_unit": "708",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-classic-glass-coke-soft-drink-330ml-6317065",
+    "name": "Coca-Cola Classic Glass Coke Soft Drink | 330mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6317065.jpg&w=640&q=90",
+    "source_id": "6317065",
+    "barcode": "9300675034180",
+    "shop": "coles",
+    "category_id": "23943",
+    "weight": "330ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "1091",
+        "price_unit": "ml"
+      }
+    ]
+  }
+]

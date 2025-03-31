@@ -1,0 +1,80 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/kinkawooka-fresh-blue-mussels-1kg-1216901",
+    "name": "Kinkawooka Fresh Blue Mussels | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1216901.jpg&w=640&q=90",
+    "source_id": "1216901",
+    "barcode": "9339566000041",
+    "shop": "coles",
+    "category_id": "22758",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/seabounty-fresh-blue-mussels-1-kg-5145758",
+    "name": "Seabounty Fresh Blue Mussels | 1 KG",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5145758.jpg&w=640&q=90",
+    "source_id": "5145758",
+    "barcode": "9369999004477",
+    "shop": "coles",
+    "category_id": "22758",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/jervis-bay-fresh-mussels-1kg-6475022",
+    "name": "Jervis Bay Fresh Mussels | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6475022.jpg&w=640&q=90",
+    "source_id": "6475022",
+    "barcode": "9341284009145",
+    "shop": "coles",
+    "category_id": "22758",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "kg"
+      }
+    ]
+  }
+]

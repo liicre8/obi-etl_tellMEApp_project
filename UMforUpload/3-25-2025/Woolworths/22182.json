@@ -1,0 +1,650 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/700536/berri-pop-tops-apple-blackcurrant-juice",
+    "name": "Berri Pop Tops Apple Blackcurrant Juice 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/700536.jpg",
+    "source_id": "700536",
+    "barcode": "9310113901936",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "130",
+        "price_per_unit": "520",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/700548/berri-pop-tops-apple-juice",
+    "name": "Berri Pop Tops Apple Juice 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/700548.jpg",
+    "source_id": "700548",
+    "barcode": "9310113901912",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "130",
+        "price_per_unit": "520",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/388459/dole-100-pineapple-juice",
+    "name": "Dole 100% Pineapple Juice 240mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/388459.jpg",
+    "source_id": "388459",
+    "barcode": "38900075132",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "240mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "140",
+        "price_per_unit": "583",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/390708/dole-pine-mango-100-juice",
+    "name": "Dole Pine-Mango 100% Juice 240mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/390708.jpg",
+    "source_id": "390708",
+    "barcode": "38900009601",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "240mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "140",
+        "price_per_unit": "583",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6004851/glee-raspberry-flavoured-fruit-juice",
+    "name": "Glee Raspberry Flavoured Fruit Juice 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6004851.jpg",
+    "source_id": "6004851",
+    "barcode": "9345905005974",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/432455/glee-sours-watermelon-flavoured-sparkling-fruit-juice",
+    "name": "Glee Sours Watermelon Flavoured Sparkling Fruit Juice 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/432455.jpg",
+    "source_id": "432455",
+    "barcode": "9345905008814",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/399131/glee-sparkling-fruit-juice-bubblegum-grape",
+    "name": "Glee Sparkling Fruit Juice Bubblegum Grape 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/399131.jpg",
+    "source_id": "399131",
+    "barcode": "9345905005967",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/416231/glee-tropical-treat-flavoured-sparkling-fruit-juice",
+    "name": "Glee Tropical Treat Flavoured Sparkling Fruit Juice 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/416231.jpg",
+    "source_id": "416231",
+    "barcode": "9345905005950",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "600",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/477442/golden-circle-apple-mango-juice-poppers-no-added-sugar-multipack-juice",
+    "name": "Golden Circle Apple & Mango Juice Poppers No Added Sugar Multipack Juice 200ml x6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/477442.jpg",
+    "source_id": "477442",
+    "barcode": "9310179191425",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "200ml X6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "542",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/477416/golden-circle-apple-juice-no-added-sugar-popper-lunchbox-fruit-juices",
+    "name": "Golden Circle Apple Juice No Added Sugar Popper Lunchbox Fruit Juices 200ml x6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/477416.jpg",
+    "source_id": "477416",
+    "barcode": "9310179191401",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "200ml X6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "542",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/555213/golden-circle-fruit-drinks-lunch-box-poppers-multipack-golden-pash",
+    "name": "Golden Circle Fruit Drinks Lunch Box Poppers Multipack Golden Pash 250ml x24 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/555213.jpg",
+    "source_id": "555213",
+    "barcode": "9310179199728",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250mL x24 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1490",
+        "price_per_unit": "248",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/555208/golden-circle-fruit-drinks-lunch-box-poppers-multipack-tropical-punch",
+    "name": "Golden Circle Fruit Drinks Lunch Box Poppers Multipack Tropical Punch 250ml x24 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/555208.jpg",
+    "source_id": "555208",
+    "barcode": "9310179199711",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250mL x24 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1490",
+        "price_per_unit": "248",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/477418/golden-circle-fruit-juice-box-poppers-tropical-juice-no-added-sugar",
+    "name": "Golden Circle Fruit Juice Box Poppers Tropical Juice No Added Sugar 200ml x6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/477418.jpg",
+    "source_id": "477418",
+    "barcode": "9310179191432",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "200mL x6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "542",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6004017/h2-juice-sparkling-fruit-drink-passionfruit",
+    "name": "H2 Juice Sparkling Fruit Drink Passionfruit 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6004017.jpg",
+    "source_id": "6004017",
+    "barcode": "9339655096559",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6004662/h2-juice-sparkling-fruit-drink-watermelon",
+    "name": "H2 Juice Sparkling Fruit Drink Watermelon 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6004662.jpg",
+    "source_id": "6004662",
+    "barcode": "9339655096573",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/315780/just-juice-apple-blackcurrant-juice",
+    "name": "Just Juice Apple & Blackcurrant Juice 6x200ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/315780.jpg",
+    "source_id": "315780",
+    "barcode": "9310113497514",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "6x200mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "433",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/315784/just-juice-orange-juice",
+    "name": "Just Juice Orange Juice 6x200ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/315784.jpg",
+    "source_id": "315784",
+    "barcode": "9310113497538",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "6x200mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "433",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/320473/p-n-apple-crush-fruit-drink-poppers",
+    "name": "P&N Apple Crush Fruit Drink Poppers 250ml x 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/320473.jpg",
+    "source_id": "320473",
+    "barcode": "9345905010701",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250ml x 6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/321164/p-n-golden-crush-fruit-drink-poppers",
+    "name": "P&N Golden Crush Fruit Drink Poppers 250ml x 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/321164.jpg",
+    "source_id": "321164",
+    "barcode": "9345905010725",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250ml x 6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/317821/p-n-tropical-crush-fruit-drink-poppers",
+    "name": "P&N Tropical Crush Fruit Drink Poppers 250ml x 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/317821.jpg",
+    "source_id": "317821",
+    "barcode": "9345905010718",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250ml x 6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "250",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/229753/pop-tops-fruit-drink-apple-blackcurrant-poppers-multipack-lunch-box",
+    "name": "Pop Tops Fruit Drink Apple Blackcurrant Poppers Multipack Lunch Box 250ml x 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/229753.jpg",
+    "source_id": "229753",
+    "barcode": "9315626000381",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250mL x 6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/229607/pop-tops-fruit-drink-apple-poppers-multipack-lunch-box-bottles",
+    "name": "Pop Tops Fruit Drink Apple Poppers Multipack Lunch Box Bottles 250ml x 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/229607.jpg",
+    "source_id": "229607",
+    "barcode": "9315626000404",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250mL x 6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/315759/prima-apple-raspberry-fruit-drink",
+    "name": "Prima Apple & Raspberry Fruit Drink 6x200ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/315759.jpg",
+    "source_id": "315759",
+    "barcode": "9310113497620",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "6x200mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "383",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/315747/prima-apple-fruit-drink",
+    "name": "Prima Apple Fruit Drink 6x200ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/315747.jpg",
+    "source_id": "315747",
+    "barcode": "9310113497606",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "6x200mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "383",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/315761/prima-orange-fruit-drink",
+    "name": "Prima Orange Fruit Drink 6x200ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/315761.jpg",
+    "source_id": "315761",
+    "barcode": "9310113497637",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "6x200mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "383",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/315776/prima-tropical-fruit-drink",
+    "name": "Prima Tropical Fruit Drink 6x200ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/315776.jpg",
+    "source_id": "315776",
+    "barcode": "9310113497668",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "6x200mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "383",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/75396/sunraysia-natural-prune-juice",
+    "name": "Sunraysia Natural Prune Juice 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/075396.jpg",
+    "source_id": "75396",
+    "barcode": "9310865109208",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "1280",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/135920/sunraysia-tropical-juice",
+    "name": "Sunraysia Tropical Juice 200ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/135920.jpg",
+    "source_id": "135920",
+    "barcode": "9310865610247",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "200mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/729169/woolworths-apple-blackcurrant-juice-multipack",
+    "name": "Woolworths Apple & Blackcurrant Juice Multipack 250mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/729169.jpg",
+    "source_id": "729169",
+    "barcode": "9300633326937",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250mL x 6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/729168/woolworths-apple-juice-multipack",
+    "name": "Woolworths Apple Juice Multipack 250mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/729168.jpg",
+    "source_id": "729168",
+    "barcode": "9300633326920",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250mL x 6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/84266/woolworths-apple-raspberry-35-fruit-juice-multipack",
+    "name": "Woolworths Apple Raspberry 35% Fruit Juice Multipack 250mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/084266.jpg",
+    "source_id": "84266",
+    "barcode": "9339687157914",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250mL x 6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "247",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/503038/woolworths-fruit-drink-35-apple-juice-multipack",
+    "name": "Woolworths Fruit Drink 35% Apple Juice Multipack 250mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/503038.jpg",
+    "source_id": "503038",
+    "barcode": "9300633541873",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250mL x 6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "247",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/503110/woolworths-fruit-drink-35-orange-mango-juice-multipack",
+    "name": "Woolworths Fruit Drink 35% Orange Mango Juice Multipack 250mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/503110.jpg",
+    "source_id": "503110",
+    "barcode": "9300633541897",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250mL x 6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "247",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/503111/woolworths-fruit-drink-35-tropical-juice-multipack",
+    "name": "Woolworths Fruit Drink 35% Tropical Juice Multipack 250mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/503111.jpg",
+    "source_id": "503111",
+    "barcode": "9300633541903",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250mL x 6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "247",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/729170/woolworths-orange-juice-multipack",
+    "name": "Woolworths Orange Juice Multipack 250mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/729170.jpg",
+    "source_id": "729170",
+    "barcode": "9300633326760",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250mL x 6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/757792/woolworths-tropical-juice-multipack",
+    "name": "Woolworths Tropical Juice Multipack 250mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/757792.jpg",
+    "source_id": "757792",
+    "barcode": "9300633421625",
+    "shop": "Woolworths",
+    "category_id": "22182",
+    "weight": "250mL x 6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

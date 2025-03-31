@@ -1,0 +1,20 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/lipton-ice-tea-lemon-tea-iced-tea-bottle-500ml-9446337",
+    "name": "Lipton Ice Tea Lemon Tea Iced Tea Bottle | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9446337.jpg&w=640&q=90",
+    "source_id": "9446337",
+    "barcode": "9310021039028",
+    "shop": "coles",
+    "category_id": "22180",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      }
+    ]
+  }
+]

@@ -1,0 +1,920 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-mini-cream-wafers-biscuits-multipack-175g-1389728",
+    "name": "Coles Mini Cream Wafers Biscuits Multipack | 175g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1389728.jpg&w=640&q=90",
+    "source_id": "1389728",
+    "barcode": "9300601932696",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "175g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "171",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-vanilla-cream-wafers-125g-1389783",
+    "name": "Coles Vanilla Cream Wafers | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1389783.jpg&w=640&q=90",
+    "source_id": "1389783",
+    "barcode": "9300601932597",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "80",
+        "price_per_unit": "64",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-chocolate-cream-wafers-125g-1389794",
+    "name": "Coles Chocolate Cream Wafers | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1389794.jpg&w=640&q=90",
+    "source_id": "1389794",
+    "barcode": "9300601932580",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "80",
+        "price_per_unit": "64",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-biscuits-scotch-fingers-250g-1404071",
+    "name": "Coles Biscuits Scotch Fingers | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1404071.jpg&w=640&q=90",
+    "source_id": "1404071",
+    "barcode": "9300601932573",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "125",
+        "price_per_unit": "50",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-milk-chocolate-digestive-biscuits-200g-1417700",
+    "name": "Coles Milk Chocolate Digestive Biscuits | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1417700.jpg&w=640&q=90",
+    "source_id": "1417700",
+    "barcode": "9300601931378",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/arnott's-monte-chocolate-biscuits-200g-235060",
+    "name": "Arnott's Monte Chocolate Biscuits | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F235060.jpg&w=640&q=90",
+    "source_id": "235060",
+    "barcode": "9310072012605",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "138",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-malted-milk-biscuit-200g-2471540",
+    "name": "Coles Malted Milk Biscuit | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2471540.jpg&w=640&q=90",
+    "source_id": "2471540",
+    "barcode": "9310645341644",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "125",
+        "price_per_unit": "63",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-custard-cream-biscuits-140g-2471551",
+    "name": "Coles Custard Cream Biscuits | 140g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2471551.jpg&w=640&q=90",
+    "source_id": "2471551",
+    "barcode": "9310645435312",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "140g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "90",
+        "price_per_unit": "64",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-chocolate-cream-biscuit-140g-2471595",
+    "name": "Coles Chocolate Cream Biscuit | 140g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2471595.jpg&w=640&q=90",
+    "source_id": "2471595",
+    "barcode": "9310645316215",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "140g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "90",
+        "price_per_unit": "64",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/oreo-creme-biscuits-original-128g-2710437",
+    "name": "Oreo Creme Biscuits Original | 128g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2710437.jpg&w=640&q=90",
+    "source_id": "2710437",
+    "barcode": "9300650453050",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "128g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "219",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/arnott's-favourites-crackers-multipack-variety-15-pack-375g-3182695",
+    "name": "Arnott's Favourites Crackers Multipack Variety 15 pack | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3182695.jpg&w=640&q=90",
+    "source_id": "3182695",
+    "barcode": "9310072030579",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "173",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-multipack-mini-monkey-butter-biscuits-200g-3182797",
+    "name": "Coles Multipack Mini Monkey Butter Biscuits | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3182797.jpg&w=640&q=90",
+    "source_id": "3182797",
+    "barcode": "9310645232423",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "125",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/arnotts-arno-shortbread-biscuits-250g-328863",
+    "name": "Arnotts Arno Shortbread Biscuits | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F328863.jpg&w=640&q=90",
+    "source_id": "328863",
+    "barcode": "9310072004099",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "132",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/arnott's-granita-biscuits-250g-328932",
+    "name": "Arnott's Granita Biscuits | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F328932.jpg&w=640&q=90",
+    "source_id": "328932",
+    "barcode": "9310072001388",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "132",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/arnott's-marie-plain-biscuits-250g-329006",
+    "name": "Arnott's Marie Plain Biscuits | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F329006.jpg&w=640&q=90",
+    "source_id": "329006",
+    "barcode": "9310072000558",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/arnott's-milk-coffee-plain-biscuits-250g-329017",
+    "name": "Arnott's Milk Coffee Plain Biscuits | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F329017.jpg&w=640&q=90",
+    "source_id": "329017",
+    "barcode": "9310072001692",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/arnott's-plain-biscuit-shredded-wheat-250g-329276",
+    "name": "Arnott's Plain Biscuit Shredded Wheat | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F329276.jpg&w=640&q=90",
+    "source_id": "329276",
+    "barcode": "9310072001791",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/arnott's-tic-toc-biscuits-250g-329549",
+    "name": "Arnott's Tic Toc Biscuits | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F329549.jpg&w=640&q=90",
+    "source_id": "329549",
+    "barcode": "9310072000114",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "120",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-ultimate-40percent-triple-chocolate-chip-cookie-400g-3763086",
+    "name": "Coles Ultimate 40% Triple Chocolate Chip Cookie | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3763086.jpg&w=640&q=90",
+    "source_id": "3763086",
+    "barcode": "9310645308906",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/loacker-gardena-hazelnut-wafer-200g-3763541",
+    "name": "Loacker Gardena Hazelnut Wafer | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3763541.jpg&w=640&q=90",
+    "source_id": "3763541",
+    "barcode": "8000380007257",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/loacker-gardena-chocolate-wafer-biscuits-200g-3770172",
+    "name": "Loacker Gardena Chocolate Wafer Biscuits | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3770172.jpg&w=640&q=90",
+    "source_id": "3770172",
+    "barcode": "8000380144044",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/loacker-tortina-chocolate-biscuit-caramel-126g-3964474",
+    "name": "Loacker Tortina Chocolate Biscuit Caramel | 126g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3964474.jpg&w=640&q=90",
+    "source_id": "3964474",
+    "barcode": "8000380201396",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "126g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "238",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/arnotts-teevee-snacks-value-pack-biscuits-malt-sticks-315g-4267636",
+    "name": "Arnotts Teevee Snacks Value Pack Biscuits Malt Sticks | 315g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4267636.jpg&w=640&q=90",
+    "source_id": "4267636",
+    "barcode": "9310072032665",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "315g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "206",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ital-sponge-fingers-savoiardi-biscuits-300g-4284726",
+    "name": "Ital Sponge Fingers Savoiardi Biscuits | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4284726.jpg&w=640&q=90",
+    "source_id": "4284726",
+    "barcode": "9311074003325",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/loacker-quadratini-wafers-biscuits-double-choc-125g-4285140",
+    "name": "Loacker Quadratini Wafers Biscuits Double Choc | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4285140.jpg&w=640&q=90",
+    "source_id": "4285140",
+    "barcode": "8000380192618",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "264",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-ultimate-cookies-40percent-chocolate-chip-400g-4953000",
+    "name": "Coles Ultimate Cookies 40% Chocolate Chip | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4953000.jpg&w=640&q=90",
+    "source_id": "4953000",
+    "barcode": "9300601932603",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/oreo-double-stuff-cinnamon-bun-cookies-135g-5227171",
+    "name": "Oreo Double Stuff Cinnamon Bun Cookies | 135g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5227171.jpg&w=640&q=90",
+    "source_id": "5227171",
+    "barcode": "9300650452725",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "135g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "207",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/arnott's-multipack-bluey-honey-oat-biscuits-168g-5311245",
+    "name": "Arnott's Multipack Bluey Honey Oat Biscuits | 168g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5311245.jpg&w=640&q=90",
+    "source_id": "5311245",
+    "barcode": "9310072033570",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "168g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "298",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/arnotts-50percent-less-sugar-scotch-finger-biscuits-232g-5604378",
+    "name": "Arnotts 50% Less Sugar Scotch Finger Biscuits | 232g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5604378.jpg&w=640&q=90",
+    "source_id": "5604378",
+    "barcode": "9310072033587",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "232g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "172",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mcvitie's-digestives-tops-lemon-biscuits-100g-5604742",
+    "name": "Mcvitie's Digestives Tops Lemon Biscuits | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5604742.jpg&w=640&q=90",
+    "source_id": "5604742",
+    "barcode": "5000396054286",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mcvitie's-digestives-tops-raspberry-biscuits-100g-5604957",
+    "name": "Mcvitie's Digestives Tops Raspberry Biscuits | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5604957.jpg&w=640&q=90",
+    "source_id": "5604957",
+    "barcode": "5000396054293",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/butterfingers-macadamia-shortbread-175g-5767204",
+    "name": "Butterfingers Macadamia Shortbread | 175g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5767204.jpg&w=640&q=90",
+    "source_id": "5767204",
+    "barcode": "9311005001956",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "175g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "211",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/arnott's-gingernut-biscuits-250g-6047040",
+    "name": "Arnott's Gingernut Biscuits | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6047040.jpg&w=640&q=90",
+    "source_id": "6047040",
+    "barcode": "9310072001128",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/di-leo-i-savoiardi-biscuits-400g-6647864",
+    "name": "Di Leo I Savoiardi Biscuits | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6647864.jpg&w=640&q=90",
+    "source_id": "6647864",
+    "barcode": "8410086101058",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "113",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fox's-chocolatey-rounds-biscuits-milk-choc-130g-6749387",
+    "name": "Fox's Chocolatey Rounds Biscuits Milk Choc | 130g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6749387.jpg&w=640&q=90",
+    "source_id": "6749387",
+    "barcode": "5010035000468",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "130g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "423",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cookies-chocolate-chip-500g-6823480",
+    "name": "Coles Cookies Chocolate Chip | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6823480.jpg&w=640&q=90",
+    "source_id": "6823480",
+    "barcode": "9300601342150",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "65",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mcvities-healthy-choice-digestives-plain-250g-6845245",
+    "name": "Mcvities Healthy Choice Digestives Plain | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6845245.jpg&w=640&q=90",
+    "source_id": "6845245",
+    "barcode": "5000396055337",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mcvities-healthier-choice-go-ahead-biscuits-raspberry-4-pack-174g-6845369",
+    "name": "Mcvities Healthier Choice Go Ahead Biscuits Raspberry 4 Pack | 174g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6845369.jpg&w=640&q=90",
+    "source_id": "6845369",
+    "barcode": "5000168038414",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "174g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "230",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lotus-biscoff-sandwich-biscuits-chocolate-110g-6845653",
+    "name": "Lotus Biscoff Sandwich Biscuits Chocolate | 110g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6845653.jpg&w=640&q=90",
+    "source_id": "6845653",
+    "barcode": "5410126676358",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "110g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "295",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lotus-biscoff-sandwich-biscuits-vanilla-110g-6845664",
+    "name": "Lotus Biscoff Sandwich Biscuits Vanilla | 110g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6845664.jpg&w=640&q=90",
+    "source_id": "6845664",
+    "barcode": "5410126676372",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "110g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "295",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-chocolate-mint-supremes-biscuits-200g-7294963",
+    "name": "Coles Chocolate Mint Supremes Biscuits | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7294963.jpg&w=640&q=90",
+    "source_id": "7294963",
+    "barcode": "9300601932504",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-chocolate-biscuits-whirlz-honeycomb-200g-7377186",
+    "name": "Coles Chocolate Biscuits Whirlz Honeycomb | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7377186.jpg&w=640&q=90",
+    "source_id": "7377186",
+    "barcode": "9300601932498",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-chocolate-biscuits-caramel-deluxe-200g-7378291",
+    "name": "Coles Chocolate Biscuits Caramel Deluxe | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7378291.jpg&w=640&q=90",
+    "source_id": "7378291",
+    "barcode": "9300601932511",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-chocolate-fingers-biscuits-200g-7378418",
+    "name": "Coles Chocolate Fingers Biscuits | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7378418.jpg&w=640&q=90",
+    "source_id": "7378418",
+    "barcode": "9300601932733",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-jam-fancy-biscuits-140g-7433287",
+    "name": "Coles Jam Fancy Biscuits | 140g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7433287.jpg&w=640&q=90",
+    "source_id": "7433287",
+    "barcode": "9310645435329",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "140g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "107",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/oreo-mini-berry-choc-top-cookies-10-pack-204g-7483467",
+    "name": "Oreo Mini Berry Choc Top Cookies 10 Pack | 204g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7483467.jpg&w=640&q=90",
+    "source_id": "7483467",
+    "barcode": "9300650452923",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "204g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-100's-and-1000's-kids-mini-biscuits-200g-7512907",
+    "name": "Coles 100's & 1000's Kids Mini Biscuits | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7512907.jpg&w=640&q=90",
+    "source_id": "7512907",
+    "barcode": "9300601932672",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "125",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/griffins-marvels-golden-gaytime-biscuits-165g-7531402",
+    "name": "Griffins Marvels Golden Gaytime Biscuits | 165g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7531402.jpg&w=640&q=90",
+    "source_id": "7531402",
+    "barcode": "9310988020633",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "165g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "364",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/griffins-marvels-choc-fudge-brownie-chocolate-biscuits-200g-7531537",
+    "name": "Griffins Marvels Choc Fudge Brownie Chocolate Biscuits | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7531537.jpg&w=640&q=90",
+    "source_id": "7531537",
+    "barcode": "9310988020640",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/griffins-marvels-raspberry-cream-chocolate-biscuits-180g-7531570",
+    "name": "Griffins Marvels Raspberry Cream Chocolate Biscuits | 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7531570.jpg&w=640&q=90",
+    "source_id": "7531570",
+    "barcode": "9310988020664",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "333",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/arnott's-mini-wagon-wheels-original-biscuits-190g-8707049",
+    "name": "Arnott's Mini Wagon Wheels Original Biscuits | 190g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8707049.jpg&w=640&q=90",
+    "source_id": "8707049",
+    "barcode": "9310089006260",
+    "shop": "coles",
+    "category_id": "22890",
+    "weight": "190g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "289",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

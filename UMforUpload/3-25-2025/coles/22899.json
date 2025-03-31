@@ -1,0 +1,920 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-pretzel-twists-200g-2062290",
+    "name": "Coles Pretzel Twists | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2062290.jpg&w=640&q=90",
+    "source_id": "2062290",
+    "barcode": "9310645426617",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "215",
+        "price_per_unit": "108",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-salted-microwave-popcorn-80g-2663075",
+    "name": "Coles Salted Microwave Popcorn | 80g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2663075.jpg&w=640&q=90",
+    "source_id": "2663075",
+    "barcode": "9310645171838",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "95",
+        "price_per_unit": "119",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-sweet-and-salty-popcorn-120g-3150780",
+    "name": "Coles Sweet & Salty Popcorn | 120g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3150780.jpg&w=640&q=90",
+    "source_id": "3150780",
+    "barcode": "9310645226170",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "175",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-butter-popcorn-100g-3150860",
+    "name": "Coles Butter Popcorn | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3150860.jpg&w=640&q=90",
+    "source_id": "3150860",
+    "barcode": "9310645226187",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cobs-gluten-free-popcorn-butter-90g-3434856",
+    "name": "Cobs Gluten Free Popcorn Butter | 90g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3434856.jpg&w=640&q=90",
+    "source_id": "3434856",
+    "barcode": "9334714000973",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "90g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "389",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/local-legends-biltong-chilli-beef-45g-3434889",
+    "name": "Local Legends Biltong Chilli Beef | 45g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3434889.jpg&w=640&q=90",
+    "source_id": "3434889",
+    "barcode": "9312564607726",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "45g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "10000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/local-legends-original-beef-jerky-55g-3434903",
+    "name": "Local Legends Original Beef Jerky | 55g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3434903.jpg&w=640&q=90",
+    "source_id": "3434903",
+    "barcode": "9312564607733",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "55g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "8000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/jack-links-gluten-free-beef-biltong-45g-3447417",
+    "name": "Jack Links Gluten Free Beef Biltong | 45g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3447417.jpg&w=640&q=90",
+    "source_id": "3447417",
+    "barcode": "9421013445663",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "45g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "10224",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cobs-gluten-free-popcorn-sea-salted-caramel-100g-3501250",
+    "name": "Cobs Gluten Free Popcorn Sea Salted Caramel | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3501250.jpg&w=640&q=90",
+    "source_id": "3501250",
+    "barcode": "9334714000652",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/jonny's-caramel-popcorn-delights-142g-3531546",
+    "name": "Jonny's Caramel Popcorn Delights | 142g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3531546.jpg&w=640&q=90",
+    "source_id": "3531546",
+    "barcode": "9345858000163",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "142g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "229",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/gold-medal-pork-krackles-chilli-50g-3699806",
+    "name": "Gold Medal Pork Krackles Chilli | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3699806.jpg&w=640&q=90",
+    "source_id": "3699806",
+    "barcode": "9310528006400",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/macy-and-tailor-pressed-pretzels-salted-180g-3700053",
+    "name": "Macy & Tailor Pressed Pretzels Salted | 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3700053.jpg&w=640&q=90",
+    "source_id": "3700053",
+    "barcode": "9421906601046",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "194",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/j-crackleton-pork-crackle-maple-bacon-40g-3722792",
+    "name": "J Crackleton Pork Crackle Maple Bacon | 40g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3722792.jpg&w=640&q=90",
+    "source_id": "3722792",
+    "barcode": "9313025000537",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "525",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/smith's-oven-baked-potato-chips-share-pack-sea-salt-130g-3851864",
+    "name": "Smith's Oven Baked Potato Chips Share Pack Sea Salt | 130g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3851864.jpg&w=640&q=90",
+    "source_id": "3851864",
+    "barcode": "9310015249686",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "130g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "185",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nobby's-bacon-bites-40g-3852437",
+    "name": "Nobby's Bacon Bites | 40g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3852437.jpg&w=640&q=90",
+    "source_id": "3852437",
+    "barcode": "9310015248719",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/smith's-oven-baked-potato-chips-share-pack-sour-cream-and-chives-130g-3864957",
+    "name": "Smith's Oven Baked Potato Chips Share Pack Sour Cream & Chives | 130g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3864957.jpg&w=640&q=90",
+    "source_id": "3864957",
+    "barcode": "9310015249693",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "130g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "185",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunbites-grain-waves-caramelised-onion-and-balsamic-vinegar-chips-170g-3948300",
+    "name": "Sunbites Grain Waves Caramelised Onion And Balsamic Vinegar Chips | 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3948300.jpg&w=640&q=90",
+    "source_id": "3948300",
+    "barcode": "9310015250927",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "176",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lolly-gobble-bliss-bombs-175g-3951949",
+    "name": "Lolly Gobble Bliss Bombs | 175g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3951949.jpg&w=640&q=90",
+    "source_id": "3951949",
+    "barcode": "9310273211609",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "175g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "171",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/master-crackles-oven-baked-pork-crackle-sea-salt-50g-3988938",
+    "name": "Master Crackles Oven Baked Pork Crackle Sea Salt | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3988938.jpg&w=640&q=90",
+    "source_id": "3988938",
+    "barcode": "9310645330372",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/big-tex-beef-jerky-original-180g-3988950",
+    "name": "Big Tex Beef Jerky Original | 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3988950.jpg&w=640&q=90",
+    "source_id": "3988950",
+    "barcode": "9310645330389",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "5556",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/byron-beef-jerky-smokin-hot-40-gram-4498468",
+    "name": "Byron Beef Jerky Smokin Hot | 40 GRAM",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4498468.jpg&w=640&q=90",
+    "source_id": "4498468",
+    "barcode": "9347638000042",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "40gram",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "16250",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunbites-grain-waves-chips-cheddar-170g-4843588",
+    "name": "Sunbites Grain Waves Chips Cheddar | 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4843588.jpg&w=640&q=90",
+    "source_id": "4843588",
+    "barcode": "9310015253508",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "176",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/movietime-multi-coloured-popcorn-150g-5045200",
+    "name": "Movietime Multi Coloured Popcorn | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5045200.jpg&w=640&q=90",
+    "source_id": "5045200",
+    "barcode": "9312580456834",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "133",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-microwave-popcorn-butter-100g-5207844",
+    "name": "Coles Microwave Popcorn Butter | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5207844.jpg&w=640&q=90",
+    "source_id": "5207844",
+    "barcode": "9300601293414",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "95",
+        "price_per_unit": "95",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/parker's-pretzels-minis-entertaining-size-party-bag-salted-225g-5238054",
+    "name": "Parker's Pretzels Minis Entertaining Size Party Bag Salted | 225g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5238054.jpg&w=640&q=90",
+    "source_id": "5238054",
+    "barcode": "9315908111170",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "225g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "213",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/byron-beef-jerky-flame-grilled-120g-5346909",
+    "name": "Byron Beef Jerky Flame Grilled | 120g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5346909.jpg&w=640&q=90",
+    "source_id": "5346909",
+    "barcode": "9347638000110",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1445",
+        "price_per_unit": "12042",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-popping-corn-kernels-400g-5374675",
+    "name": "Coles Popping Corn Kernels | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5374675.jpg&w=640&q=90",
+    "source_id": "5374675",
+    "barcode": "9310645385570",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "49",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/infuzions-veggie-straws-salt-and-vinegar-90g-5939434",
+    "name": "Infuzions Veggie Straws Salt & Vinegar | 90g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5939434.jpg&w=640&q=90",
+    "source_id": "5939434",
+    "barcode": "9316401202884",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "90g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunbites-grain-waves-chips-sea-salt-170g-5986445",
+    "name": "Sunbites Grain Waves Chips Sea Salt | 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5986445.jpg&w=640&q=90",
+    "source_id": "5986445",
+    "barcode": "9310015255243",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "176",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cobs-drizzld-popcorn-sweet-milk-chocolate-110g-5986650",
+    "name": "Cobs Drizzld Popcorn Sweet Milk Chocolate | 110g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5986650.jpg&w=640&q=90",
+    "source_id": "5986650",
+    "barcode": "9334714001147",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "110g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "409",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bhuja-crunchy-seasoned-peas-140g-5990012",
+    "name": "Bhuja Crunchy Seasoned Peas | 140g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5990012.jpg&w=640&q=90",
+    "source_id": "5990012",
+    "barcode": "9316401202860",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "140g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "321",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harvest-snaps-pea-original-salted-120g-5994079",
+    "name": "Harvest Snaps Pea Original Salted | 120g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5994079.jpg&w=640&q=90",
+    "source_id": "5994079",
+    "barcode": "9351585000826",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "417",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harvest-snaps-pea-salt-and-vinegar-120g-5994080",
+    "name": "Harvest Snaps Pea Salt & Vinegar | 120g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5994080.jpg&w=640&q=90",
+    "source_id": "5994080",
+    "barcode": "9351585000833",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "417",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harvest-snaps-pea-chilli-120g-5994170",
+    "name": "Harvest Snaps Pea Chilli | 120g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5994170.jpg&w=640&q=90",
+    "source_id": "5994170",
+    "barcode": "9351585000840",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "417",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harvest-snaps-pea-original-salted-230g-5996256",
+    "name": "Harvest Snaps Pea Original Salted | 230g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5996256.jpg&w=640&q=90",
+    "source_id": "5996256",
+    "barcode": "9351585000925",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "230g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "261",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harvest-snaps-pea-salt-and-vinegar-230g-5996303",
+    "name": "Harvest Snaps Pea Salt & Vinegar | 230g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5996303.jpg&w=640&q=90",
+    "source_id": "5996303",
+    "barcode": "9351585000932",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "230g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "261",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harvest-snaps-pea-chilli-230g-5996314",
+    "name": "Harvest Snaps Pea Chilli | 230g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5996314.jpg&w=640&q=90",
+    "source_id": "5996314",
+    "barcode": "9351585000949",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "230g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "261",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/parker's-baked-pretzels-wheat-original-200g-6133970",
+    "name": "Parker's Baked Pretzels Wheat Original | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6133970.jpg&w=640&q=90",
+    "source_id": "6133970",
+    "barcode": "9315908111620",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/jack-link's-original-beef-jerky-50g-6526123",
+    "name": "Jack Link's Original Beef Jerky | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6526123.jpg&w=640&q=90",
+    "source_id": "6526123",
+    "barcode": "9421013441467",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "585",
+        "price_per_unit": "11700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/jack-link's-teriyaki-beef-jerky-50g-6526134",
+    "name": "Jack Link's Teriyaki Beef Jerky | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6526134.jpg&w=640&q=90",
+    "source_id": "6526134",
+    "barcode": "9421013441481",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "585",
+        "price_per_unit": "11700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cobs-microwave-popcorn-sea-salt-85g-6623200",
+    "name": "Cobs Microwave Popcorn Sea Salt | 85g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6623200.jpg&w=640&q=90",
+    "source_id": "6623200",
+    "barcode": "9334714001161",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "85g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "294",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cobs-microwave-popcorn-butter-85g-6623232",
+    "name": "Cobs Microwave Popcorn Butter | 85g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6623232.jpg&w=640&q=90",
+    "source_id": "6623232",
+    "barcode": "9334714001178",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "85g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "294",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cobs-drizzld-popcorn-sea-salted-caramel-110g-6623334",
+    "name": "Cobs Drizzld Popcorn Sea Salted Caramel | 110g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6623334.jpg&w=640&q=90",
+    "source_id": "6623334",
+    "barcode": "9334714001130",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "110g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "409",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harvest-snaps-pea-wasabi-230g-6626649",
+    "name": "Harvest Snaps Pea Wasabi | 230g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6626649.jpg&w=640&q=90",
+    "source_id": "6626649",
+    "barcode": "9351585001175",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "230g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "261",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cobs-popcorn-sea-salt-20g-7364377",
+    "name": "Cobs Popcorn Sea Salt | 20g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7364377.jpg&w=640&q=90",
+    "source_id": "7364377",
+    "barcode": "9334714000256",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "20g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/carman's-popcorn-sea-salt-and-cider-vinegar-100g-7481392",
+    "name": "Carman's Popcorn Sea Salt & Cider Vinegar | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7481392.jpg&w=640&q=90",
+    "source_id": "7481392",
+    "barcode": "9319133338319",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/carman's-popcorn-truffle-and-parmesan-100g-7481417",
+    "name": "Carman's Popcorn Truffle & Parmesan | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7481417.jpg&w=640&q=90",
+    "source_id": "7481417",
+    "barcode": "9319133338326",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/donski-snack-pack-mild-60g-7481440",
+    "name": "Donski Snack Pack Mild | 60g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7481440.jpg&w=640&q=90",
+    "source_id": "7481440",
+    "barcode": "9326451025425",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "60g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "5834",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harvest-snap-pea-sour-cream-and-chives-120g-7492399",
+    "name": "Harvest Snap Pea Sour Cream And Chives | 120g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7492399.jpg&w=640&q=90",
+    "source_id": "7492399",
+    "barcode": "9351585001076",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "417",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cobs-microwave-popcorn-butter-3-pack-255g-8446014",
+    "name": "Cobs Microwave Popcorn Butter 3 Pack | 255g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8446014.jpg&w=640&q=90",
+    "source_id": "8446014",
+    "barcode": "9334714001222",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "255g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "176",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cobs-gluten-free-popcorn-cheddar-cheese-100g-9278979",
+    "name": "Cobs Gluten Free Popcorn Cheddar Cheese | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9278979.jpg&w=640&q=90",
+    "source_id": "9278979",
+    "barcode": "9334714000140",
+    "shop": "coles",
+    "category_id": "22899",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/669459/birch-waite-belgian-chocolate-dessert-sauce",
+    "name": "Birch & Waite Belgian Chocolate Dessert Sauce 130g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/669459.jpg",
+    "source_id": "669459",
+    "barcode": "93552905",
+    "shop": "Woolworths",
+    "category_id": "22355",
+    "weight": "130g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "2538",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/221594/cleanery-kitchen-cleaner-refill-lemon-lemon-lime",
+    "name": "Cleanery Kitchen Cleaner Refill Lemon Lemon & Lime 16g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/221594.jpg",
+    "source_id": "221594",
+    "barcode": "9421036260090",
+    "shop": "Woolworths",
+    "category_id": "22484",
+    "weight": "16g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "2250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/154394/dr-beckmann-oven-cleaner",
+    "name": "Dr Beckmann Oven Cleaner 375ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/154394.jpg",
+    "source_id": "154394",
+    "barcode": "4008455571317",
+    "shop": "Woolworths",
+    "category_id": "22484",
+    "weight": "375mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "213",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/233881/easy-off-bam-oven-bbq-heavy-duty-cleaner-spray",
+    "name": "Easy Off Bam Oven & BBQ Heavy Duty Cleaner Spray 325g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/233881.jpg",
+    "source_id": "233881",
+    "barcode": "9300701462734",
+    "shop": "Woolworths",
+    "category_id": "22484",
+    "weight": "325g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "169",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

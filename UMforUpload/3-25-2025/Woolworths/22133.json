@@ -1,0 +1,848 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/212555/180-nutrition-good-sport-chocolate-flavoured-milk",
+    "name": "180 Nutrition Good Sport Chocolate Flavoured Milk 350ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/212555.jpg",
+    "source_id": "212555",
+    "barcode": "9310232960951",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "743",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/340049/allpress-espresso-black-speciality-iced-coffee-can",
+    "name": "Allpress Espresso Black Speciality Iced Coffee Can 240ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/340049.jpg",
+    "source_id": "340049",
+    "barcode": "9421907274171",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "240mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "938",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/334560/allpress-espresso-latte-speciality-iced-coffee-can",
+    "name": "Allpress Espresso Latte Speciality Iced Coffee Can 240ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/334560.jpg",
+    "source_id": "334560",
+    "barcode": "9421907274188",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "240mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "938",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/72378/amp-coffee-co-coffee-co-iced-latte",
+    "name": "Amp Coffee Co Coffee Co Iced Latte 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/072378.jpg",
+    "source_id": "72378",
+    "barcode": "9348496000724",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1600",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/72086/amp-coffee-co-double-shot",
+    "name": "Amp Coffee Co Double Shot 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/072086.jpg",
+    "source_id": "72086",
+    "barcode": "9348496000786",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1600",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/865382/coach-house-dairy-chocolate-milk",
+    "name": "Coach House Dairy Chocolate Milk 300mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/865382.jpg",
+    "source_id": "865382",
+    "barcode": "9341286002601",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "300mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "1233",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/92517/dairy-farmers-classic-caramel-flavoured-milk",
+    "name": "Dairy Farmers Classic Caramel Flavoured Milk 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/092517.jpg",
+    "source_id": "92517",
+    "barcode": "9310232959764",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "580",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/799749/dairy-farmers-classic-chocolate-milk",
+    "name": "Dairy Farmers Classic Chocolate Milk 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/799749.jpg",
+    "source_id": "799749",
+    "barcode": "9310199100285",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "580",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67148/dairy-farmers-classic-milk-mint-choc-chip",
+    "name": "Dairy Farmers Classic Milk Mint Choc Chip 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/067148.jpg",
+    "source_id": "67148",
+    "barcode": "9310232961767",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "580",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/799766/dairy-farmers-classic-strawberry-milk",
+    "name": "Dairy Farmers Classic Strawberry Milk 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/799766.jpg",
+    "source_id": "799766",
+    "barcode": "9310232957609",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "580",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/801932/dairy-farmers-classic-vanilla-malt-flavoured-milk",
+    "name": "Dairy Farmers Classic Vanilla Malt Flavoured Milk 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/801932.jpg",
+    "source_id": "801932",
+    "barcode": "9310232956152",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "580",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6005387/devondale-moo-chocolate-long-life-lunchbox-milk",
+    "name": "Devondale Moo Chocolate Long Life Lunchbox Milk 200mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6005387.jpg",
+    "source_id": "6005387",
+    "barcode": "9300639619545",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "200mL x 6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "745",
+        "price_per_unit": "621",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6004819/devondale-moo-strawberry-long-life-lunchbox-milk",
+    "name": "Devondale Moo Strawberry Long Life Lunchbox Milk 200mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6004819.jpg",
+    "source_id": "6004819",
+    "barcode": "9300639619552",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "200mL x 6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "745",
+        "price_per_unit": "621",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/212055/dare-no-added-sugar-triple-espresso-iced-coffee",
+    "name": "Dare No Added Sugar Triple Espresso Iced Coffee 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/212055.jpg",
+    "source_id": "212055",
+    "barcode": "9310232960760",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "580",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/122208/first-press-iced-coffee-almond-milk",
+    "name": "First Press Iced Coffee Almond Milk 350ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/122208.jpg",
+    "source_id": "122208",
+    "barcode": "9349499005129",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "350mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "857",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/122978/first-press-iced-coffee-oat-milk-double-shot",
+    "name": "First Press Iced Coffee Oat Milk Double Shot 350ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/122978.jpg",
+    "source_id": "122978",
+    "barcode": "9349499008021",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "350mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "857",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/240376/hunt-and-brew-peru-mocha-coffee-milk-drink",
+    "name": "Hunt And Brew Peru Mocha Coffee Milk Drink 400ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/240376.jpg",
+    "source_id": "240376",
+    "barcode": "9300662888895",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "400ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "988",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/262811/ice-break-iced-coffee-single-shot-espresso-flavoured-milk",
+    "name": "Ice Break Iced Coffee Single Shot Espresso Flavoured Milk 320mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/262811.jpg",
+    "source_id": "262811",
+    "barcode": "9310036075103",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "320mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "265",
+        "price_per_unit": "828",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/420782/nedd-s-ice-coffee",
+    "name": "Nedd's Ice Coffee 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/420782.jpg",
+    "source_id": "420782",
+    "barcode": "9309000708055",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/755265/norco-double-shot-real-iced-coffee",
+    "name": "Norco Double Shot Real Iced Coffee 750ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/755265.jpg",
+    "source_id": "755265",
+    "barcode": "9310272006220",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "750mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "533",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/118010/norco-minecraft-flavoured-milk-caramel",
+    "name": "Norco Minecraft Flavoured Milk Caramel 375mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/118010.jpg",
+    "source_id": "118010",
+    "barcode": "9310272022503",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "375mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "933",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/119584/norco-minecraft-flavoured-milk-strawberry",
+    "name": "Norco Minecraft Flavoured Milk Strawberry 375mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/119584.jpg",
+    "source_id": "119584",
+    "barcode": "9310272002499",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "375mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "933",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/755264/norco-original-real-iced-coffee",
+    "name": "Norco Original Real Iced Coffee 750ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/755264.jpg",
+    "source_id": "755264",
+    "barcode": "9310272006213",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "750mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "533",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/556934/norco-real-iced-chocolate-milk-ultimate",
+    "name": "Norco Real Iced Chocolate Milk Ultimate 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/556934.jpg",
+    "source_id": "556934",
+    "barcode": "9310272006312",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "740",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/613368/norco-real-iced-chocolate-ultimate",
+    "name": "Norco Real Iced Chocolate Ultimate 750ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/613368.jpg",
+    "source_id": "613368",
+    "barcode": "9310272006329",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "750mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "533",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/556932/norco-real-iced-coffee-triple-shot",
+    "name": "Norco Real Iced Coffee Triple Shot 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/556932.jpg",
+    "source_id": "556932",
+    "barcode": "9310272007142",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "740",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/122232/norco-real-no-added-sugar-coffee-double-shot",
+    "name": "Norco Real No Added Sugar Coffee Double Shot 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/122232.jpg",
+    "source_id": "122232",
+    "barcode": "9310272004110",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "740",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/684141/norco-real-triple-shot",
+    "name": "Norco Real Triple Shot 750ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/684141.jpg",
+    "source_id": "684141",
+    "barcode": "9310272001560",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "750mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "533",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/378561/oak-banana-flavoured-milk",
+    "name": "OAK Banana Flavoured Milk 600mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/378561.jpg",
+    "source_id": "378561",
+    "barcode": "9342584034899",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "600mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "658",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/481884/oak-strawberry-flavoured-milk",
+    "name": "OAK Strawberry Flavoured Milk 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/481884.jpg",
+    "source_id": "481884",
+    "barcode": "9342584071238",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "325",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/677886/oat-milk-goodness-omg-chocolate-protein-oat-milk",
+    "name": "Oat Milk Goodness OMG Chocolate Protein Oat Milk 350mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/677886.jpg",
+    "source_id": "677886",
+    "barcode": "9358989000049",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "350mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "943",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/52741/omg-oat-milk-coffee-proatein",
+    "name": "OMG Oat Milk Coffee Proatein 350mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/052741.jpg",
+    "source_id": "52741",
+    "barcode": "9358989000094",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "350mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "943",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/263664/pauls-just-natural-chocolate-malt-flavoured-milk",
+    "name": "Pauls Just Natural Chocolate & Malt Flavoured Milk 600mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/263664.jpg",
+    "source_id": "263664",
+    "barcode": "9310036078203",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "600mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "310",
+        "price_per_unit": "517",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/121501/pauls-zymil-iced-coffee-lactose-free-flavoured-milk",
+    "name": "Pauls Zymil Iced Coffee Lactose Free Flavoured Milk 400ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/121501.jpg",
+    "source_id": "121501",
+    "barcode": "9310036064084",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "400ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/54305/rokeby-bold-brew-iced-coffee-double-shot",
+    "name": "Rokeby Bold Brew Iced Coffee Double Shot 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/054305.jpg",
+    "source_id": "54305",
+    "barcode": "9336243005306",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55324/rokeby-bold-brew-iced-latte",
+    "name": "Rokeby Bold Brew Iced Latte 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/055324.jpg",
+    "source_id": "55324",
+    "barcode": "9336243005290",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55304/rokeby-bold-brew-iced-mocha",
+    "name": "Rokeby Bold Brew Iced Mocha 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/055304.jpg",
+    "source_id": "55304",
+    "barcode": "9336243005313",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/847775/sanitarium-up-go-protein-energize-vanilla-milk",
+    "name": "Sanitarium Up & Go Protein Energize Vanilla Milk 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/847775.jpg",
+    "source_id": "847775",
+    "barcode": "9300652806069",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "980",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/239294/starbucks-double-shot-espresso-latte-iced-coffee",
+    "name": "Starbucks Double Shot Espresso Latte Iced Coffee 220ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/239294.jpg",
+    "source_id": "239294",
+    "barcode": "9556001298539",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "220ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "1591",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/239013/starbucks-double-shot-mocha-iced-coffee",
+    "name": "Starbucks Double Shot Mocha Iced Coffee 220ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/239013.jpg",
+    "source_id": "239013",
+    "barcode": "9556001298553",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "220ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "1591",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/239021/suntory-boss-coffee-iced-caramel-latte",
+    "name": "Suntory Boss Coffee Iced Caramel Latte 237ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/239021.jpg",
+    "source_id": "239021",
+    "barcode": "9415767067035",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "237ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1688",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/804693/the-man-shake-fuel-chocolate-health-shake",
+    "name": "The Man Shake Fuel Chocolate Health Shake 375mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/804693.jpg",
+    "source_id": "804693",
+    "barcode": "9348378000125",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "375mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1467",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/676037/the-man-shake-fuel-high-protein-health-shake-iced-coffee",
+    "name": "The Man Shake Fuel High Protein Health Shake Iced Coffee 375mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/676037.jpg",
+    "source_id": "676037",
+    "barcode": "9348378000132",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "375mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1467",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/250655/up-go-protein-energize-banana-flavour-drink",
+    "name": "Up&Go Protein Energize Banana Flavour Drink 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/250655.jpg",
+    "source_id": "250655",
+    "barcode": "9300652810493",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "980",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/190840/up-go-protein-energize-strawberry-flavour-drink",
+    "name": "Up&Go Protein Energize Strawberry Flavour Drink 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/190840.jpg",
+    "source_id": "190840",
+    "barcode": "9300652810486",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "980",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/807018/vitasoy-almond-milk-chocolate",
+    "name": "Vitasoy Almond Milk Chocolate 330ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/807018.jpg",
+    "source_id": "807018",
+    "barcode": "9341650001230",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "330mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "788",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/212722/vitasoy-oat-milk-cafe-latte",
+    "name": "Vitasoy Oat Milk Cafe Latte 330ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/212722.jpg",
+    "source_id": "212722",
+    "barcode": "9341650001407",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "330ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "788",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

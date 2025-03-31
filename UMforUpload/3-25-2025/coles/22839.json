@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/suncoast-gold-macadamia-unsweetened-long-life-milk-1l-1l-2412632",
+    "name": "Suncoast Gold Macadamia Unsweetened Long Life Milk 1L | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2412632.jpg&w=640&q=90",
+    "source_id": "2412632",
+    "barcode": "9315036007918",
+    "shop": "coles",
+    "category_id": "22839",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-quick-oats-honey-flavoured-sachets-12-pack-420g-2604189",
+    "name": "Coles Quick Oats Honey Flavoured Sachets 12 Pack | 420g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2604189.jpg&w=640&q=90",
+    "source_id": "2604189",
+    "barcode": "9310645106595",
+    "shop": "coles",
+    "category_id": "22839",
+    "weight": "420g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "88",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-dairy-free-barista-almond-milk-1l-3496423",
+    "name": "Coles Dairy Free Barista Almond Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3496423.jpg&w=640&q=90",
+    "source_id": "3496423",
+    "barcode": "9310645260983",
+    "shop": "coles",
+    "category_id": "22839",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "330",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-so-good-high-protein-almond-milk-1l-3782932",
+    "name": "Sanitarium So Good High Protein Almond Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3782932.jpg&w=640&q=90",
+    "source_id": "3782932",
+    "barcode": "9300652805949",
+    "shop": "coles",
+    "category_id": "22839",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "230",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/milklab-almond-milk-250ml-6501075",
+    "name": "Milklab Almond Milk | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6501075.jpg&w=640&q=90",
+    "source_id": "6501075",
+    "barcode": "9315090214406",
+    "shop": "coles",
+    "category_id": "22839",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "800",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vitasoy-unsweetened-long-life-rice-milk-1l-9671628",
+    "name": "Vitasoy Unsweetened Long Life Rice Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9671628.jpg&w=640&q=90",
+    "source_id": "9671628",
+    "barcode": "9341650001711",
+    "shop": "coles",
+    "category_id": "22839",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "330",
+        "price_unit": "l"
+      }
+    ]
+  }
+]

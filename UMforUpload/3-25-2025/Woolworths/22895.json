@@ -1,0 +1,632 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908515/cadbury-breakaway-choc-malt-shake-chocolate-block",
+    "name": "Cadbury Breakaway Choc Malt Shake Chocolate Block 180g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/908515.jpg",
+    "source_id": "908515",
+    "barcode": "9300617304906",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/206039/cadbury-caramilk-breakaway-chocolate-block",
+    "name": "Cadbury Caramilk Breakaway Chocolate Block 180g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/206039.jpg",
+    "source_id": "206039",
+    "barcode": "9300617296614",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/813881/cadbury-bubbly-mint-chocolate-block",
+    "name": "Cadbury Dairy Milk Bubbly Mint Chocolate Block 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/813881.jpg",
+    "source_id": "813881",
+    "barcode": "9300617063735",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "219",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85093/cadbury-dairy-milk-marble-chocolate-block",
+    "name": "Cadbury Dairy Milk Marble Chocolate Block 173g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085093.jpg",
+    "source_id": "85093",
+    "barcode": "9300617075653",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "173G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "202",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/913594/cadbury-dairy-milk-slices-shortcake-chocolate-block",
+    "name": "Cadbury Dairy Milk Slices Shortcake Chocolate Block 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/913594.jpg",
+    "source_id": "913594",
+    "barcode": "9300617306764",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "206",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/815196/cadbury-dairy-milk-tropical-pineapple-chocolate-block",
+    "name": "Cadbury Dairy Milk Tropical Pineapple Chocolate Block 180g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/815196.jpg",
+    "source_id": "815196",
+    "barcode": "9300617065326",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/602828/cadbury-dream-marvellous-creations",
+    "name": "Cadbury Dream Marvellous Creations 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/602828.jpg",
+    "source_id": "602828",
+    "barcode": "9300617306108",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "190g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "184",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/104084/cadbury-marvellous-creations-cola-fizz-chocolate-block",
+    "name": "Cadbury Marvellous Creations Cola Fizz Chocolate Block 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/104084.jpg",
+    "source_id": "104084",
+    "barcode": "9300617306962",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "190g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "184",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/580014/cadbury-milk-chocolate-slices-raspberry-block",
+    "name": "Cadbury Milk Chocolate Slices Raspberry Block 178g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/580014.jpg",
+    "source_id": "580014",
+    "barcode": "9300617304555",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "178g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "197",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6001464/cadbury-old-gold-dark-chocolate-espresso-affogato",
+    "name": "Cadbury Old Gold Dark Chocolate Espresso Affogato 180g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6001464.jpg",
+    "source_id": "6001464",
+    "barcode": "9300617307686",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/552333/cadbury-old-gold-slices-mint-cr-me-dark-chocolate-block",
+    "name": "Cadbury Old Gold Slices Mint Crème Dark Chocolate Block 176g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/552333.jpg",
+    "source_id": "552333",
+    "barcode": "9300617305422",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "176g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "199",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/215328/chokito-caramel-milk-chocolate-block",
+    "name": "Chokito Caramel Milk Chocolate Block 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/215328.jpg",
+    "source_id": "215328",
+    "barcode": "9300605145153",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "206",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/363886/darrell-lea-campos-coffee-crunch-chocolate-block",
+    "name": "Darrell Lea Campos Coffee Crunch Chocolate Block 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/363886.jpg",
+    "source_id": "363886",
+    "barcode": "9310881989433",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "313",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/278004/darrell-lea-caramel-cheesecake-milk-chocolate",
+    "name": "Darrell Lea Caramel Cheesecake Milk Chocolate 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/278004.jpg",
+    "source_id": "278004",
+    "barcode": "9310881988993",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "313",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/90346/darrell-lea-dark-chocolate-block",
+    "name": "Darrell Lea Dark Chocolate Block 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/090346.jpg",
+    "source_id": "90346",
+    "barcode": "9310881987873",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "170G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "294",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/532508/darrell-lea-rocklea-road-white-chocolate-block",
+    "name": "Darrell Lea Rocklea Road White Chocolate Block 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/532508.jpg",
+    "source_id": "532508",
+    "barcode": "9310881989457",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "313",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/532509/darrell-lea-rocklea-road-with-caramel-bits-chocolate-block",
+    "name": "Darrell Lea Rocklea Road With Caramel Bits Chocolate Block 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/532509.jpg",
+    "source_id": "532509",
+    "barcode": "9310881989488",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "313",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/532535/darrell-lea-strawberry-whipp-dark-chocolate-block",
+    "name": "Darrell Lea Strawberry Whipp Dark Chocolate Block 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/532535.jpg",
+    "source_id": "532535",
+    "barcode": "9310881989471",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "313",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/232536/darrell-lea-whipp-peppermint-dark-chocolate-block",
+    "name": "Darrell Lea Whipp Peppermint Dark Chocolate Block 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/232536.jpg",
+    "source_id": "232536",
+    "barcode": "9310881988481",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "294",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/906877/kitkat-drumstick-chocolate-block",
+    "name": "KitKat Drumstick Chocolate Block 165g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/906877.jpg",
+    "source_id": "906877",
+    "barcode": "9300605157088",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "165g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "303",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/12782/kitkat-neapolitan-block",
+    "name": "KitKat Neapolitan Block 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/012782.jpg",
+    "source_id": "12782",
+    "barcode": "9300605157699",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "313",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/52710/life-savers-strawberries-cream-white-choc-block",
+    "name": "Life Savers Strawberries & Cream White Choc Block 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/052710.jpg",
+    "source_id": "52710",
+    "barcode": "9310881989709",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "294",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/543554/lindt-excellence-salty-liquorice-dark-chocolate-block",
+    "name": "Lindt Excellence Salty Liquorice Dark Chocolate Block 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/543554.jpg",
+    "source_id": "543554",
+    "barcode": "4000539280849",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/566949/lindt-lindor-hazelnut-milk-chocolate-block",
+    "name": "Lindt Lindor Hazelnut Milk Chocolate Block 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/566949.jpg",
+    "source_id": "566949",
+    "barcode": "7610400099585",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/285016/lindt-lindor-milk-salted-caramel-chocolate-block",
+    "name": "Lindt Lindor Milk Salted Caramel Chocolate Block 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/285016.jpg",
+    "source_id": "285016",
+    "barcode": "7610400096966",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/322586/mr-beast-feastables-dark-chocolate-bar",
+    "name": "Mr Beast Feastables Dark Chocolate Bar 60g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/322586.jpg",
+    "source_id": "322586",
+    "barcode": "850027880006",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "60g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "667",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/326743/mr-beast-feastables-peanut-butter-chocolate-bar",
+    "name": "Mr Beast Feastables Peanut Butter Chocolate Bar 60g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/326743.jpg",
+    "source_id": "326743",
+    "barcode": "850027880280",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "60g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "667",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/546025/mr-beast-feastables-peanut-butter-crunch-chocolate-bar",
+    "name": "Mr Beast Feastables Peanut Butter Crunch Chocolate Bar 60g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/546025.jpg",
+    "source_id": "546025",
+    "barcode": "850027880730",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "60g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/613385/nestle-aero-inspired-by-milky-bar-chocolate-block",
+    "name": "Nestle Aero Inspired By Milky Bar Chocolate Block 118g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/613385.jpg",
+    "source_id": "613385",
+    "barcode": "9300605157040",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "118g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "424",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/258717/nestle-aero-orange-chocolate-block",
+    "name": "Nestle Aero Orange Chocolate Block 118g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/258717.jpg",
+    "source_id": "258717",
+    "barcode": "9300605150706",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "118g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "297",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/305007/ritter-sport-sport-chocolate-milk-whole-hazelnut",
+    "name": "Ritter Sport Sport Chocolate Milk Whole Hazelnut 100G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/305007.jpg",
+    "source_id": "305007",
+    "barcode": "4000417019004",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "620",
+        "price_per_unit": "620",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/556999/whittaker-s-caramelised-white-chocolate-mango-coconut",
+    "name": "Whittaker's Caramelised White Chocolate Mango & Coconut 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/556999.jpg",
+    "source_id": "556999",
+    "barcode": "9420063601555",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "340",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/267056/whittaker-s-white-chocolate-block",
+    "name": "Whittaker's White Chocolate Block 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/267056.jpg",
+    "source_id": "267056",
+    "barcode": "9403142000968",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "340",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/730321/woolworths-belgian-milk-chocolate-block",
+    "name": "Woolworths Belgian Milk Chocolate Block 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/730321.jpg",
+    "source_id": "730321",
+    "barcode": "9400597025928",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "190G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/730467/woolworths-belgian-milk-chocolate-block-with-salted-caramel",
+    "name": "Woolworths Belgian Milk Chocolate Block With Salted Caramel 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/730467.jpg",
+    "source_id": "730467",
+    "barcode": "9400597025959",
+    "shop": "Woolworths",
+    "category_id": "22895",
+    "weight": "190G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

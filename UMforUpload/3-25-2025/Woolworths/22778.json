@@ -1,0 +1,560 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/913233/care-pantry-plain-flour",
+    "name": "Care Pantry Plain Flour 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/913233.jpg",
+    "source_id": "913233",
+    "barcode": "9310146400093",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/911578/care-pantry-self-raising-flour",
+    "name": "Care Pantry Self Raising Flour 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/911578.jpg",
+    "source_id": "911578",
+    "barcode": "9310146400109",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33282/essentials-plain-flour",
+    "name": "Essentials Plain Flour 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033282.jpg",
+    "source_id": "33282",
+    "barcode": "9339687382392",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33296/essentials-self-raising-flour",
+    "name": "Essentials Self Raising Flour 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033296.jpg",
+    "source_id": "33296",
+    "barcode": "9339687382439",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/608475/il-molino-chiavazza-farino-flour",
+    "name": "Il Molino Chiavazza Farino Flour 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/608475.jpg",
+    "source_id": "608475",
+    "barcode": "8009550000104",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/15646/il-molino-durum-wheat-fine-semolina-pasta-flour",
+    "name": "Il Molino Durum Wheat Fine Semolina Pasta Flour 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/015646.jpg",
+    "source_id": "15646",
+    "barcode": "8009550007592",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55898/il-molino-instant-polenta-corn-meal",
+    "name": "Il Molino Instant Polenta Corn Meal 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/055898.jpg",
+    "source_id": "55898",
+    "barcode": "8009550007721",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "740",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/15616/il-molino-pizza-flour",
+    "name": "Il Molino Pizza Flour 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/015616.jpg",
+    "source_id": "15616",
+    "barcode": "8009550007608",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55897/il-molino-polenta-bramata-traditional",
+    "name": "Il Molino Polenta Bramata Traditional 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/055897.jpg",
+    "source_id": "55897",
+    "barcode": "8009550007622",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/228555/lion-plain-flour",
+    "name": "Lion Plain Flour 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/228555.jpg",
+    "source_id": "228555",
+    "barcode": "9300609080023",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/228554/lion-self-raising-flour",
+    "name": "Lion Self Raising Flour 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/228554.jpg",
+    "source_id": "228554",
+    "barcode": "9300609080320",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/235131/macro-natural-semolina-flour",
+    "name": "Macro Natural Semolina Flour 925g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/235131.jpg",
+    "source_id": "235131",
+    "barcode": "9300633919306",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "925G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "565",
+        "price_per_unit": "611",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/579236/macro-organic-buckwheat-flour",
+    "name": "Macro Organic Buckwheat Flour 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/579236.jpg",
+    "source_id": "579236",
+    "barcode": "9300633636500",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/698064/macro-organic-coconut-flour",
+    "name": "Macro Organic Coconut Flour 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/698064.jpg",
+    "source_id": "698064",
+    "barcode": "9339687387762",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/335400/macro-organic-flour-white-spelt",
+    "name": "Macro Organic Flour White Spelt 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/335400.jpg",
+    "source_id": "335400",
+    "barcode": "9339687202386",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "750G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "670",
+        "price_per_unit": "893",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/335402/macro-organic-flour-wholemeal-spelt",
+    "name": "Macro Organic Flour Wholemeal Spelt 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/335402.jpg",
+    "source_id": "335402",
+    "barcode": "9339687202393",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "750G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "670",
+        "price_per_unit": "893",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/215462/macro-organic-plain-flour",
+    "name": "Macro Organic Plain Flour 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/215462.jpg",
+    "source_id": "215462",
+    "barcode": "9300633903374",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/215464/macro-organic-self-raising-flour",
+    "name": "Macro Organic Self Raising Flour 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/215464.jpg",
+    "source_id": "215464",
+    "barcode": "9300633903381",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/142421/mckenzie-s-almond-flour",
+    "name": "McKenzie's Almond Flour 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/142421.jpg",
+    "source_id": "142421",
+    "barcode": "9310061125781",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/788462/mckenzie-s-coconut-flour",
+    "name": "McKenzie's Coconut Flour 330g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/788462.jpg",
+    "source_id": "788462",
+    "barcode": "9310061125712",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "330G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1212",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/820039/mckenzie-s-oat-flour",
+    "name": "McKenzie's Oat Flour 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/820039.jpg",
+    "source_id": "820039",
+    "barcode": "9310061125767",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94275/mckenzie-s-rice-flour",
+    "name": "McKenzie's Rice Flour 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094275.jpg",
+    "source_id": "94275",
+    "barcode": "9310061142207",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "453",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230949/the-healthy-baker-plain-flour-easy-store",
+    "name": "The Healthy Baker Plain Flour Easy Store 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/230949.jpg",
+    "source_id": "230949",
+    "barcode": "9310071111828",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230952/the-healthy-baker-self-raising-flour-easy-store",
+    "name": "The Healthy Baker Self Raising Flour Easy Store 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/230952.jpg",
+    "source_id": "230952",
+    "barcode": "9310071111811",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/142314/vetta-smart-protein-plain-flour",
+    "name": "Vetta Smart Protein Plain Flour 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/142314.jpg",
+    "source_id": "142314",
+    "barcode": "9350585000041",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/203179/wallaby-plain-all-purpose-flour",
+    "name": "Wallaby Plain All Purpose Flour 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/203179.jpg",
+    "source_id": "203179",
+    "barcode": "9321885004565",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/203920/wallaby-self-raising-all-purpose-flour",
+    "name": "Wallaby Self Raising All Purpose Flour 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/203920.jpg",
+    "source_id": "203920",
+    "barcode": "9321885004572",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/211708/well-good-gluten-free-self-raising-flour-blend",
+    "name": "Well & Good Gluten Free Self Raising Flour Blend 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/211708.jpg",
+    "source_id": "211708",
+    "barcode": "9337096100286",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/184895/woolworths-almond-flour",
+    "name": "Woolworths Almond Flour 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/184895.jpg",
+    "source_id": "184895",
+    "barcode": "9339687277728",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "2375",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/726281/woolworths-almond-meal",
+    "name": "Woolworths Almond Meal 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/726281.jpg",
+    "source_id": "726281",
+    "barcode": "9300633308179",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "150G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/535605/woolworths-wholemeal-plain-flour",
+    "name": "Woolworths Wholemeal Plain Flour 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/535605.jpg",
+    "source_id": "535605",
+    "barcode": "9339687382477",
+    "shop": "Woolworths",
+    "category_id": "22778",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

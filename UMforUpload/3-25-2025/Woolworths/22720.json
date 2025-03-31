@@ -1,0 +1,668 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6000621/bertocchi-gold-short-rindless-premium-bacon",
+    "name": "Bertocchi Gold Short Rindless Premium Bacon 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6000621.jpg",
+    "source_id": "6000621",
+    "barcode": "9310591503271",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6000671/bertocchi-gold-streaky-premium-bacon",
+    "name": "Bertocchi Gold Streaky Premium Bacon 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6000671.jpg",
+    "source_id": "6000671",
+    "barcode": "9310591506135",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": "2933",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6000632/bertocchi-pan-sized-premium-bacon",
+    "name": "Bertocchi Pan Sized Premium Bacon 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6000632.jpg",
+    "source_id": "6000632",
+    "barcode": "9310591506128",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/390399/bertocchi-traditional-flat-pancetta-with-black-pepper",
+    "name": "Bertocchi Traditional Flat Pancetta With Black Pepper 230g - 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/390399.jpg",
+    "source_id": "390399",
+    "barcode": "2293370000000",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "230g - 350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1470",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/533193/d-orsogna-maple-glazed-streaky-bacon",
+    "name": "D'Orsogna Maple Glazed Streaky Bacon 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/533193.jpg",
+    "source_id": "533193",
+    "barcode": "9300767080019",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/390420/d-orsogna-middle-bacon",
+    "name": "D'orsogna Middle Bacon 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/390420.jpg",
+    "source_id": "390420",
+    "barcode": "9300767082532",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/580252/d-orsogna-mini-champagne-leg-ham",
+    "name": "D'Orsogna Mini Champagne Leg Ham 850g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/580252.jpg",
+    "source_id": "580252",
+    "barcode": "9300767080095",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "850G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "2235",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/532958/d-orsogna-natural-leg-ham-portion",
+    "name": "D'Orsogna Natural Leg Ham Portion 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/532958.jpg",
+    "source_id": "532958",
+    "barcode": "9300767092883",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "700G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "2143",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/210498/d-orsogna-natural-shortcut-bacon-gluten-free-wood-smoked",
+    "name": "D'Orsogna Natural Shortcut Bacon Gluten Free Wood Smoked 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/210498.jpg",
+    "source_id": "210498",
+    "barcode": "9300767082228",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "3400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/176564/d-orsogna-shortcut-bacon",
+    "name": "D'Orsogna Shortcut Bacon 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/176564.jpg",
+    "source_id": "176564",
+    "barcode": "9300767081931",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/727933/d-orsogna-streaky-bacon",
+    "name": "D'Orsogna Streaky Bacon 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/727933.jpg",
+    "source_id": "727933",
+    "barcode": "9300767098762",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1625",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/911890/d-orsogna-streaky-bacon",
+    "name": "D'Orsogna Streaky Bacon 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/911890.jpg",
+    "source_id": "911890",
+    "barcode": "9300767082846",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "2933",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/391842/d-orsogna-triple-smoked-leg-ham",
+    "name": "D'orsogna Triple Smoked Leg Ham 850g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/391842.jpg",
+    "source_id": "391842",
+    "barcode": "9300767080590",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "850g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "2235",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178241/don-bacon-pan-size-rindless",
+    "name": "Don Bacon Pan Size Rindless 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/178241.jpg",
+    "source_id": "178241",
+    "barcode": "9326451003614",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "3300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178202/don-bacon-pansize-double-smoked",
+    "name": "Don Bacon Pansize Double Smoked 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/178202.jpg",
+    "source_id": "178202",
+    "barcode": "9326451006127",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "3300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387331/don-middle-bacon-rindless",
+    "name": "Don Middle Bacon Rindless 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/387331.jpg",
+    "source_id": "387331",
+    "barcode": "9326451013316",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "2640",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387020/don-rindless-bacon-pan-size",
+    "name": "Don Rindless Bacon Pan Size 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/387020.jpg",
+    "source_id": "387020",
+    "barcode": "9326451023513",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "2 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/216733/don-short-cut-rindless-bacon-twin-pack",
+    "name": "Don Short Cut Rindless Bacon Twin Pack 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/216733.jpg",
+    "source_id": "216733",
+    "barcode": "9326451005991",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/973392/primo-corned-beef-silverside",
+    "name": "Primo Corned Beef Silverside 500g - 1.1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/973392.jpg",
+    "source_id": "973392",
+    "barcode": "2929660000008",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "500g - 1.1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2530",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/143936/primo-double-smoked-leg-ham",
+    "name": "Primo Double Smoked Leg Ham 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/143936.jpg",
+    "source_id": "143936",
+    "barcode": "9311594701251",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/913511/primo-middle-bacon-rindless",
+    "name": "Primo Middle Bacon Rindless 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/913511.jpg",
+    "source_id": "913511",
+    "barcode": "9311594025494",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "2714",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/694706/primo-middle-rindless-bacon-twin-pack",
+    "name": "Primo Middle Rindless Bacon Twin Pack 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/694706.jpg",
+    "source_id": "694706",
+    "barcode": "9311594022370",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/202497/primo-shortcut-rindless-bacon-lean-shortcut",
+    "name": "Primo Shortcut Rindless Bacon 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/202497.jpg",
+    "source_id": "202497",
+    "barcode": "9311594225276",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "2714",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/328044/primo-speck-portion",
+    "name": "Primo Speck Portion 100g - 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/328044.jpg",
+    "source_id": "328044",
+    "barcode": "2929440000006",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "100g - 450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1395",
+        "price_per_unit": "3100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/915858/three-aussie-farmers-glaze-bake-ham",
+    "name": "Three Aussie Farmers Glaze & Bake Ham 850g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/915858.jpg",
+    "source_id": "915858",
+    "barcode": "9342580000492",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "850g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2750",
+        "price_per_unit": "3235",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/393640/three-aussie-farmers-slow-cooked-pulled-pork",
+    "name": "Three Aussie Farmers Slow Cooked Pulled Pork 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/393640.jpg",
+    "source_id": "393640",
+    "barcode": "9342580000485",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/273259/woolworths-cooking-bacon",
+    "name": "Woolworths Cooking Bacon 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/273259.jpg",
+    "source_id": "273259",
+    "barcode": "9339687330034",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/218133/woolworths-hickory-smoked-leg-ham",
+    "name": "Woolworths Hickory Smoked Leg Ham 400g - 1.2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/218133.jpg",
+    "source_id": "218133",
+    "barcode": "0230510000003",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "400g - 1.2kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2820",
+        "price_per_unit": "2350",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/48358/woolworths-middle-bacon-middle-rashers",
+    "name": "Woolworths Middle Bacon 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/048358.jpg",
+    "source_id": "48358",
+    "barcode": "9300633351045",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/266794/woolworths-middle-bacon-middle-cut-rashers",
+    "name": "Woolworths Middle Bacon 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/266794.jpg",
+    "source_id": "266794",
+    "barcode": "9300633974145",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "1840",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/922923/woolworths-quarter-leg-ham",
+    "name": "Woolworths Quarter Leg Ham 1.7kg - 3kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/922923.jpg",
+    "source_id": "922923",
+    "barcode": "0277457000000",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "1.7Kg - 3Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4200",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/509865/woolworths-short-cut-bacon",
+    "name": "Woolworths Short Cut Bacon 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/509865.jpg",
+    "source_id": "509865",
+    "barcode": "9300633568696",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55373/woolworths-shortcut-australian-bacon",
+    "name": "Woolworths Shortcut Australian Bacon 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/055373.jpg",
+    "source_id": "55373",
+    "barcode": "9339687105014",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55375/woolworths-shortcut-bacon",
+    "name": "Woolworths Shortcut Bacon 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/055375.jpg",
+    "source_id": "55375",
+    "barcode": "9339687105038",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55374/woolworths-shortcut-bacon",
+    "name": "Woolworths Shortcut Bacon 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/055374.jpg",
+    "source_id": "55374",
+    "barcode": "9339687105021",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "825",
+        "price_per_unit": "1650",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/453089/woolworths-smoked-bacon-pan-sized",
+    "name": "Woolworths Smoked Bacon Pan Sized 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/453089.jpg",
+    "source_id": "453089",
+    "barcode": "9339687361366",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/240363/woolworths-smoked-streaky-bacon",
+    "name": "Woolworths Smoked Streaky Bacon 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/240363.jpg",
+    "source_id": "240363",
+    "barcode": "9339687314539",
+    "shop": "Woolworths",
+    "category_id": "22720",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "670",
+        "price_per_unit": "3350",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]
