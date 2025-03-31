@@ -1,0 +1,146 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/bakery-du-jour-vegan-croissant-3-pack-168g-4147860",
+    "name": "Bakery Du Jour Vegan Croissant 3 Pack | 168g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4147860.jpg&w=640&q=90",
+    "source_id": "4147860",
+    "barcode": "9336047001252",
+    "shop": "coles",
+    "category_id": "22078",
+    "weight": "168g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "137",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387428/bakery-du-jour-vegan-croissants",
+    "name": "Bakery Du Jour Vegan Croissants 3 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/387428.jpg",
+    "source_id": "387428",
+    "barcode": "9336047001252",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "3 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "77",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/toscano-mini-waffles-200g-4986213",
+    "name": "Toscano Mini Waffles | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4986213.jpg&w=640&q=90",
+    "source_id": "4986213",
+    "barcode": "9350007001687",
+    "shop": "coles",
+    "category_id": "22078",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/693170/toscano-mini-waffle",
+    "name": "Toscano Mini Waffle 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/693170.jpg",
+    "source_id": "693170",
+    "barcode": "9350007001687",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "275",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/toscano-traditional-butter-waffles-4-pack-360g-8995056",
+    "name": "Toscano Traditional Butter Waffles 4 pack | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8995056.jpg&w=640&q=90",
+    "source_id": "8995056",
+    "barcode": "9417986938868",
+    "shop": "coles",
+    "category_id": "22078",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "181",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/785629/toscano-waffles",
+    "name": "Toscano Waffles 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/785629.jpg",
+    "source_id": "785629",
+    "barcode": "9417986938868",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/toscano-choco-chip-waffles-4-pack-360g-8995067",
+    "name": "Toscano Choco Chip Waffles 4 pack | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8995067.jpg&w=640&q=90",
+    "source_id": "8995067",
+    "barcode": "9417986938875",
+    "shop": "coles",
+    "category_id": "22078",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "181",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/476143/toscano-waffles-choc-chip",
+    "name": "Toscano Waffles Choc Chip 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/476143.jpg",
+    "source_id": "476143",
+    "barcode": "9417986938875",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "360G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

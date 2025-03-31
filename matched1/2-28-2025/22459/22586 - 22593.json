@@ -1,0 +1,44 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/mortein-no-touch-mouse-trap-twin-pack-2-pack-3573513",
+    "name": "Mortein No Touch Mouse Trap Twin Pack | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3573513.jpg&w=640&q=90",
+    "source_id": "3573513",
+    "barcode": "9300701953584",
+    "shop": "coles",
+    "category_id": "22593",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "650",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/59833/mortein-no-view-no-touch-mouse-trap",
+    "name": "Mortein No View No Touch Mouse Trap 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/059833.jpg",
+    "source_id": "59833",
+    "barcode": "9300701953584",
+    "shop": "Woolworths",
+    "category_id": "22593",
+    "weight": "2 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "650",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "650",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

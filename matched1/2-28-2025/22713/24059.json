@@ -1,0 +1,482 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/moira-mac-chicken-breast-roasted-350g-2865262",
+    "name": "Moira Mac Chicken Breast Roasted | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2865262.jpg&w=640&q=90",
+    "source_id": "2865262",
+    "barcode": "9340281001374",
+    "shop": "coles",
+    "category_id": "24059",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "2572",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "2572",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "2572",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "2572",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "2572",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "2572",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "2572",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/176001/moira-mac-s-classic-roasted-chicken-breast",
+    "name": "Moira Mac's Classic Roasted Chicken Breast 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/176001.jpg",
+    "source_id": "176001",
+    "barcode": "9340281001374",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "2571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "2571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "2571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "2571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "2571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "2571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "2571",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/moira-mac's-smoked-chicken-breast-300g-7690767",
+    "name": "Moira Mac's Smoked Chicken Breast | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7690767.jpg&w=640&q=90",
+    "source_id": "7690767",
+    "barcode": "9340281002555",
+    "shop": "coles",
+    "category_id": "24059",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "2833",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "2833",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "2833",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "2833",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "2833",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "2833",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/393154/moira-mac-s-smoked-chicken-breast",
+    "name": "Moira Mac's Smoked Chicken Breast 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/393154.jpg",
+    "source_id": "393154",
+    "barcode": "9340281002555",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "2833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "2833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "2833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "2833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "2833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "2833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "2833",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/the-bare-bird-whole-chicken-approx.-1.6kg-each-3091126",
+    "name": "The Bare Bird Whole Chicken | approx 1.6kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3091126.jpg&w=640&q=90",
+    "source_id": "3091126",
+    "barcode": "2918940000005",
+    "shop": "coles",
+    "category_id": "24059",
+    "weight": "1.6kgeach",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1280",
+        "price_per_unit": "800",
+        "price_unit": "each"
+      },
+      {
+        "state": "VIC",
+        "price": "1280",
+        "price_per_unit": "800",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "1280",
+        "price_per_unit": "800",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "1280",
+        "price_per_unit": "800",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "1280",
+        "price_per_unit": "800",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/24586/the-bare-bird-free-range-chicken-whole-bird-whole-plain",
+    "name": "The Bare Bird Free Range Chicken Whole Bird 1.2kg - 1.8kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/024586.jpg",
+    "source_id": "24586",
+    "barcode": "2918940000005",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.2kg - 1.8kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1530",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mount-barker-free-range-chicken-breast-fillets-skin-off-approx.-500g-pack-6140080",
+    "name": "Mount Barker Free Range Chicken Breast Fillets Skin Off | approx 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6140080.jpg&w=640&q=90",
+    "source_id": "6140080",
+    "barcode": "2874680000005",
+    "shop": "coles",
+    "category_id": "24059",
+    "weight": "500gpack",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/112288/mt-barker-chicken-free-range-breast",
+    "name": "Mt Barker Chicken Free Range Breast 500g - 760g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/112288.jpg",
+    "source_id": "112288",
+    "barcode": "2874680000005",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500g - 760g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1520",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mount-barker-free-range-chicken-breast-diced-500g-3859403",
+    "name": "Mount Barker Free Range Chicken Breast Diced | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3859403.jpg&w=640&q=90",
+    "source_id": "3859403",
+    "barcode": "9334864004364",
+    "shop": "coles",
+    "category_id": "24059",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "2400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/118465/mt-barker-free-range-diced-chicken",
+    "name": "Mt Barker Free Range Diced Chicken 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/118465.jpg",
+    "source_id": "118465",
+    "barcode": "9334864004364",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mount-barker-free-range-chicken-tenderloin-kebab-with-lemon-and-herb-400g-4461967",
+    "name": "Mount Barker Free Range Chicken Tenderloin Kebab With Lemon And Herb | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4461967.jpg&w=640&q=90",
+    "source_id": "4461967",
+    "barcode": "9334864004449",
+    "shop": "coles",
+    "category_id": "24059",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "2375",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/117900/mt-barker-gourmet-kebabs-lemon-herb-chicken-tenders",
+    "name": "Mt Barker Gourmet Kebabs Lemon & Herb Chicken Tenders 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/117900.jpg",
+    "source_id": "117900",
+    "barcode": "9334864004449",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-turkey-rissoles-400g-1833566",
+    "name": "Steggles Turkey Rissoles | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1833566.jpg&w=640&q=90",
+    "source_id": "1833566",
+    "barcode": "9310213869303",
+    "shop": "coles",
+    "category_id": "24059",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/893640/steggles-turkey-rissoles-with-parsley-onion",
+    "name": "Steggles Turkey Rissoles With Parsley & Onion 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/893640.jpg",
+    "source_id": "893640",
+    "barcode": "9310213869303",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

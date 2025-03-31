@@ -1,0 +1,42 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/81977/della-rosa-bbq-meatlovers-family-pizza",
+      "name": "Della Rosa Bbq Meatlovers Family Pizza 500g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/081977.jpg",
+      "source_id": "81977",
+      "barcode": "9344378002121",
+      "shop": "Woolworths",
+      "category_id": "22321",
+      "weight": "500G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "650",
+          "price_per_unit": "130",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/mccain-frozen-bbq-meatlovers-family-pizza-500g-7010250",
+      "name": "McCain Frozen BBQ Meatlovers Family Pizza | 500g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7010250.jpg&w=640&q=90",
+      "source_id": "7010250",
+      "barcode": "9310174024346",
+      "shop": "coles",
+      "category_id": "22300",
+      "weight": "500g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "850",
+          "price_per_unit": "170",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "44.26",
+    "weightSimilarity": "95.00"
+  }
+]

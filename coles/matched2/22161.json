@@ -1,0 +1,642 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/267206/chobani-no-sugar-added-greek-yogurt-mango-passion-fruit",
+      "name": "Chobani No Sugar Added Greek Yogurt Mango Passion Fruit 680g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/267206.jpg",
+      "source_id": "267206",
+      "barcode": "9310653105955",
+      "shop": "Woolworths",
+      "category_id": "22161",
+      "weight": "680g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "680",
+          "price_per_unit": "100",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/chobani-no-sugar-added-yogurt-mango-passionfruit-680g-6612688",
+      "name": "Chobani No Sugar Added Yogurt Mango Passionfruit | 680g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6612688.jpg&w=640&q=90",
+      "source_id": "6612688",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22161",
+      "weight": "680g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "680",
+          "price_per_unit": "100",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "44.50",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/919545/woolworths-strawberry-yoghurt",
+      "name": "Woolworths Strawberry Yoghurt 1kg",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/919545.jpg",
+      "source_id": "919545",
+      "barcode": "9339687391172",
+      "shop": "Woolworths",
+      "category_id": "22161",
+      "weight": "1kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "400",
+          "price_per_unit": "40",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/yoplait-strawberry-yoghurt-1kg-5586017",
+      "name": "Yoplait Strawberry Yoghurt | 1kg",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5586017.jpg&w=640&q=90",
+      "source_id": "5586017",
+      "barcode": "9300658704529",
+      "shop": "coles",
+      "category_id": "22161",
+      "weight": "1kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "475",
+          "price_per_unit": "48",
+          "price_unit": "kg"
+        }
+      ]
+    },
+    "nameSimilarity": "44.71",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/918070/woolworths-vanilla-yoghurt",
+      "name": "Woolworths Vanilla Yoghurt 1kg",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/918070.jpg",
+      "source_id": "918070",
+      "barcode": "9339687391028",
+      "shop": "Woolworths",
+      "category_id": "22161",
+      "weight": "1kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "400",
+          "price_per_unit": "40",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/yoplait-vanilla-yoghurt-1kg-8716913",
+      "name": "Yoplait Vanilla Yoghurt | 1kg",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8716913.jpg&w=640&q=90",
+      "source_id": "8716913",
+      "barcode": "9300658705205",
+      "shop": "coles",
+      "category_id": "22161",
+      "weight": "1kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "475",
+          "price_per_unit": "48",
+          "price_unit": "kg"
+        }
+      ]
+    },
+    "nameSimilarity": "41.62",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/297767/yoplait-forme-zero-strawberry-yoghurt",
+      "name": "Yoplait Forme Zero Strawberry Yoghurt 1kg",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/297767.jpg",
+      "source_id": "297767",
+      "barcode": "9300658403989",
+      "shop": "Woolworths",
+      "category_id": "22161",
+      "weight": "1Kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "475",
+          "price_per_unit": "48",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/yoplait-zero-strawberry-yoghurt-1kg-9058087",
+      "name": "Yoplait Zero Strawberry Yoghurt | 1kg",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9058087.jpg&w=640&q=90",
+      "source_id": "9058087",
+      "barcode": "9300658704970",
+      "shop": "coles",
+      "category_id": "22161",
+      "weight": "1kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "475",
+          "price_per_unit": "48",
+          "price_unit": "kg"
+        }
+      ]
+    },
+    "nameSimilarity": "48.41",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/253784/yoplait-mango-yoghurt",
+      "name": "Yoplait Mango Yoghurt 1kg",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/253784.jpg",
+      "source_id": "253784",
+      "barcode": "9300658405389",
+      "shop": "Woolworths",
+      "category_id": "22161",
+      "weight": "1Kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "475",
+          "price_per_unit": "48",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/yoplait-mango-yoghurt-1kg-5892512",
+      "name": "Yoplait Mango Yoghurt | 1kg",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5892512.jpg&w=640&q=90",
+      "source_id": "5892512",
+      "barcode": "9300658704727",
+      "shop": "coles",
+      "category_id": "22161",
+      "weight": "1kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "475",
+          "price_per_unit": "48",
+          "price_unit": "kg"
+        }
+      ]
+    },
+    "nameSimilarity": "67.66",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/253791/yoplait-strawberry-yoghurt",
+      "name": "Yoplait Strawberry Yoghurt 1kg",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/253791.jpg",
+      "source_id": "253791",
+      "barcode": "9300658405464",
+      "shop": "Woolworths",
+      "category_id": "22161",
+      "weight": "1Kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "475",
+          "price_per_unit": "48",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/yoplait-strawberry-yoghurt-1kg-5586017",
+      "name": "Yoplait Strawberry Yoghurt | 1kg",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5586017.jpg&w=640&q=90",
+      "source_id": "5586017",
+      "barcode": "9300658704529",
+      "shop": "coles",
+      "category_id": "22161",
+      "weight": "1kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "475",
+          "price_per_unit": "48",
+          "price_unit": "kg"
+        }
+      ]
+    },
+    "nameSimilarity": "70.20",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/253798/yoplait-vanilla-yoghurt",
+      "name": "Yoplait Vanilla Yoghurt 1kg",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/253798.jpg",
+      "source_id": "253798",
+      "barcode": "9300658405488",
+      "shop": "Woolworths",
+      "category_id": "22161",
+      "weight": "1Kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "475",
+          "price_per_unit": "48",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/yoplait-vanilla-yoghurt-1kg-8716913",
+      "name": "Yoplait Vanilla Yoghurt | 1kg",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8716913.jpg&w=640&q=90",
+      "source_id": "8716913",
+      "barcode": "9300658705205",
+      "shop": "coles",
+      "category_id": "22161",
+      "weight": "1kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "475",
+          "price_per_unit": "48",
+          "price_unit": "kg"
+        }
+      ]
+    },
+    "nameSimilarity": "68.76",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/717518/chobani-greek-yogurt-natural-light-plain",
+      "name": "Chobani Greek Yogurt Natural Light Plain 907g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/717518.jpg",
+      "source_id": "717518",
+      "barcode": "894700010663",
+      "shop": "Woolworths",
+      "category_id": "22161",
+      "weight": "907g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "790",
+          "price_per_unit": "87",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/chobani-greek-yogurt-natural-light-907g-1435100",
+      "name": "Chobani Greek Yogurt Natural Light | 907g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1435100.jpg&w=640&q=90",
+      "source_id": "1435100",
+      "barcode": "9310653102626",
+      "shop": "coles",
+      "category_id": "22161",
+      "weight": "907g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "790",
+          "price_per_unit": "87",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "61.76",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/31547/farmers-union-greek-style-natural-yoghurt",
+      "name": "Farmers Union Greek Style Natural Yoghurt 1kg",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/031547.jpg",
+      "source_id": "31547",
+      "barcode": "9300658228537",
+      "shop": "Woolworths",
+      "category_id": "22161",
+      "weight": "1Kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "650",
+          "price_per_unit": "65",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/farmers-union-greek-style-natural-yoghurt-1kg-5266865",
+      "name": "Farmers Union Greek Style Natural Yoghurt | 1kg",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5266865.jpg&w=640&q=90",
+      "source_id": "5266865",
+      "barcode": "9310165601105",
+      "shop": "coles",
+      "category_id": "22161",
+      "weight": "1kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "650",
+          "price_per_unit": "65",
+          "price_unit": "kg"
+        }
+      ]
+    },
+    "nameSimilarity": "70.51",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/571487/woolworths-natural-greek-style-yoghurt",
+      "name": "Woolworths Natural Greek Style Yoghurt 1kg",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/571487.jpg",
+      "source_id": "571487",
+      "barcode": "9300633631536",
+      "shop": "Woolworths",
+      "category_id": "22161",
+      "weight": "1kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "420",
+          "price_per_unit": "42",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-pot-set-natural-greek-style-yoghurt-1kg-2273467",
+      "name": "Coles Pot Set Natural Greek Style Yoghurt | 1kg",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2273467.jpg&w=640&q=90",
+      "source_id": "2273467",
+      "barcode": "9310645103334",
+      "shop": "coles",
+      "category_id": "22161",
+      "weight": "1kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "550",
+          "price_per_unit": "55",
+          "price_unit": "kg"
+        }
+      ]
+    },
+    "nameSimilarity": "41.79",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/267425/chobani-flip-greek-yogurt-triple-choc-brownie",
+      "name": "Chobani Flip Greek Yogurt Triple Choc Brownie 140g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/267425.jpg",
+      "source_id": "267425",
+      "barcode": "93569750",
+      "shop": "Woolworths",
+      "category_id": "22161",
+      "weight": "140g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "350",
+          "price_per_unit": "250",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/chobani-flip-yogurt-triple-choc-brownie-140g-6621645",
+      "name": "Chobani Flip Yogurt Triple Choc Brownie | 140g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6621645.jpg&w=640&q=90",
+      "source_id": "6621645",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22161",
+      "weight": "140g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "280",
+          "price_per_unit": "200",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "48.31",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/123959/gippsland-dairy-choc-fudge-honeycomb-yoghurt",
+      "name": "Gippsland Dairy Choc Fudge Honeycomb Yoghurt 140g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/123959.jpg",
+      "source_id": "123959",
+      "barcode": "93561488",
+      "shop": "Woolworths",
+      "category_id": "22161",
+      "weight": "140g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "275",
+          "price_per_unit": "196",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/gippsland-dairy-choc-fudge-honeycomb-mix-ins-140g-5316464",
+      "name": "Gippsland Dairy Choc Fudge Honeycomb Mix-Ins | 140g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5316464.jpg&w=640&q=90",
+      "source_id": "5316464",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22161",
+      "weight": "140g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "385",
+          "price_per_unit": "275",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "50.00",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/124477/gippsland-dairy-cookies-cream-yoghurt",
+      "name": "Gippsland Dairy Cookies & Cream Yoghurt 140g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/124477.jpg",
+      "source_id": "124477",
+      "barcode": "93561471",
+      "shop": "Woolworths",
+      "category_id": "22161",
+      "weight": "140g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "275",
+          "price_per_unit": "196",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/gippsland-dairy-cookies-and-cream-mix-ins-140g-5309662",
+      "name": "Gippsland Dairy Cookies & Cream Mix-Ins | 140g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5309662.jpg&w=640&q=90",
+      "source_id": "5309662",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22161",
+      "weight": "140g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "385",
+          "price_per_unit": "275",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "50.00",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/124190/gippsland-dairy-strawberry-waffle-yoghurt",
+      "name": "Gippsland Dairy Strawberry Waffle Yoghurt 140g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/124190.jpg",
+      "source_id": "124190",
+      "barcode": "93561457",
+      "shop": "Woolworths",
+      "category_id": "22161",
+      "weight": "140g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "275",
+          "price_per_unit": "196",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/gippsland-dairy-strawberry-waffle-mix-ins-140g-5310253",
+      "name": "Gippsland Dairy Strawberry Waffle Mix-Ins | 140g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5310253.jpg&w=640&q=90",
+      "source_id": "5310253",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22161",
+      "weight": "140g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "385",
+          "price_per_unit": "275",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "52.30",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/918707/chobani-fit-high-protein-greek-yogurt-pot-cookies-and-cream",
+      "name": "Chobani Fit High Protein Greek Yogurt Pot Cookies and Cream 160g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/918707.jpg",
+      "source_id": "918707",
+      "barcode": "9310653106723",
+      "shop": "Woolworths",
+      "category_id": "22161",
+      "weight": "160g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "280",
+          "price_per_unit": "175",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/chobani-fit-high-protein-greek-yogurt-cookies-and-cream-160gram-8419634",
+      "name": "Chobani Fit High Protein Greek Yogurt Cookies & Cream | 160GRAM",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8419634.jpg&w=640&q=90",
+      "source_id": "8419634",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22161",
+      "weight": "160gram",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "280",
+          "price_per_unit": "175",
+          "price_unit": "gram"
+        }
+      ]
+    },
+    "nameSimilarity": "44.64",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/6004415/cocobella-banana-coconut-yoghurt-pouch",
+      "name": "Cocobella Banana Coconut Yoghurt Pouch 110g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6004415.jpg",
+      "source_id": "6004415",
+      "barcode": "9336243007683",
+      "shop": "Woolworths",
+      "category_id": "22161",
+      "weight": "110g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "200",
+          "price_per_unit": "182",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/cocobella-coconut-yoghurt-pouch-mango-110g-7654107",
+      "name": "Cocobella Coconut Yoghurt Pouch Mango | 110g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7654107.jpg&w=640&q=90",
+      "source_id": "7654107",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22161",
+      "weight": "110g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "170",
+          "price_per_unit": "155",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "42.27",
+    "weightSimilarity": "95.00"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/pauls-zymil-gluten-free-and-lactose-free-full-cream-milk-2l-1902454",
+    "name": "Pauls Zymil Gluten free & lactose Free Full Cream Milk | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1902454.jpg&w=640&q=90",
+    "source_id": "1902454",
+    "barcode": "9310036048985",
+    "shop": "coles",
+    "category_id": "23985",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "340",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/785722/zymil-lactose-free-full-cream-milk",
+    "name": "Zymil Lactose Free Full Cream Milk 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/785722.jpg",
+    "source_id": "785722",
+    "barcode": "9310036048985",
+    "shop": "Woolworths",
+    "category_id": "23985",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "340",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

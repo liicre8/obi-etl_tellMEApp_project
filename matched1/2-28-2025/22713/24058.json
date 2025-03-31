@@ -1,0 +1,632 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/bertocchi-authentic-boneless-leg-ham-approx.-500g-each-6105817",
+    "name": "Bertocchi Authentic Boneless Leg Ham | approx 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6105817.jpg&w=640&q=90",
+    "source_id": "6105817",
+    "barcode": "2893690000003",
+    "shop": "coles",
+    "category_id": "24058",
+    "weight": "500geach",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1225",
+        "price_per_unit": "2450",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "1225",
+        "price_per_unit": "2450",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "1225",
+        "price_per_unit": "2450",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/255174/bertocchi-authentic-leg-ham-boneless",
+    "name": "Bertocchi Authentic Leg Ham Boneless 500g - 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/255174.jpg",
+    "source_id": "255174",
+    "barcode": "2893690000003",
+    "shop": "Woolworths",
+    "category_id": "24058",
+    "weight": "500g - 1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2450",
+        "price_per_unit": "2450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "2450",
+        "price_per_unit": "2450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2450",
+        "price_per_unit": "2450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2450",
+        "price_per_unit": "2450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cleaver's-organic-grass-fed-beef-hotdogs-gluten-free-275g-3050945",
+    "name": "Cleaver's Organic Grass-Fed Beef Hotdogs Gluten Free | 275g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3050945.jpg&w=640&q=90",
+    "source_id": "3050945",
+    "barcode": "9327409003991",
+    "shop": "coles",
+    "category_id": "24058",
+    "weight": "275g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "3091",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "3091",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "3091",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "3091",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "3091",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/608981/cleaver-s-organic-beef-hot-dogs",
+    "name": "Cleaver's Organic Beef Hot Dogs 275g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/608981.jpg",
+    "source_id": "608981",
+    "barcode": "9327409003991",
+    "shop": "Woolworths",
+    "category_id": "24058",
+    "weight": "275G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "3818",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "3818",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1050",
+        "price_per_unit": "3818",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1050",
+        "price_per_unit": "3818",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1050",
+        "price_per_unit": "3818",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/k-roo-kangaroo-mince-1kg-9007723",
+    "name": "K-Roo Kangaroo Mince | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9007723.jpg&w=640&q=90",
+    "source_id": "9007723",
+    "barcode": "9312141000636",
+    "shop": "coles",
+    "category_id": "24058",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1460",
+        "price_per_unit": "1460",
+        "price_unit": "kg"
+      },
+      {
+        "state": "VIC",
+        "price": "1460",
+        "price_per_unit": "1460",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "1460",
+        "price_per_unit": "1460",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1460",
+        "price_per_unit": "1460",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1460",
+        "price_per_unit": "1460",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1460",
+        "price_per_unit": "1460",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1460",
+        "price_per_unit": "1460",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1460",
+        "price_per_unit": "1460",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/148292/k-roo-kangaroo-mince",
+    "name": "K-Roo Kangaroo Mince 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/148292.jpg",
+    "source_id": "148292",
+    "barcode": "9312141000636",
+    "shop": "Woolworths",
+    "category_id": "24058",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lenah-game-meats-wallaby-mince-500g-9123190",
+    "name": "Lenah Game Meats Wallaby Mince | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9123190.jpg&w=640&q=90",
+    "source_id": "9123190",
+    "barcode": "9312711004118",
+    "shop": "coles",
+    "category_id": "24058",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/781489/lenah-game-meats-wallaby-mince",
+    "name": "Lenah Game Meats Wallaby Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/781489.jpg",
+    "source_id": "781489",
+    "barcode": "9312711004118",
+    "shop": "Woolworths",
+    "category_id": "24058",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lenah-game-meats-wallaby-sausages-375g-9123305",
+    "name": "Lenah Game Meats Wallaby Sausages | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9123305.jpg&w=640&q=90",
+    "source_id": "9123305",
+    "barcode": "9312711004033",
+    "shop": "coles",
+    "category_id": "24058",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "2267",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/781496/lenah-game-meats-wallaby-sausages",
+    "name": "Lenah Game Meats Wallaby Sausages 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/781496.jpg",
+    "source_id": "781496",
+    "barcode": "9312711004033",
+    "shop": "Woolworths",
+    "category_id": "24058",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "2267",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "2267",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/k-roo-kangaroo-diced-500g-2023110",
+    "name": "K-Roo Kangaroo Diced | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2023110.jpg&w=640&q=90",
+    "source_id": "2023110",
+    "barcode": "9312141000735",
+    "shop": "coles",
+    "category_id": "24058",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "2300",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "1150",
+        "price_per_unit": "2300",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1150",
+        "price_per_unit": "2300",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1150",
+        "price_per_unit": "2300",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1150",
+        "price_per_unit": "2300",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1150",
+        "price_per_unit": "2300",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1150",
+        "price_per_unit": "2300",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/799575/k-roo-kangaroo-diced",
+    "name": "K-Roo Kangaroo Diced 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/799575.jpg",
+    "source_id": "799575",
+    "barcode": "9312141000735",
+    "shop": "Woolworths",
+    "category_id": "24058",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1150",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1150",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1150",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1150",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/k-roo-kangaroo-sizzle-steak-400g-3771700",
+    "name": "K-Roo Kangaroo Sizzle Steak | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3771700.jpg&w=640&q=90",
+    "source_id": "3771700",
+    "barcode": "9312141001121",
+    "shop": "coles",
+    "category_id": "24058",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "2375",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "2375",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "2375",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "2375",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "2375",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "950",
+        "price_per_unit": "2375",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "2375",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "950",
+        "price_per_unit": "2375",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/120304/k-roo-kangaroo-sizzle-steak",
+    "name": "K-Roo Kangaroo Sizzle Steak 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/120304.jpg",
+    "source_id": "120304",
+    "barcode": "9312141001121",
+    "shop": "Woolworths",
+    "category_id": "24058",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "890",
+        "price_per_unit": "2225",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "890",
+        "price_per_unit": "2225",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "890",
+        "price_per_unit": "2225",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "890",
+        "price_per_unit": "2225",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "890",
+        "price_per_unit": "2225",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "890",
+        "price_per_unit": "2225",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "890",
+        "price_per_unit": "2225",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/the-british-sausage-co.-premium-angus-beef-and-caramelised-onion-sausages-6-pack-450g-3496343",
+    "name": "The British Sausage Co. Premium Angus Beef & Caramelised Onion Sausages 6 pack | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3496343.jpg&w=640&q=90",
+    "source_id": "3496343",
+    "barcode": "9321941004256",
+    "shop": "coles",
+    "category_id": "24058",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "1889",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "1889",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "1889",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "1889",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "1889",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "1889",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/4759/the-british-sausage-co-angus-beef-caramelised-onion-sausage",
+    "name": "The British Sausage Co Angus Beef & Caramelised Onion Sausage 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/004759.jpg",
+    "source_id": "4759",
+    "barcode": "9321941004256",
+    "shop": "Woolworths",
+    "category_id": "24058",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "1889",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

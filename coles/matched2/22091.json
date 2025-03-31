@@ -1,0 +1,82 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/930992/jarlsberg-original-cheese-block",
+      "name": "Jarlsberg Original Cheese Block 250g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/930992.jpg",
+      "source_id": "930992",
+      "barcode": "9310631628438",
+      "shop": "Woolworths",
+      "category_id": "22091",
+      "weight": "250G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1050",
+          "price_per_unit": "4200",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/jarlsberg-original-cheese-block-250g-5170008",
+      "name": "Jarlsberg Original Cheese Block | 250g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5170008.jpg&w=640&q=90",
+      "source_id": "5170008",
+      "barcode": "9312595131504",
+      "shop": "coles",
+      "category_id": "22093",
+      "weight": "250g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "850",
+          "price_per_unit": "3400",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "75.53",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/224937/woolworths-extra-tasty-cheese-block",
+      "name": "Woolworths Extra Tasty Cheese Block 250g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/224937.jpg",
+      "source_id": "224937",
+      "barcode": "9300633906566",
+      "shop": "Woolworths",
+      "category_id": "22091",
+      "weight": "250G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "600",
+          "price_per_unit": "2400",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-dairy-extra-tasty-cheese-block-250g-5432669",
+      "name": "Coles Dairy Extra Tasty Cheese Block | 250g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5432669.jpg&w=640&q=90",
+      "source_id": "5432669",
+      "barcode": "9300601244805",
+      "shop": "coles",
+      "category_id": "22091",
+      "weight": "250g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "600",
+          "price_per_unit": "2400",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "41.20",
+    "weightSimilarity": "95.00"
+  }
+]

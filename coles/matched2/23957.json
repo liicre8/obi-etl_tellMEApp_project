@@ -1,0 +1,226 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/211888/rufus-coco-elasticised-litter-tray-liners",
+      "name": "Rufus & Coco Elasticised Litter Tray Liners 8 Pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/211888.jpg",
+      "source_id": "211888",
+      "barcode": "9340510012157",
+      "shop": "Woolworths",
+      "category_id": "23957",
+      "weight": "8 Pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1200",
+          "price_per_unit": "150",
+          "price_unit": "EA"
+        },
+        {
+          "state": "NSW",
+          "price": "1200",
+          "price_per_unit": "150",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/rufus-and-coco-elasticised-litter-tray-liners-large-8-pack-6799997",
+      "name": "Rufus & Coco Elasticised Litter Tray Liners Large | 8 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6799997.jpg&w=640&q=90",
+      "source_id": "6799997",
+      "barcode": "9340510013222",
+      "shop": "coles",
+      "category_id": "23953",
+      "weight": "8pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "800",
+          "price_per_unit": "100",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "53.61",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/844028/applaws-whole-mackerel-loin",
+      "name": "Applaws Whole Mackerel Loin 30g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/844028.jpg",
+      "source_id": "844028",
+      "barcode": "5060333438623",
+      "shop": "Woolworths",
+      "category_id": "23957",
+      "weight": "30G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "280",
+          "price_per_unit": "933",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/applaws-whole-mackarel-loin-cat-treats-30g-2283256",
+      "name": "Applaws Whole Mackarel Loin Cat Treats | 30g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2283256.jpg&w=640&q=90",
+      "source_id": "2283256",
+      "barcode": "5060481892179",
+      "shop": "coles",
+      "category_id": "23957",
+      "weight": "30g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "280",
+          "price_per_unit": "933",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "51.56",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/693072/fussy-cat-grain-free-crunchers-adult-cat-treats-chicken",
+      "name": "Fussy Cat Grain Free Crunchers Adult Cat Treats Chicken 100G",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/693072.jpg",
+      "source_id": "693072",
+      "barcode": "9310085001412",
+      "shop": "Woolworths",
+      "category_id": "23957",
+      "weight": "100G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "380",
+          "price_per_unit": "380",
+          "price_unit": "G"
+        },
+        {
+          "state": "NSW",
+          "price": "380",
+          "price_per_unit": "380",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/fussy-cat-grain-free-crunchers-adult-cat-treats-chicken-100g-4239437",
+      "name": "Fussy Cat Grain Free Crunchers Adult Cat Treats Chicken | 100g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4239437.jpg&w=640&q=90",
+      "source_id": "4239437",
+      "barcode": "9319185003876",
+      "shop": "coles",
+      "category_id": "23954",
+      "weight": "100g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "390",
+          "price_per_unit": "390",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "64.72",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/141830/fussy-cat-grain-free-crunchers-adult-cat-treats-with-fish",
+      "name": "Fussy Cat Grain Free Crunchers Adult Cat Treats With Fish 100g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/141830.jpg",
+      "source_id": "141830",
+      "barcode": "9319185004088",
+      "shop": "Woolworths",
+      "category_id": "23957",
+      "weight": "100G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "380",
+          "price_per_unit": "380",
+          "price_unit": "G"
+        },
+        {
+          "state": "NSW",
+          "price": "380",
+          "price_per_unit": "380",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/fussy-cat-grain-free-crunchers-adult-cat-treats-with-kangaroo-100g-4239823",
+      "name": "Fussy Cat Grain Free Crunchers Adult Cat Treats With Kangaroo | 100g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4239823.jpg&w=640&q=90",
+      "source_id": "4239823",
+      "barcode": "9319185003890",
+      "shop": "coles",
+      "category_id": "23954",
+      "weight": "100g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "390",
+          "price_per_unit": "390",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "45.11",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/842615/fussy-cat-grain-free-crunchers-adult-cat-treats-with-kangaroo",
+      "name": "Fussy Cat Grain Free Crunchers Adult Cat Treats With Kangaroo 100g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/842615.jpg",
+      "source_id": "842615",
+      "barcode": "9310085001405",
+      "shop": "Woolworths",
+      "category_id": "23957",
+      "weight": "100G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "380",
+          "price_per_unit": "380",
+          "price_unit": "G"
+        },
+        {
+          "state": "NSW",
+          "price": "380",
+          "price_per_unit": "380",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/fussy-cat-grain-free-crunchers-adult-cat-treats-with-kangaroo-100g-4239823",
+      "name": "Fussy Cat Grain Free Crunchers Adult Cat Treats With Kangaroo | 100g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4239823.jpg&w=640&q=90",
+      "source_id": "4239823",
+      "barcode": "9319185003890",
+      "shop": "coles",
+      "category_id": "23954",
+      "weight": "100g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "390",
+          "price_per_unit": "390",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "59.99",
+    "weightSimilarity": "95.00"
+  }
+]

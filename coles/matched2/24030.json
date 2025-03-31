@@ -1,0 +1,82 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/6008517/hans-twiggy-sticks-mild",
+      "name": "Hans Twiggy Sticks Mild 500g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6008517.jpg",
+      "source_id": "6008517",
+      "barcode": "9310568462167",
+      "shop": "Woolworths",
+      "category_id": "24030",
+      "weight": "500g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1100",
+          "price_per_unit": "2200",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/hans-twiggy-sticks-mild-500g-2517845",
+      "name": "Hans Twiggy Sticks Mild | 500g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2517845.jpg&w=640&q=90",
+      "source_id": "2517845",
+      "barcode": "9310568462228",
+      "shop": "coles",
+      "category_id": "24028",
+      "weight": "500g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1100",
+          "price_per_unit": "2200",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "65.93",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/185410/primo-cocktail-frankfurts-cocktail",
+      "name": "Primo Cocktail Frankfurts 1kg",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/185410.jpg",
+      "source_id": "185410",
+      "barcode": "9311594046857",
+      "shop": "Woolworths",
+      "category_id": "24030",
+      "weight": "1kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "650",
+          "price_per_unit": "650",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/primo-cocktail-frankfurts-1-kg-4509983",
+      "name": "Primo Cocktail Frankfurts | 1 kg",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4509983.jpg&w=640&q=90",
+      "source_id": "4509983",
+      "barcode": "9311594223456",
+      "shop": "coles",
+      "category_id": "24030",
+      "weight": "1kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "800",
+          "price_per_unit": "800",
+          "price_unit": "kg"
+        }
+      ]
+    },
+    "nameSimilarity": "60.37",
+    "weightSimilarity": "95.00"
+  }
+]

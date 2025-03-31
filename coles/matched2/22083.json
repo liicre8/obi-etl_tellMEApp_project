@@ -1,0 +1,82 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/433885/woolworths-country-loaf-white",
+      "name": "Woolworths Country Loaf White 750g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/433885.jpg",
+      "source_id": "433885",
+      "barcode": "9300633588441",
+      "shop": "Woolworths",
+      "category_id": "22083",
+      "weight": "750G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "400",
+          "price_per_unit": "53",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-country-loaf-white-750g-2649471",
+      "name": "Coles Country Loaf White | 750g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2649471.jpg&w=640&q=90",
+      "source_id": "2649471",
+      "barcode": "9310645170572",
+      "shop": "coles",
+      "category_id": "22083",
+      "weight": "750g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "400",
+          "price_per_unit": "53",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "42.74",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/433887/woolworths-country-loaf-wholemeal",
+      "name": "Woolworths Country Loaf Wholemeal 750g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/433887.jpg",
+      "source_id": "433887",
+      "barcode": "9300633588458",
+      "shop": "Woolworths",
+      "category_id": "22083",
+      "weight": "750G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "400",
+          "price_per_unit": "53",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-country-loaf-wholemeal-750g-2649482",
+      "name": "Coles Country Loaf Wholemeal | 750g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2649482.jpg&w=640&q=90",
+      "source_id": "2649482",
+      "barcode": "9310645170589",
+      "shop": "coles",
+      "category_id": "22083",
+      "weight": "750g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "400",
+          "price_per_unit": "53",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "48.41",
+    "weightSimilarity": "95.00"
+  }
+]

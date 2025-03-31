@@ -1,0 +1,48 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/308054/swisse-apple-cider-vinegar-fibre-gummies",
+      "name": "Swisse Apple Cider Vinegar + Fibre Gummies 45 pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/308054.jpg",
+      "source_id": "308054",
+      "barcode": "93567954",
+      "shop": "Woolworths",
+      "category_id": "23872",
+      "weight": "45 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "2950",
+          "price_per_unit": "6556",
+          "price_unit": "EA"
+        },
+        {
+          "state": "NSW",
+          "price": "2950",
+          "price_per_unit": "6556",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/swisse-apple-cider-vinegar-+-fibre-gummies-with-800-mg-of-applle-cider-vinegar-+-a-source-of-fibre-45-pack-5347253",
+      "name": "Swisse Apple Cider Vinegar + Fibre Gummies With 800 mg of Applle Cider Vinegar + a Source of Fibre | 45 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5347253.jpg&w=640&q=90",
+      "source_id": "5347253",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "23872",
+      "weight": "45pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1475",
+          "price_per_unit": "3278",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "37.52",
+    "weightSimilarity": "95.00"
+  }
+]

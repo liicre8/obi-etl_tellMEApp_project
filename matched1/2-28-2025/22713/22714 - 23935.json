@@ -1,0 +1,170 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/the-bare-bird-whole-chicken-approx.-1.6kg-each-3091126",
+    "name": "The Bare Bird Whole Chicken | approx 1.6kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3091126.jpg&w=640&q=90",
+    "source_id": "3091126",
+    "barcode": "2918940000005",
+    "shop": "coles",
+    "category_id": "23935",
+    "weight": "1.6kgeach",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1280",
+        "price_per_unit": "800",
+        "price_unit": "each"
+      },
+      {
+        "state": "VIC",
+        "price": "1280",
+        "price_per_unit": "800",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "1280",
+        "price_per_unit": "800",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "1280",
+        "price_per_unit": "800",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "1280",
+        "price_per_unit": "800",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/24586/the-bare-bird-free-range-chicken-whole-bird-whole-plain",
+    "name": "The Bare Bird Free Range Chicken Whole Bird 1.2kg - 1.8kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/024586.jpg",
+    "source_id": "24586",
+    "barcode": "2918940000005",
+    "shop": "Woolworths",
+    "category_id": "23935",
+    "weight": "1.2kg - 1.8kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1530",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mount-barker-free-range-chicken-breast-fillets-skin-off-approx.-500g-pack-6140080",
+    "name": "Mount Barker Free Range Chicken Breast Fillets Skin Off | approx 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6140080.jpg&w=640&q=90",
+    "source_id": "6140080",
+    "barcode": "2874680000005",
+    "shop": "coles",
+    "category_id": "23935",
+    "weight": "500gpack",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/112288/mt-barker-chicken-free-range-breast",
+    "name": "Mt Barker Chicken Free Range Breast 500g - 760g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/112288.jpg",
+    "source_id": "112288",
+    "barcode": "2874680000005",
+    "shop": "Woolworths",
+    "category_id": "23935",
+    "weight": "500g - 760g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1520",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mount-barker-free-range-chicken-breast-diced-500g-3859403",
+    "name": "Mount Barker Free Range Chicken Breast Diced | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3859403.jpg&w=640&q=90",
+    "source_id": "3859403",
+    "barcode": "9334864004364",
+    "shop": "coles",
+    "category_id": "23935",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "2400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/118465/mt-barker-free-range-diced-chicken",
+    "name": "Mt Barker Free Range Diced Chicken 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/118465.jpg",
+    "source_id": "118465",
+    "barcode": "9334864004364",
+    "shop": "Woolworths",
+    "category_id": "23935",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mount-barker-free-range-chicken-tenderloin-kebab-with-lemon-and-herb-400g-4461967",
+    "name": "Mount Barker Free Range Chicken Tenderloin Kebab With Lemon And Herb | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4461967.jpg&w=640&q=90",
+    "source_id": "4461967",
+    "barcode": "9334864004449",
+    "shop": "coles",
+    "category_id": "23935",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "2375",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/117900/mt-barker-gourmet-kebabs-lemon-herb-chicken-tenders",
+    "name": "Mt Barker Gourmet Kebabs Lemon & Herb Chicken Tenders 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/117900.jpg",
+    "source_id": "117900",
+    "barcode": "9334864004449",
+    "shop": "Woolworths",
+    "category_id": "23935",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/33599/kraft-grated-parmesan-cheese",
+      "name": "Kraft Grated Parmesan Cheese 125g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033599.jpg",
+      "source_id": "33599",
+      "barcode": "9316389195604",
+      "shop": "Woolworths",
+      "category_id": "22097",
+      "weight": "125g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "550",
+          "price_per_unit": "4400",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/kraft-grated-parmesan-cheese-cannister-125g-133591",
+      "name": "Kraft Grated Parmesan Cheese Cannister | 125g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F133591.jpg&w=640&q=90",
+      "source_id": "133591",
+      "barcode": "9352042001141",
+      "shop": "coles",
+      "category_id": "22096",
+      "weight": "125g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "550",
+          "price_per_unit": "4400",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "56.68",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/85587/woolworths-shredded-parmesan-cheese",
+      "name": "Woolworths Shredded Parmesan Cheese 250g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085587.jpg",
+      "source_id": "85587",
+      "barcode": "9339687164394",
+      "shop": "Woolworths",
+      "category_id": "22097",
+      "weight": "250G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "600",
+          "price_per_unit": "2400",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-dairy-shredded-parmesan-cheese-250g-5726014",
+      "name": "Coles Dairy Shredded Parmesan Cheese | 250g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5726014.jpg&w=640&q=90",
+      "source_id": "5726014",
+      "barcode": "9300601310654",
+      "shop": "coles",
+      "category_id": "22096",
+      "weight": "250g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "600",
+          "price_per_unit": "2400",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "43.28",
+    "weightSimilarity": "95.00"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/41859/twinings-earl-grey-loose-leaf-tea-loose-leaf-tea",
+      "name": "Twinings Earl Grey Loose Leaf Tea 125g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/041859.jpg",
+      "source_id": "41859",
+      "barcode": "70177060732",
+      "shop": "Woolworths",
+      "category_id": "22228",
+      "weight": "125g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "750",
+          "price_per_unit": "600",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/twinings-earl-grey-loose-leaf-tea-125g-344575",
+      "name": "Twinings Earl Grey Loose Leaf Tea | 125g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F344575.jpg&w=640&q=90",
+      "source_id": "344575",
+      "barcode": "0070177060732",
+      "shop": "coles",
+      "category_id": "22228",
+      "weight": "125g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "650",
+          "price_per_unit": "520",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "70.51",
+    "weightSimilarity": "100.00"
+  }
+]

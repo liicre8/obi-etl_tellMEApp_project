@@ -1,0 +1,82 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/973003/woolworths-lemon-flavoured-ice-tea",
+      "name": "Woolworths Lemon Flavoured Ice Tea 1.25L",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/973003.jpg",
+      "source_id": "973003",
+      "barcode": "9339687397563",
+      "shop": "Woolworths",
+      "category_id": "22180",
+      "weight": "1.25L",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "220",
+          "price_per_unit": "176",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-lemon-flavoured-ice-tea-1.25l-3446811",
+      "name": "Coles Lemon Flavoured Ice Tea | 1.25L",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3446811.jpg&w=640&q=90",
+      "source_id": "3446811",
+      "barcode": "9310645259352",
+      "shop": "coles",
+      "category_id": "22180",
+      "weight": "1.25l",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "200",
+          "price_per_unit": "160",
+          "price_unit": ".l"
+        }
+      ]
+    },
+    "nameSimilarity": "48.12",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/972480/woolworths-peach-flavoured-ice-tea",
+      "name": "Woolworths Peach Flavoured Ice Tea 1.25L",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/972480.jpg",
+      "source_id": "972480",
+      "barcode": "9339687397013",
+      "shop": "Woolworths",
+      "category_id": "22180",
+      "weight": "1.25L",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "220",
+          "price_per_unit": "176",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-peach-flavoured-ice-tea-1.25l-3446800",
+      "name": "Coles Peach Flavoured Ice Tea | 1.25L",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3446800.jpg&w=640&q=90",
+      "source_id": "3446800",
+      "barcode": "9310645259345",
+      "shop": "coles",
+      "category_id": "22180",
+      "weight": "1.25l",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "200",
+          "price_per_unit": "160",
+          "price_unit": ".l"
+        }
+      ]
+    },
+    "nameSimilarity": "48.12",
+    "weightSimilarity": "95.00"
+  }
+]

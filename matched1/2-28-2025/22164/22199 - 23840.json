@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/devondale-instant-full-cream-milk-powder-1kg-2067115",
+    "name": "Devondale Instant Full Cream Milk Powder | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2067115.jpg&w=640&q=90",
+    "source_id": "2067115",
+    "barcode": "9300639602967",
+    "shop": "coles",
+    "category_id": "23840",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1650",
+        "price_per_unit": "165",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/750005/devondale-full-cream-milk-powder-long-life-uht",
+    "name": "Devondale Full Cream Milk Powder Long Life UHT 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/750005.jpg",
+    "source_id": "750005",
+    "barcode": "9300639602967",
+    "shop": "Woolworths",
+    "category_id": "23840",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1450",
+        "price_per_unit": "1450",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

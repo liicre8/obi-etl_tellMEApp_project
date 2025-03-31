@@ -1,0 +1,542 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/bakers-tennis-biscuits-200g-7065944",
+    "name": "Bakers Tennis Biscuits | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7065944.jpg&w=640&q=90",
+    "source_id": "7065944",
+    "barcode": "6001056662000",
+    "shop": "coles",
+    "category_id": "22858",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "365",
+        "price_per_unit": "183",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/270952/bakers-tennis-biscuits",
+    "name": "Bakers Tennis Biscuits 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/270952.jpg",
+    "source_id": "270952",
+    "barcode": "6001056662000",
+    "shop": "Woolworths",
+    "category_id": "22858",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "365",
+        "price_per_unit": "183",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/koo-guava-halves-in-syrup-410g-4369895",
+    "name": "Koo Guava Halves In Syrup | 410g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4369895.jpg&w=640&q=90",
+    "source_id": "4369895",
+    "barcode": "6001024072886",
+    "shop": "coles",
+    "category_id": "22858",
+    "weight": "410g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "976",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/203988/koo-fruit-guava-halves",
+    "name": "KOO Fruit Guava Halves 410g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/203988.jpg",
+    "source_id": "203988",
+    "barcode": "6001024072886",
+    "shop": "Woolworths",
+    "category_id": "22858",
+    "weight": "410G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "98",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "98",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/maynards-original-wine-gum-rolls-39g-6920090",
+    "name": "Maynards Original Wine Gum Rolls | 39g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6920090.jpg&w=640&q=90",
+    "source_id": "6920090",
+    "barcode": "6001120018047",
+    "shop": "coles",
+    "category_id": "22858",
+    "weight": "39g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "436",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/265799/maynards-wine-gums",
+    "name": "Maynards Wine Gums 39g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/265799.jpg",
+    "source_id": "265799",
+    "barcode": "6001120018047",
+    "shop": "Woolworths",
+    "category_id": "22858",
+    "weight": "39G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "385",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "385",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mrs-h-s-balls-original-recipe-chutney-470g-6007997",
+    "name": "Mrs H S Balls Original Recipe Chutney | 470g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6007997.jpg&w=640&q=90",
+    "source_id": "6007997",
+    "barcode": "6001092500052",
+    "shop": "coles",
+    "category_id": "22858",
+    "weight": "470g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "133",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/47190/mrs-h-s-ball-s-chutney-original",
+    "name": "Mrs H.S. Ball's Chutney Original 470G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/047190.jpg",
+    "source_id": "47190",
+    "barcode": "6001092500052",
+    "shop": "Woolworths",
+    "category_id": "22858",
+    "weight": "470G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "1330",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "1330",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mrs-h-s-balls-peach-chutney-470g-6006247",
+    "name": "Mrs H S Balls Peach Chutney | 470g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6006247.jpg&w=640&q=90",
+    "source_id": "6006247",
+    "barcode": "6001092500151",
+    "shop": "coles",
+    "category_id": "22858",
+    "weight": "470g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "133",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/47302/mrs-h-s-ball-s-chutney-peach",
+    "name": "Mrs H.S. Ball's Chutney Peach 470G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/047302.jpg",
+    "source_id": "47302",
+    "barcode": "6001092500151",
+    "shop": "Woolworths",
+    "category_id": "22858",
+    "weight": "470G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "1330",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "1330",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-tex-bar-40g-7136736",
+    "name": "Nestle Tex Bar | 40g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7136736.jpg&w=640&q=90",
+    "source_id": "7136736",
+    "barcode": "6001025177207",
+    "shop": "coles",
+    "category_id": "22858",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/265889/nestle-tex-bar",
+    "name": "Nestle Tex Bar 40g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/265889.jpg",
+    "source_id": "265889",
+    "barcode": "6001025177207",
+    "shop": "Woolworths",
+    "category_id": "22858",
+    "weight": "40G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "575",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/protea-foods-lekker-peri-peri-biltong-slices-100g-7196760",
+    "name": "Protea Foods Lekker Peri Peri Biltong Slices | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7196760.jpg&w=640&q=90",
+    "source_id": "7196760",
+    "barcode": "9332503000067",
+    "shop": "coles",
+    "category_id": "22858",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "12000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720579/protea-foods-biltong-slices-peri-peri",
+    "name": "Protea Foods Biltong Slices Peri Peri 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/720579.jpg",
+    "source_id": "720579",
+    "barcode": "9332503000067",
+    "shop": "Woolworths",
+    "category_id": "22858",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/protea-foods-lekker-traditional-biltong-slices-100g-7196750",
+    "name": "Protea Foods Lekker Traditional Biltong Slices | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7196750.jpg&w=640&q=90",
+    "source_id": "7196750",
+    "barcode": "9332503000050",
+    "shop": "coles",
+    "category_id": "22858",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "12000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720163/protea-foods-biltong-slices-traditional-south-african",
+    "name": "Protea Foods Biltong Slices Traditional South African 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/720163.jpg",
+    "source_id": "720163",
+    "barcode": "9332503000050",
+    "shop": "Woolworths",
+    "category_id": "22858",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lekker-traditional-mini-sticks-30g-3018137",
+    "name": "Lekker Traditional Mini Sticks | 30g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3018137.jpg&w=640&q=90",
+    "source_id": "3018137",
+    "barcode": "9332503000289",
+    "shop": "coles",
+    "category_id": "22858",
+    "weight": "30g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "13004",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720192/protea-foods-biltong-traditional-south-african-mini-sticks",
+    "name": "Protea Foods Biltong Traditional South African Mini Sticks 30g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/720192.jpg",
+    "source_id": "720192",
+    "barcode": "9332503000289",
+    "shop": "Woolworths",
+    "category_id": "22858",
+    "weight": "30G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "1600",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "1600",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/protea-maize-meal-1kg-2233779",
+    "name": "Protea Maize Meal | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2233779.jpg&w=640&q=90",
+    "source_id": "2233779",
+    "barcode": "6009681933038",
+    "shop": "coles",
+    "category_id": "22858",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "355",
+        "price_per_unit": "36",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/724799/protea-foods-meal-south-african",
+    "name": "Protea Foods Meal South African 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/724799.jpg",
+    "source_id": "724799",
+    "barcode": "6009681933038",
+    "shop": "Woolworths",
+    "category_id": "22858",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "355",
+        "price_per_unit": "36",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "355",
+        "price_per_unit": "36",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/protea-foods-lekker-peri-peri-biltong-stokkies-100g-7201995",
+    "name": "Protea Foods Lekker Peri Peri Biltong Stokkies | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7201995.jpg&w=640&q=90",
+    "source_id": "7201995",
+    "barcode": "9332503000180",
+    "shop": "coles",
+    "category_id": "22858",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1425",
+        "price_per_unit": "14250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720190/protea-foods-south-african-biltong-stokkies-peri-peri",
+    "name": "Protea Foods South African Biltong Stokkies Peri Peri 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/720190.jpg",
+    "source_id": "720190",
+    "barcode": "9332503000180",
+    "shop": "Woolworths",
+    "category_id": "22858",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1270",
+        "price_per_unit": "1270",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "1270",
+        "price_per_unit": "1270",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/protea-foods-lekker-traditional-biltong-stokkies-100g-7201984",
+    "name": "Protea Foods Lekker Traditional Biltong Stokkies | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7201984.jpg&w=640&q=90",
+    "source_id": "7201984",
+    "barcode": "9332503000173",
+    "shop": "coles",
+    "category_id": "22858",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1425",
+        "price_per_unit": "14250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720180/protea-foods-south-african-biltong-stokkies-traditional",
+    "name": "Protea Foods South African Biltong Stokkies Traditional 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/720180.jpg",
+    "source_id": "720180",
+    "barcode": "9332503000173",
+    "shop": "Woolworths",
+    "category_id": "22858",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1270",
+        "price_per_unit": "1270",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "1270",
+        "price_per_unit": "1270",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/flings-original-flavour-150g-5874248",
+    "name": "Flings Original Flavour | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5874248.jpg&w=640&q=90",
+    "source_id": "5874248",
+    "barcode": "6001032061063",
+    "shop": "coles",
+    "category_id": "22858",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/717628/willards-flings-south-african",
+    "name": "Willards Flings South African 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/717628.jpg",
+    "source_id": "717628",
+    "barcode": "6001032061063",
+    "shop": "Woolworths",
+    "category_id": "22858",
+    "weight": "150G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

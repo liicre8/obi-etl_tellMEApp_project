@@ -1,0 +1,82 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/847038/oatly-oat-milk-chocolate",
+      "name": "Oatly! Oat Milk Chocolate 1L",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/847038.jpg",
+      "source_id": "847038",
+      "barcode": "7394376617409",
+      "shop": "Woolworths",
+      "category_id": "23843",
+      "weight": "1L",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "500",
+          "price_per_unit": "500",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/chobani-oat-milk-chocolate-1l-5638610",
+      "name": "Chobani Oat Milk Chocolate | 1L",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5638610.jpg&w=640&q=90",
+      "source_id": "5638610",
+      "barcode": "9310653105122",
+      "shop": "coles",
+      "category_id": "22133",
+      "weight": "1l",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "500",
+          "price_per_unit": "500",
+          "price_unit": "l"
+        }
+      ]
+    },
+    "nameSimilarity": "41.39",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/209424/vitasoy-rice-milk",
+      "name": "Vitasoy Rice Milk 1l",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/209424.jpg",
+      "source_id": "209424",
+      "barcode": "9310232100401",
+      "shop": "Woolworths",
+      "category_id": "23843",
+      "weight": "1L",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "245",
+          "price_per_unit": "245",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/vitasoy-rice-milk-unsweetened-chilled-1l-6380811",
+      "name": "Vitasoy Rice Milk Unsweetened Chilled | 1L",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6380811.jpg&w=640&q=90",
+      "source_id": "6380811",
+      "barcode": "9341650001797",
+      "shop": "coles",
+      "category_id": "22136",
+      "weight": "1l",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "330",
+          "price_per_unit": "330",
+          "price_unit": "l"
+        }
+      ]
+    },
+    "nameSimilarity": "58.12",
+    "weightSimilarity": "95.00"
+  }
+]

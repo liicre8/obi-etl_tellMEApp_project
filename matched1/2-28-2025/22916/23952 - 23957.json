@@ -1,0 +1,914 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/purina-felix-as-good-as-it-looks-kitten-menu-cat-food-85g-pouch-12-pack-2283450",
+    "name": "Purina Felix As Good As It Looks Kitten Menu Cat Food 85g Pouch | 12 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2283450.jpg&w=640&q=90",
+    "source_id": "2283450",
+    "barcode": "9300605098602",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "12pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "88",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/844398/felix-as-good-as-it-looks-kitten-menus-jelly-wet-cat-food",
+    "name": "Felix As Good As It Looks Kitten Menus Jelly Wet Cat Food 85g x12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/844398.jpg",
+    "source_id": "844398",
+    "barcode": "9300605098602",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "85G x12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1450",
+        "price_per_unit": "142",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "1450",
+        "price_per_unit": "142",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/optimum-kitten-dry-cat-food-with-chicken-800g-3250810",
+    "name": "Optimum Kitten Dry Cat Food with Chicken | 800g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3250810.jpg&w=640&q=90",
+    "source_id": "3250810",
+    "barcode": "9334214044842",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "125",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/694873/optimum-kitten-2-12-months-dry-cat-food-with-chicken",
+    "name": "Optimum Kitten 2-12 months Dry Cat Food with Chicken 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/694873.jpg",
+    "source_id": "694873",
+    "barcode": "9334214044842",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/exelpet-vet-series-spot-on-all-wormer-treatment-cat-2-pack-2957350",
+    "name": "Exelpet Vet Series Spot On All Wormer Treatment Cat | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2957350.jpg&w=640&q=90",
+    "source_id": "2957350",
+    "barcode": "9334214041216",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3450",
+        "price_per_unit": "1725",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/646890/exelpet-vet-series-spot-on-allwormer-for-cats",
+    "name": "Exelpet Vet Series Spot On Allwormer For Cats 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/646890.jpg",
+    "source_id": "646890",
+    "barcode": "9334214041216",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "2 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2750",
+        "price_per_unit": "1375",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NSW",
+        "price": "2750",
+        "price_per_unit": "1375",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/breeders-choice-cat-litter-paper-15l-8029877",
+    "name": "Breeders Choice Cat Litter Paper | 15L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8029877.jpg&w=640&q=90",
+    "source_id": "8029877",
+    "barcode": "9315087192052",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "15l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2150",
+        "price_per_unit": "143",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/53329/breeders-choice-paper-cat-litter",
+    "name": "Breeders Choice Paper Cat Litter 15l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/053329.jpg",
+    "source_id": "53329",
+    "barcode": "9315087192052",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "15L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2150",
+        "price_per_unit": "143",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/breeders-choice-cat-litter-paper-24l-8811550",
+    "name": "Breeders Choice Cat Litter Paper | 24L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8811550.jpg&w=640&q=90",
+    "source_id": "8811550",
+    "barcode": "9315087192083",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "24l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "125",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/183885/breeders-choice-paper-cat-litter",
+    "name": "Breeders Choice Paper Cat Litter 24l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/183885.jpg",
+    "source_id": "183885",
+    "barcode": "9315087192083",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "24L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2300",
+        "price_per_unit": "96",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/breeders-choice-choice-cat-litter-paper-6l-4203622",
+    "name": "Breeders Choice Choice Cat Litter Paper | 6L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4203622.jpg&w=640&q=90",
+    "source_id": "4203622",
+    "barcode": "9315087102204",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "6l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "158",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/22970/breeders-choice-paper-cat-litter",
+    "name": "Breeders Choice Paper Cat Litter 6l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/022970.jpg",
+    "source_id": "22970",
+    "barcode": "9315087102204",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "6L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "158",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/catlux-light-clumping-cat-litter-6l-5952079",
+    "name": "Catlux Light Clumping Cat Litter | 6L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5952079.jpg&w=640&q=90",
+    "source_id": "5952079",
+    "barcode": "9334024001028",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "6l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "150",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230824/catlux-litter-light-clumping",
+    "name": "Catlux Litter Light Clumping 6l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/230824.jpg",
+    "source_id": "230824",
+    "barcode": "9334024001028",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "6L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "150",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/catsan-cat-litter-ultra-clumping-clay-7kg-8582103",
+    "name": "Catsan Cat Litter Ultra Clumping Clay | 7kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8582103.jpg&w=640&q=90",
+    "source_id": "8582103",
+    "barcode": "9310022247255",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "7kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "300",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/117763/catsan-cat-litter-ultra",
+    "name": "Catsan Cat Litter Ultra 7kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/117763.jpg",
+    "source_id": "117763",
+    "barcode": "9310022247255",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "7Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1850",
+        "price_per_unit": "264",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/chandler-original-clay-cat-litter-7l-400326",
+    "name": "Chandler Original Clay Cat Litter | 7L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F400326.jpg&w=640&q=90",
+    "source_id": "400326",
+    "barcode": "9312843010315",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "7l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "97",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/601925/chandler-cat-litter-original",
+    "name": "Chandler Cat Litter Original 7l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/601925.jpg",
+    "source_id": "601925",
+    "barcode": "9312843010315",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "7L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "121",
+        "price_unit": "L"
+      },
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "121",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/applaws-cat-treat-tuna-loin-30g-1714192",
+    "name": "Applaws Cat Treat Tuna Loin | 30g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1714192.jpg&w=640&q=90",
+    "source_id": "1714192",
+    "barcode": "5060333434540",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "30g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "933",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/788547/applaws-adult-cat-food-natural-treat-tuna-loin-plain",
+    "name": "Applaws Adult Cat Food Natural Treat Tuna Loin Plain 30g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/788547.jpg",
+    "source_id": "788547",
+    "barcode": "5060333434540",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "30G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "933",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dine-creamy-treats-cat-treats-chicken-flavour-4x12g-sachets-4-pack-2913489",
+    "name": "Dine Creamy Treats Cat Treats Chicken Flavour 4x12g Sachets | 4 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2913489.jpg&w=640&q=90",
+    "source_id": "2913489",
+    "barcode": "9334214038810",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "4pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "583",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/539085/dine-creamy-treats-cat-treats-chicken-flavour-sachets",
+    "name": "Dine Creamy Treats Cat Treats Chicken Flavour Sachets 12g x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/539085.jpg",
+    "source_id": "539085",
+    "barcode": "9334214038810",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "12g x 4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "833",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "833",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dine-creamy-treats-cat-treats-mixed-seafood-flavour-4x12g-sachets-4-pack-3775530",
+    "name": "Dine Creamy Treats Cat Treats Mixed Seafood Flavour 4x12g Sachets | 4 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3775530.jpg&w=640&q=90",
+    "source_id": "3775530",
+    "barcode": "9334214046846",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "4pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "583",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/807547/dine-creamy-treats-cat-treats-mixed-seafood-sachets",
+    "name": "Dine Creamy Treats Cat Treats Mixed Seafood Sachets 12g x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/807547.jpg",
+    "source_id": "807547",
+    "barcode": "9334214046846",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "12g x 4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "833",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "833",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dine-creamy-treats-cat-treats-tuna-and-prawn-flavour-4x12g-sachets-4-pack-3322874",
+    "name": "Dine Creamy Treats Cat Treats Tuna & Prawn Flavour 4x12g Sachets | 4 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3322874.jpg&w=640&q=90",
+    "source_id": "3322874",
+    "barcode": "9334214046815",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "4pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "583",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/807548/dine-creamy-treats-cat-treats-treats-prawn-tuna-sachets",
+    "name": "Dine Creamy Treats Cat Treats Treats Prawn & Tuna Sachets 12g x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/807548.jpg",
+    "source_id": "807548",
+    "barcode": "9334214046815",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "12g x 4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "833",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "833",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dine-creamy-treats-cat-treats-tuna-and-salmon-flavour-4x12g-sachets-4-pack-2913490",
+    "name": "Dine Creamy Treats Cat Treats Tuna & Salmon Flavour 4x12g Sachets | 4 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2913490.jpg&w=640&q=90",
+    "source_id": "2913490",
+    "barcode": "9334214038759",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "4pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "583",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/539750/dine-creamy-treats-cat-treats-tuna-salmon-flavour-sachets",
+    "name": "Dine Creamy Treats Cat Treats Tuna & Salmon Flavour Sachets 12g x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/539750.jpg",
+    "source_id": "539750",
+    "barcode": "9334214038759",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "12g x 4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "833",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "833",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dine-creamy-treats-tuna-flavour-cat-food-12g-4-pack-2913514",
+    "name": "Dine Creamy Treats Tuna Flavour Cat Food 12g | 4 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2913514.jpg&w=640&q=90",
+    "source_id": "2913514",
+    "barcode": "9334214038780",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "4pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "583",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/539639/dine-creamy-treats-tuna-flavour-cat-treat",
+    "name": "Dine Creamy Treats Tuna Flavour Cat Treat 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/539639.jpg",
+    "source_id": "539639",
+    "barcode": "9334214038780",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "833",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "833",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dine-fine-flakes-tuna-and-whitebait-wet-cat-food-pouch-35g-2283165",
+    "name": "Dine Fine Flakes Tuna & Whitebait Wet Cat Food Pouch | 35g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2283165.jpg&w=640&q=90",
+    "source_id": "2283165",
+    "barcode": "9334214034683",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "35g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "429",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/847922/dine-fine-flakes-tuna-whitefish-wet-cat-food",
+    "name": "Dine Fine Flakes Tuna & Whitefish Wet Cat Food 35g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/847922.jpg",
+    "source_id": "847922",
+    "barcode": "9334214034683",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "35G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "486",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "486",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dine-melting-soup-adult-wet-cat-food-tuna-and-chicken-pouch-40g-1711106",
+    "name": "Dine Melting Soup Adult Wet Cat Food Tuna & Chicken Pouch | 40g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1711106.jpg&w=640&q=90",
+    "source_id": "1711106",
+    "barcode": "9334214029283",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "375",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/772717/dine-melting-soup-adult-wet-cat-food-tuna-chicken-pouch",
+    "name": "Dine Melting Soup Adult Wet Cat Food Tuna & Chicken Pouch 40g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/772717.jpg",
+    "source_id": "772717",
+    "barcode": "9334214029283",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dine-melting-soup-adult-wet-cat-food-tuna-and-salmon-pouch-40g-1711128",
+    "name": "Dine Melting Soup Adult Wet Cat Food Tuna & Salmon Pouch | 40g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1711128.jpg&w=640&q=90",
+    "source_id": "1711128",
+    "barcode": "9334214029306",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "375",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/772780/dine-melting-soup-adult-wet-cat-food-tuna-salmon-pouch",
+    "name": "Dine Melting Soup Adult Wet Cat Food Tuna & Salmon Pouch 40g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/772780.jpg",
+    "source_id": "772780",
+    "barcode": "9334214029306",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fancy-feast-royale-broths-tuna-whitebait-cat-food-40g-8998054",
+    "name": "Fancy Feast Royale Broths Tuna Whitebait Cat Food | 40g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8998054.jpg&w=640&q=90",
+    "source_id": "8998054",
+    "barcode": "9300605080553",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/727075/fancy-feast-adult-royale-broths-tuna-surimi-whitebait-wet-cat-food",
+    "name": "Fancy Feast Adult Royale Broths Tuna Surimi Whitebait Wet Cat Food 40g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/727075.jpg",
+    "source_id": "727075",
+    "barcode": "9300605080553",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "40G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "375",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "375",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fancy-feast-royale-broths-tuna-surimi-prawn-cat-food-40g-8998043",
+    "name": "Fancy Feast Royale Broths Tuna Surimi Prawn Cat Food | 40g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8998043.jpg&w=640&q=90",
+    "source_id": "8998043",
+    "barcode": "9300605080546",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/727082/fancy-feast-adult-royale-broths-tuna-surimi-prawns-wet-cat-food",
+    "name": "Fancy Feast Adult Royale Broths Tuna, Surimi & Prawns Wet Cat Food 40g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/727082.jpg",
+    "source_id": "727082",
+    "barcode": "9300605080546",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "40G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "375",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "375",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/temptations-cat-treats-seafood-medley-flavour-180g-3566405",
+    "name": "Temptations Cat Treats Seafood Medley Flavour | 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3566405.jpg&w=640&q=90",
+    "source_id": "3566405",
+    "barcode": "8853301000949",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "444",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67175/temptations-cat-treats-seafood-medley-flavour",
+    "name": "Temptations Cat Treats Seafood Medley Flavour 180g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/067175.jpg",
+    "source_id": "67175",
+    "barcode": "8853301000949",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "556",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/temptations-cat-treats-tasty-chicken-flavour-180g-3566427",
+    "name": "Temptations Cat Treats Tasty Chicken Flavour | 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3566427.jpg&w=640&q=90",
+    "source_id": "3566427",
+    "barcode": "8853301000987",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "444",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/24813/temptations-cat-treats-tasty-chicken-flavour",
+    "name": "Temptations Cat Treats Tasty Chicken Flavour 180g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/024813.jpg",
+    "source_id": "24813",
+    "barcode": "8853301000987",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "556",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/temptations-cat-treats-tasty-chicken-flavour-85g-3566290",
+    "name": "Temptations Cat Treats Tasty Chicken Flavour | 85g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3566290.jpg&w=640&q=90",
+    "source_id": "3566290",
+    "barcode": "8853301000963",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "85g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "647",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/24766/temptations-cat-treats-tasty-chicken-flavour",
+    "name": "Temptations Cat Treats Tasty Chicken Flavour 85g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/024766.jpg",
+    "source_id": "24766",
+    "barcode": "8853301000963",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "85g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "518",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

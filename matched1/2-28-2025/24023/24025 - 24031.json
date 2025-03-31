@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/normandie-mixed-pate-pods-4-pack-200g-1861619",
+    "name": "Normandie Mixed Pate Pods 4 pack | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1861619.jpg&w=640&q=90",
+    "source_id": "1861619",
+    "barcode": "9300788000591",
+    "shop": "coles",
+    "category_id": "24031",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "730",
+        "price_per_unit": "365",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/784926/normandie-pate-pods-mixed-pack",
+    "name": "Normandie Pate Pods Mixed Pack 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/784926.jpg",
+    "source_id": "784926",
+    "barcode": "9300788000591",
+    "shop": "Woolworths",
+    "category_id": "24031",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "730",
+        "price_per_unit": "3650",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

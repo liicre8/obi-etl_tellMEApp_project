@@ -1,0 +1,42 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/71351/mccain-broccoli",
+      "name": "McCain Broccoli 500g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/071351.jpg",
+      "source_id": "71351",
+      "barcode": "9310174006441",
+      "shop": "Woolworths",
+      "category_id": "22332",
+      "weight": "500g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "450",
+          "price_per_unit": "900",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/mccain-broccoli-500g-8161557",
+      "name": "Mccain Broccoli | 500g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8161557.jpg&w=640&q=90",
+      "source_id": "8161557",
+      "barcode": "9310174117680",
+      "shop": "coles",
+      "category_id": "22332",
+      "weight": "500g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "450",
+          "price_per_unit": "900",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "68.38",
+    "weightSimilarity": "95.00"
+  }
+]

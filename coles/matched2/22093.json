@@ -1,0 +1,242 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/85587/woolworths-shredded-parmesan-cheese",
+      "name": "Woolworths Shredded Parmesan Cheese 250g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085587.jpg",
+      "source_id": "85587",
+      "barcode": "9339687164394",
+      "shop": "Woolworths",
+      "category_id": "22093",
+      "weight": "250G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "600",
+          "price_per_unit": "2400",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-dairy-shredded-parmesan-cheese-250g-5726014",
+      "name": "Coles Dairy Shredded Parmesan Cheese | 250g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5726014.jpg&w=640&q=90",
+      "source_id": "5726014",
+      "barcode": "9300601310654",
+      "shop": "coles",
+      "category_id": "22096",
+      "weight": "250g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "600",
+          "price_per_unit": "2400",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "43.28",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/924706/yarra-valley-persian-fetta",
+      "name": "Yarra Valley Persian Fetta 180g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/924706.jpg",
+      "source_id": "924706",
+      "barcode": "9326105000679",
+      "shop": "Woolworths",
+      "category_id": "22093",
+      "weight": "180g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "730",
+          "price_per_unit": "4056",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/yarra-valley-persian-fetta-classic-180gram-8569772",
+      "name": "Yarra Valley Persian Fetta Classic | 180GRAM",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8569772.jpg&w=640&q=90",
+      "source_id": "8569772",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22095",
+      "weight": "180gram",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "730",
+          "price_per_unit": "4056",
+          "price_unit": "gram"
+        }
+      ]
+    },
+    "nameSimilarity": "53.88",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/96422/philadelphia-light-cream-cheese-spread-tub",
+      "name": "Philadelphia Light Cream Cheese Spread Tub 250g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/096422.jpg",
+      "source_id": "96422",
+      "barcode": "9300650430617",
+      "shop": "Woolworths",
+      "category_id": "22093",
+      "weight": "250g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "450",
+          "price_per_unit": "1800",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/philadelphia-light-cream-cheese-tub-250g-350057",
+      "name": "Philadelphia Light Cream Cheese Tub | 250g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F350057.jpg&w=640&q=90",
+      "source_id": "350057",
+      "barcode": "9300650431218",
+      "shop": "coles",
+      "category_id": "22098",
+      "weight": "250g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "450",
+          "price_per_unit": "1800",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "52.30",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/810779/woolworths-cherry-bocconcini",
+      "name": "Woolworths Cherry Bocconcini 220g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/810779.jpg",
+      "source_id": "810779",
+      "barcode": "9339687041671",
+      "shop": "Woolworths",
+      "category_id": "22093",
+      "weight": "220G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "480",
+          "price_per_unit": "2182",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-cherry-bocconcini-220g-7781192",
+      "name": "Coles Cherry Bocconcini | 220g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7781192.jpg&w=640&q=90",
+      "source_id": "7781192",
+      "barcode": "9300601431700",
+      "shop": "coles",
+      "category_id": "22094",
+      "weight": "220g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "480",
+          "price_per_unit": "2182",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "44.71",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/155151/woolworths-spreadable-light-cream-cheese",
+      "name": "Woolworths Spreadable Light Cream Cheese 250g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/155151.jpg",
+      "source_id": "155151",
+      "barcode": "9339687222223",
+      "shop": "Woolworths",
+      "category_id": "22093",
+      "weight": "250g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "290",
+          "price_per_unit": "1160",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-spreadable-light-cream-cheese-tub-250g-8588926",
+      "name": "Coles Spreadable Light Cream Cheese Tub | 250g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8588926.jpg&w=640&q=90",
+      "source_id": "8588926",
+      "barcode": "9300601556731",
+      "shop": "coles",
+      "category_id": "22098",
+      "weight": "250g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "290",
+          "price_per_unit": "1160",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "43.75",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/810778/woolworths-traditional-bocconcini",
+      "name": "Woolworths Traditional Bocconcini 220g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/810778.jpg",
+      "source_id": "810778",
+      "barcode": "9339687041664",
+      "shop": "Woolworths",
+      "category_id": "22093",
+      "weight": "220G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "480",
+          "price_per_unit": "2182",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-traditional-bocconcini-210g-2466460",
+      "name": "Coles Traditional Bocconcini | 210g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2466460.jpg&w=640&q=90",
+      "source_id": "2466460",
+      "barcode": "9310645110066",
+      "shop": "coles",
+      "category_id": "22094",
+      "weight": "210g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "480",
+          "price_per_unit": "2286",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "49.89",
+    "weightSimilarity": "95.45"
+  }
+]

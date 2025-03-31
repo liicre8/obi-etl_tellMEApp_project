@@ -1,0 +1,94 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/98751/pedigree-adult-dry-dog-food-with-real-beef",
+      "name": "Pedigree Adult Dry Dog Food with Real Beef 3kg",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/098751.jpg",
+      "source_id": "98751",
+      "barcode": "9310022161308",
+      "shop": "Woolworths",
+      "category_id": "22939",
+      "weight": "3kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "990",
+          "price_per_unit": "33",
+          "price_unit": "G"
+        },
+        {
+          "state": "NSW",
+          "price": "990",
+          "price_per_unit": "33",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/pedigree-adult-dry-dog-food-with-real-beef-3kg-7976078",
+      "name": "Pedigree Adult Dry Dog Food with Real Beef | 3kg",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7976078.jpg&w=640&q=90",
+      "source_id": "7976078",
+      "barcode": "9310022163104",
+      "shop": "coles",
+      "category_id": "22939",
+      "weight": "3kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1500",
+          "price_per_unit": "50",
+          "price_unit": "kg"
+        }
+      ]
+    },
+    "nameSimilarity": "66.38",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/65367/pedigree-adult-dry-dog-food-with-real-beef",
+      "name": "Pedigree Adult Dry Dog Food with Real Beef 8kg",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/065367.jpg",
+      "source_id": "65367",
+      "barcode": "9310022157509",
+      "shop": "Woolworths",
+      "category_id": "22939",
+      "weight": "8kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "3400",
+          "price_per_unit": "43",
+          "price_unit": "G"
+        },
+        {
+          "state": "NSW",
+          "price": "3400",
+          "price_per_unit": "43",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/pedigree-adult-dry-dog-food-with-real-beef-8kg-7410598",
+      "name": "Pedigree Adult Dry Dog Food with Real Beef | 8kg",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7410598.jpg&w=640&q=90",
+      "source_id": "7410598",
+      "barcode": "9334214008585",
+      "shop": "coles",
+      "category_id": "22939",
+      "weight": "8kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "2380",
+          "price_per_unit": "30",
+          "price_unit": "kg"
+        }
+      ]
+    },
+    "nameSimilarity": "66.38",
+    "weightSimilarity": "95.00"
+  }
+]

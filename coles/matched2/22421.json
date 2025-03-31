@@ -1,0 +1,512 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/39817/dencorub-extra-strength-heat-gel-heat-gel",
+      "name": "Dencorub Extra Strength Heat Gel 100g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/039817.jpg",
+      "source_id": "39817",
+      "barcode": "9310320016102",
+      "shop": "Woolworths",
+      "category_id": "22421",
+      "weight": "100g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "660",
+          "price_per_unit": "660",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/dencorub-extra-strength-heat-rub-gel-100g-5160183",
+      "name": "Dencorub Extra Strength Heat Rub Gel | 100g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5160183.jpg&w=640&q=90",
+      "source_id": "5160183",
+      "barcode": "9310320016300",
+      "shop": "coles",
+      "category_id": "22421",
+      "weight": "100g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "660",
+          "price_per_unit": "660",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "50.06",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/282064/epsom-salts",
+      "name": "Epsom Salts 1kg",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/282064.jpg",
+      "source_id": "282064",
+      "barcode": "9300655602842",
+      "shop": "Woolworths",
+      "category_id": "22421",
+      "weight": "1kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "900",
+          "price_per_unit": "90",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-epsom-salts-1kg-2845946",
+      "name": "Coles Epsom Salts | 1kg",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2845946.jpg&w=640&q=90",
+      "source_id": "2845946",
+      "barcode": "9310645182377",
+      "shop": "coles",
+      "category_id": "22421",
+      "weight": "1kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "600",
+          "price_per_unit": "60",
+          "price_unit": "kg"
+        }
+      ]
+    },
+    "nameSimilarity": "52.03",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/204919/essentials-ibuprofen-200mg-tablets",
+      "name": "Essentials Ibuprofen 200mg Tablets 24 Pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/204919.jpg",
+      "source_id": "204919",
+      "barcode": "9300633900595",
+      "shop": "Woolworths",
+      "category_id": "22421",
+      "weight": "24 Pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "155",
+          "price_per_unit": "6",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/nurofen-ibuprofen-200mg-tablets-pain-relief-24-pack-9677985",
+      "name": "Nurofen Ibuprofen 200mg Tablets Pain Relief | 24 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9677985.jpg&w=640&q=90",
+      "source_id": "9677985",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22421",
+      "weight": "24pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "700",
+          "price_per_unit": "29",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "38.87",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/622138/help-hand-ibuprofen-soft-gel-capsules-200mg",
+      "name": "Help@Hand Ibuprofen Soft Gel Capsules 200mg 20 Pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/622138.jpg",
+      "source_id": "622138",
+      "barcode": "9300633675189",
+      "shop": "Woolworths",
+      "category_id": "22421",
+      "weight": "20 Pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "260",
+          "price_per_unit": "13",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-ibuprofen-soft-gel-capsules-20-pack-2843260",
+      "name": "Coles Ibuprofen Soft Gel Capsules | 20 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2843260.jpg&w=640&q=90",
+      "source_id": "2843260",
+      "barcode": "9310645182230",
+      "shop": "coles",
+      "category_id": "22421",
+      "weight": "20pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "260",
+          "price_per_unit": "13",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "41.20",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/53606/herron-blue-ibuprofen-caplets",
+      "name": "Herron Blue Ibuprofen Caplets 16 pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/053606.jpg",
+      "source_id": "53606",
+      "barcode": "9311723036148",
+      "shop": "Woolworths",
+      "category_id": "22421",
+      "weight": "16 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "300",
+          "price_per_unit": "19",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/herron-blue-ibuprofen-16-pack-8799320",
+      "name": "Herron Blue Ibuprofen | 16 Pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8799320.jpg&w=640&q=90",
+      "source_id": "8799320",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22421",
+      "weight": "16pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "300",
+          "price_per_unit": "19",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "46.21",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/54196/herron-gold-paracetamol-500mg",
+      "name": "Herron Gold Paracetamol 500mg 16 pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/054196.jpg",
+      "source_id": "54196",
+      "barcode": "9311723036131",
+      "shop": "Woolworths",
+      "category_id": "22421",
+      "weight": "16 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "280",
+          "price_per_unit": "280",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/herron-gold-paracetamol-16-pack-8799207",
+      "name": "Herron Gold Paracetamol | 16 Pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8799207.jpg&w=640&q=90",
+      "source_id": "8799207",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22421",
+      "weight": "16pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "280",
+          "price_per_unit": "18",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "53.11",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/958362/nyal-paracetamol-500mg-capsules",
+      "name": "Nyal Paracetamol 500mg Capsules 16 pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/958362.jpg",
+      "source_id": "958362",
+      "barcode": "9314057020050",
+      "shop": "Woolworths",
+      "category_id": "22421",
+      "weight": "16 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "350",
+          "price_per_unit": "22",
+          "price_unit": "EA"
+        },
+        {
+          "state": "NSW",
+          "price": "350",
+          "price_per_unit": "22",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/nyal-paracetamol-liquid-capsules-16-pack-8799080",
+      "name": "Nyal Paracetamol Liquid Capsules | 16 Pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8799080.jpg&w=640&q=90",
+      "source_id": "8799080",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22421",
+      "weight": "16pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "350",
+          "price_per_unit": "22",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "43.70",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/956214/nyal-paracetamol-500mg-liquid-caps",
+      "name": "Nyal Paracetamol 500mg Liquid Caps 16 pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/956214.jpg",
+      "source_id": "956214",
+      "barcode": "9314057020012",
+      "shop": "Woolworths",
+      "category_id": "22421",
+      "weight": "16 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "350",
+          "price_per_unit": "22",
+          "price_unit": "EA"
+        },
+        {
+          "state": "NSW",
+          "price": "350",
+          "price_per_unit": "22",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-paracetamol-500mg-liquid-capsules-16-pack-6420268",
+      "name": "Coles Paracetamol 500mg Liquid Capsules | 16 Pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6420268.jpg&w=640&q=90",
+      "source_id": "6420268",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22421",
+      "weight": "16pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "450",
+          "price_per_unit": "28",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "47.02",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/958191/nyal-paracetamol-500mg-tablets",
+      "name": "Nyal Paracetamol 500mg Tablets 16 pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/958191.jpg",
+      "source_id": "958191",
+      "barcode": "9314057020043",
+      "shop": "Woolworths",
+      "category_id": "22421",
+      "weight": "16 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "250",
+          "price_per_unit": "16",
+          "price_unit": "EA"
+        },
+        {
+          "state": "NSW",
+          "price": "250",
+          "price_per_unit": "16",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/nyal-paracetamol-tablets-16-pack-8799116",
+      "name": "Nyal Paracetamol Tablets | 16 Pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8799116.jpg&w=640&q=90",
+      "source_id": "8799116",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22421",
+      "weight": "16pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "250",
+          "price_per_unit": "16",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "44.67",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/506575/volta-natra-pain-relief-cream",
+      "name": "Volta Natra Pain Relief Cream 50g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/506575.jpg",
+      "source_id": "506575",
+      "barcode": "9300673889775",
+      "shop": "Woolworths",
+      "category_id": "22421",
+      "weight": "50g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1015",
+          "price_per_unit": "2030",
+          "price_unit": "G"
+        },
+        {
+          "state": "NSW",
+          "price": "1015",
+          "price_per_unit": "2030",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/voltanatra-natural-pain-relief-cream-50g-7749575",
+      "name": "Voltanatra Natural Pain Relief Cream | 50g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7749575.jpg&w=640&q=90",
+      "source_id": "7749575",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22421",
+      "weight": "50g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1450",
+          "price_per_unit": "2900",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "38.14",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/132289/help-hand-eucalyptus-oil-spray",
+      "name": "Help@Hand Eucalyptus Oil Spray 200g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/132289.jpg",
+      "source_id": "132289",
+      "barcode": "9339687221202",
+      "shop": "Woolworths",
+      "category_id": "22421",
+      "weight": "200g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "850",
+          "price_per_unit": "425",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-eucalyptus-oil-spray-200g-3649499",
+      "name": "Coles Eucalyptus Oil Spray | 200g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3649499.jpg&w=640&q=90",
+      "source_id": "3649499",
+      "barcode": "9310645280073",
+      "shop": "coles",
+      "category_id": "22416",
+      "weight": "200g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "850",
+          "price_per_unit": "425",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "41.78",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/179964/sanofi-glycerine",
+      "name": "Sanofi Glycerine 200ml",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/179964.jpg",
+      "source_id": "179964",
+      "barcode": "9300655602323",
+      "shop": "Woolworths",
+      "category_id": "22421",
+      "weight": "200mL",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "900",
+          "price_per_unit": "450",
+          "price_unit": "ML"
+        },
+        {
+          "state": "NSW",
+          "price": "900",
+          "price_per_unit": "450",
+          "price_unit": "ML"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/sanofi-glycerine-softens-rough-skin-200ml-9436333",
+      "name": "Sanofi Glycerine - Softens Rough Skin | 200mL",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9436333.jpg&w=640&q=90",
+      "source_id": "9436333",
+      "barcode": "9300655602880",
+      "shop": "coles",
+      "category_id": "22421",
+      "weight": "200ml",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "900",
+          "price_per_unit": "450",
+          "price_unit": "ml"
+        }
+      ]
+    },
+    "nameSimilarity": "40.81",
+    "weightSimilarity": "95.00"
+  }
+]

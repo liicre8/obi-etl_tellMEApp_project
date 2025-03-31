@@ -1,0 +1,42 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/779134/woolworths-unsweetened-almond-milk",
+      "name": "Woolworths Unsweetened Almond Milk 1l",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/779134.jpg",
+      "source_id": "779134",
+      "barcode": "9300633473686",
+      "shop": "Woolworths",
+      "category_id": "22839",
+      "weight": "1L",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "200",
+          "price_per_unit": "200",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/vitasoy-unsweetened-almond-milk-1l-2684381",
+      "name": "Vitasoy Unsweetened Almond Milk | 1L",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2684381.jpg&w=640&q=90",
+      "source_id": "2684381",
+      "barcode": "9341650000912",
+      "shop": "coles",
+      "category_id": "22139",
+      "weight": "1l",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "400",
+          "price_per_unit": "400",
+          "price_unit": "l"
+        }
+      ]
+    },
+    "nameSimilarity": "44.67",
+    "weightSimilarity": "95.00"
+  }
+]

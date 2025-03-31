@@ -1,0 +1,42 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/660224/bibigo-mandu-vegetable-dumplings",
+      "name": "Bibigo Mandu Vegetable Dumplings 525g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/660224.jpg",
+      "source_id": "660224",
+      "barcode": "8801392083075",
+      "shop": "Woolworths",
+      "category_id": "23292",
+      "weight": "525g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "950",
+          "price_per_unit": "181",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/bibigo-mandu-veg-and-corn-dumplings-525gram-8940520",
+      "name": "Bibigo Mandu Veg & Corn Dumplings | 525GRAM",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8940520.jpg&w=640&q=90",
+      "source_id": "8940520",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "23292",
+      "weight": "525gram",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1150",
+          "price_per_unit": "219",
+          "price_unit": "gram"
+        }
+      ]
+    },
+    "nameSimilarity": "38.78",
+    "weightSimilarity": "95.00"
+  }
+]

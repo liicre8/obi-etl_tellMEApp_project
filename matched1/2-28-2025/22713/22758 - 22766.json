@@ -1,0 +1,50 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/tassal-whole-cooked-black-tiger-prawns-475g-6406620",
+    "name": "Tassal Whole Cooked Black Tiger Prawns | 475g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6406620.jpg&w=640&q=90",
+    "source_id": "6406620",
+    "barcode": "9319232030961",
+    "shop": "coles",
+    "category_id": "22766",
+    "weight": "475g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "3368",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/392138/tassal-cooked-aussie-tiger-prawns",
+    "name": "Tassal Cooked Aussie Tiger Prawns 475g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/392138.jpg",
+    "source_id": "392138",
+    "barcode": "9319232030961",
+    "shop": "Woolworths",
+    "category_id": "22766",
+    "weight": "475g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "3368",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "3368",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1600",
+        "price_per_unit": "3368",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

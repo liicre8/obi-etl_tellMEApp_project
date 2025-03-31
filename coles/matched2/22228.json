@@ -1,0 +1,442 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/635882/higher-living-organic-unwind-tea-bags",
+      "name": "Higher Living Organic Unwind Tea Bags 15 pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/635882.jpg",
+      "source_id": "635882",
+      "barcode": "5060319120474",
+      "shop": "Woolworths",
+      "category_id": "22228",
+      "weight": "15 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "495",
+          "price_per_unit": "33",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/higher-living-organic-licorice-tea-bags-15-pack-1768668",
+      "name": "Higher Living Organic Licorice Tea Bags | 15 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1768668.jpg&w=640&q=90",
+      "source_id": "1768668",
+      "barcode": "5060319120016",
+      "shop": "coles",
+      "category_id": "22228",
+      "weight": "15pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "500",
+          "price_per_unit": "33",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "36.97",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/114407/just-rooibos-african-tea-bags",
+      "name": "Just Rooibos African Tea Bags 40 Pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/114407.jpg",
+      "source_id": "114407",
+      "barcode": "6009636040002",
+      "shop": "Woolworths",
+      "category_id": "22228",
+      "weight": "40 Pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "700",
+          "price_per_unit": "18",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/just-rooibos-african-tea-bags-40-pack-9161122",
+      "name": "Just Rooibos African Tea Bags | 40 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9161122.jpg&w=640&q=90",
+      "source_id": "9161122",
+      "barcode": "9339357000007",
+      "shop": "coles",
+      "category_id": "23946",
+      "weight": "40pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "700",
+          "price_per_unit": "18",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "62.53",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/176993/lipton-iced-tea-passionfruit-sachets",
+      "name": "Lipton Iced Tea Passionfruit Sachets 20 Pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/176993.jpg",
+      "source_id": "176993",
+      "barcode": "8720608617784",
+      "shop": "Woolworths",
+      "category_id": "22228",
+      "weight": "20 Pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "700",
+          "price_per_unit": "35",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/lipton-ice-tea-passionfruit-20-pack-5008076",
+      "name": "Lipton Ice Tea Passionfruit | 20 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5008076.jpg&w=640&q=90",
+      "source_id": "5008076",
+      "barcode": "8801619804209",
+      "shop": "coles",
+      "category_id": "22223",
+      "weight": "20pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "350",
+          "price_per_unit": "18",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "48.05",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/116549/lipton-peach-iced-tea-sachets",
+      "name": "Lipton Peach Iced Tea Sachets 20 Pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/116549.jpg",
+      "source_id": "116549",
+      "barcode": "8720608617753",
+      "shop": "Woolworths",
+      "category_id": "22228",
+      "weight": "20 Pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "700",
+          "price_per_unit": "35",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/lipton-peach-iced-tea-sachets-20-pack-4651408",
+      "name": "Lipton Peach Iced Tea Sachets | 20 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4651408.jpg&w=640&q=90",
+      "source_id": "4651408",
+      "barcode": "8801619803738",
+      "shop": "coles",
+      "category_id": "22228",
+      "weight": "20pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "350",
+          "price_per_unit": "18",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "62.53",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/228520/madura-premium-blend-tea",
+      "name": "Madura Premium Blend Tea 200g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/228520.jpg",
+      "source_id": "228520",
+      "barcode": "89978000953",
+      "shop": "Woolworths",
+      "category_id": "22228",
+      "weight": "200G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "715",
+          "price_per_unit": "358",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/madura-premium-blend-black-leaf-tea-200g-4705573",
+      "name": "Madura Premium Blend Black Leaf Tea | 200g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4705573.jpg&w=640&q=90",
+      "source_id": "4705573",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22228",
+      "weight": "200g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "715",
+          "price_per_unit": "358",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "39.54",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/791148/twinings-camomile-spiced-apple-tea-bags",
+      "name": "Twinings Camomile & Spiced Apple Tea Bags 10 Pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/791148.jpg",
+      "source_id": "791148",
+      "barcode": "70177077372",
+      "shop": "Woolworths",
+      "category_id": "22228",
+      "weight": "10 Pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "300",
+          "price_per_unit": "30",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/twinings-infused-camomile-and-spiced-apple-tea-bags-10-pack-2006121",
+      "name": "Twinings Infused Camomile & Spiced Apple Tea Bags | 10 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2006121.jpg&w=640&q=90",
+      "source_id": "2006121",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22228",
+      "weight": "10pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "300",
+          "price_per_unit": "30",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "36.92",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/659010/twinings-chai-latte-sachets",
+      "name": "Twinings Chai Latte Sachets 10 Pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/659010.jpg",
+      "source_id": "659010",
+      "barcode": "70177233228",
+      "shop": "Woolworths",
+      "category_id": "22228",
+      "weight": "10 Pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "700",
+          "price_per_unit": "70",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/twinings-chai-tea-latte-10-pack-8067606",
+      "name": "Twinings Chai Tea Latte | 10 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8067606.jpg&w=640&q=90",
+      "source_id": "8067606",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "23944",
+      "weight": "10pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "750",
+          "price_per_unit": "75",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "38.09",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/41859/twinings-earl-grey-loose-leaf-tea-loose-leaf-tea",
+      "name": "Twinings Earl Grey Loose Leaf Tea 125g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/041859.jpg",
+      "source_id": "41859",
+      "barcode": "70177060732",
+      "shop": "Woolworths",
+      "category_id": "22228",
+      "weight": "125g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "750",
+          "price_per_unit": "600",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/twinings-earl-grey-loose-leaf-tea-125g-344575",
+      "name": "Twinings Earl Grey Loose Leaf Tea | 125g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F344575.jpg&w=640&q=90",
+      "source_id": "344575",
+      "barcode": "0070177060732",
+      "shop": "coles",
+      "category_id": "22228",
+      "weight": "125g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "650",
+          "price_per_unit": "520",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "70.51",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/41853/twinings-english-breakfast-loose-leaf-tea",
+      "name": "Twinings English Breakfast Loose Leaf Tea 125g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/041853.jpg",
+      "source_id": "41853",
+      "barcode": "70177060749",
+      "shop": "Woolworths",
+      "category_id": "22228",
+      "weight": "125g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "750",
+          "price_per_unit": "600",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/twinings-english-breakfast-leaf-tea-125g-344597",
+      "name": "Twinings English Breakfast Leaf Tea | 125g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F344597.jpg&w=640&q=90",
+      "source_id": "344597",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22228",
+      "weight": "125g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "650",
+          "price_per_unit": "520",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "48.61",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/659035/twinings-honeybush-orange-mandarin",
+      "name": "Twinings Honeybush, Orange & Mandarin 10 Pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/659035.jpg",
+      "source_id": "659035",
+      "barcode": "70177232474",
+      "shop": "Woolworths",
+      "category_id": "22228",
+      "weight": "10 Pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "300",
+          "price_per_unit": "30",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/twinings-honeybush-orange-mandarin-tea-bags-10-pack-8067560",
+      "name": "Twinings Honeybush Orange Mandarin Tea Bags | 10 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8067560.jpg&w=640&q=90",
+      "source_id": "8067560",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22228",
+      "weight": "10pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "300",
+          "price_per_unit": "30",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "42.73",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/791152/twinings-orange-cinnamon-tea-bags-tea",
+      "name": "Twinings Orange & Cinnamon Tea Bags 10 Pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/791152.jpg",
+      "source_id": "791152",
+      "barcode": "70177077389",
+      "shop": "Woolworths",
+      "category_id": "22228",
+      "weight": "10 Pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "300",
+          "price_per_unit": "30",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/twinings-infused-orange-and-cinnamon-tea-bags-10-pack-2006132",
+      "name": "Twinings Infused Orange & Cinnamon Tea Bags | 10 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2006132.jpg&w=640&q=90",
+      "source_id": "2006132",
+      "barcode": "0070177077389",
+      "shop": "coles",
+      "category_id": "22228",
+      "weight": "10pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "300",
+          "price_per_unit": "30",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "38.25",
+    "weightSimilarity": "95.00"
+  }
+]

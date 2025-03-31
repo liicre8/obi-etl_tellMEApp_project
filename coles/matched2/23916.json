@@ -1,0 +1,782 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/6000126/blackmores-cranberry-forte-50000mg-capsules",
+      "name": "Blackmores Cranberry Forte 50000mg Capsules 30 pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6000126.jpg",
+      "source_id": "6000126",
+      "barcode": "93573320",
+      "shop": "Woolworths",
+      "category_id": "23916",
+      "weight": "30 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "2800",
+          "price_per_unit": "9333",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/blackmores-cranberry-forte-50000mg-30-pack-9105926",
+      "name": "Blackmores Cranberry Forte 50000Mg | 30 Pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9105926.jpg&w=640&q=90",
+      "source_id": "9105926",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "23916",
+      "weight": "30pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1400",
+          "price_per_unit": "4667",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "54.37",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/321652/swisse-ultiboost-prostate-tablets",
+      "name": "Swisse Ultiboost Prostate Tablets 50 pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/321652.jpg",
+      "source_id": "321652",
+      "barcode": "9311770587600",
+      "shop": "Woolworths",
+      "category_id": "23916",
+      "weight": "50 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "5300",
+          "price_per_unit": "10600",
+          "price_unit": "EA"
+        },
+        {
+          "state": "NSW",
+          "price": "5300",
+          "price_per_unit": "10600",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/swisse-ultiboost-prostate-tablets-50-pack-6940472",
+      "name": "Swisse Ultiboost Prostate Tablets | 50 Pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6940472.jpg&w=640&q=90",
+      "source_id": "6940472",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "23916",
+      "weight": "50pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "2650",
+          "price_per_unit": "5300",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "72.86",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/396245/kin-the-prenatal-soft-capsules",
+      "name": "Kin The Prenatal Soft Capsules 60 Pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/396245.jpg",
+      "source_id": "396245",
+      "barcode": "9309000023165",
+      "shop": "Woolworths",
+      "category_id": "23916",
+      "weight": "60 Pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "4500",
+          "price_per_unit": "7500",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/kin-the-prenatal-soft-gel-60-pack-8160226",
+      "name": "Kin The Prenatal Soft Gel | 60 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8160226.jpg&w=640&q=90",
+      "source_id": "8160226",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "23916",
+      "weight": "60pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "3600",
+          "price_per_unit": "6000",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "41.61",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/901831/nature-s-way-vitamin-c-500mg-chewable-tablets",
+      "name": "Nature's Way Vitamin C 500mg Chewable Tablets 320 pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/901831.jpg",
+      "source_id": "901831",
+      "barcode": "9314807088286",
+      "shop": "Woolworths",
+      "category_id": "23916",
+      "weight": "320 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1250",
+          "price_per_unit": "391",
+          "price_unit": "EA"
+        },
+        {
+          "state": "NSW",
+          "price": "1250",
+          "price_per_unit": "391",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/natures-way-vitamins-c-500mg-chewable-320-pack-8165219",
+      "name": "Natures Way Vitamins C 500Mg Chewable | 320 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8165219.jpg&w=640&q=90",
+      "source_id": "8165219",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "23916",
+      "weight": "320pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "2500",
+          "price_per_unit": "781",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "47.96",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/894475/blackmores-odourless-fish-oil-1000mg-omega-3-mini-capsules",
+      "name": "Blackmores Odourless Fish Oil 1000mg Omega-3 Mini Capsules 200 Pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/894475.jpg",
+      "source_id": "894475",
+      "barcode": "9300807293195",
+      "shop": "Woolworths",
+      "category_id": "23916",
+      "weight": "200 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "4500",
+          "price_per_unit": "2250",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/blackmores-odourless-fish-oil-omega-3-mini-capsules-200-pack-2268955",
+      "name": "Blackmores Odourless Fish Oil Omega-3 Mini Capsules | 200 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2268955.jpg&w=640&q=90",
+      "source_id": "2268955",
+      "barcode": "9300807353998",
+      "shop": "coles",
+      "category_id": "23916",
+      "weight": "200pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "2250",
+          "price_per_unit": "1125",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "45.73",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/134175/blackmores-valerian-forte-tablets",
+      "name": "Blackmores Valerian Forte Tablets 60 pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/134175.jpg",
+      "source_id": "134175",
+      "barcode": "93447744",
+      "shop": "Woolworths",
+      "category_id": "23916",
+      "weight": "60 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "4000",
+          "price_per_unit": "6667",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/blackmores-valerian-forte-60pack-8938610",
+      "name": "Blackmores Valerian Forte | 60PACK",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8938610.jpg&w=640&q=90",
+      "source_id": "8938610",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "23916",
+      "weight": "60pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "2000",
+          "price_per_unit": "3333",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "49.31",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/205538/swisse-ultiboost-vitamin-d-gummies",
+      "name": "Swisse Ultiboost Vitamin D Gummies 60 pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/205538.jpg",
+      "source_id": "205538",
+      "barcode": "93565660",
+      "shop": "Woolworths",
+      "category_id": "23916",
+      "weight": "60 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "2950",
+          "price_per_unit": "4917",
+          "price_unit": "EA"
+        },
+        {
+          "state": "NSW",
+          "price": "2950",
+          "price_per_unit": "4917",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/swisse-ultiboost-vitamin-d-gummies-for-bone-health-support-60-pack-4806719",
+      "name": "Swisse Ultiboost Vitamin D Gummies For Bone Health Support | 60 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4806719.jpg&w=640&q=90",
+      "source_id": "4806719",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "23916",
+      "weight": "60pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1475",
+          "price_per_unit": "2458",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "47.18",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/187426/swisse-ultivite-multivitamin-gummies",
+      "name": "Swisse Ultivite Multivitamin Gummies 60 pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/187426.jpg",
+      "source_id": "187426",
+      "barcode": "93565653",
+      "shop": "Woolworths",
+      "category_id": "23916",
+      "weight": "60 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "2950",
+          "price_per_unit": "4917",
+          "price_unit": "EA"
+        },
+        {
+          "state": "NSW",
+          "price": "2950",
+          "price_per_unit": "4917",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/swisse-ultivite-multivitamin-gummies-with-key-nutrients-60-pack-4806650",
+      "name": "Swisse Ultivite Multivitamin Gummies With Key Nutrients | 60 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4806650.jpg&w=640&q=90",
+      "source_id": "4806650",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "23916",
+      "weight": "60pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1475",
+          "price_per_unit": "2458",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "52.59",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/674972/voost-effervescent-multivitamin-tablets",
+      "name": "Voost Effervescent Multivitamin Tablets 20 Pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/674972.jpg",
+      "source_id": "674972",
+      "barcode": "9347580000503",
+      "shop": "Woolworths",
+      "category_id": "23916",
+      "weight": "20 Pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1100",
+          "price_per_unit": "5500",
+          "price_unit": "EA"
+        },
+        {
+          "state": "NSW",
+          "price": "1100",
+          "price_per_unit": "5500",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/ultralife-effervescent-multivitamin-orange-tablets-20-pack-5016020",
+      "name": "Ultralife Effervescent Multivitamin Orange Tablets | 20 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5016020.jpg&w=640&q=90",
+      "source_id": "5016020",
+      "barcode": "9310645353937",
+      "shop": "coles",
+      "category_id": "23916",
+      "weight": "20pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1000",
+          "price_per_unit": "5000",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "37.14",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/300864/blackmores-deep-sleep-capsules",
+      "name": "Blackmores Deep Sleep Capsules 30 Pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/300864.jpg",
+      "source_id": "300864",
+      "barcode": "93569835",
+      "shop": "Woolworths",
+      "category_id": "23916",
+      "weight": "30 Pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "2700",
+          "price_per_unit": "9000",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/blackmores-deep-sleep-30-pack-6481692",
+      "name": "Blackmores Deep Sleep | 30 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6481692.jpg&w=640&q=90",
+      "source_id": "6481692",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "23916",
+      "weight": "30pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1620",
+          "price_per_unit": "5400",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "43.20",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/296727/blackmores-fall-asleep",
+      "name": "Blackmores Fall Asleep 30 Pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/296727.jpg",
+      "source_id": "296727",
+      "barcode": "93569828",
+      "shop": "Woolworths",
+      "category_id": "23916",
+      "weight": "30 Pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "2700",
+          "price_per_unit": "9000",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/blackmores-deep-sleep-30-pack-6481692",
+      "name": "Blackmores Deep Sleep | 30 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6481692.jpg&w=640&q=90",
+      "source_id": "6481692",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "23916",
+      "weight": "30pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1620",
+          "price_per_unit": "5400",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "44.78",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/902980/nature-s-own-complete-sleep-magnesium-tablets",
+      "name": "Nature's Own Complete Sleep & Magnesium Tablets 30 pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/902980.jpg",
+      "source_id": "902980",
+      "barcode": "9316090020653",
+      "shop": "Woolworths",
+      "category_id": "23916",
+      "weight": "30 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1175",
+          "price_per_unit": "3917",
+          "price_unit": "EA"
+        },
+        {
+          "state": "NSW",
+          "price": "1175",
+          "price_per_unit": "3917",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/natures-own-complete-sleep-+-magnesium-30-pack-8169366",
+      "name": "Natures Own Complete Sleep + Magnesium | 30 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8169366.jpg&w=640&q=90",
+      "source_id": "8169366",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "23916",
+      "weight": "30pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "2350",
+          "price_per_unit": "7834",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "45.54",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/815336/nature-s-way-magnesium-sleep-well-with-kava",
+      "name": "Nature's Way Magnesium Sleep Well With Kava 60 pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/815336.jpg",
+      "source_id": "815336",
+      "barcode": "9314807066246",
+      "shop": "Woolworths",
+      "category_id": "23916",
+      "weight": "60 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1425",
+          "price_per_unit": "2375",
+          "price_unit": "EA"
+        },
+        {
+          "state": "NSW",
+          "price": "1425",
+          "price_per_unit": "2375",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/natures-way-magnesium-sleep-well-60-pack-9110609",
+      "name": "Natures Way Magnesium Sleep Well | 60 Pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9110609.jpg&w=640&q=90",
+      "source_id": "9110609",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22453",
+      "weight": "60pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "3200",
+          "price_per_unit": "5333",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "47.59",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/187398/swisse-ultiboost-calm-sleep-gummies",
+      "name": "Swisse Ultiboost Calm + Sleep Gummies 60 pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/187398.jpg",
+      "source_id": "187398",
+      "barcode": "93565127",
+      "shop": "Woolworths",
+      "category_id": "23916",
+      "weight": "60 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "2950",
+          "price_per_unit": "4917",
+          "price_unit": "EA"
+        },
+        {
+          "state": "NSW",
+          "price": "2950",
+          "price_per_unit": "4917",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/swisse-ultiboost-calm-+-sleep-gummies-assists-the-body-in-coping-with-stress-60-pack-4806592",
+      "name": "Swisse Ultiboost Calm + Sleep Gummies Assists the Body in Coping with Stress | 60 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4806592.jpg&w=640&q=90",
+      "source_id": "4806592",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "23916",
+      "weight": "60pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1475",
+          "price_per_unit": "2458",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "44.59",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/106244/swisse-ultiboost-magnesium-sleep-tablets",
+      "name": "Swisse Ultiboost Magnesium + Sleep Tablets 100 pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/106244.jpg",
+      "source_id": "106244",
+      "barcode": "9311770614993",
+      "shop": "Woolworths",
+      "category_id": "23916",
+      "weight": "100 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "4950",
+          "price_per_unit": "4950",
+          "price_unit": "EA"
+        },
+        {
+          "state": "NSW",
+          "price": "4950",
+          "price_per_unit": "4950",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/swisse-ub-magnesium-+-sleep-100-pack-9113312",
+      "name": "Swisse Ub Magnesium + Sleep | 100 Pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9113312.jpg&w=640&q=90",
+      "source_id": "9113312",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "23916",
+      "weight": "100pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "2475",
+          "price_per_unit": "2475",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "38.46",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/884137/blackmores-super-magnesium-muscle-health-vitamin-tablets",
+      "name": "Blackmores Super Magnesium+ Muscle Health Vitamin Tablets 100 Pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/884137.jpg",
+      "source_id": "884137",
+      "barcode": "9300807293850",
+      "shop": "Woolworths",
+      "category_id": "23916",
+      "weight": "100 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "3400",
+          "price_per_unit": "3400",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/blackmores-super-magnesium+-muscle-vitamin-tablets-100-pack-3068088",
+      "name": "Blackmores Super Magnesium+ Muscle Vitamin Tablets | 100 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3068088.jpg&w=640&q=90",
+      "source_id": "3068088",
+      "barcode": "9300807308882",
+      "shop": "coles",
+      "category_id": "23916",
+      "weight": "100pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "3400",
+          "price_per_unit": "3400",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "43.43",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/901675/caltrate-joint-health-with-uc-ii-collagen-tablets",
+      "name": "Caltrate Joint Health With UC-II® Collagen Tablets 30 pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/901675.jpg",
+      "source_id": "901675",
+      "barcode": "9300673897251",
+      "shop": "Woolworths",
+      "category_id": "23916",
+      "weight": "30 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "2500",
+          "price_per_unit": "8333",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/caltrate-joint-health-uc-ii-collagen-30-pack-8160270",
+      "name": "Caltrate Joint Health UC-II Collagen | 30 Pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8160270.jpg&w=640&q=90",
+      "source_id": "8160270",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "23916",
+      "weight": "30pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1250",
+          "price_per_unit": "4167",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "40.74",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/243935/swisse-ultiboost-magnesium-gummies",
+      "name": "Swisse Ultiboost Magnesium Gummies 60 pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/243935.jpg",
+      "source_id": "243935",
+      "barcode": "93568777",
+      "shop": "Woolworths",
+      "category_id": "23916",
+      "weight": "60 pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "2950",
+          "price_per_unit": "4917",
+          "price_unit": "EA"
+        },
+        {
+          "state": "NSW",
+          "price": "2950",
+          "price_per_unit": "4917",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/swisse-ultiboost-magnesium-gummies-supports-normal-muscle-function-and-an-active-lifestyle-60-pack-4223798",
+      "name": "Swisse Ultiboost Magnesium Gummies Supports Normal Muscle Function and an Active Life ... 60 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4223798.jpg&w=640&q=90",
+      "source_id": "4223798",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "23916",
+      "weight": "60pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1475",
+          "price_per_unit": "2458",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "nameSimilarity": "45.63",
+    "weightSimilarity": "95.00"
+  }
+]

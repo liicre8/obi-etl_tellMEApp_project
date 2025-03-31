@@ -1,0 +1,82 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/331450/pauls-double-thick-custard-french-vanilla",
+      "name": "Pauls Double Thick Custard French Vanilla 900g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/331450.jpg",
+      "source_id": "331450",
+      "barcode": "9310036022992",
+      "shop": "Woolworths",
+      "category_id": "22105",
+      "weight": "900g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "650",
+          "price_per_unit": "72",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/pauls-double-thick-custard-french-vanilla-900g-7146241",
+      "name": "Pauls Double Thick Custard French Vanilla | 900g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7146241.jpg&w=640&q=90",
+      "source_id": "7146241",
+      "barcode": "9310036043119",
+      "shop": "coles",
+      "category_id": "22105",
+      "weight": "900g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "650",
+          "price_per_unit": "72",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "70.51",
+    "weightSimilarity": "100.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/344082/pauls-double-thick-custard-rich-chocolate",
+      "name": "Pauls Double Thick Custard Rich Chocolate 900g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/344082.jpg",
+      "source_id": "344082",
+      "barcode": "9310036039631",
+      "shop": "Woolworths",
+      "category_id": "22105",
+      "weight": "900g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "650",
+          "price_per_unit": "72",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/pauls-double-thick-custard-rich-chocolate-900g-7146230",
+      "name": "Pauls Double Thick Custard Rich Chocolate | 900g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7146230.jpg&w=640&q=90",
+      "source_id": "7146230",
+      "barcode": "9310036042457",
+      "shop": "coles",
+      "category_id": "22105",
+      "weight": "900g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "650",
+          "price_per_unit": "72",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "70.51",
+    "weightSimilarity": "100.00"
+  }
+]

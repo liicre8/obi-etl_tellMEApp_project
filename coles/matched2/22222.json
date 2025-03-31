@@ -1,0 +1,82 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/919631/monster-energy-drink-ultra-violet-can",
+      "name": "Monster Energy Drink Ultra Violet Can 500mL",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/919631.jpg",
+      "source_id": "919631",
+      "barcode": "9342866001342",
+      "shop": "Woolworths",
+      "category_id": "22222",
+      "weight": "500mL",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "430",
+          "price_per_unit": "860",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/monster-energy-ultra-violet-can-500ml-8593020",
+      "name": "Monster Energy Ultra Violet Can | 500mL",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8593020.jpg&w=640&q=90",
+      "source_id": "8593020",
+      "barcode": "9342866000482",
+      "shop": "coles",
+      "category_id": "22222",
+      "weight": "500ml",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "300",
+          "price_per_unit": "600",
+          "price_unit": "ml"
+        }
+      ]
+    },
+    "nameSimilarity": "43.70",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/803888/monster-energy-pipeline-punch-can",
+      "name": "Monster Energy Pipeline Punch Can 500ml",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/803888.jpg",
+      "source_id": "803888",
+      "barcode": "9342866000772",
+      "shop": "Woolworths",
+      "category_id": "22222",
+      "weight": "500mL",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "430",
+          "price_per_unit": "860",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/monster-pipeline-punch-can-500ml-3511469",
+      "name": "Monster Pipeline Punch Can | 500mL",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3511469.jpg&w=640&q=90",
+      "source_id": "3511469",
+      "barcode": "9342866000802",
+      "shop": "coles",
+      "category_id": "22222",
+      "weight": "500ml",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "300",
+          "price_per_unit": "600",
+          "price_unit": "ml"
+        }
+      ]
+    },
+    "nameSimilarity": "45.22",
+    "weightSimilarity": "95.00"
+  }
+]

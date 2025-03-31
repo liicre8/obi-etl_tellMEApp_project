@@ -1,0 +1,42 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/6008250/mccain-peas",
+      "name": "McCain Peas 2kg",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6008250.jpg",
+      "source_id": "6008250",
+      "barcode": "9310174127863",
+      "shop": "Woolworths",
+      "category_id": "22328",
+      "weight": "2kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1100",
+          "price_per_unit": "550",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/mccain-peas-corn-and-carrots-2kg-8165842",
+      "name": "Mccain Peas Corn & Carrots | 2kg",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8165842.jpg&w=640&q=90",
+      "source_id": "8165842",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22331",
+      "weight": "2kg",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1200",
+          "price_per_unit": "600",
+          "price_unit": "kg"
+        }
+      ]
+    },
+    "nameSimilarity": "45.58",
+    "weightSimilarity": "95.00"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/laucke-pizza-and-focaccia-flour-mix-1kg-3234143",
+    "name": "Laucke Pizza & Focaccia Flour Mix | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3234143.jpg&w=640&q=90",
+    "source_id": "3234143",
+    "barcode": "9321885002035",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "680",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/381343/laucke-pizza-focaccia-dough-mix",
+    "name": "Laucke Pizza & Focaccia Dough Mix 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/381343.jpg",
+    "source_id": "381343",
+    "barcode": "9321885002035",
+    "shop": "Woolworths",
+    "category_id": "22773",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "680",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "680",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

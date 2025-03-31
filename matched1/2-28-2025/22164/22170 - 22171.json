@@ -1,0 +1,794 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/caffe-aurora-espresso-blend-coffee-beans-1kg-4875824",
+    "name": "Caffe Aurora Espresso Blend Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4875824.jpg&w=640&q=90",
+    "source_id": "4875824",
+    "barcode": "9310631635771",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "240",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/158984/caffe-aurora-espresso-blend-coffee-beans",
+    "name": "Caffe Aurora Espresso Blend Coffee Beans 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/158984.jpg",
+    "source_id": "158984",
+    "barcode": "9310631635771",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "240",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/caffe-aurora-italian-blend-beans-coffee-1kg-4824415",
+    "name": "Caffe Aurora Italian Blend Beans Coffee | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4824415.jpg&w=640&q=90",
+    "source_id": "4824415",
+    "barcode": "9310631635719",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "240",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/158974/caffe-aurora-italian-blend-coffee-beans",
+    "name": "Caffe Aurora Italian Blend Coffee Beans 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/158974.jpg",
+    "source_id": "158974",
+    "barcode": "9310631635719",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "240",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/caffe-aurora-prima-qualita-blend-coffee-beans-1kg-4875802",
+    "name": "Caffe Aurora Prima Qualita Blend Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4875802.jpg&w=640&q=90",
+    "source_id": "4875802",
+    "barcode": "9310631635733",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "240",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/159012/caffe-aurora-prima-qualita-coffee-beans",
+    "name": "Caffe Aurora Prima Qualita Coffee Beans 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/159012.jpg",
+    "source_id": "159012",
+    "barcode": "9310631635733",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "240",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/grinders-organic-coffee-beans-1kg-3516054",
+    "name": "Grinders Organic Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3516054.jpg&w=640&q=90",
+    "source_id": "3516054",
+    "barcode": "9329214005818",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5000",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/160720/grinders-caf-q-organico-coffee-beans",
+    "name": "Grinders Café-Q Organico Coffee Beans 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/160720.jpg",
+    "source_id": "160720",
+    "barcode": "9329214005818",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3500",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/grinders-crema-coffee-beans-1kg-1336197",
+    "name": "Grinders Crema Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1336197.jpg&w=640&q=90",
+    "source_id": "1336197",
+    "barcode": "9329214001018",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3200",
+        "price_per_unit": "320",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/738617/grinders-crema-coffee-beans-coffee-beans",
+    "name": "Grinders Crema Coffee Beans 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/738617.jpg",
+    "source_id": "738617",
+    "barcode": "9329214001018",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4000",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/grinders-espresso-coffee-beans-1kg-2686933",
+    "name": "Grinders Espresso Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2686933.jpg&w=640&q=90",
+    "source_id": "2686933",
+    "barcode": "9329214001049",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3200",
+        "price_per_unit": "320",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/936138/grinders-espresso-coffee-beans-coffee-beans",
+    "name": "Grinders Espresso Coffee Beans 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/936138.jpg",
+    "source_id": "936138",
+    "barcode": "9329214001049",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4000",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/grinders-rich-espresso-coffee-beans-1kg-3516065",
+    "name": "Grinders Rich Espresso Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3516065.jpg&w=640&q=90",
+    "source_id": "3516065",
+    "barcode": "9329214006068",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3200",
+        "price_per_unit": "320",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/161742/grinders-rich-espresso-coffee-beans-coffee-beans",
+    "name": "Grinders Rich Espresso Coffee Beans 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/161742.jpg",
+    "source_id": "161742",
+    "barcode": "9329214006068",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4000",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-espresso-barista-gran-crema-coffee-beans-1kg-3756513",
+    "name": "Lavazza Espresso Barista Gran Crema Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3756513.jpg&w=640&q=90",
+    "source_id": "3756513",
+    "barcode": "8000070025066",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94147/lavazza-espresso-barista-gran-crema-coffee-beans",
+    "name": "Lavazza Espresso Barista Gran Crema Coffee Beans 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094147.jpg",
+    "source_id": "94147",
+    "barcode": "8000070025066",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5000",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-espresso-barista-gran-crema-coffee-beans-500g-6205980",
+    "name": "Lavazza Espresso Barista Gran Crema Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6205980.jpg&w=640&q=90",
+    "source_id": "6205980",
+    "barcode": "8000070067417",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2600",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/309532/lavazza-espresso-barista-gran-crema-coffee-beans",
+    "name": "Lavazza Espresso Barista Gran Crema Coffee Beans 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/309532.jpg",
+    "source_id": "309532",
+    "barcode": "8000070067417",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1820",
+        "price_per_unit": "364",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-espresso-barista-intenso-coffee-beans-1kg-3756557",
+    "name": "Lavazza Espresso Barista Intenso Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3756557.jpg&w=640&q=90",
+    "source_id": "3756557",
+    "barcode": "8000070038370",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94146/lavazza-espresso-barista-intenso-coffee-beans",
+    "name": "Lavazza Espresso Barista Intenso Coffee Beans 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094146.jpg",
+    "source_id": "94146",
+    "barcode": "8000070038370",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5000",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-espresso-barista-intenso-coffee-beans-500g-4875096",
+    "name": "Lavazza Espresso Barista Intenso Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4875096.jpg&w=640&q=90",
+    "source_id": "4875096",
+    "barcode": "8000070050983",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2600",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/220985/lavazza-espresso-barista-intenso-coffee-beans",
+    "name": "Lavazza Espresso Barista Intenso Coffee Beans 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/220985.jpg",
+    "source_id": "220985",
+    "barcode": "8000070050983",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1820",
+        "price_per_unit": "364",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-espresso-barista-organic-coffee-beans-1kg-6205946",
+    "name": "Lavazza Espresso Barista Organic Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6205946.jpg&w=640&q=90",
+    "source_id": "6205946",
+    "barcode": "8000070067028",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2700",
+        "price_per_unit": "270",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/309672/lavazza-espresso-barista-organic-coffee-beans",
+    "name": "Lavazza Espresso Barista Organic Coffee Beans 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/309672.jpg",
+    "source_id": "309672",
+    "barcode": "8000070067028",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5400",
+        "price_per_unit": "540",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-espresso-barista-perfetto-beans-1kg-3756502",
+    "name": "Lavazza Espresso Barista Perfetto Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3756502.jpg&w=640&q=90",
+    "source_id": "3756502",
+    "barcode": "8000070025035",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/95564/lavazza-espresso-barista-perfetto-coffee-beans",
+    "name": "Lavazza Espresso Barista Perfetto Coffee Beans 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/095564.jpg",
+    "source_id": "95564",
+    "barcode": "8000070025035",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5000",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-qualita-oro-ground-coffee-500g-8411676",
+    "name": "Lavazza Qualita Oro Ground Coffee | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8411676.jpg&w=640&q=90",
+    "source_id": "8411676",
+    "barcode": "8000070020627",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/659091/lavazza-qualita-oro-ground-coffee",
+    "name": "Lavazza Qualita Oro Ground Coffee 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/659091.jpg",
+    "source_id": "659091",
+    "barcode": "8000070020627",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-tales-of-italy-alluring-napoli-premium-coffee-beans-500g-6277834",
+    "name": "Lavazza Tales Of Italy Alluring Napoli Premium Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6277834.jpg&w=640&q=90",
+    "source_id": "6277834",
+    "barcode": "8000070069169",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2900",
+        "price_per_unit": "580",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/309483/lavazza-tales-of-italy-alluring-napoli-coffee-beans",
+    "name": "Lavazza Tales Of Italy Alluring Napoli Coffee Beans 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/309483.jpg",
+    "source_id": "309483",
+    "barcode": "8000070069169",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2030",
+        "price_per_unit": "406",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-tales-of-italy-eternal-roma-premium-coffee-beans-500g-6277878",
+    "name": "Lavazza Tales Of Italy Eternal Roma Premium Coffee Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6277878.jpg&w=640&q=90",
+    "source_id": "6277878",
+    "barcode": "8000070069244",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2900",
+        "price_per_unit": "580",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/309662/lavazza-tales-of-italy-eternal-roma-coffee-beans",
+    "name": "Lavazza Tales Of Italy Eternal Roma Coffee Beans 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/309662.jpg",
+    "source_id": "309662",
+    "barcode": "8000070069244",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2030",
+        "price_per_unit": "406",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nescafe-dolce-gusto-capsules-flat-white-16-pack-3208085",
+    "name": "Nescafe Dolce Gusto Capsules Flat White | 16 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3208085.jpg&w=640&q=90",
+    "source_id": "3208085",
+    "barcode": "7613036407717",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "16pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "69",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/699538/nescafe-dolce-gusto-flat-white-coffee-pods",
+    "name": "Nescafe Dolce Gusto Flat White Coffee Pods 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/699538.jpg",
+    "source_id": "699538",
+    "barcode": "7613036407717",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "16 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "53",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vittoria-espresso-coffee-beans-1kg-9184897",
+    "name": "Vittoria Espresso Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9184897.jpg&w=640&q=90",
+    "source_id": "9184897",
+    "barcode": "9310631000814",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2800",
+        "price_per_unit": "280",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/162140/vittoria-espresso-coffee-beans",
+    "name": "Vittoria Espresso Coffee Beans 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/162140.jpg",
+    "source_id": "162140",
+    "barcode": "9310631000814",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4000",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vittoria-special-italian-blend-coffee-beans-1kg-443770",
+    "name": "Vittoria Special Italian Blend Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F443770.jpg&w=640&q=90",
+    "source_id": "443770",
+    "barcode": "9310631000753",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "240",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/78476/vittoria-italian-coffee-beans",
+    "name": "Vittoria Italian Coffee Beans 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/078476.jpg",
+    "source_id": "78476",
+    "barcode": "9310631000753",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "240",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vittoria-latte-beans-coffee-1kg-4824390",
+    "name": "Vittoria Latte Beans Coffee | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4824390.jpg&w=640&q=90",
+    "source_id": "4824390",
+    "barcode": "9310631635917",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2800",
+        "price_per_unit": "280",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/158983/vittoria-latte-coffee-beans",
+    "name": "Vittoria Latte Coffee Beans 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/158983.jpg",
+    "source_id": "158983",
+    "barcode": "9310631635917",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4000",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vittoria-mountain-grown-coffee-beans-1kg-8686572",
+    "name": "Vittoria Mountain Grown Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8686572.jpg&w=640&q=90",
+    "source_id": "8686572",
+    "barcode": "9310631622764",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4900",
+        "price_per_unit": "490",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/284455/vittoria-mountain-grown-coffee-beans",
+    "name": "Vittoria Mountain Grown Coffee Beans 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/284455.jpg",
+    "source_id": "284455",
+    "barcode": "9310631622764",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4900",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vittoria-organic-espresso-coffee-beans-1kg-2002095",
+    "name": "Vittoria Organic Espresso Coffee Beans | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2002095.jpg&w=640&q=90",
+    "source_id": "2002095",
+    "barcode": "9310631627691",
+    "shop": "coles",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5000",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/781407/vittoria-organic-coffee-beans",
+    "name": "Vittoria Organic Coffee Beans 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/781407.jpg",
+    "source_id": "781407",
+    "barcode": "9310631627691",
+    "shop": "Woolworths",
+    "category_id": "22171",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5000",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

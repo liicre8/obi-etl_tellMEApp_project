@@ -1,0 +1,82 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/365569/macro-organic-full-cream-milk",
+      "name": "Macro Organic Full Cream Milk 1l",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/365569.jpg",
+      "source_id": "365569",
+      "barcode": "9300633215859",
+      "shop": "Woolworths",
+      "category_id": "22134",
+      "weight": "1L",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "240",
+          "price_per_unit": "240",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-organic-full-cream-milk-1l-3227159",
+      "name": "Coles Organic Full Cream Milk | 1L",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3227159.jpg&w=640&q=90",
+      "source_id": "3227159",
+      "barcode": "9310645235882",
+      "shop": "coles",
+      "category_id": "22139",
+      "weight": "1l",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "240",
+          "price_per_unit": "240",
+          "price_unit": "l"
+        }
+      ]
+    },
+    "nameSimilarity": "43.70",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/56591/norco-full-cream-milk",
+      "name": "Norco Full Cream Milk 3l",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/056591.jpg",
+      "source_id": "56591",
+      "barcode": "9322042000406",
+      "shop": "Woolworths",
+      "category_id": "22134",
+      "weight": "3L",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "595",
+          "price_per_unit": "198",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-full-cream-milk-3l-8150288",
+      "name": "Coles Full Cream Milk | 3L",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8150288.jpg&w=640&q=90",
+      "source_id": "8150288",
+      "barcode": "9310645518107",
+      "shop": "coles",
+      "category_id": "22134",
+      "weight": "3l",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "435",
+          "price_per_unit": "145",
+          "price_unit": "l"
+        }
+      ]
+    },
+    "nameSimilarity": "43.20",
+    "weightSimilarity": "95.00"
+  }
+]

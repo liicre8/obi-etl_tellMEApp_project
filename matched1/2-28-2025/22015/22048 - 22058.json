@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/huggies-little-swimmers-swim-nappies-large-(14+kg)-10-pack-8383413",
+    "name": "Huggies Little Swimmers Swim Nappies Large (14+kg) | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8383413.jpg&w=640&q=90",
+    "source_id": "8383413",
+    "barcode": "36000183450",
+    "shop": "coles",
+    "category_id": "22058",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "125",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/106656/huggies-little-swimmers-disposable-swim-nappies-large-14-kg-",
+    "name": "Huggies Little Swimmers Disposable Swim Nappies Large (14+Kg) 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/106656.jpg",
+    "source_id": "106656",
+    "barcode": "36000183450",
+    "shop": "Woolworths",
+    "category_id": "22058",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "170",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/huggies-little-swimmers-swim-nappies-medium-(11-15kg)-11-pack-8383333",
+    "name": "Huggies Little Swimmers Swim Nappies Medium (11-15kg) | 11 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8383333.jpg&w=640&q=90",
+    "source_id": "8383333",
+    "barcode": "36000183429",
+    "shop": "coles",
+    "category_id": "22058",
+    "weight": "11pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "114",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/106658/huggies-little-swimmers-disposable-swim-nappies-medium-11-15kg-",
+    "name": "Huggies Little Swimmers Disposable Swim Nappies Medium (11-15kg) 11 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/106658.jpg",
+    "source_id": "106658",
+    "barcode": "36000183429",
+    "shop": "Woolworths",
+    "category_id": "22058",
+    "weight": "11 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "155",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/huggies-little-swimmers-swim-nappies-small-(7-12kg)-12-pack-8383300",
+    "name": "Huggies Little Swimmers Swim Nappies Small (7-12kg) | 12 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8383300.jpg&w=640&q=90",
+    "source_id": "8383300",
+    "barcode": "36000183399",
+    "shop": "coles",
+    "category_id": "22058",
+    "weight": "12pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "104",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/106661/huggies-little-swimmers-disposable-swim-nappies-small-7-12kg-",
+    "name": "Huggies Little Swimmers Disposable Swim Nappies Small (7-12kg) 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/106661.jpg",
+    "source_id": "106661",
+    "barcode": "36000183399",
+    "shop": "Woolworths",
+    "category_id": "22058",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "142",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

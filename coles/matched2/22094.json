@@ -1,0 +1,202 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/48920/castello-brie-double-cream",
+      "name": "Castello Brie Double Cream 150g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/048920.jpg",
+      "source_id": "48920",
+      "barcode": "5740200017013",
+      "shop": "Woolworths",
+      "category_id": "22094",
+      "weight": "150G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "800",
+          "price_per_unit": "5333",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/castello-double-cream-brie-150g-5429766",
+      "name": "Castello Double Cream Brie | 150g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5429766.jpg&w=640&q=90",
+      "source_id": "5429766",
+      "barcode": "5760466966337",
+      "shop": "coles",
+      "category_id": "22094",
+      "weight": "150g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "800",
+          "price_per_unit": "5334",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "39.63",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/930992/jarlsberg-original-cheese-block",
+      "name": "Jarlsberg Original Cheese Block 250g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/930992.jpg",
+      "source_id": "930992",
+      "barcode": "9310631628438",
+      "shop": "Woolworths",
+      "category_id": "22094",
+      "weight": "250G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1050",
+          "price_per_unit": "4200",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/jarlsberg-original-cheese-block-250g-5170008",
+      "name": "Jarlsberg Original Cheese Block | 250g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5170008.jpg&w=640&q=90",
+      "source_id": "5170008",
+      "barcode": "9312595131504",
+      "shop": "coles",
+      "category_id": "22093",
+      "weight": "250g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "850",
+          "price_per_unit": "3400",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "75.53",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/87468/thomas-dux-double-cream-camembert",
+      "name": "Thomas Dux Double Cream Camembert 200g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/087468.jpg",
+      "source_id": "87468",
+      "barcode": "93561129",
+      "shop": "Woolworths",
+      "category_id": "22094",
+      "weight": "200G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "550",
+          "price_per_unit": "2750",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-double-cream-camembert-200g-2801736",
+      "name": "Coles Double Cream Camembert | 200g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2801736.jpg&w=640&q=90",
+      "source_id": "2801736",
+      "barcode": "9310645184647",
+      "shop": "coles",
+      "category_id": "22094",
+      "weight": "200g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "550",
+          "price_per_unit": "2750",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "45.71",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/924706/yarra-valley-persian-fetta",
+      "name": "Yarra Valley Persian Fetta 180g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/924706.jpg",
+      "source_id": "924706",
+      "barcode": "9326105000679",
+      "shop": "Woolworths",
+      "category_id": "22094",
+      "weight": "180g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "730",
+          "price_per_unit": "4056",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/yarra-valley-persian-fetta-classic-180gram-8569772",
+      "name": "Yarra Valley Persian Fetta Classic | 180GRAM",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8569772.jpg&w=640&q=90",
+      "source_id": "8569772",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22095",
+      "weight": "180gram",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "730",
+          "price_per_unit": "4056",
+          "price_unit": "gram"
+        }
+      ]
+    },
+    "nameSimilarity": "53.88",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/97938/zanetti-parmigiano-reggiano-pdo-30m",
+      "name": "Zanetti Parmigiano Reggiano Pdo 30m 200g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/097938.jpg",
+      "source_id": "97938",
+      "barcode": "8002710350071",
+      "shop": "Woolworths",
+      "category_id": "22094",
+      "weight": "200g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1650",
+          "price_per_unit": "8250",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/zanetti-parmigiano-reggiano-pdo-200g-3275661",
+      "name": "Zanetti Parmigiano Reggiano PDO | 200g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3275661.jpg&w=640&q=90",
+      "source_id": "3275661",
+      "barcode": "8002710402008",
+      "shop": "coles",
+      "category_id": "22091",
+      "weight": "200g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1150",
+          "price_per_unit": "5750",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "71.18",
+    "weightSimilarity": "95.00"
+  }
+]

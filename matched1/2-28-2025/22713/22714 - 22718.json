@@ -1,0 +1,1364 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/cooke-seafood-canadian-smoked-salmon-100g-7445683",
+    "name": "Cooke Seafood Canadian Smoked Salmon | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7445683.jpg&w=640&q=90",
+    "source_id": "7445683",
+    "barcode": "9313107690106",
+    "shop": "coles",
+    "category_id": "22718",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "8000",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "8000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "8000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "8000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "8000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "8000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/804567/cooke-seafood-smoked-salmon",
+    "name": "Cooke Seafood Smoked Salmon 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/804567.jpg",
+    "source_id": "804567",
+    "barcode": "9313107690106",
+    "shop": "Woolworths",
+    "category_id": "22718",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "6500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "6500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ocean-blue-double-smoked-salmon-100g-7161824",
+    "name": "Ocean Blue Double Smoked Salmon | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7161824.jpg&w=640&q=90",
+    "source_id": "7161824",
+    "barcode": "9343005001254",
+    "shop": "coles",
+    "category_id": "22718",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/265164/ocean-blue-double-smoked-salmon",
+    "name": "Ocean Blue Double Smoked Salmon 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/265164.jpg",
+    "source_id": "265164",
+    "barcode": "9343005001254",
+    "shop": "Woolworths",
+    "category_id": "22718",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ocean-blue-smoked-salmon-cracked-pepper-100g-7202819",
+    "name": "Ocean Blue Smoked Salmon Cracked Pepper | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7202819.jpg&w=640&q=90",
+    "source_id": "7202819",
+    "barcode": "9343005006280",
+    "shop": "coles",
+    "category_id": "22718",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/120843/ocean-blue-sliced-smoked-salmon-cracked-pepper",
+    "name": "Ocean Blue Sliced Smoked Salmon Cracked Pepper 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/120843.jpg",
+    "source_id": "120843",
+    "barcode": "9343005006280",
+    "shop": "Woolworths",
+    "category_id": "22718",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ocean-blue-sliced-smoked-salmon-100g-3024242",
+    "name": "Ocean Blue Sliced Smoked Salmon | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3024242.jpg&w=640&q=90",
+    "source_id": "3024242",
+    "barcode": "9343005000028",
+    "shop": "coles",
+    "category_id": "22718",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/345350/ocean-blue-smoked-salmon",
+    "name": "Ocean Blue Smoked Salmon 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/345350.jpg",
+    "source_id": "345350",
+    "barcode": "9343005000028",
+    "shop": "Woolworths",
+    "category_id": "22718",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "9000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ocean-blue-sliced-smoked-salmon-180g-3770795",
+    "name": "Ocean Blue Sliced Smoked Salmon | 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3770795.jpg&w=640&q=90",
+    "source_id": "3770795",
+    "barcode": "9343005000035",
+    "shop": "coles",
+    "category_id": "22718",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "7500",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "1350",
+        "price_per_unit": "7500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1350",
+        "price_per_unit": "7500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1350",
+        "price_per_unit": "7500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1350",
+        "price_per_unit": "7500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1350",
+        "price_per_unit": "7500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1350",
+        "price_per_unit": "7500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/345348/ocean-blue-smoked-salmon",
+    "name": "Ocean Blue Smoked Salmon 180g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/345348.jpg",
+    "source_id": "345348",
+    "barcode": "9343005000035",
+    "shop": "Woolworths",
+    "category_id": "22718",
+    "weight": "180G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "7500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1350",
+        "price_per_unit": "7500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1350",
+        "price_per_unit": "7500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1350",
+        "price_per_unit": "7500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ocean-blue-smoked-salmon-300gram-8901165",
+    "name": "Ocean Blue Smoked Salmon | 300GRAM",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8901165.jpg&w=640&q=90",
+    "source_id": "8901165",
+    "barcode": "9343005000042",
+    "shop": "coles",
+    "category_id": "22718",
+    "weight": "300gram",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "5667",
+        "price_unit": "gram"
+      },
+      {
+        "state": "VIC",
+        "price": "1700",
+        "price_per_unit": "5667",
+        "price_unit": "gram"
+      },
+      {
+        "state": "QLD",
+        "price": "1700",
+        "price_per_unit": "5667",
+        "price_unit": "gram"
+      },
+      {
+        "state": "WA",
+        "price": "1700",
+        "price_per_unit": "5667",
+        "price_unit": "gram"
+      },
+      {
+        "state": "SA",
+        "price": "1700",
+        "price_per_unit": "5667",
+        "price_unit": "gram"
+      },
+      {
+        "state": "ACT",
+        "price": "1700",
+        "price_per_unit": "5667",
+        "price_unit": "gram"
+      },
+      {
+        "state": "NT",
+        "price": "1700",
+        "price_per_unit": "5667",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/365407/ocean-blue-smoked-salmon",
+    "name": "Ocean Blue Smoked Salmon 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/365407.jpg",
+    "source_id": "365407",
+    "barcode": "9343005000042",
+    "shop": "Woolworths",
+    "category_id": "22718",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "6333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1900",
+        "price_per_unit": "6333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1900",
+        "price_per_unit": "6333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1900",
+        "price_per_unit": "6333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1900",
+        "price_per_unit": "6333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1900",
+        "price_per_unit": "6333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1900",
+        "price_per_unit": "6333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ocean-blue-sliced-smoked-salmon-50g-2846745",
+    "name": "Ocean Blue Sliced Smoked Salmon | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2846745.jpg&w=640&q=90",
+    "source_id": "2846745",
+    "barcode": "9343005000011",
+    "shop": "coles",
+    "category_id": "22718",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "10000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "10000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "10000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "10000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "10000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "10000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "10000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/345345/ocean-blue-smoked-salmon-sliced",
+    "name": "Ocean Blue Smoked Salmon Sliced 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/345345.jpg",
+    "source_id": "345345",
+    "barcode": "9343005000011",
+    "shop": "Woolworths",
+    "category_id": "22718",
+    "weight": "50G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "10000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "10000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "10000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "10000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "10000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "10000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "10000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tassal-fresh-tassie-salmon-portions-skin-off-300g-5285280",
+    "name": "Tassal Fresh Tassie Salmon Portions Skin Off | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5285280.jpg&w=640&q=90",
+    "source_id": "5285280",
+    "barcode": "9319232024267",
+    "shop": "coles",
+    "category_id": "22718",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "6334",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "1900",
+        "price_per_unit": "6334",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1900",
+        "price_per_unit": "6334",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1900",
+        "price_per_unit": "6334",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/630331/tassal-atlantic-salmon-skin-off",
+    "name": "Tassal Atlantic Salmon Skin Off 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/630331.jpg",
+    "source_id": "630331",
+    "barcode": "9319232024267",
+    "shop": "Woolworths",
+    "category_id": "22718",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "6333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1900",
+        "price_per_unit": "6333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1900",
+        "price_per_unit": "6333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1900",
+        "price_per_unit": "6333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1900",
+        "price_per_unit": "6333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1900",
+        "price_per_unit": "6333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tassal-salmon-portions-skin-on-300g-5285371",
+    "name": "Tassal Salmon Portions Skin On | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5285371.jpg&w=640&q=90",
+    "source_id": "5285371",
+    "barcode": "9319232024243",
+    "shop": "coles",
+    "category_id": "22718",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "6000",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "1800",
+        "price_per_unit": "6000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1800",
+        "price_per_unit": "6000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1800",
+        "price_per_unit": "6000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1800",
+        "price_per_unit": "6000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/630332/tassal-atlantic-salmon-skin-on",
+    "name": "Tassal Atlantic Salmon Skin On 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/630332.jpg",
+    "source_id": "630332",
+    "barcode": "9319232024243",
+    "shop": "Woolworths",
+    "category_id": "22718",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "6000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1800",
+        "price_per_unit": "6000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1800",
+        "price_per_unit": "6000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1800",
+        "price_per_unit": "6000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1800",
+        "price_per_unit": "6000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1800",
+        "price_per_unit": "6000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tassal-barramundi-skin-on-260g-7451256",
+    "name": "Tassal Barramundi Skin On | 260g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7451256.jpg&w=640&q=90",
+    "source_id": "7451256",
+    "barcode": "9319232030879",
+    "shop": "coles",
+    "category_id": "22718",
+    "weight": "260g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "6154",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1600",
+        "price_per_unit": "6154",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/119309/tassal-fresh-barramundi-skin-on",
+    "name": "Tassal Fresh Barramundi Skin On 260g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/119309.jpg",
+    "source_id": "119309",
+    "barcode": "9319232030879",
+    "shop": "Woolworths",
+    "category_id": "22718",
+    "weight": "260g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "6154",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1600",
+        "price_per_unit": "6154",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1600",
+        "price_per_unit": "6154",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tassal-salmon-portions-mustard-and-dill-300g-5286625",
+    "name": "Tassal Salmon Portions Mustard And Dill | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5286625.jpg&w=640&q=90",
+    "source_id": "5286625",
+    "barcode": "9319232029811",
+    "shop": "coles",
+    "category_id": "22718",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1550",
+        "price_per_unit": "5167",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "1550",
+        "price_per_unit": "5167",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1550",
+        "price_per_unit": "5167",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/176620/tassal-salmon-mustard-dill",
+    "name": "Tassal Salmon Mustard & Dill 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/176620.jpg",
+    "source_id": "176620",
+    "barcode": "9319232029811",
+    "shop": "Woolworths",
+    "category_id": "22718",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "6000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1800",
+        "price_per_unit": "6000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1800",
+        "price_per_unit": "6000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1800",
+        "price_per_unit": "6000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1800",
+        "price_per_unit": "6000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1800",
+        "price_per_unit": "6000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tassal-tasmanian-smoked-salmon-150g-3477054",
+    "name": "Tassal Tasmanian Smoked Salmon | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3477054.jpg&w=640&q=90",
+    "source_id": "3477054",
+    "barcode": "9313107161101",
+    "shop": "coles",
+    "category_id": "22718",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "10001",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "1500",
+        "price_per_unit": "10001",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1500",
+        "price_per_unit": "10001",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1500",
+        "price_per_unit": "10001",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1500",
+        "price_per_unit": "10001",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1500",
+        "price_per_unit": "10001",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1500",
+        "price_per_unit": "10001",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1500",
+        "price_per_unit": "10001",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/847049/tassal-smoked-salmon",
+    "name": "Tassal Smoked Salmon 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/847049.jpg",
+    "source_id": "847049",
+    "barcode": "9313107161101",
+    "shop": "Woolworths",
+    "category_id": "22718",
+    "weight": "150G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "7333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "7333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "7333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "7333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "7333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1100",
+        "price_per_unit": "7333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "7333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tassal-tasmanian-smoked-salmon-250g-3477123",
+    "name": "Tassal Tasmanian Smoked Salmon | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3477123.jpg&w=640&q=90",
+    "source_id": "3477123",
+    "barcode": "9313107161118",
+    "shop": "coles",
+    "category_id": "22718",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "8400",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "2100",
+        "price_per_unit": "8400",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2100",
+        "price_per_unit": "8400",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2100",
+        "price_per_unit": "8400",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2100",
+        "price_per_unit": "8400",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2100",
+        "price_per_unit": "8400",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2100",
+        "price_per_unit": "8400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2268",
+        "price_per_unit": "9072",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/847118/tassal-smoked-salmon",
+    "name": "Tassal Smoked Salmon 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/847118.jpg",
+    "source_id": "847118",
+    "barcode": "9313107161118",
+    "shop": "Woolworths",
+    "category_id": "22718",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "8400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "2100",
+        "price_per_unit": "8400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2100",
+        "price_per_unit": "8400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2100",
+        "price_per_unit": "8400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2100",
+        "price_per_unit": "8400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2100",
+        "price_per_unit": "8400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2100",
+        "price_per_unit": "8400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2100",
+        "price_per_unit": "8400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tassal-tasmanian-smoked-salmon-twin-pack-100g-5579328",
+    "name": "Tassal Tasmanian Smoked Salmon Twin Pack | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5579328.jpg&w=640&q=90",
+    "source_id": "5579328",
+    "barcode": "9313107161460",
+    "shop": "coles",
+    "category_id": "22718",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/247015/tassal-smoked-tassie-salmon",
+    "name": "Tassal Smoked Tassie Salmon 50g x 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/247015.jpg",
+    "source_id": "247015",
+    "barcode": "9313107161460",
+    "shop": "Woolworths",
+    "category_id": "22718",
+    "weight": "50g x 2 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1250",
+        "price_per_unit": "12500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tassal-salmon-family-bundle-460g-8018520",
+    "name": "Tassal Salmon Family Bundle | 460g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8018520.jpg&w=640&q=90",
+    "source_id": "8018520",
+    "barcode": "9319232031227",
+    "shop": "coles",
+    "category_id": "22718",
+    "weight": "460g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "3261",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "1500",
+        "price_per_unit": "3261",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1500",
+        "price_per_unit": "3261",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1500",
+        "price_per_unit": "3261",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/757677/tassal-salmon-family-bundle",
+    "name": "Tassal Salmon Family Bundle 460g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/757677.jpg",
+    "source_id": "757677",
+    "barcode": "9319232031227",
+    "shop": "Woolworths",
+    "category_id": "22718",
+    "weight": "460g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1500",
+        "price_per_unit": "3261",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1500",
+        "price_per_unit": "3261",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

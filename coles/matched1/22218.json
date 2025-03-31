@@ -1,0 +1,42 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/95325/sprite-lemonade-soft-drink-bottle",
+      "name": "Sprite Lemonade Soft Drink Bottle 1.25l",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/095325.jpg",
+      "source_id": "95325",
+      "barcode": "9300675008013",
+      "shop": "Woolworths",
+      "category_id": "22218",
+      "weight": "1.25L",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "400",
+          "price_per_unit": "320",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/sprite-lemonade-soft-drink-bottle-1.25l-401657",
+      "name": "Sprite Lemonade Soft Drink Bottle | 1.25L",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F401657.jpg&w=640&q=90",
+      "source_id": "401657",
+      "barcode": "9310036048022",
+      "shop": "coles",
+      "category_id": "22218",
+      "weight": "1.25l",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "200",
+          "price_per_unit": "160",
+          "price_unit": ".l"
+        }
+      ]
+    },
+    "nameSimilarity": "72.86",
+    "weightSimilarity": "100.00"
+  }
+]

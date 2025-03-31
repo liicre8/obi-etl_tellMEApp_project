@@ -1,0 +1,42 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/838737/woolworths-light-thickened-cream",
+      "name": "Woolworths Light Thickened Cream 300ml",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/838737.jpg",
+      "source_id": "838737",
+      "barcode": "9300633700430",
+      "shop": "Woolworths",
+      "category_id": "22103",
+      "weight": "300mL",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "280",
+          "price_per_unit": "93",
+          "price_unit": "ML"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-light-thickened-cream-300ml-5033765",
+      "name": "Coles Light Thickened Cream | 300mL",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5033765.jpg&w=640&q=90",
+      "source_id": "5033765",
+      "barcode": "9300601000647",
+      "shop": "coles",
+      "category_id": "22103",
+      "weight": "300ml",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "280",
+          "price_per_unit": "93",
+          "price_unit": "ml"
+        }
+      ]
+    },
+    "nameSimilarity": "48.41",
+    "weightSimilarity": "95.00"
+  }
+]

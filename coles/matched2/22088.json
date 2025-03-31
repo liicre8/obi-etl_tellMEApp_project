@@ -1,0 +1,42 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/16436/mountain-bread-rye-wraps",
+      "name": "Mountain Bread Rye Wraps 200g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/016436.jpg",
+      "source_id": "16436",
+      "barcode": "789673000042",
+      "shop": "Woolworths",
+      "category_id": "22088",
+      "weight": "200G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "490",
+          "price_per_unit": "245",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/mountain-bread-rye-wraps-8-pack-200g-5213790",
+      "name": "Mountain Bread Rye Wraps 8 pack | 200g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5213790.jpg&w=640&q=90",
+      "source_id": "5213790",
+      "barcode": "9311463001048",
+      "shop": "coles",
+      "category_id": "22088",
+      "weight": "200g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "490",
+          "price_per_unit": "245",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "50.40",
+    "weightSimilarity": "95.00"
+  }
+]

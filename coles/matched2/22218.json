@@ -1,0 +1,282 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/924108/fanta-grape-zero-sugar-soft-drink",
+      "name": "Fanta Grape Zero Sugar Soft Drink 1.25l",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/924108.jpg",
+      "source_id": "924108",
+      "barcode": "9300675095174",
+      "shop": "Woolworths",
+      "category_id": "22218",
+      "weight": "1.25l",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "400",
+          "price_per_unit": "320",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/fanta-orange-zero-sugar-soft-drink-bottle-1.25l-3585556",
+      "name": "Fanta Orange Zero Sugar Soft Drink Bottle | 1.25L",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3585556.jpg&w=640&q=90",
+      "source_id": "3585556",
+      "barcode": "9300675087018",
+      "shop": "coles",
+      "category_id": "22218",
+      "weight": "1.25l",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "200",
+          "price_per_unit": "160",
+          "price_unit": ".l"
+        }
+      ]
+    },
+    "nameSimilarity": "47.96",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/221678/fanta-raspberry-zero-sugar-soft-drink-bottles",
+      "name": "Fanta Raspberry Zero Sugar Soft Drink Bottles 1.25l",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/221678.jpg",
+      "source_id": "221678",
+      "barcode": "9300675092005",
+      "shop": "Woolworths",
+      "category_id": "22218",
+      "weight": "1.25L",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "400",
+          "price_per_unit": "320",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/fanta-orange-zero-sugar-soft-drink-bottle-1.25l-3585556",
+      "name": "Fanta Orange Zero Sugar Soft Drink Bottle | 1.25L",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3585556.jpg&w=640&q=90",
+      "source_id": "3585556",
+      "barcode": "9300675087018",
+      "shop": "coles",
+      "category_id": "22218",
+      "weight": "1.25l",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "200",
+          "price_per_unit": "160",
+          "price_unit": ".l"
+        }
+      ]
+    },
+    "nameSimilarity": "46.18",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/140092/kirks-creaming-soda-soft-drink-bottle",
+      "name": "Kirks Creaming Soda Soft Drink Bottle 1.25l",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/140092.jpg",
+      "source_id": "140092",
+      "barcode": "9300624008279",
+      "shop": "Woolworths",
+      "category_id": "22218",
+      "weight": "1.25L",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "170",
+          "price_per_unit": "136",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/kirks-creamy-soda-soft-drink-1.25l-5399075",
+      "name": "Kirks Creamy Soda Soft Drink | 1.25L",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5399075.jpg&w=640&q=90",
+      "source_id": "5399075",
+      "barcode": "9300624401230",
+      "shop": "coles",
+      "category_id": "22218",
+      "weight": "1.25l",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "285",
+          "price_per_unit": "228",
+          "price_unit": ".l"
+        }
+      ]
+    },
+    "nameSimilarity": "45.26",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/842241/la-ice-cola-bottle-bottle",
+      "name": "La Ice Cola Bottle 2l",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/842241.jpg",
+      "source_id": "842241",
+      "barcode": "9345905000092",
+      "shop": "Woolworths",
+      "category_id": "22218",
+      "weight": "2L",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "200",
+          "price_per_unit": "100",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/la-ice-cola-soft-drink-2l-2506339",
+      "name": "La Ice Cola Soft Drink | 2L",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2506339.jpg&w=640&q=90",
+      "source_id": "2506339",
+      "barcode": "9345905004519",
+      "shop": "coles",
+      "category_id": "22218",
+      "weight": "2l",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "200",
+          "price_per_unit": "100",
+          "price_unit": "l"
+        }
+      ]
+    },
+    "nameSimilarity": "37.72",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/32673/solo-thirst-crusher-original-lemon-soft-drink-bottle",
+      "name": "Solo Thirst Crusher Original Lemon Soft Drink Bottle 1.25l",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/032673.jpg",
+      "source_id": "32673",
+      "barcode": "9300617006992",
+      "shop": "Woolworths",
+      "category_id": "22218",
+      "weight": "1.25L",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "180",
+          "price_per_unit": "144",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/solo-thirst-crusher-original-lemon-soft-drink-bottle-1.25l-147494",
+      "name": "Solo Thirst Crusher Original Lemon Soft Drink Bottle | 1.25L",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F147494.jpg&w=640&q=90",
+      "source_id": "147494",
+      "barcode": "9315596002491",
+      "shop": "coles",
+      "category_id": "22218",
+      "weight": "1.25l",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "350",
+          "price_per_unit": "280",
+          "price_unit": ".l"
+        }
+      ]
+    },
+    "nameSimilarity": "66.38",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/95325/sprite-lemonade-soft-drink-bottle",
+      "name": "Sprite Lemonade Soft Drink Bottle 1.25l",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/095325.jpg",
+      "source_id": "95325",
+      "barcode": "9300675008013",
+      "shop": "Woolworths",
+      "category_id": "22218",
+      "weight": "1.25L",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "400",
+          "price_per_unit": "320",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/sprite-lemonade-soft-drink-bottle-1.25l-401657",
+      "name": "Sprite Lemonade Soft Drink Bottle | 1.25L",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F401657.jpg&w=640&q=90",
+      "source_id": "401657",
+      "barcode": "9310036048022",
+      "shop": "coles",
+      "category_id": "22218",
+      "weight": "1.25l",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "200",
+          "price_per_unit": "160",
+          "price_unit": ".l"
+        }
+      ]
+    },
+    "nameSimilarity": "72.86",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/12011/sunkist-orange-soft-drink-bottle",
+      "name": "Sunkist Orange Soft Drink Bottle 1.25l",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/012011.jpg",
+      "source_id": "12011",
+      "barcode": "9300617029687",
+      "shop": "Woolworths",
+      "category_id": "22218",
+      "weight": "1.25L",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "180",
+          "price_per_unit": "144",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/fanta-grape-soft-drink-bottle-1.25l-8475919",
+      "name": "Fanta Grape Soft Drink Bottle | 1.25L",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8475919.jpg&w=640&q=90",
+      "source_id": "8475919",
+      "barcode": "9300675095150",
+      "shop": "coles",
+      "category_id": "22218",
+      "weight": "1.25l",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "200",
+          "price_per_unit": "160",
+          "price_unit": ".l"
+        }
+      ]
+    },
+    "nameSimilarity": "41.75",
+    "weightSimilarity": "95.00"
+  }
+]

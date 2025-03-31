@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-pub-style-potato-wedges-750g-5394810",
+    "name": "McCain Pub Style Potato Wedges | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5394810.jpg&w=640&q=90",
+    "source_id": "5394810",
+    "barcode": "9310174009152",
+    "shop": "coles",
+    "category_id": "22285",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "640",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/53205/mccain-pub-style-potato-wedges",
+    "name": "McCain Pub Style Potato Wedges 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/053205.jpg",
+    "source_id": "53205",
+    "barcode": "9310174009152",
+    "shop": "Woolworths",
+    "category_id": "22285",
+    "weight": "750G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

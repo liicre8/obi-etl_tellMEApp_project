@@ -1,0 +1,82 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/6008628/peters-drumstick-saucy-dulce-de-leche-4-pack",
+      "name": "Peters Drumstick Saucy Dulce De Leche 4 Pack 475mL",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6008628.jpg",
+      "source_id": "6008628",
+      "barcode": "9347043002778",
+      "shop": "Woolworths",
+      "category_id": "22339",
+      "weight": "475mL",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "950",
+          "price_per_unit": "200",
+          "price_unit": "ML"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/peters-drumstick-saucy-dulce-de-leche-cones-4-pack-475ml-9207992",
+      "name": "Peters Drumstick Saucy Dulce De Leche Cones 4 Pack | 475mL",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9207992.jpg&w=640&q=90",
+      "source_id": "9207992",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22339",
+      "weight": "475ml",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "475",
+          "price_per_unit": "100",
+          "price_unit": "ml"
+        }
+      ]
+    },
+    "nameSimilarity": "46.57",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/6008867/peters-drumstick-saucy-strawberry-4-pack",
+      "name": "Peters Drumstick Saucy Strawberry 4 Pack 475mL",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6008867.jpg",
+      "source_id": "6008867",
+      "barcode": "9347043002792",
+      "shop": "Woolworths",
+      "category_id": "22339",
+      "weight": "475mL",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "950",
+          "price_per_unit": "200",
+          "price_unit": "ML"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/peters-drumstick-saucy-strawberry-cones-4-pack-475ml-9208055",
+      "name": "Peters Drumstick Saucy Strawberry Cones 4 Pack | 475mL",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9208055.jpg&w=640&q=90",
+      "source_id": "9208055",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22339",
+      "weight": "475ml",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "475",
+          "price_per_unit": "100",
+          "price_unit": "ml"
+        }
+      ]
+    },
+    "nameSimilarity": "49.90",
+    "weightSimilarity": "95.00"
+  }
+]

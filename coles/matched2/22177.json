@@ -1,0 +1,202 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/938216/eastcoast-orange-juice-pulp-free",
+      "name": "Eastcoast Orange Juice Pulp Free 2l",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/938216.jpg",
+      "source_id": "938216",
+      "barcode": "9326720000535",
+      "shop": "Woolworths",
+      "category_id": "22177",
+      "weight": "2L",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "700",
+          "price_per_unit": "350",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-finest-orange-juice-pulp-free-2l-2690920",
+      "name": "Coles Finest Orange Juice Pulp Free | 2L",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2690920.jpg&w=640&q=90",
+      "source_id": "2690920",
+      "barcode": "9310645175317",
+      "shop": "coles",
+      "category_id": "22181",
+      "weight": "2l",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "600",
+          "price_per_unit": "300",
+          "price_unit": "l"
+        }
+      ]
+    },
+    "nameSimilarity": "41.73",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/270324/remedy-sodaly-passionfruit",
+      "name": "Remedy Sodaly Passionfruit 330ml",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/270324.jpg",
+      "source_id": "270324",
+      "barcode": "9350271003691",
+      "shop": "Woolworths",
+      "category_id": "22177",
+      "weight": "330ml",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "400",
+          "price_per_unit": "1212",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/remedy-kombucha-passionfruit-330ml-3905227",
+      "name": "Remedy Kombucha Passionfruit | 330mL",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3905227.jpg&w=640&q=90",
+      "source_id": "3905227",
+      "barcode": "9350271001277",
+      "shop": "coles",
+      "category_id": "22181",
+      "weight": "330ml",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "430",
+          "price_per_unit": "1303",
+          "price_unit": "ml"
+        }
+      ]
+    },
+    "nameSimilarity": "43.28",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/972722/remedy-sodaly-yuzu-lemon",
+      "name": "Remedy Sodaly Yuzu Lemon 330mL",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/972722.jpg",
+      "source_id": "972722",
+      "barcode": "9350271004940",
+      "shop": "Woolworths",
+      "category_id": "22177",
+      "weight": "330mL",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "400",
+          "price_per_unit": "1212",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/remedy-sodaly-guava-330ml-7756774",
+      "name": "Remedy Sodaly Guava | 330mL",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7756774.jpg&w=640&q=90",
+      "source_id": "7756774",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22181",
+      "weight": "330ml",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "400",
+          "price_per_unit": "1212",
+          "price_unit": "ml"
+        }
+      ]
+    },
+    "nameSimilarity": "41.62",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/227257/the-juice-lab-wellness-shot-calm",
+      "name": "The Juice Lab Wellness Shot Calm 60ml",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/227257.jpg",
+      "source_id": "227257",
+      "barcode": "93562881",
+      "shop": "Woolworths",
+      "category_id": "22177",
+      "weight": "60ml",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "350",
+          "price_per_unit": "5833",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/the-juice-lab-wellness-shot-immunity-60ml-3960746",
+      "name": "The Juice Lab Wellness Shot Immunity | 60mL",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3960746.jpg&w=640&q=90",
+      "source_id": "3960746",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22181",
+      "weight": "60ml",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "350",
+          "price_per_unit": "5834",
+          "price_unit": "ml"
+        }
+      ]
+    },
+    "nameSimilarity": "48.17",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/804347/woolworths-orange-juice-pulp-free",
+      "name": "Woolworths Orange Juice Pulp Free 2l",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/804347.jpg",
+      "source_id": "804347",
+      "barcode": "9339687065721",
+      "shop": "Woolworths",
+      "category_id": "22177",
+      "weight": "2L",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "600",
+          "price_per_unit": "300",
+          "price_unit": "L"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-finest-orange-juice-pulp-free-2l-2690920",
+      "name": "Coles Finest Orange Juice Pulp Free | 2L",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2690920.jpg&w=640&q=90",
+      "source_id": "2690920",
+      "barcode": "9310645175317",
+      "shop": "coles",
+      "category_id": "22181",
+      "weight": "2l",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "600",
+          "price_per_unit": "300",
+          "price_unit": "l"
+        }
+      ]
+    },
+    "nameSimilarity": "35.43",
+    "weightSimilarity": "95.00"
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/26693/fussy-cat-grain-free-adult-chilled-fresh-cat-food-finest-mince-beef",
+      "name": "Fussy Cat Grain Free Adult Chilled Fresh Cat Food Finest Mince & Beef 800g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/026693.jpg",
+      "source_id": "26693",
+      "barcode": "9319185002817",
+      "shop": "Woolworths",
+      "category_id": "23954",
+      "weight": "800G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "750",
+          "price_per_unit": "94",
+          "price_unit": "G"
+        },
+        {
+          "state": "NSW",
+          "price": "750",
+          "price_per_unit": "94",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/fussy-cat-grain-free-adult-chilled-fresh-cat-food-finest-mince-with-kangaroo-800g-8011601",
+      "name": "Fussy Cat Grain Free Adult Chilled Fresh Cat Food Finest Mince With Kangaroo | 800g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8011601.jpg&w=640&q=90",
+      "source_id": "8011601",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "23954",
+      "weight": "800g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "750",
+          "price_per_unit": "94",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "44.16",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/171902/fancy-feast-adult-royale-virgin-flaked-tuna-wet-cat-food",
+      "name": "Fancy Feast Adult Royale Virgin Flaked Tuna Wet Cat Food 85g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/171902.jpg",
+      "source_id": "171902",
+      "barcode": "93475730",
+      "shop": "Woolworths",
+      "category_id": "23954",
+      "weight": "85G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "270",
+          "price_per_unit": "318",
+          "price_unit": "G"
+        },
+        {
+          "state": "NSW",
+          "price": "270",
+          "price_per_unit": "318",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/fancy-feast-royale-virgin-flaked-tuna-cat-food-85g-9416879",
+      "name": "Fancy Feast Royale Virgin Flaked Tuna Cat Food | 85g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9416879.jpg&w=640&q=90",
+      "source_id": "9416879",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "23954",
+      "weight": "85g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "270",
+          "price_per_unit": "318",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "38.25",
+    "weightSimilarity": "95.00"
+  }
+]

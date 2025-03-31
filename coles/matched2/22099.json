@@ -1,0 +1,162 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/6003619/white-label-colby-cheese-slices-16-pack",
+      "name": "White Label Colby Cheese Slices 16 Pack 250g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6003619.jpg",
+      "source_id": "6003619",
+      "barcode": "9300639619736",
+      "shop": "Woolworths",
+      "category_id": "22099",
+      "weight": "250g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "600",
+          "price_per_unit": "2400",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-dairy-colby-cheese-slices-12-pack-250g-7247191",
+      "name": "Coles Dairy Colby Cheese Slices 12 Pack | 250g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7247191.jpg&w=640&q=90",
+      "source_id": "7247191",
+      "barcode": "9300601392810",
+      "shop": "coles",
+      "category_id": "22099",
+      "weight": "250g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "600",
+          "price_per_unit": "2400",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "42.73",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/224944/woolworths-extra-tasty-cheese-slices",
+      "name": "Woolworths Extra Tasty Cheese Slices 500g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/224944.jpg",
+      "source_id": "224944",
+      "barcode": "9300633906634",
+      "shop": "Woolworths",
+      "category_id": "22099",
+      "weight": "500G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "790",
+          "price_per_unit": "1580",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/cheer-extra-tasty-cheese-slices-500g-5432320",
+      "name": "Cheer Extra Tasty Cheese Slices | 500g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5432320.jpg&w=640&q=90",
+      "source_id": "5432320",
+      "barcode": "9311482019697",
+      "shop": "coles",
+      "category_id": "22099",
+      "weight": "500g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1000",
+          "price_per_unit": "2000",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "44.81",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/348698/woolworths-gouda-cheese-slices",
+      "name": "Woolworths Gouda Cheese Slices 200g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/348698.jpg",
+      "source_id": "348698",
+      "barcode": "9339687236886",
+      "shop": "Woolworths",
+      "category_id": "22099",
+      "weight": "200G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "490",
+          "price_per_unit": "2450",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-gouda-cheese-slices-200g-1462533",
+      "name": "Coles Gouda Cheese Slices | 200g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1462533.jpg&w=640&q=90",
+      "source_id": "1462533",
+      "barcode": "9300601970223",
+      "shop": "coles",
+      "category_id": "22099",
+      "weight": "200g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "490",
+          "price_per_unit": "2450",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "44.20",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/224942/woolworths-tasty-light-cheese-slices",
+      "name": "Woolworths Tasty Light Cheese Slices 500g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/224942.jpg",
+      "source_id": "224942",
+      "barcode": "9300633906610",
+      "shop": "Woolworths",
+      "category_id": "22099",
+      "weight": "500G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "790",
+          "price_per_unit": "1580",
+          "price_unit": "KG"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-tasty-light-cheese-slices-24-pack-500g-5433027",
+      "name": "Coles Tasty Light Cheese Slices 24 Pack | 500g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5433027.jpg&w=640&q=90",
+      "source_id": "5433027",
+      "barcode": "9300601069903",
+      "shop": "coles",
+      "category_id": "22099",
+      "weight": "500g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "790",
+          "price_per_unit": "1580",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "41.79",
+    "weightSimilarity": "95.00"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/591747/fitness-outcomes-beef-bolognese-with-red-lentil-fusilli",
+      "name": "Fitness Outcomes Beef Bolognese With Red Lentil Fusilli 350g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/591747.jpg",
+      "source_id": "591747",
+      "barcode": "9356335003881",
+      "shop": "Woolworths",
+      "category_id": "22300",
+      "weight": "350g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "800",
+          "price_per_unit": "229",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/fitness-outcomes-beef-bolognese-and-red-lentil-fusilli-350g-8913991",
+      "name": "Fitness Outcomes Beef Bolognese & Red Lentil Fusilli | 350g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8913991.jpg&w=640&q=90",
+      "source_id": "8913991",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22300",
+      "weight": "350g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "900",
+          "price_per_unit": "257",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "52.59",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/601554/on-the-menu-beef-ravioli",
+      "name": "On The Menu Beef Ravioli 400g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/601554.jpg",
+      "source_id": "601554",
+      "barcode": "9356335003867",
+      "shop": "Woolworths",
+      "category_id": "22300",
+      "weight": "400g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "600",
+          "price_per_unit": "150",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/on-the-menu-beef-ravioli-400g-8423482",
+      "name": "On The Menu Beef Ravioli | 400g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8423482.jpg&w=640&q=90",
+      "source_id": "8423482",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22300",
+      "weight": "400g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "420",
+          "price_per_unit": "105",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "63.61",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/369501/on-the-menu-roast-beef-frozen-meal-roast-beef-frozen-meal",
+      "name": "On The Menu Roast Beef Frozen Meal 320g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/369501.jpg",
+      "source_id": "369501",
+      "barcode": "9310761713219",
+      "shop": "Woolworths",
+      "category_id": "22300",
+      "weight": "320G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "700",
+          "price_per_unit": "219",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/on-the-menu-roast-beef-plated-meal-320g-8151917",
+      "name": "On The Menu Roast Beef Plated Meal | 320g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8151917.jpg&w=640&q=90",
+      "source_id": "8151917",
+      "barcode": "9310761716180",
+      "shop": "coles",
+      "category_id": "22300",
+      "weight": "320g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "700",
+          "price_per_unit": "219",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "42.73",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/248464/on-the-menu-roast-chicken-rolls-null",
+      "name": "On The Menu Roast Chicken Rolls 179g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/248464.jpg",
+      "source_id": "248464",
+      "barcode": "9313080558288",
+      "shop": "Woolworths",
+      "category_id": "22300",
+      "weight": "179G",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "490",
+          "price_per_unit": "274",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/on-the-menu-frozen-chicken-roll-roast-179g-6957191",
+      "name": "On The Menu Frozen Chicken Roll Roast | 179g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6957191.jpg&w=640&q=90",
+      "source_id": "6957191",
+      "barcode": "9313080558295",
+      "shop": "coles",
+      "category_id": "22300",
+      "weight": "179g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "550",
+          "price_per_unit": "307",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "39.72",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/562977/quorn-meat-free-lasagne-meal",
+      "name": "Quorn Meat Free Lasagne Meal 350g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/562977.jpg",
+      "source_id": "562977",
+      "barcode": "9355414001688",
+      "shop": "Woolworths",
+      "category_id": "22300",
+      "weight": "350g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "900",
+          "price_per_unit": "257",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/quorn-meat-free-cottage-pie-350g-7648148",
+      "name": "Quorn Meat Free Cottage Pie | 350g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7648148.jpg&w=640&q=90",
+      "source_id": "7648148",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22304",
+      "weight": "350g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "900",
+          "price_per_unit": "257",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "38.09",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/141006/woolworths-chicken-fettuccine-carbonara",
+      "name": "Woolworths Chicken Fettuccine Carbonara 375g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/141006.jpg",
+      "source_id": "141006",
+      "barcode": "9339687234486",
+      "shop": "Woolworths",
+      "category_id": "22300",
+      "weight": "375g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "400",
+          "price_per_unit": "107",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-chicken-fettuccine-carbonara-375g-2742025",
+      "name": "Coles Chicken Fettuccine Carbonara | 375g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2742025.jpg&w=640&q=90",
+      "source_id": "2742025",
+      "barcode": "9310645179520",
+      "shop": "coles",
+      "category_id": "22300",
+      "weight": "375g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "400",
+          "price_per_unit": "107",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "51.98",
+    "weightSimilarity": "95.00"
+  },
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/388387/woolworths-sweet-potato-cottage-pie",
+      "name": "Woolworths Sweet Potato Cottage Pie 375g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/388387.jpg",
+      "source_id": "388387",
+      "barcode": "9339687354924",
+      "shop": "Woolworths",
+      "category_id": "22300",
+      "weight": "375g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "400",
+          "price_per_unit": "107",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/coles-sweet-potato-cottage-pie-375g-3230914",
+      "name": "Coles Sweet Potato Cottage Pie | 375g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3230914.jpg&w=640&q=90",
+      "source_id": "3230914",
+      "barcode": "9310645237190",
+      "shop": "coles",
+      "category_id": "22300",
+      "weight": "375g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "400",
+          "price_per_unit": "107",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "48.12",
+    "weightSimilarity": "95.00"
+  }
+]

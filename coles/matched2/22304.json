@@ -1,0 +1,42 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/562977/quorn-meat-free-lasagne-meal",
+      "name": "Quorn Meat Free Lasagne Meal 350g",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/562977.jpg",
+      "source_id": "562977",
+      "barcode": "9355414001688",
+      "shop": "Woolworths",
+      "category_id": "22304",
+      "weight": "350g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "900",
+          "price_per_unit": "257",
+          "price_unit": "G"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.coles.com.au/product/quorn-meat-free-cottage-pie-350g-7648148",
+      "name": "Quorn Meat Free Cottage Pie | 350g",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7648148.jpg&w=640&q=90",
+      "source_id": "7648148",
+      "barcode": "",
+      "shop": "coles",
+      "category_id": "22304",
+      "weight": "350g",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "900",
+          "price_per_unit": "257",
+          "price_unit": "g"
+        }
+      ]
+    },
+    "nameSimilarity": "38.09",
+    "weightSimilarity": "95.00"
+  }
+]

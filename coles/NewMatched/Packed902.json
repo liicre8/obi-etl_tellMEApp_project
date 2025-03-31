@@ -1,0 +1,1648 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/plantagenet-free-range-pork-mince-500g-1218317",
+    "name": "Plantagenet Free Range Pork Mince | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1218317.jpg&w=640&q=90",
+    "source_id": "1218317",
+    "barcode": "9300633684501",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22720",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/666554/macro-free-range-lean-pork-mince",
+    "name": "Macro Free Range Lean Pork Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/666554.jpg",
+    "source_id": "666554",
+    "barcode": "9300633684501",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22720",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lilydale-free-range-chicken-tenderloins-500g-1833384",
+    "name": "Lilydale Free Range Chicken Tenderloins | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1833384.jpg&w=640&q=90",
+    "source_id": "1833384",
+    "barcode": "9300633418946",
+    "category_id": "22713",
+    "subcategory_id": "24024",
+    "subsubcategory_id": "24046",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/705461/macro-chicken-mince-free-range",
+    "name": "Macro Chicken Mince Free Range 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/705461.jpg",
+    "source_id": "705461",
+    "barcode": "9300633418946",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "23935",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mount-barker-free-range-chicken-mince-500g-2285670",
+    "name": "Mount Barker Free Range Chicken Mince | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2285670.jpg&w=640&q=90",
+    "source_id": "2285670",
+    "barcode": "9300633418946",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22717",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/705461/macro-chicken-mince-free-range",
+    "name": "Macro Chicken Mince Free Range 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/705461.jpg",
+    "source_id": "705461",
+    "barcode": "9300633418946",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "23935",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-free-range-pork-mince-wa-500g-2741554",
+    "name": "Coles Free Range Pork Mince Wa | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2741554.jpg&w=640&q=90",
+    "source_id": "2741554",
+    "barcode": "9300633684501",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22720",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/666554/macro-free-range-lean-pork-mince",
+    "name": "Macro Free Range Lean Pork Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/666554.jpg",
+    "source_id": "666554",
+    "barcode": "9300633684501",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22720",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harvey-beef-porterhouse-steak-approx.-400g-2894522",
+    "name": "Harvey Beef Porterhouse Steak | approx. 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2894522.jpg&w=640&q=90",
+    "source_id": "2894522",
+    "barcode": "9339687315116",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22720",
+    "shop": "coles",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1600",
+        "price_per_unit": "4000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/243050/woolworths-beef-porterhouse-steak-butter",
+    "name": "Woolworths Beef Porterhouse Steak & Butter 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/243050.jpg",
+    "source_id": "243050",
+    "barcode": "9339687315116",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22720",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1600",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1600",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1600",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1600",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mount-barker-free-range-chicken-diced-leg-fillet-500g-2938821",
+    "name": "Mount Barker Free Range Chicken Diced Leg Fillet | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2938821.jpg&w=640&q=90",
+    "source_id": "2938821",
+    "barcode": "9334864000809",
+    "category_id": "22713",
+    "subcategory_id": "24024",
+    "subsubcategory_id": "24046",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/604804/mt-barker-diced-chicken-leg-fillet",
+    "name": "Mt Barker Diced Chicken Leg Fillet 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/604804.jpg",
+    "source_id": "604804",
+    "barcode": "9334864000809",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "23935",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/luv-a-duck-cooked-duck-breasts-peking-flavoured-380g-2957859",
+    "name": "Luv A Duck Cooked Duck Breasts Peking Flavoured | 380g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2957859.jpg&w=640&q=90",
+    "source_id": "2957859",
+    "barcode": "9330471024238",
+    "category_id": "22713",
+    "subcategory_id": "24024",
+    "subsubcategory_id": "24046",
+    "shop": "coles",
+    "weight": "380g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "2895",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "2895",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "2895",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1100",
+        "price_per_unit": "2895",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "2895",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "2895",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/966419/luv-a-duck-peking-duck-breasts-slow-cooked",
+    "name": "Luv-A-Duck Peking Duck Breasts Slow Cooked 380g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/966419.jpg",
+    "source_id": "966419",
+    "barcode": "9330471024238",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "380g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "2632",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "2632",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "2632",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1650",
+        "price_per_unit": "4342",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1650",
+        "price_per_unit": "4342",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-pork-bones-smoked-500g-3472436",
+    "name": "Coles Pork Bones Smoked | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3472436.jpg&w=640&q=90",
+    "source_id": "3472436",
+    "barcode": "9310591400204",
+    "category_id": "22713",
+    "subcategory_id": "24024",
+    "subsubcategory_id": "24028",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/262374/bertocchi-pork-bones-smoked",
+    "name": "Bertocchi Pork Bones Smoked 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/262374.jpg",
+    "source_id": "262374",
+    "barcode": "9310591400204",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22720",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "675",
+        "price_per_unit": "1350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "675",
+        "price_per_unit": "1350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "675",
+        "price_per_unit": "1350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "675",
+        "price_per_unit": "1350",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-hot-smoked-salmon-cracked-pepper-150g-3582092",
+    "name": "Coles Hot Smoked Salmon Cracked Pepper | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3582092.jpg&w=640&q=90",
+    "source_id": "3582092",
+    "barcode": "9300633438135",
+    "category_id": "22713",
+    "subcategory_id": "22758",
+    "subsubcategory_id": "22761",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "5667",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "5667",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "5667",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "5667",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "5667",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "5667",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/764099/woolworths-hot-smoked-salmon-pepper",
+    "name": "Woolworths Hot Smoked Salmon Pepper 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/764099.jpg",
+    "source_id": "764099",
+    "barcode": "9300633438135",
+    "category_id": "22713",
+    "subcategory_id": "22758",
+    "subsubcategory_id": "22762",
+    "shop": "Woolworths",
+    "weight": "150G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "5667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "5667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "5667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "5667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "5667",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tassal-tasmanian-smoked-salmon-100g-3729747",
+    "name": "Tassal Tasmanian Smoked Salmon | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3729747.jpg&w=640&q=90",
+    "source_id": "3729747",
+    "barcode": "9314111000196",
+    "category_id": "22713",
+    "subcategory_id": "22758",
+    "subsubcategory_id": "22761",
+    "shop": "coles",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1150",
+        "price_per_unit": "11500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "11500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1150",
+        "price_per_unit": "11500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1150",
+        "price_per_unit": "11500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1150",
+        "price_per_unit": "11500",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1150",
+        "price_per_unit": "11500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/29637/tassal-premium-tasmanian-smoked-salmon-slices",
+    "name": "Tassal Premium Tasmanian Smoked Salmon Slices 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/029637.jpg",
+    "source_id": "29637",
+    "barcode": "9314111000196",
+    "category_id": "22713",
+    "subcategory_id": "22713",
+    "subsubcategory_id": "23984",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "8500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "8500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "8500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "8500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "8500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-classic-beef-burgers-500g-3898948",
+    "name": "Coles Classic Beef Burgers | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3898948.jpg&w=640&q=90",
+    "source_id": "3898948",
+    "barcode": "9339687384648",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22716",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/899857/woolworths-4-classic-beef-burgers-patties",
+    "name": "Woolworths 4 Classic Beef Burgers 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/899857.jpg",
+    "source_id": "899857",
+    "barcode": "9339687384648",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22716",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-beef-garlic-and-herb-sausages-550g-3923681",
+    "name": "Coles Beef Garlic & Herb Sausages | 550g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3923681.jpg&w=640&q=90",
+    "source_id": "3923681",
+    "barcode": "9339687384525",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22716",
+    "shop": "coles",
+    "weight": "550g",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/901505/woolworths-10-herb-garlic-beef-sausages",
+    "name": "Woolworths 10 Herb & Garlic Beef Sausages 550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/901505.jpg",
+    "source_id": "901505",
+    "barcode": "9339687384525",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22716",
+    "shop": "Woolworths",
+    "weight": "550g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kb's-salt-and-pepper-squid-270g-4719385",
+    "name": "KB's Salt And Pepper Squid | 270g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4719385.jpg&w=640&q=90",
+    "source_id": "4719385",
+    "barcode": "9315822020374",
+    "category_id": "22713",
+    "subcategory_id": "22758",
+    "subsubcategory_id": "22667",
+    "shop": "coles",
+    "weight": "270g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/391609/jc-seafood-salt-pepper-squid",
+    "name": "JC Seafood Salt & Pepper Squid 270g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/391609.jpg",
+    "source_id": "391609",
+    "barcode": "9315822020374",
+    "category_id": "22713",
+    "subcategory_id": "22758",
+    "subsubcategory_id": "22762",
+    "shop": "Woolworths",
+    "weight": "270g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cooked-jumbo-prawn-cutlets-240g-6322440",
+    "name": "Coles Cooked Jumbo Prawn Cutlets | 240g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6322440.jpg&w=640&q=90",
+    "source_id": "6322440",
+    "barcode": "9315822019538",
+    "category_id": "22713",
+    "subcategory_id": "22758",
+    "subsubcategory_id": "22667",
+    "shop": "coles",
+    "weight": "240g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "5834",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/263311/jc-seafood-jumbo-cooked-prawn-cutlets",
+    "name": "JC Seafood Jumbo Cooked Prawn Cutlets 240g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/263311.jpg",
+    "source_id": "263311",
+    "barcode": "9315822019538",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22721",
+    "shop": "Woolworths",
+    "weight": "240g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "5833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "5833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "5833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "5833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "5833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "5833",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kb's-salmon-portions-skin-on-270g-6388799",
+    "name": "Kb's Salmon Portions Skin On | 270g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6388799.jpg&w=640&q=90",
+    "source_id": "6388799",
+    "barcode": "9315822117043",
+    "category_id": "22713",
+    "subcategory_id": "22758",
+    "subsubcategory_id": "22667",
+    "shop": "coles",
+    "weight": "270g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1500",
+        "price_per_unit": "5556",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/392206/jc-seafood-salmon-portions-skin-on",
+    "name": "JC Seafood Salmon Portions Skin On 270g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/392206.jpg",
+    "source_id": "392206",
+    "barcode": "9315822117043",
+    "category_id": "22713",
+    "subcategory_id": "22713",
+    "subsubcategory_id": "23984",
+    "shop": "Woolworths",
+    "weight": "270g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1600",
+        "price_per_unit": "5926",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kb's-salmon-portions-with-sweet-chilli-and-lime-275g-6388879",
+    "name": "Kb's Salmon Portions With Sweet Chilli & Lime | 275g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6388879.jpg&w=640&q=90",
+    "source_id": "6388879",
+    "barcode": "9315822117159",
+    "category_id": "22713",
+    "subcategory_id": "22758",
+    "subsubcategory_id": "22667",
+    "shop": "coles",
+    "weight": "275g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1600",
+        "price_per_unit": "5818",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/879908/jc-seafood-salmon-portions-sweet-chilli-lime",
+    "name": "JC Seafood Salmon Portions Sweet Chilli & Lime 275g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/879908.jpg",
+    "source_id": "879908",
+    "barcode": "9315822117159",
+    "category_id": "22713",
+    "subcategory_id": "22713",
+    "subsubcategory_id": "23984",
+    "shop": "Woolworths",
+    "weight": "275g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1500",
+        "price_per_unit": "5455",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/the-bare-bird-chicken-breast-fillet-600g-7362270",
+    "name": "The Bare Bird Chicken Breast Fillet | 600g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7362270.jpg&w=640&q=90",
+    "source_id": "7362270",
+    "barcode": "9311883022586",
+    "category_id": "22713",
+    "subcategory_id": "24024",
+    "subsubcategory_id": "24046",
+    "shop": "coles",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "2250",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "1350",
+        "price_per_unit": "2250",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1350",
+        "price_per_unit": "2250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/902837/the-bare-bird-free-range-chicken-breast-fillets",
+    "name": "The Bare Bird Free Range Chicken Breast Fillets 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/902837.jpg",
+    "source_id": "902837",
+    "barcode": "9311883022586",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "23935",
+    "shop": "Woolworths",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1150",
+        "price_per_unit": "1917",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-made-easy-slow-cooked-pork-ribs-in-bbq-sauce-650g-7438338",
+    "name": "Coles Made Easy Slow Cooked Pork Ribs In BBQ Sauce | 650g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7438338.jpg&w=640&q=90",
+    "source_id": "7438338",
+    "barcode": "9339687056446",
+    "category_id": "22713",
+    "subcategory_id": "23937",
+    "subsubcategory_id": "",
+    "shop": "coles",
+    "weight": "650g",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "1200",
+        "price_per_unit": "1846",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "1846",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "1846",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1200",
+        "price_per_unit": "1846",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "1846",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/697369/woolworths-cook-slow-cooked-pork-ribs-in-smokey-bbq-sauce",
+    "name": "Woolworths Cook Slow Cooked Pork Ribs In Smokey Bbq Sauce 650g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/697369.jpg",
+    "source_id": "697369",
+    "barcode": "9339687056446",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22720",
+    "shop": "Woolworths",
+    "weight": "650G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "2154",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "2154",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "2154",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "2154",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "2154",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "2154",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1538",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "1538",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kb-jumbo-raw-prawn-cutlets-240g-7450865",
+    "name": "KB Jumbo Raw Prawn Cutlets | 240g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7450865.jpg&w=640&q=90",
+    "source_id": "7450865",
+    "barcode": "9315822019521",
+    "category_id": "22713",
+    "subcategory_id": "22758",
+    "subsubcategory_id": "22667",
+    "shop": "coles",
+    "weight": "240g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1200",
+        "price_per_unit": "5000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/269105/jc-seafood-jumbo-raw-prawn-cutlets",
+    "name": "JC Seafood Jumbo Raw Prawn Cutlets 240g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/269105.jpg",
+    "source_id": "269105",
+    "barcode": "9315822019521",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22721",
+    "shop": "Woolworths",
+    "weight": "240g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1200",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1200",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lilydale-free-range-chicken-mince-500g-7585263",
+    "name": "Lilydale Free Range Chicken Mince | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7585263.jpg&w=640&q=90",
+    "source_id": "7585263",
+    "barcode": "9300633418946",
+    "category_id": "22713",
+    "subcategory_id": "24024",
+    "subsubcategory_id": "24046",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/705461/macro-chicken-mince-free-range",
+    "name": "Macro Chicken Mince Free Range 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/705461.jpg",
+    "source_id": "705461",
+    "barcode": "9300633418946",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "23935",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mt-barker-range-free-chicken-breast-schnitzel-500g-7908420",
+    "name": "Mt Barker Range Free Chicken Breast Schnitzel | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7908420.jpg&w=640&q=90",
+    "source_id": "7908420",
+    "barcode": "9339687206735",
+    "category_id": "22713",
+    "subcategory_id": "24024",
+    "subsubcategory_id": "24046",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "2200",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/114251/macro-free-range-chicken-breast-schnitzel",
+    "name": "Macro Free Range Chicken Breast Schnitzel 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/114251.jpg",
+    "source_id": "114251",
+    "barcode": "9339687206735",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "23935",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1150",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1150",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1150",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1150",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cooke-sea-bass-fillet-220g-8928569",
+    "name": "Cooke Sea Bass Fillet | 220g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8928569.jpg&w=640&q=90",
+    "source_id": "8928569",
+    "barcode": "9319232031418",
+    "category_id": "22713",
+    "subcategory_id": "22758",
+    "subsubcategory_id": "22667",
+    "shop": "coles",
+    "weight": "220g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "7273",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/119310/cooke-seafood-spanish-sea-bass",
+    "name": "Cooke Seafood Spanish Sea Bass 220g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/119310.jpg",
+    "source_id": "119310",
+    "barcode": "9319232031418",
+    "category_id": "22713",
+    "subcategory_id": "22713",
+    "subsubcategory_id": "23984",
+    "shop": "Woolworths",
+    "weight": "220g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "7273",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "7273",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/steggles-turkey-mince-500g-9277808",
+    "name": "Steggles Turkey Mince | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9277808.jpg&w=640&q=90",
+    "source_id": "9277808",
+    "barcode": "9310037149216",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22717",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/310742/ingham-s-turkey-mince",
+    "name": "Ingham's Turkey Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/310742.jpg",
+    "source_id": "310742",
+    "barcode": "9310037149216",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

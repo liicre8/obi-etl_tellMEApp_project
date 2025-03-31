@@ -1,0 +1,4196 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/clive-of-india-curry-powder-100g-121297",
+    "name": "Clive of India Curry Powder | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F121297.jpg&w=640&q=90",
+    "source_id": "121297",
+    "barcode": "9310061061225",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/30015/clive-of-india-curry-powder",
+    "name": "Clive Of India Curry Powder 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/030015.jpg",
+    "source_id": "30015",
+    "barcode": "9310061061225",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "35",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-basil-15g-287405",
+    "name": "Hoyts Basil | 15g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F287405.jpg&w=640&q=90",
+    "source_id": "287405",
+    "barcode": "9300725001032",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "15g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "215",
+        "price_per_unit": "143",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94627/hoyt-s-basil",
+    "name": "Hoyt's Basil 15G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094627.jpg",
+    "source_id": "94627",
+    "barcode": "9300725001032",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "15G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "215",
+        "price_per_unit": "143",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "215",
+        "price_per_unit": "143",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-crushed-dried-chilli-100g-5269841",
+    "name": "Hoyts Crushed Dried Chilli | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5269841.jpg&w=640&q=90",
+    "source_id": "5269841",
+    "barcode": "9300725008901",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "55",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/210624/hoyt-s-chilli-dried-crushed",
+    "name": "Hoyt's Chilli Dried Crushed 100G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/210624.jpg",
+    "source_id": "210624",
+    "barcode": "9300725008901",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "55",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "55",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-dry-hot-chillies-25g-287201",
+    "name": "Hoyts Dry Hot Chillies | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F287201.jpg&w=640&q=90",
+    "source_id": "287201",
+    "barcode": "9300725001704",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "88",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/97190/hoyt-s-chilli-dry",
+    "name": "Hoyt's Chilli Dry 25G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/097190.jpg",
+    "source_id": "97190",
+    "barcode": "9300725001704",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "25G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "88",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "88",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-chilli-powder-50g-318021",
+    "name": "Hoyts Chilli Powder | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F318021.jpg&w=640&q=90",
+    "source_id": "318021",
+    "barcode": "9300725001094",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "40",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94630/hoyt-s-chilli-powder",
+    "name": "Hoyt's Chilli Powder 50G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094630.jpg",
+    "source_id": "94630",
+    "barcode": "9300725001094",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "50G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-chives-15g-287121",
+    "name": "Hoyts Chives | 15g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F287121.jpg&w=640&q=90",
+    "source_id": "287121",
+    "barcode": "9300725001100",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "15g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "160",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94631/hoyt-s-chives",
+    "name": "Hoyt's Chives 15G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094631.jpg",
+    "source_id": "94631",
+    "barcode": "9300725001100",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "15G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "160",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "160",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-dutch-cinnamon-25g-287187",
+    "name": "Hoyts Dutch Cinnamon | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F287187.jpg&w=640&q=90",
+    "source_id": "287187",
+    "barcode": "9300725001117",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "72",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94632/hoyt-s-cinnamon-dutch-ground",
+    "name": "Hoyt's Cinnamon Dutch Ground 25G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094632.jpg",
+    "source_id": "94632",
+    "barcode": "9300725001117",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "25G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "72",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "72",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-cinnamon-sticks-45g-2480541",
+    "name": "Hoyts Cinnamon Sticks | 45g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2480541.jpg&w=640&q=90",
+    "source_id": "2480541",
+    "barcode": "9300725012625",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "45g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "133",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/574874/hoyt-s-cinnamon-sticks",
+    "name": "Hoyt's Cinnamon Sticks 45G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/574874.jpg",
+    "source_id": "574874",
+    "barcode": "9300725012625",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "45G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-whole-cloves-15g-287460",
+    "name": "Hoyts Whole Cloves | 15g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F287460.jpg&w=640&q=90",
+    "source_id": "287460",
+    "barcode": "9300725001131",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "15g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "120",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94634/hoyt-s-cloves-whole",
+    "name": "Hoyt's Cloves Whole 15G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094634.jpg",
+    "source_id": "94634",
+    "barcode": "9300725001131",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "15G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-ground-coriander-25g-287008",
+    "name": "Hoyts Ground Coriander | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F287008.jpg&w=640&q=90",
+    "source_id": "287008",
+    "barcode": "9300725001636",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "78",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94635/hoyt-s-coriander-ground",
+    "name": "Hoyt's Coriander Ground 25G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094635.jpg",
+    "source_id": "94635",
+    "barcode": "9300725001636",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "25G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-whole-coriander-seeds-25g-287165",
+    "name": "Hoyts Whole Coriander Seeds | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F287165.jpg&w=640&q=90",
+    "source_id": "287165",
+    "barcode": "9300725001148",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "135",
+        "price_per_unit": "54",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/20399/hoyt-s-coriander-seed-whole",
+    "name": "Hoyt's Coriander Seed Whole 25G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/020399.jpg",
+    "source_id": "20399",
+    "barcode": "9300725001148",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "25G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "155",
+        "price_per_unit": "62",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "155",
+        "price_per_unit": "62",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-ground-cumin-25g-287143",
+    "name": "Hoyts Ground Cumin | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F287143.jpg&w=640&q=90",
+    "source_id": "287143",
+    "barcode": "9300725001643",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "92",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94636/hoyt-s-cumin-ground",
+    "name": "Hoyt's Cumin Ground 25G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094636.jpg",
+    "source_id": "94636",
+    "barcode": "9300725001643",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "25G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-whole-cumin-seeds-25g-287132",
+    "name": "Hoyts Whole Cumin Seeds | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F287132.jpg&w=640&q=90",
+    "source_id": "287132",
+    "barcode": "9300725001155",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "90",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/20380/hoyt-s-cumin-seeds-whole",
+    "name": "Hoyt's Cumin Seeds Whole 25G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/020380.jpg",
+    "source_id": "20380",
+    "barcode": "9300725001155",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "25G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "90",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "90",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-mild-curry-powder-50g-475959",
+    "name": "Hoyts Mild Curry Powder | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F475959.jpg&w=640&q=90",
+    "source_id": "475959",
+    "barcode": "9300725002213",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "46",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/716890/hoyt-s-curry-powder-mild",
+    "name": "Hoyt's Curry Powder Mild 50G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/716890.jpg",
+    "source_id": "716890",
+    "barcode": "9300725002213",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "50G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "205",
+        "price_per_unit": "41",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "205",
+        "price_per_unit": "41",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-dried-garlic-40g-287052",
+    "name": "Hoyts Dried Garlic | 40g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F287052.jpg&w=640&q=90",
+    "source_id": "287052",
+    "barcode": "9300725001223",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "55",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/70288/hoyt-s-garlic-granules",
+    "name": "Hoyt's Garlic Granules 40G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/070288.jpg",
+    "source_id": "70288",
+    "barcode": "9300725001223",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "40G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "55",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "55",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-garlic-powder-25g-287041",
+    "name": "Hoyts Garlic Powder | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F287041.jpg&w=640&q=90",
+    "source_id": "287041",
+    "barcode": "9300725001193",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "64",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94637/hoyt-s-garlic-powder",
+    "name": "Hoyt's Garlic Powder 25G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094637.jpg",
+    "source_id": "94637",
+    "barcode": "9300725001193",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "25G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "64",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "64",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-italian-mix-herbs-140g-2480508",
+    "name": "Hoyts Italian Mix Herbs | 140g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2480508.jpg&w=640&q=90",
+    "source_id": "2480508",
+    "barcode": "9300725012564",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "140g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "43",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/574876/hoyt-s-italian-herb-mix",
+    "name": "Hoyt's Italian Herb Mix 140G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/574876.jpg",
+    "source_id": "574876",
+    "barcode": "9300725012564",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "140G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "39",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "39",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-italian-herb-mix-35g-9495081",
+    "name": "Hoyts Italian Herb Mix | 35g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9495081.jpg&w=640&q=90",
+    "source_id": "9495081",
+    "barcode": "9300725007911",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "35g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "91",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/210354/hoyt-s-italian-herb-mix",
+    "name": "Hoyt's Italian Herb Mix 35G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/210354.jpg",
+    "source_id": "210354",
+    "barcode": "9300725007911",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "35G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "91",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "91",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-mixed-herbs-25g-286843",
+    "name": "Hoyts Mixed Herbs | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F286843.jpg&w=640&q=90",
+    "source_id": "286843",
+    "barcode": "9300725001261",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "78",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94640/hoyt-s-mixed-herbs",
+    "name": "Hoyt's Mixed Herbs 25G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094640.jpg",
+    "source_id": "94640",
+    "barcode": "9300725001261",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "25G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-mixed-herbs-70g-5270035",
+    "name": "Hoyts Mixed Herbs | 70g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5270035.jpg&w=640&q=90",
+    "source_id": "5270035",
+    "barcode": "9300725002305",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "70g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "49",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33287/hoyt-s-mixed-herbs",
+    "name": "Hoyt's Mixed Herbs 70G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033287.jpg",
+    "source_id": "33287",
+    "barcode": "9300725002305",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "70G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "54",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "54",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-mixed-spice-25g-286854",
+    "name": "Hoyts Mixed Spice | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F286854.jpg&w=640&q=90",
+    "source_id": "286854",
+    "barcode": "9300725001285",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "175",
+        "price_per_unit": "70",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94641/hoyt-s-mixed-spice",
+    "name": "Hoyt's Mixed Spice 25G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094641.jpg",
+    "source_id": "94641",
+    "barcode": "9300725001285",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "25G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "175",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "175",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-ground-nutmeg-25g-287278",
+    "name": "Hoyts Ground Nutmeg | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F287278.jpg&w=640&q=90",
+    "source_id": "287278",
+    "barcode": "9300725001681",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94608/hoyt-s-nutmeg-ground",
+    "name": "Hoyt's Nutmeg Ground 25G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094608.jpg",
+    "source_id": "94608",
+    "barcode": "9300725001681",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "25G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-dried-onion-flakes-40g-287289",
+    "name": "Hoyts Dried Onion Flakes | 40g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F287289.jpg&w=640&q=90",
+    "source_id": "287289",
+    "barcode": "9300725001339",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "50",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94610/hoyt-s-onion-dried",
+    "name": "Hoyt's Onion Dried 40G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094610.jpg",
+    "source_id": "94610",
+    "barcode": "9300725001339",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "40G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "50",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "50",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-oregano-25g-287314",
+    "name": "Hoyts Oregano | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F287314.jpg&w=640&q=90",
+    "source_id": "287314",
+    "barcode": "9300725001346",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "80",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94612/hoyt-s-oregano",
+    "name": "Hoyt's Oregano 25G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094612.jpg",
+    "source_id": "94612",
+    "barcode": "9300725001346",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "25G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "80",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "80",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-oregano-60g-5269874",
+    "name": "Hoyts Oregano | 60g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5269874.jpg&w=640&q=90",
+    "source_id": "5269874",
+    "barcode": "9300725002329",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "60g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "295",
+        "price_per_unit": "49",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/57055/hoyt-s-oregano",
+    "name": "Hoyt's Oregano 60G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/057055.jpg",
+    "source_id": "57055",
+    "barcode": "9300725002329",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "60G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "55",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "55",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-hungarian-sweet-paprika-100g-286956",
+    "name": "Hoyts Hungarian Sweet Paprika | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F286956.jpg&w=640&q=90",
+    "source_id": "286956",
+    "barcode": "9300725001377",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "285",
+        "price_per_unit": "29",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94613/hoyt-s-paprika-sweet",
+    "name": "Hoyt's Paprika Sweet 100G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094613.jpg",
+    "source_id": "94613",
+    "barcode": "9300725001377",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "285",
+        "price_per_unit": "29",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "285",
+        "price_per_unit": "29",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-sweet-paprika-190g-5269900",
+    "name": "Hoyts Sweet Paprika | 190g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5269900.jpg&w=640&q=90",
+    "source_id": "5269900",
+    "barcode": "9300725002374",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "190g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "410",
+        "price_per_unit": "22",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/57056/hoyt-s-paprika-sweet",
+    "name": "Hoyt's Paprika Sweet 190G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/057056.jpg",
+    "source_id": "57056",
+    "barcode": "9300725002374",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "190G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "24",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "24",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-parsley-15g-286934",
+    "name": "Hoyts Parsley | 15g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F286934.jpg&w=640&q=90",
+    "source_id": "286934",
+    "barcode": "9300725001421",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "15g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "133",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94616/hoyt-s-parsley",
+    "name": "Hoyt's Parsley 15G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094616.jpg",
+    "source_id": "94616",
+    "barcode": "9300725001421",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "15G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-whole-black-pepper-100g-318214",
+    "name": "Hoyts Whole Black Pepper | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F318214.jpg&w=640&q=90",
+    "source_id": "318214",
+    "barcode": "9300725001452",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "50",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94618/hoyt-s-pepper-black-whole",
+    "name": "Hoyt's Pepper Black Whole 100G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094618.jpg",
+    "source_id": "94618",
+    "barcode": "9300725001452",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "50",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "50",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-poppy-seeds-100g-287482",
+    "name": "Hoyts Poppy Seeds | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F287482.jpg&w=640&q=90",
+    "source_id": "287482",
+    "barcode": "9300725001520",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "23",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/70361/hoyt-s-poppy-seed",
+    "name": "Hoyt's Poppy Seed 100G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/070361.jpg",
+    "source_id": "70361",
+    "barcode": "9300725001520",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "23",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "23",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-poppy-seeds-240g-5270079",
+    "name": "Hoyts Poppy Seeds | 240g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5270079.jpg&w=640&q=90",
+    "source_id": "5270079",
+    "barcode": "9300725011345",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "240g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "21",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/210623/hoyt-s-poppy-seed",
+    "name": "Hoyt's Poppy Seed 240G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/210623.jpg",
+    "source_id": "210623",
+    "barcode": "9300725011345",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "240G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "21",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "21",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-rosemary-25g-287493",
+    "name": "Hoyts Rosemary | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F287493.jpg&w=640&q=90",
+    "source_id": "287493",
+    "barcode": "9300725001537",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "68",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94620/hoyt-s-rosemary",
+    "name": "Hoyt's Rosemary 25g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094620.jpg",
+    "source_id": "94620",
+    "barcode": "9300725001537",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "68",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "68",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-lemon-pepper-50g-276690",
+    "name": "Hoyts Lemon Pepper | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F276690.jpg&w=640&q=90",
+    "source_id": "276690",
+    "barcode": "9300725002299",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "52",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/70348/hoyt-s-seasoning-lemon-pepper",
+    "name": "Hoyt's Seasoning Lemon & Pepper 50G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/070348.jpg",
+    "source_id": "70348",
+    "barcode": "9300725002299",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "50G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "52",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "52",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-sesame-seeds-100g-286887",
+    "name": "Hoyts Sesame Seeds | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F286887.jpg&w=640&q=90",
+    "source_id": "286887",
+    "barcode": "9300725001568",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94622/hoyt-s-sesame-seeds",
+    "name": "Hoyt's Sesame Seeds 100G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094622.jpg",
+    "source_id": "94622",
+    "barcode": "9300725001568",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-sesame-seeds-230g-5448578",
+    "name": "Hoyts Sesame Seeds | 230g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5448578.jpg&w=640&q=90",
+    "source_id": "5448578",
+    "barcode": "9300725002596",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "230g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "23",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/8675/hoyt-s-sesame-seeds-jar",
+    "name": "Hoyt's Sesame Seeds Jar 230G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/008675.jpg",
+    "source_id": "8675",
+    "barcode": "9300725002596",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "230G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "20",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "20",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-star-anise-12g-9087960",
+    "name": "Hoyts Star Anise | 12g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9087960.jpg&w=640&q=90",
+    "source_id": "9087960",
+    "barcode": "9300725012120",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "12g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "217",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/279821/hoyt-s-star-anise-whole",
+    "name": "Hoyt's Star Anise Whole 12G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/279821.jpg",
+    "source_id": "279821",
+    "barcode": "9300725012120",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "12G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "217",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "217",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-thyme-15g-286901",
+    "name": "Hoyts Thyme | 15g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F286901.jpg&w=640&q=90",
+    "source_id": "286901",
+    "barcode": "9300725001582",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "15g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "107",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94624/hoyt-s-thyme",
+    "name": "Hoyt's Thyme 15G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094624.jpg",
+    "source_id": "94624",
+    "barcode": "9300725001582",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "15G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "107",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "107",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-turmeric-powder-ground-140g-2480552",
+    "name": "Hoyts Turmeric Powder Ground | 140g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2480552.jpg&w=640&q=90",
+    "source_id": "2480552",
+    "barcode": "9300725012182",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "140g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "39",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/574896/hoyt-s-turmeric",
+    "name": "Hoyt's Turmeric 140G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/574896.jpg",
+    "source_id": "574896",
+    "barcode": "9300725012182",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "140G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "39",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "39",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-turmeric-25g-286912",
+    "name": "Hoyts Turmeric | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F286912.jpg&w=640&q=90",
+    "source_id": "286912",
+    "barcode": "9300725001599",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "72",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94625/hoyt-s-turmeric",
+    "name": "Hoyt's Turmeric 25G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094625.jpg",
+    "source_id": "94625",
+    "barcode": "9300725001599",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "25G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "72",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "72",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-vanillin-sugar-25g-287529",
+    "name": "Hoyts Vanillin Sugar | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F287529.jpg&w=640&q=90",
+    "source_id": "287529",
+    "barcode": "9300725001759",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "60",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/92804/hoyt-s-vanilla-sugar",
+    "name": "Hoyt's Vanilla Sugar 25G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/092804.jpg",
+    "source_id": "92804",
+    "barcode": "9300725001759",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "25G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/keens-curry-powder-60g-121275",
+    "name": "Keens Curry Powder | 60g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F121275.jpg&w=640&q=90",
+    "source_id": "121275",
+    "barcode": "9300683071559",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "60g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "72",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33280/keen-s-traditional-curry-powder",
+    "name": "Keen's Traditional Curry Powder 60g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033280.jpg",
+    "source_id": "33280",
+    "barcode": "9300683071559",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "60g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "72",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "72",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-salt-all-purpose-blend-38g-6764697",
+    "name": "Masterfoods Salt All Purpose Blend | 38g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6764697.jpg&w=640&q=90",
+    "source_id": "6764697",
+    "barcode": "9310012062448",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "38g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "72",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/504813/masterfoods-all-purpose-blend-no-added-salt",
+    "name": "Masterfoods All Purpose Blend No Added Salt 38g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/504813.jpg",
+    "source_id": "504813",
+    "barcode": "9310012062448",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "38g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "92",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-all-purpose-pepper-seasoning-50g-7841738",
+    "name": "MasterFoods All Purpose Pepper Seasoning | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7841738.jpg&w=640&q=90",
+    "source_id": "7841738",
+    "barcode": "9310012036081",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/355478/masterfoods-all-purpose-pepper-seasoning",
+    "name": "MasterFoods All Purpose Pepper Seasoning 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/355478.jpg",
+    "source_id": "355478",
+    "barcode": "9310012036081",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "50G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-all-purpose-seasoning-65g-316150",
+    "name": "MasterFoods All Purpose Seasoning | 65g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F316150.jpg&w=640&q=90",
+    "source_id": "316150",
+    "barcode": "93716765",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "65g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "46",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32857/masterfoods-all-purpose-seasoning",
+    "name": "MasterFoods All Purpose Seasoning 65g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/032857.jpg",
+    "source_id": "32857",
+    "barcode": "93716765",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "65G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "54",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "54",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-basil-leaves-10g-318451",
+    "name": "MasterFoods Basil Leaves | 10g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F318451.jpg&w=640&q=90",
+    "source_id": "318451",
+    "barcode": "93716277",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "10g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/35961/masterfoods-basil-leaves",
+    "name": "MasterFoods Basil Leaves 10g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/035961.jpg",
+    "source_id": "35961",
+    "barcode": "93716277",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-avocado-smash-spice-blend-30g-5119984",
+    "name": "Masterfoods Avocado Smash Spice Blend | 30g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5119984.jpg&w=640&q=90",
+    "source_id": "5119984",
+    "barcode": "9310012061922",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "30g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/235502/masterfoods-cafe-style-avocado-smash-spice-blend",
+    "name": "MasterFoods Cafe Style Avocado Smash Spice Blend 30g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/235502.jpg",
+    "source_id": "235502",
+    "barcode": "9310012061922",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "30g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-everything-eggs-spice-blend-30g-5119995",
+    "name": "Masterfoods Everything Eggs Spice Blend | 30g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5119995.jpg&w=640&q=90",
+    "source_id": "5119995",
+    "barcode": "9310012061908",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "30g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "133",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/235114/masterfoods-cafe-style-everything-eggs-spice-blend",
+    "name": "MasterFoods Cafe Style Everything Eggs Spice Blend 30g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/235114.jpg",
+    "source_id": "235114",
+    "barcode": "9310012061908",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "30g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-hot-cajun-seasoning-35g-5451823",
+    "name": "MasterFoods Hot Cajun Seasoning | 35g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5451823.jpg&w=640&q=90",
+    "source_id": "5451823",
+    "barcode": "93782555",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "35g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "129",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/44765/masterfoods-cajun-seasoning",
+    "name": "MasterFoods Cajun Seasoning 35g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/044765.jpg",
+    "source_id": "44765",
+    "barcode": "93782555",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "35g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-celery-salt-57g-318462",
+    "name": "MasterFoods Celery Salt | 57g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F318462.jpg&w=640&q=90",
+    "source_id": "318462",
+    "barcode": "93716734",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "57g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "53",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32758/masterfoods-celery-salt",
+    "name": "MasterFoods Celery Salt 57g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/032758.jpg",
+    "source_id": "32758",
+    "barcode": "93716734",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "57G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "61",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "61",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-hot-chilli-flakes-18g-5448352",
+    "name": "MasterFoods Hot Chilli Flakes | 18g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5448352.jpg&w=640&q=90",
+    "source_id": "5448352",
+    "barcode": "93782623",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "18g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "194",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/44782/masterfoods-chilli-flakes",
+    "name": "MasterFoods Chilli Flakes 18g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/044782.jpg",
+    "source_id": "44782",
+    "barcode": "93782623",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "18G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-cinnamon-sugar-55g-318597",
+    "name": "MasterFoods Cinnamon Sugar | 55g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F318597.jpg&w=640&q=90",
+    "source_id": "318597",
+    "barcode": "93716703",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "55g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "45",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/35941/masterfoods-cinnamon-sugar",
+    "name": "MasterFoods Cinnamon Sugar 55g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/035941.jpg",
+    "source_id": "35941",
+    "barcode": "93716703",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "55G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "64",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "64",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-coriander-leaves-5g-328218",
+    "name": "MasterFoods Coriander Leaves | 5g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F328218.jpg&w=640&q=90",
+    "source_id": "328218",
+    "barcode": "93782159",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "5g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/23031/masterfoods-coriander-leaves",
+    "name": "MasterFoods Coriander Leaves 5g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/023031.jpg",
+    "source_id": "23031",
+    "barcode": "93782159",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "5G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-whole-fennel-seeds-26g-9755579",
+    "name": "MasterFoods Whole Fennel Seeds | 26g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9755579.jpg&w=640&q=90",
+    "source_id": "9755579",
+    "barcode": "9310012029564",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "26g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "146",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/209986/masterfoods-fennel-seed-whole",
+    "name": "MasterFoods Fennel Seed Whole 26g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/209986.jpg",
+    "source_id": "209986",
+    "barcode": "9310012029564",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "26G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "135",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "135",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-garlic-and-herb-salt-62g-7237926",
+    "name": "MasterFoods Garlic & Herb Salt | 62g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7237926.jpg&w=640&q=90",
+    "source_id": "7237926",
+    "barcode": "93716864",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "62g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "56",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/50748/masterfoods-garlic-herb-salt-seasoning-salt",
+    "name": "MasterFoods Garlic & Herb Salt Seasoning 62g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/050748.jpg",
+    "source_id": "50748",
+    "barcode": "93716864",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "62g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-garlic-granules-45g-6841561",
+    "name": "Masterfoods Garlic Granules | 45g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6841561.jpg&w=640&q=90",
+    "source_id": "6841561",
+    "barcode": "9310012062325",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "45g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "78",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/260587/masterfoods-garlic-granules",
+    "name": "MasterFoods Garlic Granules 45g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/260587.jpg",
+    "source_id": "260587",
+    "barcode": "9310012062325",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "45g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-garlic-powder-155g-163719",
+    "name": "MasterFoods Garlic Powder | 155g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F163719.jpg&w=640&q=90",
+    "source_id": "163719",
+    "barcode": "93716857",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "155g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "42",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94489/masterfoods-garlic-powder",
+    "name": "MasterFoods Garlic Powder 155g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094489.jpg",
+    "source_id": "94489",
+    "barcode": "93716857",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "155G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "42",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "42",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-ground-cardamom-35g-8602120",
+    "name": "MasterFoods Ground Cardamom | 35g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8602120.jpg&w=640&q=90",
+    "source_id": "8602120",
+    "barcode": "93718905",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "35g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "143",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/117307/masterfoods-ground-cardamom",
+    "name": "MasterFoods Ground Cardamom 35g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/117307.jpg",
+    "source_id": "117307",
+    "barcode": "93718905",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "35G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-ground-hot-chillies-27g-318553",
+    "name": "MasterFoods Ground Hot Chillies | 27g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F318553.jpg&w=640&q=90",
+    "source_id": "318553",
+    "barcode": "93716444",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "27g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "130",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/35942/masterfoods-ground-chilli-ground",
+    "name": "MasterFoods Ground Chilli 27g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/035942.jpg",
+    "source_id": "35942",
+    "barcode": "93716444",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "27g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-ground-cumin-seeds-25g-316332",
+    "name": "MasterFoods Ground Cumin Seeds | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F316332.jpg&w=640&q=90",
+    "source_id": "316332",
+    "barcode": "93716482",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32649/masterfoods-ground-cumin-seeds-cumin-seeds",
+    "name": "MasterFoods Ground Cumin Seeds 25g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/032649.jpg",
+    "source_id": "32649",
+    "barcode": "93716482",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-ground-ginger-25g-318713",
+    "name": "MasterFoods Ground Ginger | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F318713.jpg&w=640&q=90",
+    "source_id": "318713",
+    "barcode": "93716499",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "116",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32503/masterfoods-ground-ginger",
+    "name": "MasterFoods Ground Ginger 25g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/032503.jpg",
+    "source_id": "32503",
+    "barcode": "93716499",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "25G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-ground-paprika-35g-318393",
+    "name": "MasterFoods Ground Paprika | 35g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F318393.jpg&w=640&q=90",
+    "source_id": "318393",
+    "barcode": "93716536",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "35g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "83",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32775/masterfoods-ground-paprika",
+    "name": "MasterFoods Ground Paprika 35g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/032775.jpg",
+    "source_id": "32775",
+    "barcode": "93716536",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "35G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-ground-sage-leaves-20g-318746",
+    "name": "MasterFoods Ground Sage Leaves | 20g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F318746.jpg&w=640&q=90",
+    "source_id": "318746",
+    "barcode": "93716239",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "20g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "135",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/35960/masterfoods-ground-sage-leaves",
+    "name": "MasterFoods Ground Sage Leaves 20g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/035960.jpg",
+    "source_id": "35960",
+    "barcode": "93716239",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "20G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-ground-turmeric-28g-316354",
+    "name": "MasterFoods Ground Turmeric | 28g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F316354.jpg&w=640&q=90",
+    "source_id": "316354",
+    "barcode": "93716611",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "28g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "104",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33982/masterfoods-ground-turmeric-ground",
+    "name": "MasterFoods Ground Turmeric 28g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033982.jpg",
+    "source_id": "33982",
+    "barcode": "93716611",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "28g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-all-purpose-seasoning-200g-7190913",
+    "name": "MasterFoods All Purpose Seasoning | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7190913.jpg&w=640&q=90",
+    "source_id": "7190913",
+    "barcode": "9310012035503",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "33",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/342450/masterfoods-large-all-purpose-seasoning-all-purpose",
+    "name": "MasterFoods Large All Purpose Seasoning 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/342450.jpg",
+    "source_id": "342450",
+    "barcode": "9310012035503",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "33",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "33",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-tuscan-seasoning-155g-5245752",
+    "name": "MasterFoods Tuscan Seasoning | 155g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5245752.jpg&w=640&q=90",
+    "source_id": "5245752",
+    "barcode": "9310012032625",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "155g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "48",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/249549/masterfoods-large-tuscan-seasoning-seasoning",
+    "name": "MasterFoods Large Tuscan Seasoning 155g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/249549.jpg",
+    "source_id": "249549",
+    "barcode": "9310012032625",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "155g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "42",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "42",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-lemon-herb-and-garlic-seasoning-46g-7842220",
+    "name": "MasterFoods Lemon Herb & Garlic Seasoning | 46g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7842220.jpg&w=640&q=90",
+    "source_id": "7842220",
+    "barcode": "9310012036111",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "46g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "87",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/355479/masterfoods-lemon-herb-garlic-seasoning",
+    "name": "MasterFoods Lemon Herb & Garlic Seasoning 46g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/355479.jpg",
+    "source_id": "355479",
+    "barcode": "9310012036111",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "46G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "76",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "76",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-lemon-pepper-seasoning-52g-163923",
+    "name": "MasterFoods Lemon Pepper Seasoning | 52g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F163923.jpg&w=640&q=90",
+    "source_id": "163923",
+    "barcode": "93716680",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "52g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "77",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/35205/masterfoods-lemon-pepper-seasoning",
+    "name": "MasterFoods Lemon Pepper Seasoning 52g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/035205.jpg",
+    "source_id": "35205",
+    "barcode": "93716680",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "52G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "67",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "67",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-mexican-chilli-powder-30g-318644",
+    "name": "MasterFoods Mexican Chilli Powder | 30g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F318644.jpg&w=640&q=90",
+    "source_id": "318644",
+    "barcode": "93716512",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "30g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "140",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/36345/masterfoods-mexican-chilli-powder",
+    "name": "MasterFoods Mexican Chilli Powder 30g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/036345.jpg",
+    "source_id": "36345",
+    "barcode": "93716512",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "30G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-mixed-herbs-10g-318509",
+    "name": "MasterFoods Mixed Herbs | 10g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F318509.jpg&w=640&q=90",
+    "source_id": "318509",
+    "barcode": "93716192",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "10g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/36349/masterfoods-mixed-herb-blend",
+    "name": "MasterFoods Mixed Herb Blend 10g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/036349.jpg",
+    "source_id": "36349",
+    "barcode": "93716192",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "10g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-mixed-spice-30g-316376",
+    "name": "MasterFoods Mixed Spice | 30g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F316376.jpg&w=640&q=90",
+    "source_id": "316376",
+    "barcode": "93716659",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "30g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/35053/masterfoods-mixed-spice",
+    "name": "MasterFoods Mixed Spice 30g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/035053.jpg",
+    "source_id": "35053",
+    "barcode": "93716659",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "30G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-moroccan-seasoning-160g-5245763",
+    "name": "MasterFoods Moroccan Seasoning | 160g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5245763.jpg&w=640&q=90",
+    "source_id": "5245763",
+    "barcode": "9310012032632",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "47",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/249551/masterfoods-moroccan-seasoning",
+    "name": "MasterFoods Moroccan Seasoning 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/249551.jpg",
+    "source_id": "249551",
+    "barcode": "9310012032632",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "160G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "41",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "41",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-moroccan-mild-seasoning-47g-6835933",
+    "name": "MasterFoods Moroccan Mild Seasoning | 47g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6835933.jpg&w=640&q=90",
+    "source_id": "6835933",
+    "barcode": "93782050",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "47g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "96",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/93114/masterfoods-moroccan-seasoning",
+    "name": "MasterFoods Moroccan Seasoning 47g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/093114.jpg",
+    "source_id": "93114",
+    "barcode": "93782050",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "47g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "74",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "74",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-onion-flakes-100g-318881",
+    "name": "MasterFoods Onion Flakes | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F318881.jpg&w=640&q=90",
+    "source_id": "318881",
+    "barcode": "93716048",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "68",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/38077/masterfoods-onion-flakes",
+    "name": "MasterFoods Onion Flakes 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/038077.jpg",
+    "source_id": "38077",
+    "barcode": "93716048",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-onion-powder-40g-318633",
+    "name": "MasterFoods Onion Powder | 40g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F318633.jpg&w=640&q=90",
+    "source_id": "318633",
+    "barcode": "93716642",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "95",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/35389/masterfoods-onion-powder",
+    "name": "MasterFoods Onion Powder 40g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/035389.jpg",
+    "source_id": "35389",
+    "barcode": "93716642",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "40G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "88",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "88",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-oregano-leaves-18g-163730",
+    "name": "MasterFoods Oregano Leaves | 18g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F163730.jpg&w=640&q=90",
+    "source_id": "163730",
+    "barcode": "93716871",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "18g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "322",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94484/masterfoods-oregano-leaves",
+    "name": "MasterFoods Oregano Leaves 18g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094484.jpg",
+    "source_id": "94484",
+    "barcode": "93716871",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "18G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "361",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "361",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-regular-oregano-leaves-5g-163945",
+    "name": "MasterFoods Regular Oregano Leaves | 5g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F163945.jpg&w=640&q=90",
+    "source_id": "163945",
+    "barcode": "93716123",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "5g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "540",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/35398/masterfoods-oregano-leaves",
+    "name": "MasterFoods Oregano Leaves 5g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/035398.jpg",
+    "source_id": "35398",
+    "barcode": "93716123",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "5G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-parsley-flakes-4g-5341122",
+    "name": "MasterFoods Parsley Flakes | 4g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5341122.jpg&w=640&q=90",
+    "source_id": "5341122",
+    "barcode": "93716222",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "4g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/59265/masterfoods-parsley-flakes",
+    "name": "MasterFoods Parsley Flakes 4G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/059265.jpg",
+    "source_id": "59265",
+    "barcode": "93716222",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "4G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "875",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "875",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-perfect-for-chicken-spice-blend-20g-5119907",
+    "name": "Masterfoods Perfect For Chicken Spice Blend | 20g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5119907.jpg&w=640&q=90",
+    "source_id": "5119907",
+    "barcode": "9310012061243",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "20g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "75",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/234786/masterfoods-perfect-for-chicken-spice-blend",
+    "name": "MasterFoods Perfect For Chicken Spice Blend 20g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/234786.jpg",
+    "source_id": "234786",
+    "barcode": "9310012061243",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "20g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-portuguese-chicken-seasoning-50g-9756119",
+    "name": "MasterFoods Portuguese Chicken Seasoning | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9756119.jpg&w=640&q=90",
+    "source_id": "9756119",
+    "barcode": "9310012029847",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/210007/masterfoods-portuguese-chicken-seasoning",
+    "name": "MasterFoods Portuguese Chicken Seasoning 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/210007.jpg",
+    "source_id": "210007",
+    "barcode": "9310012029847",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "50G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-pure-saffron-0.25g-4289548",
+    "name": "MasterFoods Pure Saffron | 0.25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4289548.jpg&w=640&q=90",
+    "source_id": "4289548",
+    "barcode": "9310012060017",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "0.25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1490",
+        "price_per_unit": "59600",
+        "price_unit": ".g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/170748/masterfoods-pure-saffron",
+    "name": "MasterFoods Pure Saffron 250mg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/170748.jpg",
+    "source_id": "170748",
+    "barcode": "9310012060017",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "250mg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1490",
+        "price_per_unit": "59600",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "1490",
+        "price_per_unit": "59600",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-rosemary-leaves-16g-318542",
+    "name": "MasterFoods Rosemary Leaves | 16g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F318542.jpg&w=640&q=90",
+    "source_id": "318542",
+    "barcode": "93716284",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "16g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "138",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/35959/masterfoods-rosemary-leaves",
+    "name": "MasterFoods Rosemary Leaves 16g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/035959.jpg",
+    "source_id": "35959",
+    "barcode": "93716284",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "16G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "219",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "219",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-sesame-seeds-37g-316343",
+    "name": "MasterFoods Sesame Seeds | 37g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F316343.jpg&w=640&q=90",
+    "source_id": "316343",
+    "barcode": "93716604",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "37g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "95",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/35946/masterfoods-sesame-seeds",
+    "name": "MasterFoods Sesame Seeds 37g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/035946.jpg",
+    "source_id": "35946",
+    "barcode": "93716604",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "37G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "95",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "95",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-smoked-paprika-35g-9755739",
+    "name": "MasterFoods Smoked Paprika | 35g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9755739.jpg&w=640&q=90",
+    "source_id": "9755739",
+    "barcode": "9310012049234",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "35g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/580620/masterfoods-smoked-paprika",
+    "name": "MasterFoods Smoked Paprika 35g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/580620.jpg",
+    "source_id": "580620",
+    "barcode": "9310012049234",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "35G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-steak-seasoning-45g-368733",
+    "name": "MasterFoods Steak Seasoning | 45g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F368733.jpg&w=640&q=90",
+    "source_id": "368733",
+    "barcode": "93716918",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "45g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "89",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/92153/masterfoods-steak-seasoning",
+    "name": "MasterFoods Steak Seasoning 45g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/092153.jpg",
+    "source_id": "92153",
+    "barcode": "93716918",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "45G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "78",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-taco-seasoning-143g-2473193",
+    "name": "MasterFoods Taco Seasoning | 143g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2473193.jpg&w=640&q=90",
+    "source_id": "2473193",
+    "barcode": "9310012047179",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "143g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "52",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/894209/masterfoods-taco-spice-blend-mild",
+    "name": "Masterfoods Taco Spice Blend Mild 143g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/894209.jpg",
+    "source_id": "894209",
+    "barcode": "9310012047179",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "143g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "45",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-thyme-leaves-10g-315668",
+    "name": "MasterFoods Thyme Leaves | 10g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F315668.jpg&w=640&q=90",
+    "source_id": "315668",
+    "barcode": "93716130",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "10g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/35399/masterfoods-thyme-leaves",
+    "name": "MasterFoods Thyme Leaves 10g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/035399.jpg",
+    "source_id": "35399",
+    "barcode": "93716130",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "10G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-whole-cumin-seeds-28g-4355937",
+    "name": "MasterFoods Whole Cumin Seeds | 28g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4355937.jpg&w=640&q=90",
+    "source_id": "4355937",
+    "barcode": "9310012031000",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "28g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/216503/masterfoods-whole-cumin-seed",
+    "name": "MasterFoods Whole Cumin Seed 28g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/216503.jpg",
+    "source_id": "216503",
+    "barcode": "9310012031000",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "28G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mccormick-grill-mates-slow-and-low-smokin-texas-bbq-rub-40g-2471879",
+    "name": "McCormick Grill Mates Slow & Low Smokin Texas BBQ Rub | 40g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2471879.jpg&w=640&q=90",
+    "source_id": "2471879",
+    "barcode": "9300683503708",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "50",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/445863/mccormick-grill-mates-smokin-texas-american-bbq-rub",
+    "name": "McCormick Grill Mates Smokin Texas American Bbq Rub 40g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/445863.jpg",
+    "source_id": "445863",
+    "barcode": "9300683503708",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "63",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "63",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mccormick-grill-mates-tennessee-smokehouse-bbq-rub-40g-2471868",
+    "name": "McCormick Grill Mates Tennessee Smokehouse BBQ Rub | 40g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2471868.jpg&w=640&q=90",
+    "source_id": "2471868",
+    "barcode": "9300683503678",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "50",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/445854/mccormick-grill-mates-tennessee-smokehouse-american-bbq-rub",
+    "name": "McCormick Grill Mates Tennessee Smokehouse American Bbq Rub 40g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/445854.jpg",
+    "source_id": "445854",
+    "barcode": "9300683503678",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "63",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "63",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-whole-black-peppercorns-refills-200g-6694194",
+    "name": "Mckenzie's Whole Black Peppercorns Refills | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6694194.jpg&w=640&q=90",
+    "source_id": "6694194",
+    "barcode": "9310061967206",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "595",
+        "price_per_unit": "30",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/320994/mckenzie-s-pepper-black-whole",
+    "name": "McKenzie's Pepper Black Whole 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/320994.jpg",
+    "source_id": "320994",
+    "barcode": "9310061967206",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "595",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "595",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-hand-picked-australian-saffron-100mg-3307542",
+    "name": "Mckenzie's Hand Picked Australian Saffron | 100mg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3307542.jpg&w=640&q=90",
+    "source_id": "3307542",
+    "barcode": "9310061122872",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "100mg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1440",
+        "price_per_unit": "100",
+        "price_unit": "mg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/827830/mckenzie-s-saffron",
+    "name": "McKenzie's Saffron 100mg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/827830.jpg",
+    "source_id": "827830",
+    "barcode": "9310061122872",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "100Mg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1440",
+        "price_per_unit": "144000",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "1440",
+        "price_per_unit": "144000",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mingle-seasoning-everything-bagel-50g-5105800",
+    "name": "Mingle Seasoning Everything Bagel | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5105800.jpg&w=640&q=90",
+    "source_id": "5105800",
+    "barcode": "9350465000697",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "495",
+        "price_per_unit": "99",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/255379/mingle-everything-bagel-all-natural-seasoning",
+    "name": "Mingle Everything Bagel All-Natural Seasoning 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/255379.jpg",
+    "source_id": "255379",
+    "barcode": "9350465000697",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "495",
+        "price_per_unit": "99",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "495",
+        "price_per_unit": "99",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mingle-garlic-and-herb-seasoning-50g-3796562",
+    "name": "Mingle Garlic and Herb Seasoning | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3796562.jpg&w=640&q=90",
+    "source_id": "3796562",
+    "barcode": "9350465009904",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "495",
+        "price_per_unit": "99",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/170002/mingle-garlic-herb-all-natural-seasoning",
+    "name": "Mingle Garlic & Herb All Natural Seasoning 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/170002.jpg",
+    "source_id": "170002",
+    "barcode": "9350465009904",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "495",
+        "price_per_unit": "99",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "495",
+        "price_per_unit": "99",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mingle-greek-garlic-seasoning-45g-6604500",
+    "name": "Mingle Greek Garlic Seasoning | 45g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6604500.jpg&w=640&q=90",
+    "source_id": "6604500",
+    "barcode": "9350465010139",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "45g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "495",
+        "price_per_unit": "110",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/488287/mingle-greek-garlic-seasoning",
+    "name": "Mingle Greek Garlic Seasoning 45g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/488287.jpg",
+    "source_id": "488287",
+    "barcode": "9350465010139",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "45g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "495",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "495",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mingle-all-purpose-seasoning-50g-3796530",
+    "name": "Mingle All Purpose Seasoning | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3796530.jpg&w=640&q=90",
+    "source_id": "3796530",
+    "barcode": "9350465009935",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "495",
+        "price_per_unit": "99",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/169031/mingle-use-me-on-everything-all-natural-seasoning",
+    "name": "Mingle Use Me On Everything All Natural Seasoning 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/169031.jpg",
+    "source_id": "169031",
+    "barcode": "9350465009935",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "495",
+        "price_per_unit": "99",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "495",
+        "price_per_unit": "99",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nando's-peri-peri-lemon-and-herb-rub-25g-2473310",
+    "name": "Nando's Peri Peri Lemon & Herb Rub | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2473310.jpg&w=640&q=90",
+    "source_id": "2473310",
+    "barcode": "5039303000832",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "136",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/581135/nando-s-lemon-herb-rub-spice-seasoning",
+    "name": "Nando's Lemon & Herb Rub Spice Seasoning 25g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/581135.jpg",
+    "source_id": "581135",
+    "barcode": "5039303000832",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nando's-peri-peri-medium-rub-25g-2473309",
+    "name": "Nando's Peri Peri Medium Rub | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2473309.jpg&w=640&q=90",
+    "source_id": "2473309",
+    "barcode": "5039303000825",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "136",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/581165/nando-s-medium-rub-spice-seasoning",
+    "name": "Nando's Medium Rub Spice Seasoning 25g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/581165.jpg",
+    "source_id": "581165",
+    "barcode": "5039303000825",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nando's-peri-peri-garlic-rub-25g-5105968",
+    "name": "Nando's Peri Peri Garlic Rub | 25g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5105968.jpg&w=640&q=90",
+    "source_id": "5105968",
+    "barcode": "5039303000856",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "136",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/232228/nando-s-peri-peri-rub-garlic-medium",
+    "name": "Nando's Peri Peri Rub Garlic Medium 25g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/232228.jpg",
+    "source_id": "232228",
+    "barcode": "5039303000856",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/saxa-pepper-black-whole-peppercorns-refill-190g-3321361",
+    "name": "Saxa Pepper Black Whole Peppercorns Refill | 190g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3321361.jpg&w=640&q=90",
+    "source_id": "3321361",
+    "barcode": "9310412003577",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "190g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "37",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/118118/saxa-black-whole-peppercorns-pepper",
+    "name": "Saxa Black Whole Peppercorns Pepper 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/118118.jpg",
+    "source_id": "118118",
+    "barcode": "9310412003577",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "190G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "37",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "37",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/table-of-plenty-dukkah-pistachio-spice-mix-45g-7123086",
+    "name": "Table Of Plenty Dukkah Pistachio Spice Mix | 45g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7123086.jpg&w=640&q=90",
+    "source_id": "7123086",
+    "barcode": "9335777001686",
+    "shop": "coles",
+    "category_id": "22844",
+    "weight": "45g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "88",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/321001/table-of-plenty-dried-spices-dukkah-pistachio",
+    "name": "Table Of Plenty Dried Spices Dukkah Pistachio 45g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/321001.jpg",
+    "source_id": "321001",
+    "barcode": "9335777001686",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "45G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "88",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "88",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/bippi-italian-style-chilli-mild-250g-5435690",
+    "name": "Bippi Italian Style Chilli Mild | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5435690.jpg&w=640&q=90",
+    "source_id": "5435690",
+    "barcode": "9369998104123",
+    "shop": "coles",
+    "category_id": "22850",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/203083/bippi-italian-style-mild-chilli",
+    "name": "Bippi Italian Style Mild Chilli 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/203083.jpg",
+    "source_id": "203083",
+    "barcode": "9369998104123",
+    "shop": "Woolworths",
+    "category_id": "22850",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1195",
+        "price_per_unit": "478",
+        "price_unit": "G"
+      }
+    ]
+  }
+]
