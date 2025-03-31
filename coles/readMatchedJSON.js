@@ -8,7 +8,7 @@ const __dirname = path.dirname(__filename);
 
 // Paths to directories
 const matchedDir = path.join(__dirname, '/matched'); // Folder with JSON files
-const outputFilePath = path.join(__dirname, 'Packed032725.json'); // Output JSON file
+const outputFilePath = path.join(__dirname, 'PackedMatched.json'); // Output JSON file
 
 // Object to store the best matches by source_id
 const bestMatches = {};

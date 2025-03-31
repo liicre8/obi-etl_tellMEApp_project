@@ -59,9 +59,10 @@ Follow these steps to set up and run the scraper:
 
   # your chrome path
   CHROME_PATH="C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1" # replace with the actual chrome path
+
   ```
 
-### 5. Start Scraping Woolworths website
+### 6. Start Scraping Woolworths website
 
 - Before running the scraper for Woolworths, ensure to run only 5 objects inside of array by commenting out other lines of code in the `CATEGORIES` array. Which located inside of `woolworths/index2.js`.
 
@@ -603,6 +604,7 @@ const CATEGORIES = [
   }
 ]
 
+
 ```
 
 - Run the following command to start scraping:
@@ -611,57 +613,85 @@ node coles/index
 ```
 note: this `coles/index` is the scraper process of the coles.
 
-- Once completed in coles, retrieve all the barcode for each product scraped in coles by running:
+## Uploading All Matched and Unmatched Products to the API.
+
+## 1. Uploading All Matched Products To The API.
+
+- Run the following commands to start Uploading `MATCHED` products to the API.
 ```bash
-node coles/ColesfetchBarcode.js
+node woolworths/getProducts coles/getProducts
 ```
-note: this `coles/ColesfetchBarcode` will allow us to retrieve the barcodes in our database and if there is no barcodes and try to fetch in API.
-
-- Once completed in coles, retrieve all the data in coles by running:
+note: This `woolworths/getProducts` `coles/getProducts` is the process to where it puts all products to a `MATCHED` file.
 ```bash
-node coles/getProducts.js
+node coles/ColesfetchBarcode 
 ```
-note: this `coles/getProducts.js` will let us retrieve all the products that have been scraped in coles.
-
-### 6. Test The Products if there is an error before passing through the API.
-
-- Test the products by running the following:
-  - For Coles:
+- This node will be used only if you have scraped newly when time for uploading.
 ```bash
-node testColes
+node coles/updateBarcodes
 ```
-note: this `testColes` will have a logs if how many products have an error to be passed and possible issue is `image_url` is empty. This will allow us to review and make sure that we have no errors in doing the data transfer to the client.
-  - For Woolworths
+Note: Delete `matched` when `matchlist` is updated.
+- This is so that the Barcodes from coles will be replaced with the barcodes from woolworths that are matched.
 ```bash
-node testWooly
+node MatchedProductsBarcode
 ```
-note: this `testWooly` will have a logs if how many products have an error to be passed and possible issue is `prices.price` didn't convert. This will allow us to review and make sure that we have no errors in doing the data transfer to the client.
+Note: Before using command make sure `matched` file is deleted on the current date that is being used.
+- It Matches both woolworths and coles products through Barcode to get all Matched products and store them to `matched` folder as JSON file.
+```bash
+node pushMatchedToAPI
+```
+- This will be the one to upload All Matched products from `matched` folder with the date that was set in the `.env` file to the API.
 
-### 7. Test first the matched Products by barcodes and Unmatched product for both C and W website.
-  ```bash
-  node compareProductsTest
-  ```
-  note: this `compareProductsTest` will only create the matched data with the product barcodes and once the test is successful if you run the `compareProductsFinal` ensure that you have deleted/clean the folder by the date you have created in you .env.
-### 8. Send the matched Products by barcodes and Unmatched product for both C and W websit through the API.
-  ```bash
-  node compareProductsFinal
-  ```
-  note: this `compareProductsFinal` will only passed the matched data with the product barcodes.
-  
-### 9. Test the similar matched Products by names or titles with 95% - 100% score through the API.
-  ```bash
-  node compareProductsSimilarityTest
-  ```
-  note: this `compareProductsSimilarityTest` will only create the matched data with the product names and all the unmatched data from both C and W to test and once the test is successful if you run the `compareProductsSimilarityFinal` ensure that you have deleted/clean the folder by the date you have created in you .env.
+### 2 Product Matching from woolworths and coles base in Name and Weight
 
-### 10. Send the matched Products by names or titles with 95% - 100% score through the API.
-  ```bash
-  node compareProductsSimilarityFinal
-  ```
-  note: this `compareProductsSimilarityFinal` will only passed the matched data with the product names and all the unmatched data from both C and W.
+- Run this Commands to start matching products That was not yet Matched.
+```bash
+node coles/getAllUnmatched
+```
+- This commands stores all unmatched products to the `UnMatchedAll` folder as JSON file.
+```bash
+node coles/packUnmatched
+```
+- This will get all products and get packed as JSON file separately by store (coles/0WoolworthsAll, coles/0ColesAll)
+```bash
+node coles/MatchingProducts
+```
+- this will Match all unmatched products and save it and store into `coles/matched` folder.
+Note: change variable inside `coles/MatchingProducts` function at this line `(nameSimilarity >= % && weightSimilarity >= % && nameSimilarity > bestScore)` with your prefered percentage. 
+Note: INPUT VALUE: integer | replace % with the actual input
+```bash
+node coles/readMatchedJSON
+```
+- this will get all unique matched with defined score and will be stored in the `PackedMatched.json` folder after the matched is confirmed to be accurate matched run the next function
+```bash
+```
+- Open `PackedMatched.json`  file to manually check one by one to see if Product images Matched, if products are not matched remove from file.
+```bash
+node coles/parseMatchedJSON
+```
+- This command Will store all Manually checked Matches into `colesOutput.json` file. Once stored copy all the key-value pair into `matchedList.json` inside `Matched_Barcodes` folder.
+```bash
+node coles/removeNewMatched
+```
+- To remove the new Matched products from the UnMatchedAll file to prevent repeating.
+```bash
+node coles/removeNewMatched2
+```
+- To remove all new matched to avoid repeating products while matching.
+note: only use if you intend to repeat and lower the matching percentage in `node coles/MatchingProducts`, and also if you're sure that the products you deleted have no matches.
+## 3.Uploading All UnMatched Products To The API
 
----
-## Notes
+- Run the Following Commands to Start Uploading `UNMATCHED` Products to the API.
+```bash
+node coles/getAllUnmatched
+```
+- This commands stores all unmatched products to the `UnMatchedAll` folder as JSON file.
+```bash
+node transformUnmatched
+```
+- This will reformat the JSON file to be accepted by the API.
+```bash
+node pushUnmatchedToAPI
+```
+- This will be the one to upload All Matched products from `UnMatchedAll` folder with the date that was set in the `.env` file to the API.
 
-- Ensure the target website allows scraping and complies with its terms of service.
-- Modify the scraper logic as needed to suit your requirements.
+
