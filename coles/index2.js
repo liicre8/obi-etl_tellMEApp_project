@@ -132,7 +132,7 @@ await client.send('Storage.clearDataForOrigin', {
            try {
                     // page = (await browser.newPage()).removeAllListeners('request');
 
-                    const SCRAPER_API_KEY = 'f0ab51d2e673344b1945ced4f6b543d0';
+                    const SCRAPER_API_KEY = '0e6c546a09c1e1d91e23cc4683a91174';
 
                     page = await browser.newPage();
                     await page.authenticate({

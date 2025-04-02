@@ -21,20 +21,20 @@ const userAgents = [
 puppeteer.use(StealthPlugin());
 (async () => {
   while (true) {
-    const browser = await puppeteer.launch({ 
+    const browser = await puppeteer.launch({
       headless: false,
       args: [
        `--proxy-server=http=api.scraperapi.com:8001`,
-        `--proxy-server=socks5://127.0.0.1:9050`
+       // `--proxy-server=socks5://127.0.0.1:9050`
       ],
       executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
-      userDataDir: 'C:\\Users\\OBI - Sunny\\AppData\\Local\\Google\\Chrome\\User Data\\Person 1',
+      userDataDir: 'C:\\Users\\OBI - Lester\\AppData\\Local\\Google\\Chrome\\User Data\\Person 1',
     });
     let page;
     while (true) {
       await delay(10000);
       page = (await browser.newPage()).removeAllListeners('request');
-      const SCRAPER_API_KEY = 'f0ab51d2e673344b1945ced4f6b543d0';
+      const SCRAPER_API_KEY = '0e6c546a09c1e1d91e23cc4683a91174';
 
       await page.authenticate({
         username: SCRAPER_API_KEY,

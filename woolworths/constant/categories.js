@@ -66,7 +66,7 @@ const categories = [
                 childItems: [
                     { extensionCategory: "Fabric Softener", subId: "22566", childId: "22567" },
                     { extensionCategory: "Ironing & Accessories", subId: "22566", childId: "22568" },
-                    { extensionCategory: "Laundry Capsules", subId: "", childId: "" },
+                    { extensionCategory: "Laundry Capsules", subId: "22566", childId: "22570" },
                     { extensionCategory: "Laundry Liquid", subId: "22566", childId: "22569" },
                     { extensionCategory: "Laundry Powder", subId: "22566", childId: "22570" },
                     { extensionCategory: "Pegs, Baskets & Hangers", subId: "22566", childId: "22572" },

@@ -8,7 +8,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Define file paths
-const keyValueFilePath = path.join(__dirname, "folder1", "matchedList.json"); // JSON Object file
+const keyValueFilePath = path.join(__dirname, "Matched_Barcodes", "matchedList.json"); // JSON Object file
 const matchedBaseDir = path.join(__dirname, `../UnMatchedAll/${process.env.FOLDER_DATE}/`); // Base directory containing nested JSON files
 
 // Ensure key-value file exists
