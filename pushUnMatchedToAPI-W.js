@@ -28,10 +28,10 @@ const fileName = "woolworthsUnMatched.json"; // adjust as needed
 const outputFilePath = path.join(__dirname, 'UnMatchedAll', folderDate, fileName);
 
 // Set the chunk size
-const chunkSize = 50;
+const chunkSize = 100;
 
 // Retrieve the starting index from the environment variables; default is 0.
-const startIndex = 0;//7265;// 7015;// 2155;
+const startIndex = 3000;
 
 // Create Keep-Alive agents
 const httpAgent = new http.Agent({ keepAlive: true });
@@ -59,18 +59,21 @@ axiosRetry(axios, {
 
     let totalProductsPushed = 0;
     let batchNumber = 1;
-
+    let batchCounter = 0;
     // Iterate over the data in chunks starting from startIndex
     const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
-    for (let i = startIndex; i < data.length; i += chunkSize) {
+    for (let i = startIndex; i < data.length && batchCounter<=3200; i += chunkSize) {
     //  await delay(2000);
       const chunk = data.slice(i, i + chunkSize);
       console.log(`🚀 Sending batch ${batchNumber} with ${chunk.length} objects (Index ${i + 1} to ${i + chunk.length} of ${data.length})`);
-
-    //   chunk.forEach((obj, index) => {
-    //     console.log(`🔹 Object ${index + 1} in batch ${batchNumber}:`, obj.name);
-    // });
-
+      chunk.forEach((obj, index) => {
+           if(index===chunkSize-1) {
+        console.log(`Last object sent:`, obj.name);
+           }
+           else if (index === 0){
+            console.log(`First object sent:`, obj.name);
+           }
+      });
       try {
         const externalApiUrl = process.env.JARROD_API;
         const apiKey = process.env.JARROD_KEY;
@@ -99,6 +102,7 @@ axiosRetry(axios, {
         }
       }
       await delay(2000);
+      batchCounter += chunkSize;
     }
     console.log(`✅ All batches processed. Total objects pushed: ${totalProductsPushed}`);
   } catch (error) {
@@ -146,7 +150,7 @@ axiosRetry(axios, {
 // }
 
 // // Set the chunk size for sending requests
-// const chunkSize = 5;
+// const chunkSize = 100;
 
 // // Create Keep-Alive agents
 // const httpAgent = new http.Agent({ keepAlive: true });
@@ -251,4 +255,3 @@ axiosRetry(axios, {
 //     console.error('❌ Error during processing:', error);
 //   }
 // })();
-

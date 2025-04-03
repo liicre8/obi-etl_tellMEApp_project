@@ -28,10 +28,10 @@ const fileName = "colesUnMatched.json"; // adjust as needed
 const outputFilePath = path.join(__dirname, 'UnMatchedAll', folderDate, fileName);
 
 // Set the chunk size
-const chunkSize = 5;
+const chunkSize = 50;
 
 // Retrieve the starting index from the environment variables; default is 0.
-const startIndex = 2292;
+const startIndex = 10600;
 
 // Create Keep-Alive agents
 const httpAgent = new http.Agent({ keepAlive: true });
@@ -65,10 +65,10 @@ axiosRetry(axios, {
     for (let i = startIndex; i < data.length; i += chunkSize) {
     //  await delay(2000);
       const chunk = data.slice(i, i + chunkSize);
-      console.log(`🚀 Sending batch ${batchNumber} with ${chunk.length} objects (Index ${i + 1} to ${i + chunk.length} of ${data.length})`);
-      chunk.forEach((obj, index) => {
-        console.log(`🔹 Object ${index + 1} in batch ${batchNumber}:`, obj.name);
-    });
+      // console.log(`🚀 Sending batch ${batchNumber} with ${chunk.length} objects (Index ${i + 1} to ${i + chunk.length} of ${data.length})`);
+      // chunk.forEach((obj, index) => {
+      //   console.log(`🔹 Object ${index + 1} in batch ${batchNumber}:`, obj.name);
+    // });
       try {
         const externalApiUrl = process.env.JARROD_API;
         const apiKey = process.env.JARROD_KEY;

@@ -13,7 +13,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Define the folder containing the JSON file
-const inputFolder = path.join(__dirname, "folder1");
+const inputFolder = path.join(__dirname, "Matched_Barcodes");
 
 // Find the first JSON file in the folder
 const jsonFiles = fs.readdirSync(inputFolder).filter(file => file.endsWith(".json"));
