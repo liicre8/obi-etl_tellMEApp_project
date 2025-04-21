@@ -163,12 +163,12 @@ const categories = [
       {
         subCategory: 'Chilled Cakes & Desserts',
         childItems: [
-          { subId: '', childId: '', extensionCategory: '2 Pack & Individual Serve Desserts', url: 'https:www.coles.com.au/browse/bakery/chilled-cakes-desserts/2-pack-individual-serve-desserts' },
-          { subId: '', childId: '', extensionCategory: 'Birthday & Celebration Cakes', url: 'https:www.coles.com.au/browse/bakery/chilled-cakes-desserts/birthday-celebration-cakes' },
-          { subId: '', childId: '', extensionCategory: 'Cheesecakes', url: 'https:www.coles.com.au/browse/bakery/chilled-cakes-desserts/cheesecakes' },
-          { subId: '', childId: '', extensionCategory: 'Cream Cakes', url: 'https:www.coles.com.au/browse/bakery/chilled-cakes-desserts/cream-cakes' },
-          { subId: '', childId: '', extensionCategory: 'Pavlova & Meringue', url: 'https:www.coles.com.au/browse/bakery/chilled-cakes-desserts/pavlova-meringue' },
-          { subId: '', childId: '', extensionCategory: 'Tarts & Pies', url: 'https:www.coles.com.au/browse/bakery/chilled-cakes-desserts/tarts-pies' },
+          { subId: '22062', childId: '22068', extensionCategory: '2 Pack & Individual Serve Desserts', url: 'https:www.coles.com.au/browse/bakery/chilled-cakes-desserts/2-pack-individual-serve-desserts' },
+          { subId: '22074', childId: '22076', extensionCategory: 'Birthday & Celebration Cakes', url: 'https:www.coles.com.au/browse/bakery/chilled-cakes-desserts/birthday-celebration-cakes' },
+          { subId: '22074', childId: '22076', extensionCategory: 'Cheesecakes', url: 'https:www.coles.com.au/browse/bakery/chilled-cakes-desserts/cheesecakes' },
+          { subId: '22074', childId: '22076', extensionCategory: 'Cream Cakes', url: 'https:www.coles.com.au/browse/bakery/chilled-cakes-desserts/cream-cakes' },
+          { subId: '22062', childId: '22068', extensionCategory: 'Pavlova & Meringue', url: 'https:www.coles.com.au/browse/bakery/chilled-cakes-desserts/pavlova-meringue' },
+          { subId: '22062', childId: '22068', extensionCategory: 'Tarts & Pies', url: 'https:www.coles.com.au/browse/bakery/chilled-cakes-desserts/tarts-pies' },
         ],
       },
       {
@@ -1724,10 +1724,11 @@ const categories = [
         subCategory: 'Bbq, Sausages & Burgers',
         childItems: [
           { subId: '22714', childId: '22716', extensionCategory: 'Burgers & Rissoles', url: 'https:www.coles.com.au/browse/meat-seafood/bbq-sausages-burgers/burgers-rissoles' },
-          { subId: '22714', childId: '23935', extensionCategory: 'Kebabs', url: 'https:www.coles.com.au/browse/meat-seafood/bbq-sausages-burgers/kebabs' },
+          { subId: '22714', childId: '23935', extensionCategory: 'Kebabs', url: 'https://www.coles.com.au/browse/meat-seafood/bbq-sausages-burgers/kebabs' },
           { subId: '22714', childId: '22716', extensionCategory: 'Meatballs', url: 'https:www.coles.com.au/browse/meat-seafood/bbq-sausages-burgers/meatballs' },
           { subId: '22714', childId: '22716', extensionCategory: 'Sausage Mince', url: 'https:www.coles.com.au/browse/meat-seafood/bbq-sausages-burgers/sausage-mince' },
           { subId: '22714', childId: '22716', extensionCategory: 'Sausages', url: 'https:www.coles.com.au/browse/meat-seafood/bbq-sausages-burgers/sausages' },
+          { subId: '22714', childId: '22716', extensionCategory: 'Bbq Meat & Seafood', url: 'https://www.coles.com.au/browse/easter/easter-bbq-entertaining/bbq-meat-seafood' },
         ],
       },
       {
@@ -1742,6 +1743,7 @@ const categories = [
           { subId: '22714', childId: '22720', extensionCategory: 'Slow Cook & Casserole Beef', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/slow-cook-casserole-beef' },
           { subId: '22714', childId: '22720', extensionCategory: 'Stir Fry & Diced Beef', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/stir-fry-diced-beef' },
           { subId: '22714', childId: '22720', extensionCategory: 'Veal', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/veal' },
+          { subId: '22714', childId: '22720', extensionCategory: 'Easter Meat & Seafood', url: 'https://www.coles.com.au/browse/easter/traditional-easter-lunch/easter-meat-seafood' },
         ],
       },
       {
@@ -1835,7 +1837,7 @@ const categories = [
         subCategory: 'Seafood',
         childItems: [
           { subId: '22758', childId: '22761', extensionCategory: 'Deli Fish', url: 'https:www.coles.com.au/browse/meat-seafood/seafood/deli-fish' },
-          { subId: '22758', childId: '22758', extensionCategory: 'Deli Marinara Mix and Other Seafood', url: 'https:www.coles.com.au/browse/meat-seafood/seafood/deli-marinara-mix-and-other-seafood' },
+          { subId: '22758', childId: '22764', extensionCategory: 'Deli Marinara Mix and Other Seafood', url: 'https:www.coles.com.au/browse/meat-seafood/seafood/deli-marinara-mix-and-other-seafood' },
           { subId: '22758', childId: '22766', extensionCategory: 'Deli Prawns', url: 'https:www.coles.com.au/browse/meat-seafood/seafood/deli-prawns' },
           { subId: '22758', childId: '22667', extensionCategory: 'Prepacked Seafood', url: 'https:www.coles.com.au/browse/meat-seafood/seafood/prepacked-seafood' },
           { subId: '22758', childId: '22761', extensionCategory: 'Smoked and Cured Fish', url: 'https:www.coles.com.au/browse/meat-seafood/seafood/smoked-and-cured-fish' },
@@ -1849,9 +1851,12 @@ const categories = [
       {
         subCategory: 'BBQ Meat & Seafood',
         childItems: [
+          { subId: '22714', childId: '22720', extensionCategory: 'Pizza, Pasta & Sauces', url: 'https://www.coles.com.au/browse/back-to-school/easy-school-night-dinners/pizza-pasta-sauces' },
+          { subId: '22714', childId: '22720', extensionCategory: 'Pre-Marinated Meats & Ready Meals', url: 'https://www.coles.com.au/browse/back-to-school/easy-school-night-dinners/pre-marinated-meats-ready-meals' },
           { subId: '', childId: '', extensionCategory: 'a', url: 'https:www.coles.com.au/browse/back-to-school/easy-school-night-dinners' },
           { subId: '', childId: '', extensionCategory: 'b', url: 'https:www.coles.com.au/browse/back-to-school/school-breakfast' },
           { subId: '', childId: '', extensionCategory: 'c', url: 'https:www.coles.com.au/browse/back-to-school/school-lunches-snacking' },
+          { subId: '', childId: '', extensionCategory: 'd', url: 'https:www.coles.com.au/browse/back-to-school/school-stationery-accessories' },
           { subId: '', childId: '', extensionCategory: 'd', url: 'https:www.coles.com.au/browse/back-to-school/school-stationery-accessories' },
         ],
       },
