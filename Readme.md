@@ -64,7 +64,7 @@ Follow these steps to set up and run the scraper:
 
 ### 6. Start Scraping Woolworths website
 
-- Before running the scraper for Woolworths, ensure to run only 5 objects inside of array by commenting out other lines of code in the `CATEGORIES` array. Which located inside of `woolworths/index2.js`.
+FOR RUNNING WOOLWORTHS/INDEX2.JS:
 
 - Note: When running `woolworths/index2.js`, ensure that the `LOCATION` array (found in `woolworths/constant/location`.js) is set to `NSW`.
 
@@ -121,6 +121,9 @@ const locations = [
     //     subLucation: "Casuarina"
     // }, -->
 ]
+```
+
+- Before running the scraper for Woolworths, ensure to run only 5 objects inside of array by commenting out other lines of code in the `CATEGORIES` array. Which located inside of `woolworths/index2.js`.
 
 #### Example `CATEGORIES` Configuration:
 
@@ -144,8 +147,39 @@ const CATEGORIES = [
   // { id: '1_717445A', name: 'Snacks & Confectionery', url: '/shop/browse/snacks-confectionery', location: '/shop/browse/snacks-confectionery' },
   // { id: '1_9E92C35', name: 'Back to School', url: '/shop/browse/back-to-school', location: '/shop/browse/back-to-school' },
 ];
-```
-- Before running the scraper for Woolworths, ensure to run only `FRUIT&VEG` and `Poultry,Meat&Seafood` objects inside of array by commenting out other lines of code in the `CATEGORIES` array. Which located inside of `woolworts/index2.js`.
+````
+
+
+FOR RUNNING WOOLWORTHS/INDEX.JS:
+- Before running the scraper for Woolworths, ensure to run only `FRUIT&VEG` and `Poultry,Meat&Seafood` objects inside of array by commenting out other lines of code in the `CATEGORIES` array. Which located inside of `woolworts/index.js`.
+
+#### Example `CATEGORIES` Configuration:
+
+````javascript
+const CATEGORIES = [
+    // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' },
+  // { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' },
+  // { id: '1_6E4F4E4', name: 'Dairy, Eggs & Fridge', url: '/shop/browse/dairy-eggs-fridge', location: '/shop/browse/dairy-eggs-fridge' },
+  // { id: '1_3151F6F', name: 'Deli & Chilled Meats', url: '/shop/browse/deli-chilled-meals', location: '/shop/browse/deli-chilled-meals' },
+  // { id: '1_5AF3A0A', name: 'Drinks', url: '/shop/browse/drinks', location: '/shop/browse/drinks' },
+  // { id: '1_ACA2FC2', name: 'Freezer', url: '/shop/browse/freezer', location: '/shop/browse/freezer' },
+
+  { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' },
+  // { id: '1_8D61DD6', name: 'Beauty', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' },
+  // { id: '1_894D0A8', name: 'Personal Care', url: '/shop/browse/personal-care', location: '/shop/browse/personal-care' },
+  // { id: '1_9851658', name: 'Health & Wellness', url: '/shop/browse/health-wellness', location: '/shop/browse/health-wellness' },
+  { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
+  // { id: '1_2432B58', name: 'Household', url: '/shop/browse/cleaning-maintenance', location: '/shop/browse/cleaning-maintenance' },
+
+  //{ id: '1_39FD49C', name: 'Pantry', url: '/shop/browse/pantry', location: '/shop/browse/pantry' },
+  // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' },
+  // { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' },
+  // { id: '1_717445A', name: 'Snacks & Confectionery', url: '/shop/browse/snacks-confectionery', location: '/shop/browse/snacks-confectionery' },
+  // { id: '1_9E92C35', name: 'Back to School', url: '/shop/browse/back-to-school', location: '/shop/browse/back-to-school' },
+  // { id: '1_8E4DA6F', name: 'Beer, Wine & Spirits', url: '/shop/browse/beer-wine-spirits', location: '/shop/browse/beer-wine-spirits' },
+];
+
+````
 
 - Note: When running `woolworths/index.js`, ensure that the locations in the `LOCATION` array (found in `woolworths/constant/location.js`) are set to all eight locations.
 
@@ -202,40 +236,16 @@ const locations = [
         subLucation: "Casuarina"
     },
 ]
-
-#### Example `CATEGORIES` Configuration:
-
-````javascript
-const CATEGORIES = [
-    // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' },
-  // { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' },
-  // { id: '1_6E4F4E4', name: 'Dairy, Eggs & Fridge', url: '/shop/browse/dairy-eggs-fridge', location: '/shop/browse/dairy-eggs-fridge' },
-  // { id: '1_3151F6F', name: 'Deli & Chilled Meats', url: '/shop/browse/deli-chilled-meals', location: '/shop/browse/deli-chilled-meals' },
-  // { id: '1_5AF3A0A', name: 'Drinks', url: '/shop/browse/drinks', location: '/shop/browse/drinks' },
-  // { id: '1_ACA2FC2', name: 'Freezer', url: '/shop/browse/freezer', location: '/shop/browse/freezer' },
-
-  { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' },
-  // { id: '1_8D61DD6', name: 'Beauty', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' },
-  // { id: '1_894D0A8', name: 'Personal Care', url: '/shop/browse/personal-care', location: '/shop/browse/personal-care' },
-  // { id: '1_9851658', name: 'Health & Wellness', url: '/shop/browse/health-wellness', location: '/shop/browse/health-wellness' },
-  { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
-  // { id: '1_2432B58', name: 'Household', url: '/shop/browse/cleaning-maintenance', location: '/shop/browse/cleaning-maintenance' },
-
-  //{ id: '1_39FD49C', name: 'Pantry', url: '/shop/browse/pantry', location: '/shop/browse/pantry' },
-  // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' },
-  // { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' },
-  // { id: '1_717445A', name: 'Snacks & Confectionery', url: '/shop/browse/snacks-confectionery', location: '/shop/browse/snacks-confectionery' },
-  // { id: '1_9E92C35', name: 'Back to School', url: '/shop/browse/back-to-school', location: '/shop/browse/back-to-school' },
-  // { id: '1_8E4DA6F', name: 'Beer, Wine & Spirits', url: '/shop/browse/beer-wine-spirits', location: '/shop/browse/beer-wine-spirits' },
-];
+```
 
 
 - Run the following command to start scraping:
-
+``
   ```bash
-  node woolworths/index/index2
+  node woolworths/index2
+  node woolworths/index
   ```
-note: this `woolworths/index/index2` is the scraper process of the woolworths.
+note: this `woolworths/index` or `/index2` is the scraper process of the woolworths.
 
 - Once completed, retrieve all the data by running:
   ```bash
@@ -243,65 +253,241 @@ note: this `woolworths/index/index2` is the scraper process of the woolworths.
   ```
 note: this `woolworths/getProducts.js` will let us retrieve all the products that have been scraped in woolworths.
 
+
+
 ### 5. Start Scraping Coles website
 
+FOR RUNNING WOOLWORTHS/INDEX2.JS:
 - Before running the scraper for Coles, ensure to run only 15 Child Items by commenting out other lines of code in the `CATEGORIES` array. Which located inside of `coles/constant/categories.js`.
 
-- - Note: When running `woolworths/index2.js`, ensure that the `LOCATION` array (found in `woolworths/constant/location`.js) is set to `NSW`.
+#### Example `CATEGORIES` Configuration:
+
+````javascript
+const CATEGORIES = [
+ {
+    category: 'Pantry',
+    subCategories: [
+      {
+          subCategory: "Baking",
+          childItems: [
+              { extensionCategory: "Cooking Chocolate & Cocoa" },
+              { extensionCategory: "Flavouring, Essence & Food Colouring" },
+              { extensionCategory: "Flour" },
+              { extensionCategory: "Icing & Cake Decorating" },
+              { extensionCategory: "Nuts, Seeds & Coconut" },
+              { extensionCategory: "Sugar & Sweeteners" },
+              { extensionCategory: "Yeast & Baking Ingredients" },
+          ]
+      },
+      {
+          subCategory: "Breakfast & Spreads",
+          childItems: [
+              { extensionCategory: "Breakfast Cereal" },
+              { extensionCategory: "Honey" },
+              { extensionCategory: "Jam" },
+              { extensionCategory: "Savoury Spread" },
+              { extensionCategory: "Muesli" },
+              { extensionCategory: "Oats" },
+          ]
+      },
+      {
+          subCategory: "Canned Food & Instant Meals",
+          childItems: [
+              { extensionCategory: "Baked Beans & Spaghetti" },
+              { extensionCategory: "Canned Fruit" },
+      //         { extensionCategory: "Canned Meat" },
+      //         { extensionCategory: "Canned Soup & Soup Ingredients" },
+      //         { extensionCategory: "Canned Vegetables" },
+      //         { extensionCategory: "Instant Meals & Sides" },
+      //     ]
+      // },
+      // {
+      //     subCategory: "Condiments",
+      //     childItems: [
+      //         { extensionCategory: "Mustard" },
+      //         { extensionCategory: "Sweet Chilli & Hot Sauce" },
+      //         { extensionCategory: "Tomato & BBQ Sauce" },
+      //     ]
+      // },
+      // {
+      //     subCategory: "Desserts",
+      //     childItems: [
+      //         { extensionCategory: "Custard, Cream & Yoghurt" },
+      //         { extensionCategory: "Ice Cream Cones, Syrups & Toppings" },
+      //         { extensionCategory: "Jelly" },
+      //         { extensionCategory: "Puddings" },
+              // { extensionCategory: "Ready to Freeze Ice Blocks" },
+          ]
+      },
+      // {
+      //     subCategory: "Health Foods",
+      //     childItems: [
+      //         { extensionCategory: "Health Breakfast Food & Spread" },
+      //         { extensionCategory: "Health Cooking & Pasta" },
+      //         { extensionCategory: "Health Snacks & Drinks" },
+      //     ]
+      // },
+      // {
+      //     subCategory: "Herbs & Spices",
+      //     childItems: [
+      //         { extensionCategory: "Dried Herbs & Spices" },
+      //         { extensionCategory: "Salt & Pepper" },
+      //     ]
+      // },
+      // {
+      //     subCategory: "International Foods",
+      //     childItems: [
+      //         { extensionCategory: "Asian" },
+      //         { extensionCategory: "European" },
+      //         { extensionCategory: "Indian" },
+      //         { extensionCategory: "Mexican" },
+      //         { extensionCategory: "Middle Eastern" },
+      //         { extensionCategory: "UK Foods" },
+      //     ]
+      // },
+      // {
+      //     subCategory: "Pasta, Rice & Grains",
+      //     childItems: [
+      //         { extensionCategory: "Beans & Legumes" },
+      //         { extensionCategory: "Rice" },
+      //     ]
+      // },
+      // {
+      //     subCategory: "Sauce, Oil & Vinegar",
+      //     childItems: [
+      //         { extensionCategory: "Marinades & Seasoning" },
+      //         { extensionCategory: "Pizza & Pasta Sauce" },
+      //         { extensionCategory: "Soy & Asian Sauces" },
+      //         { extensionCategory: "Stock & Gravy" },
+      //     ]
+      // },
+      //   {
+      //       subCategory: "Snacks & Confectionery",
+      //       childItems: [
+      //           { extensionCategory: "Biscuits & Cookies" },
+      //           { extensionCategory: "Corn Chips & Salsa" },
+      //           { extensionCategory: "Muesli Bars & Snack" },
+      //       ]
+      //   },
+      //   {
+      //       subCategory: "Tea & Coffee",
+      //       childItems: [
+      //           { extensionCategory: "Black Tea" },
+      //           { extensionCategory: "Green Tea" },
+      //           { extensionCategory: "Herbal & Specialty Tea" },
+      //       ]
+      //   },
+    ],
+  }
+]
+
+````
+
+- Note: When running `coles/index1.js`, ensure that the `LOCATION` array (found in `coles/constant/location`.js) is set to `NSW`.
 
 #### Example `LOCATION` Configuration:
 
 ```javascript
 const locations = [
+    // // // // vic
+    // {
+    //     location: "Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145",
+    //     subLucation: "Chadstone Shopping Centre, 1341 Dandenong Rd"
+    // },
+    // // nsw
+    {
+        location: "Sydney, NSW 2000",
+        subLucation: "Coles Pyrmont"
+    },
+//     // // qld
+//     {
+//         location: "Kedron, QLD 4031",
+//         subLucation: "Coles Kedron"
+//     },
+//    // // wa
+//     {
+//         location: "Perth, WA 6000",
+//         subLucation: "Coles North Perth"
+//     },
+//     // // sa
+//     {
+//         location: "Kilburn, SA 5084",
+//         subLucation: "Coles Churchill Centre"
+//     },
+//     // // tas
+//     {
+//         location: "Hobart, TAS 7000",
+//         subLucation: "Coles Sandy Bay"
+//     },
+//     // // act
+//     {
+//         location: "Acton, ACT 2601",
+//         subLucation: "Coles Canberra Civic"
+//     },
+//     // // nt
+//     {
+//         location: "Casuarina, NT 0810",
+//         subLucation: "Coles Casuarina - Drive-through"
+//     },
+]
+
+export default locations;
+
+```
+
+
+FOR RUNNING WOOLWORTHS/INDEX1.JS:
+- Note: When running `coles/index1.js`, ensure that the locations in the `LOCATION` array (found in `coles/constant/location.js`) are set to all eight locations.
+
+#### Example `LOCATION` Configuration:
+
+```javascript
+const locations = [
+    // // // vic
+    {
+        location: "Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145",
+        subLucation: "Chadstone Shopping Centre, 1341 Dandenong Rd"
+    },
     // nsw
     {
-        name: 'nsw',
-        location: "2000",
-        subLucation: "Town Hall"
+        location: "Sydney, NSW 2000",
+        subLucation: "Coles Pyrmont"
     },
-    // <!-- // vic
-    // {
-    //     name: 'vic',
-    //     location: "3000",
-    //     subLucation: "QV"
-    // },
     // // qld
-    // {
-    //     name: 'qld',
-    //     location: "4053",
-    //     subLucation: "Stafford"
-    // },
-    // // wa
-    // {
-    //     name: 'wa',
-    //     location: "6000",
-    //     subLucation: "Highgate"
-    // },
+    {
+        location: "Kedron, QLD 4031",
+        subLucation: "Coles Kedron"
+    },
+   // // wa
+    {
+        location: "Perth, WA 6000",
+        subLucation: "Coles North Perth"
+    },
     // // sa
-    // {
-    //     name: 'sa',
-    //     location: "5000",
-    //     subLucation: "Unley"
-    // },
+    {
+        location: "Kilburn, SA 5084",
+        subLucation: "Coles Churchill Centre"
+    },
     // // tas
-    // {
-    //     name: 'tas',
-    //     location: "7005",
-    //     subLucation: "Sandy Bay"
-    // },
+    {
+        location: "Hobart, TAS 7000",
+        subLucation: "Coles Sandy Bay"
+    },
     // // act
-    // {
-    //     name: 'act',
-    //     location: "2601",
-    //     subLucation: "Canberra Airport"
-    // },
+    {
+        location: "Acton, ACT 2601",
+        subLucation: "Coles Canberra Civic"
+    },
     // // nt
-    // {
-    //     name: 'nt',
-    //     location: "0810",
-    //     subLucation: "Casuarina"
-    // }, -->
+    {
+        location: "Casuarina, NT 0810",
+        subLucation: "Coles Casuarina - Drive-through"
+    },
 ]
+
+export default locations;
+````
+ Before running the scraper for Coles, ensure to run only 10 Child Items by commenting out other lines of code in the `CATEGORIES` array. Which located inside of `coles/constant/categories.js`.
 
 #### Example `CATEGORIES` Configuration:
 
@@ -328,16 +514,16 @@ const CATEGORIES = [
               { extensionCategory: "Breakfast Cereal" },
               { extensionCategory: "Honey" },
               { extensionCategory: "Jam" },
-              { extensionCategory: "Savoury Spread" },
-              { extensionCategory: "Muesli" },
-              { extensionCategory: "Oats" },
+            //   { extensionCategory: "Savoury Spread" },
+            //   { extensionCategory: "Muesli" },
+            //   { extensionCategory: "Oats" },
           ]
       },
-      {
-          subCategory: "Canned Food & Instant Meals",
-          childItems: [
-              { extensionCategory: "Baked Beans & Spaghetti" },
-              { extensionCategory: "Canned Fruit" },
+    //   {
+    //       subCategory: "Canned Food & Instant Meals",
+    //       childItems: [
+    //           { extensionCategory: "Baked Beans & Spaghetti" },
+    //           { extensionCategory: "Canned Fruit" },
       //         { extensionCategory: "Canned Meat" },
       //         { extensionCategory: "Canned Soup & Soup Ingredients" },
       //         { extensionCategory: "Canned Vegetables" },
@@ -423,209 +609,40 @@ const CATEGORIES = [
     ],
   }
 ]
-
-```
-- Before running the scraper for Coles, ensure to run only `FRUIT&VEG` and `Poultry,Meat&Seafood` objects inside of array by commenting out other lines of code in the `CATEGORIES` array. Which located inside of `coles/index2.js`.
-
-- Note: When running `coles/index.js`, ensure that the locations in the `LOCATION` array (found in `coles/constant/location.js`) are set to all eight locations.
-
-#### Example `LOCATION` Configuration:
-
-```javascript
-const locations = [
-    // nsw
-    {
-        name: 'nsw',
-        location: "2000",
-        subLucation: "Town Hall"
-    },
-    // vic
-    {
-        name: 'vic',
-        location: "3000",
-        subLucation: "QV"
-    },
-    // qld
-    {
-        name: 'qld',
-        location: "4053",
-        subLucation: "Stafford"
-    },
-    // wa
-    {
-        name: 'wa',
-        location: "6000",
-        subLucation: "Highgate"
-    },
-    // sa
-    {
-        name: 'sa',
-        location: "5000",
-        subLucation: "Unley"
-    },
-    // tas
-    {
-        name: 'tas',
-        location: "7005",
-        subLucation: "Sandy Bay"
-    },
-    // act
-    {
-        name: 'act',
-        location: "2601",
-        subLucation: "Canberra Airport"
-    },
-    // nt
-    {
-        name: 'nt',
-        location: "0810",
-        subLucation: "Casuarina"
-    }, 
-]
-
-#### Example `CATEGORIES` Configuration:
-
-````javascript
-const CATEGORIES = [
- {
-    category: 'Pantry',
-    subCategories: [
-      {
-          subCategory: "Baking",
-          childItems: [
-              { extensionCategory: "Cooking Chocolate & Cocoa" },
-              { extensionCategory: "Flavouring, Essence & Food Colouring" },
-              { extensionCategory: "Flour" },
-              { extensionCategory: "Icing & Cake Decorating" },
-              { extensionCategory: "Nuts, Seeds & Coconut" },
-              { extensionCategory: "Sugar & Sweeteners" },
-              { extensionCategory: "Yeast & Baking Ingredients" },
-          ]
-      },
-      {
-          subCategory: "Breakfast & Spreads",
-          childItems: [
-              { extensionCategory: "Breakfast Cereal" },
-              { extensionCategory: "Honey" },
-              { extensionCategory: "Jam" },
-              { extensionCategory: "Savoury Spread" },
-              { extensionCategory: "Muesli" },
-              { extensionCategory: "Oats" },
-          ]
-      },
-      {
-          subCategory: "Canned Food & Instant Meals",
-          childItems: [
-              { extensionCategory: "Baked Beans & Spaghetti" },
-              { extensionCategory: "Canned Fruit" },
-      //         { extensionCategory: "Canned Meat" },
-      //         { extensionCategory: "Canned Soup & Soup Ingredients" },
-      //         { extensionCategory: "Canned Vegetables" },
-      //         { extensionCategory: "Instant Meals & Sides" },
-      //     ]
-      // },
-      // {
-      //     subCategory: "Condiments",
-      //     childItems: [
-      //         { extensionCategory: "Mustard" },
-      //         { extensionCategory: "Sweet Chilli & Hot Sauce" },
-      //         { extensionCategory: "Tomato & BBQ Sauce" },
-      //     ]
-      // },
-      // {
-      //     subCategory: "Desserts",
-      //     childItems: [
-      //         { extensionCategory: "Custard, Cream & Yoghurt" },
-      //         { extensionCategory: "Ice Cream Cones, Syrups & Toppings" },
-      //         { extensionCategory: "Jelly" },
-      //         { extensionCategory: "Puddings" },
-              // { extensionCategory: "Ready to Freeze Ice Blocks" },
-          ]
-      },
-      // {
-      //     subCategory: "Health Foods",
-      //     childItems: [
-      //         { extensionCategory: "Health Breakfast Food & Spread" },
-      //         { extensionCategory: "Health Cooking & Pasta" },
-      //         { extensionCategory: "Health Snacks & Drinks" },
-      //     ]
-      // },
-      // {
-      //     subCategory: "Herbs & Spices",
-      //     childItems: [
-      //         { extensionCategory: "Dried Herbs & Spices" },
-      //         { extensionCategory: "Salt & Pepper" },
-      //     ]
-      // },
-      // {
-      //     subCategory: "International Foods",
-      //     childItems: [
-      //         { extensionCategory: "Asian" },
-      //         { extensionCategory: "European" },
-      //         { extensionCategory: "Indian" },
-      //         { extensionCategory: "Mexican" },
-      //         { extensionCategory: "Middle Eastern" },
-      //         { extensionCategory: "UK Foods" },
-      //     ]
-      // },
-      // {
-      //     subCategory: "Pasta, Rice & Grains",
-      //     childItems: [
-      //         { extensionCategory: "Beans & Legumes" },
-      //         { extensionCategory: "Rice" },
-      //     ]
-      // },
-      // {
-      //     subCategory: "Sauce, Oil & Vinegar",
-      //     childItems: [
-      //         { extensionCategory: "Marinades & Seasoning" },
-      //         { extensionCategory: "Pizza & Pasta Sauce" },
-      //         { extensionCategory: "Soy & Asian Sauces" },
-      //         { extensionCategory: "Stock & Gravy" },
-      //     ]
-      // },
-      //   {
-      //       subCategory: "Snacks & Confectionery",
-      //       childItems: [
-      //           { extensionCategory: "Biscuits & Cookies" },
-      //           { extensionCategory: "Corn Chips & Salsa" },
-      //           { extensionCategory: "Muesli Bars & Snack" },
-      //       ]
-      //   },
-      //   {
-      //       subCategory: "Tea & Coffee",
-      //       childItems: [
-      //           { extensionCategory: "Black Tea" },
-      //           { extensionCategory: "Green Tea" },
-      //           { extensionCategory: "Herbal & Specialty Tea" },
-      //       ]
-      //   },
-    ],
-  }
-]
-
-
-```
-
+````
 - Run the following command to start scraping:
 ```bash
-node coles/index
+node coles/index1
+node coles/index2
 ```
-note: this `coles/index` is the scraper process of the coles.
+note: this `coles/index1` or `/index2` is the scraper process of the coles.
+
+
+- Once completed, retrieve all the data by running:
+  ```bash
+  node coles/getProducts.js
+  ```
+note: this `coles/getProducts.js` will let us retrieve all the products that have been scraped in woolworths.
+
+
+For Testing purposes: 
+Don't forget to get delete the Data first 
 
 ## Uploading All Matched and Unmatched Products to the API.
 
 ## 1. Uploading All Matched Products To The API.
+
+```bash
+node coles/ColesfetchBarcode 
+```
+- This node will be used only if you have scraped newly when time for uploading.
 
 - Run the following commands to start Uploading `MATCHED` products to the API.
 ```bash
 node woolworths/getProducts coles/getProducts
 ```
 note: This `woolworths/getProducts` `coles/getProducts` is the process to where it puts all products to a `MATCHED` file.
-```bash
-node coles/ColesfetchBarcode 
-```
-- This node will be used only if you have scraped newly when time for uploading.
+
 ```bash
 node coles/updateBarcodes
 ```

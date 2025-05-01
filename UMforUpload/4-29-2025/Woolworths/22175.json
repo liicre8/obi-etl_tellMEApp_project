@@ -1,0 +1,668 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/659656/bickford-s-iced-caramel-coffee-syrup",
+    "name": "Bickford's Iced Caramel Coffee Syrup 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/659656.jpg",
+    "source_id": "659656",
+    "barcode": "9349277002111",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/175462/caffe-aurora-freeze-dried-coffee-italian-style",
+    "name": "Caffe Aurora Freeze Dried Coffee Italian Style 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/175462.jpg",
+    "source_id": "175462",
+    "barcode": "9310631616213",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/17950/essentials-instant-coffee-granulated",
+    "name": "Essentials Instant Coffee Granulated 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/017950.jpg",
+    "source_id": "17950",
+    "barcode": "9339687221103",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "275",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/309617/first-press-cold-drip-coffee-concentrate",
+    "name": "First Press Cold Drip Coffee Concentrate 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/309617.jpg",
+    "source_id": "309617",
+    "barcode": "9349499004108",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1080",
+        "price_per_unit": "216",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/635886/jarrah-cappuccino-sticks",
+    "name": "Jarrah Cappuccino Sticks 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/635886.jpg",
+    "source_id": "635886",
+    "barcode": "7612100919125",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "70",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/659028/jarrah",
+    "name": "Jarrah CoffeeSachetsFrench Vanilla 10pk",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/659028.jpg",
+    "source_id": "659028",
+    "barcode": "7612100919101",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "70",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/659487/jarrah-strong-cappuccino-sachets",
+    "name": "Jarrah Strong Cappuccino Sachets 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/659487.jpg",
+    "source_id": "659487",
+    "barcode": "7612100919149",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "70",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/254492/jarrah-swiss-caf-instant-mocha-swiss-style-cocoa-98-fat-free",
+    "name": "Jarrah Swiss Café Instant Mocha 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/254492.jpg",
+    "source_id": "254492",
+    "barcode": "7612100156308",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/615084/l-or-coffee-artiste-5-delicato",
+    "name": "L'Or Coffee Artiste 5 Delicato 95g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/615084.jpg",
+    "source_id": "615084",
+    "barcode": "8711000701997",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "95g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "1316",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/613616/l-or-coffee-artiste-8-vigoroso",
+    "name": "L'Or Coffee Artiste 8 Vigoroso 95g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/613616.jpg",
+    "source_id": "613616",
+    "barcode": "8711000702062",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "95g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "1316",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/213595/moccona-cadbury-mocha-sachets",
+    "name": "Moccona Cadbury Mocha Sachets 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/213595.jpg",
+    "source_id": "213595",
+    "barcode": "8711000674178",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "49",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/92393/moccona-dark-intense-dried-coffee",
+    "name": "Moccona Dark & Intense Dried Coffee 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/092393.jpg",
+    "source_id": "92393",
+    "barcode": "8711000469491",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1430",
+        "price_per_unit": "715",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/649424/moccona-french-style-coffee-smooth",
+    "name": "Moccona French Style Coffee Smooth 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/649424.jpg",
+    "source_id": "649424",
+    "barcode": "8711000685518",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3250",
+        "price_per_unit": "813",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/640778/moccona-hot-iced-hazelnut-latte-sachets",
+    "name": "Moccona Hot/Iced Hazelnut Latte Sachets 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/640778.jpg",
+    "source_id": "640778",
+    "barcode": "8711000565933",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "49",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/254591/nature-s-cuppa-freeze-dried-coffee-eco-organic",
+    "name": "Nature's Cuppa Freeze Dried Coffee Eco Organic 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/254591.jpg",
+    "source_id": "254591",
+    "barcode": "9311367000444",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1080",
+        "price_per_unit": "1080",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/159844/nature-s-cuppa-rich-roast-coffee-alternative-tin-caffeine-free",
+    "name": "Nature's Cuppa Rich Roast Coffee Alternative Tin Caffeine Free 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/159844.jpg",
+    "source_id": "159844",
+    "barcode": "9311367000284",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "528",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/156727/nescafe-blend-43-dark-roast-instant-coffee-jar",
+    "name": "Nescafe Blend 43 Dark Roast Instant Coffee Jar 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/156727.jpg",
+    "source_id": "156727",
+    "barcode": "9300605143364",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2450",
+        "price_per_unit": "817",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/212138/nescafe-blend-43-espresso-instant-coffee-jar",
+    "name": "Nescafe Blend 43 Espresso Instant Coffee Jar 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/212138.jpg",
+    "source_id": "212138",
+    "barcode": "9300605012844",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2450",
+        "price_per_unit": "817",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/199136/nescafe-blend-43-instant-coffee",
+    "name": "Nescafe Blend 43 Instant Coffee 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/199136.jpg",
+    "source_id": "199136",
+    "barcode": "9300605114197",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2450",
+        "price_per_unit": "817",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/641344/nescafe-caramel-latte-decaf-coffee-sachets",
+    "name": "Nescafe Caramel Latte Decaf Coffee Sachets 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/641344.jpg",
+    "source_id": "641344",
+    "barcode": "9300605155619",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "10 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "80",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6015759/nescafe-creamy-coconut-latte-sachets",
+    "name": "Nescafe Creamy Coconut Latte Sachets 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6015759.jpg",
+    "source_id": "6015759",
+    "barcode": "9300605158214",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/687063/nescafe-gold-decaf-soluble-instant-coffee",
+    "name": "Nescafe Gold Decaf Soluble Instant Coffee 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/687063.jpg",
+    "source_id": "687063",
+    "barcode": "93625364",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1450",
+        "price_per_unit": "1450",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6018774/nescafe-kit-kat-mocha-sachets",
+    "name": "Nescafe Kit Kat Mocha Sachets 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6018774.jpg",
+    "source_id": "6018774",
+    "barcode": "9300605155329",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/212816/nestle-coffee-mate-coffee-flavouring-whitener",
+    "name": "Nestle Coffee Mate Coffee Flavouring Whitener 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/212816.jpg",
+    "source_id": "212816",
+    "barcode": "8850124025685",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "113",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296604/pablo-rusty-specialty-coffee-concentrate-pioneer-concentrate",
+    "name": "Pablo & Rusty Specialty Coffee Concentrate Pioneer Concentrate 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/296604.jpg",
+    "source_id": "296604",
+    "barcode": "9354541000083",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "260",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/789291/quarterpast-caramel-coffee-syrup-caramel",
+    "name": "Quarterpast Caramel Coffee Syrup 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/789291.jpg",
+    "source_id": "789291",
+    "barcode": "9421020424842",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/789306/quarterpast-vanilla-coffee-syrup-vanilla",
+    "name": "Quarterpast Vanilla Coffee Syrup 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/789306.jpg",
+    "source_id": "789306",
+    "barcode": "9421020424866",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/360276/robert-timms-instant-coffee-premium-full-bodied",
+    "name": "Robert Timms Instant Coffee Premium Full-Bodied 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/360276.jpg",
+    "source_id": "360276",
+    "barcode": "9325121003442",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/222908/vittoria-coffee-decaffeinated-coffee-bags",
+    "name": "Vittoria Coffee Decaffeinated Coffee Bags 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/222908.jpg",
+    "source_id": "222908",
+    "barcode": "9310631637065",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/309680/will-co-coffee-concentrate",
+    "name": "Will & Co Coffee Concentrate 375ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/309680.jpg",
+    "source_id": "309680",
+    "barcode": "9310631637805",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "375ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "267",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/347035/woolworths-freeze-dried-coffee-decaf",
+    "name": "Woolworths Freeze Dried Coffee Decaf 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/347035.jpg",
+    "source_id": "347035",
+    "barcode": "93569729",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/347032/woolworths-freeze-dried-coffee-original",
+    "name": "Woolworths Freeze Dried Coffee Original 100G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/347032.jpg",
+    "source_id": "347032",
+    "barcode": "93569712",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/319548/woolworths-latte-coffee-sachets",
+    "name": "Woolworths Latte Coffee Sachets 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/319548.jpg",
+    "source_id": "319548",
+    "barcode": "9339687314560",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "10 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/223874/avalanche-99-sugar-free-hazelnut-latte",
+    "name": "Avalanche 99% Sugar Free Hazelnut Latte 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/223874.jpg",
+    "source_id": "223874",
+    "barcode": "9421906776317",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "10 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "55",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/223005/avalanche-99-sugar-free-latte",
+    "name": "Avalanche 99% Sugar Free Latte 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/223005.jpg",
+    "source_id": "223005",
+    "barcode": "9421906776331",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "10 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "55",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/662097/bickford-s-iced-mocha-coffee-syrup",
+    "name": "Bickford's Iced Mocha Coffee Syrup 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/662097.jpg",
+    "source_id": "662097",
+    "barcode": "9349277002128",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/660371/bickford-s-roasted-hazelnut-flavoured-syrup",
+    "name": "Bickford's Roasted Hazelnut Flavoured Syrup 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/660371.jpg",
+    "source_id": "660371",
+    "barcode": "9349277002937",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

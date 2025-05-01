@@ -1,0 +1,128 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/brunnings-path-weeder-value-pack-1l-9013395",
+    "name": "Brunnings Path Weeder Value Pack | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9013395.jpg&w=640&q=90",
+    "source_id": "9013395",
+    "barcode": "9310522100289",
+    "shop": "coles",
+    "category_id": "22526",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/brunnings-weed-kill-1l-5793850",
+    "name": "Brunnings Weed Kill | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5793850.jpg&w=640&q=90",
+    "source_id": "5793850",
+    "barcode": "9310522031071",
+    "shop": "coles",
+    "category_id": "22526",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/roundup-regular-weedkiller-1l-1953954",
+    "name": "Roundup Regular Weedkiller | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1953954.jpg&w=640&q=90",
+    "source_id": "1953954",
+    "barcode": "9313771006029",
+    "shop": "coles",
+    "category_id": "22526",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1690",
+        "price_per_unit": null,
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ocp-slasher-organic-weed-killer-spray-750ml-3845974",
+    "name": "OCP Slasher Organic Weed Killer Spray | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3845974.jpg&w=640&q=90",
+    "source_id": "3845974",
+    "barcode": "9336099000333",
+    "shop": "coles",
+    "category_id": "22526",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": null,
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/yates-zero-weed-kill-ut-ultra-tough-weed-spray-750ml-4418630",
+    "name": "Yates Zero Weed Kill Ut Ultra Tough Weed Spray | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4418630.jpg&w=640&q=90",
+    "source_id": "4418630",
+    "barcode": "9310428551345",
+    "shop": "coles",
+    "category_id": "22526",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1725",
+        "price_per_unit": null,
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/yates-zero-weed-kill-value-pack-spray-twin-2-pack-6010164",
+    "name": "Yates Zero Weed Kill Value Pack Spray Twin | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6010164.jpg&w=640&q=90",
+    "source_id": "6010164",
+    "barcode": "9310428443312",
+    "shop": "coles",
+    "category_id": "22526",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1540",
+        "price_per_unit": null,
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/roundup-concentrate-advance-weedkiller-280ml-9659699",
+    "name": "Roundup Concentrate Advance Weedkiller | 280mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9659699.jpg&w=640&q=90",
+    "source_id": "9659699",
+    "barcode": "9313771013027",
+    "shop": "coles",
+    "category_id": "22526",
+    "weight": "280ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2270",
+        "price_per_unit": null,
+        "price_unit": "ml"
+      }
+    ]
+  }
+]

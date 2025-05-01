@@ -1,0 +1,866 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/251790/ceres-organics-pea-chips-salted",
+    "name": "Ceres Organics Pea Chips Salted 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/251790.jpg",
+    "source_id": "251790",
+    "barcode": "9421035971294",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/71929/infuzions-air-fries-aioli",
+    "name": "Infuzions Air Fries Aioli 90g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/071929.jpg",
+    "source_id": "71929",
+    "barcode": "9316401203140",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "90g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "544",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/72358/infuzions-air-fries-tomato-sauce",
+    "name": "Infuzions Air Fries Tomato Sauce 90g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/072358.jpg",
+    "source_id": "72358",
+    "barcode": "9316401203119",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "90g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "544",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/331588/macro-organic-corn-chips-cheese",
+    "name": "Macro Organic Corn Chips Cheese 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/331588.jpg",
+    "source_id": "331588",
+    "barcode": "9339687171149",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/331595/macro-organic-corn-chips-natural",
+    "name": "Macro Organic Corn Chips Natural 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/331595.jpg",
+    "source_id": "331595",
+    "barcode": "9339687171132",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/331590/macro-organic-corn-chips-spicy-bbq",
+    "name": "Macro Organic Corn Chips Spicy Bbq 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/331590.jpg",
+    "source_id": "331590",
+    "barcode": "9339687171156",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/282062/macro-plantain-chips-sea-salt",
+    "name": "Macro Plantain Chips Sea Salt 85g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/282062.jpg",
+    "source_id": "282062",
+    "barcode": "9339687338900",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "85g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "588",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/499461/simply-potato-chips-tangy-herb-spice",
+    "name": "Simply Potato Chips Tangy Herb & Spice 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/499461.jpg",
+    "source_id": "499461",
+    "barcode": "9310015255991",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/234063/simply-sea-salt-cracked-pepper-25-less-fat-potato-chips",
+    "name": "Simply Sea Salt & Cracked Pepper 25% Less Fat Potato Chips 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/234063.jpg",
+    "source_id": "234063",
+    "barcode": "9310015254758",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/233874/simply-sour-cream-chives-25-less-fat-potato-chips-share-pack",
+    "name": "Simply Sour Cream & Chives 25% Less Fat Potato Chips Share Pack 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/233874.jpg",
+    "source_id": "233874",
+    "barcode": "9310015254741",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/972674/sun-rice-protein-chips-honey-soy-flavour",
+    "name": "Sun Rice Protein Chips Honey Soy Flavour 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/972674.jpg",
+    "source_id": "972674",
+    "barcode": "9310140012322",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/105146/vege-chips-straws-barbeque",
+    "name": "Vege Chips Straws Barbeque 75g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/105146.jpg",
+    "source_id": "105146",
+    "barcode": "9315991024333",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "75g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "787",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/104528/vege-chips-straws-honey-soy",
+    "name": "Vege Chips Straws Honey Soy 75g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/104528.jpg",
+    "source_id": "104528",
+    "barcode": "9315991024326",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "75g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "787",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/104573/vege-chips-sweet-potato-nibbles-barbeque-flavour",
+    "name": "Vege Chips Sweet Potato Nibbles Barbeque Flavour 75g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/104573.jpg",
+    "source_id": "104573",
+    "barcode": "9315991024272",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "75g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "410",
+        "price_per_unit": "547",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/227789/wallaby-oven-baked-pretzel-twists-sea-salt",
+    "name": "Wallaby Oven Baked Pretzel Twists Sea Salt 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/227789.jpg",
+    "source_id": "227789",
+    "barcode": "9314943033201",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "560",
+        "price_per_unit": "560",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/586794/burger-rings-puffs-corn-snacks-party-bag-tangy-burger",
+    "name": "Burger Rings Puffs Corn Snacks Party Bag Tangy Burger 220g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/586794.jpg",
+    "source_id": "586794",
+    "barcode": "9310015243882",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "220g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "182",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/915481/calbee-hooleys-waves-mild-barbecue-flavour",
+    "name": "Calbee Hooleys Waves Mild Barbecue Flavour 95g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/915481.jpg",
+    "source_id": "915481",
+    "barcode": "9351585001243",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "95g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "211",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6003460/calbee-hooleys-waves-supreme-cheese-flavour",
+    "name": "Calbee Hooleys Waves Supreme Cheese Flavour 95g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6003460.jpg",
+    "source_id": "6003460",
+    "barcode": "9351585001489",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "95g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "211",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6002463/cc-s-four-n-twenty-corn-chips-sausage-roll-sauce",
+    "name": "CC's Four'n Twenty Corn Chips Sausage Roll & Sauce 175g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6002463.jpg",
+    "source_id": "6002463",
+    "barcode": "9310988021906",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "175g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "286",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6002700/cc-s-four-n-twenty-corn-ships-classic-meat-pie",
+    "name": "CC's Four'n Twenty Corn Ships Classic Meat Pie 175g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6002700.jpg",
+    "source_id": "6002700",
+    "barcode": "9310988021890",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "175g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "286",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/60734/cheetos-crunchy-flamin-hot-snacks-share-pack",
+    "name": "Cheetos Crunchy Flamin' Hot Snacks Share Pack 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/060734.jpg",
+    "source_id": "60734",
+    "barcode": "9310015247521",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "267",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/614002/cheez-it-snap-d-cheddar-cheese",
+    "name": "Cheez It Snap'd Cheddar Cheese 185g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/614002.jpg",
+    "source_id": "614002",
+    "barcode": "9310055106765",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "185g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "314",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/660337/cheezels-cheese-box",
+    "name": "Cheezels Cheese Box 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/660337.jpg",
+    "source_id": "660337",
+    "barcode": "9310988016346",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "125G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6002097/cheezels-chicken-flavoured-snacks-box",
+    "name": "Cheezels Chicken Flavoured Snacks Box 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6002097.jpg",
+    "source_id": "6002097",
+    "barcode": "9310988021616",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/918039/cheezels-hot-rods-cheesy-jalapeno-flavoured-snacks",
+    "name": "Cheezels Hot Rods Cheesy Jalapeno Flavoured Snacks 110g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/918039.jpg",
+    "source_id": "918039",
+    "barcode": "9310988021623",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "110g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "318",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/225019/cheezels-original-cheese-party-pack",
+    "name": "Cheezels Original Cheese Party Pack 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/225019.jpg",
+    "source_id": "225019",
+    "barcode": "9310988006781",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "190g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "211",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/54631/doritos-corn-chips-cheese-supreme-party-size",
+    "name": "Doritos Corn Chips Cheese Supreme Party Size 380g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/054631.jpg",
+    "source_id": "54631",
+    "barcode": "9310015247811",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "380G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "224",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/826732/doritos-corn-chips-original-share-pack",
+    "name": "Doritos Corn Chips Original Share Pack 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/826732.jpg",
+    "source_id": "826732",
+    "barcode": "9310015241949",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "170G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "294",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/319943/french-fries-original-chips",
+    "name": "French Fries Original Chips 175g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/319943.jpg",
+    "source_id": "319943",
+    "barcode": "9310988010320",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "175G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "143",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/202666/infuzions-prawn-cracker-barbecue-rib",
+    "name": "Infuzions Prawn Cracker Barbecue Rib 90g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/202666.jpg",
+    "source_id": "202666",
+    "barcode": "9316401202440",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "90g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/236699/kettle-classic-sea-salt-chips-potato-chips",
+    "name": "Kettle Classic Sea Salt Chips Potato Chips 165g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/236699.jpg",
+    "source_id": "236699",
+    "barcode": "9310988019200",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "165g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "364",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/918056/kettle-crafted-collection-angus-beef-caramelised-onion-chips",
+    "name": "Kettle Crafted Collection Angus Beef & Caramelised Onion Chips 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/918056.jpg",
+    "source_id": "918056",
+    "barcode": "9310988021708",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/917984/kettle-crafted-collection-applewood-smoked-butter-salt-chips",
+    "name": "Kettle Crafted Collection Applewood Smoked Butter & Salt Chips 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/917984.jpg",
+    "source_id": "917984",
+    "barcode": "9310988021685",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/234560/kettle-potato-chips-chilli",
+    "name": "Kettle Potato Chips Chilli 165g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/234560.jpg",
+    "source_id": "234560",
+    "barcode": "9310988019224",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "165g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "364",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/236822/kettle-sweet-chilli-sour-cream-potato-chips",
+    "name": "Kettle Sweet Chilli & Sour Cream Potato Chips 165g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/236822.jpg",
+    "source_id": "236822",
+    "barcode": "9310988019248",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "165g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "364",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/102754/orion-turtle-chips-caramel-popcorn",
+    "name": "Orion Turtle Chips Caramel Popcorn 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/102754.jpg",
+    "source_id": "102754",
+    "barcode": "8801117195502",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "313",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/167216/orion-turtle-chips-choco-churros",
+    "name": "Orion Turtle Chips Choco Churros 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/167216.jpg",
+    "source_id": "167216",
+    "barcode": "8801117983208",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "313",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/117573/orion-turtle-chips-corn-soup",
+    "name": "Orion Turtle Chips Corn Soup 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/117573.jpg",
+    "source_id": "117573",
+    "barcode": "8801117983901",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "160G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "313",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/195184/orion-turtle-chips-flaming-mala",
+    "name": "Orion Turtle Chips Flaming Mala 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/195184.jpg",
+    "source_id": "195184",
+    "barcode": "8801117986209",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "313",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/914334/popcorners-popcorn-chips-share-pack-sweet-chilli",
+    "name": "PopCorners Popcorn Chips Share Pack Sweet Chilli 130g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/914334.jpg",
+    "source_id": "914334",
+    "barcode": "9310015256905",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "130g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "369",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6003677/pringles-big-stack-for-sharing-original-potato-chips",
+    "name": "Pringles Big Stack for Sharing Original Potato Chips 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6003677.jpg",
+    "source_id": "6003677",
+    "barcode": "8886467127007",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "353",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6003875/pringles-big-stack-for-sharing-sour-cream-onion-potato-chips",
+    "name": "Pringles Big Stack for Sharing Sour Cream & Onion Potato Chips 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6003875.jpg",
+    "source_id": "6003875",
+    "barcode": "8886467127014",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "353",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/918722/pringles-zesty-chilli-lime-flavour-stacked-potato-chips-5-pack",
+    "name": "Pringles Zesty Chilli & Lime Flavour Stacked Potato Chips 5 Pack 118g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/918722.jpg",
+    "source_id": "918722",
+    "barcode": "8886467127434",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "118g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "233",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6022275/smith-s-crinkle-clasic-tasty-cheese",
+    "name": "Smith's Crinkle Clasic Tasty Cheese 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6022275.jpg",
+    "source_id": "6022275",
+    "barcode": "9310015257889",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6020914/smith-s-crinkle-classic-tomato-sauce",
+    "name": "Smith's Crinkle Classic Tomato Sauce 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6020914.jpg",
+    "source_id": "6020914",
+    "barcode": "9310015257902",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/826733/smith-s-crinkle-cut-potato-chips-barbecue",
+    "name": "Smith's Crinkle Cut Potato Chips Barbecue 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/826733.jpg",
+    "source_id": "826733",
+    "barcode": "9310015241857",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "170G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "294",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6022604/smith-s-double-crunch-epic-salt-vinegar",
+    "name": "Smith's Double Crunch Epic Salt & Vinegar 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6022604.jpg",
+    "source_id": "6022604",
+    "barcode": "9310015257896",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/195004/smith-s-double-crunch-potato-chips-share-pack-bbq-ribs",
+    "name": "Smith's Double Crunch Potato Chips Share Pack BBQ Ribs 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/195004.jpg",
+    "source_id": "195004",
+    "barcode": "9310015253430",
+    "shop": "Woolworths",
+    "category_id": "22892",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

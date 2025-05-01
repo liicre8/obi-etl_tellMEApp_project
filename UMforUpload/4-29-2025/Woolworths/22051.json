@@ -1,0 +1,56 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/675218/eco-by-naty-nappies-bulk-size-3",
+    "name": "Eco By Naty Nappies Bulk Size 3 50 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/675218.jpg",
+    "source_id": "675218",
+    "barcode": "7330933178426",
+    "shop": "Woolworths",
+    "category_id": "22051",
+    "weight": "50 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "40",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/86174/little-one-s-size-2-ultra-dry-nappies-infant-4-8kg-boys-girls",
+    "name": "Little One's Size 2 Ultra Dry Nappies Infant 4-8kg Boys & Girls 56 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/086174.jpg",
+    "source_id": "86174",
+    "barcode": "9339687165117",
+    "shop": "Woolworths",
+    "category_id": "22051",
+    "weight": "56 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "21",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/86175/little-one-s-size-3-ultra-dry-nappies-crawler-6-11kg-boys-girls",
+    "name": "Little One's Size 3 Ultra Dry Nappies Crawler 6-11kg Boys & Girls 56 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/086175.jpg",
+    "source_id": "86175",
+    "barcode": "9339687165124",
+    "shop": "Woolworths",
+    "category_id": "22051",
+    "weight": "56 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "21",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

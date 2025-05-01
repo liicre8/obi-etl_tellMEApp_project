@@ -1,0 +1,962 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/413886/macro-organic-sweet-potato",
+    "name": "Macro Organic Sweet Potato Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/413886.jpg",
+    "source_id": "413886",
+    "barcode": "0262904000009",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "518",
+        "price_per_unit": "518",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "518",
+        "price_per_unit": "518",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "698",
+        "price_per_unit": "698",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "698",
+        "price_per_unit": "698",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "698",
+        "price_per_unit": "698",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "518",
+        "price_per_unit": "518",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/769064/macro-sebago-organic-potato",
+    "name": "Macro Sebago Organic Potato 1kg Punnet",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/769064.jpg",
+    "source_id": "769064",
+    "barcode": "9300633451059",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "1Kg Punnet",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/246566/potato-brushed",
+    "name": "Potato Brushed Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/246566.jpg",
+    "source_id": "246566",
+    "barcode": "0261001000004",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "98",
+        "price_per_unit": "98",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "98",
+        "price_per_unit": "98",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "98",
+        "price_per_unit": "98",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "88",
+        "price_per_unit": "88",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "98",
+        "price_per_unit": "98",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "98",
+        "price_per_unit": "98",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "98",
+        "price_per_unit": "98",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "98",
+        "price_per_unit": "98",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/111670/potato-red-washed",
+    "name": "Potato Red Washed Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/111670.jpg",
+    "source_id": "111670",
+    "barcode": "0265973000000",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "85",
+        "price_per_unit": "85",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "85",
+        "price_per_unit": "85",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "85",
+        "price_per_unit": "85",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "85",
+        "price_per_unit": "85",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "85",
+        "price_per_unit": "85",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "85",
+        "price_per_unit": "85",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "85",
+        "price_per_unit": "85",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/208895/potato-white-washed",
+    "name": "Potato White Washed Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/208895.jpg",
+    "source_id": "208895",
+    "barcode": "0264731000009",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "85",
+        "price_per_unit": "85",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "85",
+        "price_per_unit": "85",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "85",
+        "price_per_unit": "85",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "85",
+        "price_per_unit": "85",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "85",
+        "price_per_unit": "85",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "85",
+        "price_per_unit": "85",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "85",
+        "price_per_unit": "85",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "85",
+        "price_per_unit": "85",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147199/pumpkin-jarrahdale-grey-cut",
+    "name": "Pumpkin Jarrahdale Grey Cut Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/147199.jpg",
+    "source_id": "147199",
+    "barcode": "0265749000005",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/143709/pumpkin-kent-cut",
+    "name": "Pumpkin Kent Cut Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/143709.jpg",
+    "source_id": "143709",
+    "barcode": "0265752000009",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147071/sweet-potato-gold",
+    "name": "Sweet Potato Gold Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/147071.jpg",
+    "source_id": "147071",
+    "barcode": "0265681000002",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "196",
+        "price_per_unit": "196",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "156",
+        "price_per_unit": "156",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "196",
+        "price_per_unit": "196",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "156",
+        "price_per_unit": "156",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "196",
+        "price_per_unit": "196",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "196",
+        "price_per_unit": "196",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "196",
+        "price_per_unit": "196",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "196",
+        "price_per_unit": "196",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147197/woolworths-butternut-pumpkin-cut",
+    "name": "Woolworths Butternut Pumpkin Cut Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/147197.jpg",
+    "source_id": "147197",
+    "barcode": "0265748000006",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "175",
+        "price_per_unit": "175",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "133",
+        "price_per_unit": "133",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/120847/woolworths-garlic",
+    "name": "Woolworths Garlic 3 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/120847.jpg",
+    "source_id": "120847",
+    "barcode": "9339687212408",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "3 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "117",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/156015/woolworths-gold-sweet-potatoes-bag",
+    "name": "Woolworths Gold Sweet Potatoes Bag 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/156015.jpg",
+    "source_id": "156015",
+    "barcode": "9300633096397",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/307538/woolworths-lower-carb-potatoes",
+    "name": "Woolworths Lower Carb Potatoes 1.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/307538.jpg",
+    "source_id": "307538",
+    "barcode": "9339687346202",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "1.5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/769063/macro-dutch-cream-organic-potato",
+    "name": "Macro Dutch Cream Organic Potato 1kg Punnet",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/769063.jpg",
+    "source_id": "769063",
+    "barcode": "9300633451042",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "1Kg Punnet",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/127017/pumpkin-jarrahdale-whole",
+    "name": "Pumpkin Jarrahdale Whole Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/127017.jpg",
+    "source_id": "127017",
+    "barcode": "0265598000003",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1050",
+        "price_per_unit": "1050",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "1050",
+        "price_per_unit": "1050",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "1050",
+        "price_per_unit": "1050",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "1050",
+        "price_per_unit": "1050",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1050",
+        "price_per_unit": "1050",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "1050",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/177574/woolworths-mashing-potatoes-bag",
+    "name": "Woolworths Mashing Potatoes Bag 1.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/177574.jpg",
+    "source_id": "177574",
+    "barcode": "9339687271832",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "1.5kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/757488/woolworths-potato-mini-microwavable-white-bag",
+    "name": "Woolworths Potato Mini Microwavable White Bag 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/757488.jpg",
+    "source_id": "757488",
+    "barcode": "9300633445133",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "580",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "580",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "580",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "580",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "580",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/386219/woolworths-roasting-potatoes",
+    "name": "Woolworths Roasting Potatoes 1.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/386219.jpg",
+    "source_id": "386219",
+    "barcode": "9339687354535",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "1.5kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "467",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/197423/blue-washed-potato",
+    "name": "Blue Washed Potato each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/197423.jpg",
+    "source_id": "197423",
+    "barcode": "0265848000005",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "85",
+        "price_per_unit": "85",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/652008/the-odd-bunch-potato-prepacked",
+    "name": "The Odd Bunch Potato Prepacked 4kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/652008.jpg",
+    "source_id": "652008",
+    "barcode": "9300633686222",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "4Kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "690",
+        "price_per_unit": "173",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "790",
+        "price_per_unit": "198",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "790",
+        "price_per_unit": "198",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178636/woolworths-blue-washed-potato",
+    "name": "Woolworths Blue Washed Potato 2Kg Bag",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/178636.jpg",
+    "source_id": "178636",
+    "barcode": "9300633419172",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "2Kg Bag",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/606727/woolworths-royal-blue-baby-potatoes-bag",
+    "name": "Woolworths Royal Blue Baby Potatoes Bag 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/606727.jpg",
+    "source_id": "606727",
+    "barcode": "9339687096145",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/168661/potato-organic",
+    "name": "Potato Organic 1kg Punnet",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/168661.jpg",
+    "source_id": "168661",
+    "barcode": "9300633007270",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "1Kg Punnet",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/840769/woolworths-sweet-potato-mini-gold-prepacked",
+    "name": "Woolworths Sweet Potato Mini Gold Prepacked 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/840769.jpg",
+    "source_id": "840769",
+    "barcode": "9300633724368",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "270",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/192783/woolworths-washed-potato",
+    "name": "Woolworths Washed Potato 4kg Bag",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/192783.jpg",
+    "source_id": "192783",
+    "barcode": "9300633001193",
+    "shop": "Woolworths",
+    "category_id": "22389",
+    "weight": "4Kg Bag",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "990",
+        "price_per_unit": "248",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

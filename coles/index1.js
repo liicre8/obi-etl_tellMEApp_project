@@ -10,6 +10,7 @@ import fs from 'fs/promises';
 import fs2 from 'fs';
 import path from 'path';
 puppeteer.use(StealthPlugin());
+
 const categoriesId = JSON.parse(fs2.readFileSync(`./constant/categories.json`, 'utf8'));
 const userAgents = [
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
@@ -28,6 +29,7 @@ puppeteer.use(StealthPlugin());
 function delay(time) {
   return new Promise((resolve) => setTimeout(resolve, time));
 }
+
 const captcha = async (page, url) => {
   let doloop = false;
   let i = 1;
@@ -52,6 +54,7 @@ const captcha = async (page, url) => {
   }
 };
 
+
 const scraper = async () => {
   await dbConnect();
   let browser;
@@ -64,39 +67,45 @@ const scraper = async () => {
       ],
       // // Chrome
        executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
-       userDataDir: 'C:\\Users\\OBI - Lester\\AppData\\Local\\Google\\Chrome\\User Data\\Person 1',
+       userDataDir: 'C:\\Users\\OBI - Wilslie\\AppData\\Local\\Google\\Chrome\\User Data\\Person 1',
       // // BraveBrowser
-      //  userDataDir: 'C:\\Users\\OBI - Sunny\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Person 1'
-      //  executablePath: 'C:\\Users\\OBI - Sunny\\AppData\\Local\\BraveSoftware\\Brave-Browser\\Application\\Brave.exe',
+      //  userDataDir: 'C:\\Users\\OBI - Wilslie\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Person 1'
+      //  executablePath: 'C:\\Users\\OBI - Wilslie\\AppData\\Local\\BraveSoftware\\Brave-Browser\\Application\\Brave.exe',
      
     });
+
     for (const loc of locations) {
       let page2;
       page2 = await browser.newPage();
       await page2.setExtraHTTPHeaders({
         Referer: 'https://www.coles.com.au/',
       });
- // to clear storage data of coles website
+
+      // to clear storage data of coles website
       await page2.goto('https://www.coles.com.au/');
       
-const client = await page2.target().createCDPSession();
+      const client = await page2.target().createCDPSession();
 
-await client.send('Storage.clearDataForOrigin', {
-  origin: 'https://www.coles.com.au/',
-  storageTypes: 'all' // You can also specify 'local_storage', 'indexeddb', 'cache_storage'
-});
+      await client.send('Storage.clearDataForOrigin', {
+            origin: 'https://www.coles.com.au/',
+            storageTypes: 'all' // You can also specify 'local_storage', 'indexeddb', 'cache_storage'
+      });
 
       const loadedCookies = JSON.parse(fs2.readFileSync('./coles/colesCookies.json', 'utf-8'));
       await page2.setCookie(...loadedCookies);
       await safeNavigate(page2, 'https://www.coles.com.au');
       await page2.setUserAgent('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36');
       await delay(3000);
+
       // await page2.reload();
       //await delay(5000);
+
       await new Promise(resolve => setTimeout(resolve, Math.floor(Math.random() * 3000) + 5000));
       const a = await handleSteps(page2, loc, 'https://coles.com.au'); 
+
       // const cookies = await page2.cookies();
       // fs.writeFileSync('./coles/colesCookies.json', JSON.stringify(cookies, null, 2));
+
       await Promise.allSettled(
         categories.map(async (categ, index) => {
           let category;
@@ -138,15 +147,12 @@ await client.send('Storage.clearDataForOrigin', {
                   let targetURL = url;
            try {
                     // page = (await browser.newPage()).removeAllListeners('request');
-
                     const SCRAPER_API_KEY = '0e6c546a09c1e1d91e23cc4683a91174';
-
                     page = await browser.newPage();
                     await page.authenticate({
                       username: SCRAPER_API_KEY,
                       password: ''
                     });
-
                     await page.setViewport({
                       width: 316, // Width of the browser
                       height: 743, // Height of the browser
@@ -353,7 +359,7 @@ await client.send('Storage.clearDataForOrigin', {
                       );
 
                       if (productData.length > 0) {
-                        console.log('productdata', productData.length, "from", extensionCategory);
+                        console.log(`productdata \x1b[33m${productData.length}\x1b[0m from \x1b[32m${extensionCategory}\x1b[0m`);
                         for (const data of productData) {
                           const q = await Product.findOne({
                             category: data.category,

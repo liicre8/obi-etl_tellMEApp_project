@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/601634/grape-autumncrisp-brand-grapes",
+    "name": "Autumncrisp® brand Grapes each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/601634.jpg",
+    "source_id": "601634",
+    "barcode": "0263452000008",
+    "shop": "Woolworths",
+    "category_id": "22358",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/139344/grape-red-globe-bunch",
+    "name": "Grape Red Globe Bunch Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/139344.jpg",
+    "source_id": "139344",
+    "barcode": "0264636000005",
+    "shop": "Woolworths",
+    "category_id": "22358",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/781399/macro-red-grapes-organic",
+    "name": "Macro Red Grapes Organic 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/781399.jpg",
+    "source_id": "781399",
+    "barcode": "9300633703127",
+    "shop": "Woolworths",
+    "category_id": "22358",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "1360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "680",
+        "price_per_unit": "1360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "680",
+        "price_per_unit": "1360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "680",
+        "price_per_unit": "1360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

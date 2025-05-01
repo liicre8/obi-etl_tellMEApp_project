@@ -1,0 +1,20 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/34993/essentials-pancake-pikelet-mix",
+    "name": "Essentials Pancake & Pikelet Mix 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/034993.jpg",
+    "source_id": "34993",
+    "barcode": "9300633349936",
+    "shop": "Woolworths",
+    "category_id": "22782",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "115",
+        "price_per_unit": "38",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/311368/binggrae-melona-melon-flavoured-ice-bars",
+    "name": "Binggrae Melona Melon Flavoured Ice Bars 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/311368.jpg",
+    "source_id": "311368",
+    "barcode": "8801104941167",
+    "shop": "Woolworths",
+    "category_id": "22288",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "250",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/858754/bulla-rainbow-ice-cream-cake",
+    "name": "Bulla Rainbow Ice Cream Cake 1.5l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/858754.jpg",
+    "source_id": "858754",
+    "barcode": "9310161013988",
+    "shop": "Woolworths",
+    "category_id": "22288",
+    "weight": "1.5L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

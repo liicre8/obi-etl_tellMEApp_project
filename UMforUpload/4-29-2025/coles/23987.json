@@ -1,0 +1,596 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-chopped-kale-140g-3014475",
+    "name": "Coles Organic Chopped Kale | 140g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3014475.jpg&w=640&q=90",
+    "source_id": "3014475",
+    "barcode": "9310645214634",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "140g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "3929",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "3929",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "3929",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "3929",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "4286",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "3929",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-butternut-pumpkin-cut-approx.-500g-each-3119190",
+    "name": "Coles Organic Butternut Pumpkin Cut | approx. 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3119190.jpg&w=640&q=90",
+    "source_id": "3119190",
+    "barcode": "9321406910054",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "500geach",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "each"
+      },
+      {
+        "state": "VIC",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "240",
+        "price_per_unit": "480",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "275",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "225",
+        "price_per_unit": "450",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-brushed-potatoes-prepacked-2kg-5024866",
+    "name": "Coles Organic Brushed Potatoes Prepacked | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5024866.jpg&w=640&q=90",
+    "source_id": "5024866",
+    "barcode": "9341874000576",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "525",
+        "price_unit": "kg"
+      },
+      {
+        "state": "VIC",
+        "price": "1050",
+        "price_per_unit": "525",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1050",
+        "price_per_unit": "525",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1050",
+        "price_per_unit": "525",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1050",
+        "price_per_unit": "525",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "525",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-zucchini-500g-5032219",
+    "name": "Coles Organic Zucchini | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5032219.jpg&w=640&q=90",
+    "source_id": "5032219",
+    "barcode": "9369998049707",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "1360",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "680",
+        "price_per_unit": "1360",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "690",
+        "price_per_unit": "1380",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "690",
+        "price_per_unit": "1380",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "590",
+        "price_per_unit": "1180",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "680",
+        "price_per_unit": "1360",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "690",
+        "price_per_unit": "1380",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-organic-washed-potatoes-1kg-1-each-6391046",
+    "name": "Fresh Organic Washed Potatoes 1kg | 1 Each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6391046.jpg&w=640&q=90",
+    "source_id": "6391046",
+    "barcode": "9369999296018",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "498",
+        "price_per_unit": "498",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-kale-with-vegetables-200g-3014453",
+    "name": "Coles Organic Kale With Vegetables | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3014453.jpg&w=640&q=90",
+    "source_id": "3014453",
+    "barcode": "9310645214627",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "2750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "2750",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "2750",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/organic-organic-brown-mushrooms-180g-3520845",
+    "name": "Organic Organic Brown Mushrooms | 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3520845.jpg&w=640&q=90",
+    "source_id": "3520845",
+    "barcode": "7065025581098",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "680",
+        "price_per_unit": "3778",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "690",
+        "price_per_unit": "3834",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-snacking-carrots-250g-4491980",
+    "name": "Coles Organic Snacking Carrots | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4491980.jpg&w=640&q=90",
+    "source_id": "4491980",
+    "barcode": "9349146000491",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "1600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-juicing-carrots-2kg-4995826",
+    "name": "Coles Organic Juicing Carrots | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4995826.jpg&w=640&q=90",
+    "source_id": "4995826",
+    "barcode": "9349146000842",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "680",
+        "price_per_unit": "340",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "680",
+        "price_per_unit": "340",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "680",
+        "price_per_unit": "340",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "680",
+        "price_per_unit": "340",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-gourmet-tomatoes-500g-5043066",
+    "name": "Coles Organic Gourmet Tomatoes | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5043066.jpg&w=640&q=90",
+    "source_id": "5043066",
+    "barcode": "9359186000054",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "690",
+        "price_per_unit": "1380",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "690",
+        "price_per_unit": "1380",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-baby-cucumbers-200g-5088494",
+    "name": "Coles Organic Baby Cucumbers | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5088494.jpg&w=640&q=90",
+    "source_id": "5088494",
+    "barcode": "9359186000016",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "3250",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "2750",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "3250",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "2750",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-trimmed-celery-1-each-6509485",
+    "name": "Coles Organic Trimmed Celery | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6509485.jpg&w=640&q=90",
+    "source_id": "6509485",
+    "barcode": "9310645418230",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-iceberg-lettuce-1-each-7233856",
+    "name": "Coles Organic Iceberg Lettuce | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7233856.jpg&w=640&q=90",
+    "source_id": "7233856",
+    "barcode": "9341874000071",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-green-beans-prepacked-250g-9861850",
+    "name": "Coles Organic Green Beans Prepacked | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9861850.jpg&w=640&q=90",
+    "source_id": "9861850",
+    "barcode": "9341874000538",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "2760",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/organic-truss-tomatoes-500g-3526863",
+    "name": "Organic Truss Tomatoes | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3526863.jpg&w=640&q=90",
+    "source_id": "3526863",
+    "barcode": "9317948009066",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "990",
+        "price_per_unit": "1980",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-brushed-potatoes-prepacked-1kg-1418484",
+    "name": "Coles Organic Brushed Potatoes Prepacked | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1418484.jpg&w=640&q=90",
+    "source_id": "1418484",
+    "barcode": "9326300001518",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-red-capsicum-approx.-200g-each-4333990",
+    "name": "Coles Organic Red Capsicum | approx. 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4333990.jpg&w=640&q=90",
+    "source_id": "4333990",
+    "barcode": "9359186000139",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "200geach",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "258",
+        "price_per_unit": "1290",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-purple-baby-broccoli-1-bunch-8686801",
+    "name": "Coles Organic Purple Baby Broccoli | 1 bunch",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8686801.jpg&w=640&q=90",
+    "source_id": "8686801",
+    "barcode": "9341471000917",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "1bunch",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "bunch"
+      }
+    ]
+  }
+]

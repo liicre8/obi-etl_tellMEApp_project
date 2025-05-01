@@ -41,8 +41,6 @@ const userAgents = [
 ];
 
 const mylocation = ["nsw", "vic", "qld", "wa", "sa", "tas", "act", "nt"];
-// const mylocation = ["nsw", "vic", "qld", "wa"];
-//const mylocation = ["tas", "act", "nt"];
 
 const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
   const prices = [];
@@ -167,17 +165,11 @@ function delay(time) {
     const loadedCookies = JSON.parse(fs.readFileSync("./woolworths/cookies.json", "utf-8"));
     await page.setCookie(...loadedCookies);
     await safeNavigate(page, "https://www.woolworths.com.au");
-    // await delay(60000)
-    // await delay(60000)
-    // await delay(60000)
-    // await delay(60000)
     await delay(2000);
     await page.reload();
     await delay(3000);
     await page.reload();
     await delay(3000);
-    // await delay(60000)
-    // await delay(60000)
     if (!booool) {
       console.log("1");
       booool = true;
@@ -191,12 +183,6 @@ function delay(time) {
       console.log("2");
     }
     await handleSteps(page, mylocation[i], "https://www.woolworths.com.au");
-    // const cookies = await page.cookies();
-    // console.log('Extracted Cookies:', cookies);
-
-    // Save cookies to a file or database (optional)
-    // fs.writeFileSync('./woolworths/cookies.json', JSON.stringify(cookies, null, 2));
-    // await delay(60000);
 
     await Promise.allSettled(
       CATEGORIES.map(async (category, index) => {

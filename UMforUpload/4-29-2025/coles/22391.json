@@ -1,0 +1,152 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-silverbeet-medium-1-each-408383",
+    "name": "Coles Silverbeet Medium | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F408383.jpg&w=640&q=90",
+    "source_id": "408383",
+    "barcode": "9345058000055",
+    "shop": "coles",
+    "category_id": "22391",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-spinach-bunch-1-each-4981027",
+    "name": "Coles Spinach Bunch | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4981027.jpg&w=640&q=90",
+    "source_id": "4981027",
+    "barcode": "9341471000313",
+    "shop": "coles",
+    "category_id": "22391",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "570",
+        "price_per_unit": "570",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "570",
+        "price_per_unit": "570",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "570",
+        "price_per_unit": "570",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-asian-choy-chinese-broccoli-1-each-4569216",
+    "name": "Coles Asian Choy Chinese Broccoli | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4569216.jpg&w=640&q=90",
+    "source_id": "4569216",
+    "barcode": "9369998405930",
+    "shop": "coles",
+    "category_id": "22391",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "VIC",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      }
+    ]
+  }
+]

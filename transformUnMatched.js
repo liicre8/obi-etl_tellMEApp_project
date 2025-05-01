@@ -16,14 +16,14 @@ if (!folderDate) {
 }
 
 const fileNames = ["colesUnMatched.json", "woolworthsUnMatched.json"];
-function cleanProduct(product) {
 
-  const cat = product.subsubcategory_id ? product.subsubcategory_id : product.subcategory_id
+function cleanProduct(product) {
+  const cat = product.subsubcategory_id ? product.subsubcategory_id : product.subcategory_id;
   if (!product.image_url || !product.barcode || product.barcode === "" || cat === "") {
     return null;
   }
 
-  let filteredPrices = (product.prices || []).filter(priceObj =>
+  const filteredPrices = (product.prices || []).filter(priceObj =>
     priceObj.price !== null && priceObj.price !== ''
   );
 
@@ -46,29 +46,49 @@ function cleanProduct(product) {
     source_id: product.source_id || '',
     barcode: product.barcode || '',
     shop: product.shop || '',
-    category_id: product.subsubcategory_id ? product.subsubcategory_id : product.subcategory_id,
+    category_id: cat,
     weight: product.weight || '',
     prices: uniquePrices,
   };
 }
+
 function transformProducts(products) {
-  return products.reduce((acc, product) => {
+  const seen = new Set();
+  const result = [];
+  const removedDuplicates = [];
+
+  for (const product of products) {
     const cleaned = cleanProduct(product);
-    if (cleaned) {
-      acc.push(cleaned);
+    if (!cleaned) continue;
+
+    // Use barcode only (or add name for stricter matching)
+    const key = cleaned.barcode;
+
+    if (!seen.has(key)) {
+      seen.add(key);
+      result.push(cleaned);
+    } else {
+      removedDuplicates.push(cleaned);
     }
-    return acc;
-  }, []);
+  }
+
+  if (removedDuplicates.length > 0) {
+    console.log(`⚠️  Removed ${removedDuplicates.length} duplicate products`);
+    // Optional: Save duplicates to a file
+    // const duplicatesPath = path.join(__dirname, 'UnMatchedAll', folderDate, 'duplicates.json');
+    // await fs.writeFile(duplicatesPath, JSON.stringify(removedDuplicates, null, 2));
+  }
+
+  return result;
 }
 
 async function processFile(fileName) {
   const filePath = path.join(__dirname, 'UnMatchedAll', folderDate, fileName);
 
   try {
-    const rawData = await fs.readFile(filePath, 'utf8');
+    const rawData = await await fs.readFile(filePath, 'utf8');
     const products = JSON.parse(rawData);
 
-    // ✅ Only proceed if subsubcategory_id is present
     const needsTransformation = products.some(product => product.hasOwnProperty('subsubcategory_id'));
 
     if (!needsTransformation) {
@@ -94,12 +114,9 @@ async function processFile(fileName) {
 (async () => {
   for (const fileName of fileNames) {
     const count = await processFile(fileName);
-    console.log(`File "${fileName}" count: ${count} objects`);
+    console.log(`File "${fileName}" count: ${count} objects\n`);
   }
 })();
-
-// transform.mjs
-// transform.mjs
 
 // transform.mjs
 // import dotenv from 'dotenv';
@@ -118,32 +135,11 @@ async function processFile(fileName) {
 //   process.exit(1);
 // }
 
-// // Define source and target directories
-// const sourceDir = path.join(__dirname, 'UnMatchedAll', folderDate);
-// const baseTargetDir = path.join(__dirname, 'UMforUpload', folderDate);
-
-// // Define store-specific file mapping
-// const fileMapping = {
-//   "colesUnMatched.json": "coles",
-//   "woolworthsUnMatched.json": "Woolworths"
-// };
-
-// // Ensure the target folder structure exists
-// async function ensureTargetFolders() {
-//   try {
-//     await fs.mkdir(baseTargetDir, { recursive: true });
-//     for (const store of Object.values(fileMapping)) {
-//       await fs.mkdir(path.join(baseTargetDir, store), { recursive: true });
-//     }
-//   } catch (error) {
-//     console.error('❌ Failed to create output folders:', error);
-//     process.exit(1);
-//   }
-// }
-
+// const fileNames = ["colesUnMatched.json", "woolworthsUnMatched.json"];
 // function cleanProduct(product) {
-//   const cat = product.subsubcategory_id || product.subcategory_id;
-//   if (!product.image_url || !product.barcode || product.barcode === "" || !cat) {
+
+//   const cat = product.subsubcategory_id ? product.subsubcategory_id : product.subcategory_id
+//   if (!product.image_url || !product.barcode || product.barcode === "" || cat === "") {
 //     return null;
 //   }
 
@@ -170,47 +166,23 @@ async function processFile(fileName) {
 //     source_id: product.source_id || '',
 //     barcode: product.barcode || '',
 //     shop: product.shop || '',
-//     category_id: cat,
+//     category_id: product.subsubcategory_id ? product.subsubcategory_id : product.subcategory_id,
 //     weight: product.weight || '',
 //     prices: uniquePrices,
 //   };
 // }
-
 // function transformProducts(products) {
-//   const categoryMap = {};
-
-//   products.forEach(product => {
+//   return products.reduce((acc, product) => {
 //     const cleaned = cleanProduct(product);
-//     if (!cleaned) return;
-
-//     const { category_id, barcode } = cleaned;
-    
-//     if (!categoryMap[category_id]) {
-//       categoryMap[category_id] = new Map();
+//     if (cleaned) {
+//       acc.push(cleaned);
 //     }
-
-//     // ✅ Ensure unique barcodes in each category
-//     if (!categoryMap[category_id].has(barcode)) {
-//       categoryMap[category_id].set(barcode, cleaned);
-//     }
-//   });
-
-//   // Convert Map objects back to arrays
-//   for (const category in categoryMap) {
-//     categoryMap[category] = Array.from(categoryMap[category].values());
-//   }
-
-//   return categoryMap;
+//     return acc;
+//   }, []);
 // }
 
 // async function processFile(fileName) {
-//   const filePath = path.join(sourceDir, fileName);
-//   const storeFolder = fileMapping[fileName];
-
-//   if (!storeFolder) {
-//     console.error(`❌ Unknown file: ${fileName}. Skipping...`);
-//     return 0;
-//   }
+//   const filePath = path.join(__dirname, 'UnMatchedAll', folderDate, fileName);
 
 //   try {
 //     const rawData = await fs.readFile(filePath, 'utf8');
@@ -218,23 +190,21 @@ async function processFile(fileName) {
 
 //     // ✅ Only proceed if subsubcategory_id is present
 //     const needsTransformation = products.some(product => product.hasOwnProperty('subsubcategory_id'));
+
 //     if (!needsTransformation) {
 //       console.log(`⏩ ${fileName}: File is already transformed. Skipping...`);
 //       return 0;
 //     }
 
-//     const transformedData = transformProducts(products);
-//     const totalObjects = Object.values(transformedData).reduce((sum, arr) => sum + arr.length, 0);
+//     const cleanedProducts = transformProducts(products);
 
-//     // ✅ Write each category_id's data into its respective store folder
-//     for (const [categoryId, items] of Object.entries(transformedData)) {
-//       const categoryFilePath = path.join(baseTargetDir, storeFolder, `${categoryId}.json`);
-//       await fs.writeFile(categoryFilePath, JSON.stringify(items, null, 2));
-//       console.log(`✅ Saved ${items.length} unique barcode objects to ${categoryFilePath}`);
-//     }
+//     await fs.writeFile(filePath, JSON.stringify(cleanedProducts, null, 2));
 
-//     console.log(`✅ ${fileName} processed: ${totalObjects} unique barcode objects transformed and saved.\n`);
-//     return totalObjects;
+//     console.log(`✅ ${fileName} transformed successfully!`);
+//     console.log(`File: ${filePath}`);
+//     console.log(`Count: ${cleanedProducts.length} objects transformed to API format\n`);
+
+//     return cleanedProducts.length;
 //   } catch (error) {
 //     console.error(`❌ Error processing ${fileName}:`, error);
 //     return 0;
@@ -242,10 +212,9 @@ async function processFile(fileName) {
 // }
 
 // (async () => {
-//   await ensureTargetFolders();
-
-//   for (const fileName of Object.keys(fileMapping)) {
+//   for (const fileName of fileNames) {
 //     const count = await processFile(fileName);
-//     console.log(`File "${fileName}" count: ${count} unique objects`);
+//     console.log(`File "${fileName}" count: ${count} objects`);
 //   }
 // })();
+

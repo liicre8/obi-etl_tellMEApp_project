@@ -1,0 +1,740 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/saxa-table-salt-shaker-750g-120512",
+    "name": "Saxa Table Salt Shaker | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F120512.jpg&w=640&q=90",
+    "source_id": "120512",
+    "barcode": "9310412099143",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "6",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/saxa-cooking-salt-1kg-218526",
+    "name": "Saxa Cooking Salt | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F218526.jpg&w=640&q=90",
+    "source_id": "218526",
+    "barcode": "9310412117793",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "3",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-pink-fine-himalayan-salt-1kg-3021040",
+    "name": "Coles Pink Fine Himalayan Salt | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3021040.jpg&w=640&q=90",
+    "source_id": "3021040",
+    "barcode": "9310645214160",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "4",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-white-sea-salt-flakes-250g-3021051",
+    "name": "Coles White Sea Salt Flakes | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3021051.jpg&w=640&q=90",
+    "source_id": "3021051",
+    "barcode": "9310645245454",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-i'm-free-from-crunchy-crumb-300g-3133044",
+    "name": "Coles I'M Free From Crunchy Crumb | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3133044.jpg&w=640&q=90",
+    "source_id": "3133044",
+    "barcode": "9310645221601",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "425",
+        "price_per_unit": "142",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nando's-peri-peri-salt-50g-3219682",
+    "name": "Nando's Peri Peri Salt | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3219682.jpg&w=640&q=90",
+    "source_id": "3219682",
+    "barcode": "6003770011249",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/saxa-ground-black-pepper-50g-333207",
+    "name": "Saxa Ground Black Pepper | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F333207.jpg&w=640&q=90",
+    "source_id": "333207",
+    "barcode": "93681278",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-pink-himalayan-fine-salt-750g-3402500",
+    "name": "Coles Pink Himalayan Fine Salt | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3402500.jpg&w=640&q=90",
+    "source_id": "3402500",
+    "barcode": "9310645214153",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "6",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-sea-salt-grinder-410g-3669340",
+    "name": "McKenzie's Sea Salt Grinder | 410g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3669340.jpg&w=640&q=90",
+    "source_id": "3669340",
+    "barcode": "9310061124876",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "410g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "21",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-whole-black-pepper-grinders-200g-3669430",
+    "name": "McKenzie's Whole Black Pepper Grinders | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3669430.jpg&w=640&q=90",
+    "source_id": "3669430",
+    "barcode": "9310061124890",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "43",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-pink-salt-grinder-250g-3748800",
+    "name": "Coles Pink Salt Grinder | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3748800.jpg&w=640&q=90",
+    "source_id": "3748800",
+    "barcode": "9310645308395",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "26",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-sea-salt-grinder-250g-3748821",
+    "name": "Coles Sea Salt Grinder | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3748821.jpg&w=640&q=90",
+    "source_id": "3748821",
+    "barcode": "9310645308401",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "26",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-pepper-grinder-124g-3748832",
+    "name": "Coles Pepper Grinder | 124g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3748832.jpg&w=640&q=90",
+    "source_id": "3748832",
+    "barcode": "9310645308418",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "124g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "52",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-himalayan-pink-salt-refill-bag-500g-3775631",
+    "name": "Coles Himalayan Pink Salt Refill Bag | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3775631.jpg&w=640&q=90",
+    "source_id": "3775631",
+    "barcode": "9310645310695",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "7",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-coarse-sea-salt-refill-bag-500g-3775711",
+    "name": "Coles Coarse Sea Salt Refill Bag | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3775711.jpg&w=640&q=90",
+    "source_id": "3775711",
+    "barcode": "9310645310701",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "4",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-whole-black-peppercorn-refill-bag-200g-3775890",
+    "name": "Coles Whole Black Peppercorn Refill Bag | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3775890.jpg&w=640&q=90",
+    "source_id": "3775890",
+    "barcode": "9310645310718",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "28",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-himalayan-pink-fine-salt-shaker-125g-3775959",
+    "name": "Coles Himalayan Pink Fine Salt Shaker | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3775959.jpg&w=640&q=90",
+    "source_id": "3775959",
+    "barcode": "9310645310725",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "26",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/maldon-smoked-sea-salt-125g-3790941",
+    "name": "Maldon Smoked Sea Salt | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3790941.jpg&w=640&q=90",
+    "source_id": "3790941",
+    "barcode": "5011428300028",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "46",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/diet-rite-lite-salt-170g-395146",
+    "name": "Diet Rite Lite Salt | 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F395146.jpg&w=640&q=90",
+    "source_id": "395146",
+    "barcode": "9310605001960",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "18",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/saxa-natural-rock-salt-refill-500g-408576",
+    "name": "Saxa Natural Rock Salt Refill | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F408576.jpg&w=640&q=90",
+    "source_id": "408576",
+    "barcode": "9310412122476",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "6",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-whole-black-pepper-grinder-50g-4419687",
+    "name": "Coles Whole Black Pepper Grinder | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4419687.jpg&w=640&q=90",
+    "source_id": "4419687",
+    "barcode": "9310645349091",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "80",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-sea-salt-grinder-100g-4448095",
+    "name": "Coles Sea Salt Grinder | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4448095.jpg&w=640&q=90",
+    "source_id": "4448095",
+    "barcode": "9310645349077",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "39",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-himalayan-salt-grinder-103g-4448109",
+    "name": "Coles Himalayan Salt Grinder | 103g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4448109.jpg&w=640&q=90",
+    "source_id": "4448109",
+    "barcode": "9310645349084",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "103g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "33",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/saxa-iodised-rock-salt-refill-500g-4632549",
+    "name": "Saxa Iodised Rock Salt Refill | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4632549.jpg&w=640&q=90",
+    "source_id": "4632549",
+    "barcode": "9310412115331",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "6",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hoyts-bay-leaves-20g-5269820",
+    "name": "Hoyts Bay Leaves | 20g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5269820.jpg&w=640&q=90",
+    "source_id": "5269820",
+    "barcode": "9300725002343",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "20g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "295",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/herbamare-salt-and-herb-seasoning-250g-5360003",
+    "name": "Herbamare Salt & Herb Seasoning | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5360003.jpg&w=640&q=90",
+    "source_id": "5360003",
+    "barcode": "7610313427789",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "340",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-table-salt-500g-5925112",
+    "name": "Coles Table Salt | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5925112.jpg&w=640&q=90",
+    "source_id": "5925112",
+    "barcode": "9300601324934",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "4",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-iodised-table-salt-500g-5925123",
+    "name": "Coles Iodised Table Salt | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5925123.jpg&w=640&q=90",
+    "source_id": "5925123",
+    "barcode": "9300601324941",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "4",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/saxa-iodised-table-salt-shaker-125g-6542822",
+    "name": "Saxa Iodised Table Salt Shaker | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6542822.jpg&w=640&q=90",
+    "source_id": "6542822",
+    "barcode": "9310412112316",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "22",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/saxa-natural-sea-salt-refillable-grinder-200g-6736771",
+    "name": "Saxa Natural Sea Salt Refillable Grinder | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6736771.jpg&w=640&q=90",
+    "source_id": "6736771",
+    "barcode": "9310412111371",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "43",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lifestyle-bakery-bread-crumbs-gluten-free-350g-7884606",
+    "name": "Lifestyle Bakery Bread Crumbs Gluten Free | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7884606.jpg&w=640&q=90",
+    "source_id": "7884606",
+    "barcode": "9325175000602",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "530",
+        "price_per_unit": "151",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/saxa-natural-sea-salt-flakes-200g-7890370",
+    "name": "Saxa Natural Sea Salt Flakes | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7890370.jpg&w=640&q=90",
+    "source_id": "7890370",
+    "barcode": "9310412002914",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "48",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-simply-cooking-salt-2kg-8766751",
+    "name": "Coles Simply Cooking Salt | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8766751.jpg&w=640&q=90",
+    "source_id": "8766751",
+    "barcode": "9300601180134",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "2",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-simply-table-salt-1kg-8766810",
+    "name": "Coles Simply Table Salt | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8766810.jpg&w=640&q=90",
+    "source_id": "8766810",
+    "barcode": "9300601180165",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "2",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-turmeric-ground-47g-8983341",
+    "name": "Coles Turmeric Ground | 47g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8983341.jpg&w=640&q=90",
+    "source_id": "8983341",
+    "barcode": "9310645213217",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "47g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "255",
+        "price_per_unit": "54",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-garam-masala-42g-8987477",
+    "name": "Coles Garam Masala | 42g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8987477.jpg&w=640&q=90",
+    "source_id": "8987477",
+    "barcode": "9310645213446",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "42g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "335",
+        "price_per_unit": "80",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cracked-black-peppercorns-48g-8987808",
+    "name": "Coles Cracked Black Peppercorns | 48g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8987808.jpg&w=640&q=90",
+    "source_id": "8987808",
+    "barcode": "9310645217123",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "48g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "52",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-moroccan-seasoning-62g-8989847",
+    "name": "Coles Moroccan Seasoning | 62g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8989847.jpg&w=640&q=90",
+    "source_id": "8989847",
+    "barcode": "9310645213521",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "62g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "39",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-white-pepper-100g-9044719",
+    "name": "Coles White Pepper | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9044719.jpg&w=640&q=90",
+    "source_id": "9044719",
+    "barcode": "9300601189502",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mitani-classic-chicken-salt-200g-9104865",
+    "name": "Mitani Classic Chicken Salt | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9104865.jpg&w=640&q=90",
+    "source_id": "9104865",
+    "barcode": "9315404002217",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "19",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-lemon-pepper-seasoning-no-added-salt-50g-9755750",
+    "name": "MasterFoods Lemon Pepper Seasoning No Added Salt | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9755750.jpg&w=640&q=90",
+    "source_id": "9755750",
+    "barcode": "9310012029601",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "80",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

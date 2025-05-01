@@ -1,0 +1,92 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/312801/south-cape-cracked-pepper-cream-cheese",
+    "name": "South Cape Cracked Pepper Cream Cheese 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/312801.jpg",
+    "source_id": "312801",
+    "barcode": "9314441706553",
+    "shop": "Woolworths",
+    "category_id": "22098",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "510",
+        "price_per_unit": "2550",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/312798/south-cape-herb-garlic-cream-cheese",
+    "name": "South Cape Herb & Garlic Cream Cheese 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/312798.jpg",
+    "source_id": "312798",
+    "barcode": "9314441706539",
+    "shop": "Woolworths",
+    "category_id": "22098",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "510",
+        "price_per_unit": "2550",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/858232/philadelphia-original-cream-cheese-spread-tub",
+    "name": "Philadelphia Original Cream Cheese Spread Tub 140g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/858232.jpg",
+    "source_id": "858232",
+    "barcode": "9300650015944",
+    "shop": "Woolworths",
+    "category_id": "22098",
+    "weight": "140g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "2857",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296507/woolworths-cream-cheese",
+    "name": "Woolworths Cream Cheese 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/296507.jpg",
+    "source_id": "296507",
+    "barcode": "9300633982423",
+    "shop": "Woolworths",
+    "category_id": "22098",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "1160",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/624195/woolworths-cream-cheese-block",
+    "name": "Woolworths Cream Cheese Block 225g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/624195.jpg",
+    "source_id": "624195",
+    "barcode": "9300633675424",
+    "shop": "Woolworths",
+    "category_id": "22098",
+    "weight": "225G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

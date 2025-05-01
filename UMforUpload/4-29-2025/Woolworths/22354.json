@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/157649/eat-later-cavendish-bananas",
+    "name": "Eat Later Cavendish Bananas Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/157649.jpg",
+    "source_id": "157649",
+    "barcode": "0261363000001",
+    "shop": "Woolworths",
+    "category_id": "22354",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "93",
+        "price_per_unit": "93",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "93",
+        "price_per_unit": "93",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "93",
+        "price_per_unit": "93",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/508279/carnarvon-bananas-banana",
+    "name": "Carnarvon Bananas 750G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/508279.jpg",
+    "source_id": "508279",
+    "barcode": "9317645000922",
+    "shop": "Woolworths",
+    "category_id": "22354",
+    "weight": "750G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "533",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

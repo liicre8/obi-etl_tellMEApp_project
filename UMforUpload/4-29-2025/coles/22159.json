@@ -1,0 +1,92 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/farmers-union-no-added-sugar-kids-yogurt-pouch-tropical-130g-6601309",
+    "name": "Farmers Union No Added Sugar Kids Yogurt Pouch Tropical | 130g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6601309.jpg&w=640&q=90",
+    "source_id": "6601309",
+    "barcode": "9300658411007",
+    "shop": "coles",
+    "category_id": "22159",
+    "weight": "130g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "169",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/farmers-union-no-added-sugar-kids-yogurt-pouch-banana-130g-6601310",
+    "name": "Farmers Union No Added Sugar Kids Yogurt Pouch Banana | 130g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6601310.jpg&w=640&q=90",
+    "source_id": "6601310",
+    "barcode": "9300658411014",
+    "shop": "coles",
+    "category_id": "22159",
+    "weight": "130g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "169",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/danone-yopro-pouch-mango-150g-5312306",
+    "name": "Danone YoPro Pouch Mango | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5312306.jpg&w=640&q=90",
+    "source_id": "5312306",
+    "barcode": "9344962002179",
+    "shop": "coles",
+    "category_id": "22159",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "200",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/siggi's-yoghurt-pouch-vanilla-150g-7671693",
+    "name": "Siggi's Yoghurt Pouch Vanilla | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7671693.jpg&w=640&q=90",
+    "source_id": "7671693",
+    "barcode": "9310036064183",
+    "shop": "coles",
+    "category_id": "22159",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "167",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/siggi's-yoghurt-pouch-raspberry-150g-7671707",
+    "name": "Siggi's Yoghurt Pouch Raspberry | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7671707.jpg&w=640&q=90",
+    "source_id": "7671707",
+    "barcode": "9310036064343",
+    "shop": "coles",
+    "category_id": "22159",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "167",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

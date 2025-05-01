@@ -1,0 +1,458 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/210537/ingham-s-classic-turkey-breast-oven-roasted",
+    "name": "Ingham's Classic Turkey Breast Oven Roasted 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/210537.jpg",
+    "source_id": "210537",
+    "barcode": "9358553100311",
+    "shop": "Woolworths",
+    "category_id": "24046",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2450",
+        "price_per_unit": "3063",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "2450",
+        "price_per_unit": "3063",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2450",
+        "price_per_unit": "3063",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2450",
+        "price_per_unit": "3063",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2450",
+        "price_per_unit": "3063",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2450",
+        "price_per_unit": "3063",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67763/ingham-s-turkey-breast-strips",
+    "name": "Ingham's Turkey Breast Strips 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/067763.jpg",
+    "source_id": "67763",
+    "barcode": "9310037148936",
+    "shop": "Woolworths",
+    "category_id": "24046",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/840244/ingham-s-turkey-breast-mince",
+    "name": "Ingham's Turkey Breast Mince 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/840244.jpg",
+    "source_id": "840244",
+    "barcode": "9310037148660",
+    "shop": "Woolworths",
+    "category_id": "24046",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67739/ingham-s-turkey-breast-steaks",
+    "name": "Ingham's Turkey Breast Steaks 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/067739.jpg",
+    "source_id": "67739",
+    "barcode": "9310037148943",
+    "shop": "Woolworths",
+    "category_id": "24046",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178792/ingham-s-turkey-necks",
+    "name": "Ingham's Turkey Necks 1.2kg - 1.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/178792.jpg",
+    "source_id": "178792",
+    "barcode": "2854400000003",
+    "shop": "Woolworths",
+    "category_id": "24046",
+    "weight": "1.2Kg - 1.5Kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1125",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1125",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1125",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/310516/ingham-s-turkey-drumsticks",
+    "name": "Ingham's Turkey Drumsticks 1.3kg - 1.9kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/310516.jpg",
+    "source_id": "310516",
+    "barcode": "2409870000000",
+    "shop": "Woolworths",
+    "category_id": "24046",
+    "weight": "1.3Kg - 1.9Kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1805",
+        "price_per_unit": "950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/660745/ingham-s-turkey-thigh-roast",
+    "name": "Ingham's Turkey Thigh Roast 800g - 1.2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/660745.jpg",
+    "source_id": "660745",
+    "barcode": "2425530000005",
+    "shop": "Woolworths",
+    "category_id": "24046",
+    "weight": "800g - 1.2Kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1680",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1680",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1680",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/310634/ingham-s-turkey-wing-pieces",
+    "name": "Ingham's Turkey Wing Pieces 640g - 1.9kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/310634.jpg",
+    "source_id": "310634",
+    "barcode": "2409880000007",
+    "shop": "Woolworths",
+    "category_id": "24046",
+    "weight": "640g - 1.9Kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1615",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/345277/game-farm-spatchcock-whole",
+    "name": "Game Farm Spatchcock Whole 350g - 690g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/345277.jpg",
+    "source_id": "345277",
+    "barcode": "2604980000005",
+    "shop": "Woolworths",
+    "category_id": "24046",
+    "weight": "350G - 690G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1346",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1346",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1346",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/713467/k-roo-kangaroo-sausages-kanga-bangas-bush-tomato",
+    "name": "K-Roo Kangaroo Sausages Kanga Bangas Bush Tomato 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/713467.jpg",
+    "source_id": "713467",
+    "barcode": "9312141010048",
+    "shop": "Woolworths",
+    "category_id": "24046",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/117132/k-roo-kangaroo-steak-marinated",
+    "name": "K-Roo Kangaroo Steak Marinated 500g - 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/117132.jpg",
+    "source_id": "117132",
+    "barcode": "2998550000008",
+    "shop": "Woolworths",
+    "category_id": "24046",
+    "weight": "500g - 600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1590",
+        "price_per_unit": "2650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1590",
+        "price_per_unit": "2650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1590",
+        "price_per_unit": "2650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1590",
+        "price_per_unit": "2650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1590",
+        "price_per_unit": "2650",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/964292/luv-a-duck-confit-duck-legs-slow-cooked",
+    "name": "Luv-A-Duck Confit Duck Legs Slow Cooked 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/964292.jpg",
+    "source_id": "964292",
+    "barcode": "9330471024221",
+    "shop": "Woolworths",
+    "category_id": "24046",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/367125/luv-a-duck-slow-cooked-roast-half-duck",
+    "name": "Luv-A-Duck Slow Cooked Roast Half Duck 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/367125.jpg",
+    "source_id": "367125",
+    "barcode": "9330471023965",
+    "shop": "Woolworths",
+    "category_id": "24046",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

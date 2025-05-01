@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/114168/woolworths-easter-indulgent-brioche-fruit-hot-cross-buns",
+    "name": "Woolworths Easter Indulgent Brioche Fruit Hot Cross Buns 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/114168.jpg",
+    "source_id": "114168",
+    "barcode": "9339687207503",
+    "shop": "Woolworths",
+    "category_id": "22064",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/101022/woolworths-mini-cheese-and-garlic-scrolls",
+    "name": "Woolworths Mini Cheese and Garlic Scrolls 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/101022.jpg",
+    "source_id": "101022",
+    "barcode": "0285965000009",
+    "shop": "Woolworths",
+    "category_id": "22064",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/101011/woolworths-mini-mighty-cheese-scrolls",
+    "name": "Woolworths Mini Mighty Cheese Scrolls 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/101011.jpg",
+    "source_id": "101011",
+    "barcode": "0285964000000",
+    "shop": "Woolworths",
+    "category_id": "22064",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/101008/woolworths-mini-pizza-scrolls",
+    "name": "Woolworths Mini Pizza Scrolls 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/101008.jpg",
+    "source_id": "101008",
+    "barcode": "0285963000001",
+    "shop": "Woolworths",
+    "category_id": "22064",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-frozen-australian-potato-chunky-wedges-750g-6068969",
+    "name": "Coles Frozen Australian Potato Chunky Wedges | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6068969.jpg&w=640&q=90",
+    "source_id": "6068969",
+    "barcode": "9310645250069",
+    "shop": "coles",
+    "category_id": "22285",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/table-and-tale-yorkshire-puddings-220g-3896330",
+    "name": "Table & Tale Yorkshire Puddings | 220g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3896330.jpg&w=640&q=90",
+    "source_id": "3896330",
+    "barcode": "9350007004916",
+    "shop": "coles",
+    "category_id": "22285",
+    "weight": "220g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kitchen-cauliflower-cheese-bake-800g-5777401",
+    "name": "Coles Kitchen Cauliflower Cheese Bake | 800g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5777401.jpg&w=640&q=90",
+    "source_id": "5777401",
+    "barcode": "9310645401416",
+    "shop": "coles",
+    "category_id": "22285",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "83",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-finest-parmentier-potatoes-500-gram-6442431",
+    "name": "Coles Finest Parmentier Potatoes | 500 GRAM",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6442431.jpg&w=640&q=90",
+    "source_id": "6442431",
+    "barcode": "9310645414430",
+    "shop": "coles",
+    "category_id": "22285",
+    "weight": "500gram",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "gram"
+      }
+    ]
+  }
+]

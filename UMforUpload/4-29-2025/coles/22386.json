@@ -1,0 +1,242 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-i'm-perfect-onions-prepacked-1.5kg-3609257",
+    "name": "Coles I'm Perfect Onions Prepacked | 1.5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3609257.jpg&w=640&q=90",
+    "source_id": "3609257",
+    "barcode": "9310645277387",
+    "shop": "coles",
+    "category_id": "22386",
+    "weight": "1.5kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "260",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "193",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-spring-onions-1-bunch-408419",
+    "name": "Coles Spring Onions | 1 bunch",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F408419.jpg&w=640&q=90",
+    "source_id": "408419",
+    "barcode": "9416744068724",
+    "shop": "coles",
+    "category_id": "22386",
+    "weight": "1bunch",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "260",
+        "price_per_unit": "260",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "QLD",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "WA",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "SA",
+        "price": "260",
+        "price_per_unit": "260",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "NT",
+        "price": "260",
+        "price_per_unit": "260",
+        "price_unit": "bunch"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-leeks-1-each-4595930",
+    "name": "Coles Leeks | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4595930.jpg&w=640&q=90",
+    "source_id": "4595930",
+    "barcode": "9300601213627",
+    "shop": "coles",
+    "category_id": "22386",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-red-onion-1-kg-1kg-8467604",
+    "name": "Coles Red Onion 1 Kg | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8467604.jpg&w=640&q=90",
+    "source_id": "8467604",
+    "barcode": "9300601164257",
+    "shop": "coles",
+    "category_id": "22386",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-rosalee-pink-onions-prepacked-1kg-2483914",
+    "name": "Coles Rosalee Pink Onions Prepacked | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2483914.jpg&w=640&q=90",
+    "source_id": "2483914",
+    "barcode": "9369999053406",
+    "shop": "coles",
+    "category_id": "22386",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "kg"
+      }
+    ]
+  }
+]

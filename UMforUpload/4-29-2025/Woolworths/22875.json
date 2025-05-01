@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/698019/macro-australian-whole-grain-freekeh",
+    "name": "Macro Australian Whole Grain Freekeh 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/698019.jpg",
+    "source_id": "698019",
+    "barcode": "9339687056767",
+    "shop": "Woolworths",
+    "category_id": "22875",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/335080/macro-organic-buckwheat-raw",
+    "name": "Macro Organic Buckwheat Raw 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/335080.jpg",
+    "source_id": "335080",
+    "barcode": "9300633203061",
+    "shop": "Woolworths",
+    "category_id": "22875",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "80",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/335073/macro-organic-quinoa",
+    "name": "Macro Organic Quinoa 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/335073.jpg",
+    "source_id": "335073",
+    "barcode": "9337803003237",
+    "shop": "Woolworths",
+    "category_id": "22875",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/706627/macro-organic-quinoa-flakes",
+    "name": "Macro Organic Quinoa Flakes 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/706627.jpg",
+    "source_id": "706627",
+    "barcode": "9300633253813",
+    "shop": "Woolworths",
+    "category_id": "22875",
+    "weight": "350G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "735",
+        "price_per_unit": "210",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/717631/macro-organic-quinoa-tri-colour",
+    "name": "Macro Organic Quinoa Tri Colour 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/717631.jpg",
+    "source_id": "717631",
+    "barcode": "9300633284657",
+    "shop": "Woolworths",
+    "category_id": "22875",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/499695/macro-white-quinoa",
+    "name": "Macro White Quinoa 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/499695.jpg",
+    "source_id": "499695",
+    "barcode": "9300633539023",
+    "shop": "Woolworths",
+    "category_id": "22875",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

@@ -1,0 +1,470 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/90922/antoniou-fillo-pastry",
+    "name": "Antoniou Fillo Pastry 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/090922.jpg",
+    "source_id": "90922",
+    "barcode": "9310683000039",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "475",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85721/double-merino-pastry-gow-gee",
+    "name": "Double Merino Pastry Gow Gee 275g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085721.jpg",
+    "source_id": "85721",
+    "barcode": "9316105010013",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "275G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "118",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/120289/evergreen-gyoza-wrappers",
+    "name": "Evergreen Gyoza Wrappers 275g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/120289.jpg",
+    "source_id": "120289",
+    "barcode": "9323536720114",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "275G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "131",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/120049/evergreen-wonton-wrappers",
+    "name": "Evergreen Wonton Wrappers 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/120049.jpg",
+    "source_id": "120049",
+    "barcode": "9323536720138",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/238292/grand-italian-tuscans-finest-creamy-ricotta-spinach-agnolotti",
+    "name": "Grand Italian Tuscans Finest Creamy Ricotta Spinach Agnolotti 325g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/238292.jpg",
+    "source_id": "238292",
+    "barcode": "9336088006919",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "325g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "123",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/238393/grand-italian-tuscans-finest-slow-cooked-angus-beef-ravioli",
+    "name": "Grand Italian Tuscans Finest Slow Cooked Angus Beef Ravioli 325g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/238393.jpg",
+    "source_id": "238393",
+    "barcode": "9336088006926",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "325g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "123",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/238206/grand-italian-tuscans-finest-veal-tortellini",
+    "name": "Grand Italian Tuscans Finest Veal Tortellini 325g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/238206.jpg",
+    "source_id": "238206",
+    "barcode": "9336088006957",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "325g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "123",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/77075/guzzi-s-golden-pasta-gnocchi-potato",
+    "name": "Guzzi's Golden Pasta Gnocchi Potato 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/077075.jpg",
+    "source_id": "77075",
+    "barcode": "9311208003269",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "475",
+        "price_per_unit": "95",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/153019/i-pastai-fresh-pasta-linguine-pasta",
+    "name": "I Pastai Fresh Pasta Linguine Pasta 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/153019.jpg",
+    "source_id": "153019",
+    "barcode": "9349801000927",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "171",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/99965/la-tosca-fresh-filled-pasta-beef-ravioli-value-pack",
+    "name": "La Tosca Fresh Filled Pasta Beef Ravioli Value Pack 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/099965.jpg",
+    "source_id": "99965",
+    "barcode": "9310644301939",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "83",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/212737/la-tosca-fresh-pasta-lasagne-sheets",
+    "name": "La Tosca Fresh Pasta Lasagne Sheets 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/212737.jpg",
+    "source_id": "212737",
+    "barcode": "9310644301236",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "107",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/958720/leggo-s-agnolotti-with-spinach-ricotta-parmesan",
+    "name": "Leggo's Agnolotti With Spinach Ricotta & Parmesan 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/958720.jpg",
+    "source_id": "958720",
+    "barcode": "9356335001498",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "139",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/321800/leggo-s-fresh-beef-tomato-parmesan-ravioli",
+    "name": "Leggo's Fresh Beef Tomato & Parmesan Ravioli 630g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/321800.jpg",
+    "source_id": "321800",
+    "barcode": "9356335001467",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "630g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/618610/leggo-s-fresh-bolognese-sauce",
+    "name": "Leggo's Fresh Bolognese Sauce 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/618610.jpg",
+    "source_id": "618610",
+    "barcode": "9356335001511",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/662572/leggo-s-fresh-carbonara-sauce",
+    "name": "Leggo's Fresh Carbonara Sauce 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/662572.jpg",
+    "source_id": "662572",
+    "barcode": "9356335001580",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/618613/leggo-s-fresh-creamy-tomato-sauce",
+    "name": "Leggo's Fresh Creamy Tomato Sauce 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/618613.jpg",
+    "source_id": "618613",
+    "barcode": "9356335001559",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/809888/leggo-s-fresh-mushroom-ricotta-ravioli",
+    "name": "Leggo's Fresh Mushroom & Ricotta Ravioli 630g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/809888.jpg",
+    "source_id": "809888",
+    "barcode": "9356335001610",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "630g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/618611/leggo-s-fresh-napoli-sauce",
+    "name": "Leggo's Fresh Napoli Sauce 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/618611.jpg",
+    "source_id": "618611",
+    "barcode": "9356335001535",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/618571/leggo-s-fresh-napoli-sauce",
+    "name": "Leggo's Fresh Napoli Sauce 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/618571.jpg",
+    "source_id": "618571",
+    "barcode": "9356335001542",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/618612/leggo-s-fresh-pasta-sauce-bolognese",
+    "name": "Leggo's Fresh Pasta Sauce Bolognese 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/618612.jpg",
+    "source_id": "618612",
+    "barcode": "9356335001528",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/321815/leggo-s-fresh-ricotta-vegetable-tortellini",
+    "name": "Leggo's Fresh Ricotta & Vegetable Tortellini 630g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/321815.jpg",
+    "source_id": "321815",
+    "barcode": "9356335001450",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "630g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/765451/leggo-s-fresh-roasted-pumpkin-feta-ravioli",
+    "name": "Leggo's Fresh Roasted Pumpkin  & Feta Ravioli 630g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/765451.jpg",
+    "source_id": "765451",
+    "barcode": "9356335001481",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "630g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "175",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/618616/leggo-s-fresh-veal-tortellini",
+    "name": "Leggo's Fresh Veal Tortellini 630g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/618616.jpg",
+    "source_id": "618616",
+    "barcode": "9356335001566",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "630g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/321835/leggo-s-ravioli-beef-tomato-parmesan",
+    "name": "Leggo's Ravioli Beef Tomato & Parmesan 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/321835.jpg",
+    "source_id": "321835",
+    "barcode": "9356335001443",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "139",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/28059/rana-egg-lasagne-pasta",
+    "name": "Rana Egg Lasagne Pasta 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/028059.jpg",
+    "source_id": "28059",
+    "barcode": "8001665706834",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/81571/rana-fettuccine-pasta",
+    "name": "Rana Fettuccine Pasta 325g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/081571.jpg",
+    "source_id": "81571",
+    "barcode": "8001665707367",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "325G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "185",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-plums-montague-tree-approx.-130g-each-2693247",
+    "name": "Coles Plums Montague Tree | approx. 130g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2693247.jpg&w=640&q=90",
+    "source_id": "2693247",
+    "barcode": "9369999318567",
+    "shop": "coles",
+    "category_id": "22364",
+    "weight": "130geach",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "90",
+        "price_per_unit": "690",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "90",
+        "price_per_unit": "690",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "90",
+        "price_per_unit": "690",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-black-plums-approx.-110g-5424026",
+    "name": "Coles Black Plums | approx. 110g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5424026.jpg&w=640&q=90",
+    "source_id": "5424026",
+    "barcode": "9358695000296",
+    "shop": "coles",
+    "category_id": "22364",
+    "weight": "110g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "65",
+        "price_per_unit": "590",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "65",
+        "price_per_unit": "590",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "65",
+        "price_per_unit": "590",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-persimmons-medium-1-each-410035",
+    "name": "Coles Persimmons Medium | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F410035.jpg&w=640&q=90",
+    "source_id": "410035",
+    "barcode": "9369998188109",
+    "shop": "coles",
+    "category_id": "22364",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "each"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-durian-imported-approx-.2kg-111227",
+    "name": "Coles Durian Imported | approx .2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F111227.jpg&w=640&q=90",
+    "source_id": "111227",
+    "barcode": "9316705000186",
+    "shop": "coles",
+    "category_id": "22364",
+    "weight": ".2kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3380",
+        "price_per_unit": "1690",
+        "price_unit": ".kg"
+      },
+      {
+        "state": "VIC",
+        "price": "3776",
+        "price_per_unit": "1888",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-half-papaw-1-each-3417121",
+    "name": "Coles Half Papaw | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3417121.jpg&w=640&q=90",
+    "source_id": "3417121",
+    "barcode": "9310645353517",
+    "shop": "coles",
+    "category_id": "22364",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-custard-apple-loose-approx.-420g-each-409568",
+    "name": "Coles Custard Apple Loose | approx. 420g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F409568.jpg&w=640&q=90",
+    "source_id": "409568",
+    "barcode": "9354829000095",
+    "shop": "coles",
+    "category_id": "22364",
+    "weight": "420geach",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "542",
+        "price_per_unit": "1290",
+        "price_unit": "each"
+      },
+      {
+        "state": "VIC",
+        "price": "542",
+        "price_per_unit": "1290",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "542",
+        "price_per_unit": "1290",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "542",
+        "price_per_unit": "1290",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-dragonfruit-fresh-1-each-6866880",
+    "name": "Coles Dragonfruit Fresh | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6866880.jpg&w=640&q=90",
+    "source_id": "6866880",
+    "barcode": "9316705001077",
+    "shop": "coles",
+    "category_id": "22364",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "each"
+      },
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-longans-prepack-400g-8018010",
+    "name": "Fresh Longans Prepack | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8018010.jpg&w=640&q=90",
+    "source_id": "8018010",
+    "barcode": "9343996000052",
+    "shop": "coles",
+    "category_id": "22364",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "990",
+        "price_per_unit": "2475",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "990",
+        "price_per_unit": "2475",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "990",
+        "price_per_unit": "2475",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "990",
+        "price_per_unit": "2475",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "990",
+        "price_per_unit": "2475",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "990",
+        "price_per_unit": "2475",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-microwave-chestnuts-200g-3574356",
+    "name": "Coles Microwave Chestnuts | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3574356.jpg&w=640&q=90",
+    "source_id": "3574356",
+    "barcode": "9339011000992",
+    "shop": "coles",
+    "category_id": "22364",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "1950",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "1950",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

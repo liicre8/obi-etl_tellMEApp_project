@@ -1,0 +1,758 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/noshu-low-carb-fudgy-brownies-mix-300g-3660390",
+    "name": "Noshu Low Carb Fudgy Brownies Mix | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3660390.jpg&w=640&q=90",
+    "source_id": "3660390",
+    "barcode": "9351777001150",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/noshu-low-carb-choc-chip-cookies-mix-300g-3660436",
+    "name": "Noshu Low Carb Choc Chip Cookies Mix | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3660436.jpg&w=640&q=90",
+    "source_id": "3660436",
+    "barcode": "9351777001211",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/noshu-low-carb-banana-bread-baking-mix-450g-7682044",
+    "name": "Noshu Low Carb Banana Bread Baking Mix | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7682044.jpg&w=640&q=90",
+    "source_id": "7682044",
+    "barcode": "9351777001570",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "167",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/betty-crocker-blueberry-muffin-mix-500g-9491273",
+    "name": "Betty Crocker Blueberry Muffin Mix | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9491273.jpg&w=640&q=90",
+    "source_id": "9491273",
+    "barcode": "9300695004996",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/laucke-wholemeal-bread-mix-2.4-kg-5120360",
+    "name": "Laucke Wholemeal Bread Mix | 2.4 kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5120360.jpg&w=640&q=90",
+    "source_id": "5120360",
+    "barcode": "9321885004794",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "2.4kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "970",
+        "price_per_unit": "404",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/green's-deluxe-carrot-layer-cake-mix-600g-4959538",
+    "name": "Green's Deluxe Carrot Layer Cake Mix | 600g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4959538.jpg&w=640&q=90",
+    "source_id": "4959538",
+    "barcode": "9310273002160",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "63",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/green's-deluxe-triple-choc-muffin-mix-425g-3997190",
+    "name": "Green's Deluxe Triple Choc Muffin Mix | 425g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3997190.jpg&w=640&q=90",
+    "source_id": "3997190",
+    "barcode": "9310273001811",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "89",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/green's-deluxe-vanilla-bean-layer-cake-mix-555g-5517036",
+    "name": "Green's Deluxe Vanilla Bean Layer Cake Mix | 555g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5517036.jpg&w=640&q=90",
+    "source_id": "5517036",
+    "barcode": "9310273002146",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "555g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "68",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-i'm-free-from-cake-mix-vanilla-470g-1233220",
+    "name": "Coles I'M Free From Cake Mix Vanilla | 470g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1233220.jpg&w=640&q=90",
+    "source_id": "1233220",
+    "barcode": "9300601915293",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "470g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "85",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-i'm-free-from-banana-bread-mix-400g-1252166",
+    "name": "Coles I'M Free From Banana Bread Mix | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1252166.jpg&w=640&q=90",
+    "source_id": "1252166",
+    "barcode": "9300601915286",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "88",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cake-board-10-inch-2-pack-2441801",
+    "name": "Coles Cake Board 10 Inch | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2441801.jpg&w=640&q=90",
+    "source_id": "2441801",
+    "barcode": "9310645107530",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "163",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bake-and-create-silver-patty-pans-100-pack-2442032",
+    "name": "Coles Bake & Create Silver Patty Pans | 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2442032.jpg&w=640&q=90",
+    "source_id": "2442032",
+    "barcode": "9310645107721",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "4",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bake-and-create-white-patty-pans-100-pack-2442054",
+    "name": "Coles Bake & Create White Patty Pans | 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2442054.jpg&w=640&q=90",
+    "source_id": "2442054",
+    "barcode": "9310645107714",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "4",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bake-and-create-polka-dot-patty-pans-100-pack-2442291",
+    "name": "Coles Bake & Create Polka Dot Patty Pans | 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2442291.jpg&w=640&q=90",
+    "source_id": "2442291",
+    "barcode": "9310645107684",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "4",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bake-and-create-mini-polka-dot-patty-pans-100-pack-2442360",
+    "name": "Coles Bake & Create Mini Polka Dot Patty Pans | 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2442360.jpg&w=640&q=90",
+    "source_id": "2442360",
+    "barcode": "9310645107745",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "3",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bake-and-create-muffin-wraps-36-pack-2442429",
+    "name": "Coles Bake & Create Muffin Wraps | 36 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2442429.jpg&w=640&q=90",
+    "source_id": "2442429",
+    "barcode": "9310645107783",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "36pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "10",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bake-and-create-piping-kit-bag-5-pack-2442440",
+    "name": "Coles Bake & Create Piping Kit Bag | 5 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2442440.jpg&w=640&q=90",
+    "source_id": "2442440",
+    "barcode": "9310645107639",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "5pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bake-and-create-brownie-mix-double-choc-500g-2517255",
+    "name": "Coles Bake & Create Brownie Mix Double Choc | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2517255.jpg&w=640&q=90",
+    "source_id": "2517255",
+    "barcode": "9310645343914",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "68",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-simply-cake-mix-butter-340g-2517324",
+    "name": "Coles Simply Cake Mix Butter | 340g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2517324.jpg&w=640&q=90",
+    "source_id": "2517324",
+    "barcode": "9310645318189",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "340g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "115",
+        "price_per_unit": "34",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-simply-chocolate-cake-mix-340g-2517335",
+    "name": "Coles Simply Chocolate Cake Mix | 340g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2517335.jpg&w=640&q=90",
+    "source_id": "2517335",
+    "barcode": "9310645318196",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "340g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "115",
+        "price_per_unit": "34",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-simply-cake-mix-vanilla-340g-2517346",
+    "name": "Coles Simply Cake Mix Vanilla | 340g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2517346.jpg&w=640&q=90",
+    "source_id": "2517346",
+    "barcode": "9310645318202",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "340g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "115",
+        "price_per_unit": "34",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bake-and-create-banana-bread-mix-450g-2517754",
+    "name": "Coles Bake & Create Banana Bread Mix | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2517754.jpg&w=640&q=90",
+    "source_id": "2517754",
+    "barcode": "9310645343921",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "235",
+        "price_per_unit": "52",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-wings-cake-in-a-cup-chocolate-brownie-220g-2870070",
+    "name": "White Wings Cake In A Cup Chocolate Brownie | 220g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2870070.jpg&w=640&q=90",
+    "source_id": "2870070",
+    "barcode": "9310047216083",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "220g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "273",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bake-and-create-vanilla-flavoured-cake-mix-440g-3195449",
+    "name": "Coles Bake & Create Vanilla Flavoured Cake Mix | 440g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3195449.jpg&w=640&q=90",
+    "source_id": "3195449",
+    "barcode": "9310645343938",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "440g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "235",
+        "price_per_unit": "53",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bake-and-create-bumble-bee-decorations-8g-32-pack-3566132",
+    "name": "Coles Bake & Create Bumble Bee Decorations 8g | 32 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3566132.jpg&w=640&q=90",
+    "source_id": "3566132",
+    "barcode": "9310645271033",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "32pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "4375",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bake-and-create-patterned-party-pans-150-piece-3566766",
+    "name": "Coles Bake & Create Patterned Party Pans | 150 Piece",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3566766.jpg&w=640&q=90",
+    "source_id": "3566766",
+    "barcode": "9310645271057",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "150piece",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "3",
+        "price_unit": "piece"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bake-and-create-coloured-patty-pans-150-piece-3566788",
+    "name": "Coles Bake & Create Coloured Patty Pans | 150 piece",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3566788.jpg&w=640&q=90",
+    "source_id": "3566788",
+    "barcode": "9310645271064",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "150piece",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "3",
+        "price_unit": "piece"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bake-and-create-eyeball-decorations-80g-3567930",
+    "name": "Coles Bake & Create Eyeball Decorations | 80g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3567930.jpg&w=640&q=90",
+    "source_id": "3567930",
+    "barcode": "9310645270999",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "438",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-ultimate-choc-chip-cookie-baking-mix-500g-3737417",
+    "name": "Coles Ultimate Choc Chip Cookie Baking Mix | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3737417.jpg&w=640&q=90",
+    "source_id": "3737417",
+    "barcode": "9310645291727",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/green's-banana-bread-loaf-mix-400g-3996947",
+    "name": "Green's Banana Bread Loaf Mix | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3996947.jpg&w=640&q=90",
+    "source_id": "3996947",
+    "barcode": "9310273000609",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "95",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-egg-replacer-70g-4357998",
+    "name": "Mckenzie's Egg Replacer | 70g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4357998.jpg&w=640&q=90",
+    "source_id": "4357998",
+    "barcode": "9310061125149",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "70g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "464",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bake-and-create-striped-small-patty-pans-100-pack-4382929",
+    "name": "Coles Bake & Create Striped Small Patty Pans | 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4382929.jpg&w=640&q=90",
+    "source_id": "4382929",
+    "barcode": "9310645347615",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "3",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/laucke-wallaby-bakers-plain-flour-5kg-4418990",
+    "name": "Laucke Wallaby Bakers Plain Flour | 5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4418990.jpg&w=640&q=90",
+    "source_id": "4418990",
+    "barcode": "9321885002080",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "280",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/donna-hay-wholesome-banana-bread-wholemeal-540g-5061240",
+    "name": "Donna Hay Wholesome Banana Bread Wholemeal | 540g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5061240.jpg&w=640&q=90",
+    "source_id": "5061240",
+    "barcode": "9345227000336",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "540g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "148",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-wings-unbelievably-good-chocolate-cake-mix-565g-5497507",
+    "name": "White Wings Unbelievably Good Chocolate Cake Mix | 565g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5497507.jpg&w=640&q=90",
+    "source_id": "5497507",
+    "barcode": "9310047222640",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "565g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "104",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-wings-unbelievably-good-chocolate-chip-mix-320g-5497530",
+    "name": "White Wings Unbelievably Good Chocolate Chip Mix | 320g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5497530.jpg&w=640&q=90",
+    "source_id": "5497530",
+    "barcode": "9310047222633",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "320g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "184",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-ultimate-gluten-free-40percent-chocolate-chip-cookie-baking-mix-500g-5915527",
+    "name": "Coles Ultimate Gluten Free 40% Chocolate Chip Cookie Baking Mix | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5915527.jpg&w=640&q=90",
+    "source_id": "5915527",
+    "barcode": "9310645402796",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "570",
+        "price_per_unit": "114",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-wings-unbelievably-good-brownie-mix-475g-6064108",
+    "name": "White Wings Unbelievably Good Brownie Mix | 475g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6064108.jpg&w=640&q=90",
+    "source_id": "6064108",
+    "barcode": "9310047222671",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "475g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "124",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-wings-in-a-cup-cinnamon-doughnut-220g-6373226",
+    "name": "White Wings In A Cup Cinnamon Doughnut | 220g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6373226.jpg&w=640&q=90",
+    "source_id": "6373226",
+    "barcode": "9310047218230",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "220g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "273",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mt-elephant-wholefood-double-choc-cookie-mix-375g-7682135",
+    "name": "Mt Elephant Wholefood Double Choc Cookie Mix | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7682135.jpg&w=640&q=90",
+    "source_id": "7682135",
+    "barcode": "9353799002009",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "227",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/laucke-multigrain-bread-mix-5kg-7782130",
+    "name": "Laucke Multigrain Bread Mix | 5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7782130.jpg&w=640&q=90",
+    "source_id": "7782130",
+    "barcode": "9321885000109",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "340",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/laucke-white-crusty-calico-bag-bread-mix-10kg-8854101",
+    "name": "Laucke White Crusty Calico Bag Bread Mix | 10kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8854101.jpg&w=640&q=90",
+    "source_id": "8854101",
+    "barcode": "9321885000017",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "10kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2760",
+        "price_per_unit": "276",
+        "price_unit": "kg"
+      }
+    ]
+  }
+]

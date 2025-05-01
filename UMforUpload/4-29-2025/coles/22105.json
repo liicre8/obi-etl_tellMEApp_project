@@ -1,0 +1,56 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/pauls-low-fat-less-sugar-vanilla-custard-600g-5590987",
+    "name": "Pauls Low Fat Less Sugar Vanilla Custard | 600g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5590987.jpg&w=640&q=90",
+    "source_id": "5590987",
+    "barcode": "9310036013013",
+    "shop": "coles",
+    "category_id": "22105",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "67",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-vanilla-flavour-custard-600g-7152346",
+    "name": "Coles Vanilla Flavour Custard | 600g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7152346.jpg&w=640&q=90",
+    "source_id": "7152346",
+    "barcode": "9300601614448",
+    "shop": "coles",
+    "category_id": "22105",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "28",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dairy-farmers-thick-vanilla-custard-carton-1kg-7653374",
+    "name": "Dairy Farmers Thick Vanilla Custard Carton | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7653374.jpg&w=640&q=90",
+    "source_id": "7653374",
+    "barcode": "9310199035600",
+    "shop": "coles",
+    "category_id": "22105",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "49",
+        "price_unit": "kg"
+      }
+    ]
+  }
+]

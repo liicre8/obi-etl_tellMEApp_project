@@ -57,7 +57,7 @@ const scraper = async () => {
     browser = await puppeteer.launch({
       headless: false,
       // executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
-      // userDataDir: 'C:\\Users\\OBI - Sunny\\AppData\\Local\\Google\\Chrome\\User Data2\\Profile 2',
+      // userDataDir: 'C:\\Users\\OBI - Wilslie\\AppData\\Local\\Google\\Chrome\\User Data2\\Profile 2',
     });
     for (const loc of locations) {
       let page2;

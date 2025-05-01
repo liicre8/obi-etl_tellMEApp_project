@@ -1,10 +1,44 @@
+
 import puppeteer from 'puppeteer-extra';
 import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import fs from 'fs';
 puppeteer.use(StealthPlugin());
+
 function delay(time) {
   return new Promise((resolve) => setTimeout(resolve, time));
 }
+
+const captcha = async (page, url) => {
+  let i = 1;
+  const maxTries = 20;
+  try {
+    while (i <= maxTries) {
+      console.log(`🔎 Checking for CAPTCHA... (${i})`);
+      await delay(5000);
+      const captchaStillThere = await page.evaluate(() => {
+        return !!document.querySelector('iframe[src*="_Incapsula_Resource"]');
+      });
+
+      if (!captchaStillThere) {
+        console.log('✅ CAPTCHA solved! Proceeding...');
+        break;
+      }
+
+      console.log('🛑 CAPTCHA still detected, waiting for manual solve...');
+      i++;
+    }
+
+    if (i > maxTries) {
+      console.warn('⚠️ Max wait reached. Proceeding anyway (captcha may still be there).');
+    }
+
+    return true;
+  } catch (error) {
+    console.error('❌ Error while waiting for CAPTCHA:', error);
+    return false;
+  }
+};
+
 const userAgents = [
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0',
@@ -19,16 +53,17 @@ const userAgents = [
 ];
 
 puppeteer.use(StealthPlugin());
+
 (async () => {
   while (true) {
     const browser = await puppeteer.launch({
       headless: false,
       args: [
-       `--proxy-server=http=api.scraperapi.com:8001`,
-       // `--proxy-server=socks5://127.0.0.1:9050`
+        `--proxy-server=http=api.scraperapi.com:8001`,
+        // `--proxy-server=socks5://127.0.0.1:9050`
       ],
       executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
-      userDataDir: 'C:\\Users\\OBI - Lester\\AppData\\Local\\Google\\Chrome\\User Data\\Person 1',
+      userDataDir: 'C:\\Users\\OBI - Wilslie\\AppData\\Local\\Google\\Chrome\\User Data\\Person 1',
     });
     let page;
     while (true) {
@@ -40,25 +75,21 @@ puppeteer.use(StealthPlugin());
         username: SCRAPER_API_KEY,
         password: ''
       });
-      // await page.removeAllListeners('request');
-      await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36');
+
+      const randomUserAgent = userAgents[Math.floor(Math.random() * userAgents.length)];
+      await page.setUserAgent(randomUserAgent);
       await page.setExtraHTTPHeaders({
         Referer: 'https://www.coles.com.au/',
       });
-      // const cookies = await page.cookies();
-      // await page.deleteCookie(...cookies);
-      // const loadedCookies = JSON.parse(fs.readFileSync('./coles/colesCookies.json', 'utf-8'));
-      // await page.setCookie(...loadedCookies);
-      const randomUserAgent = userAgents[Math.floor(Math.random() * userAgents.length)];
-      await page.setUserAgent(randomUserAgent);
 
-     // //  to clear storage data of coles website
       await page.goto('https://www.coles.com.au/');
       const client = await page.target().createCDPSession();
       await client.send('Storage.clearDataForOrigin', {
-      origin: 'https://www.coles.com.au/',
-      storageTypes: 'all' // You can also specify 'local_storage', 'indexeddb', 'cache_storage'
-});
+        origin: 'https://www.coles.com.au/',
+        storageTypes: 'all'
+      });
+
+      await captcha(page, 'https://www.coles.com.au/');
 
       await page.goto('https://www.coles.com.au/browse/');
       await delay(15000);
@@ -68,8 +99,8 @@ puppeteer.use(StealthPlugin());
 
       const cookiesCraft = await page.cookies();
       fs.writeFileSync('./coles/colesCookies.json', JSON.stringify(cookiesCraft, null, 2));
-      console.log('Extracted Cookies done.');
-      // browser.close()
+      console.log('✅ Extracted Cookies successfully.');
+
       await page.close();
       await delay(15000);
     }

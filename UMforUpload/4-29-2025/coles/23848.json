@@ -1,0 +1,56 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/twisted-minis-frozen-yoghurt-strawberry-and-vanilla-bean-and-chocolate-and-vanilla-bean-4-pack-480ml-3147027",
+    "name": "Twisted Minis Frozen Yoghurt Strawberry & Vanilla Bean and Chocolate & Vanilla Bean 4 Pack | 480mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3147027.jpg&w=640&q=90",
+    "source_id": "3147027",
+    "barcode": "9349107000089",
+    "shop": "coles",
+    "category_id": "23848",
+    "weight": "480ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "167",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/yo-chi-frozen-wild-berry-yoghurt-500ml-5792904",
+    "name": "Yo Chi Frozen Wild Berry Yoghurt | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5792904.jpg&w=640&q=90",
+    "source_id": "5792904",
+    "barcode": "9354350000106",
+    "shop": "coles",
+    "category_id": "23848",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "190",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/yo-chi-frozen-natural-yoghurt-500ml-5792915",
+    "name": "Yo Chi Frozen Natural Yoghurt | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5792915.jpg&w=640&q=90",
+    "source_id": "5792915",
+    "barcode": "9354350000083",
+    "shop": "coles",
+    "category_id": "23848",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "190",
+        "price_unit": "ml"
+      }
+    ]
+  }
+]

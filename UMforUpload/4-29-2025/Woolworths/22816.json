@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/231842/al-brown-old-yella-habanero-mustard",
+    "name": "Al Brown Old Yella Habanero Mustard 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/231842.jpg",
+    "source_id": "231842",
+    "barcode": "9421903360120",
+    "shop": "Woolworths",
+    "category_id": "22816",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "460",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/96145/french-s-classic-yellow-american-mustard",
+    "name": "French's Classic Yellow American Mustard 226g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/096145.jpg",
+    "source_id": "96145",
+    "barcode": "41500010236",
+    "shop": "Woolworths",
+    "category_id": "22816",
+    "weight": "226g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "142",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/522639/heinz-american-mustard-squeeze-bottle",
+    "name": "Heinz American Mustard Squeeze Bottle 220ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/522639.jpg",
+    "source_id": "522639",
+    "barcode": "9300657036270",
+    "shop": "Woolworths",
+    "category_id": "22816",
+    "weight": "220mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "155",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/12799/maille-dijonnaise-sauce-with-wholegrain-mustard",
+    "name": "Maille Dijonnaise Sauce With Wholegrain Mustard 185g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/012799.jpg",
+    "source_id": "12799",
+    "barcode": "8720182768278",
+    "shop": "Woolworths",
+    "category_id": "22816",
+    "weight": "185g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "715",
+        "price_per_unit": "386",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/5558/maille-mustard-dijon",
+    "name": "Maille Mustard Dijon 215g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/005558.jpg",
+    "source_id": "5558",
+    "barcode": "8714100897935",
+    "shop": "Woolworths",
+    "category_id": "22816",
+    "weight": "215G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "293",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/141604/masterfoods-mild-american-mustard-mild-american-squeeze",
+    "name": "MasterFoods Mild American Mustard 550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/141604.jpg",
+    "source_id": "141604",
+    "barcode": "9310012024958",
+    "shop": "Woolworths",
+    "category_id": "22816",
+    "weight": "550g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "610",
+        "price_per_unit": "111",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

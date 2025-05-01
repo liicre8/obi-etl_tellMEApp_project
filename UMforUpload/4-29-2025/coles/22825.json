@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/aunt-betty's-plum-pudding-2-pack-220g-2424212",
+    "name": "Aunt Betty's Plum Pudding 2 Pack | 220g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2424212.jpg&w=640&q=90",
+    "source_id": "2424212",
+    "barcode": "9417986942353",
+    "shop": "coles",
+    "category_id": "22825",
+    "weight": "220g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "223",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/parsons-vanilla-creamed-rice-430g-4264547",
+    "name": "Parsons Vanilla Creamed Rice | 430g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4264547.jpg&w=640&q=90",
+    "source_id": "4264547",
+    "barcode": "9310047206909",
+    "shop": "coles",
+    "category_id": "22825",
+    "weight": "430g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "81",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

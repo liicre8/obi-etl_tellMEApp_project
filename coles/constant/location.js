@@ -1,10 +1,10 @@
 const locations = [
-    // // // // vic
+    // // // vic
     // {
     //     location: "Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145",
     //     subLucation: "Chadstone Shopping Centre, 1341 Dandenong Rd"
     // },
-    // // nsw
+    // // // nsw
     {
         location: "Sydney, NSW 2000",
         subLucation: "Coles Pyrmont"

@@ -1,0 +1,146 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/98838/bundaberg-ginger-beer",
+    "name": "Bundaberg Ginger Beer 375ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/098838.jpg",
+    "source_id": "98838",
+    "barcode": "93238946",
+    "shop": "Woolworths",
+    "category_id": "23943",
+    "weight": "375mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "365",
+        "price_per_unit": "973",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/938941/fanta-grape-zero-sugar-bottle",
+    "name": "Fanta Grape Zero Sugar Bottle 600mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/938941.jpg",
+    "source_id": "938941",
+    "barcode": "9300675095136",
+    "shop": "Woolworths",
+    "category_id": "23943",
+    "weight": "600mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "750",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6011573/fanta-lemon-zero-sugar",
+    "name": "Fanta Lemon Zero Sugar 600mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6011573.jpg",
+    "source_id": "6011573",
+    "barcode": "9300624036463",
+    "shop": "Woolworths",
+    "category_id": "23943",
+    "weight": "600mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "750",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/244282/fanta-orange-zero-sugar-soft-drink-bottles",
+    "name": "Fanta Orange Zero Sugar Soft Drink Bottles 600ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/244282.jpg",
+    "source_id": "244282",
+    "barcode": "9300675091961",
+    "shop": "Woolworths",
+    "category_id": "23943",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "750",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/729247/mountain-dew-energised-soft-drink-bottle-bottle",
+    "name": "Mountain Dew Energised Soft Drink Bottle Bottle 600mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/729247.jpg",
+    "source_id": "729247",
+    "barcode": "9313820001777",
+    "shop": "Woolworths",
+    "category_id": "23943",
+    "weight": "600mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "700",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/810768/pepsi-max-soda-shop-raspberry-cola-soft-drink-bottle",
+    "name": "Pepsi Max Soda Shop Raspberry Cola Soft Drink Bottle 600mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/810768.jpg",
+    "source_id": "810768",
+    "barcode": "9313820002279",
+    "shop": "Woolworths",
+    "category_id": "23943",
+    "weight": "600mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "700",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/711523/remedy-kombucha-raspberry-lemonade",
+    "name": "Remedy Kombucha Raspberry Lemonade 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/711523.jpg",
+    "source_id": "711523",
+    "barcode": "9350271000126",
+    "shop": "Woolworths",
+    "category_id": "23943",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "295",
+        "price_per_unit": "1180",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/963997/schweppes-messina-passionfruit-lemonade",
+    "name": "Schweppes Messina Passionfruit Lemonade 600ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/963997.jpg",
+    "source_id": "963997",
+    "barcode": "9315596009285",
+    "shop": "Woolworths",
+    "category_id": "23943",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "700",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

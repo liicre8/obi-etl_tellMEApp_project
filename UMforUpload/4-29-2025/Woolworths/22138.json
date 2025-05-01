@@ -1,0 +1,146 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/216867/a2-milk-light-milk",
+    "name": "A2 Milk Light Milk 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/216867.jpg",
+    "source_id": "216867",
+    "barcode": "9335390000028",
+    "shop": "Woolworths",
+    "category_id": "22138",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/208066/a2-milk-light-milk",
+    "name": "A2 Milk Light Milk 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/208066.jpg",
+    "source_id": "208066",
+    "barcode": "9335390000042",
+    "shop": "Woolworths",
+    "category_id": "22138",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/18361/pauls-skinny-no-fat-milk-milk",
+    "name": "Pauls Skinny No Fat Milk Milk 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/018361.jpg",
+    "source_id": "18361",
+    "barcode": "9310220916038",
+    "shop": "Woolworths",
+    "category_id": "22138",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "595",
+        "price_per_unit": "298",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/204746/pauls-smarter-white-low-fat-milk",
+    "name": "Pauls Smarter White Low Fat Milk 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/204746.jpg",
+    "source_id": "204746",
+    "barcode": "9310036039488",
+    "shop": "Woolworths",
+    "category_id": "22138",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/217149/pauls-smarter-white-low-fat-milk",
+    "name": "Pauls Smarter White Low Fat Milk 3L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/217149.jpg",
+    "source_id": "217149",
+    "barcode": "9310036026877",
+    "shop": "Woolworths",
+    "category_id": "22138",
+    "weight": "3L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "695",
+        "price_per_unit": "232",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/888139/woolworths-lite-milk",
+    "name": "Woolworths Lite Milk 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/888139.jpg",
+    "source_id": "888139",
+    "barcode": "9300633556181",
+    "shop": "Woolworths",
+    "category_id": "22138",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/888141/woolworths-lite-milk",
+    "name": "Woolworths Lite Milk 3l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/888141.jpg",
+    "source_id": "888141",
+    "barcode": "9300633556174",
+    "shop": "Woolworths",
+    "category_id": "22138",
+    "weight": "3L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "435",
+        "price_per_unit": "145",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/144000/zymil-lactose-free-low-fat-milk",
+    "name": "Zymil Lactose Free Low Fat Milk 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/144000.jpg",
+    "source_id": "144000",
+    "barcode": "9310036037941",
+    "shop": "Woolworths",
+    "category_id": "22138",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

@@ -1,0 +1,5576 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/201565/woolworths-smoked-chicken-breast-fillet",
+    "name": "Woolworths Smoked Chicken Breast Fillet 300g - 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/201565.jpg",
+    "source_id": "201565",
+    "barcode": "2605850000002",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "300g - 450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1238",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1238",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1238",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1238",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/345277/game-farm-spatchcock-whole",
+    "name": "Game Farm Spatchcock Whole 350g - 690g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/345277.jpg",
+    "source_id": "345277",
+    "barcode": "2604980000005",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "350G - 690G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1346",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1346",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1346",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/964292/luv-a-duck-confit-duck-legs-slow-cooked",
+    "name": "Luv-A-Duck Confit Duck Legs Slow Cooked 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/964292.jpg",
+    "source_id": "964292",
+    "barcode": "9330471024221",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "2222",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/184628/macro-chicken-breast-fillets-free-range",
+    "name": "Macro Chicken Breast Fillets Free Range 500g - 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/184628.jpg",
+    "source_id": "184628",
+    "barcode": "9339687207060",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500g - 600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1080",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1080",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1080",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1080",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1080",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/700228/macro-chicken-breast-fillets-free-range",
+    "name": "Macro Chicken Breast Fillets Free Range 700g - 1.4kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/700228.jpg",
+    "source_id": "700228",
+    "barcode": "9339687207176",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "700g - 1.4kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "2100",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2100",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2100",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2100",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2100",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2100",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2100",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/700279/macro-chicken-tenderloins-free-range",
+    "name": "Macro Chicken Tenderloins Free Range 450g - 650g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/700279.jpg",
+    "source_id": "700279",
+    "barcode": "9339687207206",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "450G - 650G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1300",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/184649/macro-chicken-thigh-fillets-free-range",
+    "name": "Macro Chicken Thigh Fillets Free Range 450g - 550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/184649.jpg",
+    "source_id": "184649",
+    "barcode": "9339687207077",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "450g - 550g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1073",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1073",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1073",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1073",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1073",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/700269/macro-chicken-wing-nibbles-free-range",
+    "name": "Macro Chicken Wing Nibbles Free Range 600g - 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/700269.jpg",
+    "source_id": "700269",
+    "barcode": "9339687207190",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "600g - 800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/927523/macro-free-range-australian-chicken-lovely-legs",
+    "name": "Macro Free Range Australian Chicken Lovely Legs 500g - 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/927523.jpg",
+    "source_id": "927523",
+    "barcode": "9339687393374",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500g - 700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "735",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "735",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "735",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "735",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "735",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "735",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/253887/macro-free-range-chicken-boneless-butterflied-chicken-moroccan",
+    "name": "Macro Free Range Chicken Boneless Butterflied Chicken Moroccan 900g - 1.4kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/253887.jpg",
+    "source_id": "253887",
+    "barcode": "9339687319916",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "900g - 1.4kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "2100",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2100",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2100",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2100",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2100",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2100",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2100",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/764857/macro-free-range-chicken-drumsticks-free-range",
+    "name": "Macro Free Range Chicken Drumsticks 750g - 1.1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/764857.jpg",
+    "source_id": "764857",
+    "barcode": "9339687207251",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "750g - 1.1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "605",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "605",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "605",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/405251/macro-free-range-chicken-drumsticks-with-bbq-soy-glaze",
+    "name": "Macro Free Range Chicken Drumsticks With BBQ Soy Glaze 1.2kg - 1.6kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/405251.jpg",
+    "source_id": "405251",
+    "barcode": "9339687359226",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.2kg - 1.6kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1680",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1680",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1680",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/764859/macro-free-range-chicken-thigh-fillet",
+    "name": "Macro Free Range Chicken Thigh Fillet 800g - 1.1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/764859.jpg",
+    "source_id": "764859",
+    "barcode": "9339687207268",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "800g - 1.1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1760",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1870",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1870",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1870",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1870",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/792933/macro-free-range-chicken-v-wings",
+    "name": "Macro Free Range Chicken v Wings 750g - 1.1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/792933.jpg",
+    "source_id": "792933",
+    "barcode": "9339687207800",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "750G - 1.1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1045",
+        "price_per_unit": "950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1045",
+        "price_per_unit": "950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1045",
+        "price_per_unit": "950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1045",
+        "price_per_unit": "950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1045",
+        "price_per_unit": "950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/392035/macro-free-range-easy-roast-chicken-with-lemon-herb-stuffing",
+    "name": "Macro Free Range Easy Roast Chicken With  Lemon & Herb Stuffing 1.5kg-2.1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/392035.jpg",
+    "source_id": "392035",
+    "barcode": "9339687356201",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.5kg-2.1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1785",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1785",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1785",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1785",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/229328/macro-organic-chicken-drumstick",
+    "name": "Macro Organic Chicken Drumstick 750g - 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/229328.jpg",
+    "source_id": "229328",
+    "barcode": "2883360000006",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "750g - 1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/229325/macro-organic-chicken-wings",
+    "name": "Macro Organic Chicken Wings 600g - 850g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/229325.jpg",
+    "source_id": "229325",
+    "barcode": "2883380000000",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "600g - 850g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1105",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/886909/steggles-family-roast-chicken-portuguese-style",
+    "name": "Steggles Family Roast Chicken Portuguese Style 2kg - 2.9kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/886909.jpg",
+    "source_id": "886909",
+    "barcode": "9310213339059",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "2kg - 2.9kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2175",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2175",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2175",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2175",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2175",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2175",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2175",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/826675/steggles-family-roast-whole-chicken",
+    "name": "Steggles Family Roast Whole Chicken 1.8kg - 2.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/826675.jpg",
+    "source_id": "826675",
+    "barcode": "9339687269945",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.8kg - 2.5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/893893/steggles-memphis-bbq-style-chicken-breast-burger",
+    "name": "Steggles Memphis BBQ Style Chicken Breast Burger 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/893893.jpg",
+    "source_id": "893893",
+    "barcode": "9310213544552",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1200",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1200",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/88493/the-free-ranger-free-range-chicken-breast-fillets",
+    "name": "The Free Ranger Free Range Chicken Breast Fillets 500g - 650g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/088493.jpg",
+    "source_id": "88493",
+    "barcode": "2257010000003",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500G - 650G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1203",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1203",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1203",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1203",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/88622/the-free-ranger-free-range-chicken-drumsticks",
+    "name": "The Free Ranger Free Range Chicken Drumsticks 850g - 1.1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/088622.jpg",
+    "source_id": "88622",
+    "barcode": "2256990000003",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "850G - 1.1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "770",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "770",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "770",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "770",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/88773/the-free-ranger-free-range-chicken-thigh-fillets",
+    "name": "The Free Ranger Free Range Chicken Thigh Fillets 450g - 550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/088773.jpg",
+    "source_id": "88773",
+    "barcode": "2257000000006",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "450G - 550G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1073",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1073",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1073",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1073",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1073",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/88895/the-free-ranger-free-range-whole-chicken",
+    "name": "The Free Ranger Free Range Whole Chicken 1.3kg - 1.9kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/088895.jpg",
+    "source_id": "88895",
+    "barcode": "2257020000000",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.3Kg - 1.9Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1710",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1710",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1710",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1710",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1710",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/901682/woolworths-10-chicken-sausages",
+    "name": "Woolworths 10 Chicken Sausages 550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/901682.jpg",
+    "source_id": "901682",
+    "barcode": "9339687384471",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "550g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908273/woolworths-12-chicken-kebabs-hoisin",
+    "name": "Woolworths 12 Chicken Kebabs Hoisin 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/908273.jpg",
+    "source_id": "908273",
+    "barcode": "9339687387373",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/907628/woolworths-12-chicken-kebabs-smokey-bbq",
+    "name": "Woolworths 12 Chicken Kebabs Smokey BBQ 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/907628.jpg",
+    "source_id": "907628",
+    "barcode": "9339687387366",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/909455/woolworths-12-chicken-kebabs-sweet-curry",
+    "name": "Woolworths 12 Chicken Kebabs Sweet Curry 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/909455.jpg",
+    "source_id": "909455",
+    "barcode": "9339687387823",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1150",
+        "price_per_unit": "1533",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/901685/woolworths-16-chicken-chipolatas",
+    "name": "Woolworths 16 Chicken Chipolatas 550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/901685.jpg",
+    "source_id": "901685",
+    "barcode": "9339687384501",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "550g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908246/woolworths-6-chicken-kebabs-hoisin",
+    "name": "Woolworths 6 Chicken Kebabs Hoisin 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/908246.jpg",
+    "source_id": "908246",
+    "barcode": "9339687387359",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "2133",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "2133",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "2133",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "2133",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "2133",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "2133",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "2133",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "2133",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/907871/woolworths-6-chicken-kebabs-smokey-bbq",
+    "name": "Woolworths 6 Chicken Kebabs Smokey BBQ 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/907871.jpg",
+    "source_id": "907871",
+    "barcode": "9339687387335",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "2133",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "2133",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "2133",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "2133",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "2133",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "2133",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/909305/woolworths-6-classic-chicken-burgers-patties",
+    "name": "Woolworths 6 Classic Chicken Burgers 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/909305.jpg",
+    "source_id": "909305",
+    "barcode": "9339687387809",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908700/woolworths-8-mini-chicken-kebabs-satay-style",
+    "name": "Woolworths 8 Mini Chicken Kebabs Satay Style 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/908700.jpg",
+    "source_id": "908700",
+    "barcode": "9339687387571",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908701/woolworths-8-mini-chicken-kebabs-sweet-chilli-lime",
+    "name": "Woolworths 8 Mini Chicken Kebabs Sweet Chilli & Lime 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/908701.jpg",
+    "source_id": "908701",
+    "barcode": "9339687387618",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/213858/woolworths-bbq-chicken-breast-steaks-with-a-honey-mustard-marinade",
+    "name": "Woolworths Bbq Chicken Breast Steaks With a Honey Mustard Marinade 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/213858.jpg",
+    "source_id": "213858",
+    "barcode": "9339687302598",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/160852/woolworths-buttermilk-tennessee-style-chicken-wing-nibbles",
+    "name": "Woolworths Buttermilk Tennessee Style Chicken Wing Nibbles 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/160852.jpg",
+    "source_id": "160852",
+    "barcode": "9339687263189",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/935707/woolworths-cook-boneless-butterflied-chicken-greek-style",
+    "name": "Woolworths Cook Boneless Butterflied Chicken Greek Style 850g - 1.25Kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/935707.jpg",
+    "source_id": "935707",
+    "barcode": "9339687207350",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "850g - 1.25Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1625",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1625",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1625",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1625",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1625",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1625",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1625",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67677/woolworths-cook-boneless-butterflied-chicken-mango-sweet-chilli",
+    "name": "Woolworths Cook Boneless Butterflied Chicken Mango & Sweet Chilli 850g - 1.25kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/067677.jpg",
+    "source_id": "67677",
+    "barcode": "9339687206971",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "850g - 1.25kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1500",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1500",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1500",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1500",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1500",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/81621/woolworths-cook-chicken-breast-steaks-lemon-pepper",
+    "name": "Woolworths Cook Chicken Breast Steaks Lemon & Pepper 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/081621.jpg",
+    "source_id": "81621",
+    "barcode": "9339687157228",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83172/woolworths-cook-chicken-roasting-portions-italian-style",
+    "name": "Woolworths Cook Chicken Roasting Portions Italian Style 1.5kg - 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/083172.jpg",
+    "source_id": "83172",
+    "barcode": "9339687206988",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.5Kg - 2Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1800",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1800",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1800",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1800",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/725992/woolworths-cook-chicken-wing-nibbles-honey-soy",
+    "name": "Woolworths Cook Chicken Wing Nibbles Honey Soy 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/725992.jpg",
+    "source_id": "725992",
+    "barcode": "9300633260392",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/429265/woolworths-cook-chicken-wing-nibbles-sweet-chilli-jam",
+    "name": "Woolworths COOK Chicken Wing Nibbles Sweet Chilli Jam 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/429265.jpg",
+    "source_id": "429265",
+    "barcode": "9339687360369",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/483569/woolworths-cook-slow-cooked-italian-style-chicken-casserole",
+    "name": "Woolworths COOK Slow Cooked Italian Style Chicken Casserole 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/483569.jpg",
+    "source_id": "483569",
+    "barcode": "9339687362219",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "1857",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "1857",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "1857",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "1857",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "1857",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/134038/woolworths-crumbed-chicken-burgers",
+    "name": "Woolworths Crumbed Chicken Burgers 440g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/134038.jpg",
+    "source_id": "134038",
+    "barcode": "9339687224029",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "440G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1136",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1136",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1136",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1136",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1136",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1136",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83727/woolworths-fetta-spinach-chicken-sausages",
+    "name": "Woolworths Fetta & Spinach Chicken Sausages 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/083727.jpg",
+    "source_id": "83727",
+    "barcode": "9339687161485",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/901751/woolworths-gourmet-chicken-sausages-classic-with-chives",
+    "name": "Woolworths Gourmet Chicken Sausages Classic With Chives 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/901751.jpg",
+    "source_id": "901751",
+    "barcode": "9339687384846",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/114261/woolworths-rspca-approved-chicken-breast-diced",
+    "name": "Woolworths RSPCA Approved Chicken Breast Diced 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/114261.jpg",
+    "source_id": "114261",
+    "barcode": "9339687206827",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1550",
+        "price_per_unit": "1550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1550",
+        "price_per_unit": "1550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1550",
+        "price_per_unit": "1550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1550",
+        "price_per_unit": "1550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1550",
+        "price_per_unit": "1550",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/969723/woolworths-rspca-approved-chicken-breast-fillet",
+    "name": "Woolworths RSPCA Approved Chicken Breast Fillet 1.5kg - 1.7kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/969723.jpg",
+    "source_id": "969723",
+    "barcode": "2616540000004",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.5kg - 1.7kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1615",
+        "price_per_unit": "950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1615",
+        "price_per_unit": "950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/114253/woolworths-rspca-approved-chicken-breast-schnitzels",
+    "name": "Woolworths RSPCA Approved Chicken Breast Schnitzels 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/114253.jpg",
+    "source_id": "114253",
+    "barcode": "9339687206759",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/354082/woolworths-rspca-approved-chicken-drumsticks",
+    "name": "Woolworths RSPCA Approved Chicken Drumsticks 450g - 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/354082.jpg",
+    "source_id": "354082",
+    "barcode": "9339687348725",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "450g - 700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "420",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "420",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "420",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/268710/woolworths-rspca-approved-chicken-feet",
+    "name": "Woolworths RSPCA Approved Chicken Feet 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/268710.jpg",
+    "source_id": "268710",
+    "barcode": "9339687327249",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/268607/woolworths-rspca-approved-chicken-frames",
+    "name": "Woolworths RSPCA Approved Chicken Frames 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/268607.jpg",
+    "source_id": "268607",
+    "barcode": "9339687326372",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83171/woolworths-rspca-approved-chicken-giblets",
+    "name": "Woolworths RSPCA Approved Chicken Giblets 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/083171.jpg",
+    "source_id": "83171",
+    "barcode": "9339687161003",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83198/woolworths-rspca-approved-chicken-hearts",
+    "name": "Woolworths RSPCA Approved Chicken Hearts 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/083198.jpg",
+    "source_id": "83198",
+    "barcode": "9339687161072",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "375",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "375",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "375",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "375",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/683227/woolworths-rspca-approved-chicken-leg-fillet-diced",
+    "name": "Woolworths RSPCA Approved Chicken Leg Fillet Diced 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/683227.jpg",
+    "source_id": "683227",
+    "barcode": "9339687042050",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/268604/woolworths-rspca-approved-chicken-mixed-pieces",
+    "name": "Woolworths RSPCA Approved Chicken Mixed Pieces 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/268604.jpg",
+    "source_id": "268604",
+    "barcode": "9339687326358",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/918160/woolworths-rspca-approved-chicken-plain-wing-nibbles",
+    "name": "Woolworths RSPCA Approved Chicken Plain Wing Nibbles 1kg - 1.3kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/918160.jpg",
+    "source_id": "918160",
+    "barcode": "9339687390700",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1kg - 1.3kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1170",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1170",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1170",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1170",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1170",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/2841/woolworths-rspca-approved-chicken-stirfry",
+    "name": "Woolworths RSPCA Approved Chicken Stirfry 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/002841.jpg",
+    "source_id": "2841",
+    "barcode": "9339687092116",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/354212/woolworths-rspca-approved-chicken-thigh-cutlets",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Cutlets 450g - 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/354212.jpg",
+    "source_id": "354212",
+    "barcode": "9339687348787",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "450g - 700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "665",
+        "price_per_unit": "950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "665",
+        "price_per_unit": "950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/119370/woolworths-rspca-approved-chicken-thigh-skinless-cutlets-bone-in",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Skinless Cutlets Bone In 500g - 650g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/119370.jpg",
+    "source_id": "119370",
+    "barcode": "2963530000002",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500g - 650g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/268603/woolworths-rspca-approved-chicken-whole",
+    "name": "Woolworths RSPCA Approved Chicken Whole 1.8kg - 2.2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/268603.jpg",
+    "source_id": "268603",
+    "barcode": "9339687346738",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.8kg - 2.2kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1210",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1210",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1210",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/354108/woolworths-rspca-approved-chicken-wings",
+    "name": "Woolworths RSPCA Approved Chicken Wings 1.55kg - 1.75g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/354108.jpg",
+    "source_id": "354108",
+    "barcode": "2605380000008",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.55kg - 1.75g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1225",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1225",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1225",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/354219/woolworths-rspca-approved-chicken-wings",
+    "name": "Woolworths RSPCA Approved Chicken Wings 450g - 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/354219.jpg",
+    "source_id": "354219",
+    "barcode": "9339687348886",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "450g - 700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "595",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/251628/woolworths-slow-cooked-chicken-breast-in-creamy-mushroom-sauce",
+    "name": "Woolworths Slow Cooked Chicken Breast In Creamy Mushroom Sauce 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/251628.jpg",
+    "source_id": "251628",
+    "barcode": "9339687362325",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "1857",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "1857",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "1857",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "1857",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1300",
+        "price_per_unit": "1857",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/251648/woolworths-tomato-basil-seasoned-whole-chicken",
+    "name": "Woolworths Tomato & Basil Seasoned Whole Chicken 1.8kg - 2.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/251648.jpg",
+    "source_id": "251648",
+    "barcode": "9339687316298",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.8kg - 2.5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1875",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1875",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387408/la-ionica-air-chilled-chicken-breast-fillets-skinless",
+    "name": "La Ionica Air Chilled Chicken Breast Fillets Skinless 650g - 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/387408.jpg",
+    "source_id": "387408",
+    "barcode": "9311209002827",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "650g - 1Kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1650",
+        "price_per_unit": "1650",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387011/la-ionica-air-chilled-whole-chicken",
+    "name": "La Ionica Air Chilled Whole Chicken 1.5-2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/387011.jpg",
+    "source_id": "387011",
+    "barcode": "9315941121570",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.5-2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1500",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/367125/luv-a-duck-slow-cooked-roast-half-duck",
+    "name": "Luv-A-Duck Slow Cooked Roast Half Duck 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/367125.jpg",
+    "source_id": "367125",
+    "barcode": "9330471023965",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/906362/macro-6-free-range-chicken-kebabs-lemon-herb",
+    "name": "Macro 6 Free Range Chicken Kebabs Lemon & Herb 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/906362.jpg",
+    "source_id": "906362",
+    "barcode": "9339687387090",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/901638/macro-free-range-6-chicken-sausages",
+    "name": "Macro Free Range 6 Chicken Sausages 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/901638.jpg",
+    "source_id": "901638",
+    "barcode": "9339687384631",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/927528/macro-free-range-australian-chicken-breast",
+    "name": "Macro Free Range Australian Chicken Breast 500g - 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/927528.jpg",
+    "source_id": "927528",
+    "barcode": "9339687393428",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500g - 700g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1260",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1260",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/927527/macro-free-range-australian-chicken-drumsticks",
+    "name": "Macro Free Range Australian Chicken Drumsticks 900g - 1.3kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/927527.jpg",
+    "source_id": "927527",
+    "barcode": "9339687393411",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "900g - 1.3kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "715",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "715",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/927529/macro-free-range-australian-chicken-thigh-fillet",
+    "name": "Macro Free Range Australian Chicken Thigh Fillet 450g - 650g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/927529.jpg",
+    "source_id": "927529",
+    "barcode": "9339687393435",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "450g - 650g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1268",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1268",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/927524/macro-free-range-australian-whole-chicken",
+    "name": "Macro Free Range Australian Whole Chicken 1.2kg - 2.2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/927524.jpg",
+    "source_id": "927524",
+    "barcode": "9339687393381",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.2kg - 2.2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1430",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1430",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1430",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/905778/macro-free-range-butterflied-half-chicken-with-peri-peri-rub",
+    "name": "Macro Free Range Butterflied Half Chicken With Peri Peri Rub 600g - 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/905778.jpg",
+    "source_id": "905778",
+    "barcode": "9339687387007",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "600g - 1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/354066/macro-free-range-diced-chicken-breast",
+    "name": "Macro Free Range Diced Chicken Breast 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/354066.jpg",
+    "source_id": "354066",
+    "barcode": "9339687349661",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1150",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1150",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1150",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/365624/macro-organic-chicken-breast-fillet",
+    "name": "Macro Organic Chicken Breast Fillet 500g - 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/365624.jpg",
+    "source_id": "365624",
+    "barcode": "9339687207107",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500G - 750G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2625",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2625",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/402975/macro-wholefoods-market-free-range-chicken-portions-in-tomato-basil-marinade",
+    "name": "Macro Wholefoods Market Free Range Chicken Portions In Tomato & Basil Marinade 1kg - 1.25kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/402975.jpg",
+    "source_id": "402975",
+    "barcode": "9339687359219",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1kg - 1.25kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1313",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1313",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1313",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1313",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1313",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/89794/the-bare-bird-free-range-chicken-drumsticks",
+    "name": "The Bare Bird Free Range Chicken Drumsticks 1kg - 1.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/089794.jpg",
+    "source_id": "89794",
+    "barcode": "2938010000001",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1kg - 1.5kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/24594/the-bare-bird-free-range-chicken-thigh-fillets",
+    "name": "The Bare Bird Free Range Chicken Thigh Fillets 350g - 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/024594.jpg",
+    "source_id": "24594",
+    "barcode": "2918910000004",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "350g - 600g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1080",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/901509/woolworths-10-sweet-chilli-chicken-sausages",
+    "name": "Woolworths 10  Sweet Chilli Chicken Sausages 550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/901509.jpg",
+    "source_id": "901509",
+    "barcode": "9339687384556",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "550g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "590",
+        "price_per_unit": "1073",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/910385/woolworths-6-chicken-kebabs-honey-soy",
+    "name": "Woolworths 6 Chicken Kebabs Honey Soy 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/910385.jpg",
+    "source_id": "910385",
+    "barcode": "9339687388165",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "2133",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/901692/woolworths-6-herb-garlic-chicken-sausages",
+    "name": "Woolworths 6 Herb & Garlic Chicken Sausages 505g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/901692.jpg",
+    "source_id": "901692",
+    "barcode": "9339687384587",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "505g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "1386",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "1386",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908530/woolworths-8-mini-chicken-kebabs-satay-style",
+    "name": "Woolworths 8 Mini Chicken Kebabs Satay Style 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/908530.jpg",
+    "source_id": "908530",
+    "barcode": "9339687387601",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908475/woolworths-8-mini-chicken-kebabs-sweet-chilli-lime",
+    "name": "Woolworths 8 Mini Chicken Kebabs Sweet Chilli & Lime 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/908475.jpg",
+    "source_id": "908475",
+    "barcode": "9339687387410",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/213859/woolworths-bbq-boneless-thigh-fillets-with-japanese-style-marinade",
+    "name": "Woolworths Bbq Boneless Thigh Fillets With Japanese Style Marinade 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/213859.jpg",
+    "source_id": "213859",
+    "barcode": "9339687302697",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/81632/woolworths-cook-chicken-breast-steaks-sweet-soy-bbq",
+    "name": "Woolworths Cook Chicken Breast Steaks Sweet Soy Bbq 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/081632.jpg",
+    "source_id": "81632",
+    "barcode": "9339687157235",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/24563/woolworths-cook-chicken-drumsticks-sweet-smokey-bbq-glaze",
+    "name": "Woolworths Cook Chicken Drumsticks Sweet & Smokey Bbq Glaze 1.4kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/024563.jpg",
+    "source_id": "24563",
+    "barcode": "9339687069507",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.4Kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "714",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "714",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "714",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "714",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "714",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/341592/woolworths-honey-soy-wings-with-rspca-approved-chicken",
+    "name": "Woolworths Honey Soy Wings with RSPCA Approved Chicken per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/341592.jpg",
+    "source_id": "341592",
+    "barcode": "0278382000004",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/713234/woolworths-rspca-approved-chicken-breast-fillet",
+    "name": "Woolworths RSPCA Approved Chicken Breast Fillet Min. 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/713234.jpg",
+    "source_id": "713234",
+    "barcode": "0273647000003",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "Min. 300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/340853/woolworths-rspca-approved-chicken-breast-fillets-skinless-small",
+    "name": "Woolworths RSPCA Approved Chicken Breast Fillets Skinless Small 450g - 715g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/340853.jpg",
+    "source_id": "340853",
+    "barcode": "2604710000008",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "450g - 715g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1037",
+        "price_per_unit": "1450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/275728/woolworths-rspca-approved-chicken-drumsticks",
+    "name": "Woolworths RSPCA Approved Chicken Drumsticks 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/275728.jpg",
+    "source_id": "275728",
+    "barcode": "9339687330430",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/354139/woolworths-rspca-approved-chicken-drumsticks",
+    "name": "Woolworths RSPCA Approved Chicken Drumsticks 320g - 480g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/354139.jpg",
+    "source_id": "354139",
+    "barcode": "9339687348763",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "320g - 480g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "288",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/340875/woolworths-rspca-approved-chicken-drumsticks-bulk",
+    "name": "Woolworths RSPCA Approved Chicken Drumsticks Bulk 1.1kg - 1.65kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/340875.jpg",
+    "source_id": "340875",
+    "barcode": "2604770000000",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.1kg - 1.65kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "710",
+        "price_per_unit": "430",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/340976/woolworths-rspca-approved-chicken-drumsticks",
+    "name": "Woolworths RSPCA Approved Chicken Drumsticks per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/340976.jpg",
+    "source_id": "340976",
+    "barcode": "0275404000004",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/927531/woolworths-rspca-approved-chicken-maryland-supreme",
+    "name": "Woolworths RSPCA Approved Chicken Maryland Supreme 530g - 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/927531.jpg",
+    "source_id": "927531",
+    "barcode": "9339687393480",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "530g - 800g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "720",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "720",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "720",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/353996/woolworths-rspca-approved-chicken-maryland-supreme",
+    "name": "Woolworths RSPCA Approved Chicken Maryland Supreme per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/353996.jpg",
+    "source_id": "353996",
+    "barcode": "0272929000007",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/321112/woolworths-rspca-approved-chicken-mince",
+    "name": "Woolworths RSPCA Approved Chicken Mince 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/321112.jpg",
+    "source_id": "321112",
+    "barcode": "9339687347391",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/341014/woolworths-rspca-approved-chicken-mixed-pieces",
+    "name": "Woolworths RSPCA Approved Chicken Mixed Pieces 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/341014.jpg",
+    "source_id": "341014",
+    "barcode": "9339687349470",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83210/woolworths-rspca-approved-chicken-necks",
+    "name": "Woolworths RSPCA Approved Chicken Necks 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/083210.jpg",
+    "source_id": "83210",
+    "barcode": "9339687161195",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/114265/woolworths-rspca-approved-chicken-single-breast-fillet",
+    "name": "Woolworths RSPCA Approved Chicken Single Breast Fillet 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/114265.jpg",
+    "source_id": "114265",
+    "barcode": "9339687206865",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/354007/woolworths-rspca-approved-chicken-thigh-cutlets",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Cutlets per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/354007.jpg",
+    "source_id": "354007",
+    "barcode": "0272499000001",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/354218/woolworths-rspca-approved-chicken-thigh-cutlets-skin-on",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Cutlets Skin On 400g - 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/354218.jpg",
+    "source_id": "354218",
+    "barcode": "9339687348824",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "400g - 600g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "570",
+        "price_per_unit": "950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/340975/woolworths-rspca-approved-chicken-thigh-fillet",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Fillet per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/340975.jpg",
+    "source_id": "340975",
+    "barcode": "0274404000007",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/340824/woolworths-rspca-approved-chicken-thigh-fillets-skinless-small",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Fillets Skinless Small 550g - 715g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/340824.jpg",
+    "source_id": "340824",
+    "barcode": "2604810000007",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "550g - 715g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1251",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/721116/woolworths-rspca-approved-chicken-thigh-fillets-skinless-tray",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Fillets Skinless Tray 1kg - 1.9kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/721116.jpg",
+    "source_id": "721116",
+    "barcode": "2607660000005",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1kg - 1.9kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2755",
+        "price_per_unit": "1450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/340859/woolworths-rspca-approved-chicken-thigh-skinless-cutlets-bone-in",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Skinless Cutlets Bone-In 550g - 715g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/340859.jpg",
+    "source_id": "340859",
+    "barcode": "2604800000000",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "550g - 715g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "715",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/354065/woolworths-rspca-approved-chicken-wings",
+    "name": "Woolworths RSPCA Approved Chicken Wings 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/354065.jpg",
+    "source_id": "354065",
+    "barcode": "9339687348879",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "475",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/713233/woolworths-rspca-approved-chicken-wings-three-joint",
+    "name": "Woolworths RSPCA Approved Chicken Wings Three Joint per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/713233.jpg",
+    "source_id": "713233",
+    "barcode": "0273645000005",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/134085/woolworths-southern-style-buttermilk-chicken-thigh-fillet-burgers",
+    "name": "Woolworths Southern Style Buttermilk Chicken Thigh Fillet Burgers 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/134085.jpg",
+    "source_id": "134085",
+    "barcode": "9339687224074",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "350G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "2571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "2571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "2571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "2571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "2571",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/148915/macro-organic-chicken-mince",
+    "name": "Macro Organic Chicken Mince 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/148915.jpg",
+    "source_id": "148915",
+    "barcode": "9339687244157",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/229320/macro-organic-whole-chicken",
+    "name": "Macro Organic Whole Chicken 1kg - 2.7kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/229320.jpg",
+    "source_id": "229320",
+    "barcode": "2883310000001",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1Kg - 2.7Kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "3645",
+        "price_per_unit": "1350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3645",
+        "price_per_unit": "1350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3645",
+        "price_per_unit": "1350",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/158634/woolworths-honey-soy-wings-with-rspca-approved-chicken",
+    "name": "Woolworths Honey Soy Wings with RSPCA Approved Chicken per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/158634.jpg",
+    "source_id": "158634",
+    "barcode": "0277913000001",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/160853/woolworths-hot-spicy-chicken-wing-nibbles",
+    "name": "Woolworths Hot & Spicy Chicken Wing Nibbles 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/160853.jpg",
+    "source_id": "160853",
+    "barcode": "9339687263196",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/964093/woolworths-rspca-approved-chicken-breast-fillet",
+    "name": "Woolworths RSPCA Approved Chicken Breast Fillet 1.1kg - 1.65kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/964093.jpg",
+    "source_id": "964093",
+    "barcode": "9339687207367",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.1kg - 1.65kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1568",
+        "price_per_unit": "950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1568",
+        "price_per_unit": "950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/118963/woolworths-rspca-approved-chicken-breast-fillet-skinless-small",
+    "name": "Woolworths RSPCA Approved Chicken Breast Fillet Skinless Small 459g - 749g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/118963.jpg",
+    "source_id": "118963",
+    "barcode": "9339687207015",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "459g - 749g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1086",
+        "price_per_unit": "1450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1086",
+        "price_per_unit": "1450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1086",
+        "price_per_unit": "1450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/169014/woolworths-rspca-approved-chicken-drumsticks-bulk",
+    "name": "Woolworths RSPCA Approved Chicken Drumsticks Bulk 1.1kg - 1.9kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/169014.jpg",
+    "source_id": "169014",
+    "barcode": "9339687207046",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.1kg - 1.9kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "817",
+        "price_per_unit": "430",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "817",
+        "price_per_unit": "430",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/272087/woolworths-rspca-approved-chicken-frames",
+    "name": "Woolworths RSPCA Approved Chicken Frames 1.2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/272087.jpg",
+    "source_id": "272087",
+    "barcode": "9339687329908",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.2kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "660",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "660",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/742211/woolworths-rspca-approved-chicken-kebab-honey-soy",
+    "name": "Woolworths RSPCA Approved Chicken Kebab Honey Soy each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/742211.jpg",
+    "source_id": "742211",
+    "barcode": "0274848000007",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/315147/woolworths-rspca-approved-chicken-kebab-satay",
+    "name": "Woolworths RSPCA Approved Chicken Kebab Satay each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/315147.jpg",
+    "source_id": "315147",
+    "barcode": "0276820000005",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/114262/woolworths-rspca-approved-chicken-leg-fillet-diced",
+    "name": "Woolworths RSPCA Approved Chicken Leg Fillet Diced 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/114262.jpg",
+    "source_id": "114262",
+    "barcode": "9339687206834",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/353958/woolworths-rspca-approved-chicken-maryland-supreme",
+    "name": "Woolworths RSPCA Approved Chicken Maryland Supreme per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/353958.jpg",
+    "source_id": "353958",
+    "barcode": "0271772000004",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/321099/woolworths-rspca-approved-chicken-mince",
+    "name": "Woolworths RSPCA Approved Chicken Mince 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/321099.jpg",
+    "source_id": "321099",
+    "barcode": "9339687347377",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/328779/woolworths-rspca-approved-chicken-mince",
+    "name": "Woolworths RSPCA Approved Chicken Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/328779.jpg",
+    "source_id": "328779",
+    "barcode": "9300633253448",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/272086/woolworths-rspca-approved-chicken-mixed-pieces",
+    "name": "Woolworths RSPCA Approved Chicken Mixed Pieces 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/272086.jpg",
+    "source_id": "272086",
+    "barcode": "9339687329892",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/412178/woolworths-rspca-approved-chicken-necks",
+    "name": "Woolworths RSPCA Approved Chicken Necks per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/412178.jpg",
+    "source_id": "412178",
+    "barcode": "0276887000000",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/114263/woolworths-rspca-approved-chicken-single-breast-fillet",
+    "name": "Woolworths RSPCA Approved Chicken Single Breast Fillet 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/114263.jpg",
+    "source_id": "114263",
+    "barcode": "9339687206841",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/174387/woolworths-rspca-approved-chicken-tenderloins",
+    "name": "Woolworths RSPCA Approved Chicken Tenderloins 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/174387.jpg",
+    "source_id": "174387",
+    "barcode": "9339687270484",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/166830/woolworths-rspca-approved-chicken-thigh-cutlets-skinless",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Cutlets Skinless 450g - 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/166830.jpg",
+    "source_id": "166830",
+    "barcode": "9339687207039",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "450g - 750g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/77069/woolworths-rspca-approved-chicken-thigh-fillet",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Fillet per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/077069.jpg",
+    "source_id": "77069",
+    "barcode": "0270310000001",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/118971/woolworths-rspca-approved-chicken-thigh-skinless-fillets-small",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Skinless Fillets Small 550g  -  650g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/118971.jpg",
+    "source_id": "118971",
+    "barcode": "9339687207022",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "550g  -  650g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1138",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1138",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1138",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/354016/woolworths-rspca-approved-chicken-wings",
+    "name": "Woolworths RSPCA Approved Chicken Wings 1.38 - 1.8kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/354016.jpg",
+    "source_id": "354016",
+    "barcode": "9339687207091",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.38 - 1.8kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1620",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1620",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/353761/woolworths-rspca-approved-chicken-wings",
+    "name": "Woolworths RSPCA Approved Chicken Wings 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/353761.jpg",
+    "source_id": "353761",
+    "barcode": "9339687348855",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "475",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "950",
+        "price_per_unit": "475",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/304212/woolworths-rspca-approved-chicken-wings",
+    "name": "Woolworths RSPCA Approved Chicken Wings 400g - 650g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/304212.jpg",
+    "source_id": "304212",
+    "barcode": "9339687355211",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "400g - 650g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "455",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "455",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "455",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/710943/woolworths-rspca-approved-chicken-wings-three-joint",
+    "name": "Woolworths RSPCA Approved Chicken Wings Three Joint per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/710943.jpg",
+    "source_id": "710943",
+    "barcode": "0275700000005",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/913846/woolworths-southern-style-chicken-portions",
+    "name": "Woolworths Southern Style Chicken Portions 1.2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/913846.jpg",
+    "source_id": "913846",
+    "barcode": "9339687389988",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.2kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1550",
+        "price_per_unit": "1292",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1550",
+        "price_per_unit": "1292",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1550",
+        "price_per_unit": "1292",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1550",
+        "price_per_unit": "1292",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/755470/macro-free-range-chicken-portuguese-portions",
+    "name": "Macro Free Range Chicken Portuguese Portions 1kg - 1.25kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/755470.jpg",
+    "source_id": "755470",
+    "barcode": "9339687207244",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1kg - 1.25kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1313",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1313",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1313",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1313",
+        "price_per_unit": "1050",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/365628/macro-organic-chicken-drumstick",
+    "name": "Macro Organic Chicken Drumstick 390g - 590g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/365628.jpg",
+    "source_id": "365628",
+    "barcode": "9339687207145",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "390G - 590G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "708",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/365627/macro-organic-chicken-thigh-fillet",
+    "name": "Macro Organic Chicken Thigh Fillet 450g - 550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/365627.jpg",
+    "source_id": "365627",
+    "barcode": "9339687207138",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "450g - 550g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1953",
+        "price_per_unit": "3550",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/842237/mt-barker-chicken-wing-tips",
+    "name": "Mt Barker Chicken Wing Tips 450g - 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/842237.jpg",
+    "source_id": "842237",
+    "barcode": "2400480000008",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "450g - 700g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "385",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/24853/mt-barker-free-range-chicken-breast-fillet",
+    "name": "Mt Barker Free Range Chicken Breast Fillet 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/024853.jpg",
+    "source_id": "24853",
+    "barcode": "9334864002445",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/404513/mt-barker-free-range-chicken-peri-peri-breast-strips",
+    "name": "Mt Barker Free Range Chicken Peri Peri Breast Strips Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/404513.jpg",
+    "source_id": "404513",
+    "barcode": "9334864000854",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "2444",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/23057/mt-barker-free-range-chicken-spare-ribs-smokey-bbq",
+    "name": "Mt Barker Free Range Chicken Spare Ribs Smokey Bbq 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/023057.jpg",
+    "source_id": "23057",
+    "barcode": "9334864002452",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/404523/mt-barker-free-range-chicken-sweet-chilli-chicken-strips",
+    "name": "Mt Barker Free Range Chicken Sweet Chilli Chicken Strips Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/404523.jpg",
+    "source_id": "404523",
+    "barcode": "9334864000915",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "2444",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/20699/mt-barker-free-range-chicken-wing-nibbles",
+    "name": "Mt Barker Free Range Chicken Wing Nibbles 300g - 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/020699.jpg",
+    "source_id": "20699",
+    "barcode": "2245300000000",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "300G - 900G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "720",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/23062/mt-barker-free-range-chicken-winglets-smokey-bbq",
+    "name": "Mt Barker Free Range Chicken Winglets Smokey Bbq 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/023062.jpg",
+    "source_id": "23062",
+    "barcode": "9334864002469",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/118465/mt-barker-free-range-diced-chicken",
+    "name": "Mt Barker Free Range Diced Chicken 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/118465.jpg",
+    "source_id": "118465",
+    "barcode": "9334864004364",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/804687/mt-barker-garlic-parmesan-chicken-cutlets",
+    "name": "Mt Barker Garlic Parmesan Chicken Cutlets 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/804687.jpg",
+    "source_id": "804687",
+    "barcode": "9334864006108",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/117900/mt-barker-gourmet-kebabs-lemon-herb-chicken-tenders",
+    "name": "Mt Barker Gourmet Kebabs Lemon & Herb Chicken Tenders 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/117900.jpg",
+    "source_id": "117900",
+    "barcode": "9334864004449",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1050",
+        "price_per_unit": "2625",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/177246/mt-barker-mango-coconut-chicken-thighs",
+    "name": "Mt Barker Mango & Coconut Chicken Thighs 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/177246.jpg",
+    "source_id": "177246",
+    "barcode": "9334864004814",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "2444",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/906077/woolworths-4-jerk-spiced-chicken-kebabs",
+    "name": "Woolworths 4 Jerk Spiced Chicken Kebabs 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/906077.jpg",
+    "source_id": "906077",
+    "barcode": "9339687387076",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/906075/woolworths-4-souvlaki-chicken-kebabs",
+    "name": "Woolworths 4 Souvlaki Chicken Kebabs 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/906075.jpg",
+    "source_id": "906075",
+    "barcode": "9339687387069",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1100",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/749838/woolworths-buffalo-wings-rspca-approved-chicken",
+    "name": "Woolworths Buffalo Wings RSPCA Approved Chicken per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/749838.jpg",
+    "source_id": "749838",
+    "barcode": "0274163000003",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/162444/woolworths-chicken-tenderloins-in-lemon-garlic-marinade",
+    "name": "Woolworths Chicken Tenderloins In Lemon & Garlic Marinade 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/162444.jpg",
+    "source_id": "162444",
+    "barcode": "9339687264735",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "950",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/210535/woolworths-cook-chicken-roasting-portions-with-mild-smoked-paprika",
+    "name": "Woolworths Cook Chicken Roasting Portions With Mild Smoked Paprika 600g - 1.2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/210535.jpg",
+    "source_id": "210535",
+    "barcode": "9339687284979",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "600g - 1.2kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1080",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1080",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1080",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/25734/woolworths-rspca-approved-chicken-breast-fillet",
+    "name": "Woolworths RSPCA Approved Chicken Breast Fillet Min. 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/025734.jpg",
+    "source_id": "25734",
+    "barcode": "0270258000002",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "Min. 300g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/23208/woolworths-rspca-approved-chicken-drumsticks",
+    "name": "Woolworths RSPCA Approved Chicken Drumsticks per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/023208.jpg",
+    "source_id": "23208",
+    "barcode": "0270254000006",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/332098/woolworths-rspca-approved-chicken-thigh-cutlets",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Cutlets per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/332098.jpg",
+    "source_id": "332098",
+    "barcode": "0270050000002",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/77038/woolworths-rspca-approved-chicken-thigh-fillet",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Fillet per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/077038.jpg",
+    "source_id": "77038",
+    "barcode": "0270257000003",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/897955/barossa-fine-foods-chicken-sage-sausages",
+    "name": "Barossa Fine Foods Chicken & Sage Sausages 480g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/897955.jpg",
+    "source_id": "897955",
+    "barcode": "9333278000702",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "480g",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "1771",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "1771",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178774/ingham-s-chicken-portion-pieces-gourmet-roasting",
+    "name": "Ingham's Chicken Portion Pieces Gourmet Roasting 1.5kg - 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/178774.jpg",
+    "source_id": "178774",
+    "barcode": "2904390000009",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.5Kg - 2Kg",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1900",
+        "price_per_unit": "950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/927530/macro-free-range-australian-chicken-thigh-fillet",
+    "name": "Macro Free Range Australian Chicken Thigh Fillet 900g - 1.1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/927530.jpg",
+    "source_id": "927530",
+    "barcode": "9339687393459",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "900g - 1.1kg",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1870",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/927662/macro-free-range-australian-diced-chicken-breast",
+    "name": "Macro Free Range Australian Diced Chicken Breast 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/927662.jpg",
+    "source_id": "927662",
+    "barcode": "9339687391981",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1150",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/727221/macro-free-range-chicken-splits-lemon-garlic",
+    "name": "Macro Free Range Chicken Splits Lemon & Garlic 900g - 1.25kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/727221.jpg",
+    "source_id": "727221",
+    "barcode": "9339687207213",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "900g - 1.25Kg",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1375",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1375",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1375",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1375",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/927525/macro-free-range-chicken-wing-nibbles",
+    "name": "Macro Free Range Chicken Wing Nibbles 600g - 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/927525.jpg",
+    "source_id": "927525",
+    "barcode": "9339687393398",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "600g - 800g",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/365626/macro-organic-whole-chicken",
+    "name": "Macro Organic Whole Chicken 1.2kg - 2.2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/365626.jpg",
+    "source_id": "365626",
+    "barcode": "9339687207121",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.2Kg - 2.2Kg",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "3080",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/81616/woolworths-cook-boneless-chicken-fillets-drumstick-paprika-chilli",
+    "name": "Woolworths Cook Boneless Chicken Fillets Drumstick Paprika & Chilli 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/081616.jpg",
+    "source_id": "81616",
+    "barcode": "9339687157174",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/668510/woolworths-cook-butterflied-chicken-sweet-garlic-herb-marinade",
+    "name": "Woolworths Cook Butterflied Chicken Sweet Garlic & Herb Marinade 900G - 1.72kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/668510.jpg",
+    "source_id": "668510",
+    "barcode": "2618230000004",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "900G - 1.72kg",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1720",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1720",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908526/macro-6-free-range-chicken-kebabs-teriyaki",
+    "name": "Macro 6 Free Range Chicken Kebabs Teriyaki 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/908526.jpg",
+    "source_id": "908526",
+    "barcode": "9339687387403",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/229324/macro-organic-chicken-breast-fillet",
+    "name": "Macro Organic Chicken Breast Fillet 300g - 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/229324.jpg",
+    "source_id": "229324",
+    "barcode": "2883320000008",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "300g - 600g",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "2070",
+        "price_per_unit": "3450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2070",
+        "price_per_unit": "3450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/927664/woolworths-rspca-approved-chicken-breast-fillet",
+    "name": "Woolworths RSPCA Approved Chicken Breast Fillet 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/927664.jpg",
+    "source_id": "927664",
+    "barcode": "9339687392001",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1833",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/119259/woolworths-rspca-approved-chicken-breast-fillet-skinless-small",
+    "name": "Woolworths RSPCA Approved Chicken Breast Fillet Skinless Small 500g - 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/119259.jpg",
+    "source_id": "119259",
+    "barcode": "2963010000003",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500g - 750g",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "1088",
+        "price_per_unit": "1450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/140481/woolworths-rspca-approved-chicken-drumsticks-bulk",
+    "name": "Woolworths RSPCA Approved Chicken Drumsticks Bulk 1.1kg - 1.7kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/140481.jpg",
+    "source_id": "140481",
+    "barcode": "2963210000001",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.1kg - 1.7kg",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "731",
+        "price_per_unit": "430",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/354116/woolworths-rspca-approved-chicken-maryland-supreme",
+    "name": "Woolworths RSPCA Approved Chicken Maryland Supreme per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/354116.jpg",
+    "source_id": "354116",
+    "barcode": "0272224000009",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/360563/woolworths-rspca-approved-chicken-mince",
+    "name": "Woolworths RSPCA Approved Chicken Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/360563.jpg",
+    "source_id": "360563",
+    "barcode": "9300633169541",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/354118/woolworths-rspca-approved-chicken-thigh-cutlets",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Cutlets per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/354118.jpg",
+    "source_id": "354118",
+    "barcode": "0272390000001",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/727622/woolworths-rspca-approved-chicken-thigh-fillets-skinless-tray",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Fillets Skinless Tray 1.5kg-1.8kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/727622.jpg",
+    "source_id": "727622",
+    "barcode": "2607400000005",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.5kg-1.8kg",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "2610",
+        "price_per_unit": "1450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/119318/woolworths-rspca-approved-chicken-thigh-skinless-fillets-small",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Skinless Fillets Small 500g - 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/119318.jpg",
+    "source_id": "119318",
+    "barcode": "2963610000007",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "500g - 750g",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "1313",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/175086/woolworths-rspca-approved-chicken-whole-seasoned-marinated",
+    "name": "Woolworths RSPCA Approved Chicken Whole Seasoned & Marinated 1.7kg - 2.2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/175086.jpg",
+    "source_id": "175086",
+    "barcode": "9339687269990",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.7kg - 2.2kg",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "1650",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/23173/woolworths-rspca-approved-chicken-wings-three-joint",
+    "name": "Woolworths RSPCA Approved Chicken Wings Three Joint per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/023173.jpg",
+    "source_id": "23173",
+    "barcode": "0270790000003",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/272084/woolworths-rspca-approved-chicken-drumsticks",
+    "name": "Woolworths RSPCA Approved Chicken Drumsticks 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/272084.jpg",
+    "source_id": "272084",
+    "barcode": "9339687329878",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/304196/woolworths-rspca-approved-chicken-drumsticks",
+    "name": "Woolworths RSPCA Approved Chicken Drumsticks 550g - 850g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/304196.jpg",
+    "source_id": "304196",
+    "barcode": "9339687355204",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "550g - 850g",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "510",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/16487/woolworths-rspca-approved-chicken-drumsticks",
+    "name": "Woolworths RSPCA Approved Chicken Drumsticks per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/016487.jpg",
+    "source_id": "16487",
+    "barcode": "0270300000004",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "430",
+        "price_per_unit": "430",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/304193/woolworths-rspca-approved-chicken-thigh-cutlets",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Cutlets 550g - 850g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/304193.jpg",
+    "source_id": "304193",
+    "barcode": "9339687355198",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "550g - 850g",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "808",
+        "price_per_unit": "950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/727461/woolworths-rspca-approved-chicken-thigh-fillets-skinless-tray",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Fillets Skinless Tray 1kg - 1.7kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/727461.jpg",
+    "source_id": "727461",
+    "barcode": "9339687207220",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1kg - 1.7kg",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "2465",
+        "price_per_unit": "1450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/272083/woolworths-rspca-approved-chicken-whole-plain",
+    "name": "Woolworths RSPCA Approved Chicken Whole Plain 1.4kg - 2.4kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/272083.jpg",
+    "source_id": "272083",
+    "barcode": "9339687329861",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.4kg - 2.4kg",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "1080",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67763/ingham-s-turkey-breast-strips",
+    "name": "Ingham's Turkey Breast Strips 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/067763.jpg",
+    "source_id": "67763",
+    "barcode": "9310037148936",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/840244/ingham-s-turkey-breast-mince",
+    "name": "Ingham's Turkey Breast Mince 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/840244.jpg",
+    "source_id": "840244",
+    "barcode": "9310037148660",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67739/ingham-s-turkey-breast-steaks",
+    "name": "Ingham's Turkey Breast Steaks 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/067739.jpg",
+    "source_id": "67739",
+    "barcode": "9310037148943",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178792/ingham-s-turkey-necks",
+    "name": "Ingham's Turkey Necks 1.2kg - 1.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/178792.jpg",
+    "source_id": "178792",
+    "barcode": "2854400000003",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.2Kg - 1.5Kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1125",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1125",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1125",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/310516/ingham-s-turkey-drumsticks",
+    "name": "Ingham's Turkey Drumsticks 1.3kg - 1.9kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/310516.jpg",
+    "source_id": "310516",
+    "barcode": "2409870000000",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "1.3Kg - 1.9Kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1805",
+        "price_per_unit": "950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/660745/ingham-s-turkey-thigh-roast",
+    "name": "Ingham's Turkey Thigh Roast 800g - 1.2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/660745.jpg",
+    "source_id": "660745",
+    "barcode": "2425530000005",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "800g - 1.2Kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1680",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1680",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1680",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/310634/ingham-s-turkey-wing-pieces",
+    "name": "Ingham's Turkey Wing Pieces 640g - 1.9kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/310634.jpg",
+    "source_id": "310634",
+    "barcode": "2409880000007",
+    "shop": "Woolworths",
+    "category_id": "24059",
+    "weight": "640g - 1.9Kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1615",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

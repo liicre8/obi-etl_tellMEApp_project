@@ -1,0 +1,578 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/dr-pepper-soft-drink-can-330ml-7223830",
+    "name": "Dr Pepper Soft Drink Can | 330mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7223830.jpg&w=640&q=90",
+    "source_id": "7223830",
+    "barcode": "8711442003376",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "330ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "818",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mc-donnells-curry-sauce-200g-3724368",
+    "name": "Mc Donnells Curry Sauce | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3724368.jpg&w=640&q=90",
+    "source_id": "3724368",
+    "barcode": "5098732012625",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "795",
+        "price_per_unit": "398",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bartons-original-piccalilli-270g-1229379",
+    "name": "Bartons Original Piccalilli | 270g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1229379.jpg&w=640&q=90",
+    "source_id": "1229379",
+    "barcode": "5011553400532",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "270g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "130",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/club-orange-soft-drink-can-330ml-1655399",
+    "name": "Club Orange Soft Drink Can | 330mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1655399.jpg&w=640&q=90",
+    "source_id": "1655399",
+    "barcode": "5391521833976",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "330ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "909",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cadbury-wispa-chocolate-bar-36g-1655570",
+    "name": "Cadbury Wispa Chocolate Bar | 36g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1655570.jpg&w=640&q=90",
+    "source_id": "1655570",
+    "barcode": "7622210470126",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "36g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "639",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/branston-original-pickle-360g-1689142",
+    "name": "Branston Original Pickle | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1689142.jpg&w=640&q=90",
+    "source_id": "1689142",
+    "barcode": "5060336505025",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": "244",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ambrosia-creamy-devon-custard-400g-2404736",
+    "name": "Ambrosia Creamy Devon Custard | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2404736.jpg&w=640&q=90",
+    "source_id": "2404736",
+    "barcode": "5000354800870",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vimto-fizzy-soft-drink-can-330ml-2404747",
+    "name": "Vimto Fizzy Soft Drink Can | 330mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2404747.jpg&w=640&q=90",
+    "source_id": "2404747",
+    "barcode": "5010438007910",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "330ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "933",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/rowntrees-fruit-gums-150g-2783532",
+    "name": "Rowntrees Fruit Gums | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2783532.jpg&w=640&q=90",
+    "source_id": "2783532",
+    "barcode": "8445290019530",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "387",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/branston-small-chunk-pickle-360g-3260686",
+    "name": "Branston Small Chunk Pickle | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3260686.jpg&w=640&q=90",
+    "source_id": "3260686",
+    "barcode": "5060336505209",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "2083",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/after-eight-mints-300g-5703314",
+    "name": "After Eight Mints | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5703314.jpg&w=640&q=90",
+    "source_id": "5703314",
+    "barcode": "5000426171518",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-polo-original-mint-34g-5703405",
+    "name": "Nestle Polo Original Mint | 34g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5703405.jpg&w=640&q=90",
+    "source_id": "5703405",
+    "barcode": "7613036339452",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "34g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "662",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/barry's-gold-blend-80's-250g-5703540",
+    "name": "Barry's Gold Blend 80's | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5703540.jpg&w=640&q=90",
+    "source_id": "5703540",
+    "barcode": "5099810920139",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "15",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bird's-custard-powder-drum-250g-5878792",
+    "name": "Bird's Custard Powder Drum | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5878792.jpg&w=640&q=90",
+    "source_id": "5878792",
+    "barcode": "5000354922589",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "236",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/golden-fry-yorkshire-pudding-mix-and-pancakes-142g-5879140",
+    "name": "Golden Fry Yorkshire Pudding Mix & Pancakes | 142g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5879140.jpg&w=640&q=90",
+    "source_id": "5879140",
+    "barcode": "5010105132013",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "142g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "246",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/whittaker's-hawke's-bay-black-doris-plum-and-roasted-almonds-dark-chocolate-100g-3312189",
+    "name": "Whittaker's Hawke's Bay Black Doris Plum & Roasted Almonds Dark Chocolate | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3312189.jpg&w=640&q=90",
+    "source_id": "3312189",
+    "barcode": "9403142004843",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/wattie's-tomato-sauce-560g-2060615",
+    "name": "Wattie's Tomato Sauce | 560g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2060615.jpg&w=640&q=90",
+    "source_id": "2060615",
+    "barcode": "9300657240424",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "560g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "89",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-up-big-fizz-feijoa-burst-500ml-2656364",
+    "name": "Fresh Up Big Fizz Feijoa Burst | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2656364.jpg&w=640&q=90",
+    "source_id": "2656364",
+    "barcode": "9415767417205",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/landp-soft-drink-can-440ml-3561321",
+    "name": "L&P Soft Drink Can | 440mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3561321.jpg&w=640&q=90",
+    "source_id": "3561321",
+    "barcode": "9300624019442",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "440ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "682",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cadbury-perky-nana-chocolate-bar-45g-3713510",
+    "name": "Cadbury Perky Nana Chocolate Bar | 45g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3713510.jpg&w=640&q=90",
+    "source_id": "3713510",
+    "barcode": "9400550646801",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "45g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "556",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/griffins-chocolate-mallowpuffs-biscuits-200g-6961870",
+    "name": "Griffins Chocolate Mallowpuffs Biscuits | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6961870.jpg&w=640&q=90",
+    "source_id": "6961870",
+    "barcode": "9400553003458",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "260",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/whittaker's-chocolate-artisan-squares-189g-7063676",
+    "name": "Whittaker's Chocolate Artisan Squares | 189g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7063676.jpg&w=640&q=90",
+    "source_id": "7063676",
+    "barcode": "9403142002566",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "189g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "635",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blue-bird-rashuns-cheese-and-bacon-flavoured-corn-snacks-150g-7428130",
+    "name": "Blue Bird Rashuns Cheese & Bacon Flavoured Corn Snacks | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7428130.jpg&w=640&q=90",
+    "source_id": "7428130",
+    "barcode": "9400566221504",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "347",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cadbury-pinky-bar-40g-7576808",
+    "name": "Cadbury Pinky Bar | 40g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7576808.jpg&w=640&q=90",
+    "source_id": "7576808",
+    "barcode": "9400550636000",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "625",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/griffin's-ginger-nuts-biscuits-250g-8450951",
+    "name": "Griffin's Ginger Nuts Biscuits | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8450951.jpg&w=640&q=90",
+    "source_id": "8450951",
+    "barcode": "9400553438786",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/raro-sweet-navel-orange-flavoured-beverage-mix-80g-8451025",
+    "name": "Raro Sweet Navel Orange Flavoured Beverage Mix | 80g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8451025.jpg&w=640&q=90",
+    "source_id": "8451025",
+    "barcode": "9400574027105",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "225",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blue-bird-curlies-corn-snacks-150g-8451058",
+    "name": "Blue Bird Curlies Corn Snacks | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8451058.jpg&w=640&q=90",
+    "source_id": "8451058",
+    "barcode": "9400566211529",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/maggi-onion-soup-32g-8459027",
+    "name": "Maggi Onion Soup | 32g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8459027.jpg&w=640&q=90",
+    "source_id": "8459027",
+    "barcode": "9400556007781",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "32g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "875",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/l-and-p-lemon-and-paeroa-soft-drink-1.5l-9326583",
+    "name": "L & P Lemon & Paeroa Soft Drink | 1.5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9326583.jpg&w=640&q=90",
+    "source_id": "9326583",
+    "barcode": "9415087020031",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "1.5l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "327",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cadbury-snack-sandwich-132g-5934689",
+    "name": "Cadbury Snack Sandwich | 132g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5934689.jpg&w=640&q=90",
+    "source_id": "5934689",
+    "barcode": "7622201676698",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "132g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "695",
+        "price_per_unit": "527",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/goldenfry-beef-gravy-granules-300g-7172161",
+    "name": "Goldenfry Beef Gravy Granules | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7172161.jpg&w=640&q=90",
+    "source_id": "7172161",
+    "barcode": "5010105000121",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "730",
+        "price_per_unit": "243",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tunnock's-caramel-milk-chocolate-wafers-biscuits-8-pack-240g-8946210",
+    "name": "Tunnock's Caramel Milk Chocolate Wafers Biscuits 8 Pack | 240g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8946210.jpg&w=640&q=90",
+    "source_id": "8946210",
+    "barcode": "5010975070095",
+    "shop": "coles",
+    "category_id": "22859",
+    "weight": "240g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "292",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

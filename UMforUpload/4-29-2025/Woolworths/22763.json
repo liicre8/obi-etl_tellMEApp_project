@@ -1,0 +1,104 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/255857/woolworths-seafood-marinara-mix",
+    "name": "Woolworths Seafood Marinara Mix 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/255857.jpg",
+    "source_id": "255857",
+    "barcode": "9339687319954",
+    "shop": "Woolworths",
+    "category_id": "22763",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/593307/marinara-mix-thawed-marinara-mix",
+    "name": "Thawed Marinara Mix Per Kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/593307.jpg",
+    "source_id": "593307",
+    "barcode": "0271639000000",
+    "shop": "Woolworths",
+    "category_id": "22763",
+    "weight": "Per Kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1700",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1700",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1700",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1700",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1700",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2000",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/130482/woolworths-thawed-squid-tubes",
+    "name": "Woolworths Thawed Squid Tubes Per Kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/130482.jpg",
+    "source_id": "130482",
+    "barcode": "0275845000007",
+    "shop": "Woolworths",
+    "category_id": "22763",
+    "weight": "Per Kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2200",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2200",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2200",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-pikelets-8-pack-200g-4799340",
+    "name": "Coles Pikelets 8 Pack | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4799340.jpg&w=640&q=90",
+    "source_id": "4799340",
+    "barcode": "9310645354835",
+    "shop": "coles",
+    "category_id": "22077",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "125",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-pure-australian-honey-squeeze-375g-7570029",
+    "name": "Coles Pure Australian Honey Squeeze | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7570029.jpg&w=640&q=90",
+    "source_id": "7570029",
+    "barcode": "9300601416837",
+    "shop": "coles",
+    "category_id": "22077",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "147",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bakery-pancakes-5-pack-5626122",
+    "name": "Coles Bakery Pancakes | 5 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5626122.jpg&w=640&q=90",
+    "source_id": "5626122",
+    "barcode": "9310645393544",
+    "shop": "coles",
+    "category_id": "22077",
+    "weight": "5pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "80",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-mini-pikelets-24pack-200g-5689698",
+    "name": "Coles Mini Pikelets 24pack | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5689698.jpg&w=640&q=90",
+    "source_id": "5689698",
+    "barcode": "9310645393094",
+    "shop": "coles",
+    "category_id": "22077",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "180",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/golden-pancakes-6-pack-360g-6051649",
+    "name": "Golden Pancakes 6 Pack | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6051649.jpg&w=640&q=90",
+    "source_id": "6051649",
+    "barcode": "9310043003519",
+    "shop": "coles",
+    "category_id": "22077",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "153",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/golden-crumpet-rounds-original-300g-332383",
+    "name": "Golden Crumpet Rounds Original | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F332383.jpg&w=640&q=90",
+    "source_id": "332383",
+    "barcode": "9311030512915",
+    "shop": "coles",
+    "category_id": "22077",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "77",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-crumpet-rounds-6-pack-300g-4723270",
+    "name": "Coles Crumpet Rounds 6 Pack | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4723270.jpg&w=640&q=90",
+    "source_id": "4723270",
+    "barcode": "9300601266791",
+    "shop": "coles",
+    "category_id": "22077",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "70",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

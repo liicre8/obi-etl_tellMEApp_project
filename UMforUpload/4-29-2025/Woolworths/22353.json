@@ -1,0 +1,1214 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/426888/macro-avocado-mini-organic",
+    "name": "Macro Avocado Mini Organic 550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/426888.jpg",
+    "source_id": "426888",
+    "barcode": "9300633579340",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "550G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "2273",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/792361/macro-organic-avocado",
+    "name": "Macro Organic Avocado Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/792361.jpg",
+    "source_id": "792361",
+    "barcode": "0266181000004",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/318163/macro-organic-dates-punnet",
+    "name": "Macro Organic Dates Punnet 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/318163.jpg",
+    "source_id": "318163",
+    "barcode": "9300633126490",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/847227/macro-organic-pear",
+    "name": "Macro Organic Pear 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/847227.jpg",
+    "source_id": "847227",
+    "barcode": "9300633504694",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/141407/macro-organic-valencia-oranges",
+    "name": "Macro Organic Valencia Oranges 1.5kg Bag",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/141407.jpg",
+    "source_id": "141407",
+    "barcode": "9300633007171",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "1.5Kg Bag",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "890",
+        "price_per_unit": "593",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "890",
+        "price_per_unit": "593",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "890",
+        "price_per_unit": "593",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "890",
+        "price_per_unit": "593",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "890",
+        "price_per_unit": "593",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/160888/macro-pink-lady-apple-organic",
+    "name": "Macro Pink Lady Apple Organic 1kg Punnet",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/160888.jpg",
+    "source_id": "160888",
+    "barcode": "9300633007249",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "1Kg Punnet",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/781399/macro-red-grapes-organic",
+    "name": "Macro Red Grapes Organic 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/781399.jpg",
+    "source_id": "781399",
+    "barcode": "9300633703127",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "1360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "680",
+        "price_per_unit": "1360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "680",
+        "price_per_unit": "1360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "680",
+        "price_per_unit": "1360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/318290/southern-bliss-apples-big-juicy-crisp-apples-box",
+    "name": "Southern Bliss Apples Big Juicy Crisp Apples Box 1Kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/318290.jpg",
+    "source_id": "318290",
+    "barcode": "9339687347094",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/63832/macro-organic-lemon",
+    "name": "Macro Organic Lemon 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/063832.jpg",
+    "source_id": "63832",
+    "barcode": "9339687135134",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/379820/woolworths-organic-limes",
+    "name": "Woolworths Organic Limes 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/379820.jpg",
+    "source_id": "379820",
+    "barcode": "9300633541651",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "1960",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "1560",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147903/prime-organics-queen-garnet-plum",
+    "name": "Prime Organics Queen Garnet Plum 500G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/147903.jpg",
+    "source_id": "147903",
+    "barcode": "9339687241057",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/773340/macro-mini-organic-apple",
+    "name": "Macro Mini Organic Apple 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/773340.jpg",
+    "source_id": "773340",
+    "barcode": "9300633458690",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/314347/apple-snapdragon",
+    "name": "Apple SnapDragon each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/314347.jpg",
+    "source_id": "314347",
+    "barcode": "0262866000000",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "103",
+        "price_per_unit": "103",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "103",
+        "price_per_unit": "103",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/784073/fresh-beurre-bosc-pear",
+    "name": "Fresh Beurre Bosc Pear 750g Punnet",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/784073.jpg",
+    "source_id": "784073",
+    "barcode": "9339687315888",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "750G Punnet",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "387",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "387",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "467",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/785544/kanzi-apple",
+    "name": "Kanzi Apple 1kg Punnet",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/785544.jpg",
+    "source_id": "785544",
+    "barcode": "9321444555002",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "1Kg Punnet",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/576101/mi-apple-punnet",
+    "name": "Mi Apple Punnet 1Kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/576101.jpg",
+    "source_id": "576101",
+    "barcode": "9311970997001",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/625158/bravo-apple-fresh",
+    "name": "Bravo Apple Fresh Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/625158.jpg",
+    "source_id": "625158",
+    "barcode": "0265840000003",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "131",
+        "price_per_unit": "131",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/609700/pear-fresh-papple",
+    "name": "Fresh Papple Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/609700.jpg",
+    "source_id": "609700",
+    "barcode": "0261066000001",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "142",
+        "price_per_unit": "142",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "142",
+        "price_per_unit": "142",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "142",
+        "price_per_unit": "142",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "142",
+        "price_per_unit": "142",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "124",
+        "price_per_unit": "124",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "142",
+        "price_per_unit": "142",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/578168/mi-apple-loose",
+    "name": "Mi Apple Loose Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/578168.jpg",
+    "source_id": "578168",
+    "barcode": "0266488000004",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "103",
+        "price_per_unit": "103",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/116404/pear-red-angel",
+    "name": "Pear Red Angel Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/116404.jpg",
+    "source_id": "116404",
+    "barcode": "0260082000002",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "109",
+        "price_per_unit": "109",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "109",
+        "price_per_unit": "109",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "109",
+        "price_per_unit": "109",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "109",
+        "price_per_unit": "109",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "109",
+        "price_per_unit": "109",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "109",
+        "price_per_unit": "109",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "109",
+        "price_per_unit": "109",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/800763/the-odd-bunch-apples-prepacked-punnet",
+    "name": "The Odd Bunch Apples Prepacked Punnet 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/800763.jpg",
+    "source_id": "800763",
+    "barcode": "9300633768966",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/800774/the-odd-bunch-pear-prepacked",
+    "name": "The Odd Bunch Pear Prepacked 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/800774.jpg",
+    "source_id": "800774",
+    "barcode": "9300633768959",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/668580/woolworths-corella-pear",
+    "name": "Woolworths Corella Pear 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/668580.jpg",
+    "source_id": "668580",
+    "barcode": "9339687020232",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "750G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "787",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "440",
+        "price_per_unit": "587",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "440",
+        "price_per_unit": "587",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "590",
+        "price_per_unit": "787",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "590",
+        "price_per_unit": "787",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/588064/woolworths-fresh-food-kids-mini-apples",
+    "name": "Woolworths Fresh Food Kids Mini Apples 5 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/588064.jpg",
+    "source_id": "588064",
+    "barcode": "9300633643904",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "5 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "60",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "390",
+        "price_per_unit": "78",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/588302/woolworths-fresh-food-kids-mini-pears",
+    "name": "Woolworths Fresh Food Kids Mini Pears 5 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/588302.jpg",
+    "source_id": "588302",
+    "barcode": "9300633643911",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "5 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "60",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/226075/ambrosia-apple-punnet",
+    "name": "Ambrosia Apple Punnet 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/226075.jpg",
+    "source_id": "226075",
+    "barcode": "9339687306688",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/204588/sweetango-apples",
+    "name": "Sweetango Apples Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/204588.jpg",
+    "source_id": "204588",
+    "barcode": "0261261000004",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/131489/apple-red-delicious",
+    "name": "Apple Red Delicious Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/131489.jpg",
+    "source_id": "131489",
+    "barcode": "0265118000001",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "96",
+        "price_per_unit": "96",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/120044/apple-fuji",
+    "name": "Apple Fuji Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/120044.jpg",
+    "source_id": "120044",
+    "barcode": "0264129000000",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "138",
+        "price_per_unit": "138",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/325816/jazz-apple-snackers",
+    "name": "Jazz Apple Snackers 1kg Punnet",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/325816.jpg",
+    "source_id": "325816",
+    "barcode": "9322288002097",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "1Kg Punnet",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/208679/the-odd-bunch-apple-prepacked",
+    "name": "The Odd Bunch Apple Prepacked 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/208679.jpg",
+    "source_id": "208679",
+    "barcode": "9300633011031",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "2Kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "475",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/130744/apple-golden-delicious",
+    "name": "Apple Golden Delicious Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/130744.jpg",
+    "source_id": "130744",
+    "barcode": "0264021000009",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "103",
+        "price_per_unit": "103",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/310965/woolworths-packham-pear",
+    "name": "Woolworths Packham Pear 1kg Punnet",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/310965.jpg",
+    "source_id": "310965",
+    "barcode": "9300633095314",
+    "shop": "Woolworths",
+    "category_id": "22353",
+    "weight": "1Kg Punnet",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

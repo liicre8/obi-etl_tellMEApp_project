@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/nanna's-frozen-golden-and-crispy-snack-apple-pies-450g-2266246",
+    "name": "Nanna's Frozen Golden & Crispy Snack Apple Pies | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2266246.jpg&w=640&q=90",
+    "source_id": "2266246",
+    "barcode": "9311008437776",
+    "shop": "coles",
+    "category_id": "22290",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "144",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-fruit-apple-pie-snack-4-pack-500g-5438778",
+    "name": "Coles Fruit Apple Pie Snack 4 pack | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5438778.jpg&w=640&q=90",
+    "source_id": "5438778",
+    "barcode": "9300601017546",
+    "shop": "coles",
+    "category_id": "22290",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "76",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

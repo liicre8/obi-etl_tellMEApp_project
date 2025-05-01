@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-deli-thawed-peeled-garlic-prawns-approx.-250g-3165594",
+    "name": "Coles Deli Thawed Peeled Garlic Prawns | approx. 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3165594.jpg&w=640&q=90",
+    "source_id": "3165594",
+    "barcode": "9315822013161",
+    "shop": "coles",
+    "category_id": "22766",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "3000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-deli-thawed-raw-peeled-prawn-meat-approx.-250g-3944524",
+    "name": "Coles Deli Thawed Raw Peeled Prawn Meat | approx. 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3944524.jpg&w=640&q=90",
+    "source_id": "3944524",
+    "barcode": "9310645411941",
+    "shop": "coles",
+    "category_id": "22766",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "3000",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

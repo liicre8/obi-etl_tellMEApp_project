@@ -1,0 +1,56 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cotton-wool-tips-paper-stem-200-pack-3751145",
+    "name": "Coles Cotton Wool Tips Paper Stem | 200 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3751145.jpg&w=640&q=90",
+    "source_id": "3751145",
+    "barcode": "9310645308517",
+    "shop": "coles",
+    "category_id": "22418",
+    "weight": "200pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "125",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cotton-wool-tips-paper-stem-400-pack-3751156",
+    "name": "Coles Cotton Wool Tips Paper Stem | 400 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3751156.jpg&w=640&q=90",
+    "source_id": "3751156",
+    "barcode": "9310645308524",
+    "shop": "coles",
+    "category_id": "22418",
+    "weight": "400pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "100",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cotton-wool-tips-paper-stem-20-pack-3751167",
+    "name": "Coles Cotton Wool Tips Paper Stem | 20 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3751167.jpg&w=640&q=90",
+    "source_id": "3751167",
+    "barcode": "9310645308531",
+    "shop": "coles",
+    "category_id": "22418",
+    "weight": "20pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "100",
+        "price_per_unit": "500",
+        "price_unit": "pack"
+      }
+    ]
+  }
+]

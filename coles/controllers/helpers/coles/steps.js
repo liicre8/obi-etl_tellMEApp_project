@@ -136,6 +136,10 @@ const step3 = async (page, loc) => {
   } else {
     searchInputSelector = '#suburb-postcode-autocomplete';
   }
+
+  // ✅ Add this log for context
+  console.log(`📍 Attempting to find input for location: \x1b[32m${loc.location}\x1b[0m`);
+
   // console.log('in case 1: ', loc)
   const location = loc.location.split(' ')[0].replace(/[^a-zA-Z0-9]/g, ''); // Replace with the actual location
 

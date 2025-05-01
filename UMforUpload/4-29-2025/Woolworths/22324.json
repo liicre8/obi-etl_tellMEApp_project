@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/310432/findus-crumbed-fish-fingers",
+    "name": "Findus Crumbed Fish Fingers 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/310432.jpg",
+    "source_id": "310432",
+    "barcode": "5000116128495",
+    "shop": "Woolworths",
+    "category_id": "22324",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1964",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/309991/findus-crumbed-fish-fingers",
+    "name": "Findus Crumbed Fish Fingers 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/309991.jpg",
+    "source_id": "309991",
+    "barcode": "5000116127900",
+    "shop": "Woolworths",
+    "category_id": "22324",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "920",
+        "price_per_unit": "2556",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

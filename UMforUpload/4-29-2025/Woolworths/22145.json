@@ -1,0 +1,20 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/830497/woolworths-butter-chicken-with-rice-chilled-meal",
+    "name": "Woolworths Butter Chicken With Rice Chilled Meal 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/830497.jpg",
+    "source_id": "830497",
+    "barcode": "9339687216529",
+    "shop": "Woolworths",
+    "category_id": "22145",
+    "weight": "350G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

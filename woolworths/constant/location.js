@@ -6,7 +6,7 @@ const locations = [
         subLucation: "Town Hall"
     },
     // // vic
-    // {
+    // { 
     //     name: 'vic',
     //     location: "3000",
     //     subLucation: "QV"

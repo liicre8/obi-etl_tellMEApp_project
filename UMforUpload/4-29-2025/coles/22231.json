@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/cocobella-watermelon-and-mint-flavour-coconut-water-1l-2586768",
+    "name": "Cocobella Watermelon & Mint Flavour Coconut Water | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2586768.jpg&w=640&q=90",
+    "source_id": "2586768",
+    "barcode": "9336243003159",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-natural-coconut-water-1l-3277452",
+    "name": "Coles Natural Coconut Water | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3277452.jpg&w=640&q=90",
+    "source_id": "3277452",
+    "barcode": "9310645243726",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bonsoy-sparkling-coconut-water-320ml-6841368",
+    "name": "Bonsoy Sparkling Coconut Water | 320mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6841368.jpg&w=640&q=90",
+    "source_id": "6841368",
+    "barcode": "9312336048207",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "320ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "1094",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bonsoy-sparkling-coconut-water-with-passionfruit-320ml-6842269",
+    "name": "Bonsoy Sparkling Coconut Water With Passionfruit | 320mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6842269.jpg&w=640&q=90",
+    "source_id": "6842269",
+    "barcode": "9312336048283",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "320ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "1094",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cocobella-smoothie-starter-1l-6935042",
+    "name": "Cocobella Smoothie Starter | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6935042.jpg&w=640&q=90",
+    "source_id": "6935042",
+    "barcode": "9336243008031",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cocobella-straight-up-pure-coconut-water-250ml-8496307",
+    "name": "Cocobella Straight Up Pure Coconut Water | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8496307.jpg&w=640&q=90",
+    "source_id": "8496307",
+    "barcode": "9336243003036",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "215",
+        "price_per_unit": "860",
+        "price_unit": "ml"
+      }
+    ]
+  }
+]

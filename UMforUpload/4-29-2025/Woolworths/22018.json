@@ -1,0 +1,128 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/767383/little-one-s-baby-blanket-cotton",
+    "name": "Little One's Baby Blanket Cotton Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/767383.jpg",
+    "source_id": "767383",
+    "barcode": "9300633443573",
+    "shop": "Woolworths",
+    "category_id": "22018",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/376185/little-one-s-baby-wash-cloths-assorted",
+    "name": "Little One's Baby Wash Cloths Assorted 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/376185.jpg",
+    "source_id": "376185",
+    "barcode": "9300633157401",
+    "shop": "Woolworths",
+    "category_id": "22018",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/378160/little-one-s-bright-baby-bibs-assorted-bright",
+    "name": "Little One's Bright Baby Bibs Assorted 5 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/378160.jpg",
+    "source_id": "378160",
+    "barcode": "9337672067248",
+    "shop": "Woolworths",
+    "category_id": "22018",
+    "weight": "5 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "220",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/376184/little-one-s-muslin-wraps-assorted-muslin",
+    "name": "Little One's Muslin Wraps Assorted 3 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/376184.jpg",
+    "source_id": "376184",
+    "barcode": "9300633157333",
+    "shop": "Woolworths",
+    "category_id": "22018",
+    "weight": "3 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "533",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/675834/underworks-baby-mid-crew-socks-18-36-months",
+    "name": "Underworks Baby Mid Crew Socks 18-36 Months 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/675834.jpg",
+    "source_id": "675834",
+    "barcode": "9327446528198",
+    "shop": "Woolworths",
+    "category_id": "22018",
+    "weight": "4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/28413/underworks-infant-patterned-crew",
+    "name": "Underworks Infant Patterned Crew 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/028413.jpg",
+    "source_id": "28413",
+    "barcode": "9327446441091",
+    "shop": "Woolworths",
+    "category_id": "22018",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "175",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/113434/underworks-infant-plain-mid-crew-socks-assorted",
+    "name": "Underworks Infant Plain Mid Crew Socks Assorted 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/113434.jpg",
+    "source_id": "113434",
+    "barcode": "9327446459584",
+    "shop": "Woolworths",
+    "category_id": "22018",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  }
+]

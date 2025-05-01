@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/18145/essentials-cooking-chocolate-milk",
+    "name": "Essentials Cooking Chocolate Milk 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/018145.jpg",
+    "source_id": "18145",
+    "barcode": "9300633181451",
+    "shop": "Woolworths",
+    "category_id": "22775",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "139",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/44628/essentials-dark-choc-cooking-block-dark",
+    "name": "Essentials Dark Choc Cooking Block 375G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/044628.jpg",
+    "source_id": "44628",
+    "barcode": "9300633446284",
+    "shop": "Woolworths",
+    "category_id": "22775",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "139",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

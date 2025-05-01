@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/49622/golden-crumpets-round",
+    "name": "Golden Crumpets Round 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/049622.jpg",
+    "source_id": "49622",
+    "barcode": "9310043003014",
+    "shop": "Woolworths",
+    "category_id": "22077",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "77",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/365378/woolworths-pikelets",
+    "name": "Woolworths Pikelets 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/365378.jpg",
+    "source_id": "365378",
+    "barcode": "9300633176921",
+    "shop": "Woolworths",
+    "category_id": "22077",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

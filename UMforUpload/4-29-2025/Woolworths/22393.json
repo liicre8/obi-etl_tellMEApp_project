@@ -1,0 +1,218 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/137546/eggplant-fresh",
+    "name": "Eggplant Fresh Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/137546.jpg",
+    "source_id": "137546",
+    "barcode": "0264081000001",
+    "shop": "Woolworths",
+    "category_id": "22393",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "253",
+        "price_per_unit": "253",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "253",
+        "price_per_unit": "253",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "253",
+        "price_per_unit": "253",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "285",
+        "price_per_unit": "285",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "253",
+        "price_per_unit": "253",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "285",
+        "price_per_unit": "285",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/117383/macro-organic-green-zucchini-punnet",
+    "name": "Macro Organic Green Zucchini Punnet 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/117383.jpg",
+    "source_id": "117383",
+    "barcode": "9300633007454",
+    "shop": "Woolworths",
+    "category_id": "22393",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "1380",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "690",
+        "price_per_unit": "1380",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "720",
+        "price_per_unit": "1440",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "690",
+        "price_per_unit": "1380",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "690",
+        "price_per_unit": "1380",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/137548/eggplant-lebanese",
+    "name": "Eggplant Lebanese Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/137548.jpg",
+    "source_id": "137548",
+    "barcode": "0264599000005",
+    "shop": "Woolworths",
+    "category_id": "22393",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "358",
+        "price_per_unit": "358",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "358",
+        "price_per_unit": "358",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/173264/woolworths-yellow-squash",
+    "name": "Woolworths Yellow Squash 250g Punnet",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/173264.jpg",
+    "source_id": "173264",
+    "barcode": "9300633608279",
+    "shop": "Woolworths",
+    "category_id": "22393",
+    "weight": "250G Punnet",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/825869/the-odd-bunch-zucchini-prepacked",
+    "name": "The Odd Bunch Zucchini Prepacked 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/825869.jpg",
+    "source_id": "825869",
+    "barcode": "9300633701260",
+    "shop": "Woolworths",
+    "category_id": "22393",
+    "weight": "750G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "467",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "350",
+        "price_per_unit": "467",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/839552/zucchini-green-punnet",
+    "name": "Zucchini Green Punnet 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/839552.jpg",
+    "source_id": "839552",
+    "barcode": "9339687069484",
+    "shop": "Woolworths",
+    "category_id": "22393",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "980",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/174172/zucchini-green",
+    "name": "Zucchini Green Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/174172.jpg",
+    "source_id": "174172",
+    "barcode": "0267111000002",
+    "shop": "Woolworths",
+    "category_id": "22393",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

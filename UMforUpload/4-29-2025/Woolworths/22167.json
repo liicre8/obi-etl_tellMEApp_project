@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/804463/allpress-espresso-iced-coffee-mocha",
+    "name": "Allpress Espresso Iced Coffee Mocha 240mL x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/804463.jpg",
+    "source_id": "804463",
+    "barcode": "9421907274331",
+    "shop": "Woolworths",
+    "category_id": "22167",
+    "weight": "240mL x 4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "725",
+        "price_per_unit": "755",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/136472/vit-hit-perform",
+    "name": "Vit-Hit Perform 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/136472.jpg",
+    "source_id": "136472",
+    "barcode": "5060381910089",
+    "shop": "Woolworths",
+    "category_id": "22167",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

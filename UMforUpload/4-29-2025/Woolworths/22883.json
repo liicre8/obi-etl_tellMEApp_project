@@ -1,0 +1,776 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/581283/woolworths-potato-bacon-bake",
+    "name": "Woolworths Potato Bacon Bake 650g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/581283.jpg",
+    "source_id": "581283",
+    "barcode": "9300633636944",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "650G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1330",
+        "price_per_unit": "205",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/219559/fodmapped-for-you-teriyaki-stir-fry-simmer-sauce",
+    "name": "Fodmapped For You Teriyaki Stir Fry Simmer Sauce 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/219559.jpg",
+    "source_id": "219559",
+    "barcode": "9345625001447",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "295",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/399967/nutra-organics-beef-bone-broth-native-herbs",
+    "name": "Nutra Organics Beef Bone Broth Native Herbs 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/399967.jpg",
+    "source_id": "399967",
+    "barcode": "9343723007538",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "190g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2620",
+        "price_per_unit": "1379",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/405643/nutra-organics-beef-bone-broth-natural-beef",
+    "name": "Nutra Organics Beef Bone Broth Natural Beef 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/405643.jpg",
+    "source_id": "405643",
+    "barcode": "9343723007514",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "190g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2620",
+        "price_per_unit": "1379",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/12786/nutra-organics-chicken-bone-broth",
+    "name": "Nutra Organics Chicken Bone Broth 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/012786.jpg",
+    "source_id": "12786",
+    "barcode": "9343723007910",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "190g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2715",
+        "price_per_unit": "1429",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/22866/nutra-organics-chicken-bone-broth-lemon-paprika",
+    "name": "Nutra Organics Chicken Bone Broth Lemon & Paprika 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/022866.jpg",
+    "source_id": "22866",
+    "barcode": "9343723007927",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "190g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3395",
+        "price_per_unit": "1787",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/906443/beerenberg-mushroom-stroganoff-meal-base",
+    "name": "Beerenberg Mushroom Stroganoff Meal Base 240mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/906443.jpg",
+    "source_id": "906443",
+    "barcode": "9311485003440",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "240mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "175",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/225455/beerenberg-pumpkin-chickpea-curry",
+    "name": "Beerenberg Pumpkin & Chickpea Curry 240ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/225455.jpg",
+    "source_id": "225455",
+    "barcode": "9311485000883",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "240ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "175",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/262890/chicken-tonight-creamy-cheese-bacon-flavour",
+    "name": "Chicken Tonight Creamy Cheese & Bacon Flavour 490g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/262890.jpg",
+    "source_id": "262890",
+    "barcode": "9300462132617",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "490g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "73",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/194935/chicken-tonight-simmer-sauce-butter-chicken",
+    "name": "Chicken Tonight Simmer Sauce Butter Chicken 495g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/194935.jpg",
+    "source_id": "194935",
+    "barcode": "9300462130033",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "495G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "73",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/12079/chicken-tonight-simmer-sauce-honey-mustard",
+    "name": "Chicken Tonight Simmer Sauce Honey & Mustard 485g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/012079.jpg",
+    "source_id": "12079",
+    "barcode": "9300462130040",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "485G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "74",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/54375/continental-classics-recipe-base-chilli-con-carne",
+    "name": "Continental Classics Recipe Base Chilli Con Carne 40g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/054375.jpg",
+    "source_id": "54375",
+    "barcode": "9300667028067",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/54373/continental-classics-recipe-base-chow-mein-mince",
+    "name": "Continental Classics Recipe Base Chow Mein Mince 30g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/054373.jpg",
+    "source_id": "54373",
+    "barcode": "9300667042124",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "30g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "633",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/79923/continental-classics-recipe-base-spaghetti-bolognese",
+    "name": "Continental Classics Recipe Base Spaghetti Bolognese 50 g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/079923.jpg",
+    "source_id": "79923",
+    "barcode": "9300667028234",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "50 g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/54381/continental-recipe-base-beef-stroganoff",
+    "name": "Continental Recipe Base Beef Stroganoff 40g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/054381.jpg",
+    "source_id": "54381",
+    "barcode": "9300667028005",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "40G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "475",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/113305/continental-recipe-base-creamy-tuna-mornay",
+    "name": "Continental Recipe Base Creamy Tuna Mornay 30g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/113305.jpg",
+    "source_id": "113305",
+    "barcode": "9300667028128",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "30G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "633",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/88307/continental-recipe-base-curried-sausages",
+    "name": "Continental Recipe Base Curried Sausages 35g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/088307.jpg",
+    "source_id": "88307",
+    "barcode": "9300667028012",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "35G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "543",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/257531/continental-recipe-base-shepherds-pie-shepherds-pie",
+    "name": "Continental Recipe Base Shepherds Pie Shepherds Pie 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/257531.jpg",
+    "source_id": "257531",
+    "barcode": "9300667038295",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83808/hart-soul-all-natural-butter-chicken-recipe-base",
+    "name": "Hart & Soul All Natural Butter Chicken Recipe Base 80G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/083808.jpg",
+    "source_id": "83808",
+    "barcode": "9350007004534",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "80G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "255",
+        "price_per_unit": "319",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83820/hart-soul-all-natural-teriyaki-stir-fry-recipe-base",
+    "name": "Hart & Soul All Natural Teriyaki Stir Fry Recipe Base 80g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/083820.jpg",
+    "source_id": "83820",
+    "barcode": "9350007004527",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "80G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "255",
+        "price_per_unit": "319",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/656969/kan-tong-teriyaki-chicken-meal-base-pouch",
+    "name": "Kan Tong Teriyaki Chicken Meal Base Pouch 175g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/656969.jpg",
+    "source_id": "656969",
+    "barcode": "9310012049470",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "175G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "211",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/214477/keen-s-meal-base-creamy-honey-mustard-chicken",
+    "name": "Keen's Meal Base Creamy Honey Mustard Chicken 285g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/214477.jpg",
+    "source_id": "214477",
+    "barcode": "9300683508383",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "285g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/213157/keen-s-meal-base-creamy-mild-chicken-curry",
+    "name": "Keen's Meal Base Creamy Mild Chicken Curry 285g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/213157.jpg",
+    "source_id": "213157",
+    "barcode": "9300683508352",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "285g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/214007/keen-s-meal-base-curried-sausages",
+    "name": "Keen's Meal Base Curried Sausages 285g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/214007.jpg",
+    "source_id": "214007",
+    "barcode": "9300683508369",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "285g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6015548/leggo-s-bechamel-lasagne-sauce-made-with-real-cream",
+    "name": "Leggo's Bechamel Lasagne Sauce Made With Real Cream 490g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6015548.jpg",
+    "source_id": "6015548",
+    "barcode": "9300645136739",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "490g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "88",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/283826/maggi-bowl-meals-asian-style-teriyaki-bowl",
+    "name": "Maggi Bowl Meals Asian Style Teriyaki Bowl 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/283826.jpg",
+    "source_id": "283826",
+    "barcode": "9300605147850",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "253",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/283834/maggi-bowl-meals-mexican-style-burrito-bowl",
+    "name": "Maggi Bowl Meals Mexican Style Burrito Bowl 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/283834.jpg",
+    "source_id": "283834",
+    "barcode": "9300605147867",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "253",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/446483/maggi-dry-recipe-bases-beef-goulash-recipe-base",
+    "name": "Maggi Dry Recipe Bases Beef Goulash Recipe Base 33g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/446483.jpg",
+    "source_id": "446483",
+    "barcode": "9400556015311",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "33g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "591",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/446453/maggi-dry-recipe-bases-beef-stroganoff",
+    "name": "Maggi Dry Recipe Bases Beef Stroganoff 41g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/446453.jpg",
+    "source_id": "446453",
+    "barcode": "9400556015298",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "41g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "476",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/446477/maggi-dry-recipe-bases-chicken-chasseur",
+    "name": "Maggi Dry Recipe Bases Chicken Chasseur 35g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/446477.jpg",
+    "source_id": "446477",
+    "barcode": "9400556015304",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "35g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "557",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/257713/maggi-dry-recipe-bases-chinese-fried-rice",
+    "name": "Maggi Dry Recipe Bases Chinese Fried Rice 28g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/257713.jpg",
+    "source_id": "257713",
+    "barcode": "9300605151680",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "28g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "696",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/446476/maggi-dry-recipe-bases-devilled-sausages",
+    "name": "Maggi Dry Recipe Bases Devilled Sausages 37g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/446476.jpg",
+    "source_id": "446476",
+    "barcode": "9400556015267",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "37g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "527",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/479087/maggi-dry-recipe-bases-italian-style-mediterranean-meatballs",
+    "name": "Maggi Dry Recipe Bases Italian Style Mediterranean Meatballs 38g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/479087.jpg",
+    "source_id": "479087",
+    "barcode": "9400556015403",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "38g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "513",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/446455/maggi-dry-recipe-bases-satay-chicken",
+    "name": "Maggi Dry Recipe Bases Satay Chicken 43g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/446455.jpg",
+    "source_id": "446455",
+    "barcode": "9400556015199",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "43g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "453",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/446479/maggi-dry-recipe-bases-your-meal-your-way-cottage-pie",
+    "name": "Maggi Dry Recipe Bases Your Meal Your Way Cottage Pie 37g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/446479.jpg",
+    "source_id": "446479",
+    "barcode": "9400556015236",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "37g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "527",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/446478/maggi-dry-recipe-bases-your-meal-your-way-mexican-nachos",
+    "name": "Maggi Dry Recipe Bases Your Meal Your Way Mexican Nachos 41g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/446478.jpg",
+    "source_id": "446478",
+    "barcode": "9400556015366",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "41g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "476",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/579736/maggi-side-dishes-cheese-bacon-potato-bake",
+    "name": "Maggi Side Dishes Cheese & Bacon Potato Bake 21g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/579736.jpg",
+    "source_id": "579736",
+    "barcode": "9300605112827",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "21g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "929",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/169311/maggi-side-dishes-cheesy-broccoli-and-cauliflower-bake",
+    "name": "Maggi Side Dishes Cheesy Broccoli And Cauliflower Bake 31g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/169311.jpg",
+    "source_id": "169311",
+    "barcode": "9300605143487",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "31g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "629",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/579716/maggi-side-dishes-cheesy-cauliflower-bake",
+    "name": "Maggi Side Dishes Cheesy Cauliflower Bake 30g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/579716.jpg",
+    "source_id": "579716",
+    "barcode": "9400556015991",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "30g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "650",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/579719/maggi-side-dishes-creamy-cheese-and-garlic-potato-bake",
+    "name": "Maggi Side Dishes Creamy Cheese And Garlic Potato Bake 24g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/579719.jpg",
+    "source_id": "579719",
+    "barcode": "9300605112834",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "24g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "813",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/579734/maggi-side-dishes-three-cheese-potato-bake",
+    "name": "Maggi Side Dishes Three Cheese Potato Bake 21g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/579734.jpg",
+    "source_id": "579734",
+    "barcode": "9400556015755",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "21g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "929",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/297224/masterfoods-creamy-herb-garlic-potato-bake",
+    "name": "MasterFoods Creamy Herb Garlic Potato Bake 175g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/297224.jpg",
+    "source_id": "297224",
+    "barcode": "9310012034469",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "175G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "315",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/172100/masterfoods-stir-fry-recipe-base-creamy-thai-chicken",
+    "name": "MasterFoods Stir Fry Recipe Base Creamy Thai Chicken 175g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/172100.jpg",
+    "source_id": "172100",
+    "barcode": "9310012026327",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "175G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "315",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

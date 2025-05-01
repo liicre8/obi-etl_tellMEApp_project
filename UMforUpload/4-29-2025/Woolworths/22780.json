@@ -1,0 +1,524 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/680970/betty-crocker-chocolate-fudge-gluten-free-frosting",
+    "name": "Betty Crocker Chocolate Fudge Gluten Free Frosting 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/680970.jpg",
+    "source_id": "680970",
+    "barcode": "9300695007645",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/699576/csr-all-natural-buttercream-icing-mix-chocolate",
+    "name": "CSR All Natural Buttercream Icing Mix Chocolate 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/699576.jpg",
+    "source_id": "699576",
+    "barcode": "9313010001204",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/491614/dollar-sweets-100s-1000s-jar",
+    "name": "Dollar Sweets 100s & 1000s Jar 155g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/491614.jpg",
+    "source_id": "491614",
+    "barcode": "9310331474359",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "155G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "226",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/962006/dollar-sweets-barbie-sprinkles",
+    "name": "Dollar Sweets Barbie Sprinkles 155g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/962006.jpg",
+    "source_id": "962006",
+    "barcode": "9310331478050",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "155g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "387",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/944090/dollar-sweets-barbie-wafer-cupcake-toppers",
+    "name": "Dollar Sweets Barbie Wafer Cupcake Toppers 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/944090.jpg",
+    "source_id": "944090",
+    "barcode": "9310331478074",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "12 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/491609/dollar-sweets-bright-sprinkles-jar",
+    "name": "Dollar Sweets Bright Sprinkles Jar 90g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/491609.jpg",
+    "source_id": "491609",
+    "barcode": "9310331474335",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "90G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "389",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/491620/dollar-sweets-choclettes-sprinkles-jar",
+    "name": "Dollar Sweets Choclettes Sprinkles Jar 115g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/491620.jpg",
+    "source_id": "491620",
+    "barcode": "9310331474342",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "115G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "304",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/946044/dollar-sweets-chocolate-buttercream",
+    "name": "Dollar Sweets Chocolate Buttercream 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/946044.jpg",
+    "source_id": "946044",
+    "barcode": "9310331478135",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/253596/dollar-sweets-cookie-icing-white",
+    "name": "Dollar Sweets Cookie Icing White 225g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/253596.jpg",
+    "source_id": "253596",
+    "barcode": "9310331476964",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "225g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/210555/dollar-sweets-edible-candy-eyeball",
+    "name": "Dollar Sweets Edible Candy Eyeball 25g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/210555.jpg",
+    "source_id": "210555",
+    "barcode": "9310331476704",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "1200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/944471/dollar-sweets-edible-wafer-sprinkles-stars",
+    "name": "Dollar Sweets Edible Wafer Sprinkles Stars 5g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/944471.jpg",
+    "source_id": "944471",
+    "barcode": "9310331478142",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "5g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/944640/dollar-sweets-enchanted-garden-12-icing-decors",
+    "name": "Dollar Sweets Enchanted Garden 12 Icing Decors 10g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/944640.jpg",
+    "source_id": "944640",
+    "barcode": "9310331478128",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "10g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "31",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387537/dollar-sweets-funny-faces",
+    "name": "Dollar Sweets Funny Faces 25g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/387537.jpg",
+    "source_id": "387537",
+    "barcode": "9310331477596",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "25g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/946288/dollar-sweets-gamer-12-icing-decors",
+    "name": "Dollar Sweets Gamer 12 Icing Decors 9g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/946288.jpg",
+    "source_id": "946288",
+    "barcode": "9310331478098",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "9g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "375",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/964533/dollar-sweets-hot-wheels-sprinkles",
+    "name": "Dollar Sweets Hot Wheels Sprinkles 143g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/964533.jpg",
+    "source_id": "964533",
+    "barcode": "9310331478067",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "143g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/946285/dollar-sweets-hot-wheels-wafer-cupcake-toppers",
+    "name": "Dollar Sweets Hot Wheels Wafer Cupcake Toppers 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/946285.jpg",
+    "source_id": "946285",
+    "barcode": "9310331478081",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "12 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "25",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/804132/dollar-sweets-icing-decorations-unicorn-rainbow",
+    "name": "Dollar Sweets Icing Decorations Unicorn & Rainbow 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/804132.jpg",
+    "source_id": "804132",
+    "barcode": "9310331474892",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/210503/dollar-sweets-love-hearts-edible-icing-decorations",
+    "name": "Dollar Sweets Love Hearts Edible Icing Decorations 8g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/210503.jpg",
+    "source_id": "210503",
+    "barcode": "9310331476667",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "8g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "4375",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/944100/dollar-sweets-sporty-edible-icing-decors",
+    "name": "Dollar Sweets Sporty Edible Icing Decors 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/944100.jpg",
+    "source_id": "944100",
+    "barcode": "9310331478104",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "12 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "31",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/307818/dollar-sweets-sprinkles-magic-100s-1000s",
+    "name": "Dollar Sweets Sprinkles Magic 100s & 1000s 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/307818.jpg",
+    "source_id": "307818",
+    "barcode": "9310331000466",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "350G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "129",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/773761/dollar-sweets-sprinkles-pirate-toppings",
+    "name": "Dollar Sweets Sprinkles Pirate Toppings 145g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/773761.jpg",
+    "source_id": "773761",
+    "barcode": "9310331473796",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "145G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "414",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/953133/dollar-sweets-superhero-12-icing-decors",
+    "name": "Dollar Sweets Superhero 12 Icing Decors 10g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/953133.jpg",
+    "source_id": "953133",
+    "barcode": "9310331478111",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "10g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "31",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/109926/dollar-sweets-vanilla-buttercream",
+    "name": "Dollar Sweets Vanilla Buttercream 420g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/109926.jpg",
+    "source_id": "109926",
+    "barcode": "9310331475769",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "420G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "143",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/803604/dollar-sweets-vegetarian-rainbow-sprinkles",
+    "name": "Dollar Sweets Vegetarian Rainbow Sprinkles 155g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/803604.jpg",
+    "source_id": "803604",
+    "barcode": "9310331474908",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "155G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "148",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/943256/dollar-sweets-wafer-sprinkles-confetti",
+    "name": "Dollar Sweets Wafer Sprinkles Confetti 5g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/943256.jpg",
+    "source_id": "943256",
+    "barcode": "9310331478166",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "5g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "6000",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/449918/dr-oetker-gelatine-powder",
+    "name": "Dr. Oetker Gelatine Powder 36g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/449918.jpg",
+    "source_id": "449918",
+    "barcode": "9344988005321",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "36G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "556",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/448630/dr-oetker-ready-rolled-icing-white",
+    "name": "Dr. Oetker Ready Rolled Icing White 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/448630.jpg",
+    "source_id": "448630",
+    "barcode": "9350086000113",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "840",
+        "price_per_unit": "187",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/251189/essentials-bicarbonate-soda",
+    "name": "Essentials Bicarbonate Soda 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/251189.jpg",
+    "source_id": "251189",
+    "barcode": "9300633929640",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "245",
+        "price_per_unit": "49",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/30309/fowlers-baking-aids-vacola-jamsetta",
+    "name": "Fowlers Baking Aids Vacola Jamsetta 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/030309.jpg",
+    "source_id": "30309",
+    "barcode": "9310186130059",
+    "shop": "Woolworths",
+    "category_id": "22780",
+    "weight": "50G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

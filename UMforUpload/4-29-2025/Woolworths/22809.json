@@ -1,0 +1,542 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/224784/fodmapped-for-you-roasted-pumpkin-spinach-feta",
+    "name": "Fodmapped For You Roasted Pumpkin Spinach & Feta 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/224784.jpg",
+    "source_id": "224784",
+    "barcode": "9345625001713",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "890",
+        "price_per_unit": "178",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/161622/coco-earth-butter-chicken-with-naan",
+    "name": "Coco Earth Butter Chicken With Naan 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/161622.jpg",
+    "source_id": "161622",
+    "barcode": "9349580003362",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "735",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/319397/coco-earth-buttery-makhani-paneer-with-garlic-naan",
+    "name": "Coco Earth Buttery Makhani Paneer With Garlic Naan 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/319397.jpg",
+    "source_id": "319397",
+    "barcode": "9349580005670",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "111",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/671200/coco-earth-chicken-burrito-bowl-ready-meal",
+    "name": "Coco Earth Chicken Burrito Bowl Ready Meal 385g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/671200.jpg",
+    "source_id": "671200",
+    "barcode": "9349580006370",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "385g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "840",
+        "price_per_unit": "218",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/317643/coco-earth-mango-chicken-with-rice",
+    "name": "Coco Earth Mango Chicken With Rice 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/317643.jpg",
+    "source_id": "317643",
+    "barcode": "9349580005687",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "735",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/674696/coco-earth-mexican-bean-nachos-ready-meal",
+    "name": "Coco Earth Mexican Bean Nachos Ready Meal 275g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/674696.jpg",
+    "source_id": "674696",
+    "barcode": "9349580006363",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "275g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "145",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/676842/coco-earth-ready-meal-chicken-soft-taco-kit",
+    "name": "Coco Earth Ready Meal Chicken Soft Taco Kit 320g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/676842.jpg",
+    "source_id": "676842",
+    "barcode": "9349580006356",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "320g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/320535/coco-earth-smoky-charcoal-chicken-with-rice",
+    "name": "Coco Earth Smoky Charcoal Chicken With Rice 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/320535.jpg",
+    "source_id": "320535",
+    "barcode": "9349580005663",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "735",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/95942/coco-earth-yellow-dahl-with-long-grain-rice",
+    "name": "Coco Earth Yellow Dahl With Long Grain Rice 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/095942.jpg",
+    "source_id": "95942",
+    "barcode": "9349580002471",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "158",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/840899/continental-pasta-sensations-spinach-parmesan-bacon-serves-2",
+    "name": "Continental Pasta Sensations Spinach Parmesan & Bacon Serves 2 91g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/840899.jpg",
+    "source_id": "840899",
+    "barcode": "9300830023943",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "91g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "308",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/451725/continental-pasta-sensations-with-bacon-parmesan-boscaiola-serves-2",
+    "name": "Continental Pasta Sensations With Bacon & Parmesan Boscaiola Serves 2 96g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/451725.jpg",
+    "source_id": "451725",
+    "barcode": "9300830037704",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "96g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "292",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/86852/hart-soul-all-natural-supergrain-teriyaki-chicken",
+    "name": "Hart & Soul All Natural Supergrain Teriyaki Chicken 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/086852.jpg",
+    "source_id": "86852",
+    "barcode": "9350007004992",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "232",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/333786/continental-vegan-carbonara-pasta-sauce",
+    "name": "Continental Vegan Carbonara Pasta & Sauce 85g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/333786.jpg",
+    "source_id": "333786",
+    "barcode": "9300830081646",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "85g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "412",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/335213/hart-soul-no-nasties-chicken-massaman",
+    "name": "Hart & Soul No Nasties Chicken Massaman 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/335213.jpg",
+    "source_id": "335213",
+    "barcode": "9300602378899",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "385",
+        "price_per_unit": "154",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/334590/hart-soul-no-nasties-veg-dahl",
+    "name": "Hart & Soul No Nasties Veg Dahl 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/334590.jpg",
+    "source_id": "334590",
+    "barcode": "9300602379056",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "385",
+        "price_per_unit": "154",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/805178/hart-soul-panang-curry",
+    "name": "Hart & Soul Panang Curry 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/805178.jpg",
+    "source_id": "805178",
+    "barcode": "9350007000062",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "232",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/562803/hart-soul-ramen-chilli-garlic-saucy-noodles-box",
+    "name": "Hart & Soul Ramen Chilli & Garlic Saucy Noodles Box 330g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/562803.jpg",
+    "source_id": "562803",
+    "barcode": "9300602385477",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "330g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "578",
+        "price_per_unit": "175",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/563133/hart-soul-satay-chicken-saucy-noodles-box",
+    "name": "Hart & Soul Satay Chicken Saucy Noodles Box 330g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/563133.jpg",
+    "source_id": "563133",
+    "barcode": "9300602384999",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "330g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "578",
+        "price_per_unit": "175",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/524927/hart-soul-thai-chicken-saucy-noodles-box",
+    "name": "Hart & Soul Thai Chicken Saucy Noodles Box 330g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/524927.jpg",
+    "source_id": "524927",
+    "barcode": "9300602385156",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "330g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "578",
+        "price_per_unit": "175",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/220991/heinz-ravioli-with-creamy-tomato",
+    "name": "Heinz Ravioli With Creamy Tomato 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/220991.jpg",
+    "source_id": "220991",
+    "barcode": "9300657243524",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "114",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/606763/dinner-winner-pasta-beef",
+    "name": "Dinner Winner Pasta Beef 153g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/606763.jpg",
+    "source_id": "606763",
+    "barcode": "9300683504880",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "153G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "261",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/277597/la-zuppa-one-pot-dish-sweet-potato-dahl-with-coconut-turmeric",
+    "name": "La Zuppa One-Pot-Dish Sweet Potato Dahl With Coconut & Turmeric 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/277597.jpg",
+    "source_id": "277597",
+    "barcode": "9300637508469",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/277756/la-zuppa-one-pot-dish-thai-red-curry-with-chickpea-pumpkin",
+    "name": "La Zuppa One-Pot-Dish Thai Red Curry With Chickpea & Pumpkin 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/277756.jpg",
+    "source_id": "277756",
+    "barcode": "9300637508452",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/159214/passage-to-asia-veg-curry-bowl-malaysian-satay-with-jasmine-rice",
+    "name": "Passage To Asia Veg Curry Bowl Malaysian Satay With Jasmine Rice 280G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/159214.jpg",
+    "source_id": "159214",
+    "barcode": "9334279006229",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "280G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "196",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/159227/passage-to-asia-veg-curry-bowl-thai-green-curry-with-jasmine-rice",
+    "name": "Passage To Asia Veg Curry Bowl Thai Green Curry With Jasmine Rice 280G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/159227.jpg",
+    "source_id": "159227",
+    "barcode": "9334279006212",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "280G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "196",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/88583/passage-to-india-veg-curry-bowl-butter-masala-with-rice",
+    "name": "Passage To India Veg Curry Bowl Butter Masala With Rice 280G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/088583.jpg",
+    "source_id": "88583",
+    "barcode": "9334279006458",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "280G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "196",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/747667/sirena-chicken-korean-style-rice",
+    "name": "Sirena Chicken Korean Style Rice 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/747667.jpg",
+    "source_id": "747667",
+    "barcode": "9350177001050",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "190g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "237",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/840247/sirena-chicken-pad-thai-noodles",
+    "name": "Sirena Chicken Pad Thai Noodles 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/840247.jpg",
+    "source_id": "840247",
+    "barcode": "9350177001104",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "190g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "237",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/804686/sirena-chicken-pesto-pasta",
+    "name": "Sirena Chicken Pesto Pasta 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/804686.jpg",
+    "source_id": "804686",
+    "barcode": "9350177001098",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "190g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "237",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/317841/sirena-ready-to-eat-mexican-rice-with-chicken",
+    "name": "Sirena Ready To Eat Mexican Rice With Chicken 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/317841.jpg",
+    "source_id": "317841",
+    "barcode": "9350177000879",
+    "shop": "Woolworths",
+    "category_id": "22809",
+    "weight": "190g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "237",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

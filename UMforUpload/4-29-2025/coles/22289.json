@@ -1,0 +1,128 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/sara-lee-frozen-chocolate-bavarian-cheesecake-375g-6125869",
+    "name": "Sara Lee Frozen Chocolate Bavarian Cheesecake | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6125869.jpg&w=640&q=90",
+    "source_id": "6125869",
+    "barcode": "9310135020424",
+    "shop": "coles",
+    "category_id": "22289",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "425",
+        "price_per_unit": "113",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/peters-original-party-cake-frozen-dessert-1.5l-5103340",
+    "name": "Peters Original Party Cake Frozen Dessert | 1.5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5103340.jpg&w=640&q=90",
+    "source_id": "5103340",
+    "barcode": "9310080035085",
+    "shop": "coles",
+    "category_id": "22289",
+    "weight": "1.5l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "93",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sara-lee-frozen-chocolate-buttercake-350g-268900",
+    "name": "Sara Lee Frozen Chocolate Buttercake | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F268900.jpg&w=640&q=90",
+    "source_id": "268900",
+    "barcode": "9310135026655",
+    "shop": "coles",
+    "category_id": "22289",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "243",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-frozen-tiramisu-500g-3145972",
+    "name": "Coles Frozen Tiramisu | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3145972.jpg&w=640&q=90",
+    "source_id": "3145972",
+    "barcode": "9310645219981",
+    "shop": "coles",
+    "category_id": "22289",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/streets-viennetta-classic-vanilla-ice-cream-cake-650ml-3169766",
+    "name": "Streets Viennetta Classic Vanilla Ice Cream Cake | 650mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3169766.jpg&w=640&q=90",
+    "source_id": "3169766",
+    "barcode": "8714100895252",
+    "shop": "coles",
+    "category_id": "22289",
+    "weight": "650ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "123",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-frozen-bake-at-home-pain-au-chocolat-6pack-420g-3919039",
+    "name": "Coles Frozen Bake At Home Pain Au Chocolat 6Pack | 420g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3919039.jpg&w=640&q=90",
+    "source_id": "3919039",
+    "barcode": "9310645324173",
+    "shop": "coles",
+    "category_id": "22289",
+    "weight": "420g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "670",
+        "price_per_unit": "160",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzies-ready-to-bake-cookies-choc-chip-400g-7694633",
+    "name": "McKenzies Ready To Bake Cookies Choc Chip | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7694633.jpg&w=640&q=90",
+    "source_id": "7694633",
+    "barcode": "9310061126474",
+    "shop": "coles",
+    "category_id": "22289",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

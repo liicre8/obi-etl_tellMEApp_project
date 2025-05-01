@@ -1,0 +1,98 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/62825/birds-eye-veggie-rice-broccoli-cauli",
+    "name": "Birds Eye Veggie Rice Broccoli & Cauli 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/062825.jpg",
+    "source_id": "62825",
+    "barcode": "9310081123736",
+    "shop": "Woolworths",
+    "category_id": "22332",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/117518/birds-eye-veggie-rice-carrot-cauli-broccoli",
+    "name": "Birds Eye Veggie Rice Carrot, Cauli & Broccoli 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/117518.jpg",
+    "source_id": "117518",
+    "barcode": "9310081127796",
+    "shop": "Woolworths",
+    "category_id": "22332",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6004918/creole-katz-battered-pickle-chips",
+    "name": "Creole Katz Battered Pickle Chips 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6004918.jpg",
+    "source_id": "6004918",
+    "barcode": "9357914001137",
+    "shop": "Woolworths",
+    "category_id": "22332",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "895",
+        "price_per_unit": "2983",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/187432/hanabi-seedless-jack-fruit",
+    "name": "Hanabi Seedless Jack Fruit 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/187432.jpg",
+    "source_id": "187432",
+    "barcode": "9310432005049",
+    "shop": "Woolworths",
+    "category_id": "22332",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "113",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/386073/just-cook-onion-rings",
+    "name": "Just Cook Onion Rings 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/386073.jpg",
+    "source_id": "386073",
+    "barcode": "9315822020084",
+    "shop": "Woolworths",
+    "category_id": "22332",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

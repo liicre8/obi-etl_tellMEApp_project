@@ -1,0 +1,92 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/tommee-tippee-flexipen-thermometer-1-each-7073046",
+    "name": "Tommee Tippee Flexipen Thermometer | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7073046.jpg&w=640&q=90",
+    "source_id": "7073046",
+    "barcode": "5010415702784",
+    "shop": "coles",
+    "category_id": "23822",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1875",
+        "price_per_unit": "1875",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/euky-bear-sleepy-time-linen-and-room-mist-125ml-5349791",
+    "name": "Euky Bear Sleepy Time Linen And Room Mist | 125mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5349791.jpg&w=640&q=90",
+    "source_id": "5349791",
+    "barcode": "9300710000705",
+    "shop": "coles",
+    "category_id": "23822",
+    "weight": "125ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "960",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/euky-bear-baby-sniffly-nose-room-spray-125g-5356957",
+    "name": "Euky Bear Baby Sniffly Nose Room Spray | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5356957.jpg&w=640&q=90",
+    "source_id": "5356957",
+    "barcode": "9300710004154",
+    "shop": "coles",
+    "category_id": "23822",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "960",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pentative-multivitamin-infant-liquid-0-3-months-30ml-5379668",
+    "name": "Pentative Multivitamin Infant Liquid 0-3 Months | 30mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5379668.jpg&w=640&q=90",
+    "source_id": "5379668",
+    "barcode": "9354410000367",
+    "shop": "coles",
+    "category_id": "23822",
+    "weight": "30ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "6000",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-nan-care-probiotic-drops-for-everyday-infant-gut-and-digestive-health-10ml-7061444",
+    "name": "Nestle NAN Care Probiotic Drops For Everyday Infant Gut & Digestive Health | 10mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7061444.jpg&w=640&q=90",
+    "source_id": "7061444",
+    "barcode": "9300605142756",
+    "shop": "coles",
+    "category_id": "23822",
+    "weight": "10ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2900",
+        "price_per_unit": "29000",
+        "price_unit": "ml"
+      }
+    ]
+  }
+]

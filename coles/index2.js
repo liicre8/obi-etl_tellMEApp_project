@@ -61,7 +61,7 @@ const scraper = async () => {
        // `--proxy-server=socks5://127.0.0.1:9050`
       ],
       executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
-      userDataDir: 'C:\\Users\\OBI - Lester\\AppData\\Local\\Google\\Chrome\\User Data\\Person 1',
+      userDataDir: 'C:\\Users\\OBI - Wilslie\\AppData\\Local\\Google\\Chrome\\User Data\\Person 1',
     });
     for (const loc of locations) {
       let page2;

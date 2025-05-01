@@ -1,0 +1,704 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/328822/woolworths-banana-bread-slices",
+    "name": "Woolworths Banana Bread Slices 5 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/328822.jpg",
+    "source_id": "328822",
+    "barcode": "9300633984007",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "5 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "575",
+        "price_per_unit": "115",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/791784/kraft-singles-light-25-less-fat",
+    "name": "Kraft Singles Light 25% Less Fat 432g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/791784.jpg",
+    "source_id": "791784",
+    "barcode": "9316389195703",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "432G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "2083",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/791364/kraft-singles-original-original",
+    "name": "Kraft Singles Original 432g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/791364.jpg",
+    "source_id": "791364",
+    "barcode": "9316389194805",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "432G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "2083",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/88630/boodles-lunch-box-clusters-cocoa-crunch",
+    "name": "Boodles Lunch Box Clusters Cocoa Crunch 65g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/088630.jpg",
+    "source_id": "88630",
+    "barcode": "9336925010147",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "65g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "962",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/103192/boodles-lunchbox-clusters-vanilla-sprinkles",
+    "name": "Boodles Lunchbox Clusters Vanilla Sprinkles 65g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/103192.jpg",
+    "source_id": "103192",
+    "barcode": "9336925010185",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "65g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "962",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/779237/woolworths-free-from-gluten-chocolate-chip-biscuit",
+    "name": "Woolworths Free From Gluten Chocolate Chip Biscuit 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/779237.jpg",
+    "source_id": "779237",
+    "barcode": "9300633473105",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "160G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "181",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/771480/woolworths-free-from-gluten-double-choc-biscuit",
+    "name": "Woolworths Free From Gluten Double Choc Biscuit 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/771480.jpg",
+    "source_id": "771480",
+    "barcode": "9300633454432",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "160G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "263",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/774595/woolworths-free-from-gluten-mint-creme-biscuit",
+    "name": "Woolworths Free From Gluten Mint Creme Biscuit 145g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/774595.jpg",
+    "source_id": "774595",
+    "barcode": "9300633462017",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "145G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "262",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/750533/woolworths-soya-crisps-chilli-lime-snacks",
+    "name": "Woolworths Soya Crisps Chilli & Lime Snacks 400g Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/750533.jpg",
+    "source_id": "750533",
+    "barcode": "9300633388980",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "400G Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/750543/woolworths-soya-crisps-snacks",
+    "name": "Woolworths Soya Crisps Snacks 400g Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/750543.jpg",
+    "source_id": "750543",
+    "barcode": "9300633388973",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "400G Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "1575",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/641534/arnotts-mini-choc-chip-cookie-multipack-biscuits",
+    "name": "Arnotts Mini Choc Chip Cookie Multipack Biscuits 7 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/641534.jpg",
+    "source_id": "641534",
+    "barcode": "9310072029863",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "7 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "286",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/641535/arnotts-shapes-multipack-cracker-biscuits-mini-chicken-crimpy",
+    "name": "Arnotts Shapes Multipack Cracker Biscuits Mini Chicken Crimpy 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/641535.jpg",
+    "source_id": "641535",
+    "barcode": "9310072030067",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/641532/arnotts-shapes-multipack-cracker-biscuits-variety",
+    "name": "Arnotts Shapes Multipack Cracker Biscuits Variety 15 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/641532.jpg",
+    "source_id": "641532",
+    "barcode": "9310072029467",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "15 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "173",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/641537/arnotts-tiny-teddy-variety-multipack-biscuits",
+    "name": "Arnotts Tiny Teddy Variety Multipack Biscuits 15 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/641537.jpg",
+    "source_id": "641537",
+    "barcode": "9310072029597",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "15 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "173",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/90377/boodles-lunchbox-clusters-strawberry",
+    "name": "Boodles Lunchbox Clusters Strawberry 65g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/090377.jpg",
+    "source_id": "90377",
+    "barcode": "9336925010161",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "65g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "625",
+        "price_per_unit": "962",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/717324/arnotts-wagon-wheels-multipack-chocolate-biscuits",
+    "name": "Arnotts Wagon Wheels Multipack Chocolate Biscuits 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/717324.jpg",
+    "source_id": "717324",
+    "barcode": "9310072026169",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "237",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/812784/arnotts-shapes-multipack-cracker-biscuits-vegemite-cheese",
+    "name": "Arnotts Shapes Multipack Cracker Biscuits Vegemite & Cheese 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/812784.jpg",
+    "source_id": "812784",
+    "barcode": "9310072030838",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/259490/in-a-biskit-drumstix-crackers-multipack",
+    "name": "In A Biskit Drumstix Crackers Multipack 168g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/259490.jpg",
+    "source_id": "259490",
+    "barcode": "9310034002477",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "168g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "313",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6004946/jammie-dodgers-biscuit-minis-snack-packs-apple-blackcurrant",
+    "name": "Jammie Dodgers Biscuit Minis Snack Packs Apple & Blackcurrant 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6004946.jpg",
+    "source_id": "6004946",
+    "barcode": "72417335204",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "292",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6006173/jammie-dodgers-biscuit-minis-snack-packs-raspberry",
+    "name": "Jammie Dodgers Biscuit Minis Snack Packs Raspberry 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6006173.jpg",
+    "source_id": "6006173",
+    "barcode": "72417335198",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "292",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/141691/kinder-happy-hippo-cocoa-biscuit-multipack",
+    "name": "Kinder Happy Hippo Cocoa Biscuit Multipack 5 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/141691.jpg",
+    "source_id": "141691",
+    "barcode": "8000500023624",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "5 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "483",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/255376/kinder-tronky-creamy-chocolate-wafer-biscuit-multipack",
+    "name": "Kinder Tronky Creamy Chocolate Wafer Biscuit Multipack 5 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/255376.jpg",
+    "source_id": "255376",
+    "barcode": "8000500384794",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "5 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "444",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/617552/lotus-biscoff-biscuit",
+    "name": "Lotus Biscoff Biscuit 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/617552.jpg",
+    "source_id": "617552",
+    "barcode": "5410126006339",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "265",
+        "price_per_unit": "214",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/485418/mcvitie-s-digestives-minis-biscuits-multipack",
+    "name": "McVitie's Digestives Minis Biscuits Multipack 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/485418.jpg",
+    "source_id": "485418",
+    "barcode": "8906033744442",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/797102/nestle-milo-dipped-snack-bars-with-white-chocolate",
+    "name": "Nestle Milo Dipped Snack Bars With White Chocolate 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/797102.jpg",
+    "source_id": "797102",
+    "barcode": "9300605100114",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/129892/nutella-b-ready-biscuit-multipack",
+    "name": "Nutella B-Ready Biscuit Multipack 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/129892.jpg",
+    "source_id": "129892",
+    "barcode": "9300698503762",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "318",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6001379/oreo-biscuits-mini-caramilk-10-bags-cookies",
+    "name": "Oreo Biscuits Mini Caramilk 10 Bags Cookies 204g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6001379.jpg",
+    "source_id": "6001379",
+    "barcode": "9300650453487",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "204g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "123",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/639494/oreo-milk-chocolate-wafer-sticks-biscuits-large-multipack",
+    "name": "Oreo Milk Chocolate Wafer Sticks Biscuits Large Multipack 345g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/639494.jpg",
+    "source_id": "639494",
+    "barcode": "9310034000190",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "345g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "203",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6006917/oreo-mini-pascall-marshmallows",
+    "name": "Oreo Mini Pascall Marshmallows 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6006917.jpg",
+    "source_id": "6006917",
+    "barcode": "9300650453708",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "10 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "123",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6005195/park-avenue-character-cookies-barbie",
+    "name": "Park Avenue Character Cookies Barbie 15 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6005195.jpg",
+    "source_id": "6005195",
+    "barcode": "9311096032716",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "15 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6005451/park-avenue-character-cookies-marvel-spider-man",
+    "name": "Park Avenue Character Cookies Marvel Spider Man 15 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6005451.jpg",
+    "source_id": "6005451",
+    "barcode": "9311096032723",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "15 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/299946/red-rock-deli-potato-chips-multipack-variety-deli-style",
+    "name": "Red Rock Deli Potato Chips Multipack Variety - Deli Style 28g x10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/299946.jpg",
+    "source_id": "299946",
+    "barcode": "9310015231964",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "28G x10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "268",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6004900/ritz-mini-original-snack-bags",
+    "name": "Ritz Mini Original Snack Bags 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6004900.jpg",
+    "source_id": "6004900",
+    "barcode": "9300650452169",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/161108/sakata-stars-snack-sized-cheese-rice-crackers-multipack",
+    "name": "Sakata Stars Snack Sized Cheese Rice Crackers Multipack 13g  x 7 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/161108.jpg",
+    "source_id": "161108",
+    "barcode": "9319636001567",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "13g  x 7 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "302",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/161734/sakata-stars-snack-sized-original-rice-crackers-multipack",
+    "name": "Sakata Stars Snack Sized Original Rice Crackers Multipack 13g  x 7 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/161734.jpg",
+    "source_id": "161734",
+    "barcode": "9319636001550",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "13g  x 7 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "302",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/39667/sunbeam-australian-sultanas",
+    "name": "Sunbeam Australian Sultanas 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/039667.jpg",
+    "source_id": "39667",
+    "barcode": "9310162310406",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "1458",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/177189/sunbeam-sultanas-apricot",
+    "name": "Sunbeam Sultanas & Apricot 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/177189.jpg",
+    "source_id": "177189",
+    "barcode": "9310162310444",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1802",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/773764/sunbeam-sultanas-cranberry",
+    "name": "Sunbeam Sultanas & Cranberry 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/773764.jpg",
+    "source_id": "773764",
+    "barcode": "9310162310925",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1709",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/435459/sunbites-variety-box",
+    "name": "Sunbites Variety Box 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/435459.jpg",
+    "source_id": "435459",
+    "barcode": "9310015255977",
+    "shop": "Woolworths",
+    "category_id": "22901",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "191",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

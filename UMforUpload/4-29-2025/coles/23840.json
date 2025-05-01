@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/devondale-instant-full-cream-milk-powder-1kg-2067115",
+    "name": "Devondale Instant Full Cream Milk Powder | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2067115.jpg&w=640&q=90",
+    "source_id": "2067115",
+    "barcode": "9300639602967",
+    "shop": "coles",
+    "category_id": "23840",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1450",
+        "price_per_unit": "145",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-fat-free-instant-skim-milk-powder-1kg-7910660",
+    "name": "Coles Fat Free Instant Skim Milk Powder | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7910660.jpg&w=640&q=90",
+    "source_id": "7910660",
+    "barcode": "9310645423371",
+    "shop": "coles",
+    "category_id": "23840",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "kg"
+      }
+    ]
+  }
+]

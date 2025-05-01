@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-sour-cream-300g-3676946",
+    "name": "Coles Sour Cream | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3676946.jpg&w=640&q=90",
+    "source_id": "3676946",
+    "barcode": "9310645282183",
+    "shop": "coles",
+    "category_id": "22103",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "113",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-light-sour-cream-300g-3676979",
+    "name": "Coles Light Sour Cream | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3676979.jpg&w=640&q=90",
+    "source_id": "3676979",
+    "barcode": "9310645282190",
+    "shop": "coles",
+    "category_id": "22103",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "113",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-sour-cream-500g-3676980",
+    "name": "Coles Sour Cream | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3676980.jpg&w=640&q=90",
+    "source_id": "3676980",
+    "barcode": "9310645282206",
+    "shop": "coles",
+    "category_id": "22103",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "84",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-light-sour-cream-500g-3676990",
+    "name": "Coles Light Sour Cream | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3676990.jpg&w=640&q=90",
+    "source_id": "3676990",
+    "barcode": "9310645282213",
+    "shop": "coles",
+    "category_id": "22103",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "84",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-double-cream-300ml-4475440",
+    "name": "Coles Double Cream | 300mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4475440.jpg&w=640&q=90",
+    "source_id": "4475440",
+    "barcode": "9310645350646",
+    "shop": "coles",
+    "category_id": "22103",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "160",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dream-whip-whipped-dairy-topping-cream-250g-5362360",
+    "name": "Dream Whip Whipped Dairy Topping Cream | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5362360.jpg&w=640&q=90",
+    "source_id": "5362360",
+    "barcode": "9310161005808",
+    "shop": "coles",
+    "category_id": "22103",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "560",
+        "price_per_unit": "224",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/882457/lipton-green-tea-bags",
+    "name": "Lipton Green Tea Bags 100 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/882457.jpg",
+    "source_id": "882457",
+    "barcode": "5063305001894",
+    "shop": "Woolworths",
+    "category_id": "23946",
+    "weight": "100 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "920",
+        "price_per_unit": "460",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/30321/madura-green-tea-bags",
+    "name": "Madura Green Tea Bags 50 Pack 75g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/030321.jpg",
+    "source_id": "30321",
+    "barcode": "89978000045",
+    "shop": "Woolworths",
+    "category_id": "23946",
+    "weight": "50 Pack 75G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "620",
+        "price_per_unit": "12",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/622039/madura-organic-green-tea-bags",
+    "name": "Madura Organic Green Tea Bags 50 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/622039.jpg",
+    "source_id": "622039",
+    "barcode": "9389978003758",
+    "shop": "Woolworths",
+    "category_id": "23946",
+    "weight": "50 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "695",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/95165/nerada-organics-green-tea-cup-bags",
+    "name": "Nerada Organics Green Tea Cup Bags 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/095165.jpg",
+    "source_id": "95165",
+    "barcode": "9310551003209",
+    "shop": "Woolworths",
+    "category_id": "23946",
+    "weight": "150G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/210290/tetley-green-tea-bags",
+    "name": "Tetley Green Tea Bags 100 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/210290.jpg",
+    "source_id": "210290",
+    "barcode": "9310122702135",
+    "shop": "Woolworths",
+    "category_id": "23946",
+    "weight": "100 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "9",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/250055/twinings-green-tea-lemon-tea-bags-tea-bags",
+    "name": "Twinings Green Tea & Lemon Tea Bags 50 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/250055.jpg",
+    "source_id": "250055",
+    "barcode": "70177149352",
+    "shop": "Woolworths",
+    "category_id": "23946",
+    "weight": "50 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/63010/twinings-green-tea-bags",
+    "name": "Twinings Green Tea Bags 10 Pack 15g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/063010.jpg",
+    "source_id": "63010",
+    "barcode": "70177244286",
+    "shop": "Woolworths",
+    "category_id": "23946",
+    "weight": "10 Pack 15G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/690093/woolworths-green-tea",
+    "name": "Woolworths Green Tea 50 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/690093.jpg",
+    "source_id": "690093",
+    "barcode": "9300633254513",
+    "shop": "Woolworths",
+    "category_id": "23946",
+    "weight": "50 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "4",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

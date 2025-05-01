@@ -1,0 +1,158 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-mini-asparagus-1-pack-7124680",
+    "name": "Coles Mini Asparagus | 1 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7124680.jpg&w=640&q=90",
+    "source_id": "7124680",
+    "barcode": "9357328000016",
+    "shop": "coles",
+    "category_id": "22388",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-corn-cobettes-400g-4150570",
+    "name": "Coles Corn Cobettes | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4150570.jpg&w=640&q=90",
+    "source_id": "4150570",
+    "barcode": "9310645103723",
+    "shop": "coles",
+    "category_id": "22388",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "1625",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "1625",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "1625",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-green-beans-prepacked-375g-4829204",
+    "name": "Coles Green Beans Prepacked | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4829204.jpg&w=640&q=90",
+    "source_id": "4829204",
+    "barcode": "9334536000281",
+    "shop": "coles",
+    "category_id": "22388",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "1253",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "470",
+        "price_per_unit": "1253",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "470",
+        "price_per_unit": "1253",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "690",
+        "price_per_unit": "1840",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "470",
+        "price_per_unit": "1253",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "470",
+        "price_per_unit": "1253",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "470",
+        "price_per_unit": "1253",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "470",
+        "price_per_unit": "1253",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-green-beans-prepacked-250g-9861850",
+    "name": "Coles Organic Green Beans Prepacked | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9861850.jpg&w=640&q=90",
+    "source_id": "9861850",
+    "barcode": "9341874000538",
+    "shop": "coles",
+    "category_id": "22388",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "2600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "2760",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-snow-peas-medium-150g-4628326",
+    "name": "Coles Snow Peas Medium | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4628326.jpg&w=640&q=90",
+    "source_id": "4628326",
+    "barcode": "9335171000018",
+    "shop": "coles",
+    "category_id": "22388",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "520",
+        "price_per_unit": "3467",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

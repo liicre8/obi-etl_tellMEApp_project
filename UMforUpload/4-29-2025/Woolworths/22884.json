@@ -1,0 +1,992 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/223760/niulife-organic-extra-thick-coconut-amino-teriyaki-sauce",
+    "name": "Niulife Organic Extra Thick Coconut Amino Teriyaki Sauce 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/223760.jpg",
+    "source_id": "223760",
+    "barcode": "9336318001721",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "340",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/223751/niulife-organic-naked-coconut-amino-sauce-extra-thick",
+    "name": "Niulife Organic Naked Coconut Amino Sauce Extra Thick 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/223751.jpg",
+    "source_id": "223751",
+    "barcode": "9336318001783",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "340",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720977/abc-kecap-manis-sweet-soy-sauce",
+    "name": "ABC Kecap Manis Sweet Soy Sauce 275ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/720977.jpg",
+    "source_id": "720977",
+    "barcode": "711844110083",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "275mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "116",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/40327/abc-sweet-soy-sauce-kecap-manis",
+    "name": "ABC Sweet Soy Sauce Kecap Manis 620ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/040327.jpg",
+    "source_id": "40327",
+    "barcode": "9310432300052",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "620mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "640",
+        "price_per_unit": "103",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/744053/amoy-sauce-light-soy",
+    "name": "Amoy Sauce Light Soy 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/744053.jpg",
+    "source_id": "744053",
+    "barcode": "78024008661",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/744054/amoy-sauce-oyster",
+    "name": "Amoy Sauce Oyster 555g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/744054.jpg",
+    "source_id": "744054",
+    "barcode": "78024008678",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "555G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "117",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/627085/amoy-white-rice-wine-vinegar",
+    "name": "Amoy White Rice Wine Vinegar 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/627085.jpg",
+    "source_id": "627085",
+    "barcode": "78024010411",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "160",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/683101/ayam-dark-soy",
+    "name": "Ayam Dark Soy 210ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/683101.jpg",
+    "source_id": "683101",
+    "barcode": "9556041613637",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "210mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "167",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/626894/ayam-pure-sesame-oil",
+    "name": "Ayam Pure Sesame Oil 420ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/626894.jpg",
+    "source_id": "626894",
+    "barcode": "9556041612418",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "420mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "990",
+        "price_per_unit": "236",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6007828/ayam-reduced-salt-soy-sauce",
+    "name": "Ayam Reduced Salt Soy Sauce 210mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6007828.jpg",
+    "source_id": "6007828",
+    "barcode": "9556041641036",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "210mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "167",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/683102/ayam-kecap-manis-sweet-soy-sauce",
+    "name": "Ayam Kecap Manis Sweet Soy Sauce 210ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/683102.jpg",
+    "source_id": "683102",
+    "barcode": "9556041613620",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "210mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "167",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/388983/beerenberg-the-chipotle-maple-sauce",
+    "name": "Beerenberg The Chipotle & Maple Sauce 300ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/388983.jpg",
+    "source_id": "388983",
+    "barcode": "9311485002894",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "535",
+        "price_per_unit": "178",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/215154/byron-bay-chilli-co-chilli-sauce-fiery-coconut",
+    "name": "Byron Bay Chilli Co. Chilli Sauce Fiery Coconut 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/215154.jpg",
+    "source_id": "215154",
+    "barcode": "804798000019",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "210",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/370947/byron-bay-chilli-co-chilli-sauce-green-jalapeno",
+    "name": "Byron Bay Chilli Co. Chilli Sauce Green Jalapeno 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/370947.jpg",
+    "source_id": "370947",
+    "barcode": "804798003003",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "210",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94921/byron-bay-chilli-co-heavenly-habanero-hot-sauce",
+    "name": "Byron Bay Chilli Co. Heavenly Habanero Hot Sauce 150ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094921.jpg",
+    "source_id": "94921",
+    "barcode": "804798001016",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "150mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "475",
+        "price_per_unit": "317",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/609551/chang-s-hoisin-sauce",
+    "name": "Chang's Hoisin Sauce 280ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/609551.jpg",
+    "source_id": "609551",
+    "barcode": "9300777093207",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "280mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "116",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/167355/chang-s-japanese-teriyaki-sauce",
+    "name": "Chang's Japanese Teriyaki Sauce 280ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/167355.jpg",
+    "source_id": "167355",
+    "barcode": "9300777093382",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "280ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "116",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/167247/chang-s-original-fish-sauce",
+    "name": "Chang's Original Fish Sauce 280ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/167247.jpg",
+    "source_id": "167247",
+    "barcode": "9300777092712",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "280ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "116",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/609552/chang-s-oyster-sauce",
+    "name": "Chang's Oyster Sauce 280ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/609552.jpg",
+    "source_id": "609552",
+    "barcode": "9300777090602",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "280mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "116",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/167388/chang-s-tamari-light-soy-sauce",
+    "name": "Chang's Tamari Light Soy Sauce 280ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/167388.jpg",
+    "source_id": "167388",
+    "barcode": "9300777093320",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "280ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "116",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/964291/cholula-chilli-garlic-sauce",
+    "name": "Cholula Chilli Garlic Sauce 150mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/964291.jpg",
+    "source_id": "964291",
+    "barcode": "49733000192",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "150mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/757902/cholula-hot-sauce",
+    "name": "Cholula Hot Sauce 150ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/757902.jpg",
+    "source_id": "757902",
+    "barcode": "7501035026001",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "150mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/504357/conimex-sambal-badjak",
+    "name": "Conimex Sambal Badjak 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/504357.jpg",
+    "source_id": "504357",
+    "barcode": "8720182866394",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "645",
+        "price_per_unit": "323",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/252091/flying-goose-sriracha-sauce",
+    "name": "Flying Goose Sriracha Sauce 455ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/252091.jpg",
+    "source_id": "252091",
+    "barcode": "8853662056012",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "455ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "165",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/66721/flying-goose-sriracha-sauce-original",
+    "name": "Flying Goose Sriracha Sauce Original 730mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/066721.jpg",
+    "source_id": "66721",
+    "barcode": "8853662056029",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "730mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1045",
+        "price_per_unit": "143",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720125/fountain-plum-sauce-sauce",
+    "name": "Fountain Plum Sauce 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/720125.jpg",
+    "source_id": "720125",
+    "barcode": "9300681196537",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/54778/fountain-satay-sauce",
+    "name": "Fountain Satay Sauce 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/054778.jpg",
+    "source_id": "54778",
+    "barcode": "9300681194311",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/757750/fountain-soy-and-honey-sauce-sauce",
+    "name": "Fountain Soy And Honey Sauce 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/757750.jpg",
+    "source_id": "757750",
+    "barcode": "9300681013704",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/53866/fountain-soy-sauce",
+    "name": "Fountain Soy Sauce 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/053866.jpg",
+    "source_id": "53866",
+    "barcode": "9300681193994",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/972235/frank-s-red-hot-original-sauce",
+    "name": "Frank's Red Hot Original Sauce 354mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/972235.jpg",
+    "source_id": "972235",
+    "barcode": "41500013558",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "354mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "640",
+        "price_per_unit": "181",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/759137/frank-s-redhot-original-cayenne-pepper-hot-sauce",
+    "name": "Frank's Redhot Original Cayenne Pepper Hot Sauce 148ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/759137.jpg",
+    "source_id": "759137",
+    "barcode": "41500885315",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "148mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "284",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/52145/frank-s-redhot-xtra-hot-cayenne-pepper-hot-sauce",
+    "name": "Frank's Redhot Xtra Hot Cayenne Pepper Hot Sauce 148ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/052145.jpg",
+    "source_id": "52145",
+    "barcode": "41500885339",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "148mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "284",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/710986/heinz-seriously-good-creamy-tartare-sauce",
+    "name": "Heinz Seriously Good Creamy Tartare Sauce 295ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/710986.jpg",
+    "source_id": "710986",
+    "barcode": "9300657021566",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "295mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "197",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/347493/kewpie-roasted-sesame-dressing-spicy",
+    "name": "Kewpie Roasted Sesame Dressing Spicy 210ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/347493.jpg",
+    "source_id": "347493",
+    "barcode": "8852022033304",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "210ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "545",
+        "price_per_unit": "260",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180307/kikkoman-gluten-free-tonkatsu-sauce",
+    "name": "Kikkoman Gluten Free Tonkatsu Sauce 235g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/180307.jpg",
+    "source_id": "180307",
+    "barcode": "4901515006678",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "235g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "119",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/70897/kikkoman-naturally-brewed-soy-sauce-less-salt",
+    "name": "Kikkoman Naturally Brewed Soy Sauce Less Salt 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/070897.jpg",
+    "source_id": "70897",
+    "barcode": "4901515118593",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "705",
+        "price_per_unit": "282",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/4840/kikkoman-soy-sauce-soy",
+    "name": "Kikkoman Soy Sauce Soy 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/004840.jpg",
+    "source_id": "4840",
+    "barcode": "4901515119880",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1020",
+        "price_per_unit": "102",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/103725/kikkoman-soy-sauce-soy",
+    "name": "Kikkoman Soy Sauce Soy 600ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/103725.jpg",
+    "source_id": "103725",
+    "barcode": "4901515118586",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "600mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "830",
+        "price_per_unit": "138",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/370456/kikkoman-soy-sauce-soy-reduced-salt",
+    "name": "Kikkoman Soy Sauce Soy Reduced Salt 600ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/370456.jpg",
+    "source_id": "370456",
+    "barcode": "4901515118838",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "600mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1125",
+        "price_per_unit": "188",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/486803/knorr-chilli-liquid-seasoning",
+    "name": "Knorr Chilli Liquid Seasoning 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/486803.jpg",
+    "source_id": "486803",
+    "barcode": "68400004004",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67484/lao-gan-ma-chilli-oil-three-ting",
+    "name": "Lao Gan Ma Chilli Oil Three Ting 210g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/067484.jpg",
+    "source_id": "67484",
+    "barcode": "6921804700689",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "210G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "210",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/67551/lao-gan-ma-chilli-sauce-chicken",
+    "name": "Lao Gan Ma Chilli Sauce Chicken 210g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/067551.jpg",
+    "source_id": "67551",
+    "barcode": "6921804700795",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "210G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/66809/lao-gan-ma-chilli-sauce-pork-blackbean",
+    "name": "Lao Gan Ma Chilli Sauce Pork Blackbean 210g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/066809.jpg",
+    "source_id": "66809",
+    "barcode": "6921804700207",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "210G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/862908/lee-kum-kee-gluten-free-soy-sauce-soy-sauce",
+    "name": "Lee Kum Kee Gluten Free Soy Sauce Soy Sauce 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/862908.jpg",
+    "source_id": "862908",
+    "barcode": "78895144673",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "172",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/346578/lee-kum-kee-gold-label-soy-sauce",
+    "name": "Lee Kum Kee Gold Label Soy Sauce 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/346578.jpg",
+    "source_id": "346578",
+    "barcode": "78895165111",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "80",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/324755/lee-kum-kee-paste-coconut-curry-vegetables",
+    "name": "Lee Kum Kee Paste Coconut Curry Vegetables 110g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/324755.jpg",
+    "source_id": "324755",
+    "barcode": "78895125054",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "110G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "182",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/341297/lee-kum-kee-premium-oyster-sauce",
+    "name": "Lee Kum Kee Premium Oyster Sauce 255g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/341297.jpg",
+    "source_id": "341297",
+    "barcode": "78895100013",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "255g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "235",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/39336/lee-kum-kee-sauce-hoi-sin",
+    "name": "Lee Kum Kee Sauce Hoi Sin 240g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/039336.jpg",
+    "source_id": "39336",
+    "barcode": "78895700015",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "240G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "188",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/762239/lee-kum-kee-sauce-stir-fry-hoisin",
+    "name": "Lee Kum Kee Sauce Stir Fry Hoisin 260g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/762239.jpg",
+    "source_id": "762239",
+    "barcode": "78895143034",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "260G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "142",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/364825/lee-kum-kee-seasoned-soy-sauce",
+    "name": "Lee Kum Kee Seasoned Soy Sauce 410ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/364825.jpg",
+    "source_id": "364825",
+    "barcode": "78895423037",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "410mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "410",
+        "price_per_unit": "100",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6007559/lee-kum-kee-spicy-chicken-mala",
+    "name": "Lee Kum Kee Spicy Chicken Mala 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6007559.jpg",
+    "source_id": "6007559",
+    "barcode": "78895162394",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/791072/lingham-s-sauce-chilli",
+    "name": "Lingham's Sauce Chilli 280g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/791072.jpg",
+    "source_id": "791072",
+    "barcode": "9556018280015",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "280G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "118",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/238277/masterfoods-garlic-truffle-flavour-no-rules-sauce",
+    "name": "MasterFoods Garlic & Truffle Flavour No Rules Sauce 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/238277.jpg",
+    "source_id": "238277",
+    "barcode": "9310012061991",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "148",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/238293/masterfoods-smokey-chipotle-no-rules-sauce",
+    "name": "MasterFoods Smokey Chipotle No Rules Sauce 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/238293.jpg",
+    "source_id": "238293",
+    "barcode": "9310012061984",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "148",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/35990/masterfoods-sweet-sour-sauce",
+    "name": "MasterFoods Sweet & Sour Sauce 270g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/035990.jpg",
+    "source_id": "35990",
+    "barcode": "93718264",
+    "shop": "Woolworths",
+    "category_id": "22884",
+    "weight": "270G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "137",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

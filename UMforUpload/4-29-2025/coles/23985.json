@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-lactose-free-long-life-full-cream-milk-1l-1850656",
+    "name": "Coles Lactose Free Long Life Full Cream Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1850656.jpg&w=640&q=90",
+    "source_id": "1850656",
+    "barcode": "9310645281551",
+    "shop": "coles",
+    "category_id": "23985",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pauls-zymil-full-cream-long-life-milk-1l-2807164",
+    "name": "Pauls Zymil Full Cream Long Life Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2807164.jpg&w=640&q=90",
+    "source_id": "2807164",
+    "barcode": "9310036045359",
+    "shop": "coles",
+    "category_id": "23985",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "l"
+      }
+    ]
+  }
+]

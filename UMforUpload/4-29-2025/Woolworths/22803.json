@@ -1,0 +1,380 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/785620/brunswick-premium-brisling-smoked-in-oil",
+    "name": "Brunswick Premium Brisling Smoked In Oil 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/785620.jpg",
+    "source_id": "785620",
+    "barcode": "9332066067880",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "1917",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/129837/deep-cove-pink-salmon",
+    "name": "Deep Cove Pink Salmon 105g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/129837.jpg",
+    "source_id": "129837",
+    "barcode": "9310768114132",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "105G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "3143",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/128211/deep-cove-red-salmon",
+    "name": "Deep Cove Red Salmon 105g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/128211.jpg",
+    "source_id": "128211",
+    "barcode": "9310768114149",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "105G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "3524",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83236/deep-cove-sardines-in-tomato-sauce",
+    "name": "Deep Cove Sardines In Tomato Sauce 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/083236.jpg",
+    "source_id": "83236",
+    "barcode": "9310768113272",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "125G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "100",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/34927/john-west-fresh-packed-wild-alaskan-pink-salmon",
+    "name": "John West Fresh Packed Wild Alaskan Pink Salmon 105g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/034927.jpg",
+    "source_id": "34927",
+    "barcode": "50171262",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "105g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "3333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33924/john-west-fresh-packed-wild-alaskan-red-salmon",
+    "name": "John West Fresh Packed Wild Alaskan Red Salmon 105g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033924.jpg",
+    "source_id": "33924",
+    "barcode": "50171057",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "105g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "6476",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32604/john-west-fresh-packed-wild-alaskan-red-salmon",
+    "name": "John West Fresh Packed Wild Alaskan Red Salmon 210g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/032604.jpg",
+    "source_id": "32604",
+    "barcode": "5000171010025",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "210g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "5000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/2623/john-west-fresh-packed-wild-alaskan-red-salmon",
+    "name": "John West Fresh Packed Wild Alaskan Red Salmon 415g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/002623.jpg",
+    "source_id": "2623",
+    "barcode": "5000171001542",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "415g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1575",
+        "price_per_unit": "3795",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/779884/john-west-salmon-fillet-chilli-with-hint-of-zesty-lemon",
+    "name": "John West Salmon Fillet Chilli With Hint Of Zesty Lemon 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/779884.jpg",
+    "source_id": "779884",
+    "barcode": "9300462135427",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/24946/paramount-red-salmon",
+    "name": "Paramount Red Salmon 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/024946.jpg",
+    "source_id": "24946",
+    "barcode": "63617801057",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "5400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/1469/paramount-salmon-pink",
+    "name": "Paramount Salmon Pink 415g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/001469.jpg",
+    "source_id": "1469",
+    "barcode": "63617802016",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "415G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "720",
+        "price_per_unit": "1735",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33533/paramount-salmon-red",
+    "name": "Paramount Salmon Red 210g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033533.jpg",
+    "source_id": "33533",
+    "barcode": "63617801026",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "210G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "860",
+        "price_per_unit": "4095",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/882604/safcol-premium-salmon-pieces-olive-oil-sea-salt-black-pepper",
+    "name": "Safcol Premium Salmon Pieces Olive Oil Sea Salt & Black Pepper 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/882604.jpg",
+    "source_id": "882604",
+    "barcode": "9310768115658",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/883622/safcol-premium-salmon-pieces-smoked-paprika",
+    "name": "Safcol Premium Salmon Pieces Smoked Paprika 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/883622.jpg",
+    "source_id": "883622",
+    "barcode": "9310768115665",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/176246/safcol-salmon-with-mild-red-chilli-pouch",
+    "name": "Safcol Salmon With Mild Red Chilli Pouch 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/176246.jpg",
+    "source_id": "176246",
+    "barcode": "9310768056616",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "2300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/333367/safcol-wild-alaskan-pink-salmon",
+    "name": "Safcol Wild Alaskan Pink Salmon 210g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/333367.jpg",
+    "source_id": "333367",
+    "barcode": "9310768053028",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "210g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/333350/safcol-wild-alaskan-red-salmon",
+    "name": "Safcol Wild Alaskan Red Salmon 210g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/333350.jpg",
+    "source_id": "333350",
+    "barcode": "9310768053059",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "210g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "3762",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/333413/safcol-wild-alaskan-red-salmon",
+    "name": "Safcol Wild Alaskan Red Salmon 415g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/333413.jpg",
+    "source_id": "333413",
+    "barcode": "9310768115153",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "415g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1260",
+        "price_per_unit": "3036",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/92895/john-west-herring-fillets-in-tomato-sauce",
+    "name": "John West Herring Fillets In Tomato Sauce 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/092895.jpg",
+    "source_id": "92895",
+    "barcode": "5000171002082",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "410",
+        "price_per_unit": "2050",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/34947/john-west-wild-brisling-sardines-in-extra-virgin-olive-oil",
+    "name": "John West Wild Brisling Sardines In Extra Virgin Olive Oil 110g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/034947.jpg",
+    "source_id": "34947",
+    "barcode": "9300462114705",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "110g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "355",
+        "price_per_unit": "3227",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/785459/king-oscar-value-sardines-in-water",
+    "name": "King Oscar Value Sardines In Water 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/785459.jpg",
+    "source_id": "785459",
+    "barcode": "9310560024547",
+    "shop": "Woolworths",
+    "category_id": "22803",
+    "weight": "4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "735",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/streets-viennetta-classic-vanilla-ice-cream-cake-650ml-3169766",
+    "name": "Streets Viennetta Classic Vanilla Ice Cream Cake | 650mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3169766.jpg&w=640&q=90",
+    "source_id": "3169766",
+    "barcode": "8714100895252",
+    "shop": "coles",
+    "category_id": "22337",
+    "weight": "650ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "123",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/peters-original-party-cake-frozen-dessert-1.5l-5103340",
+    "name": "Peters Original Party Cake Frozen Dessert | 1.5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5103340.jpg&w=640&q=90",
+    "source_id": "5103340",
+    "barcode": "9310080035085",
+    "shop": "coles",
+    "category_id": "22337",
+    "weight": "1.5l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "93",
+        "price_unit": ".l"
+      }
+    ]
+  }
+]

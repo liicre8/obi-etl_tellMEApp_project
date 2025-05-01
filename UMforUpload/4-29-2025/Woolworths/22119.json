@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/618610/leggo-s-fresh-bolognese-sauce",
+    "name": "Leggo's Fresh Bolognese Sauce 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/618610.jpg",
+    "source_id": "618610",
+    "barcode": "9356335001511",
+    "shop": "Woolworths",
+    "category_id": "22119",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/662572/leggo-s-fresh-carbonara-sauce",
+    "name": "Leggo's Fresh Carbonara Sauce 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/662572.jpg",
+    "source_id": "662572",
+    "barcode": "9356335001580",
+    "shop": "Woolworths",
+    "category_id": "22119",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/618613/leggo-s-fresh-creamy-tomato-sauce",
+    "name": "Leggo's Fresh Creamy Tomato Sauce 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/618613.jpg",
+    "source_id": "618613",
+    "barcode": "9356335001559",
+    "shop": "Woolworths",
+    "category_id": "22119",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/618611/leggo-s-fresh-napoli-sauce",
+    "name": "Leggo's Fresh Napoli Sauce 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/618611.jpg",
+    "source_id": "618611",
+    "barcode": "9356335001535",
+    "shop": "Woolworths",
+    "category_id": "22119",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/618571/leggo-s-fresh-napoli-sauce",
+    "name": "Leggo's Fresh Napoli Sauce 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/618571.jpg",
+    "source_id": "618571",
+    "barcode": "9356335001542",
+    "shop": "Woolworths",
+    "category_id": "22119",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/618612/leggo-s-fresh-pasta-sauce-bolognese",
+    "name": "Leggo's Fresh Pasta Sauce Bolognese 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/618612.jpg",
+    "source_id": "618612",
+    "barcode": "9356335001528",
+    "shop": "Woolworths",
+    "category_id": "22119",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

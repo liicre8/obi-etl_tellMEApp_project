@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/sara-lee-frozen-chocolate-buttercake-350g-268900",
+    "name": "Sara Lee Frozen Chocolate Buttercake | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F268900.jpg&w=640&q=90",
+    "source_id": "268900",
+    "barcode": "9310135026655",
+    "shop": "coles",
+    "category_id": "22288",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "243",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-frozen-tiramisu-500g-3145972",
+    "name": "Coles Frozen Tiramisu | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3145972.jpg&w=640&q=90",
+    "source_id": "3145972",
+    "barcode": "9310645219981",
+    "shop": "coles",
+    "category_id": "22288",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

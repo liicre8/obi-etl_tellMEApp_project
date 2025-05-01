@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-frozen-potato-royals-oven-fry-1kg-52128",
+    "name": "Coles Frozen Potato Royals Oven Fry | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F52128.jpg&w=640&q=90",
+    "source_id": "52128",
+    "barcode": "9310645250083",
+    "shop": "coles",
+    "category_id": "22284",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "580",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/leggo's-stir-through-tomato-olive-chilli-sauce-350g-7312012",
+    "name": "Leggo's Stir Through Tomato Olive Chilli Sauce | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7312012.jpg&w=640&q=90",
+    "source_id": "7312012",
+    "barcode": "9300645069006",
+    "shop": "coles",
+    "category_id": "22284",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "530",
+        "price_per_unit": "151",
+        "price_unit": "g"
+      }
+    ]
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/757042/bushells-turkish-coffee",
+    "name": "Bushells Turkish Coffee 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/757042.jpg",
+    "source_id": "757042",
+    "barcode": "9325121000151",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "945",
+        "price_per_unit": "378",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/128377/campos-superior-ground-coffee",
+    "name": "Campos Superior Ground Coffee 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/128377.jpg",
+    "source_id": "128377",
+    "barcode": "9331437000716",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/222156/campos-decaf-ground-coffee",
+    "name": "Campos Decaf Ground Coffee 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/222156.jpg",
+    "source_id": "222156",
+    "barcode": "9331437000945",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1850",
+        "price_per_unit": "740",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/804304/dhuwa-coffee-beans-kickstart-blend",
+    "name": "Dhuwa Coffee Beans Kickstart Blend 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/804304.jpg",
+    "source_id": "804304",
+    "barcode": "9360926000036",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1995",
+        "price_per_unit": "399",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/93039/harris-coffee-ground-smooth",
+    "name": "Harris Coffee Ground Smooth 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/093039.jpg",
+    "source_id": "93039",
+    "barcode": "9310200009507",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3200",
+        "price_per_unit": "320",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/92218/harris-coffee-ground-smooth",
+    "name": "Harris Coffee Ground Smooth 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/092218.jpg",
+    "source_id": "92218",
+    "barcode": "9310200009569",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/91097/harris-coffee-ground-very-strong",
+    "name": "Harris Coffee Ground Very Strong 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/091097.jpg",
+    "source_id": "91097",
+    "barcode": "9310200009699",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/42312/harris-filter-papers-10-12-cup",
+    "name": "Harris Filter Papers 10-12 Cup 40 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/042312.jpg",
+    "source_id": "42312",
+    "barcode": "9310200363838",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "40 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/160945/lavazza-crema-e-gusto-ground-coffee",
+    "name": "Lavazza Crema e Gusto Ground Coffee 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/160945.jpg",
+    "source_id": "160945",
+    "barcode": "8000070058323",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/690359/macro-organic-fairtrade-ground-coffee-dark",
+    "name": "Macro Organic Fairtrade Ground Coffee Dark 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/690359.jpg",
+    "source_id": "690359",
+    "barcode": "9300633248222",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "330",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/690360/macro-organic-fairtrade-ground-coffee-medium",
+    "name": "Macro Organic Fairtrade Ground Coffee Medium 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/690360.jpg",
+    "source_id": "690360",
+    "barcode": "9300633248239",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "330",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/44917/negrita-ground-coffee-turkish-dark-roast",
+    "name": "Negrita Ground Coffee Turkish Dark Roast 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/044917.jpg",
+    "source_id": "44917",
+    "barcode": "9310336771668",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "375",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/706329/sacred-grounds-breezy-blend-ground-coffee",
+    "name": "Sacred Grounds Breezy Blend Ground Coffee 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/706329.jpg",
+    "source_id": "706329",
+    "barcode": "9310200013047",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/757409/sacred-grounds-groover-blend-ground-coffee",
+    "name": "Sacred Grounds Groover Blend Ground Coffee 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/757409.jpg",
+    "source_id": "757409",
+    "barcode": "9310200013085",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/784932/sacred-grounds-ola-brazil-ground-coffee",
+    "name": "Sacred Grounds Ola Brazil Ground Coffee 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/784932.jpg",
+    "source_id": "784932",
+    "barcode": "9310200013146",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/780602/sacred-grounds-seeker-blend-ground-coffee",
+    "name": "Sacred Grounds Seeker Blend Ground Coffee 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/780602.jpg",
+    "source_id": "780602",
+    "barcode": "9310200013108",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "500",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/2108/vittoria-ground-coffee-italian-blend",
+    "name": "Vittoria Ground Coffee Italian Blend 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/002108.jpg",
+    "source_id": "2108",
+    "barcode": "9310631000760",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2700",
+        "price_per_unit": "270",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32179/vittoria-italian-ground",
+    "name": "Vittoria Italian Ground 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/032179.jpg",
+    "source_id": "32179",
+    "barcode": "9310631630363",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94686/vittoria-mountain-grown-ground-coffee",
+    "name": "Vittoria Mountain Grown Ground Coffee 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094686.jpg",
+    "source_id": "94686",
+    "barcode": "9310631001545",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32187/vittoria-organic-coffee-beans",
+    "name": "Vittoria Organic Coffee Beans 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/032187.jpg",
+    "source_id": "32187",
+    "barcode": "844705001272",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2150",
+        "price_per_unit": "430",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/140403/wood-fired-coffee-ground-coffee-ground",
+    "name": "Wood Fired Coffee Ground 500G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/140403.jpg",
+    "source_id": "140403",
+    "barcode": "737452898601",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "380",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/247957/woolworths-ground-coffee-espresso",
+    "name": "Woolworths Ground Coffee Espresso 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/247957.jpg",
+    "source_id": "247957",
+    "barcode": "9300633924706",
+    "shop": "Woolworths",
+    "category_id": "22174",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

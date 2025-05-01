@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/82061/barossa-pastry-co-shortcrust-pastry-sheets",
+    "name": "Barossa Pastry Co. Shortcrust Pastry Sheets 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/082061.jpg",
+    "source_id": "82061",
+    "barcode": "9339098005019",
+    "shop": "Woolworths",
+    "category_id": "22290",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/252659/borg-s-shortcrust-pastry-value",
+    "name": "Borg's Shortcrust Pastry Value 1.7kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/252659.jpg",
+    "source_id": "252659",
+    "barcode": "9311648000323",
+    "shop": "Woolworths",
+    "category_id": "22290",
+    "weight": "1.7Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "775",
+        "price_per_unit": "46",
+        "price_unit": "G"
+      }
+    ]
+  }
+]
