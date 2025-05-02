@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/bosistos-anti-bacterial-solution-500ml-4950599",
+    "name": "Bosistos Anti Bacterial Solution | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4950599.jpg&w=640&q=90",
+    "source_id": "4950599",
+    "barcode": "9300710000712",
+    "shop": "coles",
+    "category_id": "22479",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/206839/bosisto-s-antibacterial-solution-eucalyptus-lemon-myrtle",
+    "name": "Bosisto's Antibacterial Solution Eucalyptus & Lemon Myrtle 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/206839.jpg",
+    "source_id": "206839",
+    "barcode": "9300710000712",
+    "shop": "Woolworths",
+    "category_id": "22479",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "210",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-king-bleach-lemon-2.5l-170350",
+    "name": "White King Bleach Lemon | 2.5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F170350.jpg&w=640&q=90",
+    "source_id": "170350",
+    "barcode": "9333441000973",
+    "shop": "coles",
+    "category_id": "22479",
+    "weight": "2.5l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37801/white-king-premium-bleach-lemon",
+    "name": "White King Premium Bleach Lemon 2.5L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/037801.jpg",
+    "source_id": "37801",
+    "barcode": "9333441000973",
+    "shop": "Woolworths",
+    "category_id": "22479",
+    "weight": "2.5L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "415",
+        "price_per_unit": "166",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-king-bleach-regular-2.5l-170339",
+    "name": "White King Bleach Regular | 2.5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F170339.jpg&w=640&q=90",
+    "source_id": "170339",
+    "barcode": "9333441000959",
+    "shop": "coles",
+    "category_id": "22479",
+    "weight": "2.5l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/44100/white-king-premium-bleach-regular",
+    "name": "White King Premium Bleach Regular 2.5L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/044100.jpg",
+    "source_id": "44100",
+    "barcode": "9333441000959",
+    "shop": "Woolworths",
+    "category_id": "22479",
+    "weight": "2.5L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "415",
+        "price_per_unit": "166",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

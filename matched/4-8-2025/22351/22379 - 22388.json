@@ -1,0 +1,452 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-sweet-corn-1-each-4562603",
+    "name": "Coles Sweet Corn | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4562603.jpg&w=640&q=90",
+    "source_id": "4562603",
+    "barcode": "0264078000007",
+    "shop": "coles",
+    "category_id": "22388",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "each"
+      },
+      {
+        "state": "VIC",
+        "price": "150",
+        "price_per_unit": "150",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "150",
+        "price_per_unit": "150",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "150",
+        "price_per_unit": "150",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/149374/corn-sweet",
+    "name": "Corn Sweet Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/149374.jpg",
+    "source_id": "149374",
+    "barcode": "0264078000007",
+    "shop": "Woolworths",
+    "category_id": "22388",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "150",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "120",
+        "price_per_unit": "120",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "100",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "150",
+        "price_per_unit": "150",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "150",
+        "price_per_unit": "150",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-sweet-corn-3-pack-5806601",
+    "name": "Coles Sweet Corn | 3 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5806601.jpg&w=640&q=90",
+    "source_id": "5806601",
+    "barcode": "9300633032470",
+    "shop": "coles",
+    "category_id": "22388",
+    "weight": "3pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "183",
+        "price_unit": "pack"
+      },
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "130",
+        "price_unit": "pack"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "163",
+        "price_unit": "pack"
+      },
+      {
+        "state": "WA",
+        "price": "590",
+        "price_per_unit": "197",
+        "price_unit": "pack"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "130",
+        "price_unit": "pack"
+      },
+      {
+        "state": "TAS",
+        "price": "390",
+        "price_per_unit": "130",
+        "price_unit": "pack"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "183",
+        "price_unit": "pack"
+      },
+      {
+        "state": "NT",
+        "price": "390",
+        "price_per_unit": "130",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/139897/woolworths-corn-sweet",
+    "name": "Woolworths Corn Sweet 500g Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/139897.jpg",
+    "source_id": "139897",
+    "barcode": "9300633032470",
+    "shop": "Woolworths",
+    "category_id": "22388",
+    "weight": "500G Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-snow-peas-prepacked-250g-7701375",
+    "name": "Coles Snow Peas Prepacked | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7701375.jpg&w=640&q=90",
+    "source_id": "7701375",
+    "barcode": "9300633048358",
+    "shop": "coles",
+    "category_id": "22388",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "2800",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "2800",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "2800",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "2800",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "2800",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/162931/woolworths-snow-peas-fresh",
+    "name": "Woolworths Snow Peas Fresh 250g Bag",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/162931.jpg",
+    "source_id": "162931",
+    "barcode": "9300633048358",
+    "shop": "Woolworths",
+    "category_id": "22388",
+    "weight": "250G Bag",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "640",
+        "price_per_unit": "2560",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "640",
+        "price_per_unit": "2560",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "640",
+        "price_per_unit": "2560",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "790",
+        "price_per_unit": "3160",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "640",
+        "price_per_unit": "2560",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "640",
+        "price_per_unit": "2560",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "640",
+        "price_per_unit": "2560",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-sugar-snap-peas-medium-150g-4619289",
+    "name": "Coles Sugar Snap Peas Medium | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4619289.jpg&w=640&q=90",
+    "source_id": "4619289",
+    "barcode": "9300633041298",
+    "shop": "coles",
+    "category_id": "22388",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "3000",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "3000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "3000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "3267",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "3000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "3000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "3000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "3000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/163783/woolworths-sugar-snap-peas",
+    "name": "Woolworths Sugar Snap Peas 150g Bag",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/163783.jpg",
+    "source_id": "163783",
+    "barcode": "9300633041298",
+    "shop": "Woolworths",
+    "category_id": "22388",
+    "weight": "150G Bag",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "2867",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "430",
+        "price_per_unit": "2867",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "3267",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "430",
+        "price_per_unit": "2867",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "430",
+        "price_per_unit": "2867",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "430",
+        "price_per_unit": "2867",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "430",
+        "price_per_unit": "2867",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

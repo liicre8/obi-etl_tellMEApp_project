@@ -1,0 +1,68 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/231842/al-brown-old-yella-habanero-mustard",
+    "name": "Al Brown Old Yella Habanero Mustard 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/231842.jpg",
+    "source_id": "231842",
+    "barcode": "9421903360120",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22816",
+    "shop": "Woolworths",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "460",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "460",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/96145/french-s-classic-yellow-american-mustard",
+    "name": "French's Classic Yellow American Mustard 226g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/096145.jpg",
+    "source_id": "96145",
+    "barcode": "41500010236",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22816",
+    "shop": "Woolworths",
+    "weight": "226g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/522639/heinz-american-mustard-squeeze-bottle",
+    "name": "Heinz American Mustard Squeeze Bottle 220ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/522639.jpg",
+    "source_id": "522639",
+    "barcode": "9300657036270",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22816",
+    "shop": "Woolworths",
+    "weight": "220mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "173",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

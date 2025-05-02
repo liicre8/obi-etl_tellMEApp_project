@@ -1,0 +1,62 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230629/gorilla-mounting-tape-25mm-double-sided",
+    "name": "Gorilla Gorilla Mounting Tape 25mm 25mm x 1.52m",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/230629.jpg",
+    "source_id": "230629",
+    "barcode": "52427606501",
+    "category_id": "22459",
+    "subcategory_id": "22530",
+    "subsubcategory_id": "22531",
+    "shop": "Woolworths",
+    "weight": "25mm x 1.52m",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "1600",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/688334/jack-hammer-duct-tape-48mm-x-25m",
+    "name": "Jack Hammer Duct Tape 48mm x 25m Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/688334.jpg",
+    "source_id": "688334",
+    "barcode": "9311436601008",
+    "category_id": "22459",
+    "subcategory_id": "22530",
+    "subsubcategory_id": "22531",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/688336/jack-hammer-gaffa-tape-48mm-x-20m",
+    "name": "Jack Hammer Gaffa Tape 48mm x 20m Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/688336.jpg",
+    "source_id": "688336",
+    "barcode": "9311436601015",
+    "category_id": "22459",
+    "subcategory_id": "22530",
+    "subsubcategory_id": "22531",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

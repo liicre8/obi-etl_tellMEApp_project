@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/impressed-ginger-ninja-juice-1l-3183847",
+    "name": "Impressed Ginger Ninja Juice | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3183847.jpg&w=640&q=90",
+    "source_id": "3183847",
+    "barcode": "9336243006099",
+    "shop": "coles",
+    "category_id": "22181",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/629484/impressed-cold-pressed-juice-ginger-ninja",
+    "name": "Impressed Cold Pressed Juice Ginger Ninja 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/629484.jpg",
+    "source_id": "629484",
+    "barcode": "9336243006099",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/raw-c-straight-up-coconut-water-2l-3422518",
+    "name": "Raw C Straight Up Coconut Water | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3422518.jpg&w=640&q=90",
+    "source_id": "3422518",
+    "barcode": "9349622000281",
+    "shop": "coles",
+    "category_id": "22181",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "330",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/630643/raw-c-coconut-water",
+    "name": "Raw C Coconut Water 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/630643.jpg",
+    "source_id": "630643",
+    "barcode": "9349622000281",
+    "shop": "Woolworths",
+    "category_id": "22181",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "260",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

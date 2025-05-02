@@ -1,0 +1,130 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/198332/impossible-plant-based-beef-mince",
+    "name": "Impossible Plant Based Beef Mince 340g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/198332.jpg",
+    "source_id": "198332",
+    "barcode": "1220000340008",
+    "category_id": "22089",
+    "subcategory_id": "22140",
+    "subsubcategory_id": "22149",
+    "shop": "Woolworths",
+    "weight": "340g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1360",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1360",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1360",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1360",
+        "price_per_unit": "4000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/176869/made-with-plants-dairy-free-sour-cream",
+    "name": "Made With Plants Dairy Free Sour Cream 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/176869.jpg",
+    "source_id": "176869",
+    "barcode": "9354853000566",
+    "category_id": "22089",
+    "subcategory_id": "22140",
+    "subsubcategory_id": "22149",
+    "shop": "Woolworths",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "168",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "168",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/249730/vegie-delights-plant-based-vegie-sausages",
+    "name": "Vegie Delights Plant Based Vegie Sausages 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/249730.jpg",
+    "source_id": "249730",
+    "barcode": "9349174000500",
+    "category_id": "22089",
+    "subcategory_id": "22140",
+    "subsubcategory_id": "22149",
+    "shop": "Woolworths",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/123914/oatly-organic-creamy-oat",
+    "name": "Oatly! Organic Creamy Oat 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/123914.jpg",
+    "source_id": "123914",
+    "barcode": "7394376619090",
+    "category_id": "22089",
+    "subcategory_id": "22140",
+    "subsubcategory_id": "22149",
+    "shop": "Woolworths",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "160",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "160",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

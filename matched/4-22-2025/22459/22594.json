@@ -1,0 +1,146 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/elmers-unicorn-magic-slime-kit-1-each-5247496",
+    "name": "Elmers Unicorn Magic Slime Kit | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5247496.jpg&w=640&q=90",
+    "source_id": "5247496",
+    "barcode": "9313139334030",
+    "shop": "coles",
+    "category_id": "22594",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1330",
+        "price_per_unit": "1900",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/238194/elmer-s-unicorn-magic-slime-kit-colour-changing",
+    "name": "Elmer's Unicorn Magic Slime Kit Colour Changing each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/238194.jpg",
+    "source_id": "238194",
+    "barcode": "9313139334030",
+    "shop": "Woolworths",
+    "category_id": "22594",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bic-4-colours-pens-grip-2-pack-6999839",
+    "name": "Bic 4 Colours Pens Grip | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6999839.jpg&w=640&q=90",
+    "source_id": "6999839",
+    "barcode": "9310025965019",
+    "shop": "coles",
+    "category_id": "22594",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "730",
+        "price_per_unit": null,
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/909228/bic-4-colour-grip-pen",
+    "name": "BIC 4 Colour Grip Pen 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/909228.jpg",
+    "source_id": "909228",
+    "barcode": "9310025965019",
+    "shop": "Woolworths",
+    "category_id": "22594",
+    "weight": "2 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "730",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bic-velocity-mechanical-pencils-2-pack-3663591",
+    "name": "Bic Velocity Mechanical Pencils | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3663591.jpg&w=640&q=90",
+    "source_id": "3663591",
+    "barcode": "70330411708",
+    "shop": "coles",
+    "category_id": "22594",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "385",
+        "price_per_unit": "550",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/252710/bic-velocity-mechanical-pencil",
+    "name": "BIC Velocity Mechanical Pencil 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/252710.jpg",
+    "source_id": "252710",
+    "barcode": "70330411708",
+    "shop": "Woolworths",
+    "category_id": "22594",
+    "weight": "2 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/faber-castell-connector-pens-20-pack-1839744",
+    "name": "Faber-Castell Connector Pens | 20 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1839744.jpg&w=640&q=90",
+    "source_id": "1839744",
+    "barcode": "9311279191209",
+    "shop": "coles",
+    "category_id": "22594",
+    "weight": "20pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": null,
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/96750/faber-castell-connector-markers",
+    "name": "Faber-Castell Connector Markers 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/096750.jpg",
+    "source_id": "96750",
+    "barcode": "9311279191209",
+    "shop": "Woolworths",
+    "category_id": "22594",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,638 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/97997/essentials-crumbed-chicken-nuggets",
+    "name": "Essentials Crumbed Chicken Nuggets 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/097997.jpg",
+    "source_id": "97997",
+    "barcode": "9339687158058",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/965773/ingham-s-buttermilk-chicken-burgers",
+    "name": "Ingham's Buttermilk Chicken Burgers 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/965773.jpg",
+    "source_id": "965773",
+    "barcode": "9358553100601",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1170",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1170",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1170",
+        "price_per_unit": "1950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85804/ingham-s-chicken-breast-schnitzel",
+    "name": "Ingham's Chicken Breast Schnitzel 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085804.jpg",
+    "source_id": "85804",
+    "barcode": "9310037097685",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/227176/ingham-s-chicken-nuggets-original",
+    "name": "Ingham's Chicken Nuggets Original 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/227176.jpg",
+    "source_id": "227176",
+    "barcode": "9358553100427",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1160",
+        "price_per_unit": "1160",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1160",
+        "price_per_unit": "1160",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1160",
+        "price_per_unit": "1160",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/227255/ingham-s-chicken-tenders-original",
+    "name": "Ingham's Chicken Tenders Original 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/227255.jpg",
+    "source_id": "227255",
+    "barcode": "9358553100441",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1160",
+        "price_per_unit": "1160",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1160",
+        "price_per_unit": "1160",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1160",
+        "price_per_unit": "1160",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/262490/ingham-s-crumbed-chicken-breast-nuggets",
+    "name": "Ingham's Crumbed Chicken Breast Nuggets 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/262490.jpg",
+    "source_id": "262490",
+    "barcode": "9310037145119",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/348916/ingham-s-four-chicken-kyivs-creamy-garlic-frozen-meal",
+    "name": "Ingham's Four Chicken Kyivs Creamy Garlic 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/348916.jpg",
+    "source_id": "348916",
+    "barcode": "9310037146055",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "600G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/38728/ingham-s-frozen-chicken-breast-tenders-original",
+    "name": "Ingham's Frozen Chicken Breast Tenders Original 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/038728.jpg",
+    "source_id": "38728",
+    "barcode": "9310037147960",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/505304/ingham-s-frozen-chicken-breast-tenders-southern-style",
+    "name": "Ingham's Frozen Chicken Breast Tenders Southern Style 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/505304.jpg",
+    "source_id": "505304",
+    "barcode": "9310037147892",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/229446/ingham-s-frozen-chicken-breast-tenders-sweet-chilli",
+    "name": "Ingham's Frozen Chicken Breast Tenders Sweet Chilli 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/229446.jpg",
+    "source_id": "229446",
+    "barcode": "9310037147953",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/227382/ingham-s-sweet-chilli-chicken-tenders",
+    "name": "Ingham's Sweet Chilli Chicken Tenders 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/227382.jpg",
+    "source_id": "227382",
+    "barcode": "9358553100458",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1160",
+        "price_per_unit": "1160",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1160",
+        "price_per_unit": "1160",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1160",
+        "price_per_unit": "1160",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/227138/ingham-s-tempura-style-nuggets",
+    "name": "Ingham's Tempura Style Nuggets 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/227138.jpg",
+    "source_id": "227138",
+    "barcode": "9358553100434",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1160",
+        "price_per_unit": "1160",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1160",
+        "price_per_unit": "1160",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1160",
+        "price_per_unit": "1160",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/79509/ingham-s-two-premium-chicken-breast-kyiv-garlic-butter",
+    "name": "Ingham's Two Premium Chicken Breast Kyiv Garlic Butter 350G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/079509.jpg",
+    "source_id": "79509",
+    "barcode": "9310037086726",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "350G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "3571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "3571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "3571",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/339262/steggles-chicken-breast-nuggets-tempura",
+    "name": "Steggles Chicken Breast Nuggets Tempura 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/339262.jpg",
+    "source_id": "339262",
+    "barcode": "9310213563157",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "1450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/383909/steggles-chicken-dino-snacks-tempura",
+    "name": "Steggles Chicken Dino Snacks Tempura 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/383909.jpg",
+    "source_id": "383909",
+    "barcode": "9310213567513",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1420",
+        "price_per_unit": "1420",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/508730/steggles-chicken-fingers-crumbed",
+    "name": "Steggles Chicken Fingers Crumbed 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/508730.jpg",
+    "source_id": "508730",
+    "barcode": "9310213542220",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1420",
+        "price_per_unit": "1420",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/251465/steggles-chicken-fingers-crumbed",
+    "name": "Steggles Chicken Fingers Crumbed 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/251465.jpg",
+    "source_id": "251465",
+    "barcode": "9310213563508",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/733775/woolworths-chicken-breast-crumbed-nuggets",
+    "name": "Woolworths Chicken Breast Crumbed Nuggets 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/733775.jpg",
+    "source_id": "733775",
+    "barcode": "9300633339128",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/733773/woolworths-chicken-breast-crumbed-tenders",
+    "name": "Woolworths Chicken Breast Crumbed Tenders 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/733773.jpg",
+    "source_id": "733773",
+    "barcode": "9300633339104",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/682724/woolworths-chicken-breast-kyiv-kyiv",
+    "name": "Woolworths Chicken Breast Kyiv 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/682724.jpg",
+    "source_id": "682724",
+    "barcode": "9339687041640",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "2143",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/901739/woolworths-chicken-breast-schnitzel",
+    "name": "Woolworths Chicken Breast Schnitzel 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/901739.jpg",
+    "source_id": "901739",
+    "barcode": "9339687384877",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/132259/woolworths-crumbed-chicken-breast-nuggets",
+    "name": "Woolworths Crumbed Chicken Breast Nuggets 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/132259.jpg",
+    "source_id": "132259",
+    "barcode": "9339687221479",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/887519/woolworths-crumbed-dino-chicken-nuggets",
+    "name": "Woolworths Crumbed Dino Chicken Nuggets 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/887519.jpg",
+    "source_id": "887519",
+    "barcode": "9339687383665",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/132573/woolworths-oven-roasted-southern-style-wing-nibbles",
+    "name": "Woolworths Oven Roasted Southern Style Wing Nibbles 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/132573.jpg",
+    "source_id": "132573",
+    "barcode": "9339687221516",
+    "category_id": "22280",
+    "subcategory_id": "22305",
+    "subsubcategory_id": "22307",
+    "shop": "Woolworths",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

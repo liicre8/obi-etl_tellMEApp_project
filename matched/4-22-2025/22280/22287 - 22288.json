@@ -1,0 +1,182 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/cadbury-dairy-milk-freddo-party-cake-frozen-dessert-1.5l-9093430",
+    "name": "Cadbury Dairy Milk Freddo Party Cake Frozen Dessert | 1.5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9093430.jpg&w=640&q=90",
+    "source_id": "9093430",
+    "barcode": "9347043001733",
+    "shop": "coles",
+    "category_id": "22288",
+    "weight": "1.5l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "113",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/51741/cadbury-freddo-cake",
+    "name": "Cadbury Freddo Cake 1.5l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/051741.jpg",
+    "source_id": "51741",
+    "barcode": "9347043001733",
+    "shop": "Woolworths",
+    "category_id": "22288",
+    "weight": "1.5L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "113",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/farm-pride-frozen-egg-whites-950ml-1909588",
+    "name": "Farm Pride Frozen Egg Whites | 950mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1909588.jpg&w=640&q=90",
+    "source_id": "1909588",
+    "barcode": "9310229070847",
+    "shop": "coles",
+    "category_id": "22288",
+    "weight": "950ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "116",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/947804/farm-pride-frozen-egg-whites",
+    "name": "Farm Pride Frozen Egg Whites 950ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/947804.jpg",
+    "source_id": "947804",
+    "barcode": "9310229070847",
+    "shop": "Woolworths",
+    "category_id": "22288",
+    "weight": "950mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1105",
+        "price_per_unit": "116",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzies-ready-to-bake-cookies-choc-chip-400g-7694633",
+    "name": "McKenzies Ready To Bake Cookies Choc Chip | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7694633.jpg&w=640&q=90",
+    "source_id": "7694633",
+    "barcode": "9310061126474",
+    "shop": "coles",
+    "category_id": "22288",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/466691/mckenzie-s-ready-to-bake-cookies-choc-chip",
+    "name": "McKenzie's Ready To Bake Cookies Choc Chip 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/466691.jpg",
+    "source_id": "466691",
+    "barcode": "9310061126474",
+    "shop": "Woolworths",
+    "category_id": "22288",
+    "weight": "10 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/peters-original-party-cake-frozen-dessert-1.5l-5103340",
+    "name": "Peters Original Party Cake Frozen Dessert | 1.5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5103340.jpg&w=640&q=90",
+    "source_id": "5103340",
+    "barcode": "9310080035085",
+    "shop": "coles",
+    "category_id": "22288",
+    "weight": "1.5l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "93",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/40950/peters-ice-cream-cake-party",
+    "name": "Peters Ice Cream Cake Party 1.5l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/040950.jpg",
+    "source_id": "40950",
+    "barcode": "9310080035085",
+    "shop": "Woolworths",
+    "category_id": "22288",
+    "weight": "1.5L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1470",
+        "price_per_unit": "98",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/streets-viennetta-classic-vanilla-ice-cream-cake-650ml-3169766",
+    "name": "Streets Viennetta Classic Vanilla Ice Cream Cake | 650mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3169766.jpg&w=640&q=90",
+    "source_id": "3169766",
+    "barcode": "8714100895252",
+    "shop": "coles",
+    "category_id": "22288",
+    "weight": "650ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "123",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/684415/viennetta-vanilla-frozen-dessert-cake",
+    "name": "Viennetta Vanilla Frozen Dessert Cake 650ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/684415.jpg",
+    "source_id": "684415",
+    "barcode": "8714100895252",
+    "shop": "Woolworths",
+    "category_id": "22288",
+    "weight": "650ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "123",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

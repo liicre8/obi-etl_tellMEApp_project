@@ -1,0 +1,154 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/252676/berri-quelch-fruit-combos-ice-blocks",
+    "name": "Berri Quelch Fruit Combos Ice Blocks 24x70ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/252676.jpg",
+    "source_id": "252676",
+    "barcode": "9310113902698",
+    "category_id": "22770",
+    "subcategory_id": "22821",
+    "subsubcategory_id": "22826",
+    "shop": "Woolworths",
+    "weight": "24x70mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "640",
+        "price_per_unit": "38",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NSW",
+        "price": "640",
+        "price_per_unit": "38",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/49156/berri-quelch-fruit-sticks-ice-blocks",
+    "name": "Berri Quelch Fruit Sticks Ice Blocks 24x70ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/049156.jpg",
+    "source_id": "49156",
+    "barcode": "9310113902704",
+    "category_id": "22770",
+    "subcategory_id": "22821",
+    "subsubcategory_id": "22826",
+    "shop": "Woolworths",
+    "weight": "24x70mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "640",
+        "price_per_unit": "38",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NSW",
+        "price": "640",
+        "price_per_unit": "38",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/385253/famous-soda-pops",
+    "name": "Famous Soda Pops 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/385253.jpg",
+    "source_id": "385253",
+    "barcode": "9356745000340",
+    "category_id": "22770",
+    "subcategory_id": "22821",
+    "subsubcategory_id": "22826",
+    "shop": "Woolworths",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "97",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/919538/gerard-family-foods-freezy-mocktail",
+    "name": "Gerard Family Foods Freezy Mocktail 70mL x 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/919538.jpg",
+    "source_id": "919538",
+    "barcode": "9311106999800",
+    "category_id": "22770",
+    "subcategory_id": "22821",
+    "subsubcategory_id": "22826",
+    "shop": "Woolworths",
+    "weight": "70mL x 12 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "48",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/318579/gerard-family-foods-freezy-pops",
+    "name": "Gerard Family Foods Freezy Pops 70ml x 24 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/318579.jpg",
+    "source_id": "318579",
+    "barcode": "9311106999947",
+    "category_id": "22770",
+    "subcategory_id": "22821",
+    "subsubcategory_id": "22826",
+    "shop": "Woolworths",
+    "weight": "70ml x 24 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "36",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/319995/gerard-family-foods-freezy-snaps",
+    "name": "Gerard Family Foods Freezy Snaps 75ml x 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/319995.jpg",
+    "source_id": "319995",
+    "barcode": "9311106999961",
+    "category_id": "22770",
+    "subcategory_id": "22821",
+    "subsubcategory_id": "22826",
+    "shop": "Woolworths",
+    "weight": "75ml x 10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "47",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/920646/gerard-family-foods-freezy-tropicals",
+    "name": "Gerard Family Foods Freezy Tropicals 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/920646.jpg",
+    "source_id": "920646",
+    "barcode": "9311106999817",
+    "category_id": "22770",
+    "subcategory_id": "22821",
+    "subsubcategory_id": "22826",
+    "shop": "Woolworths",
+    "weight": "12 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "48",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

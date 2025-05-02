@@ -1,0 +1,506 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/bird-munchies-gourmet-parrot-blend-1-kg-4362943",
+    "name": "Bird Munchies Gourmet Parrot Blend | 1 kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4362943.jpg&w=640&q=90",
+    "source_id": "4362943",
+    "barcode": "9313175050024",
+    "shop": "coles",
+    "category_id": "22921",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "49",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/30011/bird-munchies-bird-food-gourmet-blend-parrot",
+    "name": "Bird Munchies Bird Food Gourmet Blend Parrot 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/030011.jpg",
+    "source_id": "30011",
+    "barcode": "9313175050024",
+    "shop": "Woolworths",
+    "category_id": "22921",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "58",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harmony-lorikeet-and-honey-eater-wild-bird-seed-500g-9701730",
+    "name": "Harmony Lorikeet & Honey Eater Wild Bird Seed | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9701730.jpg&w=640&q=90",
+    "source_id": "9701730",
+    "barcode": "9310022263293",
+    "shop": "coles",
+    "category_id": "22921",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "200",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/204495/harmony-bird-food-lorikeet-honey-eater",
+    "name": "Harmony Bird Food Lorikeet & Honey Eater 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/204495.jpg",
+    "source_id": "204495",
+    "barcode": "9310022263293",
+    "shop": "Woolworths",
+    "category_id": "22921",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harmony-wild-bird-mix-bird-seed-4kg-9701886",
+    "name": "Harmony Wild Bird Mix Bird Seed | 4kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9701886.jpg&w=640&q=90",
+    "source_id": "9701886",
+    "barcode": "9310022263286",
+    "shop": "coles",
+    "category_id": "22921",
+    "weight": "4kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "19",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/204498/harmony-bird-food-wild-bird-mix",
+    "name": "Harmony Bird Food Wild Bird Mix 4kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/204498.jpg",
+    "source_id": "204498",
+    "barcode": "9310022263286",
+    "shop": "Woolworths",
+    "category_id": "22921",
+    "weight": "4Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "25",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harmony-no-waste-seed-mix-1kg-2443614",
+    "name": "Harmony No Waste Seed Mix | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2443614.jpg&w=640&q=90",
+    "source_id": "2443614",
+    "barcode": "9334214030197",
+    "shop": "coles",
+    "category_id": "22921",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "70",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/685175/harmony-no-waste-seed-mix",
+    "name": "Harmony No Waste Seed Mix 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/685175.jpg",
+    "source_id": "685175",
+    "barcode": "9334214030197",
+    "shop": "Woolworths",
+    "category_id": "22921",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/trill-bird-seed-budgie-mix-1.8kg-3769311",
+    "name": "Trill Bird Seed Budgie Mix | 1.8kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3769311.jpg&w=640&q=90",
+    "source_id": "3769311",
+    "barcode": "9334214052489",
+    "shop": "coles",
+    "category_id": "22921",
+    "weight": "1.8kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "33",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/80067/trill-budgie-mix",
+    "name": "Trill Budgie Mix 1.8kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/080067.jpg",
+    "source_id": "80067",
+    "barcode": "9334214052489",
+    "shop": "Woolworths",
+    "category_id": "22921",
+    "weight": "1.8Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "33",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/trill-lorikeet-complete-meal-mix-500g-2443589",
+    "name": "Trill Lorikeet Complete Meal Mix | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2443589.jpg&w=640&q=90",
+    "source_id": "2443589",
+    "barcode": "9334214036823",
+    "shop": "coles",
+    "category_id": "22921",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/937633/trill-pet-lorikeet-mix",
+    "name": "Trill Pet Lorikeet Mix 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/937633.jpg",
+    "source_id": "937633",
+    "barcode": "9334214036823",
+    "shop": "Woolworths",
+    "category_id": "22921",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "220",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/trill-bird-seed-small-parrot-mix-1.8kg-3769377",
+    "name": "Trill Bird Seed Small Parrot Mix | 1.8Kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3769377.jpg&w=640&q=90",
+    "source_id": "3769377",
+    "barcode": "9334214052540",
+    "shop": "coles",
+    "category_id": "22921",
+    "weight": "1.8kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "33",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/80088/trill-small-parrot-mix",
+    "name": "Trill Small Parrot Mix 1.8kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/080088.jpg",
+    "source_id": "80088",
+    "barcode": "9334214052540",
+    "shop": "Woolworths",
+    "category_id": "22921",
+    "weight": "1.8Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "33",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vitapet-fish-water-ager-125ml-6108440",
+    "name": "Vitapet Fish Water Ager | 125mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6108440.jpg&w=640&q=90",
+    "source_id": "6108440",
+    "barcode": "9312239000753",
+    "shop": "coles",
+    "category_id": "22921",
+    "weight": "125ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "560",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/272264/vitapet-treatment-water-ager",
+    "name": "Vitapet Treatment Water Ager 125ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/272264.jpg",
+    "source_id": "272264",
+    "barcode": "9312239000753",
+    "shop": "Woolworths",
+    "category_id": "22921",
+    "weight": "125mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "560",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/back-to-nature-small-animal-bedding-and-litter-10l-4366729",
+    "name": "Back To Nature Small Animal Bedding & Litter | 10L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4366729.jpg&w=640&q=90",
+    "source_id": "4366729",
+    "barcode": "9315087401109",
+    "shop": "coles",
+    "category_id": "22921",
+    "weight": "10l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "130",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/133629/fibre-cycle-back-2-nature-small-animal-bedding",
+    "name": "Fibre Cycle Back 2 Nature Small Animal Bedding 10l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/133629.jpg",
+    "source_id": "133629",
+    "barcode": "9315087401109",
+    "shop": "Woolworths",
+    "category_id": "22921",
+    "weight": "10L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "130",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harmony-dried-mealworms-120g-5858150",
+    "name": "Harmony Dried Mealworms | 120g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5858150.jpg&w=640&q=90",
+    "source_id": "5858150",
+    "barcode": "9334214057491",
+    "shop": "coles",
+    "category_id": "22921",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "833",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/391544/harmony-wild-bird-dried-mealworms",
+    "name": "Harmony Wild Bird Dried Mealworms 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/391544.jpg",
+    "source_id": "391544",
+    "barcode": "9334214057491",
+    "shop": "Woolworths",
+    "category_id": "22921",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "833",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pet-munchies-gourmet-small-animal-treat-300g-5858140",
+    "name": "Pet Munchies Gourmet Small Animal Treat | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5858140.jpg&w=640&q=90",
+    "source_id": "5858140",
+    "barcode": "9313175023219",
+    "shop": "coles",
+    "category_id": "22921",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "107",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/394263/pet-munchies-small-animal-gourmet-treat",
+    "name": "Pet Munchies Small Animal Gourmet Treat 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/394263.jpg",
+    "source_id": "394263",
+    "barcode": "9313175023219",
+    "shop": "Woolworths",
+    "category_id": "22921",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/peters-alfalfa-and-fruit-rabbit-and-guinea-pig-food-2kg-9270570",
+    "name": "Peters Alfalfa & Fruit Rabbit & Guinea Pig Food | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9270570.jpg&w=640&q=90",
+    "source_id": "9270570",
+    "barcode": "9316203000206",
+    "shop": "coles",
+    "category_id": "22921",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "50",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/174486/peters-alfalfa-fruit-rabbit-guinea-pig-food",
+    "name": "Peters Alfalfa & Fruit Rabbit & Guinea Pig Food 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/174486.jpg",
+    "source_id": "174486",
+    "barcode": "9316203000206",
+    "shop": "Woolworths",
+    "category_id": "22921",
+    "weight": "2Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "50",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/peters-foragers-feast-small-animal-food-1kg-1492283",
+    "name": "Peters Foragers Feast Small Animal Food | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1492283.jpg&w=640&q=90",
+    "source_id": "1492283",
+    "barcode": "9316203000381",
+    "shop": "coles",
+    "category_id": "22921",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "765",
+        "price_per_unit": "77",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/351934/peters-rabbit-guinea-pig-foragers-feast",
+    "name": "Peters Rabbit & Guinea Pig Foragers Feast 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/351934.jpg",
+    "source_id": "351934",
+    "barcode": "9316203000381",
+    "shop": "Woolworths",
+    "category_id": "22921",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/peters-rabbit-and-guinea-pig-lucerne-pellets-2kg-9270456",
+    "name": "Peters Rabbit & Guinea Pig Lucerne Pellets | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9270456.jpg&w=640&q=90",
+    "source_id": "9270456",
+    "barcode": "9316203000190",
+    "shop": "coles",
+    "category_id": "22921",
+    "weight": "2kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "48",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/174485/peters-rabbit-guinea-pig-lucerne-pellets",
+    "name": "Peters Rabbit & Guinea Pig Lucerne Pellets 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/174485.jpg",
+    "source_id": "174485",
+    "barcode": "9316203000190",
+    "shop": "Woolworths",
+    "category_id": "22921",
+    "weight": "2Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "48",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/tip-top-muffins-english-original-400g-332394",
+    "name": "Tip Top Muffins English Original | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F332394.jpg&w=640&q=90",
+    "source_id": "332394",
+    "barcode": "9339423003253",
+    "shop": "coles",
+    "category_id": "22081",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "310",
+        "price_per_unit": "78",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/46795/tip-top-english-muffins-original-bakery",
+    "name": "Tip Top English Muffins Original Bakery 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/046795.jpg",
+    "source_id": "46795",
+    "barcode": "9339423003253",
+    "shop": "Woolworths",
+    "category_id": "22081",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "620",
+        "price_per_unit": "103",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tip-top-muffins-english-wholemeal-400g-5137320",
+    "name": "Tip Top Muffins English Wholemeal | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5137320.jpg&w=640&q=90",
+    "source_id": "5137320",
+    "barcode": "9339423003260",
+    "shop": "coles",
+    "category_id": "22081",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "310",
+        "price_per_unit": "78",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/89121/tip-top-english-muffins-wholemeal-bakery",
+    "name": "Tip Top English Muffins Wholemeal Bakery 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/089121.jpg",
+    "source_id": "89121",
+    "barcode": "9339423003260",
+    "shop": "Woolworths",
+    "category_id": "22081",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "620",
+        "price_per_unit": "103",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tip-top-raisin-toast-bread-520g-7024470",
+    "name": "Tip Top Raisin Toast Bread | 520g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7024470.jpg&w=640&q=90",
+    "source_id": "7024470",
+    "barcode": "9339423008524",
+    "shop": "coles",
+    "category_id": "22081",
+    "weight": "520g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "106",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/3805/tip-top-raisin-toast-fruit-bread-loaf-bakery",
+    "name": "Tip Top Raisin Toast Fruit Bread Loaf Bakery 520g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/003805.jpg",
+    "source_id": "3805",
+    "barcode": "9339423008524",
+    "shop": "Woolworths",
+    "category_id": "22081",
+    "weight": "520g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "87",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

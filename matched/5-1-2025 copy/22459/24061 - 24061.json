@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/allendale-statique-anti-static-spray-150ml-301754",
+    "name": "Allendale Statique Anti-Static Spray | 150mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F301754.jpg&w=640&q=90",
+    "source_id": "301754",
+    "barcode": "9310327000432",
+    "shop": "coles",
+    "category_id": "24061",
+    "weight": "150ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "5000",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/42687/allendale-statique-anti-static-clothing-spray",
+    "name": "Allendale Statique Anti Static Clothing Spray 150mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/042687.jpg",
+    "source_id": "42687",
+    "barcode": "9310327000432",
+    "shop": "Woolworths",
+    "category_id": "24061",
+    "weight": "150mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "675",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  }
+]

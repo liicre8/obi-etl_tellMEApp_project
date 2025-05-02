@@ -517,75 +517,75 @@ const categories = [
     category: 'Drinks',
     id: '22164',
     subCategories: [
-      {
-        subCategory: 'Coffee Drinks',
-        childItems: [
-          { extensionCategory: 'Beans Coffee', url: 'https:www.coles.com.au/browse/drinks/coffee-drinks/beans-coffee' },
-          { extensionCategory: 'Coffee Capsules', url: 'https:www.coles.com.au/browse/drinks/coffee-drinks/coffee-capsules' },
-          { extensionCategory: 'Coffee Ground', url: 'https:www.coles.com.au/browse/drinks/coffee-drinks/coffee-ground' },
-          { extensionCategory: 'Coffee Instant', url: 'https:www.coles.com.au/browse/drinks/coffee-drinks/coffee-instant' },
-          { extensionCategory: 'Mixes Coffee', url: 'https:www.coles.com.au/browse/drinks/coffee-drinks/mixes-coffee' },
-        ],
-      },
-      {
-        subCategory: 'Cold Drinks',
-        childItems: [
-          { extensionCategory: 'Cold Soft Drinks', url: 'https:www.coles.com.au/browse/drinks/cold-drinks/cold-soft-drinks' },
-          { extensionCategory: 'Cold Water', url: 'https:www.coles.com.au/browse/drinks/cold-drinks/cold-water' },
-          { extensionCategory: 'Other Cold Drinks', url: 'https:www.coles.com.au/browse/drinks/cold-drinks/other-cold-drinks' },
-        ],
-      },
-      {
-        subCategory: 'Cordials',
-        childItems: [{ extensionCategory: 'All Cordials', url: 'https:www.coles.com.au/browse/drinks/cordials/all-cordials' }],
-      },
-      {
-        subCategory: 'Energy Drinks',
-        childItems: [
-          { extensionCategory: 'Bottles', url: 'https:www.coles.com.au/browse/drinks/energy-drinks/bottles' },
-          { extensionCategory: 'Multipack Cans', url: 'https:www.coles.com.au/browse/drinks/energy-drinks/multipack-cans' },
-          { extensionCategory: 'Single Cans', url: 'https:www.coles.com.au/browse/drinks/energy-drinks/single-cans' },
-        ],
-      },
-      {
-        subCategory: 'Flavoured Milk',
-        childItems: [
-          { extensionCategory: 'Drinking Chocolate', url: 'https:www.coles.com.au/browse/drinks/flavoured-milk/drinking-chocolate' },
-          { extensionCategory: 'Drinks & Powders', url: 'https:www.coles.com.au/browse/drinks/flavoured-milk/drinks-powders' },
-          { extensionCategory: 'Kids Milk', url: 'https:www.coles.com.au/browse/drinks/flavoured-milk/kids-milk' },
-        ],
-      },
-      {
-        subCategory: 'Iced Tea',
-        childItems: [{ extensionCategory: 'Single & Multi Serve', url: 'https:www.coles.com.au/browse/drinks/iced-tea/single-multi-serve' }],
-      },
-      {
-        subCategory: 'Juice',
-        childItems: [
-          { extensionCategory: 'Juice', url: 'https:www.coles.com.au/browse/drinks/juice/multi-pack-juice' },
-          { extensionCategory: 'Canned Juices', url: 'https:www.coles.com.au/browse/drinks/juice/canned-juices' },
-          { extensionCategory: 'Chilled Juice', url: 'https:www.coles.com.au/browse/drinks/juice/chilled-juice' },
-          { extensionCategory: 'Glass Juice Bottles', url: 'http:coles.com.au/browse/drinks/juice/glass-juice-bottles' },
-          { extensionCategory: 'Multi Pack Juice', url: 'https:www.coles.com.au/browse/drinks/juice/multi-pack-juice' },
-          { extensionCategory: 'Packs & Pouches', url: 'https:www.coles.com.au/browse/drinks/juice/packs-pouches' },
-          { extensionCategory: 'Plastic Juice Bottles', url: 'https:www.coles.com.au/browse/drinks/juice/plastic-juice-bottles' },
-        ],
-      },
-      {
-        subCategory: 'Long-Life Milk',
-        childItems: [
-          { extensionCategory: 'Almond & Other Nut Milk', url: 'https:www.coles.com.au/browse/drinks/long-life-milk/almond-other-nut-milk' },
-          { extensionCategory: 'Lactose Free Milk', url: 'https:www.coles.com.au/browse/drinks/long-life-milk/lactose-free-milk' },
-          { extensionCategory: 'Long Life Flavoured Milk', url: 'https:www.coles.com.au/browse/drinks/long-life-milk/long-life-flavoured-milk' },
-          { extensionCategory: 'Oat Milk', url: 'https:www.coles.com.au/browse/drinks/long-life-milk/oat-milk' },
-          { extensionCategory: 'Powdered Milk', url: 'https:www.coles.com.au/browse/drinks/long-life-milk/powdered-milk' },
-          { extensionCategory: 'Soy Milk', url: 'https:www.coles.com.au/browse/drinks/long-life-milk/soy-milk' },
-        ],
-      },
-      {
-        subCategory: 'Non-Alcoholic',
-        childItems: [{ extensionCategory: 'Non-Alcoholic Drinks', url: 'https:www.coles.com.au/browse/drinks/non-alcoholic/non-alcoholic-drinks' }],
-      },
+      // {
+      //   subCategory: 'Coffee Drinks',
+      //   childItems: [
+      //     { extensionCategory: 'Beans Coffee', url: 'https:www.coles.com.au/browse/drinks/coffee-drinks/beans-coffee' },
+      //     { extensionCategory: 'Coffee Capsules', url: 'https:www.coles.com.au/browse/drinks/coffee-drinks/coffee-capsules' },
+      //     { extensionCategory: 'Coffee Ground', url: 'https:www.coles.com.au/browse/drinks/coffee-drinks/coffee-ground' },
+      //     { extensionCategory: 'Coffee Instant', url: 'https:www.coles.com.au/browse/drinks/coffee-drinks/coffee-instant' },
+      //     { extensionCategory: 'Mixes Coffee', url: 'https:www.coles.com.au/browse/drinks/coffee-drinks/mixes-coffee' },
+      //   ],
+      // },
+      // {
+      //   subCategory: 'Cold Drinks',
+      //   childItems: [
+      //     { extensionCategory: 'Cold Soft Drinks', url: 'https:www.coles.com.au/browse/drinks/cold-drinks/cold-soft-drinks' },
+      //     { extensionCategory: 'Cold Water', url: 'https:www.coles.com.au/browse/drinks/cold-drinks/cold-water' },
+      //     { extensionCategory: 'Other Cold Drinks', url: 'https:www.coles.com.au/browse/drinks/cold-drinks/other-cold-drinks' },
+      //   ],
+      // },
+      // {
+      //   subCategory: 'Cordials',
+      //   childItems: [{ extensionCategory: 'All Cordials', url: 'https:www.coles.com.au/browse/drinks/cordials/all-cordials' }],
+      // },
+      // {
+      //   subCategory: 'Energy Drinks',
+      //   childItems: [
+      //     { extensionCategory: 'Bottles', url: 'https:www.coles.com.au/browse/drinks/energy-drinks/bottles' },
+      //     { extensionCategory: 'Multipack Cans', url: 'https:www.coles.com.au/browse/drinks/energy-drinks/multipack-cans' },
+      //     { extensionCategory: 'Single Cans', url: 'https:www.coles.com.au/browse/drinks/energy-drinks/single-cans' },
+      //   ],
+      // },
+      // {
+      //   subCategory: 'Flavoured Milk',
+      //   childItems: [
+      //     { extensionCategory: 'Drinking Chocolate', url: 'https:www.coles.com.au/browse/drinks/flavoured-milk/drinking-chocolate' },
+      //     { extensionCategory: 'Drinks & Powders', url: 'https:www.coles.com.au/browse/drinks/flavoured-milk/drinks-powders' },
+      //     { extensionCategory: 'Kids Milk', url: 'https:www.coles.com.au/browse/drinks/flavoured-milk/kids-milk' },
+      //   ],
+      // },
+      // {
+      //   subCategory: 'Iced Tea',
+      //   childItems: [{ extensionCategory: 'Single & Multi Serve', url: 'https:www.coles.com.au/browse/drinks/iced-tea/single-multi-serve' }],
+      // },
+      // {
+      //   subCategory: 'Juice',
+      //   childItems: [
+      //     { extensionCategory: 'Juice', url: 'https:www.coles.com.au/browse/drinks/juice/multi-pack-juice' },
+      //     { extensionCategory: 'Canned Juices', url: 'https:www.coles.com.au/browse/drinks/juice/canned-juices' },
+      //     { extensionCategory: 'Chilled Juice', url: 'https:www.coles.com.au/browse/drinks/juice/chilled-juice' },
+      //     { extensionCategory: 'Glass Juice Bottles', url: 'http:coles.com.au/browse/drinks/juice/glass-juice-bottles' },
+      //     { extensionCategory: 'Multi Pack Juice', url: 'https:www.coles.com.au/browse/drinks/juice/multi-pack-juice' },
+      //     { extensionCategory: 'Packs & Pouches', url: 'https:www.coles.com.au/browse/drinks/juice/packs-pouches' },
+      //     { extensionCategory: 'Plastic Juice Bottles', url: 'https:www.coles.com.au/browse/drinks/juice/plastic-juice-bottles' },
+      //   ],
+      // },
+      // {
+      //   subCategory: 'Long-Life Milk',
+      //   childItems: [
+      //     { extensionCategory: 'Almond & Other Nut Milk', url: 'https:www.coles.com.au/browse/drinks/long-life-milk/almond-other-nut-milk' },
+      //     { extensionCategory: 'Lactose Free Milk', url: 'https:www.coles.com.au/browse/drinks/long-life-milk/lactose-free-milk' },
+      //     { extensionCategory: 'Long Life Flavoured Milk', url: 'https:www.coles.com.au/browse/drinks/long-life-milk/long-life-flavoured-milk' },
+      //     { extensionCategory: 'Oat Milk', url: 'https:www.coles.com.au/browse/drinks/long-life-milk/oat-milk' },
+      //     { extensionCategory: 'Powdered Milk', url: 'https:www.coles.com.au/browse/drinks/long-life-milk/powdered-milk' },
+      //     { extensionCategory: 'Soy Milk', url: 'https:www.coles.com.au/browse/drinks/long-life-milk/soy-milk' },
+      //   ],
+      // },
+      // {
+      //   subCategory: 'Non-Alcoholic',
+      //   childItems: [{ extensionCategory: 'Non-Alcoholic Drinks', url: 'https:www.coles.com.au/browse/drinks/non-alcoholic/non-alcoholic-drinks' }],
+      // },
       {
         subCategory: 'Soft Drinks',
         childItems: [
@@ -595,36 +595,36 @@ const categories = [
           { extensionCategory: 'Soft Drink Cans', url: 'https:www.coles.com.au/browse/drinks/soft-drinks/soft-drink-cans' },
         ],
       },
-      {
-        subCategory: 'Sports Drinks',
-        childItems: [
-          { extensionCategory: 'All Iced Tea', url: 'https:www.coles.com.au/browse/drinks/sports-drinks/all-iced-tea' },
-          { extensionCategory: 'Sport Drink Powders', url: 'https:www.coles.com.au/browse/drinks/sports-drinks/sport-drink-powders' },
-          { extensionCategory: 'Sports Drink', url: 'https:www.coles.com.au/browse/drinks/sports-drinks/sports-drink' },
-        ],
-      },
-      {
-        subCategory: 'Tea Drinks',
-        childItems: [
-          { extensionCategory: 'Tea Black', url: 'https:www.coles.com.au/browse/drinks/tea-drinks/tea-black' },
-          { extensionCategory: 'Tea Bubble', url: 'https:www.coles.com.au/browse/drinks/tea-drinks/tea-bubble' },
-          { extensionCategory: 'Tea Chai', url: 'https:www.coles.com.au/browse/drinks/tea-drinks/tea-chai' },
-          { extensionCategory: 'Tea Green', url: 'https:www.coles.com.au/browse/drinks/tea-drinks/tea-green' },
-          { extensionCategory: 'Tea Herbal', url: 'https:www.coles.com.au/browse/drinks/tea-drinks/tea-herbal' },
-          { extensionCategory: 'Tea Loose Leaf', url: 'https:www.coles.com.au/browse/drinks/tea-drinks/tea-loose-leaf' },
-          { extensionCategory: 'Tea Organic', url: 'https:www.coles.com.au/browse/drinks/tea-drinks/tea-organic' },
-          { extensionCategory: 'Tea White', url: 'https://www.coles.com.au/browse/drinks/tea-drinks/tea-white' },
-        ],
-      },
-      {
-        subCategory: 'Water',
-        childItems: [
-          { extensionCategory: 'Flavoured Water', url: 'https:www.coles.com.au/browse/drinks/water/flavoured-water' },
-          { extensionCategory: 'Mineral Water', url: 'https:www.coles.com.au/browse/drinks/water/mineral-water' },
-          { extensionCategory: 'Sparkling Water', url: 'https:www.coles.com.au/browse/drinks/water/sparkling-water' },
-          { extensionCategory: 'Still Water', url: 'https:www.coles.com.au/browse/drinks/water/still-water' },
-        ],
-      },
+      // {
+      //   subCategory: 'Sports Drinks',
+      //   childItems: [
+      //     { extensionCategory: 'All Iced Tea', url: 'https:www.coles.com.au/browse/drinks/sports-drinks/all-iced-tea' },
+      //     { extensionCategory: 'Sport Drink Powders', url: 'https:www.coles.com.au/browse/drinks/sports-drinks/sport-drink-powders' },
+      //     { extensionCategory: 'Sports Drink', url: 'https:www.coles.com.au/browse/drinks/sports-drinks/sports-drink' },
+      //   ],
+      // },
+      // {
+      //   subCategory: 'Tea Drinks',
+      //   childItems: [
+      //     { extensionCategory: 'Tea Black', url: 'https:www.coles.com.au/browse/drinks/tea-drinks/tea-black' },
+      //     { extensionCategory: 'Tea Bubble', url: 'https:www.coles.com.au/browse/drinks/tea-drinks/tea-bubble' },
+      //     { extensionCategory: 'Tea Chai', url: 'https:www.coles.com.au/browse/drinks/tea-drinks/tea-chai' },
+      //     { extensionCategory: 'Tea Green', url: 'https:www.coles.com.au/browse/drinks/tea-drinks/tea-green' },
+      //     { extensionCategory: 'Tea Herbal', url: 'https:www.coles.com.au/browse/drinks/tea-drinks/tea-herbal' },
+      //     { extensionCategory: 'Tea Loose Leaf', url: 'https:www.coles.com.au/browse/drinks/tea-drinks/tea-loose-leaf' },
+      //     { extensionCategory: 'Tea Organic', url: 'https:www.coles.com.au/browse/drinks/tea-drinks/tea-organic' },
+      //     { extensionCategory: 'Tea White', url: 'https://www.coles.com.au/browse/drinks/tea-drinks/tea-white' },
+      //   ],
+      // },
+      // {
+      //   subCategory: 'Water',
+      //   childItems: [
+      //     { extensionCategory: 'Flavoured Water', url: 'https:www.coles.com.au/browse/drinks/water/flavoured-water' },
+      //     { extensionCategory: 'Mineral Water', url: 'https:www.coles.com.au/browse/drinks/water/mineral-water' },
+      //     { extensionCategory: 'Sparkling Water', url: 'https:www.coles.com.au/browse/drinks/water/sparkling-water' },
+      //     { extensionCategory: 'Still Water', url: 'https:www.coles.com.au/browse/drinks/water/still-water' },
+      //   ],
+      // },
     ],
   },
 

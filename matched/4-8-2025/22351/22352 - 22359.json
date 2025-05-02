@@ -1,0 +1,362 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-rockmelon-half-1-each-5536970",
+    "name": "Coles Rockmelon Half | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5536970.jpg&w=640&q=90",
+    "source_id": "5536970",
+    "barcode": "0266962000001",
+    "shop": "coles",
+    "category_id": "22359",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "VIC",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/112533/fresh-rockmelon-half",
+    "name": "Fresh Rockmelon Half Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/112533.jpg",
+    "source_id": "112533",
+    "barcode": "0266962000001",
+    "shop": "Woolworths",
+    "category_id": "22359",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "295",
+        "price_per_unit": "295",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "295",
+        "price_per_unit": "295",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "295",
+        "price_per_unit": "295",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "345",
+        "price_per_unit": "345",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "345",
+        "price_per_unit": "345",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "295",
+        "price_per_unit": "295",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "295",
+        "price_per_unit": "295",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "345",
+        "price_per_unit": "345",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-rockmelon-whole-1-each-428915",
+    "name": "Coles Rockmelon Whole | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F428915.jpg&w=640&q=90",
+    "source_id": "428915",
+    "barcode": "0264050000001",
+    "shop": "coles",
+    "category_id": "22359",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/139806/fresh-rockmelon-whole",
+    "name": "Fresh Rockmelon Whole Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/139806.jpg",
+    "source_id": "139806",
+    "barcode": "0264050000001",
+    "shop": "Woolworths",
+    "category_id": "22359",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-honeydew-melon-whole-1-each-5945620",
+    "name": "Coles Honeydew Melon Whole | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5945620.jpg&w=640&q=90",
+    "source_id": "5945620",
+    "barcode": "0264034000003",
+    "shop": "coles",
+    "category_id": "22359",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "790",
+        "price_per_unit": "790",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/139765/honeydew-fresh",
+    "name": "Honeydew Fresh Whole Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/139765.jpg",
+    "source_id": "139765",
+    "barcode": "0264034000003",
+    "shop": "Woolworths",
+    "category_id": "22359",
+    "weight": "Whole Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "790",
+        "price_per_unit": "790",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

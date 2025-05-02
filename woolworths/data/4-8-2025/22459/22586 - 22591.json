@@ -1,0 +1,42 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/961814/aerogard-home-mosquito-control-plug-in-refill",
+    "name": "Aerogard Home Mosquito Control Plug-In Refill 35mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/961814.jpg",
+    "source_id": "961814",
+    "barcode": "9300701811464",
+    "category_id": "22459",
+    "subcategory_id": "22586",
+    "subsubcategory_id": "22591",
+    "shop": "Woolworths",
+    "weight": "35mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "5000",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/962015/aerogard-home-mosquito-repellent-plug-in-diffuser-refill",
+    "name": "Aerogard Home Mosquito Repellent Plug-In Diffuser & Refill 1 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/962015.jpg",
+    "source_id": "962015",
+    "barcode": "9300701769468",
+    "category_id": "22459",
+    "subcategory_id": "22586",
+    "subsubcategory_id": "22591",
+    "shop": "Woolworths",
+    "weight": "1 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "2000",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720125/fountain-plum-sauce-sauce",
+    "name": "Fountain Plum Sauce 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/720125.jpg",
+    "source_id": "720125",
+    "barcode": "9300681196537",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22814",
+    "shop": "Woolworths",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "152",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

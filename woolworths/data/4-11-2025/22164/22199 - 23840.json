@@ -1,0 +1,22 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/208818/diploma-full-cream-long-life-milk-powder",
+    "name": "Diploma Full Cream Long Life Milk Powder 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/208818.jpg",
+    "source_id": "208818",
+    "barcode": "9310052280024",
+    "category_id": "22164",
+    "subcategory_id": "22199",
+    "subsubcategory_id": "23840",
+    "shop": "Woolworths",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "740",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

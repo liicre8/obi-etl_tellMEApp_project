@@ -1,0 +1,362 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/216872/a2-milk-full-cream-milk",
+    "name": "A2 Milk Full Cream Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/216872.jpg",
+    "source_id": "216872",
+    "barcode": "9335390000011",
+    "category_id": "22089",
+    "subcategory_id": "22132",
+    "subsubcategory_id": "22134",
+    "shop": "Woolworths",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/208064/a2-milk-full-cream-milk",
+    "name": "A2 Milk Full Cream Milk 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/208064.jpg",
+    "source_id": "208064",
+    "barcode": "9335390000035",
+    "category_id": "22089",
+    "subcategory_id": "22132",
+    "subsubcategory_id": "22134",
+    "shop": "Woolworths",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/248009/a2-milk-full-cream-milk-lactose-free",
+    "name": "A2 Milk Full Cream Milk Lactose Free 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/248009.jpg",
+    "source_id": "248009",
+    "barcode": "9335390002237",
+    "category_id": "22089",
+    "subcategory_id": "22132",
+    "subsubcategory_id": "22134",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/239521/a2-milk-lactose-free-full-cream-milk",
+    "name": "A2 Milk Lactose Free Full Cream Milk 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/239521.jpg",
+    "source_id": "239521",
+    "barcode": "9335390002244",
+    "category_id": "22089",
+    "subcategory_id": "22132",
+    "subsubcategory_id": "22134",
+    "shop": "Woolworths",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/330251/dairy-farmers-heart-active-light-milk",
+    "name": "Dairy Farmers Heart Active Light Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/330251.jpg",
+    "source_id": "330251",
+    "barcode": "9310232954790",
+    "category_id": "22089",
+    "subcategory_id": "22132",
+    "subsubcategory_id": "22134",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/365569/macro-organic-full-cream-milk",
+    "name": "Macro Organic Full Cream Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/365569.jpg",
+    "source_id": "365569",
+    "barcode": "9300633215859",
+    "category_id": "22089",
+    "subcategory_id": "22132",
+    "subsubcategory_id": "22134",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "240",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/4428/paris-creek-farms-cream-on-top-full-cream-milk",
+    "name": "Paris Creek Farms Cream On Top Full Cream Milk 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/004428.jpg",
+    "source_id": "4428",
+    "barcode": "9316086001963",
+    "category_id": "22089",
+    "subcategory_id": "22132",
+    "subsubcategory_id": "22134",
+    "shop": "Woolworths",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/4435/paris-creek-farms-full-cream-milk",
+    "name": "Paris Creek Farms Full Cream Milk 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/004435.jpg",
+    "source_id": "4435",
+    "barcode": "9316086001925",
+    "category_id": "22089",
+    "subcategory_id": "22132",
+    "subsubcategory_id": "22134",
+    "shop": "Woolworths",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/109223/pauls-full-cream-milk-milk",
+    "name": "Pauls Full Cream Milk Milk 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/109223.jpg",
+    "source_id": "109223",
+    "barcode": "9310036015628",
+    "category_id": "22089",
+    "subcategory_id": "22132",
+    "subsubcategory_id": "22134",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/44734/pauls-full-cream-milk-milk",
+    "name": "Pauls Full Cream Milk Milk 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/044734.jpg",
+    "source_id": "44734",
+    "barcode": "9310036116493",
+    "category_id": "22089",
+    "subcategory_id": "22132",
+    "subsubcategory_id": "22134",
+    "shop": "Woolworths",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/204746/pauls-smarter-white-low-fat-milk",
+    "name": "Pauls Smarter White Low Fat Milk 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/204746.jpg",
+    "source_id": "204746",
+    "barcode": "9310036039488",
+    "category_id": "22089",
+    "subcategory_id": "22132",
+    "subsubcategory_id": "22134",
+    "shop": "Woolworths",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/217149/pauls-smarter-white-low-fat-milk",
+    "name": "Pauls Smarter White Low Fat Milk 3L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/217149.jpg",
+    "source_id": "217149",
+    "barcode": "9310036026877",
+    "category_id": "22089",
+    "subcategory_id": "22132",
+    "subsubcategory_id": "22134",
+    "shop": "Woolworths",
+    "weight": "3L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "695",
+        "price_per_unit": "232",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/62636/pura-full-cream-milk-milk",
+    "name": "Pura Full Cream Milk 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/062636.jpg",
+    "source_id": "62636",
+    "barcode": "9310232132013",
+    "category_id": "22089",
+    "subcategory_id": "22132",
+    "subsubcategory_id": "22134",
+    "shop": "Woolworths",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "215",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/407509/the-complete-dairy-full-cream-milk",
+    "name": "The Complete Dairy Full Cream Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/407509.jpg",
+    "source_id": "407509",
+    "barcode": "9310232956589",
+    "category_id": "22089",
+    "subcategory_id": "22132",
+    "subsubcategory_id": "22134",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/665750/woolworths-free-from-lactose-free-full-cream-milk",
+    "name": "Woolworths Free From Lactose Free Full Cream Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/665750.jpg",
+    "source_id": "665750",
+    "barcode": "9339687019380",
+    "category_id": "22089",
+    "subcategory_id": "22132",
+    "subsubcategory_id": "22134",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "310",
+        "price_per_unit": "310",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/50923/woolworths-full-cream-milk",
+    "name": "Woolworths Full Cream Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/050923.jpg",
+    "source_id": "50923",
+    "barcode": "9300633963583",
+    "category_id": "22089",
+    "subcategory_id": "22132",
+    "subsubcategory_id": "22134",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "155",
+        "price_per_unit": "155",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/888137/woolworths-full-cream-milk",
+    "name": "Woolworths Full Cream Milk 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/888137.jpg",
+    "source_id": "888137",
+    "barcode": "9300633556143",
+    "category_id": "22089",
+    "subcategory_id": "22132",
+    "subsubcategory_id": "22134",
+    "shop": "Woolworths",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/888140/woolworths-full-cream-milk",
+    "name": "Woolworths Full Cream Milk 3l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/888140.jpg",
+    "source_id": "888140",
+    "barcode": "9300633556150",
+    "category_id": "22089",
+    "subcategory_id": "22132",
+    "subsubcategory_id": "22134",
+    "shop": "Woolworths",
+    "weight": "3L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "435",
+        "price_per_unit": "145",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

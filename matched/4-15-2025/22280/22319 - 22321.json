@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-ham-and-pineapple-pizza-slices-2-pack-600g-5179501",
+    "name": "McCain Ham & Pineapple Pizza Slices 2 Pack | 600g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5179501.jpg&w=640&q=90",
+    "source_id": "5179501",
+    "barcode": "9310174002719",
+    "shop": "coles",
+    "category_id": "22321",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/3496/mccain-pizza-slice-snacks-ham-pineapple",
+    "name": "McCain Pizza Slice Snacks Ham & Pineapple 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/003496.jpg",
+    "source_id": "3496",
+    "barcode": "9310174002719",
+    "shop": "Woolworths",
+    "category_id": "22321",
+    "weight": "2 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "972",
+        "price_per_unit": "162",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-rustica-thin-and-crispy-angus-beef-370g-6839515",
+    "name": "McCain Rustica Thin & Crispy Angus Beef | 370g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6839515.jpg&w=640&q=90",
+    "source_id": "6839515",
+    "barcode": "9310174113880",
+    "shop": "coles",
+    "category_id": "22321",
+    "weight": "370g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": "238",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/315505/mccain-rustica-thin-crispy-australian-angus-beef-pizza",
+    "name": "McCain Rustica Thin & Crispy Australian Angus Beef Pizza 370g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/315505.jpg",
+    "source_id": "315505",
+    "barcode": "9310174113880",
+    "shop": "Woolworths",
+    "category_id": "22321",
+    "weight": "370g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "297",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-frozen-supreme-family-pizza-500g-251124",
+    "name": "McCain Frozen Supreme Family Pizza | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F251124.jpg&w=640&q=90",
+    "source_id": "251124",
+    "barcode": "9310174002504",
+    "shop": "coles",
+    "category_id": "22321",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "170",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/96415/mccain-supreme-pizza",
+    "name": "McCain Supreme Pizza 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/096415.jpg",
+    "source_id": "96415",
+    "barcode": "9310174002504",
+    "shop": "Woolworths",
+    "category_id": "22321",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

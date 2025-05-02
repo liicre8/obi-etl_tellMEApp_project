@@ -1,0 +1,578 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/birds-eye-golden-crunch-potato-hash-browns-800g-4545717",
+    "name": "Birds Eye Golden Crunch Potato Hash Browns | 800g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4545717.jpg&w=640&q=90",
+    "source_id": "4545717",
+    "barcode": "9300462406220",
+    "shop": "coles",
+    "category_id": "",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "688",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/228797/birds-eye-golden-crunch-hash-browns",
+    "name": "Birds Eye Golden Crunch Hash Browns 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/228797.jpg",
+    "source_id": "228797",
+    "barcode": "9300462406220",
+    "shop": "Woolworths",
+    "category_id": "",
+    "weight": "800G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "688",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/birds-eye-golden-crunch-potato-gems-bite-size-hash-brown-900g-5052500",
+    "name": "Birds Eye Golden Crunch Potato Gems Bite Size Hash Brown | 900g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5052500.jpg&w=640&q=90",
+    "source_id": "5052500",
+    "barcode": "9310081128793",
+    "shop": "coles",
+    "category_id": "",
+    "weight": "900g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "722",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180109/birds-eye-potato-gems-bite-size-hash-brown",
+    "name": "Birds Eye Potato Gems Bite Size Hash Brown 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/180109.jpg",
+    "source_id": "180109",
+    "barcode": "9310081128793",
+    "shop": "Woolworths",
+    "category_id": "",
+    "weight": "900g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "722",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/creative-gourmet-frozen-banana-chunks-500g-3059972",
+    "name": "Creative Gourmet Frozen Banana Chunks | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3059972.jpg&w=640&q=90",
+    "source_id": "3059972",
+    "barcode": "9344372003179",
+    "shop": "coles",
+    "category_id": "",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/532199/creative-gourmet-frozen-banana-chunks",
+    "name": "Creative Gourmet Frozen Banana Chunks 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/532199.jpg",
+    "source_id": "532199",
+    "barcode": "9344372003179",
+    "shop": "Woolworths",
+    "category_id": "",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dr.-oetker-frozen-gluten-free-ristorante-mozzarella-pizza-370g-3217949",
+    "name": "Dr. Oetker Frozen Gluten Free Ristorante M ... 370g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3217949.jpg&w=640&q=90",
+    "source_id": "3217949",
+    "barcode": "4001724025603",
+    "shop": "coles",
+    "category_id": "",
+    "weight": "370g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "270",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/663660/dr-oetker-ristorante-mozzarella-pizza-gluten-free",
+    "name": "Dr. Oetker Ristorante Mozzarella Pizza Gluten Free 370g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/663660.jpg",
+    "source_id": "663660",
+    "barcode": "4001724025603",
+    "shop": "Woolworths",
+    "category_id": "",
+    "weight": "370g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "270",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/birds-eye-steam-fresh-carrot-cauliflower-and-broccoli-mix-5-pack-750g-2740085",
+    "name": "Birds Eye Steam Fresh Carrot Cauliflower & Broccoli Mix 5 pack | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2740085.jpg&w=640&q=90",
+    "source_id": "2740085",
+    "barcode": "9310081114475",
+    "shop": "coles",
+    "category_id": "",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "733",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180752/birds-eye-steam-fresh-carrot-cauliflower-broccoli",
+    "name": "Birds Eye Steam Fresh Carrot, Cauliflower & Broccoli 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/180752.jpg",
+    "source_id": "180752",
+    "barcode": "9310081114475",
+    "shop": "Woolworths",
+    "category_id": "",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "733",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/birds-eye-chinese-stir-fry-carrot-broccoli-green-beans-onion-capsicum-and-baby-corn-mix-850g-8145798",
+    "name": "Birds Eye Chinese Stir Fry Carrot Broccoli Green Beans Onion Capsicum & Baby Corn Mix | 850g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8145798.jpg&w=640&q=90",
+    "source_id": "8145798",
+    "barcode": "9310081453338",
+    "shop": "coles",
+    "category_id": "",
+    "weight": "850g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "647",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/705694/birds-eye-stir-fry-mix-chinese",
+    "name": "Birds Eye Stir Fry Mix Chinese 850g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/705694.jpg",
+    "source_id": "705694",
+    "barcode": "9310081453338",
+    "shop": "Woolworths",
+    "category_id": "",
+    "weight": "850G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "647",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/birds-eye-veggie-rice-cauliflower-500g-3314162",
+    "name": "Birds Eye Veggie Rice Cauliflower | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3314162.jpg&w=640&q=90",
+    "source_id": "3314162",
+    "barcode": "9310081122296",
+    "shop": "coles",
+    "category_id": "",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802638/birds-eye-veggie-rice-cauliflower",
+    "name": "Birds Eye Veggie Rice Cauliflower 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/802638.jpg",
+    "source_id": "802638",
+    "barcode": "9310081122296",
+    "shop": "Woolworths",
+    "category_id": "",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/farm-pride-frozen-egg-whites-950ml-1909588",
+    "name": "Farm Pride Frozen Egg Whites | 950mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1909588.jpg&w=640&q=90",
+    "source_id": "1909588",
+    "barcode": "9310229070847",
+    "shop": "coles",
+    "category_id": "",
+    "weight": "950ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "116",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/947804/farm-pride-frozen-egg-whites",
+    "name": "Farm Pride Frozen Egg Whites 950ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/947804.jpg",
+    "source_id": "947804",
+    "barcode": "9310229070847",
+    "shop": "Woolworths",
+    "category_id": "",
+    "weight": "950mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1105",
+        "price_per_unit": "116",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fry's-frozen-gluten-free-nuggets-with-rice-protein-and-chia-240g-2750034",
+    "name": "Fry's Frozen Gluten Free Nuggets With Rice Protein & Chia | 240g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2750034.jpg&w=640&q=90",
+    "source_id": "2750034",
+    "barcode": "6005207001175",
+    "shop": "coles",
+    "category_id": "",
+    "weight": "240g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "710",
+        "price_per_unit": "296",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/937534/fry-s-plant-based-rice-protein-chia-seed-nuggets",
+    "name": "Fry's Plant Based Rice Protein & Chia Seed Nuggets 240g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/937534.jpg",
+    "source_id": "937534",
+    "barcode": "6005207001175",
+    "shop": "Woolworths",
+    "category_id": "",
+    "weight": "240g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "745",
+        "price_per_unit": "310",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/haagen-dazs-belgian-chocolate-ice-cream-tub-457ml-2752674",
+    "name": "Haagen Dazs Belgian Chocolate Ice Cream Tub | 457mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2752674.jpg&w=640&q=90",
+    "source_id": "2752674",
+    "barcode": "3415581113365",
+    "shop": "coles",
+    "category_id": "",
+    "weight": "457ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "295",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/505061/haagen-dazs-ice-cream-belgian-chocolate",
+    "name": "Haagen-Dazs Ice Cream Belgian Chocolate 457mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/505061.jpg",
+    "source_id": "505061",
+    "barcode": "3415581113365",
+    "shop": "Woolworths",
+    "category_id": "",
+    "weight": "457mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "175",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/haagen-dazs-vanilla-ice-cream-tubs-457ml-2752685",
+    "name": "Haagen-Dazs Vanilla Ice Cream Tubs | 457mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2752685.jpg&w=640&q=90",
+    "source_id": "2752685",
+    "barcode": "3415581101362",
+    "shop": "coles",
+    "category_id": "",
+    "weight": "457ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "295",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/503673/haagen-dazs-ice-cream-vanilla-ice-cream",
+    "name": "Haagen-Dazs Ice Cream Vanilla 457mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/503673.jpg",
+    "source_id": "503673",
+    "barcode": "3415581101362",
+    "shop": "Woolworths",
+    "category_id": "",
+    "weight": "457mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "175",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hanabi-frozen-edamame-soybean-pods-400g-2143224",
+    "name": "Hanabi Frozen Edamame Soybean Pods | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2143224.jpg&w=640&q=90",
+    "source_id": "2143224",
+    "barcode": "9310432301004",
+    "shop": "coles",
+    "category_id": "",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "975",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/477938/hanabi-edamame-soybean-pods-soybean-pods",
+    "name": "Hanabi Edamame Soybean Pods Soybean Pods 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/477938.jpg",
+    "source_id": "477938",
+    "barcode": "9310432301004",
+    "shop": "Woolworths",
+    "category_id": "",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "98",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/heinz-frozen-broad-beans-500g-8140251",
+    "name": "Heinz Frozen Broad Beans | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8140251.jpg&w=640&q=90",
+    "source_id": "8140251",
+    "barcode": "9300657793074",
+    "shop": "coles",
+    "category_id": "",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "640",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/706960/heinz-frozen-broad-beans-broad",
+    "name": "Heinz Frozen Broad Beans 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/706960.jpg",
+    "source_id": "706960",
+    "barcode": "9300657793074",
+    "shop": "Woolworths",
+    "category_id": "",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/heinz-steam-fresh-broccoli-carrots-and-cauliflower-frozen-vegetables-450g-8140230",
+    "name": "Heinz Steam Fresh Broccoli Carrots & Cauliflower Frozen Vegetables | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8140230.jpg&w=640&q=90",
+    "source_id": "8140230",
+    "barcode": "9300657782528",
+    "shop": "coles",
+    "category_id": "",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "889",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/211189/heinz-steam-fresh-vegetables-frozen-broccoli-carrot-cauliflower",
+    "name": "Heinz Steam Fresh Vegetables Frozen Broccoli Carrot Cauliflower 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/211189.jpg",
+    "source_id": "211189",
+    "barcode": "9300657782528",
+    "shop": "Woolworths",
+    "category_id": "",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "889",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/heinz-steam-fresh-carrots-corn-and-broccoli-frozen-vegetables-450g-8140229",
+    "name": "Heinz Steam Fresh Carrots Corn & Broccoli Frozen Vegetables | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8140229.jpg&w=640&q=90",
+    "source_id": "8140229",
+    "barcode": "9300657782504",
+    "shop": "coles",
+    "category_id": "",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "889",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/211190/heinz-steam-fresh-vegetables-frozen-veg-carrots-corn-broccoli",
+    "name": "Heinz Steam Fresh Vegetables Frozen Veg Carrots, Corn & Broccoli 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/211190.jpg",
+    "source_id": "211190",
+    "barcode": "9300657782504",
+    "shop": "Woolworths",
+    "category_id": "",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "889",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/juicies-tropical-10-pack-1l-5489247",
+    "name": "Juicies Tropical 10 Pack | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5489247.jpg&w=640&q=90",
+    "source_id": "5489247",
+    "barcode": "9415717610236",
+    "shop": "coles",
+    "category_id": "",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "70",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/146149/juicies-tropical-frozen-dessert-sticks",
+    "name": "Juicies Tropical Frozen 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/146149.jpg",
+    "source_id": "146149",
+    "barcode": "9415717610236",
+    "shop": "Woolworths",
+    "category_id": "",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

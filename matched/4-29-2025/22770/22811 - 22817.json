@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/la-costena-jalapeno-nacho-slices-210g-8051661",
+    "name": "La Costena Jalapeno Nacho Slices | 210g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8051661.jpg&w=640&q=90",
+    "source_id": "8051661",
+    "barcode": "7501017042197",
+    "shop": "coles",
+    "category_id": "22817",
+    "weight": "210g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "229",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/155088/la-costena-jalapeno-nacho-slices",
+    "name": "La Costena Jalapeno Nacho Slices 210g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/155088.jpg",
+    "source_id": "155088",
+    "barcode": "7501017042197",
+    "shop": "Woolworths",
+    "category_id": "22817",
+    "weight": "210g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

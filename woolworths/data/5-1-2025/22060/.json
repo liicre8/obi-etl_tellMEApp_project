@@ -1,0 +1,60 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/9232/woolworths-custard-filled-profiterole",
+    "name": "Woolworths Custard Filled Profiterole 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/009232.jpg",
+    "source_id": "9232",
+    "barcode": "0283466000009",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "88",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "88",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "88",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/324707/woolworths-sponge-iced-fresh-cream-jam-pink-cake",
+    "name": "Woolworths Sponge Iced Fresh Cream & Jam Pink Cake Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/324707.jpg",
+    "source_id": "324707",
+    "barcode": "0284024000004",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "630",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "630",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

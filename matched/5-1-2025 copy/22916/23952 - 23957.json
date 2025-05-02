@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/purina-felix-as-good-as-it-looks-kitten-menu-cat-food-85g-pouch-12-pack-2283450",
+    "name": "Purina Felix As Good As It Looks Kitten Menu Cat Food 85g Pouch | 12 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2283450.jpg&w=640&q=90",
+    "source_id": "2283450",
+    "barcode": "9300605098602",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "12pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "83",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/844398/felix-as-good-as-it-looks-kitten-menus-jelly-wet-cat-food",
+    "name": "Felix As Good As It Looks Kitten Menus Jelly Wet Cat Food 85g x12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/844398.jpg",
+    "source_id": "844398",
+    "barcode": "9300605098602",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "85G x12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1450",
+        "price_per_unit": "142",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/optimum-kitten-dry-cat-food-with-chicken-800g-3250810",
+    "name": "Optimum Kitten Dry Cat Food with Chicken | 800g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3250810.jpg&w=640&q=90",
+    "source_id": "3250810",
+    "barcode": "9334214044842",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "156",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/694873/optimum-kitten-2-12-months-dry-cat-food-with-chicken",
+    "name": "Optimum Kitten 2-12 months Dry Cat Food with Chicken 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/694873.jpg",
+    "source_id": "694873",
+    "barcode": "9334214044842",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

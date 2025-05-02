@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/pauls-zymil-lactose-free-skim-milk-1l-8972436",
+    "name": "Pauls Zymil Lactose Free Skim Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8972436.jpg&w=640&q=90",
+    "source_id": "8972436",
+    "barcode": "9310036071501",
+    "shop": "coles",
+    "category_id": "23985",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/113025/pauls-zymil-skim-uht-milk",
+    "name": "Pauls Zymil Skim UHT Milk 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/113025.jpg",
+    "source_id": "113025",
+    "barcode": "9310036071501",
+    "shop": "Woolworths",
+    "category_id": "23985",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

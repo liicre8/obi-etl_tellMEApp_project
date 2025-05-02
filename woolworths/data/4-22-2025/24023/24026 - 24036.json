@@ -1,0 +1,154 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/706843/pasta-master-beef-lasagne-null",
+    "name": "Pasta Master Beef Lasagne 1.3kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/706843.jpg",
+    "source_id": "706843",
+    "barcode": "9319946006443",
+    "category_id": "24023",
+    "subcategory_id": "24026",
+    "subsubcategory_id": "24036",
+    "shop": "Woolworths",
+    "weight": "1.3Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "1154",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "1154",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/194648/woolworths-beef-lasagne-null",
+    "name": "Woolworths Beef Lasagne 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/194648.jpg",
+    "source_id": "194648",
+    "barcode": "9313475006189",
+    "category_id": "24023",
+    "subcategory_id": "24026",
+    "subsubcategory_id": "24036",
+    "shop": "Woolworths",
+    "weight": "2Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/681569/woolworths-family-classics-cottage-pie-null",
+    "name": "Woolworths Family Classics Cottage Pie 1.1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/681569.jpg",
+    "source_id": "681569",
+    "barcode": "9339687040377",
+    "category_id": "24023",
+    "subcategory_id": "24026",
+    "subsubcategory_id": "24036",
+    "shop": "Woolworths",
+    "weight": "1.1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/524913/classic-cauliflower-cheese-bake-family-meal",
+    "name": "Classic Cauliflower Cheese Bake Family Meal 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/524913.jpg",
+    "source_id": "524913",
+    "barcode": "781005646232",
+    "category_id": "24023",
+    "subcategory_id": "24026",
+    "subsubcategory_id": "24036",
+    "shop": "Woolworths",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1200",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

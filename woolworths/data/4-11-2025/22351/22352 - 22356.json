@@ -1,0 +1,782 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/259345/grapefruit-red-flesh",
+    "name": "Grapefruit Red Flesh Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/259345.jpg",
+    "source_id": "259345",
+    "barcode": "0266471000004",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22356",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "149",
+        "price_per_unit": "149",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "149",
+        "price_per_unit": "149",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "149",
+        "price_per_unit": "149",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "195",
+        "price_per_unit": "195",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "149",
+        "price_per_unit": "149",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "149",
+        "price_per_unit": "149",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "149",
+        "price_per_unit": "149",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "149",
+        "price_per_unit": "149",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/693501/lemon-lemon",
+    "name": "Lemon 500g Per Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/693501.jpg",
+    "source_id": "693501",
+    "barcode": "9339687382125",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22356",
+    "shop": "Woolworths",
+    "weight": "500G Per Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/259514/lemon-fresh",
+    "name": "Lemon Fresh Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/259514.jpg",
+    "source_id": "259514",
+    "barcode": "0266462000006",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22356",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "103",
+        "price_per_unit": "103",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "103",
+        "price_per_unit": "103",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "103",
+        "price_per_unit": "103",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/245902/lime-fresh",
+    "name": "Lime Fresh Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/245902.jpg",
+    "source_id": "245902",
+    "barcode": "0264048000006",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22356",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/141407/macro-organic-valencia-oranges",
+    "name": "Macro Organic Valencia Oranges 1.5kg Bag",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/141407.jpg",
+    "source_id": "141407",
+    "barcode": "9300633007171",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22356",
+    "shop": "Woolworths",
+    "weight": "1.5Kg Bag",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "890",
+        "price_per_unit": "593",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "890",
+        "price_per_unit": "593",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "890",
+        "price_per_unit": "593",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "890",
+        "price_per_unit": "593",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "890",
+        "price_per_unit": "593",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/314075/mandarin-afourer",
+    "name": "Mandarin Afourer Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/314075.jpg",
+    "source_id": "314075",
+    "barcode": "0264481000007",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22356",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "111",
+        "price_per_unit": "111",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "111",
+        "price_per_unit": "111",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "111",
+        "price_per_unit": "111",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "111",
+        "price_per_unit": "111",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829107/mandarin-amorette-seedless",
+    "name": "Mandarin Amorette® Seedless each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/829107.jpg",
+    "source_id": "829107",
+    "barcode": "0264458000009",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22356",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "95",
+        "price_per_unit": "95",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "95",
+        "price_per_unit": "95",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "95",
+        "price_per_unit": "95",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "95",
+        "price_per_unit": "95",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "95",
+        "price_per_unit": "95",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/651492/mandarin-tangold-seedless",
+    "name": "Mandarin Tangold Seedless Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/651492.jpg",
+    "source_id": "651492",
+    "barcode": "0265838000008",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22356",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "103",
+        "price_per_unit": "103",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "116",
+        "price_per_unit": "116",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "116",
+        "price_per_unit": "116",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "116",
+        "price_per_unit": "116",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "103",
+        "price_per_unit": "103",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "116",
+        "price_per_unit": "116",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "103",
+        "price_per_unit": "103",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "103",
+        "price_per_unit": "103",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "103",
+        "price_per_unit": "103",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/830353/the-odd-bunch-lemon-prepacked",
+    "name": "The Odd Bunch Lemon Prepacked 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/830353.jpg",
+    "source_id": "830353",
+    "barcode": "9300633741563",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22356",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "460",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "270",
+        "price_per_unit": "540",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "270",
+        "price_per_unit": "540",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "230",
+        "price_per_unit": "460",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "230",
+        "price_per_unit": "460",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "230",
+        "price_per_unit": "460",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "230",
+        "price_per_unit": "460",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/830354/the-odd-bunch-lime-prepacked",
+    "name": "The Odd Bunch Lime Prepacked 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/830354.jpg",
+    "source_id": "830354",
+    "barcode": "9300633741457",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22356",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/845671/the-odd-bunch-mandarin-prepacked",
+    "name": "The Odd Bunch Mandarin Prepacked 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/845671.jpg",
+    "source_id": "845671",
+    "barcode": "9300633746179",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22356",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "520",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "520",
+        "price_per_unit": "520",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "520",
+        "price_per_unit": "520",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "520",
+        "price_per_unit": "520",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "520",
+        "price_per_unit": "520",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/141410/mandarin-imperial",
+    "name": "Mandarin Imperial Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/141410.jpg",
+    "source_id": "141410",
+    "barcode": "0265388000008",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22356",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "81",
+        "price_per_unit": "81",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/363764/the-odd-bunch-lemons",
+    "name": "The Odd Bunch Lemons 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/363764.jpg",
+    "source_id": "363764",
+    "barcode": "9339687350094",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22356",
+    "shop": "Woolworths",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "410",
+        "price_per_unit": "547",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/139894/plum-black",
+    "name": "Plum Black Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/139894.jpg",
+    "source_id": "139894",
+    "barcode": "0264040000004",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22356",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "47",
+        "price_per_unit": "47",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "47",
+        "price_per_unit": "47",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "47",
+        "price_per_unit": "47",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "47",
+        "price_per_unit": "47",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "47",
+        "price_per_unit": "47",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "47",
+        "price_per_unit": "47",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "47",
+        "price_per_unit": "47",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "47",
+        "price_per_unit": "47",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/282861/plum-red",
+    "name": "Plum Red Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/282861.jpg",
+    "source_id": "282861",
+    "barcode": "0264041000003",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22356",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "47",
+        "price_per_unit": "47",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "47",
+        "price_per_unit": "47",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "47",
+        "price_per_unit": "47",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "47",
+        "price_per_unit": "47",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "47",
+        "price_per_unit": "47",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "47",
+        "price_per_unit": "47",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "47",
+        "price_per_unit": "47",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "47",
+        "price_per_unit": "47",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

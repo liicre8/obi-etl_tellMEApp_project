@@ -1,0 +1,146 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/kan-tong-honey-soy-and-garlic-stir-fry-meal-base-pouch-175g-3189504",
+    "name": "Kan Tong Honey Soy & Garlic Stir Fry Meal Base Pouch | 175g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3189504.jpg&w=640&q=90",
+    "source_id": "3189504",
+    "barcode": "9310012049500",
+    "shop": "coles",
+    "category_id": "22883",
+    "weight": "175g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "171",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/656962/kan-tong-honey-soy-garlic-meal-base-pouch",
+    "name": "Kan Tong Honey Soy & Garlic Meal Base Pouch 175g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/656962.jpg",
+    "source_id": "656962",
+    "barcode": "9310012049500",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "175g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "211",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kantong-meal-base-pouch-satay-chicken-175g-3189515",
+    "name": "Kantong Meal Base Pouch Satay Chicken | 175g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3189515.jpg&w=640&q=90",
+    "source_id": "3189515",
+    "barcode": "9310012049593",
+    "shop": "coles",
+    "category_id": "22883",
+    "weight": "175g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "167",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/658460/kan-tong-satay-chicken-meal-base-pouch",
+    "name": "Kan Tong Satay Chicken Meal Base Pouch 180g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/658460.jpg",
+    "source_id": "658460",
+    "barcode": "9310012049593",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "180G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "206",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/leggo's-creamy-sundried-tomato-and-garlic-pasta-bake-sauce-500g-2683855",
+    "name": "Leggo's Creamy Sundried Tomato & Garlic Pasta Bake Sauce | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2683855.jpg&w=640&q=90",
+    "source_id": "2683855",
+    "barcode": "9300645111316",
+    "shop": "coles",
+    "category_id": "22883",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "86",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/452061/leggo-s-creamy-sundried-tomato-garlic-pasta-bake-sauce",
+    "name": "Leggo's Creamy Sundried Tomato & Garlic Pasta Bake Sauce 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/452061.jpg",
+    "source_id": "452061",
+    "barcode": "9300645111316",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "86",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-thai-green-curry-recipe-base-175g-8152545",
+    "name": "MasterFoods Thai Green Curry Recipe Base | 175g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8152545.jpg&w=640&q=90",
+    "source_id": "8152545",
+    "barcode": "9310012036333",
+    "shop": "coles",
+    "category_id": "22883",
+    "weight": "175g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "171",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/733692/masterfoods-thai-green-curry-recipe-base",
+    "name": "MasterFoods Thai Green Curry Recipe Base 175g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/733692.jpg",
+    "source_id": "733692",
+    "barcode": "9310012036333",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "175G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "315",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

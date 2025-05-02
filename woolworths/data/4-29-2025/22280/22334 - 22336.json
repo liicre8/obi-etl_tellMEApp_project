@@ -1,0 +1,142 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/388716/coyo-dairy-free-frozen-yoghurt-probiotic-strawberry",
+    "name": "COYO Dairy Free Frozen Yoghurt Probiotic Strawberry 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/388716.jpg",
+    "source_id": "388716",
+    "barcode": "9351851002226",
+    "category_id": "22280",
+    "subcategory_id": "22334",
+    "subsubcategory_id": "22336",
+    "shop": "Woolworths",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/823887/gelativo-gelato-coffee",
+    "name": "Gelativo Gelato Coffee 1l Tub",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/823887.jpg",
+    "source_id": "823887",
+    "barcode": "9333957000047",
+    "category_id": "22280",
+    "subcategory_id": "22334",
+    "subsubcategory_id": "22336",
+    "shop": "Woolworths",
+    "weight": "1L Tub",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "685",
+        "price_per_unit": "69",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/321236/gelativo-mango-sorbet",
+    "name": "Gelativo Mango Sorbet 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/321236.jpg",
+    "source_id": "321236",
+    "barcode": "9333957000054",
+    "category_id": "22280",
+    "subcategory_id": "22334",
+    "subsubcategory_id": "22336",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "685",
+        "price_per_unit": "69",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/227461/gelativo-sorbet-lemon-lime",
+    "name": "Gelativo Sorbet Lemon Lime 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/227461.jpg",
+    "source_id": "227461",
+    "barcode": "9333957000023",
+    "category_id": "22280",
+    "subcategory_id": "22334",
+    "subsubcategory_id": "22336",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "685",
+        "price_per_unit": "69",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/227460/gelativo-sorbet-passionfruit",
+    "name": "Gelativo Sorbet Passionfruit 1l Tub",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/227460.jpg",
+    "source_id": "227460",
+    "barcode": "9333957000030",
+    "category_id": "22280",
+    "subcategory_id": "22334",
+    "subsubcategory_id": "22336",
+    "shop": "Woolworths",
+    "weight": "1L Tub",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "685",
+        "price_per_unit": "69",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387605/golden-north-lemon-sorbet",
+    "name": "Golden North Lemon Sorbet 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/387605.jpg",
+    "source_id": "387605",
+    "barcode": "9331587003322",
+    "category_id": "22280",
+    "subcategory_id": "22334",
+    "subsubcategory_id": "22336",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "945",
+        "price_per_unit": "95",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387500/golden-north-mango-sorbet",
+    "name": "Golden North Mango Sorbet 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/387500.jpg",
+    "source_id": "387500",
+    "barcode": "9331587003339",
+    "category_id": "22280",
+    "subcategory_id": "22334",
+    "subsubcategory_id": "22336",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "945",
+        "price_per_unit": "95",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

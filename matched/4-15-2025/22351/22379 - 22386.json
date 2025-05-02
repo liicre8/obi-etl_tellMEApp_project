@@ -1,0 +1,758 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-carrots-prepacked-1kg-9006560",
+    "name": "Coles Carrots Prepacked | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9006560.jpg&w=640&q=90",
+    "source_id": "9006560",
+    "barcode": "9300633121051",
+    "shop": "coles",
+    "category_id": "22386",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "kg"
+      },
+      {
+        "state": "VIC",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "260",
+        "price_per_unit": "260",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/135369/woolworths-australian-grown-carrots",
+    "name": "Woolworths Australian Grown Carrots 1Kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/135369.jpg",
+    "source_id": "135369",
+    "barcode": "9300633121051",
+    "shop": "Woolworths",
+    "category_id": "22386",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "240",
+        "price_per_unit": "240",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "240",
+        "price_per_unit": "240",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "240",
+        "price_per_unit": "240",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-baby-carrots-prepacked-500g-4236122",
+    "name": "Coles Baby Carrots Prepacked | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4236122.jpg&w=640&q=90",
+    "source_id": "4236122",
+    "barcode": "9300633379568",
+    "shop": "coles",
+    "category_id": "22386",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "190",
+        "price_per_unit": "380",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/742824/woolworths-baby-carrots",
+    "name": "Woolworths Baby Carrots 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/742824.jpg",
+    "source_id": "742824",
+    "barcode": "9300633379568",
+    "shop": "Woolworths",
+    "category_id": "22386",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "120",
+        "price_per_unit": "240",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "180",
+        "price_per_unit": "360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "180",
+        "price_per_unit": "360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "180",
+        "price_per_unit": "360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "100",
+        "price_per_unit": "200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "180",
+        "price_per_unit": "360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "100",
+        "price_per_unit": "200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "120",
+        "price_per_unit": "240",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-beetroot-loose-approx.-170g-each-5288711",
+    "name": "Coles Beetroot Loose | approx. 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5288711.jpg&w=640&q=90",
+    "source_id": "5288711",
+    "barcode": "0264540000009",
+    "shop": "coles",
+    "category_id": "22386",
+    "weight": "170geach",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "110",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "110",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "110",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "68",
+        "price_per_unit": "400",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "110",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "110",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/185267/beetroot-loose",
+    "name": "Beetroot Loose Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/185267.jpg",
+    "source_id": "185267",
+    "barcode": "0264540000009",
+    "shop": "Woolworths",
+    "category_id": "22386",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "195",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "195",
+        "price_per_unit": "195",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "195",
+        "price_per_unit": "195",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "195",
+        "price_per_unit": "195",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "195",
+        "price_per_unit": "195",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "195",
+        "price_per_unit": "195",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "195",
+        "price_per_unit": "195",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-fennel-1-bunch-4910980",
+    "name": "Coles Fennel | 1 bunch",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4910980.jpg&w=640&q=90",
+    "source_id": "4910980",
+    "barcode": "0264515000003",
+    "shop": "coles",
+    "category_id": "22386",
+    "weight": "1bunch",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "bunch"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "bunch"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/137605/fresh-fennel",
+    "name": "Fresh Fennel Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/137605.jpg",
+    "source_id": "137605",
+    "barcode": "0264515000003",
+    "shop": "Woolworths",
+    "category_id": "22386",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-frozen-onion-rings-500g-3412478",
+    "name": "McCain Frozen Onion Rings | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3412478.jpg&w=640&q=90",
+    "source_id": "3412478",
+    "barcode": "9310174170104",
+    "shop": "coles",
+    "category_id": "22386",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "1160",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/741/mccain-pub-style-onion-rings",
+    "name": "McCain Pub Style Onion Rings 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/000741.jpg",
+    "source_id": "741",
+    "barcode": "9310174170104",
+    "shop": "Woolworths",
+    "category_id": "22386",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "1160",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "580",
+        "price_per_unit": "1160",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "580",
+        "price_per_unit": "1160",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "580",
+        "price_per_unit": "1160",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "580",
+        "price_per_unit": "1160",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "580",
+        "price_per_unit": "1160",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "580",
+        "price_per_unit": "1160",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "610",
+        "price_per_unit": "1220",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-brown-onions-1kg-4803991",
+    "name": "Coles Brown Onions | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4803991.jpg&w=640&q=90",
+    "source_id": "4803991",
+    "barcode": "9300633611972",
+    "shop": "coles",
+    "category_id": "22386",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "VIC",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/144336/woolworths-onion-brown-bag",
+    "name": "Woolworths Onion Brown Bag 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/144336.jpg",
+    "source_id": "144336",
+    "barcode": "9300633611972",
+    "shop": "Woolworths",
+    "category_id": "22386",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "170",
+        "price_per_unit": "170",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-eggplant-1-each-4583830",
+    "name": "Coles Eggplant | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4583830.jpg&w=640&q=90",
+    "source_id": "4583830",
+    "barcode": "0267112000001",
+    "shop": "coles",
+    "category_id": "22386",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/174095/eggplant-fresh",
+    "name": "Eggplant Fresh Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/174095.jpg",
+    "source_id": "174095",
+    "barcode": "0267112000001",
+    "shop": "Woolworths",
+    "category_id": "22386",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-beetroot-bunch-1-each-8685660",
+    "name": "Coles Beetroot Bunch | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8685660.jpg&w=640&q=90",
+    "source_id": "8685660",
+    "barcode": "0264539000003",
+    "shop": "coles",
+    "category_id": "22386",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/134221/woolworths-beetroot-bunch",
+    "name": "Woolworths Beetroot Bunch Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/134221.jpg",
+    "source_id": "134221",
+    "barcode": "0264539000003",
+    "shop": "Woolworths",
+    "category_id": "22386",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

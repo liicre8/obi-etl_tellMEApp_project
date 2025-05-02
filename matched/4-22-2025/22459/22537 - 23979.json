@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/brita-water-filter-maxtra-pro-pure-performance-1-pack-1033050",
+    "name": "Brita Water Filter Maxtra Pro Pure Performance | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1033050.jpg&w=640&q=90",
+    "source_id": "1033050",
+    "barcode": "4006387135416",
+    "shop": "coles",
+    "category_id": "23979",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/690724/brita-water-filter-cartridge-maxtra-pro-pure-performance",
+    "name": "Brita Water Filter Cartridge Maxtra Pro Pure Performance 1 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/690724.jpg",
+    "source_id": "690724",
+    "barcode": "4006387135416",
+    "shop": "Woolworths",
+    "category_id": "23979",
+    "weight": "1 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/brita-water-filter-maxtra-pro-pure-performance-6-pack-3779632",
+    "name": "Brita Water Filter Maxtra Pro Pure Performance | 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3779632.jpg&w=640&q=90",
+    "source_id": "3779632",
+    "barcode": "4006387135492",
+    "shop": "coles",
+    "category_id": "23979",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "6000",
+        "price_per_unit": "1000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/703873/brita-water-filter-cartridge-maxtra-pro-pure-performance",
+    "name": "Brita Water Filter Cartridge Maxtra Pro Pure Performance 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/703873.jpg",
+    "source_id": "703873",
+    "barcode": "4006387135492",
+    "shop": "Woolworths",
+    "category_id": "23979",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "6000",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  }
+]

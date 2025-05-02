@@ -352,3 +352,113 @@ await client.send('Storage.clearDataForOrigin', {
 (async () => {
   await scraper();
 })();
+
+
+// import puppeteer from 'puppeteer-extra';
+// import StealthPlugin from 'puppeteer-extra-plugin-stealth';
+// import safeNavigate from './controllers/helpers/coles/safeNavigate.js';
+// import handleSteps from './controllers/helpers/coles/steps.js';
+// import locations from './constant/location.js';
+// import categories from './constant/categories.js';
+// import Product from './models/products.js';
+// import dbConnect from './db/dbConnect.js';
+// import fs from 'fs';
+
+// puppeteer.use(StealthPlugin());
+// const categoriesId = JSON.parse(fs.readFileSync('./constant/categories.json', 'utf8'));
+// const userAgents = [ /* user agents array */ ];
+
+// function delay(time) {
+//   return new Promise((resolve) => setTimeout(resolve, time));
+// }
+
+// const setLocation = async (page, loc) => {
+//   await safeNavigate(page, 'https://www.coles.com.au');
+//   await handleSteps(page, loc, 'https://coles.com.au');
+//   const cookies = await page.cookies();
+//   fs.writeFileSync('./coles/colesCookies.json', JSON.stringify(cookies, null, 2));
+// };
+
+// const scraper = async () => {
+//   await dbConnect();
+//   const browser = await puppeteer.launch({
+//     headless: false,
+//     args: ['--proxy-server=http=api.scraperapi.com:8001'],
+//     executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
+//     userDataDir: 'C:\\Users\\OBI - Wilslie\\AppData\\Local\\Google\\Chrome\\User Data\\Person 1',
+//   });
+
+//   for (const loc of locations) {
+//     const page = await browser.newPage();
+
+//     // Set Location First
+//     await setLocation(page, loc);
+
+//     for (const categ of categories) {
+//       for (const sub of categ.subCategories) {
+//         for (const ext of sub.childItems) {
+//           const category = categ.category.replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
+//           const subCategory = sub.subCategory.replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
+//           let extensionCategory = ext.extensionCategory.replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
+
+//           if (extensionCategory === 'Swimming-Nappies') extensionCategory = 'Swimmers';
+
+//           let url = ext.url || `https://www.coles.com.au/browse/${category.toLowerCase()}/${subCategory.toLowerCase()}/${extensionCategory.toLowerCase()}`;
+
+//           const productPage = await browser.newPage();
+//           const randomUserAgent = userAgents[Math.floor(Math.random() * userAgents.length)];
+
+//           await productPage.setUserAgent(randomUserAgent);
+//           await productPage.authenticate({ username: '0e6c546a09c1e1d91e23cc4683a91174', password: '' });
+//           await safeNavigate(productPage, url);
+//           await delay(5000);
+
+//           let pageNum = 1;
+//           while (true) {
+//             if (pageNum > 1) {
+//               await safeNavigate(productPage, `${url}?page=${pageNum}`);
+//               await delay(5000);
+//             }
+
+//             const products = await productPage.evaluate((category, subCategory, extensionCategory, loc, categoriesId) => {
+//               const items = document.querySelectorAll('section[data-testid="product-tile"]');
+//               if (!items.length) return [];
+
+//               return Array.from(items).map(product => ({
+//                 source_url: product.querySelector('.product__image_area a')?.href || 'N/A',
+//                 category,
+//                 subCategory,
+//                 extensionCategory,
+//                 name: product.querySelector('.product__title')?.textContent.trim() || 'N/A',
+//                 image_url: product.querySelector('img[data-testid="product-image"]')?.src || 'N/A',
+//                 shop: 'coles',
+//               }));
+//             }, category, subCategory, extensionCategory, loc, categoriesId);
+
+//             if (!products.length) break;
+
+//             for (const data of products) {
+//               await Product.updateOne(
+//                 { source_url: data.source_url },
+//                 { $set: data },
+//                 { upsert: true }
+//               );
+//             }
+
+//             pageNum++;
+//           }
+
+//           await productPage.close();
+//         }
+//       }
+//     }
+
+//     await page.close();
+//   }
+
+//   await browser.close();
+// };
+
+// (async () => {
+//   await scraper();
+// })();

@@ -1,0 +1,650 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-classic-soft-drink-multipack-cans-24x375ml-24-pack-7365777", 
+    "name": "Coca-Cola Classic Soft Drink Multipack Cans 24x375mL | 24 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7365777.jpg&w=640&q=90",
+    "source_id": "7365777",
+    "barcode": "9300675000628",
+    "shop": "coles",
+    "category_id": "22219",
+    "weight": "24pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2475",
+        "price_per_unit": "275",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/42605/coca-cola-classic-soft-drink-multipack-cans",
+    "name": "Coca-Cola Classic Soft Drink Multipack Cans 375ml X 24 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/042605.jpg",
+    "source_id": "42605",
+    "barcode": "9300675000628",
+    "shop": "Woolworths",
+    "category_id": "22219",
+    "weight": "375ml X 24 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4125",
+        "price_per_unit": "458",
+        "price_unit": "L"
+      }
+    ]
+  }, 
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-classic-soft-drink-bottle-600ml-5468407",
+    "name": "Coca-Cola Classic Soft Drink Bottle | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5468407.jpg&w=640&q=90",
+    "source_id": "5468407",
+    "barcode": "9300675009829",
+    "shop": "coles",
+    "category_id": "22219",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "425",
+        "price_per_unit": "708",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/93167/coca-cola-classic-soft-drink-bottle",
+    "name": "Coca-Cola Classic Soft Drink Bottle 600ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/093167.jpg",
+    "source_id": "93167",
+    "barcode": "9300675009829",
+    "shop": "Woolworths",
+    "category_id": "22219",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "750",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-classic-soft-drink-can-250ml-2034105",
+    "name": "Coca-Cola Classic Soft Drink Can | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2034105.jpg&w=640&q=90",
+    "source_id": "2034105",
+    "barcode": "9300675057899",
+    "shop": "coles",
+    "category_id": "22219",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "840",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/792193/coca-cola-classic-soft-drink-mini-can-mini-can",
+    "name": "Coca-Cola Classic Soft Drink Mini Can 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/792193.jpg",
+    "source_id": "792193",
+    "barcode": "9300675057899",
+    "shop": "Woolworths",
+    "category_id": "22219",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "1120",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-diet-coke-soft-drink-bottle-600ml-5468440",
+    "name": "Coca-Cola Diet Coke Soft Drink Bottle | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5468440.jpg&w=640&q=90",
+    "source_id": "5468440",
+    "barcode": "9300675009775",
+    "shop": "coles",
+    "category_id": "22219",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "425",
+        "price_per_unit": "708",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/93166/coca-cola-diet-soft-drink-bottle-bottle",
+    "name": "Coca-Cola Diet Soft Drink Bottle 600ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/093166.jpg",
+    "source_id": "93166",
+    "barcode": "9300675009775",
+    "shop": "Woolworths",
+    "category_id": "22219",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "750",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-diet-soft-drink-mini-can-250ml-2034127",
+    "name": "Coca-Cola Diet Soft Drink Mini Can | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2034127.jpg&w=640&q=90",
+    "source_id": "2034127",
+    "barcode": "9300675057936",
+    "shop": "coles",
+    "category_id": "22219",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "840",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/800564/coca-cola-diet-soft-drink-can",
+    "name": "Coca-Cola Diet Soft Drink Can 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/800564.jpg",
+    "source_id": "800564",
+    "barcode": "9300675057936",
+    "shop": "Woolworths",
+    "category_id": "22219",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "1120",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-zero-caffeine-free-coke-soft-drink-6x250ml-6-pack-6670094",
+    "name": "Coca-Cola Zero Caffeine Free Coke Soft Drink 6 ... 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6670094.jpg&w=640&q=90",
+    "source_id": "6670094",
+    "barcode": "9300675094504",
+    "shop": "coles",
+    "category_id": "22219",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "467",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/408346/coca-cola-mini-zero-sugar-zero-caffeine",
+    "name": "Coca-Cola Mini Zero Sugar Zero Caffeine 250ml x 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/408346.jpg",
+    "source_id": "408346",
+    "barcode": "9300675094504",
+    "shop": "Woolworths",
+    "category_id": "22219",
+    "weight": "250ml x 6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "700",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-vanilla-soft-drink-6x250ml-6-pack-4398714",
+    "name": "Coca-Cola Vanilla Soft Drink 6x250mL | 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4398714.jpg&w=640&q=90",
+    "source_id": "4398714",
+    "barcode": "9300675090889",
+    "shop": "coles",
+    "category_id": "22219",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "467",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/244993/coca-cola-vanilla-soft-drink-mini-cans-mini-cans",
+    "name": "Coca-Cola Vanilla Soft Drink Mini Cans 250ml X 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/244993.jpg",
+    "source_id": "244993",
+    "barcode": "9300675090889",
+    "shop": "Woolworths",
+    "category_id": "22219",
+    "weight": "250ml X 6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "700",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-vanilla-soft-drink-multipack-cans-10x375ml-10-pack-1849293",
+    "name": "Coca-Cola Vanilla Soft Drink Multipack Cans 10x3 ... 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1849293.jpg&w=640&q=90",
+    "source_id": "1849293",
+    "barcode": "9300675084147",
+    "shop": "coles",
+    "category_id": "22219",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "533",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/676160/coca-cola-vanilla-soft-drink-multipack-cans",
+    "name": "Coca-Cola Vanilla Soft Drink Multipack Cans 375ml X 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/676160.jpg",
+    "source_id": "676160",
+    "barcode": "9300675084147",
+    "shop": "Woolworths",
+    "category_id": "22219",
+    "weight": "375ml X 10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "280",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-can-250ml-2993761",
+    "name": "Coca-Cola Zero Sugar Soft Drink Can | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2993761.jpg&w=640&q=90",
+    "source_id": "2993761",
+    "barcode": "9300675079587",
+    "shop": "coles",
+    "category_id": "22219",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "840",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/623069/coca-cola-zero-sugar-soft-drink-mini-can",
+    "name": "Coca-Cola Zero Sugar Soft Drink Mini Can 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/623069.jpg",
+    "source_id": "623069",
+    "barcode": "9300675079587",
+    "shop": "Woolworths",
+    "category_id": "22219",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "1120",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fanta-orange-soft-drink-can-250ml-2034149",
+    "name": "Fanta Orange Soft Drink Can | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2034149.jpg&w=640&q=90",
+    "source_id": "2034149",
+    "barcode": "9300675057974",
+    "shop": "coles",
+    "category_id": "22219",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "840",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/25832/fanta-orange-soft-drink-can",
+    "name": "Fanta Orange Soft Drink Can 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/025832.jpg",
+    "source_id": "25832",
+    "barcode": "9300675057974",
+    "shop": "Woolworths",
+    "category_id": "22219",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "1120",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kirks-sugar-free-lemon-soft-drink-10x375ml-10-pack-1181261",
+    "name": "Kirks Sugar Free Lemon Soft Drink 10x375mL | 10 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1181261.jpg&w=640&q=90",
+    "source_id": "1181261",
+    "barcode": "9300624016571",
+    "shop": "coles",
+    "category_id": "22219",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "240",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/317388/kirks-sugar-free-lemon-squash-soft-drink-multipack-cans",
+    "name": "Kirks Sugar Free Lemon Squash Soft Drink Multipack Cans 375ml x10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/317388.jpg",
+    "source_id": "317388",
+    "barcode": "9300624016571",
+    "shop": "Woolworths",
+    "category_id": "22219",
+    "weight": "375mL x10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1575",
+        "price_per_unit": "420",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mountain-dew-energised-soft-drink-multipack-cans-375ml-x-24-pack-24-pack-3613108",
+    "name": "Mountain Dew Energised Soft Drink Multipack  ... 24 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3613108.jpg&w=640&q=90",
+    "source_id": "3613108",
+    "barcode": "9313820002439",
+    "shop": "coles",
+    "category_id": "22219",
+    "weight": "24pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3750",
+        "price_per_unit": "417",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/62335/mountain-dew-energised-soft-drink-multipack-cans",
+    "name": "Mountain Dew Energised Soft Drink Multipack Cans 375ml x 24 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/062335.jpg",
+    "source_id": "62335",
+    "barcode": "9313820002439",
+    "shop": "Woolworths",
+    "category_id": "22219",
+    "weight": "375mL x 24 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2360",
+        "price_per_unit": "262",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pepsi-max-no-sugar-cola-soft-drink-bottle-600ml-9107681",
+    "name": "Pepsi Max No Sugar Cola Soft Drink Bottle | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9107681.jpg&w=640&q=90",
+    "source_id": "9107681",
+    "barcode": "9313820000862",
+    "shop": "coles",
+    "category_id": "22219",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "667",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/175763/pepsi-max-no-sugar-cola-soft-drink-bottle",
+    "name": "Pepsi Max No Sugar Cola Soft Drink Bottle 600ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/175763.jpg",
+    "source_id": "175763",
+    "barcode": "9313820000862",
+    "shop": "Woolworths",
+    "category_id": "22219",
+    "weight": "600mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "700",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/solo-thirst-crusher-original-lemon-soft-drink-cans-multipack-375ml-x-10-pack-10-pack-2684144",
+    "name": "Solo Thirst Crusher Original Lemon Soft Drink Can ... 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2684144.jpg&w=640&q=90",
+    "source_id": "2684144",
+    "barcode": "9315596005782",
+    "shop": "coles",
+    "category_id": "22219",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1140",
+        "price_per_unit": "304",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/442191/solo-thirst-crusher-original-lemon-soft-drink-cans-multipack",
+    "name": "Solo Thirst Crusher Original Lemon Soft Drink Cans Multipack 375ml x 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/442191.jpg",
+    "source_id": "442191",
+    "barcode": "9315596005782",
+    "shop": "Woolworths",
+    "category_id": "22219",
+    "weight": "375mL x 10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1995",
+        "price_per_unit": "532",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sprite-lemonade-soft-drink-bottle-600ml-5603841",
+    "name": "Sprite Lemonade Soft Drink Bottle | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5603841.jpg&w=640&q=90",
+    "source_id": "5603841",
+    "barcode": "9300675009867",
+    "shop": "coles",
+    "category_id": "22219",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "425",
+        "price_per_unit": "708",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/93187/sprite-lemonade-soft-drink-bottle",
+    "name": "Sprite Lemonade Soft Drink Bottle 600ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/093187.jpg",
+    "source_id": "93187",
+    "barcode": "9300675009867",
+    "shop": "Woolworths",
+    "category_id": "22219",
+    "weight": "600mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "750",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sprite-lemonade-soft-drink-can-250ml-2034138",
+    "name": "Sprite Lemonade Soft Drink Can | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2034138.jpg&w=640&q=90",
+    "source_id": "2034138",
+    "barcode": "9300675057950",
+    "shop": "coles",
+    "category_id": "22219",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "840",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/792155/sprite-lemonade-soft-drink-can",
+    "name": "Sprite Lemonade Soft Drink Can 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/792155.jpg",
+    "source_id": "792155",
+    "barcode": "9300675057950",
+    "shop": "Woolworths",
+    "category_id": "22219",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "1120",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sprite-lemonade-soft-drink-cans-24x375ml-24-pack-7365904",
+    "name": "Sprite Lemonade Soft Drink Cans 24x375ml | 24 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7365904.jpg&w=640&q=90",
+    "source_id": "7365904",
+    "barcode": "9300675003131",
+    "shop": "coles",
+    "category_id": "22219",
+    "weight": "24pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2250",
+        "price_per_unit": "250",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/370739/sprite-lemonade-soft-drink-cans",
+    "name": "Sprite Lemonade Soft Drink Cans 375ml x24 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/370739.jpg",
+    "source_id": "370739",
+    "barcode": "9300675003131",
+    "shop": "Woolworths",
+    "category_id": "22219",
+    "weight": "375mL x24 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2635",
+        "price_per_unit": "293",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sprite-zero-sugar-lemonade-soft-drink-bottle-600ml-4378444",
+    "name": "Sprite Zero Sugar Lemonade Soft Drink Bottle | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4378444.jpg&w=640&q=90",
+    "source_id": "4378444",
+    "barcode": "9300675087117",
+    "shop": "coles",
+    "category_id": "22219",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "425",
+        "price_per_unit": "708",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/864460/sprite-zero-sugar-soft-drink-bottle",
+    "name": "Sprite Zero Sugar Soft Drink Bottle 600ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/864460.jpg",
+    "source_id": "864460",
+    "barcode": "9300675087117",
+    "shop": "Woolworths",
+    "category_id": "22219",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "750",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

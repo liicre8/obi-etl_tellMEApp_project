@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/deeko-white-lunch-napkins-1-ply-75-pack-4329959",
+    "name": "Deeko White Lunch Napkins 1 Ply | 75 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4329959.jpg&w=640&q=90",
+    "source_id": "4329959",
+    "barcode": "9310004261910",
+    "shop": "coles",
+    "category_id": "22581",
+    "weight": "75pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "400",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/31424/deeko-extra-thick-serviette-1ply",
+    "name": "Deeko Extra Thick Serviette 1ply 75 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/031424.jpg",
+    "source_id": "31424",
+    "barcode": "9310004261910",
+    "shop": "Woolworths",
+    "category_id": "22581",
+    "weight": "75 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "3",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

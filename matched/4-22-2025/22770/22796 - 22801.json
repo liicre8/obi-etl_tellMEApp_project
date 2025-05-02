@@ -1,0 +1,506 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/hamper-corned-beef-original-canned-meat-200g-7230042",
+    "name": "Hamper Corned Beef Original Canned Meat | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7230042.jpg&w=640&q=90",
+    "source_id": "7230042",
+    "barcode": "9300657309725",
+    "shop": "coles",
+    "category_id": "22801",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "2900",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/614359/hamper-corned-beef-original-canned-meat",
+    "name": "Hamper Corned Beef Original Canned Meat 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/614359.jpg",
+    "source_id": "614359",
+    "barcode": "9300657309725",
+    "shop": "Woolworths",
+    "category_id": "22801",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hamper-regular-corned-beef-340g-118612",
+    "name": "Hamper Regular Corned Beef | 340g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F118612.jpg&w=640&q=90",
+    "source_id": "118612",
+    "barcode": "9310451000018",
+    "shop": "coles",
+    "category_id": "22801",
+    "weight": "340g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "1912",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33976/hamper-corned-beef-original-canned-meat",
+    "name": "Hamper Corned Beef Original Canned Meat 340g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033976.jpg",
+    "source_id": "33976",
+    "barcode": "9310451000018",
+    "shop": "Woolworths",
+    "category_id": "22801",
+    "weight": "340G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "860",
+        "price_per_unit": "2529",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harvest-braised-steak-and-onions-425g-5227820",
+    "name": "Harvest Braised Steak & Onions | 425g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5227820.jpg&w=640&q=90",
+    "source_id": "5227820",
+    "barcode": "9300645041941",
+    "shop": "coles",
+    "category_id": "22801",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "118",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/8229/harvest-beef-braised-steak-onion",
+    "name": "Harvest Beef Braised Steak & Onion 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/008229.jpg",
+    "source_id": "8229",
+    "barcode": "9300645041941",
+    "shop": "Woolworths",
+    "category_id": "22801",
+    "weight": "425G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "124",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harvest-hearty-irish-stew-425g-125323",
+    "name": "Harvest Hearty Irish Stew | 425g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F125323.jpg&w=640&q=90",
+    "source_id": "125323",
+    "barcode": "9300645041385",
+    "shop": "coles",
+    "category_id": "22801",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "118",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33996/harvest-beef-irish-stew",
+    "name": "Harvest Beef Irish Stew 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033996.jpg",
+    "source_id": "33996",
+    "barcode": "9300645041385",
+    "shop": "Woolworths",
+    "category_id": "22801",
+    "weight": "425G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "124",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harvest-vegetables-and-steak-425g-125301",
+    "name": "Harvest Vegetables & Steak | 425g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F125301.jpg&w=640&q=90",
+    "source_id": "125301",
+    "barcode": "9300645041705",
+    "shop": "coles",
+    "category_id": "22801",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "118",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/34017/harvest-beef-steak-vegetables",
+    "name": "Harvest Beef Steak Vegetables 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/034017.jpg",
+    "source_id": "34017",
+    "barcode": "9300645041705",
+    "shop": "Woolworths",
+    "category_id": "22801",
+    "weight": "425G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "124",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/harvest-vegetables-and-sausages-425g-125334",
+    "name": "Harvest Vegetables & Sausages | 425g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F125334.jpg&w=640&q=90",
+    "source_id": "125334",
+    "barcode": "9300645041620",
+    "shop": "coles",
+    "category_id": "22801",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "118",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/34021/harvest-sausages-vegetables",
+    "name": "Harvest Sausages Vegetables 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/034021.jpg",
+    "source_id": "34021",
+    "barcode": "9300645041620",
+    "shop": "Woolworths",
+    "category_id": "22801",
+    "weight": "425G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "124",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/plumrose-leg-ham-450g-118565",
+    "name": "Plumrose Leg Ham | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F118565.jpg&w=640&q=90",
+    "source_id": "118565",
+    "barcode": "9300645060683",
+    "shop": "coles",
+    "category_id": "22801",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "1556",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/36434/plumrose-ham-leg",
+    "name": "Plumrose Ham Leg 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/036434.jpg",
+    "source_id": "36434",
+    "barcode": "9300645060683",
+    "shop": "Woolworths",
+    "category_id": "22801",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "1556",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/plumrose-canned-spiced-ham-340g-2737626",
+    "name": "Plumrose Canned Spiced Ham | 340g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2737626.jpg&w=640&q=90",
+    "source_id": "2737626",
+    "barcode": "9341370003125",
+    "shop": "coles",
+    "category_id": "22801",
+    "weight": "340g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "956",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/800494/plumrose-ham-spiced",
+    "name": "Plumrose Ham Spiced 340g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/800494.jpg",
+    "source_id": "800494",
+    "barcode": "9341370003125",
+    "shop": "Woolworths",
+    "category_id": "22801",
+    "weight": "340G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "956",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/podravka-beef-goulash-300g-6331496",
+    "name": "Podravka Beef Goulash | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6331496.jpg&w=640&q=90",
+    "source_id": "6331496",
+    "barcode": "9322715020069",
+    "shop": "coles",
+    "category_id": "22801",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "167",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/46607/podravka-beef-goulash",
+    "name": "Podravka Beef Goulash 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/046607.jpg",
+    "source_id": "46607",
+    "barcode": "9322715020069",
+    "shop": "Woolworths",
+    "category_id": "22801",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/spam-classic-ham-340g-118521",
+    "name": "Spam Classic Ham | 340g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F118521.jpg&w=640&q=90",
+    "source_id": "118521",
+    "barcode": "9310095002553",
+    "shop": "coles",
+    "category_id": "22801",
+    "weight": "340g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "2000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33964/spam-ham-classic",
+    "name": "Spam Ham Classic 340g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033964.jpg",
+    "source_id": "33964",
+    "barcode": "9310095002553",
+    "shop": "Woolworths",
+    "category_id": "22801",
+    "weight": "340G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/spam-ham-with-real-bacon-340g-7318744",
+    "name": "Spam Ham with Real Bacon | 340g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7318744.jpg&w=640&q=90",
+    "source_id": "7318744",
+    "barcode": "37600528139",
+    "shop": "coles",
+    "category_id": "22801",
+    "weight": "340g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "2000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/324925/spam-ham-with-real-bacon",
+    "name": "Spam Ham With Real Bacon 340g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/324925.jpg",
+    "source_id": "324925",
+    "barcode": "37600528139",
+    "shop": "Woolworths",
+    "category_id": "22801",
+    "weight": "340G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/stagg-chili-dynamite-hot-chili-with-beans-425g-3398173",
+    "name": "Stagg Chili Dynamite Hot Chili With Beans | 425g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3398173.jpg&w=640&q=90",
+    "source_id": "3398173",
+    "barcode": "71106843396",
+    "shop": "coles",
+    "category_id": "22801",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "118",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/808574/stagg-dynamite-hot-chili-with-beans",
+    "name": "Stagg Dynamite Hot Chili With Beans 425G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/808574.jpg",
+    "source_id": "808574",
+    "barcode": "71106843396",
+    "shop": "Woolworths",
+    "category_id": "22801",
+    "weight": "425G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "118",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tom-piper-braised-steak-onion-400g-5750165",
+    "name": "Tom Piper Braised Steak Onion | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5750165.jpg&w=640&q=90",
+    "source_id": "5750165",
+    "barcode": "9310709000951",
+    "shop": "coles",
+    "category_id": "22801",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "90",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/28286/tom-piper-braised-steak-onions-canned-meal",
+    "name": "Tom Piper Braised Steak & Onions Canned Meal 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/028286.jpg",
+    "source_id": "28286",
+    "barcode": "9310709000951",
+    "shop": "Woolworths",
+    "category_id": "22801",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "90",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tom-piper-vegetables-savoury-mince-400g-277944",
+    "name": "Tom Piper Vegetables Savoury Mince | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F277944.jpg&w=640&q=90",
+    "source_id": "277944",
+    "barcode": "9310709001019",
+    "shop": "coles",
+    "category_id": "22801",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "90",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/28229/tom-piper-savoury-mince-vegetables-canned-meal",
+    "name": "Tom Piper Savoury Mince & Vegetables Canned Meal 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/028229.jpg",
+    "source_id": "28229",
+    "barcode": "9310709001019",
+    "shop": "Woolworths",
+    "category_id": "22801",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "90",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

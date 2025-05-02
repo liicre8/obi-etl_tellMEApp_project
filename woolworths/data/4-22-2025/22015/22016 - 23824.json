@@ -1,0 +1,42 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/603306/bonds-stretchies-bib-one-size-assorted",
+    "name": "Bonds Stretchies Bib One Size Assorted Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/603306.jpg",
+    "source_id": "603306",
+    "barcode": "9351257740401",
+    "category_id": "22015",
+    "subcategory_id": "22016",
+    "subsubcategory_id": "23824",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/378160/little-one-s-bright-baby-bibs-assorted-bright",
+    "name": "Little One's Bright Baby Bibs Assorted 5 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/378160.jpg",
+    "source_id": "378160",
+    "barcode": "9337672067248",
+    "category_id": "22015",
+    "subcategory_id": "22016",
+    "subsubcategory_id": "23824",
+    "shop": "Woolworths",
+    "weight": "5 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "220",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

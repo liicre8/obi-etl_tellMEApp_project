@@ -1,0 +1,848 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-cabbage-half-1-each-5057344",
+    "name": "Coles Organic Cabbage Half | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5057344.jpg&w=640&q=90",
+    "source_id": "5057344",
+    "barcode": "0264835000004",
+    "shop": "coles",
+    "category_id": "22381",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/149792/macro-fresh-cabbage-organic-green-half",
+    "name": "Macro Fresh Cabbage Organic Green Half Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/149792.jpg",
+    "source_id": "149792",
+    "barcode": "0264835000004",
+    "shop": "Woolworths",
+    "category_id": "22381",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-mixed-baby-cos-lettuce-2-pack-7367025",
+    "name": "Coles Mixed Baby Cos Lettuce | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7367025.jpg&w=640&q=90",
+    "source_id": "7367025",
+    "barcode": "0260476000007",
+    "shop": "coles",
+    "category_id": "22381",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "330",
+        "price_per_unit": "165",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/786006/macro-fresh-lettuce-baby-cos-organic-pack",
+    "name": "Macro Fresh Lettuce Baby Cos Organic Pack Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/786006.jpg",
+    "source_id": "786006",
+    "barcode": "0260476000007",
+    "shop": "Woolworths",
+    "category_id": "22381",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-green-kale-1-each-1058491",
+    "name": "Coles Organic Green Kale | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1058491.jpg&w=640&q=90",
+    "source_id": "1058491",
+    "barcode": "0261670000008",
+    "shop": "coles",
+    "category_id": "22381",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/772786/macro-organic-kale",
+    "name": "Macro Organic Kale Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/772786.jpg",
+    "source_id": "772786",
+    "barcode": "0261670000008",
+    "shop": "Woolworths",
+    "category_id": "22381",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-half-drumhead-cabbage-1-each-3666396",
+    "name": "Coles Half Drumhead Cabbage | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3666396.jpg&w=640&q=90",
+    "source_id": "3666396",
+    "barcode": "0265133000000",
+    "shop": "coles",
+    "category_id": "22381",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "each"
+      },
+      {
+        "state": "VIC",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "470",
+        "price_per_unit": "470",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/134986/cabbage-red",
+    "name": "Cabbage Red Half Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/134986.jpg",
+    "source_id": "134986",
+    "barcode": "0265133000000",
+    "shop": "Woolworths",
+    "category_id": "22381",
+    "weight": "Half Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "340",
+        "price_per_unit": "340",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "395",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "440",
+        "price_per_unit": "440",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "345",
+        "price_per_unit": "345",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "440",
+        "price_per_unit": "440",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-half-savoy-cabbage-1-each-3667945",
+    "name": "Coles Half Savoy Cabbage | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3667945.jpg&w=640&q=90",
+    "source_id": "3667945",
+    "barcode": "0265135000008",
+    "shop": "coles",
+    "category_id": "22381",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/135030/cabbage-savoy",
+    "name": "Cabbage Savoy Half Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/135030.jpg",
+    "source_id": "135030",
+    "barcode": "0265135000008",
+    "shop": "Woolworths",
+    "category_id": "22381",
+    "weight": "Half Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "395",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "440",
+        "price_per_unit": "440",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "440",
+        "price_per_unit": "440",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cauliflower-half-1-each-4601320",
+    "name": "Coles Cauliflower Half | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4601320.jpg&w=640&q=90",
+    "source_id": "4601320",
+    "barcode": "0265159000008",
+    "shop": "coles",
+    "category_id": "22381",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "370",
+        "price_unit": "each"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "370",
+        "price_per_unit": "370",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "370",
+        "price_per_unit": "370",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "370",
+        "price_per_unit": "370",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/135568/fresh-cauliflower",
+    "name": "Fresh Cauliflower Half Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/135568.jpg",
+    "source_id": "135568",
+    "barcode": "0265159000008",
+    "shop": "Woolworths",
+    "category_id": "22381",
+    "weight": "Half Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "245",
+        "price_per_unit": "245",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-celery-sticks-prepacked-300g-1069160",
+    "name": "Coles Celery Sticks Prepacked | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1069160.jpg&w=640&q=90",
+    "source_id": "1069160",
+    "barcode": "9300633416492",
+    "shop": "coles",
+    "category_id": "22381",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "1633",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/745467/woolworths-celery-sticks",
+    "name": "Woolworths Celery Sticks 300g Punnet",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/745467.jpg",
+    "source_id": "745467",
+    "barcode": "9300633416492",
+    "shop": "Woolworths",
+    "category_id": "22381",
+    "weight": "300G Punnet",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "1633",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "490",
+        "price_per_unit": "1633",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "1633",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "1633",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "1633",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "1633",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/alfalfa-sprouts-prepacked-125g-4544805",
+    "name": "Alfalfa Sprouts Prepacked | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4544805.jpg&w=640&q=90",
+    "source_id": "4544805",
+    "barcode": "93245975",
+    "shop": "coles",
+    "category_id": "22381",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "280",
+        "price_per_unit": "2240",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147947/aussie-sprouts-alfalfa-sprouts",
+    "name": "Aussie Sprouts Alfalfa Sprouts 125g Punnet",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/147947.jpg",
+    "source_id": "147947",
+    "barcode": "93245975",
+    "shop": "Woolworths",
+    "category_id": "22381",
+    "weight": "125G Punnet",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "280",
+        "price_per_unit": "2240",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bean-shoots-prepacked-250g-4544770",
+    "name": "Bean Shoots Prepacked | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4544770.jpg&w=640&q=90",
+    "source_id": "4544770",
+    "barcode": "9300633443733",
+    "shop": "coles",
+    "category_id": "22381",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "280",
+        "price_per_unit": "1120",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/133687/aussie-sprouts-bean-sprouts-bean-shoot",
+    "name": "Aussie Sprouts Bean Sprouts 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/133687.jpg",
+    "source_id": "133687",
+    "barcode": "9300633443733",
+    "shop": "Woolworths",
+    "category_id": "22381",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "280",
+        "price_per_unit": "1120",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

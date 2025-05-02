@@ -1,0 +1,46 @@
+[
+  {
+    "item1": {
+      "source_url": "https://www.coles.com.au/product/hydralyte-electrolyte-powder-apple-and-blackcurrant-10-pack-2864929",
+      "name": "Hydralyte Electrolyte Powder Apple & Blackcurrant | 10 pack",
+      "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2864929.jpg&w=640&q=90",
+      "source_id": "2864929",
+      "barcode": "9326173000359",
+      "category_id": "22394",
+      "subcategory_id": "22414",
+      "subsubcategory_id": "22417",
+      "shop": "coles",
+      "weight": "10pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1565",
+          "price_per_unit": "157",
+          "price_unit": "pack"
+        }
+      ]
+    },
+    "item2": {
+      "source_url": "https://www.woolworths.com.au/shop/productdetails/801256/hydralyte-electrolyte-powder-sachets-apple-blackcurrant",
+      "name": "Hydralyte Electrolyte Powder Sachets Apple Blackcurrant 10 Pack",
+      "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/801256.jpg",
+      "source_id": "801256",
+      "barcode": "9317039001054",
+      "category_id": "22394",
+      "subcategory_id": "",
+      "subsubcategory_id": "",
+      "shop": "Woolworths",
+      "weight": "10 Pack",
+      "prices": [
+        {
+          "state": "NSW",
+          "price": "1640",
+          "price_per_unit": "164",
+          "price_unit": "EA"
+        }
+      ]
+    },
+    "nameSimilarity": "87.50",
+    "weightSimilarity": "100.00"
+  }
+]

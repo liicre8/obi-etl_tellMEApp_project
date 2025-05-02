@@ -1,0 +1,28 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/236983/adesso-steam-iron",
+    "name": "Adesso Steam Iron Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/236983.jpg",
+    "source_id": "236983",
+    "barcode": "9339687303465",
+    "category_id": "22459",
+    "subcategory_id": "22566",
+    "subsubcategory_id": "22568",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "1400",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

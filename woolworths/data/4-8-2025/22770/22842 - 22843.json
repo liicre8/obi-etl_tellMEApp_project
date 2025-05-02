@@ -1,0 +1,334 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/122188/ingham-s-coating-mix-seasoning-chicken",
+    "name": "Ingham's Coating Mix Seasoning Chicken 75g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/122188.jpg",
+    "source_id": "122188",
+    "barcode": "9310037022168",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22843",
+    "shop": "Woolworths",
+    "weight": "75G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "105",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "105",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "105",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/879124/essentials-breadcrumbs",
+    "name": "Essentials Breadcrumbs 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/879124.jpg",
+    "source_id": "879124",
+    "barcode": "9300633517397",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22843",
+    "shop": "Woolworths",
+    "weight": "750G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33376/kellogg-s-corn-flakes-crumbs",
+    "name": "Kellogg's Corn Flakes Crumbs 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033376.jpg",
+    "source_id": "33376",
+    "barcode": "9310055070080",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22843",
+    "shop": "Woolworths",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/106765/kings-falafel-mix",
+    "name": "Kings Falafel Mix 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/106765.jpg",
+    "source_id": "106765",
+    "barcode": "9317291000000",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22843",
+    "shop": "Woolworths",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "170",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/181407/kook-a-krumb-breadcrumbs-herb-and-garlic",
+    "name": "Kook A Krumb Breadcrumbs Herb And Garlic 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/181407.jpg",
+    "source_id": "181407",
+    "barcode": "9323741000216",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22843",
+    "shop": "Woolworths",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "185",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/648312/kook-a-krumb-panko-breadcrumbs",
+    "name": "Kook A Krumb Panko Breadcrumbs 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/648312.jpg",
+    "source_id": "648312",
+    "barcode": "9323741000308",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22843",
+    "shop": "Woolworths",
+    "weight": "190G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "370",
+        "price_per_unit": "19",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/36440/krummies-breadcrumbs",
+    "name": "Krummies Breadcrumbs 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/036440.jpg",
+    "source_id": "36440",
+    "barcode": "9310043005025",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22843",
+    "shop": "Woolworths",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "310",
+        "price_per_unit": "83",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/58798/mary-mack-s-instant-batter-mix",
+    "name": "Mary Mack's Instant Batter Mix 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/058798.jpg",
+    "source_id": "58798",
+    "barcode": "9311023000115",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22843",
+    "shop": "Woolworths",
+    "weight": "150G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "17",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/58546/mccormick-grill-mates-chipotle-garlic-american-bbq-dry-marinade",
+    "name": "McCormick Grill Mates Chipotle & Garlic American Bbq Dry Marinade 40g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/058546.jpg",
+    "source_id": "58546",
+    "barcode": "9300683503739",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22843",
+    "shop": "Woolworths",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "63",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/169772/mccormick-grill-mates-honey-sriracha-american-bbq-dry-marinade",
+    "name": "McCormick Grill Mates Honey Sriracha American Bbq Dry Marinade 40g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/169772.jpg",
+    "source_id": "169772",
+    "barcode": "9300683507324",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22843",
+    "shop": "Woolworths",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "63",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/445863/mccormick-grill-mates-smokin-texas-american-bbq-rub",
+    "name": "McCormick Grill Mates Smokin Texas American Bbq Rub 40g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/445863.jpg",
+    "source_id": "445863",
+    "barcode": "9300683503708",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22843",
+    "shop": "Woolworths",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "63",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/445854/mccormick-grill-mates-tennessee-smokehouse-american-bbq-rub",
+    "name": "McCormick Grill Mates Tennessee Smokehouse American Bbq Rub 40g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/445854.jpg",
+    "source_id": "445854",
+    "barcode": "9300683503678",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22843",
+    "shop": "Woolworths",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "63",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/258261/old-bay-seasoning",
+    "name": "Old Bay Seasoning 75g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/258261.jpg",
+    "source_id": "258261",
+    "barcode": "9300683508864",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22843",
+    "shop": "Woolworths",
+    "weight": "75g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "67",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33154/white-wings-stuffing-mix-hamburger-helper",
+    "name": "White Wings Stuffing Mix Hamburger Helper 110g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033154.jpg",
+    "source_id": "33154",
+    "barcode": "9310057052008",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22843",
+    "shop": "Woolworths",
+    "weight": "110G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "36",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/944213/woolworths-baked-bread-crumbs-coarse",
+    "name": "Woolworths Baked Bread Crumbs Coarse 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/944213.jpg",
+    "source_id": "944213",
+    "barcode": "9339687393473",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22843",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "455",
+        "price_per_unit": "91",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/769892/woolworths-free-from-gluten-breadcrumbs",
+    "name": "Woolworths Free From Gluten Breadcrumbs 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/769892.jpg",
+    "source_id": "769892",
+    "barcode": "9300633452698",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22843",
+    "shop": "Woolworths",
+    "weight": "350G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "143",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

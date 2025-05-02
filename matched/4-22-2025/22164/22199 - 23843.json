@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-so-good-high-protein-oat-milk-1l-9269093",
+    "name": "Sanitarium So Good High Protein Oat Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9269093.jpg&w=640&q=90",
+    "source_id": "9269093",
+    "barcode": "9300652815573",
+    "shop": "coles",
+    "category_id": "23843",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "340",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/79407/so-good-high-protein-oat-milk",
+    "name": "So Good High Protein Oat Milk 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/079407.jpg",
+    "source_id": "79407",
+    "barcode": "9300652815573",
+    "shop": "Woolworths",
+    "category_id": "23843",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "340",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

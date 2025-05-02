@@ -1,0 +1,122 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/9355/abla-s-pastries-baclava",
+    "name": "Abla's Pastries Baclava 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/009355.jpg",
+    "source_id": "9355",
+    "barcode": "9347030000190",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22856",
+    "shop": "Woolworths",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/815571/al-barakah-dates-date-syrup-squeeze",
+    "name": "Al Barakah Dates Date Syrup Squeeze 400G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/815571.jpg",
+    "source_id": "815571",
+    "barcode": "6297000361321",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22856",
+    "shop": "Woolworths",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "131",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/148261/aseel-vegetable-ghee",
+    "name": "Aseel Vegetable Ghee 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/148261.jpg",
+    "source_id": "148261",
+    "barcode": "631583101022",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22856",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/148779/authentic-turkish-delight-pomegranate",
+    "name": "Authentic Turkish Delight Pomegranate 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/148779.jpg",
+    "source_id": "148779",
+    "barcode": "9310619000706",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22856",
+    "shop": "Woolworths",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/149340/authentic-turkish-delight-rose",
+    "name": "Authentic Turkish Delight Rose 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/149340.jpg",
+    "source_id": "149340",
+    "barcode": "9310619001178",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22856",
+    "shop": "Woolworths",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/864352/kushi-jelly-drinks",
+    "name": "Kushi Jelly Drinks 75g x12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/864352.jpg",
+    "source_id": "864352",
+    "barcode": "9317471001803",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22856",
+    "shop": "Woolworths",
+    "weight": "75g x12 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "58",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

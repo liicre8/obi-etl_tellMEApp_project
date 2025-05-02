@@ -1,0 +1,542 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/borg's-triangles-spinach-cheese-360g-9319680",
+    "name": "Borg's Triangles Spinach Cheese | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9319680.jpg&w=640&q=90",
+    "source_id": "9319680",
+    "barcode": "9311648008008",
+    "shop": "coles",
+    "category_id": "22312",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "111",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/177218/borg-s-pastizzis-triangles-spinach-ricotta",
+    "name": "Borg's Pastizzis Triangles Spinach & Ricotta 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/177218.jpg",
+    "source_id": "177218",
+    "barcode": "9311648008008",
+    "shop": "Woolworths",
+    "category_id": "22312",
+    "weight": "360G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "97",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/haldirams-cocktail-samosa-500g-3783491",
+    "name": "Haldirams Cocktail Samosa | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3783491.jpg&w=640&q=90",
+    "source_id": "3783491",
+    "barcode": "8904063201942",
+    "shop": "coles",
+    "category_id": "22312",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "220",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/651190/haldiram-s-cocktail-samosa",
+    "name": "Haldiram's Cocktail Samosa 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/651190.jpg",
+    "source_id": "651190",
+    "barcode": "8904063201942",
+    "shop": "Woolworths",
+    "category_id": "22312",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "220",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/haldirams-paneer-onion-paratha-400g-3783629",
+    "name": "Haldirams Paneer Onion Paratha | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3783629.jpg&w=640&q=90",
+    "source_id": "3783629",
+    "barcode": "8904063257468",
+    "shop": "coles",
+    "category_id": "22312",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/11793/haldiram-s-paneer-onion-paratha",
+    "name": "Haldiram's Paneer Onion Paratha 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/011793.jpg",
+    "source_id": "11793",
+    "barcode": "8904063257468",
+    "shop": "Woolworths",
+    "category_id": "22312",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/haldirams-punjabi-samosa-650g-3783549",
+    "name": "Haldirams Punjabi Samosa | 650g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3783549.jpg&w=640&q=90",
+    "source_id": "3783549",
+    "barcode": "8904063255006",
+    "shop": "coles",
+    "category_id": "22312",
+    "weight": "650g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "185",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/11808/haldiram-s-punjabi-samosa",
+    "name": "Haldiram's Punjabi Samosa 650g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/011808.jpg",
+    "source_id": "11808",
+    "barcode": "8904063255006",
+    "shop": "Woolworths",
+    "category_id": "22312",
+    "weight": "650G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "185",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/herbert-adams-frozen-king-island-frozen-beef-sausage-rolls-12-pack-420g-2900636",
+    "name": "Herbert Adams Frozen King Island Frozen Beef Sausage Rolls 12 pack | 420g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2900636.jpg&w=640&q=90",
+    "source_id": "2900636",
+    "barcode": "9311008007979",
+    "shop": "coles",
+    "category_id": "22312",
+    "weight": "420g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/767356/herbert-adams-sausage-rolls-king-island-beef-frozen",
+    "name": "Herbert Adams Sausage Rolls King Island Beef Frozen 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/767356.jpg",
+    "source_id": "767356",
+    "barcode": "9311008007979",
+    "shop": "Woolworths",
+    "category_id": "22312",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "665",
+        "price_per_unit": "158",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pickers-herb-and-parmesan-cauliflower-bites-230g-8421487",
+    "name": "Pickers Herb & Parmesan Cauliflower Bites | 230g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8421487.jpg&w=640&q=90",
+    "source_id": "8421487",
+    "barcode": "9310174123278",
+    "shop": "coles",
+    "category_id": "22312",
+    "weight": "230g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "326",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/909862/mccain-pickers-herb-parmesan-cauliflower-bites",
+    "name": "McCain Pickers Herb & Parmesan Cauliflower Bites 230g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/909862.jpg",
+    "source_id": "909862",
+    "barcode": "9310174123278",
+    "shop": "Woolworths",
+    "category_id": "22312",
+    "weight": "230g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "217",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pickers-jalapeno-cheese-nugget-230g-8421614",
+    "name": "Pickers Jalapeno Cheese Nugget | 230g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8421614.jpg&w=640&q=90",
+    "source_id": "8421614",
+    "barcode": "9310174123391",
+    "shop": "coles",
+    "category_id": "22312",
+    "weight": "230g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "326",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/909758/mccain-pickers-jalapeno-cheese-nuggets",
+    "name": "McCain Pickers Jalapeno Cheese Nuggets 230g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/909758.jpg",
+    "source_id": "909758",
+    "barcode": "9310174123391",
+    "shop": "Woolworths",
+    "category_id": "22312",
+    "weight": "230g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "217",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pickers-mini-italian-herb-mozzarella-sticks-230g-8421545",
+    "name": "Pickers Mini Italian Herb Mozzarella Sticks | 230g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8421545.jpg&w=640&q=90",
+    "source_id": "8421545",
+    "barcode": "8710438128277",
+    "shop": "coles",
+    "category_id": "22312",
+    "weight": "230g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "326",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/909142/mccain-pickers-mozzarella-mini-sticks-italian-herb",
+    "name": "McCain Pickers Mozzarella Mini Sticks Italian Herb 230g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/909142.jpg",
+    "source_id": "909142",
+    "barcode": "8710438128277",
+    "shop": "Woolworths",
+    "category_id": "22312",
+    "weight": "230g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "217",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pickers-nacho-cheese-triangles-230g-8421556",
+    "name": "Pickers Nacho Cheese Triangles | 230g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8421556.jpg&w=640&q=90",
+    "source_id": "8421556",
+    "barcode": "8710438128475",
+    "shop": "coles",
+    "category_id": "22312",
+    "weight": "230g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "326",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/908641/mccain-pickers-nacho-cheese-triangles",
+    "name": "McCain Pickers Nacho Cheese Triangles 230g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/908641.jpg",
+    "source_id": "908641",
+    "barcode": "8710438128475",
+    "shop": "Woolworths",
+    "category_id": "22312",
+    "weight": "230g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "217",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pickers-spicy-onion-rings-350g-8421476",
+    "name": "Pickers Spicy Onion Rings | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8421476.jpg&w=640&q=90",
+    "source_id": "8421476",
+    "barcode": "8710438128529",
+    "shop": "coles",
+    "category_id": "22312",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "214",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/909154/mccain-pickers-spicy-onion-rings",
+    "name": "McCain Pickers Spicy Onion Rings 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/909154.jpg",
+    "source_id": "909154",
+    "barcode": "8710438128529",
+    "shop": "Woolworths",
+    "category_id": "22312",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "143",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/on-the-menu-frozen-chicken-roll-roast-179g-6957191",
+    "name": "On The Menu Frozen Chicken Roll Roast | 179g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6957191.jpg&w=640&q=90",
+    "source_id": "6957191",
+    "barcode": "9313080558288",
+    "shop": "coles",
+    "category_id": "22312",
+    "weight": "179g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "307",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/248464/on-the-menu-roast-chicken-rolls-null",
+    "name": "On The Menu Roast Chicken Rolls 179g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/248464.jpg",
+    "source_id": "248464",
+    "barcode": "9313080558288",
+    "shop": "Woolworths",
+    "category_id": "22312",
+    "weight": "179G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "274",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/patties-cheesy-garlic-crumbed-bites-500g-8433635",
+    "name": "Patties Cheesy Garlic Crumbed Bites | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8433635.jpg&w=640&q=90",
+    "source_id": "8433635",
+    "barcode": "9420064503858",
+    "shop": "coles",
+    "category_id": "22312",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "260",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/939182/patties-crumbed-bites-cheese-garlic",
+    "name": "Patties Crumbed Bites Cheese & Garlic 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/939182.jpg",
+    "source_id": "939182",
+    "barcode": "9420064503858",
+    "shop": "Woolworths",
+    "category_id": "22312",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "780",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/patties-frozen-mini-combo-party-pies-and-sausage-rolls-40-pack-1kg-8949591",
+    "name": "Patties Frozen Mini Combo Party Pies & Sausage Rolls 40 pack | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8949591.jpg&w=640&q=90",
+    "source_id": "8949591",
+    "barcode": "9311008060103",
+    "shop": "coles",
+    "category_id": "22312",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "180",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147700/patties-party-pack-mini-pies-sausage-rolls",
+    "name": "Patties Party Pack Mini Pies & Sausage Rolls 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/147700.jpg",
+    "source_id": "147700",
+    "barcode": "9311008060103",
+    "shop": "Woolworths",
+    "category_id": "22312",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1944",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/patties-frozen-party-pack-30-pieces-1.25kg-6079240",
+    "name": "Patties Frozen Party Pack 30 Pieces | 1.25kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6079240.jpg&w=640&q=90",
+    "source_id": "6079240",
+    "barcode": "9311008061117",
+    "shop": "coles",
+    "category_id": "22312",
+    "weight": "1.25kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "144",
+        "price_unit": ".kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55613/patties-party-pack-party-pies-sausage-rolls",
+    "name": "Patties Party Pack Party Pies & Sausage Rolls 1.25kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/055613.jpg",
+    "source_id": "55613",
+    "barcode": "9311008061117",
+    "shop": "Woolworths",
+    "category_id": "22312",
+    "weight": "1.25kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1944",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kitchen-beef-curry-puffs-200g-5205204",
+    "name": "Coles Kitchen Beef Curry Puffs | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5205204.jpg&w=640&q=90",
+    "source_id": "5205204",
+    "barcode": "9339687386970",
+    "shop": "coles",
+    "category_id": "22312",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "290",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/905954/woolworths-beef-curry-puffs-8-pack",
+    "name": "Woolworths Beef Curry Puffs 8 Pack 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/905954.jpg",
+    "source_id": "905954",
+    "barcode": "9339687386970",
+    "shop": "Woolworths",
+    "category_id": "22312",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "290",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

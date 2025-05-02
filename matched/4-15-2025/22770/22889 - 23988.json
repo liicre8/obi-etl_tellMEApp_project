@@ -1,0 +1,650 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/hubba-bubba-groovy-grape-bubble-gum-180cm-56g-9564195",
+    "name": "Hubba Bubba Groovy Grape Bubble Gum 180cm | 56g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9564195.jpg&w=640&q=90",
+    "source_id": "9564195",
+    "barcode": "93613590",
+    "shop": "coles",
+    "category_id": "23988",
+    "weight": "56g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "536",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/196096/hubba-bubba-groovy-grape-bubble-gum-tape-180cm",
+    "name": "Hubba Bubba Groovy Grape Bubble Gum Tape 180cm 56g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/196096.jpg",
+    "source_id": "196096",
+    "barcode": "93613590",
+    "shop": "Woolworths",
+    "category_id": "23988",
+    "weight": "56g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "429",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hubba-bubba-seriously-strawberry-bubble-gum-180cm-56g-9564526",
+    "name": "Hubba Bubba Seriously Strawberry Bubble Gum 180cm | 56g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9564526.jpg&w=640&q=90",
+    "source_id": "9564526",
+    "barcode": "93613583",
+    "shop": "coles",
+    "category_id": "23988",
+    "weight": "56g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "536",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/196083/hubba-bubba-seriously-strawberry-bubble-gum-tape-180cm",
+    "name": "Hubba Bubba Seriously Strawberry Bubble Gum Tape 180cm 56g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/196083.jpg",
+    "source_id": "196083",
+    "barcode": "93613583",
+    "shop": "Woolworths",
+    "category_id": "23988",
+    "weight": "56g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "429",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dollar-sweets-extra-strong-peppermints-150g-248709",
+    "name": "Dollar Sweets Extra Strong Peppermints | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F248709.jpg&w=640&q=90",
+    "source_id": "248709",
+    "barcode": "9310331150031",
+    "shop": "coles",
+    "category_id": "23988",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "167",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/97742/dollar-sweets-peppermints-extra-strong",
+    "name": "Dollar Sweets Peppermints Extra Strong 150g Bag",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/097742.jpg",
+    "source_id": "97742",
+    "barcode": "9310331150031",
+    "shop": "Woolworths",
+    "category_id": "23988",
+    "weight": "150G Bag",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "265",
+        "price_per_unit": "177",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/eclipse-peppermint-chewy-mints-bottle-93g-2887822",
+    "name": "Eclipse Peppermint Chewy Mints Bottle | 93g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2887822.jpg&w=640&q=90",
+    "source_id": "2887822",
+    "barcode": "9300613112147",
+    "shop": "coles",
+    "category_id": "23988",
+    "weight": "93g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "538",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/581349/eclipse-peppermint-chewy-mints-bottle",
+    "name": "Eclipse Peppermint Chewy Mints Bottle 93g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/581349.jpg",
+    "source_id": "581349",
+    "barcode": "9300613112147",
+    "shop": "Woolworths",
+    "category_id": "23988",
+    "weight": "93g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "565",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/eclipse-spearmint-chewy-mints-bottle-93g-2887844",
+    "name": "Eclipse Spearmint Chewy Mints Bottle | 93g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2887844.jpg&w=640&q=90",
+    "source_id": "2887844",
+    "barcode": "9300613112154",
+    "shop": "coles",
+    "category_id": "23988",
+    "weight": "93g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "538",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/581338/eclipse-spearmint-chewy-mints-bottle",
+    "name": "Eclipse Spearmint Chewy Mints Bottle 93g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/581338.jpg",
+    "source_id": "581338",
+    "barcode": "9300613112154",
+    "shop": "Woolworths",
+    "category_id": "23988",
+    "weight": "93g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "565",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/jols-refreshing-pastilles-forest-berries-23g-9193661",
+    "name": "Jols Refreshing Pastilles Forest Berries | 23g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9193661.jpg&w=640&q=90",
+    "source_id": "9193661",
+    "barcode": "9320668183015",
+    "shop": "coles",
+    "category_id": "23988",
+    "weight": "23g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "1087",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/194854/jols-sugar-free-pastilles-forest-berries",
+    "name": "Jols Sugar Free Pastilles Forest Berries 23g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/194854.jpg",
+    "source_id": "194854",
+    "barcode": "9320668183015",
+    "shop": "Woolworths",
+    "category_id": "23988",
+    "weight": "23G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "125",
+        "price_per_unit": "543",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mentos-multipack-fruit-112g-1255211",
+    "name": "Mentos Multipack Fruit | 112g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1255211.jpg&w=640&q=90",
+    "source_id": "1255211",
+    "barcode": "6921211107378",
+    "shop": "coles",
+    "category_id": "23988",
+    "weight": "112g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "308",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/742758/mentos-fruit-chews",
+    "name": "Mentos Fruit Chews 3 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/742758.jpg",
+    "source_id": "742758",
+    "barcode": "6921211107378",
+    "shop": "Woolworths",
+    "category_id": "23988",
+    "weight": "3 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "307",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mentos-multipack-mint-112g-1255200",
+    "name": "Mentos Multipack Mint | 112g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1255200.jpg&w=640&q=90",
+    "source_id": "1255200",
+    "barcode": "6921211107330",
+    "shop": "coles",
+    "category_id": "23988",
+    "weight": "112g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "308",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/742786/mentos-mints",
+    "name": "Mentos Mints 3 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/742786.jpg",
+    "source_id": "742786",
+    "barcode": "6921211107330",
+    "shop": "Woolworths",
+    "category_id": "23988",
+    "weight": "3 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "307",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mentos-multipack-spearmint-112g-1255222",
+    "name": "Mentos Multipack Spearmint | 112g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1255222.jpg&w=640&q=90",
+    "source_id": "1255222",
+    "barcode": "6921211107354",
+    "shop": "coles",
+    "category_id": "23988",
+    "weight": "112g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "308",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/742784/mentos-mints-spearmint",
+    "name": "Mentos Mints Spearmint 3 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/742784.jpg",
+    "source_id": "742784",
+    "barcode": "6921211107354",
+    "shop": "Woolworths",
+    "category_id": "23988",
+    "weight": "3 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "307",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tic-tac-fruit-adventure-24g-4147204",
+    "name": "Tic Tac Fruit Adventure | 24g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4147204.jpg&w=640&q=90",
+    "source_id": "4147204",
+    "barcode": "93698559",
+    "shop": "coles",
+    "category_id": "23988",
+    "weight": "24g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "958",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/754039/tic-tac-fruit-adventure",
+    "name": "Tic Tac Fruit Adventure 24g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/754039.jpg",
+    "source_id": "754039",
+    "barcode": "93698559",
+    "shop": "Woolworths",
+    "category_id": "23988",
+    "weight": "24G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "875",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tic-tac-orange-49g-3956206",
+    "name": "Tic Tac Orange | 49g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3956206.jpg&w=640&q=90",
+    "source_id": "3956206",
+    "barcode": "93698009",
+    "shop": "coles",
+    "category_id": "23988",
+    "weight": "49g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "653",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/311364/tic-tac-orange",
+    "name": "Tic Tac Orange 49g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/311364.jpg",
+    "source_id": "311364",
+    "barcode": "93698009",
+    "shop": "Woolworths",
+    "category_id": "23988",
+    "weight": "49G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "653",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tic-tac-peppermint-49g-3956192",
+    "name": "Tic Tac Peppermint | 49g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3956192.jpg&w=640&q=90",
+    "source_id": "3956192",
+    "barcode": "93698016",
+    "shop": "coles",
+    "category_id": "23988",
+    "weight": "49g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "653",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/311980/tic-tac-peppermint",
+    "name": "Tic Tac Peppermint 49g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/311980.jpg",
+    "source_id": "311980",
+    "barcode": "93698016",
+    "shop": "Woolworths",
+    "category_id": "23988",
+    "weight": "49G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "653",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tic-tac-strawberry-and-cream-24g-9057426",
+    "name": "Tic Tac Strawberry & Cream | 24g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9057426.jpg&w=640&q=90",
+    "source_id": "9057426",
+    "barcode": "93573962",
+    "shop": "coles",
+    "category_id": "23988",
+    "weight": "24g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "958",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/63805/tic-tac-strawberry-cream",
+    "name": "Tic Tac Strawberry & Cream 24g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/063805.jpg",
+    "source_id": "63805",
+    "barcode": "93573962",
+    "shop": "Woolworths",
+    "category_id": "23988",
+    "weight": "24g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "875",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/anticol-medicated-anticol-30-pack-5096448",
+    "name": "Anticol Medicated Anticol | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5096448.jpg&w=640&q=90",
+    "source_id": "5096448",
+    "barcode": "9300625298136",
+    "shop": "coles",
+    "category_id": "23988",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "22",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/2955/allens-anticol-throat-lozenge",
+    "name": "Anticol Throat Lozenge 3 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/002955.jpg",
+    "source_id": "2955",
+    "barcode": "9300625298136",
+    "shop": "Woolworths",
+    "category_id": "23988",
+    "weight": "3 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "22",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/double-d-eucalyptus-and-honey-drops-150g-423514",
+    "name": "Double D Eucalyptus & Honey Drops | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F423514.jpg&w=640&q=90",
+    "source_id": "423514",
+    "barcode": "9310481000262",
+    "shop": "coles",
+    "category_id": "23988",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "133",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32209/double-d-eucalyptus-honey-drops",
+    "name": "Double 'D' Eucalyptus & Honey Drops 150G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/032209.jpg",
+    "source_id": "32209",
+    "barcode": "9310481000262",
+    "shop": "Woolworths",
+    "category_id": "23988",
+    "weight": "150G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/soothers-allens-medicated-buttermenthol-30-pack-5096459",
+    "name": "Soothers Allens Medicated Buttermenthol | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5096459.jpg&w=640&q=90",
+    "source_id": "5096459",
+    "barcode": "9300625298150",
+    "shop": "coles",
+    "category_id": "23988",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "22",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/2867/nestle-soothers-butter-menthol-throat-lozenge",
+    "name": "Nestle Soothers Butter-Menthol Throat Lozenge 3 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/002867.jpg",
+    "source_id": "2867",
+    "barcode": "9300625298150",
+    "shop": "Woolworths",
+    "category_id": "23988",
+    "weight": "3 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "22",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/soothers-allens-medicated-eucalyptus-and-menthol-30-pack-5096437",
+    "name": "Soothers Allens Medicated Eucalyptus & Menthol | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5096437.jpg&w=640&q=90",
+    "source_id": "5096437",
+    "barcode": "9300684270913",
+    "shop": "coles",
+    "category_id": "23988",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "22",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/2979/nestle-soothers-throat-lozenge-eucalyptus-menthol",
+    "name": "Nestle Soothers Throat Lozenge Eucalyptus & Menthol 3 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/002979.jpg",
+    "source_id": "2979",
+    "barcode": "9300684270913",
+    "shop": "Woolworths",
+    "category_id": "23988",
+    "weight": "3 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "22",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/soothers-allens-medicated-blackcurrant-30-pack-5516011",
+    "name": "Soothers Allens Medicated Blackcurrant | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5516011.jpg&w=640&q=90",
+    "source_id": "5516011",
+    "barcode": "9300684270920",
+    "shop": "coles",
+    "category_id": "23988",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "22",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/66427/nestle-soothers-throat-lozenges-blackcurrant",
+    "name": "Nestle Soothers Throat Lozenges Blackcurrant 30 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/066427.jpg",
+    "source_id": "66427",
+    "barcode": "9300684270920",
+    "shop": "Woolworths",
+    "category_id": "23988",
+    "weight": "30 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "22",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

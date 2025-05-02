@@ -1,0 +1,960 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/325134/essentials-parmesan-cheese",
+    "name": "Essentials Parmesan Cheese 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/325134.jpg",
+    "source_id": "325134",
+    "barcode": "9300633994891",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33599/kraft-grated-parmesan-cheese",
+    "name": "Kraft Grated Parmesan Cheese 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033599.jpg",
+    "source_id": "33599",
+    "barcode": "9316389195604",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "4400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/207794/pantalica-parmesan-cheese",
+    "name": "Pantalica Parmesan Cheese 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/207794.jpg",
+    "source_id": "207794",
+    "barcode": "9311165010683",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/215450/macro-organic-spaghetti-pasta",
+    "name": "Macro Organic Spaghetti Pasta 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/215450.jpg",
+    "source_id": "215450",
+    "barcode": "9300633903268",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "39",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "39",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/739878/san-remo-spirals-spelt-pasta",
+    "name": "San Remo Spirals Spelt Pasta 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/739878.jpg",
+    "source_id": "739878",
+    "barcode": "9310155002745",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "188",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/195952/barilla-collezione-lasagne",
+    "name": "Barilla Collezione Lasagne 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/195952.jpg",
+    "source_id": "195952",
+    "barcode": "8076809542517",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "144",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6007105/barilla-fettuccine",
+    "name": "Barilla Fettuccine 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6007105.jpg",
+    "source_id": "6007105",
+    "barcode": "8076809585149",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "245",
+        "price_per_unit": "49",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/93383/barilla-pasta-fusilli-pasta-no-98",
+    "name": "Barilla Pasta Fusilli 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/093383.jpg",
+    "source_id": "93383",
+    "barcode": "8076802085981",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "245",
+        "price_per_unit": "49",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83764/barilla-pasta-penne-rigate-rigate-pasta-no-73",
+    "name": "Barilla Pasta Penne Rigate 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/083764.jpg",
+    "source_id": "83764",
+    "barcode": "8076802085738",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "245",
+        "price_per_unit": "49",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/88382/barilla-pasta-rigatoni-pasta-no-89",
+    "name": "Barilla Pasta Rigatoni 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/088382.jpg",
+    "source_id": "88382",
+    "barcode": "8076802085899",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "245",
+        "price_per_unit": "49",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/88215/barilla-pasta-risoni-no-26",
+    "name": "Barilla Pasta Risoni 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/088215.jpg",
+    "source_id": "88215",
+    "barcode": "8076800315264",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "245",
+        "price_per_unit": "49",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83763/barilla-pasta-spaghetti-pasta-no-5",
+    "name": "Barilla Pasta Spaghetti 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/083763.jpg",
+    "source_id": "83763",
+    "barcode": "8076800195057",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "245",
+        "price_per_unit": "49",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/88057/barilla-pasta-spaghettini-spaghettini-pasta-no-3",
+    "name": "Barilla Pasta Spaghettini 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/088057.jpg",
+    "source_id": "88057",
+    "barcode": "8076800195033",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "245",
+        "price_per_unit": "49",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/98906/barilla-pasta-spaghettoni-no-7-pasta-spaghettoni",
+    "name": "Barilla Pasta Spaghettoni 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/098906.jpg",
+    "source_id": "98906",
+    "barcode": "8076808150072",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "245",
+        "price_per_unit": "49",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/188800/essentials-pasta-penne",
+    "name": "Essentials Pasta Penne 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/188800.jpg",
+    "source_id": "188800",
+    "barcode": "9300633100209",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "90",
+        "price_per_unit": "18",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/44571/essentials-pasta-spaghetti",
+    "name": "Essentials Pasta Spaghetti 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/044571.jpg",
+    "source_id": "44571",
+    "barcode": "9339687206599",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "90",
+        "price_per_unit": "18",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/188799/essentials-pasta-spirals",
+    "name": "Essentials Pasta Spirals 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/188799.jpg",
+    "source_id": "188799",
+    "barcode": "9339687206605",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "90",
+        "price_per_unit": "18",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/90260/essentials-tomato-paste",
+    "name": "Essentials Tomato Paste 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/090260.jpg",
+    "source_id": "90260",
+    "barcode": "9300633615116",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "170G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "95",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/34004/essentials-tomato-paste",
+    "name": "Essentials Tomato Paste 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/034004.jpg",
+    "source_id": "34004",
+    "barcode": "9300633340049",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "140",
+        "price_per_unit": "28",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/798251/guzzi-s-fettuccine",
+    "name": "Guzzi's Fettuccine 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/798251.jpg",
+    "source_id": "798251",
+    "barcode": "9311208000367",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/798249/guzzi-s-linguine",
+    "name": "Guzzi's Linguine 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/798249.jpg",
+    "source_id": "798249",
+    "barcode": "9311208000480",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/798252/guzzi-s-pappardelle",
+    "name": "Guzzi's Pappardelle 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/798252.jpg",
+    "source_id": "798252",
+    "barcode": "9311208000398",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/92228/guzzi-s-tricolore-tagliatelle",
+    "name": "Guzzi's Tricolore Tagliatelle 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/092228.jpg",
+    "source_id": "92228",
+    "barcode": "9311208000565",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/35143/kraft-grated-parmesan-cheese-cannister",
+    "name": "Kraft Grated Parmesan Cheese Cannister 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/035143.jpg",
+    "source_id": "35143",
+    "barcode": "9300650380615",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "980",
+        "price_per_unit": "3920",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/123906/la-molisana-extra-di-lusso-28-fusilli",
+    "name": "La Molisana Extra Di Lusso 28 Fusilli 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/123906.jpg",
+    "source_id": "123906",
+    "barcode": "8004690310281",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "64",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/123905/la-molisana-extra-di-lusso-egg-pappardelle",
+    "name": "La Molisana Extra Di Lusso Egg Pappardelle 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/123905.jpg",
+    "source_id": "123905",
+    "barcode": "8004690158869",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/528209/la-molisana-high-protein-fusilli",
+    "name": "La Molisana High Protein Fusilli 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/528209.jpg",
+    "source_id": "528209",
+    "barcode": "8004690490280",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "80",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/528210/la-molisana-high-protein-penne-rigate",
+    "name": "La Molisana High Protein Penne Rigate 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/528210.jpg",
+    "source_id": "528210",
+    "barcode": "8004690490204",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "80",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/528208/la-molisana-high-protein-spaghetti",
+    "name": "La Molisana High Protein Spaghetti 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/528208.jpg",
+    "source_id": "528208",
+    "barcode": "8004690490150",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "80",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/74783/la-molisana-pastificio-extra-di-lusso-egg-fettuccine",
+    "name": "La Molisana Pastificio Extra Di Lusso Egg Fettuccine 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/074783.jpg",
+    "source_id": "74783",
+    "barcode": "8004690158852",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/74801/la-molisana-pastificio-extra-di-lusso-egg-lasagne",
+    "name": "La Molisana Pastificio Extra Di Lusso Egg Lasagne 250G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/074801.jpg",
+    "source_id": "74801",
+    "barcode": "8004690442203",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/74920/la-molisana-pastificio-extra-di-lusso-farfalle-rigate",
+    "name": "La Molisana Pastificio Extra Di Lusso Farfalle Rigate 500G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/074920.jpg",
+    "source_id": "74920",
+    "barcode": "8004690210666",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "64",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/74782/la-molisana-pastificio-extra-di-lusso-fettuccine",
+    "name": "La Molisana Pastificio Extra Di Lusso Fettuccine 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/074782.jpg",
+    "source_id": "74782",
+    "barcode": "8004690310502",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "64",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/74614/la-molisana-pastificio-extra-di-lusso-linguine",
+    "name": "La Molisana Pastificio Extra Di Lusso Linguine 500G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/074614.jpg",
+    "source_id": "74614",
+    "barcode": "8004690310625",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "64",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/74787/la-molisana-pastificio-extra-di-lusso-penne-rigate",
+    "name": "La Molisana Pastificio Extra Di Lusso Penne Rigate 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/074787.jpg",
+    "source_id": "74787",
+    "barcode": "8004690312025",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "64",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/74791/la-molisana-pastificio-extra-di-lusso-rigatoni-divini",
+    "name": "La Molisana Pastificio Extra Di Lusso Rigatoni Divini 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/074791.jpg",
+    "source_id": "74791",
+    "barcode": "8004690313183",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "64",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/74613/la-molisana-pastificio-extra-di-lusso-spaghetti",
+    "name": "La Molisana Pastificio Extra Di Lusso Spaghetti 500G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/074613.jpg",
+    "source_id": "74613",
+    "barcode": "8004690311547",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "64",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/22078/leggo-s-australian-grown-tomato-paste-no-added-salt",
+    "name": "Leggo's Australian Grown Tomato Paste No Added Salt 140g x 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/022078.jpg",
+    "source_id": "22078",
+    "barcode": "9300645020809",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "140g x 2 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85045/leggo-s-australian-grown-tomato-paste-no-added-salt",
+    "name": "Leggo's Australian Grown Tomato Paste No Added Salt 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085045.jpg",
+    "source_id": "85045",
+    "barcode": "9300645022421",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/115013/leggo-s-australian-grown-tomato-paste-no-added-salt",
+    "name": "Leggo's Australian Grown Tomato Paste No Added Salt 50g x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/115013.jpg",
+    "source_id": "115013",
+    "barcode": "9300462021812",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "50g x 4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "335",
+        "price_per_unit": "168",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/38640/leggo-s-australian-grown-tomato-paste-triple-concentrate",
+    "name": "Leggo's Australian Grown Tomato Paste Triple Concentrate 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/038640.jpg",
+    "source_id": "38640",
+    "barcode": "93645102",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/115012/leggo-s-australian-grown-tomato-paste-triple-concentrate-sachet",
+    "name": "Leggo's Australian Grown Tomato Paste Triple Concentrate Sachet 50g x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/115012.jpg",
+    "source_id": "115012",
+    "barcode": "9300462020761",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "50g x 4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "335",
+        "price_per_unit": "168",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/259592/leggo-s-australian-grown-tomato-paste-triple-concentrate-squeeze",
+    "name": "Leggo's Australian Grown Tomato Paste Triple Concentrate Squeeze 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/259592.jpg",
+    "source_id": "259592",
+    "barcode": "9300645014495",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "113",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/91990/leggo-s-australian-grown-tomato-paste-triple-concentrate-tub",
+    "name": "Leggo's Australian Grown Tomato Paste Triple Concentrate Tub 140g x 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/091990.jpg",
+    "source_id": "91990",
+    "barcode": "9300645020823",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "140g x 2 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/215448/macro-organic-penne-pasta",
+    "name": "Macro Organic Penne Pasta 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/215448.jpg",
+    "source_id": "215448",
+    "barcode": "9300633903244",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "39",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/215451/macro-organic-spirals-pasta",
+    "name": "Macro Organic Spirals Pasta 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/215451.jpg",
+    "source_id": "215451",
+    "barcode": "9300633903275",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "195",
+        "price_per_unit": "39",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/901431/macro-organic-tomato-paste-no-added-salt",
+    "name": "Macro Organic Tomato Paste No Added Salt 140g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/901431.jpg",
+    "source_id": "901431",
+    "barcode": "9339687384358",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22853",
+    "shop": "Woolworths",
+    "weight": "140g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "169",
+        "price_per_unit": "121",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

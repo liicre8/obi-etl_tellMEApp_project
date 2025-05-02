@@ -1,0 +1,146 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/creative-gourmet-frozen-banana-chunks-500g-3059972",
+    "name": "Creative Gourmet Frozen Banana Chunks | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3059972.jpg&w=640&q=90",
+    "source_id": "3059972",
+    "barcode": "9344372003179",
+    "shop": "coles",
+    "category_id": "22294",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/532199/creative-gourmet-frozen-banana-chunks",
+    "name": "Creative Gourmet Frozen Banana Chunks 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/532199.jpg",
+    "source_id": "532199",
+    "barcode": "9344372003179",
+    "shop": "Woolworths",
+    "category_id": "22294",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "1080",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-frozen-fruit-mixed-berries-500g-1301206",
+    "name": "Coles Frozen Fruit Mixed Berries | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1301206.jpg&w=640&q=90",
+    "source_id": "1301206",
+    "barcode": "9421017391379",
+    "shop": "coles",
+    "category_id": "22294",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/931860/oob-organic-frozen-mixed-berries",
+    "name": "Oob Organic Frozen Mixed Berries 500G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/931860.jpg",
+    "source_id": "931860",
+    "barcode": "9421017391379",
+    "shop": "Woolworths",
+    "category_id": "22294",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-frozen-fruit-blueberries-500g-6110023",
+    "name": "Coles Frozen Fruit Blueberries | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6110023.jpg&w=640&q=90",
+    "source_id": "6110023",
+    "barcode": "9300633952372",
+    "shop": "coles",
+    "category_id": "22294",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/260007/woolworths-frozen-blueberries",
+    "name": "Woolworths Frozen Blueberries 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/260007.jpg",
+    "source_id": "260007",
+    "barcode": "9300633952372",
+    "shop": "Woolworths",
+    "category_id": "22294",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "620",
+        "price_per_unit": "1240",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-frozen-fruit-raspberries-500g-6109975",
+    "name": "Coles Frozen Fruit Raspberries | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6109975.jpg&w=640&q=90",
+    "source_id": "6109975",
+    "barcode": "9339687211456",
+    "shop": "coles",
+    "category_id": "22294",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/260004/woolworths-frozen-raspberries",
+    "name": "Woolworths Frozen Raspberries 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/260004.jpg",
+    "source_id": "260004",
+    "barcode": "9339687211456",
+    "shop": "Woolworths",
+    "category_id": "22294",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "1380",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

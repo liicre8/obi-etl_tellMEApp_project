@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/birds-eye-chinese-stir-fry-carrot-broccoli-green-beans-onion-capsicum-and-baby-corn-mix-850g-8145798",
+    "name": "Birds Eye Chinese Stir Fry Carrot Broccoli Green Beans Onion Capsicum & Baby Corn Mix | 850g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8145798.jpg&w=640&q=90",
+    "source_id": "8145798",
+    "barcode": "9310081453338",
+    "shop": "coles",
+    "category_id": "22331",
+    "weight": "850g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "647",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/705694/birds-eye-stir-fry-mix-chinese",
+    "name": "Birds Eye Stir Fry Mix Chinese 850g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/705694.jpg",
+    "source_id": "705694",
+    "barcode": "9310081453338",
+    "shop": "Woolworths",
+    "category_id": "22331",
+    "weight": "850G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "647",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

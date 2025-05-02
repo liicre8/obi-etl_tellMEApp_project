@@ -1,0 +1,762 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/666237/chicken-sandwich-chicken-sandwich-schnitzel",
+    "name": "Chicken Sandwich Schnitzel Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/666237.jpg",
+    "source_id": "666237",
+    "barcode": "0271921000008",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/351196/chicken-schnitzel-crumbed",
+    "name": "Chicken Schnitzel Crumbed Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/351196.jpg",
+    "source_id": "351196",
+    "barcode": "0270016000008",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/769243/woolworths-chicken-kyiv-garlic",
+    "name": "Woolworths Chicken Kyiv Garlic Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/769243.jpg",
+    "source_id": "769243",
+    "barcode": "0276964000008",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/807560/woolworths-premium-pub-style-chicken-schnitzel",
+    "name": "Woolworths Premium Pub Style Chicken Schnitzel Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/807560.jpg",
+    "source_id": "807560",
+    "barcode": "0277182000009",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/340976/woolworths-rspca-approved-chicken-drumsticks",
+    "name": "Woolworths RSPCA Approved Chicken Drumsticks per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/340976.jpg",
+    "source_id": "340976",
+    "barcode": "0275404000004",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/743951/woolworths-rspca-approved-chicken-kabab-satay-style",
+    "name": "Woolworths RSPCA Approved Chicken Kabab Satay Style each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/743951.jpg",
+    "source_id": "743951",
+    "barcode": "0270316000005",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/353996/woolworths-rspca-approved-chicken-maryland-supreme",
+    "name": "Woolworths RSPCA Approved Chicken Maryland Supreme per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/353996.jpg",
+    "source_id": "353996",
+    "barcode": "0272929000007",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/354007/woolworths-rspca-approved-chicken-thigh-cutlets",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Cutlets per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/354007.jpg",
+    "source_id": "354007",
+    "barcode": "0272499000001",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/340975/woolworths-rspca-approved-chicken-thigh-fillet",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Fillet per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/340975.jpg",
+    "source_id": "340975",
+    "barcode": "0274404000007",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/713233/woolworths-rspca-approved-chicken-wings-three-joint",
+    "name": "Woolworths RSPCA Approved Chicken Wings Three Joint per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/713233.jpg",
+    "source_id": "713233",
+    "barcode": "0273645000005",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/433191/chicken-schnitzel-parmi-crumbed",
+    "name": "Chicken Schnitzel Parmi Crumbed Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/433191.jpg",
+    "source_id": "433191",
+    "barcode": "0272960000004",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/806278/woolworths-premium-pub-style-chicken-schnitzel",
+    "name": "Woolworths Premium Pub Style Chicken Schnitzel Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/806278.jpg",
+    "source_id": "806278",
+    "barcode": "0275403000005",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/742211/woolworths-rspca-approved-chicken-kebab-honey-soy",
+    "name": "Woolworths RSPCA Approved Chicken Kebab Honey Soy each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/742211.jpg",
+    "source_id": "742211",
+    "barcode": "0274848000007",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/315147/woolworths-rspca-approved-chicken-kebab-satay",
+    "name": "Woolworths RSPCA Approved Chicken Kebab Satay each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/315147.jpg",
+    "source_id": "315147",
+    "barcode": "0276820000005",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/412178/woolworths-rspca-approved-chicken-necks",
+    "name": "Woolworths RSPCA Approved Chicken Necks per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/412178.jpg",
+    "source_id": "412178",
+    "barcode": "0276887000000",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/332098/woolworths-rspca-approved-chicken-thigh-cutlets",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Cutlets per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/332098.jpg",
+    "source_id": "332098",
+    "barcode": "0270050000002",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/77069/woolworths-rspca-approved-chicken-thigh-fillet",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Fillet per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/077069.jpg",
+    "source_id": "77069",
+    "barcode": "0270310000001",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/710943/woolworths-rspca-approved-chicken-wings-three-joint",
+    "name": "Woolworths RSPCA Approved Chicken Wings Three Joint per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/710943.jpg",
+    "source_id": "710943",
+    "barcode": "0275700000005",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/665597/canon-foods-chicken-sandwich-schnitzel",
+    "name": "Canon Foods Chicken Sandwich Schnitzel Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/665597.jpg",
+    "source_id": "665597",
+    "barcode": "0277090000009",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "140",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/355369/chicken-schnitzel-crumbed-breast",
+    "name": "Chicken Schnitzel Crumbed Breast Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/355369.jpg",
+    "source_id": "355369",
+    "barcode": "0271561000000",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "370",
+        "price_per_unit": "370",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/158634/woolworths-honey-soy-wings-with-rspca-approved-chicken",
+    "name": "Woolworths Honey Soy Wings with RSPCA Approved Chicken per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/158634.jpg",
+    "source_id": "158634",
+    "barcode": "0277913000001",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/23208/woolworths-rspca-approved-chicken-drumsticks",
+    "name": "Woolworths RSPCA Approved Chicken Drumsticks per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/023208.jpg",
+    "source_id": "23208",
+    "barcode": "0270254000006",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/353958/woolworths-rspca-approved-chicken-maryland-supreme",
+    "name": "Woolworths RSPCA Approved Chicken Maryland Supreme per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/353958.jpg",
+    "source_id": "353958",
+    "barcode": "0271772000004",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/77038/woolworths-rspca-approved-chicken-thigh-fillet",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Fillet per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/077038.jpg",
+    "source_id": "77038",
+    "barcode": "0270257000003",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1500",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/354118/woolworths-rspca-approved-chicken-thigh-cutlets",
+    "name": "Woolworths RSPCA Approved Chicken Thigh Cutlets per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/354118.jpg",
+    "source_id": "354118",
+    "barcode": "0272390000001",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/23173/woolworths-rspca-approved-chicken-wings-three-joint",
+    "name": "Woolworths RSPCA Approved Chicken Wings Three Joint per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/023173.jpg",
+    "source_id": "23173",
+    "barcode": "0270790000003",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/16487/woolworths-rspca-approved-chicken-drumsticks",
+    "name": "Woolworths RSPCA Approved Chicken Drumsticks per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/016487.jpg",
+    "source_id": "16487",
+    "barcode": "0270300000004",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "480",
+        "price_per_unit": "480",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/354116/woolworths-rspca-approved-chicken-maryland-supreme",
+    "name": "Woolworths RSPCA Approved Chicken Maryland Supreme per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/354116.jpg",
+    "source_id": "354116",
+    "barcode": "0272224000009",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/617010/woolworths-rspca-approved-chicken-necks",
+    "name": "Woolworths RSPCA Approved Chicken Necks per kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/617010.jpg",
+    "source_id": "617010",
+    "barcode": "0273671000000",
+    "category_id": "22713",
+    "subcategory_id": "24059",
+    "subsubcategory_id": "22717",
+    "shop": "Woolworths",
+    "weight": "per kg",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

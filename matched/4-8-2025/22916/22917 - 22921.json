@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/bird-munchies-gourmet-parrot-blend-1-kg-4362943",
+    "name": "Bird Munchies Gourmet Parrot Blend | 1 kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4362943.jpg&w=640&q=90",
+    "source_id": "4362943",
+    "barcode": "9313175050024",
+    "shop": "coles",
+    "category_id": "22921",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "58",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/30011/bird-munchies-bird-food-gourmet-blend-parrot",
+    "name": "Bird Munchies Bird Food Gourmet Blend Parrot 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/030011.jpg",
+    "source_id": "30011",
+    "barcode": "9313175050024",
+    "shop": "Woolworths",
+    "category_id": "22921",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "58",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

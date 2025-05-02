@@ -1,0 +1,176 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-cabbage-half-1-each-5057344",
+    "name": "Coles Organic Cabbage Half | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5057344.jpg&w=640&q=90",
+    "source_id": "5057344",
+    "barcode": "0264835000004",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "490",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/149792/macro-fresh-cabbage-organic-green-half",
+    "name": "Macro Fresh Cabbage Organic Green Half Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/149792.jpg",
+    "source_id": "149792",
+    "barcode": "0264835000004",
+    "shop": "Woolworths",
+    "category_id": "23987",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-mixed-baby-cos-lettuce-2-pack-7367025",
+    "name": "Coles Mixed Baby Cos Lettuce | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7367025.jpg&w=640&q=90",
+    "source_id": "7367025",
+    "barcode": "0260476000007",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "330",
+        "price_per_unit": "165",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/786006/macro-fresh-lettuce-baby-cos-organic-pack",
+    "name": "Macro Fresh Lettuce Baby Cos Organic Pack Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/786006.jpg",
+    "source_id": "786006",
+    "barcode": "0260476000007",
+    "shop": "Woolworths",
+    "category_id": "23987",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-green-kale-1-each-1058491",
+    "name": "Coles Organic Green Kale | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1058491.jpg&w=640&q=90",
+    "source_id": "1058491",
+    "barcode": "0261670000008",
+    "shop": "coles",
+    "category_id": "23987",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/772786/macro-organic-kale",
+    "name": "Macro Organic Kale Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/772786.jpg",
+    "source_id": "772786",
+    "barcode": "0261670000008",
+    "shop": "Woolworths",
+    "category_id": "23987",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

@@ -1,0 +1,974 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-360-optic-white-medium-battery-power-whitening-toothbrush-1-pack-8931326",
+    "name": "Colgate 360 Optic White Medium Battery PoWer Whitening Toothbrush | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8931326.jpg&w=640&q=90",
+    "source_id": "8931326",
+    "barcode": "9300632076215",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/370532/colgate-battery-power-toothbrush-360-whitening-optic-white-medium",
+    "name": "Colgate Battery Power Toothbrush 360 Whitening Optic White Medium each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/370532.jpg",
+    "source_id": "370532",
+    "barcode": "9300632076215",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-toothpaste-kids-bluey-strawberry-pump-85g-9061310",
+    "name": "Colgate Toothpaste Kids Bluey Strawberry Pump | 85g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9061310.jpg&w=640&q=90",
+    "source_id": "9061310",
+    "barcode": "6920354839856",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "85g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "706",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6005447/colgate-kids-bluey-toothpaste-pump-strawberry-flavour",
+    "name": "Colgate Kids Bluey Toothpaste Pump Strawberry Flavour 85g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6005447.jpg",
+    "source_id": "6005447",
+    "barcode": "6920354839856",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "85g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "741",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-kids-sonic-battery-toothbrush-1-each-3973624",
+    "name": "Colgate Kids Sonic Battery Toothbrush | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3973624.jpg&w=640&q=90",
+    "source_id": "3973624",
+    "barcode": "8850006938089",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/136776/colgate-kids-toothbrush-battery-sonic-barbie-extra-soft-for-3-years",
+    "name": "Colgate Kids Toothbrush Battery Sonic Barbie Extra Soft For 3+ Years each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/136776.jpg",
+    "source_id": "136776",
+    "barcode": "8850006938089",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1260",
+        "price_per_unit": "1260",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-kids-junior-bluey-powered-toothbrush-1-pack-4842520",
+    "name": "Colgate Kids Junior Bluey Powered Toothbrush | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4842520.jpg&w=640&q=90",
+    "source_id": "4842520",
+    "barcode": "8850006942857",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/196991/colgate-kids-toothbrush-battery-sonic-bluey-extra-soft-for-3-years",
+    "name": "Colgate Kids Toothbrush Battery Sonic Bluey Extra Soft For 3+ Years each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/196991.jpg",
+    "source_id": "196991",
+    "barcode": "8850006942857",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1260",
+        "price_per_unit": "1260",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-kids-0-3-years-mild-fruit-toothpaste-80g-3680400",
+    "name": "Colgate Kids 0-3 Years Mild Fruit Toothpaste | 80g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3680400.jpg&w=640&q=90",
+    "source_id": "3680400",
+    "barcode": "6920354826252",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/80820/colgate-kids-toothpaste-anticavity-0-3-yrs-mild-fruit",
+    "name": "Colgate Kids Toothpaste Anticavity 0-3 Yrs Mild Fruit 80g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/080820.jpg",
+    "source_id": "80820",
+    "barcode": "6920354826252",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "80G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "525",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-kids-toothpaste-bluey-mild-mint-gel-90g-3991681",
+    "name": "Colgate Kids Toothpaste Bluey Mild Mint Gel | 90g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3991681.jpg&w=640&q=90",
+    "source_id": "3991681",
+    "barcode": "8850006937594",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "90g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "306",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/138290/colgate-kids-toothpaste-junior-bluey-2-5-years",
+    "name": "Colgate Kids Toothpaste Junior Bluey 2-5 Years 90g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/138290.jpg",
+    "source_id": "138290",
+    "barcode": "8850006937594",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "90g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "306",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-kids-mild-mint-minions-toothpaste-90g-3973475",
+    "name": "Colgate Kids Mild Mint Minions Toothpaste | 90g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3973475.jpg&w=640&q=90",
+    "source_id": "3973475",
+    "barcode": "8850006937570",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "90g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "306",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/136669/colgate-kids-toothpaste-kids-minions-6-years-mint-gel",
+    "name": "Colgate Kids Toothpaste Kids Minions 6+ Years Mint Gel 90g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/136669.jpg",
+    "source_id": "136669",
+    "barcode": "8850006937570",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "90g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "306",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-zig-zag-flex-medium-toothbrush-3-pack-8109411",
+    "name": "Colgate Zig Zag Flex Medium Toothbrush | 3 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8109411.jpg&w=640&q=90",
+    "source_id": "8109411",
+    "barcode": "8714789135243",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "3pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "780",
+        "price_per_unit": "260",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/211366/colgate-manual-toothbrush-zig-zag-interdental-clean-med-value",
+    "name": "Colgate Manual Toothbrush Zig Zag Interdental Clean Med Value 3 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/211366.jpg",
+    "source_id": "211366",
+    "barcode": "8714789135243",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "3 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "130",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-zig-zag-medium-toothbrush-value-pack-6-pack-4767560",
+    "name": "Colgate Zig Zag Medium Toothbrush Value Pack | 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4767560.jpg&w=640&q=90",
+    "source_id": "4767560",
+    "barcode": "9300632065547",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/238512/colgate-manual-toothbrush-zig-zag-interdental-clean-med-value",
+    "name": "Colgate Manual Toothbrush Zig Zag Interdental Clean Med Value 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/238512.jpg",
+    "source_id": "238512",
+    "barcode": "9300632065547",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1260",
+        "price_per_unit": "210",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-zig-zag-flex-soft-toothbrush-3-pack-8109433",
+    "name": "Colgate Zig Zag Flex Soft Toothbrush | 3 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8109433.jpg&w=640&q=90",
+    "source_id": "8109433",
+    "barcode": "8714789135274",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "3pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "780",
+        "price_per_unit": "260",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/211365/colgate-manual-toothbrush-zig-zag-interdental-clean-soft-value",
+    "name": "Colgate Manual Toothbrush Zig Zag Interdental Clean Soft Value 3 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/211365.jpg",
+    "source_id": "211365",
+    "barcode": "8714789135274",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "3 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "130",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-optic-white-pro-series-manual-toothbrush-charcoal-spiral-brstles-2-pack-7524495",
+    "name": "Colgate Optic White Pro Series Manual Toothbrush Charcoal Spiral Brstles | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7524495.jpg&w=640&q=90",
+    "source_id": "7524495",
+    "barcode": "8850006951040",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "840",
+        "price_per_unit": "420",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/423317/colgate-optic-white-charcoal-toothbrush-soft",
+    "name": "Colgate Optic White Charcoal Toothbrush Soft 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/423317.jpg",
+    "source_id": "423317",
+    "barcode": "8850006951040",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "2 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-sensitive-expert-toothbrush-super-soft-2-pack-7524510",
+    "name": "Colgate Sensitive Expert Toothbrush Super Soft | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7524510.jpg&w=640&q=90",
+    "source_id": "7524510",
+    "barcode": "8850006951057",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "600",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/554628/colgate-sensitive-expert-toothbrush-ultra-soft",
+    "name": "Colgate Sensitive Expert Toothbrush Ultra Soft 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/554628.jpg",
+    "source_id": "554628",
+    "barcode": "8850006951057",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "2 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1260",
+        "price_per_unit": "630",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-360-degree-value-pack-medium-toothbrush-2-pack-5398582",
+    "name": "Colgate 360 Degree Value Pack Medium Toothbrush | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5398582.jpg&w=640&q=90",
+    "source_id": "5398582",
+    "barcode": "9300632067091",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/254548/colgate-toothbrush-360-medium-value-pack",
+    "name": "Colgate Toothbrush 360 - Medium Value Pack 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/254548.jpg",
+    "source_id": "254548",
+    "barcode": "9300632067091",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "2 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "840",
+        "price_per_unit": "420",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-360-advanced-medium-toothbrush-4-pack-4961347",
+    "name": "Colgate 360 Advanced Medium Toothbrush | 4 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4961347.jpg&w=640&q=90",
+    "source_id": "4961347",
+    "barcode": "8850006943380",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "4pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "450",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/181156/colgate-toothbrush-360-advanced-medium",
+    "name": "Colgate Toothbrush 360 Advanced Medium 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/181156.jpg",
+    "source_id": "181156",
+    "barcode": "8850006943380",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1980",
+        "price_per_unit": "495",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-360-advanced-medium-manual-toothbrush-1-pack-2871210",
+    "name": "Colgate 360 Advanced Medium Manual Toothbrush | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2871210.jpg&w=640&q=90",
+    "source_id": "2871210",
+    "barcode": "9300632088232",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "480",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/570288/colgate-toothbrush-360-advanced-medium-bacteria-removing-action",
+    "name": "Colgate Toothbrush 360 Advanced Medium Bacteria Removing Action each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/570288.jpg",
+    "source_id": "570288",
+    "barcode": "9300632088232",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-360-advanced-soft-toothbrush-4-pack-4961325",
+    "name": "Colgate 360 Advanced Soft Toothbrush | 4 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4961325.jpg&w=640&q=90",
+    "source_id": "4961325",
+    "barcode": "8850006943373",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "4pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "450",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/182782/colgate-toothbrush-360-advanced-soft",
+    "name": "Colgate Toothbrush 360 Advanced Soft 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/182782.jpg",
+    "source_id": "182782",
+    "barcode": "8850006943373",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1980",
+        "price_per_unit": "495",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-360-advanced-soft-manual-toothbrush-1-pack-2871200",
+    "name": "Colgate 360 Advanced Soft Manual Toothbrush | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2871200.jpg&w=640&q=90",
+    "source_id": "2871200",
+    "barcode": "9300632088249",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "480",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/570287/colgate-toothbrush-360-advanced-soft-bacteria-removing-action",
+    "name": "Colgate Toothbrush 360 Advanced Soft Bacteria Removing Action each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/570287.jpg",
+    "source_id": "570287",
+    "barcode": "9300632088249",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-360-sensitive-manual-toothbrush-2-pack-2873170",
+    "name": "Colgate 360 Sensitive Manual Toothbrush | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2873170.jpg&w=640&q=90",
+    "source_id": "2873170",
+    "barcode": "9300632088386",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/678566/colgate-toothbrush-360-pro-relief-teeth-pain-soft",
+    "name": "Colgate Toothbrush 360 Pro-Relief Teeth Pain Soft 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/678566.jpg",
+    "source_id": "678566",
+    "barcode": "9300632088386",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "2 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "840",
+        "price_per_unit": "420",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-360-degree-medium-toothbrush-1-pack-4155745",
+    "name": "Colgate 360 Degree Medium Toothbrush | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4155745.jpg&w=640&q=90",
+    "source_id": "4155745",
+    "barcode": "8714789183800",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/214684/colgate-toothbrush-360-whole-mouth-clean-medium",
+    "name": "Colgate Toothbrush 360 Whole Mouth Clean Medium each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/214684.jpg",
+    "source_id": "214684",
+    "barcode": "8714789183800",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-360-degree-soft-toothbrush-1-pack-4155756",
+    "name": "Colgate 360 Degree Soft Toothbrush | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4155756.jpg&w=640&q=90",
+    "source_id": "4155756",
+    "barcode": "8714789183824",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/214489/colgate-toothbrush-360-whole-mouth-clean-soft",
+    "name": "Colgate Toothbrush 360 Whole Mouth Clean Soft each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/214489.jpg",
+    "source_id": "214489",
+    "barcode": "8714789183824",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-slim-soft-advance-gold-manual-toothbrush-1-pack-3132052",
+    "name": "Colgate Slim Soft Advance Gold Manual Toothbrush | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3132052.jpg&w=640&q=90",
+    "source_id": "3132052",
+    "barcode": "9300632089239",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/678565/colgate-toothbrush-advanced-charcoal-ultra-soft",
+    "name": "Colgate Toothbrush Advanced - Charcoal Ultra Soft 1 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/678565.jpg",
+    "source_id": "678565",
+    "barcode": "9300632089239",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "1 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-toothbrush-slim-soft-advanced-design-3-pack-4842483",
+    "name": "Colgate Toothbrush Slim Soft Advanced Design | 3 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4842483.jpg&w=640&q=90",
+    "source_id": "4842483",
+    "barcode": "8850006943922",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "3pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "400",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/197047/colgate-toothbrush-advanced-slim-utra-soft",
+    "name": "Colgate Toothbrush Advanced Slim Utra Soft 3 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/197047.jpg",
+    "source_id": "197047",
+    "barcode": "8850006943922",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "3 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "840",
+        "price_per_unit": "280",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-bamboo-toothbrush-medium-2-pack-3973588",
+    "name": "Colgate Bamboo Toothbrush Medium | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3973588.jpg&w=640&q=90",
+    "source_id": "3973588",
+    "barcode": "8850006936313",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/136287/colgate-toothbrush-biodegradable-bpa-free-bamboo",
+    "name": "Colgate Toothbrush Biodegradable Bpa Free Bamboo 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/136287.jpg",
+    "source_id": "136287",
+    "barcode": "8850006936313",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "2 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1070",
+        "price_per_unit": "1070",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-kids-junior-bluey-manual-soft-toothbrush-1-each-4498912",
+    "name": "Colgate Kids Junior Bluey Manual Soft Toothbrush | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4498912.jpg&w=640&q=90",
+    "source_id": "4498912",
+    "barcode": "8714789086477",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/226446/colgate-toothbrush-bluey-kids-2-5-years",
+    "name": "Colgate Toothbrush Bluey Kids 2-5 Years Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/226446.jpg",
+    "source_id": "226446",
+    "barcode": "8714789086477",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-minions-extra-soft-toothbrush-2-pack-3412900",
+    "name": "Colgate Minions Extra Soft Toothbrush | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3412900.jpg&w=640&q=90",
+    "source_id": "3412900",
+    "barcode": "8718951249929",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "220",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/819802/colgate-toothbrush-minions-kids-6-years",
+    "name": "Colgate Toothbrush Minions Kids 6+ Years 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/819802.jpg",
+    "source_id": "819802",
+    "barcode": "8718951249929",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "2 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/colgate-slim-soft-charcoal-toothbrush-1-pack-1706081",
+    "name": "Colgate Slim Soft Charcoal Toothbrush | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1706081.jpg&w=640&q=90",
+    "source_id": "1706081",
+    "barcode": "9300632083879",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/780273/colgate-toothbrush-slim-soft-charcoal-infused",
+    "name": "Colgate Toothbrush Slim Soft Charcoal Infused each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/780273.jpg",
+    "source_id": "780273",
+    "barcode": "9300632083879",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/jack-n'-jill-toothpaste-natural-strawberry-50g-5927650",
+    "name": "Jack N' Jill Toothpaste Natural Strawberry | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5927650.jpg&w=640&q=90",
+    "source_id": "5927650",
+    "barcode": "9312657009017",
+    "shop": "coles",
+    "category_id": "23818",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/712696/jack-n-jill-natural-toothpaste-strawberry",
+    "name": "Jack N' Jill Natural Toothpaste Strawberry 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/712696.jpg",
+    "source_id": "712696",
+    "barcode": "9312657009017",
+    "shop": "Woolworths",
+    "category_id": "23818",
+    "weight": "50G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "780",
+        "price_per_unit": "1560",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

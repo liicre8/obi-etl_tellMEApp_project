@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/birds-eye-australian-corn-kernels-825g-9189518",
+    "name": "Birds Eye Australian Corn Kernels | 825g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9189518.jpg&w=640&q=90",
+    "source_id": "9189518",
+    "barcode": "9310081134718",
+    "shop": "coles",
+    "category_id": "22329",
+    "weight": "825g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "570",
+        "price_per_unit": "691",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6006006/birds-eye-australian-grown-corn-kernels",
+    "name": "Birds Eye Australian Grown Corn Kernels 825g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6006006.jpg",
+    "source_id": "6006006",
+    "barcode": "9310081134718",
+    "shop": "Woolworths",
+    "category_id": "22329",
+    "weight": "825g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "570",
+        "price_per_unit": "691",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-frozen-corn-kernels-500g-428154",
+    "name": "McCain Frozen Corn Kernels | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F428154.jpg&w=640&q=90",
+    "source_id": "428154",
+    "barcode": "9310174006403",
+    "shop": "coles",
+    "category_id": "22329",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "720",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/90838/mccain-corn-kernels",
+    "name": "McCain Corn Kernels 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/090838.jpg",
+    "source_id": "90838",
+    "barcode": "9310174006403",
+    "shop": "Woolworths",
+    "category_id": "22329",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "720",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-frozen-corn-kernels-1kg-7644996",
+    "name": "Coles Frozen Corn Kernels | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7644996.jpg&w=640&q=90",
+    "source_id": "7644996",
+    "barcode": "9300633450434",
+    "shop": "coles",
+    "category_id": "22329",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "419",
+        "price_per_unit": "419",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/768570/woolworths-corn-kernels",
+    "name": "Woolworths Corn Kernels 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/768570.jpg",
+    "source_id": "768570",
+    "barcode": "9300633450434",
+    "shop": "Woolworths",
+    "category_id": "22329",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

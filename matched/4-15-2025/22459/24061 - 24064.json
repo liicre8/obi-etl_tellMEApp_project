@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/bonds-womens-seamless-full-brief-size-12-2-pack-3711082",
+    "name": "Bonds Womens Seamless Full Brief Size 12 | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3711082.jpg&w=640&q=90",
+    "source_id": "3711082",
+    "barcode": "9312997160607",
+    "shop": "coles",
+    "category_id": "24064",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/660239/bonds-seamless-full-brief-size-12-assorted",
+    "name": "Bonds Seamless Full Brief Size 12 Assorted 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/660239.jpg",
+    "source_id": "660239",
+    "barcode": "9312997160607",
+    "shop": "Woolworths",
+    "category_id": "24064",
+    "weight": "2 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bonds-womens-seamless-full-brief-size-14-2-pack-6845610",
+    "name": "Bonds Womens Seamless Full Brief Size 14 | 2 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6845610.jpg&w=640&q=90",
+    "source_id": "6845610",
+    "barcode": "9312997160614",
+    "shop": "coles",
+    "category_id": "24064",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/660182/bonds-seamless-full-brief-size-14-assorted",
+    "name": "Bonds Seamless Full Brief Size 14 Assorted 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/660182.jpg",
+    "source_id": "660182",
+    "barcode": "9312997160614",
+    "shop": "Woolworths",
+    "category_id": "24064",
+    "weight": "2 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  }
+]

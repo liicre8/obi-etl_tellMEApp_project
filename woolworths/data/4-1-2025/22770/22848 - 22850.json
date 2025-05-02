@@ -1,0 +1,234 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/552357/beaufor-dijon-mustard",
+    "name": "Beaufor Dijon Mustard 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/552357.jpg",
+    "source_id": "552357",
+    "barcode": "3077310532849",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22850",
+    "shop": "Woolworths",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/203083/bippi-italian-style-mild-chilli",
+    "name": "Bippi Italian Style Mild Chilli 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/203083.jpg",
+    "source_id": "203083",
+    "barcode": "9369998104123",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22850",
+    "shop": "Woolworths",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1195",
+        "price_per_unit": "478",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "1195",
+        "price_per_unit": "478",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/305007/ritter-sport-sport-chocolate-milk-whole-hazelnut",
+    "name": "Ritter Sport Sport Chocolate Milk Whole Hazelnut 100G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/305007.jpg",
+    "source_id": "305007",
+    "barcode": "4000417019004",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22850",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "620",
+        "price_per_unit": "620",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/59018/drava-chicken-halal",
+    "name": "Drava Chicken Halal 95g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/059018.jpg",
+    "source_id": "59018",
+    "barcode": "9311187509714",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22850",
+    "shop": "Woolworths",
+    "weight": "95G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "245",
+        "price_per_unit": "258",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/675945/drava-chicken-liver-pate-spread",
+    "name": "Drava Chicken Liver Pate Spread 95g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/675945.jpg",
+    "source_id": "675945",
+    "barcode": "9311187509721",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22850",
+    "shop": "Woolworths",
+    "weight": "95g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "245",
+        "price_per_unit": "258",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/151972/falcone-cantucci-d-abruzzo-alla-mandorla-almond-cookies",
+    "name": "Falcone Cantucci D'Abruzzo Alla Mandorla Almond Cookies 200G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/151972.jpg",
+    "source_id": "151972",
+    "barcode": "8023696002174",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22850",
+    "shop": "Woolworths",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "275",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/151096/falcone-italian-soft-amaretti",
+    "name": "Falcone Italian Soft Amaretti 170G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/151096.jpg",
+    "source_id": "151096",
+    "barcode": "8023696005762",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22850",
+    "shop": "Woolworths",
+    "weight": "170G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "324",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/152952/flott-anchovies-in-sunflower-oil",
+    "name": "Flott Anchovies In Sunflower Oil 235G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/152952.jpg",
+    "source_id": "152952",
+    "barcode": "80315902",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22850",
+    "shop": "Woolworths",
+    "weight": "235G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "596",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/352037/krakus-european-foods-pickled-dill-cucumbers",
+    "name": "Krakus European Foods Pickled Dill Cucumbers 850g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/352037.jpg",
+    "source_id": "352037",
+    "barcode": "5900397734272",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22850",
+    "shop": "Woolworths",
+    "weight": "850G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "65",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/680854/kras-napolitanke-nougat-hazelnut-wafers",
+    "name": "Kras Napolitanke Nougat Hazelnut Wafers 93g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/680854.jpg",
+    "source_id": "680854",
+    "barcode": "3850102523399",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22850",
+    "shop": "Woolworths",
+    "weight": "93g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "204",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/338075/kuhne-german-barrel-sauerkraut",
+    "name": "Kuhne German Barrel Sauerkraut 810G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/338075.jpg",
+    "source_id": "338075",
+    "barcode": "39045050558",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22850",
+    "shop": "Woolworths",
+    "weight": "810G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "620",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

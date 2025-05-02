@@ -1,0 +1,102 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/42919/country-fresh-12-extra-large-free-range-eggs",
+    "name": "Country Fresh 12 Extra Large Free Range Eggs 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/042919.jpg",
+    "source_id": "42919",
+    "barcode": "9315748130614",
+    "category_id": "22089",
+    "subcategory_id": "22112",
+    "subsubcategory_id": "22114",
+    "shop": "Woolworths",
+    "weight": "700G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "760",
+        "price_per_unit": "109",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/869029/farmhouse-fresh-12-cage-eggs",
+    "name": "Farmhouse Fresh 12 Cage Eggs 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/869029.jpg",
+    "source_id": "869029",
+    "barcode": "9310229800185",
+    "category_id": "22089",
+    "subcategory_id": "22112",
+    "subsubcategory_id": "22114",
+    "shop": "Woolworths",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "83",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/202911/sunny-queen-100-egg-whites",
+    "name": "Sunny Queen 100% Egg Whites 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/202911.jpg",
+    "source_id": "202911",
+    "barcode": "9349663002558",
+    "category_id": "22089",
+    "subcategory_id": "22112",
+    "subsubcategory_id": "22114",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "190",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/582112/woolworths-12-extra-large-cage-free-eggs",
+    "name": "Woolworths 12 Extra Large Cage Free Eggs 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/582112.jpg",
+    "source_id": "582112",
+    "barcode": "9300633636999",
+    "category_id": "22089",
+    "subcategory_id": "22112",
+    "subsubcategory_id": "22114",
+    "shop": "Woolworths",
+    "weight": "700G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "84",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/582115/woolworths-12-large-free-range-eggs",
+    "name": "Woolworths 12 Large Free Range Eggs 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/582115.jpg",
+    "source_id": "582115",
+    "barcode": "9300633637026",
+    "category_id": "22089",
+    "subcategory_id": "22112",
+    "subsubcategory_id": "22114",
+    "shop": "Woolworths",
+    "weight": "600G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "620",
+        "price_per_unit": "103",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

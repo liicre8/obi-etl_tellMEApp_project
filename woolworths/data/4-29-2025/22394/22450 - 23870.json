@@ -1,0 +1,122 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/905817/blackmores-coq10-150mg-heart-blood-lipid-health-capsules",
+    "name": "Blackmores CoQ10 150mg Heart & Blood Lipid Health Capsules 90 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/905817.jpg",
+    "source_id": "905817",
+    "barcode": "9300807307885",
+    "category_id": "22394",
+    "subcategory_id": "22450",
+    "subsubcategory_id": "23870",
+    "shop": "Woolworths",
+    "weight": "90 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "3333",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/725625/blackmores-coq10-150mg-heart-health-vitamin-capsules",
+    "name": "Blackmores Coq10 150mg Heart Health Vitamin Capsules 30 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/725625.jpg",
+    "source_id": "725625",
+    "barcode": "93894944",
+    "category_id": "22394",
+    "subcategory_id": "22450",
+    "subsubcategory_id": "23870",
+    "shop": "Woolworths",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "10000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/59366/blackmores-super-strength-coq10-300mg-heart-health-vitamin-tablets",
+    "name": "Blackmores Super Strength Coq10 300mg Heart Health Vitamin Tablets 30 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/059366.jpg",
+    "source_id": "59366",
+    "barcode": "93550703",
+    "category_id": "22394",
+    "subcategory_id": "22450",
+    "subsubcategory_id": "23870",
+    "shop": "Woolworths",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "6333",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/134174/blackmores-vitamin-e-1000iu-cholesterol-health-capsules",
+    "name": "Blackmores Vitamin e 1000iu Cholesterol Health Capsules 30 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/134174.jpg",
+    "source_id": "134174",
+    "barcode": "93482752",
+    "category_id": "22394",
+    "subcategory_id": "22450",
+    "subsubcategory_id": "23870",
+    "shop": "Woolworths",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "3667",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/187300/swisse-ultiboost-high-strength-co-enzyme-q10-capsules",
+    "name": "Swisse Ultiboost High Strength Co-Enzyme Q10 Capsules 30 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/187300.jpg",
+    "source_id": "187300",
+    "barcode": "93566339",
+    "category_id": "22394",
+    "subcategory_id": "22450",
+    "subsubcategory_id": "23870",
+    "shop": "Woolworths",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3950",
+        "price_per_unit": "13167",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/324904/swisse-ultiboost-memory-focus-tablets",
+    "name": "Swisse Ultiboost Memory + Focus Tablets 50 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/324904.jpg",
+    "source_id": "324904",
+    "barcode": "9311770588034",
+    "category_id": "22394",
+    "subcategory_id": "22450",
+    "subsubcategory_id": "23870",
+    "shop": "Woolworths",
+    "weight": "50 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3500",
+        "price_per_unit": "7000",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

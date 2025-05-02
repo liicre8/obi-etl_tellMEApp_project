@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/don-mild-hungarian-salami-200g-4253314",
+    "name": "Don Mild Hungarian Salami | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4253314.jpg&w=640&q=90",
+    "source_id": "4253314",
+    "barcode": "93389365",
+    "shop": "coles",
+    "category_id": "24033",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "4250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/64116/don-salami-hungarian-plain",
+    "name": "Don Salami Hungarian Plain 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/064116.jpg",
+    "source_id": "64116",
+    "barcode": "93389365",
+    "shop": "Woolworths",
+    "category_id": "24033",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/don-salami-pepperoni-200g-5643960",
+    "name": "Don Salami Pepperoni | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5643960.jpg&w=640&q=90",
+    "source_id": "5643960",
+    "barcode": "93389389",
+    "shop": "coles",
+    "category_id": "24033",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "4250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/64117/don-salami-pepperoni",
+    "name": "Don Salami Pepperoni 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/064117.jpg",
+    "source_id": "64117",
+    "barcode": "93389389",
+    "shop": "Woolworths",
+    "category_id": "24033",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

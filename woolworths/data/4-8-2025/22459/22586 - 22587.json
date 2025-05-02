@@ -1,0 +1,42 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/385982/aerogard-home-crawling-insect-spray",
+    "name": "Aerogard Home Crawling-Insect Spray 300ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/385982.jpg",
+    "source_id": "385982",
+    "barcode": "9300701630744",
+    "category_id": "22459",
+    "subcategory_id": "22586",
+    "subsubcategory_id": "22587",
+    "shop": "Woolworths",
+    "weight": "300mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "467",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/386033/aerogard-home-multi-insect-killer-spray",
+    "name": "Aerogard Home Multi Insect Killer Spray 300ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/386033.jpg",
+    "source_id": "386033",
+    "barcode": "9300701630720",
+    "category_id": "22459",
+    "subcategory_id": "22586",
+    "subsubcategory_id": "22587",
+    "shop": "Woolworths",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1120",
+        "price_per_unit": "373",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

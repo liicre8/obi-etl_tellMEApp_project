@@ -1,0 +1,534 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/122188/ingham-s-coating-mix-seasoning-chicken",
+    "name": "Ingham's Coating Mix Seasoning Chicken 75g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/122188.jpg",
+    "source_id": "122188",
+    "barcode": "9310037022168",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "75G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "105",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "105",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "105",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/373176/continental-sensations-chicken-stock-pot",
+    "name": "Continental Sensations Chicken Stock Pot 4 x 28 g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/373176.jpg",
+    "source_id": "373176",
+    "barcode": "9300830002337",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "4 x 28 g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "475",
+        "price_per_unit": "42",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33948/kikkoman-marinade-teriyaki",
+    "name": "Kikkoman Marinade Teriyaki 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033948.jpg",
+    "source_id": "33948",
+    "barcode": "4901515331794",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "168",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/97063/marion-s-kitchen-coconut-sriracha",
+    "name": "Marion's Kitchen Coconut Sriracha 360ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/097063.jpg",
+    "source_id": "97063",
+    "barcode": "9345654000251",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "360mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "505",
+        "price_per_unit": "140",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/81249/marion-s-kitchen-sticky-chilli-ginger",
+    "name": "Marion's Kitchen Sticky Chilli Ginger 240mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/081249.jpg",
+    "source_id": "81249",
+    "barcode": "9345654000275",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "240mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "505",
+        "price_per_unit": "210",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/51632/masterfoods-satay-marinade",
+    "name": "MasterFoods Satay Marinade 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/051632.jpg",
+    "source_id": "51632",
+    "barcode": "9310012020202",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/51631/masterfoods-smokey-bbq-marinade",
+    "name": "MasterFoods Smokey Bbq Marinade 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/051631.jpg",
+    "source_id": "51631",
+    "barcode": "9310012020219",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/72364/masterfoods-soy-honey-garlic-marinade",
+    "name": "MasterFoods Soy, Honey & Garlic Marinade 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/072364.jpg",
+    "source_id": "72364",
+    "barcode": "9310012019589",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/118614/masterfoods-sweet-plum-marinade",
+    "name": "MasterFoods Sweet Plum Marinade 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/118614.jpg",
+    "source_id": "118614",
+    "barcode": "9310012022282",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/57688/masterfoods-teriyaki-marinade",
+    "name": "MasterFoods Teriyaki Marinade 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/057688.jpg",
+    "source_id": "57688",
+    "barcode": "9310012002475",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "96",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/701943/nando-s-lemon-herb-peri-peri-quick-marinade",
+    "name": "Nando's Lemon & Herb Peri-Peri Quick Marinade 260g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/701943.jpg",
+    "source_id": "701943",
+    "barcode": "6003770007105",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "260g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "154",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720003/nando-s-medium-peri-peri-quick-marinade",
+    "name": "Nando's Medium Peri-Peri Quick Marinade 262g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/720003.jpg",
+    "source_id": "720003",
+    "barcode": "6003770007099",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "262g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/377119/sweet-baby-ray-s-bbq-sauce",
+    "name": "Sweet Baby Ray's BBQ Sauce 425mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/377119.jpg",
+    "source_id": "377119",
+    "barcode": "13409516065",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "425mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "186",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/779290/sweet-baby-ray-s-buffalo-wing-sauce-and-glaze",
+    "name": "Sweet Baby Ray's Buffalo Wing Sauce And Glaze Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/779290.jpg",
+    "source_id": "779290",
+    "barcode": "13409128442",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "167",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802036/sweet-baby-ray-s-hickory-brown-sugar-bbq-sauce",
+    "name": "Sweet Baby Ray's Hickory & Brown Sugar Bbq Sauce 425ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/802036.jpg",
+    "source_id": "802036",
+    "barcode": "13409451328",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "425mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "186",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/60469/sweet-baby-ray-s-honey-bbq-sauce",
+    "name": "Sweet Baby Ray's Honey Bbq Sauce 425ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/060469.jpg",
+    "source_id": "60469",
+    "barcode": "13409516072",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "425mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "186",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/385449/walkerswood-jamaican-firestick-pepper-sauce-plenty-hot",
+    "name": "Walkerswood Jamaican Firestick Pepper Sauce Plenty Hot 100ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/385449.jpg",
+    "source_id": "385449",
+    "barcode": "15414541384",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "100ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/728120/walkerswood-jamaican-jerk-seasoning-hot-spicy-traditional",
+    "name": "Walkerswood Jamaican Jerk Seasoning Hot & Spicy Traditional 280g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/728120.jpg",
+    "source_id": "728120",
+    "barcode": "15414541216",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "280g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "429",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/728127/walkerswood-jamaican-scotch-bonnet-pepper-sauce-hot",
+    "name": "Walkerswood Jamaican Scotch Bonnet Pepper Sauce Hot 185ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/728127.jpg",
+    "source_id": "728127",
+    "barcode": "15414542299",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "185ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "378",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/214763/woolworths-australian-lemon-juice-pouch",
+    "name": "Woolworths Australian Lemon Juice Pouch 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/214763.jpg",
+    "source_id": "214763",
+    "barcode": "9339687302956",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "150",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/214764/woolworths-australian-lime-juice-pouch",
+    "name": "Woolworths Australian Lime Juice Pouch 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/214764.jpg",
+    "source_id": "214764",
+    "barcode": "9339687302963",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "150",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720425/woolworths-citrus-juice-lime-bottle",
+    "name": "Woolworths Citrus Juice Lime Bottle 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/720425.jpg",
+    "source_id": "720425",
+    "barcode": "9300633292379",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "100",
+        "price_per_unit": "40",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720424/woolworths-lemon-juice",
+    "name": "Woolworths Lemon Juice 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/720424.jpg",
+    "source_id": "720424",
+    "barcode": "9300633292362",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "165",
+        "price_per_unit": "33",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720423/woolworths-lemon-juice-bottle",
+    "name": "Woolworths Lemon Juice Bottle 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/720423.jpg",
+    "source_id": "720423",
+    "barcode": "9300633292355",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "100",
+        "price_per_unit": "40",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/724365/yarra-valley-preserves-horseradish-mustard",
+    "name": "Yarra Valley Preserves Horseradish Mustard 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/724365.jpg",
+    "source_id": "724365",
+    "barcode": "93515610",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "599",
+        "price_per_unit": "599",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/917794/woolworths-teriyaki-marinade",
+    "name": "Woolworths Teriyaki Marinade 345g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/917794.jpg",
+    "source_id": "917794",
+    "barcode": "9339687390601",
+    "category_id": "22770",
+    "subcategory_id": "22878",
+    "subsubcategory_id": "22879",
+    "shop": "Woolworths",
+    "weight": "345g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "58",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

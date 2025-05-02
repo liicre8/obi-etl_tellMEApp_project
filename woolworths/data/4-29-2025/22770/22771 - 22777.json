@@ -1,0 +1,62 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147762/dollar-sweets-artificial-food-colours",
+    "name": "Dollar Sweets Artificial Food Colours 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/147762.jpg",
+    "source_id": "147762",
+    "barcode": "9310331475899",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22777",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "735",
+        "price_per_unit": "92",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/279942/dollar-sweets-colour-gels",
+    "name": "Dollar Sweets Colour Gels 4pk",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/279942.jpg",
+    "source_id": "279942",
+    "barcode": "9310331477008",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22777",
+    "shop": "Woolworths",
+    "weight": "4pk",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "730",
+        "price_per_unit": "1217",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/182725/dollar-sweets-vanilla-bean-paste",
+    "name": "Dollar Sweets Vanilla Bean Paste 95g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/182725.jpg",
+    "source_id": "182725",
+    "barcode": "9310331476148",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22777",
+    "shop": "Woolworths",
+    "weight": "95g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "737",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

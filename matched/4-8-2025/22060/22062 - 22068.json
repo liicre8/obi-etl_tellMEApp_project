@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-pain-au-chocolate-2-pack-6206993",
+    "name": "Coles Pain AU Chocolate | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6206993.jpg&w=640&q=90",
+    "source_id": "6206993",
+    "barcode": "0283319000002",
+    "shop": "coles",
+    "category_id": "22068",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/610477/woolworths-pain-au-chocolat",
+    "name": "Woolworths Pain Au Chocolat 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/610477.jpg",
+    "source_id": "610477",
+    "barcode": "0283319000002",
+    "shop": "Woolworths",
+    "category_id": "22068",
+    "weight": "2 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-pain-au-raisin-2-pack-6207001",
+    "name": "Coles Pain AU Raisin | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6207001.jpg&w=640&q=90",
+    "source_id": "6207001",
+    "barcode": "0282846000004",
+    "shop": "coles",
+    "category_id": "22068",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/610402/woolworths-pain-raisin",
+    "name": "Woolworths Pain Raisin 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/610402.jpg",
+    "source_id": "610402",
+    "barcode": "0282846000004",
+    "shop": "Woolworths",
+    "category_id": "22068",
+    "weight": "2 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

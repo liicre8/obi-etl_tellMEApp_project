@@ -1,0 +1,102 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6002369/woolworths-35hr-sourdough-loaf-wholemeal",
+    "name": "Woolworths 35hr Sourdough Loaf Wholemeal each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6002369.jpg",
+    "source_id": "6002369",
+    "barcode": "0289193000008",
+    "category_id": "22060",
+    "subcategory_id": "22062",
+    "subsubcategory_id": "22069",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/116760/woolworths-35hr-sourdough-mini-loaf-dark-rye",
+    "name": "Woolworths 35hr Sourdough Mini Loaf Dark Rye each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/116760.jpg",
+    "source_id": "116760",
+    "barcode": "0281159000008",
+    "category_id": "22060",
+    "subcategory_id": "22062",
+    "subsubcategory_id": "22069",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6024631/woolworths-garlic-cracked-pepper-pane-di-casa-loaf",
+    "name": "Woolworths Garlic & Cracked Pepper Pane Di Casa Loaf each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6024631.jpg",
+    "source_id": "6024631",
+    "barcode": "0289261000008",
+    "category_id": "22060",
+    "subcategory_id": "22062",
+    "subsubcategory_id": "22069",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/242694/woolworths-rustic-white-baguette",
+    "name": "Woolworths Rustic White Baguette each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/242694.jpg",
+    "source_id": "242694",
+    "barcode": "0289871000009",
+    "category_id": "22060",
+    "subcategory_id": "22062",
+    "subsubcategory_id": "22069",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/242695/woolworths-white-panini-rolls",
+    "name": "Woolworths White Panini Rolls 3 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/242695.jpg",
+    "source_id": "242695",
+    "barcode": "0289856000000",
+    "category_id": "22060",
+    "subcategory_id": "22062",
+    "subsubcategory_id": "22069",
+    "shop": "Woolworths",
+    "weight": "3 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

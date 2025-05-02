@@ -1,0 +1,142 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/586842/birds-eye-deli-french-fries-garlic-herb-lemon",
+    "name": "Birds Eye Deli French Fries Garlic Herb & Lemon 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/586842.jpg",
+    "source_id": "586842",
+    "barcode": "9310081115977",
+    "category_id": "22280",
+    "subcategory_id": "22281",
+    "subsubcategory_id": "22282",
+    "shop": "Woolworths",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/682739/birds-eye-deli-seasoned-chips",
+    "name": "Birds Eye Deli Seasoned Chips Golden Ale Beer Batter 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/682739.jpg",
+    "source_id": "682739",
+    "barcode": "9310081105985",
+    "category_id": "22280",
+    "subcategory_id": "22281",
+    "subsubcategory_id": "22282",
+    "shop": "Woolworths",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/752330/birds-eye-deli-seasoned-chips-parmesan-garlic-basil",
+    "name": "Birds Eye Deli Seasoned Chips Parmesan, Garlic & Basil 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/752330.jpg",
+    "source_id": "752330",
+    "barcode": "9310081457763",
+    "category_id": "22280",
+    "subcategory_id": "22281",
+    "subsubcategory_id": "22282",
+    "shop": "Woolworths",
+    "weight": "600G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/752346/birds-eye-deli-seasoned-chips-sea-salt-rosemary",
+    "name": "Birds Eye Deli Seasoned Chips Sea Salt & Rosemary 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/752346.jpg",
+    "source_id": "752346",
+    "barcode": "9310081457756",
+    "category_id": "22280",
+    "subcategory_id": "22281",
+    "subsubcategory_id": "22282",
+    "shop": "Woolworths",
+    "weight": "600G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180652/birds-eye-golden-crunch-crinkle-cut-chips",
+    "name": "Birds Eye Golden Crunch Crinkle Cut Chips 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/180652.jpg",
+    "source_id": "180652",
+    "barcode": "9310081128823",
+    "category_id": "22280",
+    "subcategory_id": "22281",
+    "subsubcategory_id": "22282",
+    "shop": "Woolworths",
+    "weight": "900g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "644",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/639533/essentials-french-fries",
+    "name": "Essentials French Fries 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/639533.jpg",
+    "source_id": "639533",
+    "barcode": "9300633683252",
+    "category_id": "22280",
+    "subcategory_id": "22281",
+    "subsubcategory_id": "22282",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/96698/essentials-frozen-straight-cut-potato-chips",
+    "name": "Essentials Frozen Straight Cut Potato Chips 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/096698.jpg",
+    "source_id": "96698",
+    "barcode": "9300633966980",
+    "category_id": "22280",
+    "subcategory_id": "22281",
+    "subsubcategory_id": "22282",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

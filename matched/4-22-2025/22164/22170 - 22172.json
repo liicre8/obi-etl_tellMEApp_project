@@ -1,0 +1,758 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/illy-espresso-classico-capsules-10-pack-3626405",
+    "name": "Illy Espresso Classico Capsules | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3626405.jpg&w=640&q=90",
+    "source_id": "3626405",
+    "barcode": "8003753158679",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "80",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55934/illy-classico-espresso-capsules",
+    "name": "Illy Classico Espresso Capsules 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/055934.jpg",
+    "source_id": "55934",
+    "barcode": "8003753158679",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "80",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/l'or-espresso-caramel-coffee-capsules-10-pack-4823693",
+    "name": "L'OR Espresso Caramel Coffee Capsules | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4823693.jpg&w=640&q=90",
+    "source_id": "4823693",
+    "barcode": "8711000488232",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "79",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/213070/l-or-espresso-caramel-capsules",
+    "name": "L'Or Espresso Caramel Capsules 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/213070.jpg",
+    "source_id": "213070",
+    "barcode": "8711000488232",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "10 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "79",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/l'or-espresso-colombia-intensity-8-coffee-capsules-52g-10-pack-2951091",
+    "name": "L'OR Espresso Colombia Intensity 8 Coffee Capsules 52g | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2951091.jpg&w=640&q=90",
+    "source_id": "2951091",
+    "barcode": "8711000362679",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "79",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/604174/l-or-espresso-colombia-intensity-8-coffee-capsules",
+    "name": "L'Or Espresso Colombia Intensity 8 Coffee Capsules 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/604174.jpg",
+    "source_id": "604174",
+    "barcode": "8711000362679",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "79",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/l'or-espresso-decaffeinato-ristretto-intensity-9-coffee-capsules-52g-10-pack-3193396",
+    "name": "L'OR Espresso Decaffeinato Ristretto Intensity 9 Coffee Capsules 52g | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3193396.jpg&w=640&q=90",
+    "source_id": "3193396",
+    "barcode": "8711000397466",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "79",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/687774/l-or-espresso-decaf-ristretto-intensity-9-coffee-capsules",
+    "name": "L'Or Espresso Decaf Ristretto Intensity 9 Coffee Capsules 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/687774.jpg",
+    "source_id": "687774",
+    "barcode": "8711000397466",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "79",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/l'or-espresso-lungo-estremo-intensity-10-coffee-capsules-52g-10-pack-3193217",
+    "name": "L'OR Espresso Lungo Estremo Intensity 10 Coffee Capsules 52g | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3193217.jpg&w=640&q=90",
+    "source_id": "3193217",
+    "barcode": "7896089088335",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "79",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/687775/l-or-espresso-lungo-estremo-intensity-10-coffee-capsules",
+    "name": "L'Or Espresso Lungo Estremo Intensity 10 Coffee Capsules 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/687775.jpg",
+    "source_id": "687775",
+    "barcode": "7896089088335",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "79",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/l'or-espresso-lungo-profondo-intensity-8-coffee-capsules-52g-10-pack-2951047",
+    "name": "L'OR Espresso Lungo Profondo Intensity 8 Coffee Capsules 52g | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2951047.jpg&w=640&q=90",
+    "source_id": "2951047",
+    "barcode": "8711000362617",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "79",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/604171/l-or-espresso-lungo-profondo-intensity-8-coffee-capsules",
+    "name": "L'Or Espresso Lungo Profondo Intensity 8 Coffee Capsules 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/604171.jpg",
+    "source_id": "604171",
+    "barcode": "8711000362617",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "79",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/l'or-espresso-onyx-intensity-12-coffee-capsules-52g-10-pack-2951058",
+    "name": "L'OR Espresso Onyx Intensity 12 Coffee Capsules 52g | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2951058.jpg&w=640&q=90",
+    "source_id": "2951058",
+    "barcode": "8711000362631",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "79",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/603805/l-or-espresso-onyx-intensity-12-coffee-capsules",
+    "name": "L'Or Espresso Onyx Intensity 12 Coffee Capsules 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/603805.jpg",
+    "source_id": "603805",
+    "barcode": "8711000362631",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "79",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/l'or-espresso-supremo-intensity-10-coffee-capsules-52g-10-pack-2951069",
+    "name": "L'OR Espresso Supremo Intensity 10 Coffee Capsules 52g | 10 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2951069.jpg&w=640&q=90",
+    "source_id": "2951069",
+    "barcode": "8711000362594",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "79",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/603806/l-or-espresso-supremo-intensity-10-coffee-capsules",
+    "name": "L'Or Espresso Supremo Intensity 10 Coffee Capsules 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/603806.jpg",
+    "source_id": "603806",
+    "barcode": "8711000362594",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "79",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/l'or-espresso-ultimo-intensity-13-coffee-capsules-10-pack-3755340",
+    "name": "L'OR Espresso Ultimo Intensity 13 Coffee Capsules | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3755340.jpg&w=640&q=90",
+    "source_id": "3755340",
+    "barcode": "8711000471296",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "79",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/92329/l-or-espresso-ultimo-intensity-13-coffee-capsules",
+    "name": "L'Or Espresso Ultimo Intensity 13 Coffee Capsules 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/092329.jpg",
+    "source_id": "92329",
+    "barcode": "8711000471296",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "79",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-delizioso-a-modo-mio-coffee-pods-16-pack-1774194",
+    "name": "Lavazza Delizioso A Modo Mio Coffee Pods | 16 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1774194.jpg&w=640&q=90",
+    "source_id": "1774194",
+    "barcode": "8000070086012",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "16pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "84",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/554677/lavazza-delizioso-a-modo-mio-coffee-pods",
+    "name": "Lavazza Delizioso a Modo Mio Coffee Pods 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/554677.jpg",
+    "source_id": "554677",
+    "barcode": "8000070086012",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "16 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "945",
+        "price_per_unit": "59",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/moccona-barista-reserve-dark-roast-espresso-coffee-capsule-10-pack-3193410",
+    "name": "Moccona Barista Reserve Dark Roast Espresso Coffee Capsule | 10 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3193410.jpg&w=640&q=90",
+    "source_id": "3193410",
+    "barcode": "8711000370018",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "720",
+        "price_per_unit": "72",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/687785/moccona-barista-reserve-capsules-dark-roast-espresso",
+    "name": "Moccona Barista Reserve Capsules Dark Roast Espresso 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/687785.jpg",
+    "source_id": "687785",
+    "barcode": "8711000370018",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "720",
+        "price_per_unit": "72",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/moccona-barista-reserve-extra-dark-roast-espresso-coffee-capsules-10-pack-3193421",
+    "name": "Moccona Barista Reserve Extra Dark Roast Espresso Coffee Capsules | 10 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3193421.jpg&w=640&q=90",
+    "source_id": "3193421",
+    "barcode": "8711000370025",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "720",
+        "price_per_unit": "72",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/687786/moccona-barista-reserve-capsules-extra-dark-roast-espresso",
+    "name": "Moccona Barista Reserve Capsules Extra Dark Roast Espresso 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/687786.jpg",
+    "source_id": "687786",
+    "barcode": "8711000370025",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "720",
+        "price_per_unit": "72",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nescafe-double-shot-latte-sachet-10-pack-5578165",
+    "name": "Nescafe Double Shot Latte Sachet | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5578165.jpg&w=640&q=90",
+    "source_id": "5578165",
+    "barcode": "9300605150492",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/242067/nescafe-double-shot-latte-coffee-sachets",
+    "name": "Nescafe Double Shot Latte Coffee Sachets 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/242067.jpg",
+    "source_id": "242067",
+    "barcode": "9300605150492",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nescafe-farmers-origins-brazil-lungo-capsules-10-pack-3890629",
+    "name": "Nescafe Farmers Origins Brazil Lungo Capsules | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3890629.jpg&w=640&q=90",
+    "source_id": "3890629",
+    "barcode": "8445291144613",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "38",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/663077/nescafe-farmers-origin-pods-origins-brazil-lungo-coffee-capsules",
+    "name": "Nescafe Farmers Origin Pods Origins Brazil Lungo Coffee Capsules 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/663077.jpg",
+    "source_id": "663077",
+    "barcode": "8445291144613",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/starbucks-breakfast-blend-capsules-by-nespresso-10-pack-4405693",
+    "name": "Starbucks Breakfast Blend Capsules By Nespresso | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4405693.jpg&w=640&q=90",
+    "source_id": "4405693",
+    "barcode": "7613287186843",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "870",
+        "price_per_unit": "87",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/197155/starbucks-by-nespresso-breakfast-blend-coffee-pods",
+    "name": "Starbucks by Nespresso Breakfast Blend Coffee Pods 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/197155.jpg",
+    "source_id": "197155",
+    "barcode": "7613287186843",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "870",
+        "price_per_unit": "87",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/starbucks-by-nespresso-house-blend-coffee-pods-intensity-8-capsules-36-pack-4926674",
+    "name": "Starbucks By Nespresso House Blend Coffee Pods Intensity 8 Capsules | 36 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4926674.jpg&w=640&q=90",
+    "source_id": "4926674",
+    "barcode": "8445290021342",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "36pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2600",
+        "price_per_unit": "72",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/221229/starbucks-by-nespresso-house-blend-coffee-pods",
+    "name": "Starbucks by Nespresso House Blend Coffee Pods 36 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/221229.jpg",
+    "source_id": "221229",
+    "barcode": "8445290021342",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "36 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2600",
+        "price_per_unit": "72",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/starbucks-italian-roast-capsules-10-pack-3984041",
+    "name": "Starbucks Italian Roast Capsules | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3984041.jpg&w=640&q=90",
+    "source_id": "3984041",
+    "barcode": "7613287302151",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "870",
+        "price_per_unit": "87",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/155945/starbucks-by-nespresso-italian-roast-coffee-pods",
+    "name": "Starbucks by Nespresso Italian Roast Coffee Pods 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/155945.jpg",
+    "source_id": "155945",
+    "barcode": "7613287302151",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "870",
+        "price_per_unit": "87",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vittoria-espresso-nespresso-compatible-coffee-capsules-20-pack-4151970",
+    "name": "Vittoria Espresso Nespresso Compatible Coffee Capsules | 20 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4151970.jpg&w=640&q=90",
+    "source_id": "4151970",
+    "barcode": "9310631632961",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "20pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "48",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/93852/vittoria-espresso-nespresso-compatible-coffee-capsules",
+    "name": "Vittoria Espresso Nespresso Compatible Coffee Capsules Pack 20",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/093852.jpg",
+    "source_id": "93852",
+    "barcode": "9310631632961",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "Pack 20",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "48",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vittoria-espressotoria-espresso-coffee-capsules-12-pack-78g-1825885",
+    "name": "Vittoria Espressotoria Espresso Coffee Capsules 12 pack | 78g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1825885.jpg&w=640&q=90",
+    "source_id": "1825885",
+    "barcode": "9310631627813",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "78g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "46",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829318/vittoria-espressotoria-espresso-coffee-capsules",
+    "name": "Vittoria Espressotoria Espresso Coffee Capsules 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/829318.jpg",
+    "source_id": "829318",
+    "barcode": "9310631627813",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "92",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vittoria-italian-nespresso-compatible-coffee-capsules-20-pack-4151960",
+    "name": "Vittoria Italian Nespresso Compatible Coffee Capsules | 20 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4151960.jpg&w=640&q=90",
+    "source_id": "4151960",
+    "barcode": "9310631632947",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "20pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "48",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/92859/vittoria-italian-nespresso-compatible-coffee-capsules",
+    "name": "Vittoria Italian Nespresso Compatible Coffee Capsules Pack 20",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/092859.jpg",
+    "source_id": "92859",
+    "barcode": "9310631632947",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "Pack 20",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "48",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vittoria-oro-nespresso-compatible-capsules-20-pack-6344942",
+    "name": "Vittoria Oro Nespresso Compatible Capsules | 20 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6344942.jpg&w=640&q=90",
+    "source_id": "6344942",
+    "barcode": "9310631636945",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "20pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "48",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/310664/vittoria-oro-capsules",
+    "name": "Vittoria Oro Capsules 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/310664.jpg",
+    "source_id": "310664",
+    "barcode": "9310631636945",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "48",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

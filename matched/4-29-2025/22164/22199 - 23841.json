@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-lactose-free-uht-milk-low-fat-1l-1850667",
+    "name": "Coles Lactose Free UHT Milk Low Fat | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1850667.jpg&w=640&q=90",
+    "source_id": "1850667",
+    "barcode": "9300639618678",
+    "shop": "coles",
+    "category_id": "23841",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/893477/liddells-lactose-free-low-fat-long-life-uht-milk",
+    "name": "Liddells Lactose Free Low Fat Long Life Uht Milk 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/893477.jpg",
+    "source_id": "893477",
+    "barcode": "9300639618678",
+    "shop": "Woolworths",
+    "category_id": "23841",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pauls-zymil-low-fat-long-life-milk-1l-8893963",
+    "name": "Pauls Zymil Low Fat Long Life Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8893963.jpg&w=640&q=90",
+    "source_id": "8893963",
+    "barcode": "9310036018377",
+    "shop": "coles",
+    "category_id": "23841",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/146547/pauls-zymil-lactose-free-low-fat-long-life-milk",
+    "name": "Pauls Zymil Lactose Free Low Fat Long Life Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/146547.jpg",
+    "source_id": "146547",
+    "barcode": "9310036018377",
+    "shop": "Woolworths",
+    "category_id": "23841",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/liddells-lactose-free-full-cream-milk-1l-6706012",
+    "name": "Liddells Lactose Free Full Cream Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6706012.jpg&w=640&q=90",
+    "source_id": "6706012",
+    "barcode": "9300633785529",
+    "shop": "coles",
+    "category_id": "23841",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/799811/woolworths-free-from-lactose-full-cream-milk",
+    "name": "Woolworths Free From Lactose Full Cream Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/799811.jpg",
+    "source_id": "799811",
+    "barcode": "9300633785529",
+    "shop": "Woolworths",
+    "category_id": "23841",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "190",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

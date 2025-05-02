@@ -1,0 +1,866 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/ben-and-jerry's-triple-caramel-chunk-ice-cream-458ml-3525441",
+    "name": "Ben & Jerry's Triple Caramel Chunk Ice Cream | 458mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3525441.jpg&w=640&q=90",
+    "source_id": "3525441",
+    "barcode": "76840100774",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "458ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "218",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/348629/ben-jerry-s-ice-cream-triple-caramel-chunk-ice-cream",
+    "name": "Ben & Jerry's Ice Cream Triple Caramel Chunk 458mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/348629.jpg",
+    "source_id": "348629",
+    "barcode": "76840100774",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "458mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "218",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ben-and-jerry's-chocolate-fudge-brownie-ice-cream-tub-458ml-7806090",
+    "name": "Ben & Jerry's Chocolate Fudge Brownie Ice  ... 458mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7806090.jpg&w=640&q=90",
+    "source_id": "7806090",
+    "barcode": "76840055302",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "458ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "218",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/345040/ben-jerry-s-ice-cream-tub-chocolate-fudge-brownie",
+    "name": "Ben & Jerry's Ice Cream Tub Chocolate Fudge Brownie 458ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/345040.jpg",
+    "source_id": "345040",
+    "barcode": "76840055302",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "458ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "218",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ben-and-jerry's-tonight-dough-ice-cream-tub-458ml-2750930",
+    "name": "Ben & Jerry's Tonight Dough Ice Cream Tub | 458mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2750930.jpg&w=640&q=90",
+    "source_id": "2750930",
+    "barcode": "76840551965",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "458ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "218",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/441151/ben-jerry-s-ice-cream-tub-the-tonight-dough",
+    "name": "Ben & Jerry’s Ice Cream Tub The Tonight Dough 458 Ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/441151.jpg",
+    "source_id": "441151",
+    "barcode": "76840551965",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "458 ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "218",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/streets-blue-ribbon-classic-chocolate-ice-cream-tub-2l-2976172",
+    "name": "Streets Blue Ribbon Classic Chocolate Ice Cream Tub | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2976172.jpg&w=640&q=90",
+    "source_id": "2976172",
+    "barcode": "9300830042517",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "33",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/636654/blue-ribbon-classic-chocolate-reduced-fat-ice-cream-dessert-tub",
+    "name": "Blue Ribbon Classic Chocolate Reduced Fat Ice Cream Dessert Tub 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/636654.jpg",
+    "source_id": "636654",
+    "barcode": "9300830042517",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "33",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/streets-blue-ribbon-vanilla-ice-cream-tub-2l-207938",
+    "name": "Streets Blue Ribbon Vanilla Ice Cream Tub | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F207938.jpg&w=640&q=90",
+    "source_id": "207938",
+    "barcode": "9310016801609",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "33",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/40568/blue-ribbon-frozen-dessert-classic-vanilla-classic-vanilla-dessert-tub",
+    "name": "Blue Ribbon Frozen Dessert Classic Vanilla 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/040568.jpg",
+    "source_id": "40568",
+    "barcode": "9310016801609",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "33",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/streets-blue-ribbon-light-vanilla-ice-cream-tub-2l-5171270",
+    "name": "Streets Blue Ribbon Light Vanilla Ice Cream Tub | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5171270.jpg&w=640&q=90",
+    "source_id": "5171270",
+    "barcode": "9310016801616",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "33",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/684/blue-ribbon-frozen-dessert-light-vanilla-fat-ice-cream-dessert-tub",
+    "name": "Blue Ribbon Frozen Dessert Light Vanilla 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/000684.jpg",
+    "source_id": "684",
+    "barcode": "9310016801616",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "33",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/streets-blue-ribbon-neapolitan-ice-cream-tub-2l-3252804",
+    "name": "Streets Blue Ribbon Neapolitan Ice Cream Tub | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3252804.jpg&w=640&q=90",
+    "source_id": "3252804",
+    "barcode": "9300830045556",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "33",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/739602/blue-ribbon-neapolitan-reduced-fat-ice-cream-dessert-tub",
+    "name": "Blue Ribbon Neapolitan Reduced Fat Ice Cream Dessert Tub 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/739602.jpg",
+    "source_id": "739602",
+    "barcode": "9300830045556",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "33",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/connoisseur-cafe-grande-ice-cream-1l-5289995",
+    "name": "Connoisseur Cafe Grande Ice Cream | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5289995.jpg&w=640&q=90",
+    "source_id": "5289995",
+    "barcode": "9300662011804",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/1793/connoisseur-ice-cream-cafe-grande",
+    "name": "Connoisseur Ice Cream Cafe Grande 1l Tub",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/001793.jpg",
+    "source_id": "1793",
+    "barcode": "9300662011804",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "1L Tub",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/connoisseur-chocolate-brownie-custard-ice-cream-1l-2750395",
+    "name": "Connoisseur Chocolate Brownie Custard Ice Cre ... 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2750395.jpg&w=640&q=90",
+    "source_id": "2750395",
+    "barcode": "9347042001918",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/508517/connoisseur-ice-cream-chocolate-brownie",
+    "name": "Connoisseur Ice Cream Chocolate Brownie 1l Tub",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/508517.jpg",
+    "source_id": "508517",
+    "barcode": "9347042001918",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "1L Tub",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/connoisseur-classic-vanlla-ice-cream-1l-5615272",
+    "name": "Connoisseur Classic Vanlla Ice Cream | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5615272.jpg&w=640&q=90",
+    "source_id": "5615272",
+    "barcode": "9300662127994",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/96190/connoisseur-ice-cream-classic-vanilla-tub",
+    "name": "Connoisseur Ice Cream Classic Vanilla Tub 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/096190.jpg",
+    "source_id": "96190",
+    "barcode": "9300662127994",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/connoisseur-derwent-valley-raspberry-and-white-chocolate-ice-cream-1l-2442735",
+    "name": "Connoisseur Derwent Valley Raspberry & Wh ... 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2442735.jpg&w=640&q=90",
+    "source_id": "2442735",
+    "barcode": "9347042001437",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/881471/connoisseur-ice-cream-raspberry-white-chocolate-tub",
+    "name": "Connoisseur Ice Cream Raspberry White Chocolate Tub 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/881471.jpg",
+    "source_id": "881471",
+    "barcode": "9347042001437",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/connoisseur-vanilla-caramel-brownie-ice-cream-1l-3251233",
+    "name": "Connoisseur Vanilla Caramel Brownie Ice Cream | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3251233.jpg&w=640&q=90",
+    "source_id": "3251233",
+    "barcode": "9347042002502",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/699140/connoisseur-ice-cream-vanilla-caramel-brownie",
+    "name": "Connoisseur Ice Cream Vanilla Caramel Brownie 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/699140.jpg",
+    "source_id": "699140",
+    "barcode": "9347042002502",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/connoisseur-mint-and-cookies-ice-cream-1l-2982357",
+    "name": "Connoisseur Mint & Cookies Ice Cream | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2982357.jpg&w=640&q=90",
+    "source_id": "2982357",
+    "barcode": "9347042002236",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/633610/connoisseur-mint-with-cookies-ice-cream-tub",
+    "name": "Connoisseur Mint With Cookies Ice Cream Tub 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/633610.jpg",
+    "source_id": "633610",
+    "barcode": "9347042002236",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "120",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/haagen-dazs-ice-cream-cookie-dough-tub-457ml-3422675",
+    "name": "Haagen Dazs Ice Cream Cookie Dough Tub | 457mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3422675.jpg&w=640&q=90",
+    "source_id": "3422675",
+    "barcode": "3415581154368",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "457ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "295",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/816259/haagen-dazs-ice-cream-cookie-dough-chip",
+    "name": "Haagen-Dazs Ice Cream Cookie Dough Chip 457mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/816259.jpg",
+    "source_id": "816259",
+    "barcode": "3415581154368",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "457mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "295",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-milo-ice-cream-1.2l-4469255",
+    "name": "Nestle Milo Ice Cream | 1.2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4469255.jpg&w=640&q=90",
+    "source_id": "4469255",
+    "barcode": "9347043002303",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "1.2l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "83",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178818/milo-frozen-dessert-tub",
+    "name": "Milo Frozen Dessert Tub 1.2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/178818.jpg",
+    "source_id": "178818",
+    "barcode": "9347043002303",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "1.2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "42",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/peters-oreo-ice-cream-tub-1.2l-3626370",
+    "name": "Peters Oreo Ice Cream Tub | 1.2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3626370.jpg&w=640&q=90",
+    "source_id": "3626370",
+    "barcode": "9347043001504",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "1.2l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "83",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/53739/oreo-tub",
+    "name": "Oreo Tub 1.2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/053739.jpg",
+    "source_id": "53739",
+    "barcode": "9347043001504",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "1.2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "42",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/peters-light-and-creamy-choc-caramel-and-vanilla-swirl-ice-cream-1.8l-7207051",
+    "name": "Peters Light & Creamy Choc Caramel & Vanilla Swirl Ice Cream | 1.8L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7207051.jpg&w=640&q=90",
+    "source_id": "7207051",
+    "barcode": "9310080107850",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "1.8l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "36",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/330844/peters-light-creamy-choc-caramel-vanilla-swirl-ice-cream",
+    "name": "Peters Light & Creamy Choc Caramel & Vanilla Swirl Ice Cream 1.8l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/330844.jpg",
+    "source_id": "330844",
+    "barcode": "9310080107850",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "1.8L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "36",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/peters-light-and-creamy-classic-vanlla-ice-cream-1.8l-7206977",
+    "name": "Peters Light & Creamy Classic Vanlla Ice Cream | 1.8L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7206977.jpg&w=640&q=90",
+    "source_id": "7206977",
+    "barcode": "9310080107942",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "1.8l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "36",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/330841/peters-light-creamy-classic-vanilla-ice-cream",
+    "name": "Peters Light & Creamy Classic Vanilla Ice Cream 1.8l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/330841.jpg",
+    "source_id": "330841",
+    "barcode": "9310080107942",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "1.8L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "36",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/peters-light-and-creamy-french-vanilla-ice-cream-1.8l-7207018",
+    "name": "Peters Light & Creamy French Vanilla Ice Cream | 1.8L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7207018.jpg&w=640&q=90",
+    "source_id": "7207018",
+    "barcode": "9310080107867",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "1.8l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "36",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/330839/peters-light-creamy-french-vanilla-ice-cream",
+    "name": "Peters Light & Creamy French Vanilla Ice Cream 1.8l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/330839.jpg",
+    "source_id": "330839",
+    "barcode": "9310080107867",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "1.8L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "36",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/peters-light-and-creamy-raspberry-ripple-ice-cream-1.8l-7207030",
+    "name": "Peters Light & Creamy Raspberry Ripple Ice Cream | 1.8L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7207030.jpg&w=640&q=90",
+    "source_id": "7207030",
+    "barcode": "9310080107904",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "1.8l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "36",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/330915/peters-light-creamy-raspberry-ripple-ice-cream",
+    "name": "Peters Light & Creamy Raspberry Ripple Ice Cream 1.8l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/330915.jpg",
+    "source_id": "330915",
+    "barcode": "9310080107904",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "1.8L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "36",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/peters-original-choc-mint-swirl-2l-8739318",
+    "name": "Peters Original Choc Mint Swirl | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8739318.jpg&w=640&q=90",
+    "source_id": "8739318",
+    "barcode": "9347042003615",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "28",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/70438/peters-original-ice-cream-choc-mint-swirl",
+    "name": "Peters Original Ice Cream Choc Mint Swirl 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/070438.jpg",
+    "source_id": "70438",
+    "barcode": "9347042003615",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "28",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/peters-skinny-cow-vanilla-carameldouble-choc-ice-cream-variety-4-pack-640ml-7082852",
+    "name": "Peters Skinny Cow Vanilla Caramel/Double Choc Ice Cream Variety 4 Pack | 640mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7082852.jpg&w=640&q=90",
+    "source_id": "7082852",
+    "barcode": "9347043002655",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "640ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "109",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/383768/skinny-cow-ice-cream-sundaes-chocolate-vanilla-caramel",
+    "name": "Skinny Cow Ice Cream Sundaes Chocolate Vanilla Caramel 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/383768.jpg",
+    "source_id": "383768",
+    "barcode": "9347043002655",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "109",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/streets-blue-ribbon-cookies-and-cream-ice-cream-tub-2l-1744411",
+    "name": "Streets Blue Ribbon Cookies & Cream Ice cream tub | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1744411.jpg&w=640&q=90",
+    "source_id": "1744411",
+    "barcode": "9300830020928",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "33",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/781942/streets-blue-ribbon-ice-cream-cookies-cream",
+    "name": "Streets Blue Ribbon Ice Cream Cookies & Cream 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/781942.jpg",
+    "source_id": "781942",
+    "barcode": "9300830020928",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "33",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/violet-crumble-ice-cream-tub-1l-7492537",
+    "name": "Violet Crumble Ice Cream Tub | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7492537.jpg&w=640&q=90",
+    "source_id": "7492537",
+    "barcode": "9310161018747",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6011159/violet-crumble-ice-cream-choc-honeycomb",
+    "name": "Violet Crumble Ice Cream Choc Honeycomb 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6011159.jpg",
+    "source_id": "6011159",
+    "barcode": "9310161018747",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "50",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/228797/birds-eye-golden-crunch-hash-browns",
+    "name": "Birds Eye Golden Crunch Hash Browns 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/228797.jpg",
+    "source_id": "228797",
+    "barcode": "9300462406220",
+    "category_id": "22280",
+    "subcategory_id": "22281",
+    "subsubcategory_id": "22284",
+    "shop": "Woolworths",
+    "weight": "800G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "688",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180109/birds-eye-potato-gems-bite-size-hash-brown",
+    "name": "Birds Eye Potato Gems Bite Size Hash Brown 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/180109.jpg",
+    "source_id": "180109",
+    "barcode": "9310081128793",
+    "category_id": "22280",
+    "subcategory_id": "22281",
+    "subsubcategory_id": "22284",
+    "shop": "Woolworths",
+    "weight": "900g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "722",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/canesten-laundry-hygiene-rinse-lemon-2l-5086740",
+    "name": "Canesten Laundry Hygiene Rinse Lemon | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5086740.jpg&w=640&q=90",
+    "source_id": "5086740",
+    "barcode": "4057599007107",
+    "shop": "coles",
+    "category_id": "22573",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2250",
+        "price_per_unit": "1125",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/215264/canesten-laundry-sanitiser-lemon-fresh",
+    "name": "Canesten Laundry Sanitiser Lemon Fresh 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/215264.jpg",
+    "source_id": "215264",
+    "barcode": "4057599007107",
+    "shop": "Woolworths",
+    "category_id": "22573",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2250",
+        "price_per_unit": "1125",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dettol-antibacterial-laundry-sanitiser-eucalyptus-750ml-6264504",
+    "name": "Dettol Antibacterial Laundry Sanitiser Eucalyptus | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6264504.jpg&w=640&q=90",
+    "source_id": "6264504",
+    "barcode": "9300631503354",
+    "shop": "coles",
+    "category_id": "22573",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "2000",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296369/dettol-antibacterial-max-concentrate-laundry-sanitiser-eucalyptus",
+    "name": "Dettol Antibacterial Max Concentrate Laundry Sanitiser Eucalyptus 750ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/296369.jpg",
+    "source_id": "296369",
+    "barcode": "9300631503354",
+    "shop": "Woolworths",
+    "category_id": "22573",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1590",
+        "price_per_unit": "2120",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dr-beckmann-glowhite-ultra-2x40g-80g-3790908",
+    "name": "Dr Beckmann Glowhite Ultra 2x40g | 80g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3790908.jpg&w=640&q=90",
+    "source_id": "3790908",
+    "barcode": "5010287445703",
+    "shop": "coles",
+    "category_id": "22573",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "640",
+        "price_per_unit": "320",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/655411/dr-beckmann-glowhite-ultra",
+    "name": "Dr Beckmann Glowhite Ultra 2x40g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/655411.jpg",
+    "source_id": "655411",
+    "barcode": "5010287445703",
+    "shop": "Woolworths",
+    "category_id": "22573",
+    "weight": "2x40G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "10000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dr-beckmann-washing-machine-cleaner-250ml-3790861",
+    "name": "Dr Beckmann Washing Machine Cleaner | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3790861.jpg&w=640&q=90",
+    "source_id": "3790861",
+    "barcode": "5010287483507",
+    "shop": "coles",
+    "category_id": "22573",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/825600/dr-beckmann-service-it-washing-machine-cleaner",
+    "name": "Dr Beckmann Service It Washing Machine Cleaner 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/825600.jpg",
+    "source_id": "825600",
+    "barcode": "5010287483507",
+    "shop": "Woolworths",
+    "category_id": "22573",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "2400",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

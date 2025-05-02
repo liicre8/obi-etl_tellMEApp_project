@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/gatorade-fast-twitch-cool-blue-energy-350ml-9964047",
+    "name": "Gatorade Fast Twitch Cool Blue Energy | 350mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9964047.jpg&w=640&q=90",
+    "source_id": "9964047",
+    "barcode": "9310640001260",
+    "shop": "coles",
+    "category_id": "22222",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "71",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6008389/gatorade-fast-twitch-energy-drink-cool-blue",
+    "name": "Gatorade Fast Twitch Energy Drink Cool Blue 350mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6008389.jpg",
+    "source_id": "6008389",
+    "barcode": "9310640001260",
+    "shop": "Woolworths",
+    "category_id": "22222",
+    "weight": "350mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "629",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/gatorade-fast-twitch-grape-energy-350ml-9964036",
+    "name": "Gatorade Fast Twitch Grape Energy | 350mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9964036.jpg&w=640&q=90",
+    "source_id": "9964036",
+    "barcode": "9310640001253",
+    "shop": "coles",
+    "category_id": "22222",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "71",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6008580/gatorade-fast-twitch-energy-drink-grape",
+    "name": "Gatorade Fast Twitch Energy Drink Grape 350mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6008580.jpg",
+    "source_id": "6008580",
+    "barcode": "9310640001253",
+    "shop": "Woolworths",
+    "category_id": "22222",
+    "weight": "350mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "629",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/gatorade-fast-twitch-strawberry-lemonade-energy-350ml-9964058",
+    "name": "Gatorade Fast Twitch Strawberry Lemonade Energy | 350mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9964058.jpg&w=640&q=90",
+    "source_id": "9964058",
+    "barcode": "9310640001277",
+    "shop": "coles",
+    "category_id": "22222",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "71",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6008584/gatorade-fast-twitch-energy-drink-strawberry-lemonade",
+    "name": "Gatorade Fast Twitch Energy Drink Strawberry Lemonade 350mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6008584.jpg",
+    "source_id": "6008584",
+    "barcode": "9310640001277",
+    "shop": "Woolworths",
+    "category_id": "22222",
+    "weight": "350mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "629",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

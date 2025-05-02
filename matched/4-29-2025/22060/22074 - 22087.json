@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/abe's-bagels-natural-4-pack-360g-2901978",
+    "name": "Abe's Bagels Natural 4 Pack | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2901978.jpg&w=640&q=90",
+    "source_id": "2901978",
+    "barcode": "9421001850028",
+    "shop": "coles",
+    "category_id": "22087",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "111",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/270580/abe-s-bagels-natural-bagels",
+    "name": "Abe's Bagels Natural Bagels 360g x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/270580.jpg",
+    "source_id": "270580",
+    "barcode": "9421001850028",
+    "shop": "Woolworths",
+    "category_id": "22087",
+    "weight": "360g x 4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "139",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/abe's-bagels-sesame-4-pack-360g-2901989",
+    "name": "Abe's Bagels Sesame 4 Pack | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2901989.jpg&w=640&q=90",
+    "source_id": "2901989",
+    "barcode": "9421001850257",
+    "shop": "coles",
+    "category_id": "22087",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "111",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/270583/abe-s-bagels-sesame-seed-bagels",
+    "name": "Abe's Bagels Sesame Seed Bagels 360g x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/270583.jpg",
+    "source_id": "270583",
+    "barcode": "9421001850257",
+    "shop": "Woolworths",
+    "category_id": "22087",
+    "weight": "360g x 4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "139",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/abe's-bagels-everything-4-pack-360g-3576828",
+    "name": "Abe's Bagels Everything 4 Pack | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3576828.jpg&w=640&q=90",
+    "source_id": "3576828",
+    "barcode": "9421001850783",
+    "shop": "coles",
+    "category_id": "22087",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "111",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/673117/abe-s-bagels-the-everything-bagels",
+    "name": "Abe's Bagels The Everything Bagels 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/673117.jpg",
+    "source_id": "673117",
+    "barcode": "9421001850783",
+    "shop": "Woolworths",
+    "category_id": "22087",
+    "weight": "4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "139",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

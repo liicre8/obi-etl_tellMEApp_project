@@ -1,0 +1,142 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/248547/clean-iron-aid-starch-spray",
+    "name": "Clean Iron Aid Starch Spray 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/248547.jpg",
+    "source_id": "248547",
+    "barcode": "9339687316397",
+    "category_id": "22459",
+    "subcategory_id": "22566",
+    "subsubcategory_id": "22568",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "625",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/97568/clean-washing-bag-bag",
+    "name": "Clean Washing Bag 3 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/097568.jpg",
+    "source_id": "97568",
+    "barcode": "9339687174119",
+    "category_id": "22459",
+    "subcategory_id": "22566",
+    "subsubcategory_id": "22568",
+    "shop": "Woolworths",
+    "weight": "3 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "267",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/746886/crisp-spray-starch-spray",
+    "name": "Crisp Spray Starch 385g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/746886.jpg",
+    "source_id": "746886",
+    "barcode": "9300701846374",
+    "category_id": "22459",
+    "subcategory_id": "22566",
+    "subsubcategory_id": "22568",
+    "shop": "Woolworths",
+    "weight": "385g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "965",
+        "price_per_unit": "2506",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/830053/essentials-compact-airer-compact-airer",
+    "name": "Essentials Compact Airer 24 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/830053.jpg",
+    "source_id": "830053",
+    "barcode": "9300633743178",
+    "category_id": "22459",
+    "subcategory_id": "22566",
+    "subsubcategory_id": "22568",
+    "shop": "Woolworths",
+    "weight": "24 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829325/essentials-ironing-board-cover-assorted",
+    "name": "Essentials Ironing Board Cover Assorted Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/829325.jpg",
+    "source_id": "829325",
+    "barcode": "9312790526938",
+    "category_id": "22459",
+    "subcategory_id": "22566",
+    "subsubcategory_id": "22568",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/830383/essentials-washing-bag",
+    "name": "Essentials Washing Bag Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/830383.jpg",
+    "source_id": "830383",
+    "barcode": "9300633753894",
+    "category_id": "22459",
+    "subcategory_id": "22566",
+    "subsubcategory_id": "22568",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32224/fabulon-starch-trigger-aid-trigger-spray",
+    "name": "Fabulon Starch Trigger 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/032224.jpg",
+    "source_id": "32224",
+    "barcode": "9310045403041",
+    "category_id": "22459",
+    "subcategory_id": "22566",
+    "subsubcategory_id": "22568",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "2200",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

@@ -1,0 +1,571 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/426888/macro-avocado-mini-organic",
+    "name": "Macro Avocado Mini Organic 550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/426888.jpg",
+    "source_id": "426888",
+    "barcode": "9300633579340",
+    "category_id": "22351",
+    "subcategory_id": "22368",
+    "subsubcategory_id": "22369",
+    "shop": "Woolworths",
+    "weight": "550G",
+    "prices": []
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/792361/macro-organic-avocado",
+    "name": "Macro Organic Avocado Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/792361.jpg",
+    "source_id": "792361",
+    "barcode": "0266181000004",
+    "category_id": "22351",
+    "subcategory_id": "22368",
+    "subsubcategory_id": "22369",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/306510/macro-organic-banana",
+    "name": "Macro Organic Banana Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/306510.jpg",
+    "source_id": "306510",
+    "barcode": "0268095000002",
+    "category_id": "22351",
+    "subcategory_id": "22368",
+    "subsubcategory_id": "22369",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "117",
+        "price_per_unit": "117",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "117",
+        "price_per_unit": "117",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "142",
+        "price_per_unit": "142",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "135",
+        "price_per_unit": "135",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "117",
+        "price_per_unit": "117",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "117",
+        "price_per_unit": "117",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "135",
+        "price_per_unit": "135",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/318163/macro-organic-dates-punnet",
+    "name": "Macro Organic Dates Punnet 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/318163.jpg",
+    "source_id": "318163",
+    "barcode": "9300633126490",
+    "category_id": "22351",
+    "subcategory_id": "22368",
+    "subsubcategory_id": "22369",
+    "shop": "Woolworths",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "750",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "750",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "3750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/847227/macro-organic-pear",
+    "name": "Macro Organic Pear 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/847227.jpg",
+    "source_id": "847227",
+    "barcode": "9300633504694",
+    "category_id": "22351",
+    "subcategory_id": "22368",
+    "subsubcategory_id": "22369",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/154338/macro-organic-royal-gala-apple-punnet",
+    "name": "Macro Organic Royal Gala Apple Punnet 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/154338.jpg",
+    "source_id": "154338",
+    "barcode": "9300633007034",
+    "category_id": "22351",
+    "subcategory_id": "22368",
+    "subsubcategory_id": "22369",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "780",
+        "price_per_unit": "780",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "780",
+        "price_per_unit": "780",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "780",
+        "price_per_unit": "780",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "780",
+        "price_per_unit": "780",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "780",
+        "price_per_unit": "780",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "780",
+        "price_per_unit": "780",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/141407/macro-organic-valencia-oranges",
+    "name": "Macro Organic Valencia Oranges 1.5kg Bag",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/141407.jpg",
+    "source_id": "141407",
+    "barcode": "9300633007171",
+    "category_id": "22351",
+    "subcategory_id": "22368",
+    "subsubcategory_id": "22369",
+    "shop": "Woolworths",
+    "weight": "1.5Kg Bag",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "890",
+        "price_per_unit": "593",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "890",
+        "price_per_unit": "593",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "890",
+        "price_per_unit": "593",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "890",
+        "price_per_unit": "593",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "890",
+        "price_per_unit": "593",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/160888/macro-pink-lady-apple-organic",
+    "name": "Macro Pink Lady Apple Organic 1kg Punnet",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/160888.jpg",
+    "source_id": "160888",
+    "barcode": "9300633007249",
+    "category_id": "22351",
+    "subcategory_id": "22368",
+    "subsubcategory_id": "22369",
+    "shop": "Woolworths",
+    "weight": "1Kg Punnet",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/781399/macro-red-grapes-organic",
+    "name": "Macro Red Grapes Organic 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/781399.jpg",
+    "source_id": "781399",
+    "barcode": "9300633703127",
+    "category_id": "22351",
+    "subcategory_id": "22368",
+    "subsubcategory_id": "22369",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/63832/macro-organic-lemon",
+    "name": "Macro Organic Lemon 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/063832.jpg",
+    "source_id": "63832",
+    "barcode": "9339687135134",
+    "category_id": "22351",
+    "subcategory_id": "22368",
+    "subsubcategory_id": "22369",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/318290/southern-bliss-apples-big-juicy-crisp-apples-box",
+    "name": "Southern Bliss Apples Big Juicy Crisp Apples Box 1Kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/318290.jpg",
+    "source_id": "318290",
+    "barcode": "9339687347094",
+    "category_id": "22351",
+    "subcategory_id": "22368",
+    "subsubcategory_id": "22369",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/379820/woolworths-organic-limes",
+    "name": "Woolworths Organic Limes 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/379820.jpg",
+    "source_id": "379820",
+    "barcode": "9300633541651",
+    "category_id": "22351",
+    "subcategory_id": "22368",
+    "subsubcategory_id": "22369",
+    "shop": "Woolworths",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "1960",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "390",
+        "price_per_unit": "1560",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/279883/macro-wholefoods-market-organic-apple-mini",
+    "name": "Macro Wholefoods Market Organic Apple Mini 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/279883.jpg",
+    "source_id": "279883",
+    "barcode": "9339687338504",
+    "category_id": "22351",
+    "subcategory_id": "22368",
+    "subsubcategory_id": "22369",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147903/prime-organics-queen-garnet-plum",
+    "name": "Prime Organics Queen Garnet Plum 500G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/147903.jpg",
+    "source_id": "147903",
+    "barcode": "9339687241057",
+    "category_id": "22351",
+    "subcategory_id": "22368",
+    "subsubcategory_id": "22369",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/773340/macro-mini-organic-apple",
+    "name": "Macro Mini Organic Apple 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/773340.jpg",
+    "source_id": "773340",
+    "barcode": "9300633458690",
+    "category_id": "22351",
+    "subcategory_id": "22368",
+    "subsubcategory_id": "22369",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/58576/always-fresh-green-peppercorns",
+    "name": "Always Fresh Green Peppercorns 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/058576.jpg",
+    "source_id": "58576",
+    "barcode": "9300602363758",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22847",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "35",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "35",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85821/cornish-salt-co-sea-salt-flakes",
+    "name": "Cornish Salt Co Sea Salt Flakes 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085821.jpg",
+    "source_id": "85821",
+    "barcode": "5060155200132",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22847",
+    "shop": "Woolworths",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "37",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/758501/essentials-iodised-salt",
+    "name": "Essentials Iodised Salt 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/758501.jpg",
+    "source_id": "758501",
+    "barcode": "9300633423209",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22847",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "295",
+        "price_per_unit": "3",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/204373/essentials-iodised-table-salt-drum",
+    "name": "Essentials Iodised Table Salt Drum 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/204373.jpg",
+    "source_id": "204373",
+    "barcode": "9300633004897",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22847",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "4",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37687/essentials-table-salt",
+    "name": "Essentials Table Salt 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/037687.jpg",
+    "source_id": "37687",
+    "barcode": "9300633376871",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22847",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "2",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/262729/heart-salt-chicken-salt",
+    "name": "Heart Salt Chicken Salt 130g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/262729.jpg",
+    "source_id": "262729",
+    "barcode": "9349754000975",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22847",
+    "shop": "Woolworths",
+    "weight": "130g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "23",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/262816/heart-salt-table-salt",
+    "name": "Heart Salt Table Salt 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/262816.jpg",
+    "source_id": "262816",
+    "barcode": "9349754000968",
+    "category_id": "22770",
+    "subcategory_id": "22842",
+    "subsubcategory_id": "22847",
+    "shop": "Woolworths",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "20",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

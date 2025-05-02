@@ -1,0 +1,3839 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/160857/macro-free-range-chicken-schnitzel",
+    "name": "Macro Free Range Chicken Schnitzel 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/160857.jpg",
+    "source_id": "160857",
+    "barcode": "9339687263233",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "286",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "286",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "286",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "286",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "286",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "286",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "286",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "286",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/705144/steggles-chicken-breast-fingers-crumbed",
+    "name": "Steggles Chicken Breast Fingers Crumbed 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/705144.jpg",
+    "source_id": "705144",
+    "barcode": "9310213855238",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "1806",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "1806",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "1806",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "1806",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "1806",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "650",
+        "price_per_unit": "1806",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "1806",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "1806",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/388014/steggles-chicken-breast-schnitzel-gravy-flavoured",
+    "name": "Steggles Chicken Breast Schnitzel Gravy Flavoured 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/388014.jpg",
+    "source_id": "388014",
+    "barcode": "9310213544323",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1050",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1050",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1050",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1050",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1050",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/893893/steggles-memphis-bbq-style-chicken-breast-burger",
+    "name": "Steggles Memphis BBQ Style Chicken Breast Burger 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/893893.jpg",
+    "source_id": "893893",
+    "barcode": "9310213544552",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1200",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1200",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1200",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6001634/woolworths-18-chicken-burgers",
+    "name": "Woolworths 18 Chicken Burgers 1.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6001634.jpg",
+    "source_id": "6001634",
+    "barcode": "9339687405060",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "1.5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "867",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "867",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "867",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "867",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1300",
+        "price_per_unit": "867",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "867",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1300",
+        "price_per_unit": "867",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/909454/woolworths-4-crispy-southern-style-chicken-burgers",
+    "name": "Woolworths 4 Crispy Southern Style Chicken Burgers 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/909454.jpg",
+    "source_id": "909454",
+    "barcode": "9339687387816",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/909305/woolworths-6-classic-chicken-burgers-patties",
+    "name": "Woolworths 6 Classic Chicken Burgers 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/909305.jpg",
+    "source_id": "909305",
+    "barcode": "9339687387809",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/134035/woolworths-boneless-chicken-kyiv-with-creamy-cheese-ham-filling",
+    "name": "Woolworths Boneless Chicken Kyiv With Creamy Cheese & Ham Filling 700G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/134035.jpg",
+    "source_id": "134035",
+    "barcode": "9339687223992",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "700G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "1357",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "1357",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "1357",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "1357",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "950",
+        "price_per_unit": "1357",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "1357",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/160852/woolworths-buttermilk-tennessee-style-chicken-wing-nibbles",
+    "name": "Woolworths Buttermilk Tennessee Style Chicken Wing Nibbles 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/160852.jpg",
+    "source_id": "160852",
+    "barcode": "9339687263189",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/134036/woolworths-chicken-bulk-schnitzels",
+    "name": "Woolworths Chicken Bulk Schnitzels 1.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/134036.jpg",
+    "source_id": "134036",
+    "barcode": "9339687224005",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "1.5Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1550",
+        "price_per_unit": "1033",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1550",
+        "price_per_unit": "1033",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1550",
+        "price_per_unit": "1033",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1550",
+        "price_per_unit": "1033",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1550",
+        "price_per_unit": "1033",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1550",
+        "price_per_unit": "1033",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1550",
+        "price_per_unit": "1033",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/134090/woolworths-chicken-kyiv-bites-with-creamy-garlic-filling",
+    "name": "Woolworths Chicken Kyiv Bites With Creamy Garlic Filling 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/134090.jpg",
+    "source_id": "134090",
+    "barcode": "9339687224128",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/134082/woolworths-chicken-schnitzels-garlic-herb",
+    "name": "Woolworths Chicken Schnitzels Garlic & Herb 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/134082.jpg",
+    "source_id": "134082",
+    "barcode": "9339687224050",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "600G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "1583",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "1583",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "1583",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "1583",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "1583",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "950",
+        "price_per_unit": "1583",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/160856/woolworths-chicken-tenders",
+    "name": "Woolworths Chicken Tenders 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/160856.jpg",
+    "source_id": "160856",
+    "barcode": "9339687263226",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/134038/woolworths-crumbed-chicken-burgers",
+    "name": "Woolworths Crumbed Chicken Burgers 440g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/134038.jpg",
+    "source_id": "134038",
+    "barcode": "9339687224029",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "440G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1136",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1136",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "1136",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "1136",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "1136",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "1136",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "1136",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/433238/woolworths-oven-baked-chicken-breast-schnitzels",
+    "name": "Woolworths Oven Baked Chicken Breast Schnitzels 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/433238.jpg",
+    "source_id": "433238",
+    "barcode": "9339687361441",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "2714",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "2714",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "2714",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "2714",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "2714",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "950",
+        "price_per_unit": "2714",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/164677/woolworths-roasted-garlic-chicken-tenderloins",
+    "name": "Woolworths Roasted Garlic Chicken Tenderloins 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/164677.jpg",
+    "source_id": "164677",
+    "barcode": "9339687265558",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "2375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "2375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "2375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "2375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "2375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "2375",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "950",
+        "price_per_unit": "2375",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/351196/chicken-schnitzel-crumbed",
+    "name": "Chicken Schnitzel Crumbed Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/351196.jpg",
+    "source_id": "351196",
+    "barcode": "0270016000008",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "370",
+        "price_per_unit": "370",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "370",
+        "price_per_unit": "370",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "370",
+        "price_per_unit": "370",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "370",
+        "price_per_unit": "370",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/433191/chicken-schnitzel-parmi-crumbed",
+    "name": "Chicken Schnitzel Parmi Crumbed Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/433191.jpg",
+    "source_id": "433191",
+    "barcode": "0272960000004",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "370",
+        "price_per_unit": "370",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "370",
+        "price_per_unit": "370",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "370",
+        "price_per_unit": "370",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178505/macro-free-range-chicken-breast-tenders",
+    "name": "Macro Free Range Chicken Breast Tenders 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/178505.jpg",
+    "source_id": "178505",
+    "barcode": "9339687263240",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1100",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/769243/woolworths-chicken-kyiv-garlic",
+    "name": "Woolworths Chicken Kyiv Garlic Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/769243.jpg",
+    "source_id": "769243",
+    "barcode": "0276964000008",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/134041/woolworths-chicken-schnitzels",
+    "name": "Woolworths Chicken Schnitzels 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/134041.jpg",
+    "source_id": "134041",
+    "barcode": "9339687224043",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "600G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "1583",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "1583",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "1583",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "1583",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "950",
+        "price_per_unit": "1583",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/807560/woolworths-premium-pub-style-chicken-schnitzel",
+    "name": "Woolworths Premium Pub Style Chicken Schnitzel Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/807560.jpg",
+    "source_id": "807560",
+    "barcode": "0277182000009",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/134085/woolworths-southern-style-buttermilk-chicken-thigh-fillet-burgers",
+    "name": "Woolworths Southern Style Buttermilk Chicken Thigh Fillet Burgers 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/134085.jpg",
+    "source_id": "134085",
+    "barcode": "9339687224074",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "350G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "2571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "2571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "2571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "2571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "2571",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/666237/chicken-sandwich-chicken-sandwich-schnitzel",
+    "name": "Chicken Sandwich Schnitzel Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/666237.jpg",
+    "source_id": "666237",
+    "barcode": "0271921000008",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6010699/steggles-chicken-breast-schnitzel-panko-quinoa",
+    "name": "Steggles Chicken Breast Schnitzel Panko & Quinoa 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6010699.jpg",
+    "source_id": "6010699",
+    "barcode": "9310213545122",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1050",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1050",
+        "price_per_unit": "1750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/910389/woolworths-gluten-free-2-chicken-schnitzels",
+    "name": "Woolworths Gluten Free 2 Chicken Schnitzels 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/910389.jpg",
+    "source_id": "910389",
+    "barcode": "9339687388172",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/454376/woolworths-herb-garlic-oven-baked-chicken-breast-schnitzels",
+    "name": "Woolworths Herb & Garlic Oven Baked Chicken Breast Schnitzels 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/454376.jpg",
+    "source_id": "454376",
+    "barcode": "9339687361465",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "2714",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "2714",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "2714",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "2714",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/160853/woolworths-hot-spicy-chicken-wing-nibbles",
+    "name": "Woolworths Hot & Spicy Chicken Wing Nibbles 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/160853.jpg",
+    "source_id": "160853",
+    "barcode": "9339687263196",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/250851/woolworths-nashville-style-chicken-tenders",
+    "name": "Woolworths Nashville Style Chicken Tenders 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/250851.jpg",
+    "source_id": "250851",
+    "barcode": "9339687316311",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/806278/woolworths-premium-pub-style-chicken-schnitzel",
+    "name": "Woolworths Premium Pub Style Chicken Schnitzel Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/806278.jpg",
+    "source_id": "806278",
+    "barcode": "0275403000005",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/134088/woolworths-southern-style-chicken-pops",
+    "name": "Woolworths Southern Style Chicken Pops 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/134088.jpg",
+    "source_id": "134088",
+    "barcode": "9339687224104",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "2250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/913846/woolworths-southern-style-chicken-portions",
+    "name": "Woolworths Southern Style Chicken Portions 1.2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/913846.jpg",
+    "source_id": "913846",
+    "barcode": "9339687389988",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "1.2kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1550",
+        "price_per_unit": "1292",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1550",
+        "price_per_unit": "1292",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1550",
+        "price_per_unit": "1292",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1550",
+        "price_per_unit": "1292",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/665597/canon-foods-chicken-sandwich-schnitzel",
+    "name": "Canon Foods Chicken Sandwich Schnitzel Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/665597.jpg",
+    "source_id": "665597",
+    "barcode": "0277090000009",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/355369/chicken-schnitzel-crumbed-breast",
+    "name": "Chicken Schnitzel Crumbed Breast Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/355369.jpg",
+    "source_id": "355369",
+    "barcode": "0271561000000",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "370",
+        "price_per_unit": "370",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/104236/mt-barker-chicken-breast-schnitzels",
+    "name": "Mt Barker Chicken Breast Schnitzels 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/104236.jpg",
+    "source_id": "104236",
+    "barcode": "9334864006498",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/804696/mt-barker-ciabatta-crumb-chicken-schnitzel",
+    "name": "Mt Barker Ciabatta Crumb Chicken Schnitzel 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/804696.jpg",
+    "source_id": "804696",
+    "barcode": "9334864006221",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/804687/mt-barker-garlic-parmesan-chicken-cutlets",
+    "name": "Mt Barker Garlic Parmesan Chicken Cutlets 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/804687.jpg",
+    "source_id": "804687",
+    "barcode": "9334864006108",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/134032/woolworths-creamy-garlic-stuffed-boneless-chicken-kiev",
+    "name": "Woolworths Creamy Garlic Stuffed Boneless Chicken Kiev 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/134032.jpg",
+    "source_id": "134032",
+    "barcode": "9339687223985",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "950",
+        "price_per_unit": "1357",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "950",
+        "price_per_unit": "1357",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "950",
+        "price_per_unit": "1357",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "950",
+        "price_per_unit": "1357",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544777/olga-s-fine-foods-chicken-breast-parmigiana-schnitzel",
+    "name": "Olga's Fine Foods Chicken Breast Parmigiana Schnitzel 500G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/544777.jpg",
+    "source_id": "544777",
+    "barcode": "9319139010387",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/965345/olga-s-fine-foods-gourmet-chicken-breast-schnitzel-chipotle-lime",
+    "name": "Olga's Fine Foods Gourmet Chicken Breast Schnitzel Chipotle & Lime 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/965345.jpg",
+    "source_id": "965345",
+    "barcode": "9319139889105",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/951114/olga-s-fine-foods-gourmet-chicken-schnitzel-sour-cream-onion",
+    "name": "Olga's Fine Foods Gourmet Chicken Schnitzel Sour Cream & Onion 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/951114.jpg",
+    "source_id": "951114",
+    "barcode": "9319139889143",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/310742/ingham-s-turkey-mince",
+    "name": "Ingham's Turkey Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/310742.jpg",
+    "source_id": "310742",
+    "barcode": "9310037149216",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/175570/macro-grass-fed-australian-beef-mince",
+    "name": "Macro Grass Fed Australian Beef Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/175570.jpg",
+    "source_id": "175570",
+    "barcode": "9339687271153",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/577863/woolworths-beef-mince",
+    "name": "Woolworths Beef Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/577863.jpg",
+    "source_id": "577863",
+    "barcode": "9300633636036",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "575",
+        "price_per_unit": "1150",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "575",
+        "price_per_unit": "1150",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "575",
+        "price_per_unit": "1150",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "575",
+        "price_per_unit": "1150",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "575",
+        "price_per_unit": "1150",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "575",
+        "price_per_unit": "1150",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/72363/woolworths-diced-lamb",
+    "name": "Woolworths Diced Lamb 450G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/072363.jpg",
+    "source_id": "72363",
+    "barcode": "9339687137664",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "2889",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "2889",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "2889",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "2889",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/577860/woolworths-heart-smart-extra-lean-beef-mince",
+    "name": "Woolworths Heart Smart Extra Lean Beef Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/577860.jpg",
+    "source_id": "577860",
+    "barcode": "9300633636005",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/666557/woolworths-heart-smart-extra-lean-pork-mince",
+    "name": "Woolworths Heart Smart Extra Lean Pork Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/666557.jpg",
+    "source_id": "666557",
+    "barcode": "9300633684495",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/582607/woolworths-lamb-mince",
+    "name": "Woolworths Lamb Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/582607.jpg",
+    "source_id": "582607",
+    "barcode": "9300633637095",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/577861/woolworths-lean-beef-mince",
+    "name": "Woolworths Lean Beef Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/577861.jpg",
+    "source_id": "577861",
+    "barcode": "9300633636012",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/582608/woolworths-lean-pork-mince",
+    "name": "Woolworths Lean Pork Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/582608.jpg",
+    "source_id": "582608",
+    "barcode": "9300633637101",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/239598/woolworths-pork-beef-mince",
+    "name": "Woolworths Pork & Beef Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/239598.jpg",
+    "source_id": "239598",
+    "barcode": "9339687314195",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/169853/woolworths-pork-mince",
+    "name": "Woolworths Pork Mince 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/169853.jpg",
+    "source_id": "169853",
+    "barcode": "9339687267613",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/705461/macro-chicken-mince-free-range",
+    "name": "Macro Chicken Mince Free Range 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/705461.jpg",
+    "source_id": "705461",
+    "barcode": "9300633418946",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/577864/woolworths-beef-mince",
+    "name": "Woolworths Beef Mince 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/577864.jpg",
+    "source_id": "577864",
+    "barcode": "9300633636043",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "975",
+        "price_per_unit": "975",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "975",
+        "price_per_unit": "975",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "975",
+        "price_per_unit": "975",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "975",
+        "price_per_unit": "975",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "975",
+        "price_per_unit": "975",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "975",
+        "price_per_unit": "975",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "975",
+        "price_per_unit": "975",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/577862/woolworths-lean-beef-mince",
+    "name": "Woolworths Lean Beef Mince 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/577862.jpg",
+    "source_id": "577862",
+    "barcode": "9300633636029",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1550",
+        "price_per_unit": "1550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1550",
+        "price_per_unit": "1550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1550",
+        "price_per_unit": "1550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1550",
+        "price_per_unit": "1550",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1550",
+        "price_per_unit": "1550",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/321112/woolworths-rspca-approved-chicken-mince",
+    "name": "Woolworths RSPCA Approved Chicken Mince 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/321112.jpg",
+    "source_id": "321112",
+    "barcode": "9339687347391",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/148915/macro-organic-chicken-mince",
+    "name": "Macro Organic Chicken Mince 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/148915.jpg",
+    "source_id": "148915",
+    "barcode": "9339687244157",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/321099/woolworths-rspca-approved-chicken-mince",
+    "name": "Woolworths RSPCA Approved Chicken Mince 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/321099.jpg",
+    "source_id": "321099",
+    "barcode": "9339687347377",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/328779/woolworths-rspca-approved-chicken-mince",
+    "name": "Woolworths RSPCA Approved Chicken Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/328779.jpg",
+    "source_id": "328779",
+    "barcode": "9300633253448",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/236845/macro-grass-fed-australian-premium-beef-mince",
+    "name": "Macro Grass Fed Australian Premium Beef Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/236845.jpg",
+    "source_id": "236845",
+    "barcode": "9339687309757",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1100",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/268508/market-value-value-beef-mince",
+    "name": "Market Value Value Beef Mince 1.8kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/268508.jpg",
+    "source_id": "268508",
+    "barcode": "9339687326402",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "1.8kg",
+    "prices": []
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/360563/woolworths-rspca-approved-chicken-mince",
+    "name": "Woolworths RSPCA Approved Chicken Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/360563.jpg",
+    "source_id": "360563",
+    "barcode": "9300633169541",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/453086/woolworths-beef-family-roast",
+    "name": "Woolworths Beef Family Roast 600g - 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/453086.jpg",
+    "source_id": "453086",
+    "barcode": "9339687361359",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "600g - 2kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3700",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "3700",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "3700",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3700",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3700",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3700",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3700",
+        "price_per_unit": "1850",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/194648/woolworths-beef-lasagne-null",
+    "name": "Woolworths Beef Lasagne 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/194648.jpg",
+    "source_id": "194648",
+    "barcode": "9313475006189",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "2Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/250846/woolworths-classic-beef-sausage-roll",
+    "name": "Woolworths Classic Beef Sausage Roll 460g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/250846.jpg",
+    "source_id": "250846",
+    "barcode": "9339687360345",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "460g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1739",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1739",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "1739",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "1739",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "1739",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "1739",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "1739",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/428204/woolworths-cook-beef-medallions-in-onion-garlic-gravy-sauce",
+    "name": "Woolworths COOK Beef Medallions In Onion & Garlic Gravy Sauce 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/428204.jpg",
+    "source_id": "428204",
+    "barcode": "9300633535629",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/54241/woolworths-cook-beef-pepper-steaks",
+    "name": "Woolworths Cook Beef Pepper Steaks 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/054241.jpg",
+    "source_id": "54241",
+    "barcode": "9339687104567",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "2667",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/78575/woolworths-cook-pork-knuckle",
+    "name": "Woolworths Cook Pork Knuckle 630g - 1.3kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/078575.jpg",
+    "source_id": "78575",
+    "barcode": "9339687359288",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "630g - 1.3kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1690",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1690",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1690",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1690",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1690",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1690",
+        "price_per_unit": "1300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83532/woolworths-cook-pork-loin-roast-with-herbs-spices",
+    "name": "Woolworths Cook Pork Loin Roast With Herbs & Spices 500g - 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/083532.jpg",
+    "source_id": "83532",
+    "barcode": "9339687390021",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "500G - 750G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1800",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1800",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1800",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1800",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1800",
+        "price_per_unit": "2400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/821038/woolworths-cook-slow-cooked-beef-brisket",
+    "name": "Woolworths Cook Slow Cooked Beef Brisket 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/821038.jpg",
+    "source_id": "821038",
+    "barcode": "9339687316236",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "700G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1550",
+        "price_per_unit": "2214",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1550",
+        "price_per_unit": "2214",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1550",
+        "price_per_unit": "2214",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1550",
+        "price_per_unit": "2214",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1550",
+        "price_per_unit": "2214",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1550",
+        "price_per_unit": "2214",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1550",
+        "price_per_unit": "2214",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/465188/woolworths-cook-slow-cooked-meatballs-in-rich-tomato-sauce",
+    "name": "Woolworths COOK Slow Cooked Meatballs In Rich Tomato Sauce 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/465188.jpg",
+    "source_id": "465188",
+    "barcode": "9339687361823",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "1625",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "1625",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "1625",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1300",
+        "price_per_unit": "1625",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "1625",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "1625",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1300",
+        "price_per_unit": "1625",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/464671/woolworths-cook-slow-cooked-mild-mexican-pork-shoulder",
+    "name": "Woolworths COOK Slow Cooked Mild Mexican Pork Shoulder 650g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/464671.jpg",
+    "source_id": "464671",
+    "barcode": "9339687362189",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "650g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "2154",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "2154",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "2154",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "2154",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "2154",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "2154",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "2154",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/481543/woolworths-cook-slow-cooked-roast-beef-in-a-rich-savoury-sauce",
+    "name": "Woolworths COOK Slow Cooked Roast Beef In A Rich & Savoury Sauce 650g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/481543.jpg",
+    "source_id": "481543",
+    "barcode": "9339687362165",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "650g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "2615",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "2615",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1700",
+        "price_per_unit": "2615",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1700",
+        "price_per_unit": "2615",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1700",
+        "price_per_unit": "2615",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1700",
+        "price_per_unit": "2615",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1700",
+        "price_per_unit": "2615",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/148345/woolworths-corned-beef-silverside",
+    "name": "Woolworths Corned Beef Silverside 1kg - 2.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/148345.jpg",
+    "source_id": "148345",
+    "barcode": "9339687141944",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "1kg - 2.5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2750",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "2750",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "2750",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2750",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2750",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2750",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2750",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2750",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/810791/woolworths-slow-cooked-pork-shoulder-with-bbq-sauce",
+    "name": "Woolworths Slow Cooked Pork Shoulder With Bbq Sauce 560g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/810791.jpg",
+    "source_id": "810791",
+    "barcode": "9339687316243",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "560G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/317422/woolworths-beef-petite-tender",
+    "name": "Woolworths Beef Petite Tender 150g-450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/317422.jpg",
+    "source_id": "317422",
+    "barcode": "9339687346790",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "150g-450g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1215",
+        "price_per_unit": "2700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/820782/woolworths-cook-beef-ribs-in-sweet-smoky-bbq-sauce",
+    "name": "Woolworths COOK Beef Ribs In Sweet & Smoky BBQ Sauce 850g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/820782.jpg",
+    "source_id": "820782",
+    "barcode": "9339687362172",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "850g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2200",
+        "price_per_unit": "2588",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/135629/woolworths-cook-chinese-bbq-style-pork-with-char-siu-sauce",
+    "name": "Woolworths Cook Chinese Bbq Style Pork With Char Siu Sauce 560g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/135629.jpg",
+    "source_id": "135629",
+    "barcode": "9339687225361",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "560G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "1964",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "1964",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "1964",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "1964",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1100",
+        "price_per_unit": "1964",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "1964",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83537/woolworths-cook-pork-medallions-garlic-herb-stuffing",
+    "name": "Woolworths Cook Pork Medallions Garlic & Herb Stuffing 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/083537.jpg",
+    "source_id": "83537",
+    "barcode": "9339687161386",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/697368/woolworths-cook-pork-steaks-with-sweet-smokey-bbq-glaze",
+    "name": "Woolworths Cook Pork Steaks With Sweet & Smokey Bbq Glaze 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/697368.jpg",
+    "source_id": "697368",
+    "barcode": "9339687056439",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/697369/woolworths-cook-slow-cooked-pork-ribs-in-smokey-bbq-sauce",
+    "name": "Woolworths Cook Slow Cooked Pork Ribs In Smokey Bbq Sauce 650g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/697369.jpg",
+    "source_id": "697369",
+    "barcode": "9339687056446",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "650G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "2154",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "2154",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "2154",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "2154",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "2154",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "2154",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/483597/woolworths-cook-slow-cooked-traditional-beef-roast-with-garlic-herb",
+    "name": "Woolworths COOK Slow Cooked Traditional Beef Roast With Garlic & Herb 650g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/483597.jpg",
+    "source_id": "483597",
+    "barcode": "9339687362196",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "650g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1300",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1300",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1500",
+        "price_per_unit": "2308",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1500",
+        "price_per_unit": "2308",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/254550/macro-grass-fed-beef-rump-roast",
+    "name": "Macro Grass Fed Beef Rump Roast 450g - 850g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/254550.jpg",
+    "source_id": "254550",
+    "barcode": "9339687320509",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "450g - 850g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "2465",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2465",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2465",
+        "price_per_unit": "2900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/317384/woolworths-beef-oyster-blade-roast",
+    "name": "Woolworths Beef Oyster Blade Roast 450g - 1.25kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/317384.jpg",
+    "source_id": "317384",
+    "barcode": "9339687346752",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "450g - 1.25kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "2500",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2500",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2500",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2500",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2500",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/256351/woolworths-beef-strips-teriyaki-style",
+    "name": "Woolworths Beef Strips Teriyaki Style 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/256351.jpg",
+    "source_id": "256351",
+    "barcode": "9339687320219",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/250457/woolworths-roast-beef-in-onion-garlic-red-wine",
+    "name": "Woolworths Roast Beef In Onion, Garlic & Red Wine 800g - 1.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/250457.jpg",
+    "source_id": "250457",
+    "barcode": "0271333000009",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "800G - 1.5Kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "2550",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2550",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/764567/woolworths-beef-bolar-blade-roast",
+    "name": "Woolworths Beef Bolar Blade Roast 900g - 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/764567.jpg",
+    "source_id": "764567",
+    "barcode": "9339687141654",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "900g - 2Kg",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "3200",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3200",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3200",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3200",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/246370/woolworths-beef-rump-roast",
+    "name": "Woolworths Beef Rump Roast 250g - 1.1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/246370.jpg",
+    "source_id": "246370",
+    "barcode": "2627650000006",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "250g - 1.1Kg",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "2860",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2860",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2860",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/469142/woolworths-cook-slow-cooked-pork-rib-rack-with-sweet-smokey-bbq-glaze",
+    "name": "Woolworths COOK Slow Cooked Pork Rib Rack With Sweet & Smokey BBQ Glaze 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/469142.jpg",
+    "source_id": "469142",
+    "barcode": "9339687361830",
+    "category_id": "22713",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "900g",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "2100",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2100",
+        "price_per_unit": "2333",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

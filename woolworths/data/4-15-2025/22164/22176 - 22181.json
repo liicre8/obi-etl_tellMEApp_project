@@ -1,0 +1,154 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/629484/impressed-cold-pressed-juice-ginger-ninja",
+    "name": "Impressed Cold Pressed Juice Ginger Ninja 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/629484.jpg",
+    "source_id": "629484",
+    "barcode": "9336243006099",
+    "category_id": "22164",
+    "subcategory_id": "22176",
+    "subsubcategory_id": "22181",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "L"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "L"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "L"
+      },
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/630643/raw-c-coconut-water",
+    "name": "Raw C Coconut Water 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/630643.jpg",
+    "source_id": "630643",
+    "barcode": "9349622000281",
+    "category_id": "22164",
+    "subcategory_id": "22176",
+    "subsubcategory_id": "22181",
+    "shop": "Woolworths",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "330",
+        "price_unit": "L"
+      },
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "330",
+        "price_unit": "L"
+      },
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "330",
+        "price_unit": "L"
+      },
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "330",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/59722/woolworths-no-added-sugar-tomato-juice",
+    "name": "Woolworths No Added Sugar Tomato Juice 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/059722.jpg",
+    "source_id": "59722",
+    "barcode": "9339687107940",
+    "category_id": "22164",
+    "subcategory_id": "22176",
+    "subsubcategory_id": "22181",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "L"
+      },
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "L"
+      },
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "L"
+      },
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/142929/woolworths-orange-juice-with-pulp",
+    "name": "Woolworths Orange Juice With Pulp 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/142929.jpg",
+    "source_id": "142929",
+    "barcode": "9339687236688",
+    "category_id": "22164",
+    "subcategory_id": "22176",
+    "subsubcategory_id": "22181",
+    "shop": "Woolworths",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      },
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

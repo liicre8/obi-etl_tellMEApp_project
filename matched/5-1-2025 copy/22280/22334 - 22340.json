@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/binggrae-samanco-red-bean-dessert-sandwich-600ml-3907608",
+    "name": "Binggrae Samanco Red Bean Dessert Sandwich | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3907608.jpg&w=640&q=90",
+    "source_id": "3907608",
+    "barcode": "8801104910019",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "1417",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/188663/samanco-red-bean-dessert-sandwich",
+    "name": "Samanco Red Bean Dessert Sandwich 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/188663.jpg",
+    "source_id": "188663",
+    "barcode": "8801104910019",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "183",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

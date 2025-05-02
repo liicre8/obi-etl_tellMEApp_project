@@ -1,0 +1,338 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kitchen-coleslaw-200g-2791406",
+    "name": "Coles Kitchen Coleslaw | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2791406.jpg&w=640&q=90",
+    "source_id": "2791406",
+    "barcode": "9300633616229",
+    "shop": "coles",
+    "category_id": "22375",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/531041/woolworths-classic-coleslaw",
+    "name": "Woolworths Classic Coleslaw 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/531041.jpg",
+    "source_id": "531041",
+    "barcode": "9300633616229",
+    "shop": "Woolworths",
+    "category_id": "22375",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "200",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kitchen-family-coleslaw-kit-520g-3615657",
+    "name": "Coles Kitchen Family Coleslaw Kit | 520g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3615657.jpg&w=640&q=90",
+    "source_id": "3615657",
+    "barcode": "9300633100551",
+    "shop": "coles",
+    "category_id": "22375",
+    "weight": "520g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1058",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1058",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1058",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1058",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1058",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1058",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1058",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1058",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/193753/woolworths-crunchy-noodle-coleslaw-kit-coleslaw-kit",
+    "name": "Woolworths Crunchy Noodle Coleslaw Kit Coleslaw Kit 520g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/193753.jpg",
+    "source_id": "193753",
+    "barcode": "9300633100551",
+    "shop": "Woolworths",
+    "category_id": "22375",
+    "weight": "520g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1058",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1058",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1058",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1058",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1058",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1058",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1058",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kitchen-kaleslaw-salad-kit-350g-2790390",
+    "name": "Coles Kitchen Kaleslaw Salad Kit | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2790390.jpg&w=640&q=90",
+    "source_id": "2790390",
+    "barcode": "9339687060870",
+    "shop": "coles",
+    "category_id": "22375",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1571",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1571",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1571",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1571",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1571",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1571",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1571",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1571",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/705436/woolworths-kaleslaw-kit",
+    "name": "Woolworths Kaleslaw Kit 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/705436.jpg",
+    "source_id": "705436",
+    "barcode": "9339687060870",
+    "shop": "Woolworths",
+    "category_id": "22375",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1571",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1571",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/jelly-belly-hanging-very-cherry-1-pack-7039831",
+    "name": "Jelly Belly Hanging Very Cherry | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7039831.jpg&w=640&q=90",
+    "source_id": "7039831",
+    "barcode": "5010555152104",
+    "shop": "coles",
+    "category_id": "22476",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "700",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/107924/jelly-belly-3d-car-air-freshener-very-cherry",
+    "name": "Jelly Belly 3d Car Air Freshener Very Cherry Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/107924.jpg",
+    "source_id": "107924",
+    "barcode": "5010555152104",
+    "shop": "Woolworths",
+    "category_id": "22476",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "3889",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/jelly-belly-gel-can-blueberry-1-pack-7039886",
+    "name": "Jelly Belly Gel Can Blueberry | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7039886.jpg&w=640&q=90",
+    "source_id": "7039886",
+    "barcode": "5010555155143",
+    "shop": "coles",
+    "category_id": "22476",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/225677/jelly-belly-air-freshener-can-blueberry",
+    "name": "Jelly Belly Air Freshener Can Blueberry 70g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/225677.jpg",
+    "source_id": "225677",
+    "barcode": "5010555155143",
+    "shop": "Woolworths",
+    "category_id": "22476",
+    "weight": "70g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/jelly-belly-gel-can-tutti-fruitti-1-pack-7039842",
+    "name": "Jelly Belly Gel Can Tutti-Fruitti | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7039842.jpg&w=640&q=90",
+    "source_id": "7039842",
+    "barcode": "5010555155150",
+    "shop": "coles",
+    "category_id": "22476",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/225924/jelly-belly-air-freshener-can-tutti-frutti",
+    "name": "Jelly Belly Air Freshener Can Tutti Frutti 70g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/225924.jpg",
+    "source_id": "225924",
+    "barcode": "5010555155150",
+    "shop": "Woolworths",
+    "category_id": "22476",
+    "weight": "70g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "1300",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

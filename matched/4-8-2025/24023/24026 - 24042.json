@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/daly-potato-co-bacon-and-dijon-potato-salad-400g-3294702",
+    "name": "Daly Potato Co Bacon & Dijon Potato Salad | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3294702.jpg&w=640&q=90",
+    "source_id": "3294702",
+    "barcode": "9315309001063",
+    "shop": "coles",
+    "category_id": "24042",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "138",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/558774/daly-potato-co-bacon-dijon-potato-salad",
+    "name": "Daly Potato Co. Bacon & Dijon Potato Salad 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/558774.jpg",
+    "source_id": "558774",
+    "barcode": "9315309001063",
+    "shop": "Woolworths",
+    "category_id": "24042",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "145",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

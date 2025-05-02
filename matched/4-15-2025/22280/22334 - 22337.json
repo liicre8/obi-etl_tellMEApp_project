@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/cadbury-dairy-milk-freddo-party-cake-frozen-dessert-1.5l-9093430",
+    "name": "Cadbury Dairy Milk Freddo Party Cake Frozen Dessert | 1.5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9093430.jpg&w=640&q=90",
+    "source_id": "9093430",
+    "barcode": "9347043001733",
+    "shop": "coles",
+    "category_id": "22337",
+    "weight": "1.5l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "113",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/51741/cadbury-freddo-cake",
+    "name": "Cadbury Freddo Cake 1.5l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/051741.jpg",
+    "source_id": "51741",
+    "barcode": "9347043001733",
+    "shop": "Woolworths",
+    "category_id": "22337",
+    "weight": "1.5L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "113",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/streets-viennetta-classic-vanilla-ice-cream-cake-650ml-3169766",
+    "name": "Streets Viennetta Classic Vanilla Ice Cream Cake | 650mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3169766.jpg&w=640&q=90",
+    "source_id": "3169766",
+    "barcode": "8714100895252",
+    "shop": "coles",
+    "category_id": "22337",
+    "weight": "650ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "123",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/684415/viennetta-vanilla-frozen-dessert-cake",
+    "name": "Viennetta Vanilla Frozen Dessert Cake 650ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/684415.jpg",
+    "source_id": "684415",
+    "barcode": "8714100895252",
+    "shop": "Woolworths",
+    "category_id": "22337",
+    "weight": "650ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "123",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

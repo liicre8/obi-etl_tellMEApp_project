@@ -1,0 +1,614 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-baby-cucumbers-250g-4578148",
+    "name": "Coles Baby Cucumbers | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4578148.jpg&w=640&q=90",
+    "source_id": "4578148",
+    "barcode": "9300633001674",
+    "shop": "coles",
+    "category_id": "22384",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "1200",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "1200",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "420",
+        "price_per_unit": "1680",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "1600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "1560",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/169067/woolworths-qukes-baby-cucumbers-punnet",
+    "name": "Woolworths Qukes Baby Cucumbers Punnet 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/169067.jpg",
+    "source_id": "169067",
+    "barcode": "9300633001674",
+    "shop": "Woolworths",
+    "category_id": "22384",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "1680",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "420",
+        "price_per_unit": "1680",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "350",
+        "price_per_unit": "1400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "390",
+        "price_per_unit": "1560",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "1680",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-lebanese-cucumbers-approx.-160g-4575208",
+    "name": "Coles Lebanese Cucumbers | approx. 160g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4575208.jpg&w=640&q=90",
+    "source_id": "4575208",
+    "barcode": "0265222000003",
+    "shop": "coles",
+    "category_id": "22384",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "136",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "126",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "126",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "142",
+        "price_per_unit": "890",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "142",
+        "price_per_unit": "890",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "126",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "136",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "142",
+        "price_per_unit": "890",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/137130/lebanese-cucumbers",
+    "name": "Lebanese Cucumbers Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/137130.jpg",
+    "source_id": "137130",
+    "barcode": "0265222000003",
+    "shop": "Woolworths",
+    "category_id": "22384",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "142",
+        "price_per_unit": "142",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "142",
+        "price_per_unit": "142",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "142",
+        "price_per_unit": "142",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "142",
+        "price_per_unit": "142",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-continental-cucumbers-loose-1-each-4575605",
+    "name": "Coles Continental Cucumbers Loose | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4575605.jpg&w=640&q=90",
+    "source_id": "4575605",
+    "barcode": "0266052000003",
+    "shop": "coles",
+    "category_id": "22384",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      },
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/137102/woolworths-continental-cucumbers",
+    "name": "Woolworths Continental Cucumbers Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/137102.jpg",
+    "source_id": "137102",
+    "barcode": "0266052000003",
+    "shop": "Woolworths",
+    "category_id": "22384",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "180",
+        "price_per_unit": "180",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-green-cucumber-1-each-4559314",
+    "name": "Coles Green Cucumber | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4559314.jpg&w=640&q=90",
+    "source_id": "4559314",
+    "barcode": "0266970000000",
+    "shop": "coles",
+    "category_id": "22384",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "VIC",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "260",
+        "price_per_unit": "260",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "250",
+        "price_per_unit": "250",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/137122/cucumber-green",
+    "name": "Cucumber Green Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/137122.jpg",
+    "source_id": "137122",
+    "barcode": "0266970000000",
+    "shop": "Woolworths",
+    "category_id": "22384",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-cherry-tomatoes-prepacked-250g-4834736",
+    "name": "Coles Cherry Tomatoes Prepacked | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4834736.jpg&w=640&q=90",
+    "source_id": "4834736",
+    "barcode": "9300633607333",
+    "shop": "coles",
+    "category_id": "22384",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "1200",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "1200",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "1200",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "280",
+        "price_per_unit": "1120",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "1200",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "320",
+        "price_per_unit": "1280",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "1200",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "300",
+        "price_per_unit": "1200",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/149620/woolworths-cherry-tomatoes-punnet",
+    "name": "Woolworths Cherry Tomatoes Punnet 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/149620.jpg",
+    "source_id": "149620",
+    "barcode": "9300633607333",
+    "shop": "Woolworths",
+    "category_id": "22384",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "1280",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "320",
+        "price_per_unit": "1280",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "1000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "320",
+        "price_per_unit": "1280",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "1200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "320",
+        "price_per_unit": "1280",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kitchen-carrot-sticks-150g-2313448",
+    "name": "Coles Kitchen Carrot Sticks | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2313448.jpg&w=640&q=90",
+    "source_id": "2313448",
+    "barcode": "9321406002308",
+    "shop": "coles",
+    "category_id": "22384",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "1467",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "220",
+        "price_per_unit": "1467",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "220",
+        "price_per_unit": "1467",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "220",
+        "price_per_unit": "1467",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "220",
+        "price_per_unit": "1467",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "220",
+        "price_per_unit": "1467",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "220",
+        "price_per_unit": "1467",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "220",
+        "price_per_unit": "1467",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/259404/just-veg-carrot-sticks",
+    "name": "Just Veg. Carrot Sticks 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/259404.jpg",
+    "source_id": "259404",
+    "barcode": "9321406002308",
+    "shop": "Woolworths",
+    "category_id": "22384",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "1333",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

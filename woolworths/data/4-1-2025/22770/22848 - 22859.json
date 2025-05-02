@@ -1,0 +1,526 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/60136/cadbury-dairy-milk-chocolate-bar",
+    "name": "Cadbury Dairy Milk Chocolate Bar 45g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/060136.jpg",
+    "source_id": "60136",
+    "barcode": "7622300743536",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "45G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "622",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "622",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "622",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "622",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "622",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/893775/angel-delight-chocolate",
+    "name": "Angel Delight Chocolate 59g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/893775.jpg",
+    "source_id": "893775",
+    "barcode": "5000354770302",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "59G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "610",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "610",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/360834/barrs-irn-bru-drink-sparkling-can",
+    "name": "Barrs Irn Bru Drink Sparkling Can 330ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/360834.jpg",
+    "source_id": "360834",
+    "barcode": "5000382026112",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "330mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "818",
+        "price_unit": "L"
+      },
+      {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "818",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/512226/barrys-bay-gold-blend-tea-80-s",
+    "name": "Barrys Bay Gold Blend Tea 80's 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/512226.jpg",
+    "source_id": "512226",
+    "barcode": "5099810204055",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "480",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/303266/batchelors-mushy-peas-canned-chip-shop",
+    "name": "Batchelors Mushy Peas Canned Chip Shop 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/303266.jpg",
+    "source_id": "303266",
+    "barcode": "5000175413495",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "97",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "97",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/52183/batchelors-mushy-peas-canned-original",
+    "name": "Batchelors Mushy Peas Canned Original 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/052183.jpg",
+    "source_id": "52183",
+    "barcode": "5000113001388",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "97",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "97",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/362258/bisto-beef-gravy-granules-original-beef-gravy",
+    "name": "Bisto Beef Gravy Granules 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/362258.jpg",
+    "source_id": "362258",
+    "barcode": "5010024101381",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "170G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "412",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "412",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/724479/bisto-chicken-flavour-gravy-granules-chicken",
+    "name": "Bisto Chicken Flavour Gravy Granules 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/724479.jpg",
+    "source_id": "724479",
+    "barcode": "5000354202476",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "170G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "412",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "412",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/337576/bolands-fig-rolls",
+    "name": "Bolands Fig Rolls 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/337576.jpg",
+    "source_id": "337576",
+    "barcode": "74448403365",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/764104/cadbury-double-decker-chocolate",
+    "name": "Cadbury Double Decker Chocolate 54.5g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/764104.jpg",
+    "source_id": "764104",
+    "barcode": "7622210106421",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "54.5G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "404",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "404",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/325944/club-orange",
+    "name": "CLUB Orange 330ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/325944.jpg",
+    "source_id": "325944",
+    "barcode": "5391521833976",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "330ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "91",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/362262/coca-cola-cherry",
+    "name": "Coca-Cola Cherry 330mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/362262.jpg",
+    "source_id": "362262",
+    "barcode": "5449000009500",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "330mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "833",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/88972/colman-s-ingredients-english-mustard",
+    "name": "Colman's Ingredients English Mustard 100G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/088972.jpg",
+    "source_id": "88972",
+    "barcode": "8722700238324",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "460",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/363746/daim-bar",
+    "name": "Daim Bar 28g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/363746.jpg",
+    "source_id": "363746",
+    "barcode": "7622300294069",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "28g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/741134/dr-pepper-cola-drinks",
+    "name": "Dr Pepper Cola Drinks 330ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/741134.jpg",
+    "source_id": "741134",
+    "barcode": "5010102100015",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "330mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "833",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/392202/fanta-pineapple-grapefruit-soft-drink-can",
+    "name": "Fanta Pineapple & Grapefruit Soft Drink Can 330ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/392202.jpg",
+    "source_id": "392202",
+    "barcode": "5449000089359",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "330ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "758",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/529030/hellmann-s-real-mayonnaise-squeeze",
+    "name": "Hellmann's Real Mayonnaise Squeeze 400 g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/529030.jpg",
+    "source_id": "529030",
+    "barcode": "8722700479475",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "400 g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/326182/fry-s-chocolate-cream",
+    "name": "Fry's Chocolate Cream 49g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/326182.jpg",
+    "source_id": "326182",
+    "barcode": "5000201460509",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "49g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "429",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/777287/galaxy-chocolate",
+    "name": "Galaxy Chocolate 42g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/777287.jpg",
+    "source_id": "777287",
+    "barcode": "5000159470292",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "42G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "619",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/578373/galaxy-minstrels-treat-bag",
+    "name": "Galaxy Minstrels Treat Bag 80g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/578373.jpg",
+    "source_id": "578373",
+    "barcode": "5000159503785",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/337237/goldenfry-gravy-smooth-rich-granules",
+    "name": "Goldenfry Gravy Smooth Rich Granules 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/337237.jpg",
+    "source_id": "337237",
+    "barcode": "792851357982",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "233",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/362224/jacobs-snacks-original-twiglets",
+    "name": "Jacobs Snacks Original Twiglets 45g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/362224.jpg",
+    "source_id": "362224",
+    "barcode": "5000137001968",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22859",
+    "shop": "Woolworths",
+    "weight": "45G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "667",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

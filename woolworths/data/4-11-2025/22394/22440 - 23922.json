@@ -1,0 +1,4408 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/312064/libra-maternity-pads-aloe-vera-with-wings",
+    "name": "Libra Maternity Pads Aloe Vera With Wings 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/312064.jpg",
+    "source_id": "312064",
+    "barcode": "9325344001232",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "42",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "42",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/57810/cottons-organic-ultra-thin-pads-regular-with-wings",
+    "name": "Cottons Organic Ultra Thin Pads Regular With Wings 14 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/057810.jpg",
+    "source_id": "57810",
+    "barcode": "9318153000206",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "14 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "610",
+        "price_per_unit": "44",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/57808/cottons-organic-ultra-thin-pads-super",
+    "name": "Cottons Organic Ultra Thin Pads Super 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/057808.jpg",
+    "source_id": "57808",
+    "barcode": "9318153000213",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "610",
+        "price_per_unit": "51",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94675/essentials-pads-regular",
+    "name": "Essentials Pads Regular 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094675.jpg",
+    "source_id": "94675",
+    "barcode": "9300633946753",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/120363/essentials-pads-super",
+    "name": "Essentials Pads Super 18 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/120363.jpg",
+    "source_id": "120363",
+    "barcode": "9300633038175",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "18 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/827947/evamay-pads-with-wings-night",
+    "name": "Evamay Pads With Wings Night 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/827947.jpg",
+    "source_id": "827947",
+    "barcode": "9300633723125",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "18",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/827949/evamay-pads-with-wings-regular",
+    "name": "Evamay Pads With Wings Regular 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/827949.jpg",
+    "source_id": "827949",
+    "barcode": "9300633723132",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "16 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/827950/evamay-pads-with-wings-super",
+    "name": "Evamay Pads With Wings Super 14 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/827950.jpg",
+    "source_id": "827950",
+    "barcode": "9300633723149",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "14 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "16",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/103018/libra-extra-goodnights-long-wide-pads",
+    "name": "Libra Extra Goodnights Long & Wide Pads 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/103018.jpg",
+    "source_id": "103018",
+    "barcode": "9325344003106",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "70",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/479941/libra-extra-sanitary-pads-regular",
+    "name": "Libra Extra Sanitary Pads Regular 14 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/479941.jpg",
+    "source_id": "479941",
+    "barcode": "9325344002710",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "14 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/723988/libra-girl-good-night-pads-with-wings",
+    "name": "Libra Girl Good Night Pads With Wings 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/723988.jpg",
+    "source_id": "723988",
+    "barcode": "9325344002116",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "42",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/40338/libra-girl-ultra-thins-pads-wings-regular",
+    "name": "Libra Girl Ultra Thins Pads Wings Regular 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/040338.jpg",
+    "source_id": "40338",
+    "barcode": "9325344000082",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "35",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/30721/libra-goodnights-pads",
+    "name": "Libra Goodnights Pads 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/030721.jpg",
+    "source_id": "30721",
+    "barcode": "9325344001690",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "42",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/116837/libra-goodnights-pads-ultra-thin-wings",
+    "name": "Libra Goodnights Pads Ultra Thin Wings 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/116837.jpg",
+    "source_id": "116837",
+    "barcode": "9325344000129",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "42",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/21104/libra-goodnights-pads-with-wings",
+    "name": "Libra Goodnights Pads With Wings 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/021104.jpg",
+    "source_id": "21104",
+    "barcode": "9325344001041",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/905334/libra-goodnights-ultra-thin-long-wide-pads",
+    "name": "Libra Goodnights Ultra Thin Long & Wide Pads 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/905334.jpg",
+    "source_id": "905334",
+    "barcode": "9325344005544",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "70",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/188200/libra-invisible-pads-goodnights-with-wings",
+    "name": "Libra Invisible Pads Goodnights With Wings 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/188200.jpg",
+    "source_id": "188200",
+    "barcode": "9325344000525",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "10 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "510",
+        "price_per_unit": "51",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/5569/libra-invisible-regular-pads",
+    "name": "Libra Invisible Regular Pads 14 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/005569.jpg",
+    "source_id": "5569",
+    "barcode": "9325344002505",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "14 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "510",
+        "price_per_unit": "36",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/5554/libra-invisible-regular-pads-with-wings",
+    "name": "Libra Invisible Regular Pads With Wings 14 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/005554.jpg",
+    "source_id": "5554",
+    "barcode": "9325344002512",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "14 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "510",
+        "price_per_unit": "36",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/5588/libra-invisible-super-pads-with-wings",
+    "name": "Libra Invisible Super Pads With Wings 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/005588.jpg",
+    "source_id": "5588",
+    "barcode": "9325344002536",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "510",
+        "price_per_unit": "43",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/14766/libra-pads-extra-wings-regular",
+    "name": "Libra Pads Extra Wings Regular 14 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/014766.jpg",
+    "source_id": "14766",
+    "barcode": "9325344001737",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "14 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/14825/libra-pads-wings-super",
+    "name": "Libra Pads Wings Super 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/014825.jpg",
+    "source_id": "14825",
+    "barcode": "9310004342343",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "35",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/22033/libra-ultra-thins-pads-wings-regular",
+    "name": "Libra Ultra Thins Pads Wings Regular 14 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/022033.jpg",
+    "source_id": "22033",
+    "barcode": "9325344001751",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "14 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/466098/libra-ultra-thins-sanitary-pads-goodnights-with-wings",
+    "name": "Libra Ultra Thins Sanitary Pads Goodnights With Wings 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/466098.jpg",
+    "source_id": "466098",
+    "barcode": "9325344000815",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/479940/libra-ultra-thins-sanitary-pads-thin-regular",
+    "name": "Libra Ultra Thins Sanitary Pads Thin Regular 14 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/479940.jpg",
+    "source_id": "479940",
+    "barcode": "9325344002802",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "14 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/272088/stayfree-all-nights-pads-with-wings",
+    "name": "Stayfree All Nights Pads With Wings 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/272088.jpg",
+    "source_id": "272088",
+    "barcode": "9300607537710",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/77342/stayfree-regular-pads-regular-no-wings",
+    "name": "Stayfree Regular Pads Regular No Wings 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/077342.jpg",
+    "source_id": "77342",
+    "barcode": "9300607535457",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "35",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/77341/stayfree-super-pads-super-no-wings",
+    "name": "Stayfree Super Pads Super No Wings 18 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/077341.jpg",
+    "source_id": "77341",
+    "barcode": "9300607535525",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "18 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "39",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/44861/stayfree-ultra-thin-all-nights-pads-with-wings",
+    "name": "Stayfree Ultra Thin All Nights Pads With Wings 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/044861.jpg",
+    "source_id": "44861",
+    "barcode": "9300607550559",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/370631/stayfree-ultra-thin-regular-pads-with-wings",
+    "name": "Stayfree Ultra Thin Regular Pads With Wings 14 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/370631.jpg",
+    "source_id": "370631",
+    "barcode": "9300607551174",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "14 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "43",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/58657/stayfree-ultra-thin-super-pads-with-wings",
+    "name": "Stayfree Ultra Thin Super Pads With Wings 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/058657.jpg",
+    "source_id": "58657",
+    "barcode": "9300607550733",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "50",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/905210/tom-organic-maternity-pads-wingless",
+    "name": "Tom Organic Maternity Pads Wingless 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/905210.jpg",
+    "source_id": "905210",
+    "barcode": "9346285001709",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "66",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/724069/tom-organic-pads-regular-ultra-thin",
+    "name": "Tom Organic Pads Regular Ultra Thin 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/724069.jpg",
+    "source_id": "724069",
+    "barcode": "9346285000009",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "475",
+        "price_per_unit": "48",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/724078/tom-organic-pads-super-ultra-thin",
+    "name": "Tom Organic Pads Super Ultra Thin 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/724078.jpg",
+    "source_id": "724078",
+    "barcode": "9346285000016",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "475",
+        "price_per_unit": "48",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/906364/tom-organic-ultra-thin-overnight-pads",
+    "name": "Tom Organic Ultra Thin Overnight Pads 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/906364.jpg",
+    "source_id": "906364",
+    "barcode": "9346285001693",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "66",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/776780/u-by-kotex-designer-ultrathin-pads-regular-with-wings",
+    "name": "U by Kotex Designer Ultrathin Pads Regular With Wings 22 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/776780.jpg",
+    "source_id": "776780",
+    "barcode": "9310088009101",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "22 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": "40",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/684422/u-by-kotex-extra-overnight-pads-long-with-wings",
+    "name": "U by Kotex Extra Overnight Pads Long With Wings 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/684422.jpg",
+    "source_id": "684422",
+    "barcode": "9310088012392",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "66",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/352469/u-by-kotex-extra-overnight-pads-with-wings",
+    "name": "U by Kotex Extra Overnight Pads With Wings 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/352469.jpg",
+    "source_id": "352469",
+    "barcode": "9310088005431",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "53",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/352468/u-by-kotex-extra-pads-regular-with-wings",
+    "name": "U by Kotex Extra Pads Regular With Wings 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/352468.jpg",
+    "source_id": "352468",
+    "barcode": "9310088005417",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "16 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "33",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/756990/u-by-kotex-extra-pads-super-with-wings",
+    "name": "U by Kotex Extra Pads Super With Wings 14 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/756990.jpg",
+    "source_id": "756990",
+    "barcode": "9310088005424",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "14 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "38",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/266917/u-by-kotex-overnight-ultimate-pads-with-wings",
+    "name": "U by Kotex Overnight Ultimate Pads With Wings 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/266917.jpg",
+    "source_id": "266917",
+    "barcode": "9310088016161",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "88",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/839669/u-by-kotex-sport-ultrathin-pads-regular-with-wings",
+    "name": "U by Kotex Sport Ultrathin Pads Regular With Wings 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/839669.jpg",
+    "source_id": "839669",
+    "barcode": "9310088009439",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "49",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/839657/u-by-kotex-sport-ultrathin-pads-super-with-wings",
+    "name": "U by Kotex Sport Ultrathin Pads Super With Wings 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/839657.jpg",
+    "source_id": "839657",
+    "barcode": "9310088009446",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "59",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/913317/u-by-kotex-teen-ultrathins-pads-regular-with-wings",
+    "name": "U by Kotex Teen Ultrathins Pads Regular With Wings 14 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/913317.jpg",
+    "source_id": "913317",
+    "barcode": "9310088015591",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "14 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "38",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/913483/u-by-kotex-teen-ultrathins-pads-super-with-wings",
+    "name": "U by Kotex Teen Ultrathins Pads Super With Wings 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/913483.jpg",
+    "source_id": "913483",
+    "barcode": "9310088015607",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "12 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "44",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/684420/u-by-kotex-ultrathin-overnight-pads-long-with-wings",
+    "name": "U by Kotex Ultrathin Overnight Pads Long With Wings 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/684420.jpg",
+    "source_id": "684420",
+    "barcode": "9310088012385",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "66",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/748561/u-by-kotex-ultrathin-overnight-pads-with-wings",
+    "name": "U by Kotex Ultrathin Overnight Pads With Wings 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/748561.jpg",
+    "source_id": "748561",
+    "barcode": "9310088012408",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "53",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/748416/u-by-kotex-ultrathin-pads-regular-no-wings",
+    "name": "U by Kotex Ultrathin Pads Regular No Wings 14 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/748416.jpg",
+    "source_id": "748416",
+    "barcode": "9310088008067",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "14 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "38",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/748551/u-by-kotex-ultrathin-pads-regular-with-wings",
+    "name": "U by Kotex Ultrathin Pads Regular With Wings 14 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/748551.jpg",
+    "source_id": "748551",
+    "barcode": "9310088009125",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "14 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "38",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/912752/u-by-kotex-ultrathin-pads-regular-with-wings-value",
+    "name": "U by Kotex Ultrathin Pads Regular With Wings Value 20 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/912752.jpg",
+    "source_id": "912752",
+    "barcode": "9310088017601",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "20 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "33",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/748533/u-by-kotex-ultrathin-pads-super-with-wings",
+    "name": "U by Kotex Ultrathin Pads Super With Wings 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/748533.jpg",
+    "source_id": "748533",
+    "barcode": "9310088008050",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "44",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/912381/u-by-kotex-ultrathin-pads-super-with-wings-value",
+    "name": "U by Kotex Ultrathin Pads Super With Wings Value 18 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/912381.jpg",
+    "source_id": "912381",
+    "barcode": "9310088017618",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "18 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "36",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/310242/carefree-flexia-regular-tampons-free-regular-tampons",
+    "name": "Carefree Flexia Regular Tampons 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/310242.jpg",
+    "source_id": "310242",
+    "barcode": "9300607516708",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "16 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "43",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/310243/carefree-flexia-super-tampons-free-super-tampons",
+    "name": "Carefree Flexia Super Tampons 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/310243.jpg",
+    "source_id": "310243",
+    "barcode": "9300607516715",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "16 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "43",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/3671/cottons-organic-tampons-regular",
+    "name": "Cottons Organic Tampons Regular 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/003671.jpg",
+    "source_id": "3671",
+    "barcode": "9318153000022",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "16 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "610",
+        "price_per_unit": "38",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/3734/cottons-organic-tampons-super",
+    "name": "Cottons Organic Tampons Super 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/003734.jpg",
+    "source_id": "3734",
+    "barcode": "9318153000039",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "16 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "610",
+        "price_per_unit": "38",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/397088/evamay-regular-tampons",
+    "name": "Evamay Regular Tampons 32 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/397088.jpg",
+    "source_id": "397088",
+    "barcode": "9339687358052",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "32 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "11",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/398532/evamay-super-tampons",
+    "name": "Evamay Super Tampons 32 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/398532.jpg",
+    "source_id": "398532",
+    "barcode": "9339687358380",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "32 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "11",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/11792/libra-tampons-girl-regular",
+    "name": "Libra Tampons Girl Regular 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/011792.jpg",
+    "source_id": "11792",
+    "barcode": "9325344003021",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "16 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "22",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33186/libra-tampons-regular",
+    "name": "Libra Tampons Regular 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033186.jpg",
+    "source_id": "33186",
+    "barcode": "9325344002666",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "16 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "22",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37427/libra-tampons-regular",
+    "name": "Libra Tampons Regular 32 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/037427.jpg",
+    "source_id": "37427",
+    "barcode": "9325344002673",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "32 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "945",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33174/libra-tampons-super",
+    "name": "Libra Tampons Super 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033174.jpg",
+    "source_id": "33174",
+    "barcode": "9325344002680",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "16 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "22",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33350/libra-tampons-super",
+    "name": "Libra Tampons Super 32 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033350.jpg",
+    "source_id": "33350",
+    "barcode": "9325344002697",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "32 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "945",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/755055/tampax-regular-tampons-light-flow-with-applicator",
+    "name": "Tampax Regular Tampons Light Flow With Applicator 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/755055.jpg",
+    "source_id": "755055",
+    "barcode": "4902430477635",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "33",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/755075/tampax-super-tampons-medium-flow-with-applicator",
+    "name": "Tampax Super Tampons Medium Flow With Applicator 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/755075.jpg",
+    "source_id": "755075",
+    "barcode": "4902430477659",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "33",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/684927/tom-organic-bulk-tampons-regular",
+    "name": "Tom Organic Bulk Tampons Regular 32 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/684927.jpg",
+    "source_id": "684927",
+    "barcode": "9346285000757",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "32 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1155",
+        "price_per_unit": "36",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/640061/tom-organic-super-tampons",
+    "name": "Tom Organic Super Tampons 2x8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/640061.jpg",
+    "source_id": "640061",
+    "barcode": "9346285000351",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "2x8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "475",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/377097/tom-organic-tampons-regular",
+    "name": "Tom Organic Tampons Regular 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/377097.jpg",
+    "source_id": "377097",
+    "barcode": "9369999295745",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "16 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "475",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/600930/u-by-kotex-sport-tampons-super-super",
+    "name": "U by Kotex Sport Tampons Super Super 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/600930.jpg",
+    "source_id": "600930",
+    "barcode": "9310088011159",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "16 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "620",
+        "price_per_unit": "39",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/233238/u-by-kotex-tampons-mini",
+    "name": "U by Kotex Tampons Mini 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/233238.jpg",
+    "source_id": "233238",
+    "barcode": "9310088003406",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "16 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "33",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/188124/u-by-kotex-tampons-regular-regular",
+    "name": "U by Kotex Tampons Regular Regular 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/188124.jpg",
+    "source_id": "188124",
+    "barcode": "9310088003413",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "16 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "33",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/297363/u-by-kotex-tampons-regular-regular-bulk",
+    "name": "U by Kotex Tampons Regular Regular Bulk 32 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/297363.jpg",
+    "source_id": "297363",
+    "barcode": "9310088001105",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "32 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "840",
+        "price_per_unit": "26",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/297362/u-by-kotex-tampons-super-super-bulk",
+    "name": "U by Kotex Tampons Super Super Bulk 32 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/297362.jpg",
+    "source_id": "297362",
+    "barcode": "9310088001112",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "32 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "840",
+        "price_per_unit": "26",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/270821/carefree-barely-there-scented-aloe-liners",
+    "name": "Carefree Barely There Scented Aloe Liners 42 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/270821.jpg",
+    "source_id": "270821",
+    "barcode": "9300607541229",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "42 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "13",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/200074/carefree-barely-there-unscented-liners-panty-liners",
+    "name": "Carefree Barely There Unscented Liners 42 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/200074.jpg",
+    "source_id": "200074",
+    "barcode": "9300607541076",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "42 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "13",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/164000/carefree-liners-breathable-unscented-liners",
+    "name": "Carefree Liners Breathable Unscented Liners 48 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/164000.jpg",
+    "source_id": "164000",
+    "barcode": "9300607541014",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "48 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "735",
+        "price_per_unit": "15",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/96696/carefree-original-long-unscented-liners-unscented-panty-liners",
+    "name": "Carefree Original Long Unscented Liners 30 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/096696.jpg",
+    "source_id": "96696",
+    "barcode": "9300607540987",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "685",
+        "price_per_unit": "23",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/92512/carefree-original-unscented-liners-panty-liners",
+    "name": "Carefree Original Unscented Liners 30 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/092512.jpg",
+    "source_id": "92512",
+    "barcode": "9300607540970",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "19",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/162349/cottons-organic-ultra-thin-long-panty-liners",
+    "name": "Cottons Organic Ultra Thin Long Panty Liners 32 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/162349.jpg",
+    "source_id": "162349",
+    "barcode": "9318153000398",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "32 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "610",
+        "price_per_unit": "19",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/726620/evamay-liners-regular",
+    "name": "Evamay Liners Regular 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/726620.jpg",
+    "source_id": "726620",
+    "barcode": "9339687354450",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "6",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/226537/libra-extra-protect-panty-liners",
+    "name": "Libra Extra Protect Panty Liners 30 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/226537.jpg",
+    "source_id": "226537",
+    "barcode": "9325344003601",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "315",
+        "price_per_unit": "11",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/309798/libra-panty-liners-double-2-in-1",
+    "name": "Libra Panty Liners Double 2 In 1 25 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/309798.jpg",
+    "source_id": "309798",
+    "barcode": "9325344003588",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "25 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "315",
+        "price_per_unit": "13",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/226535/libra-pro-skin-liners-dry-long",
+    "name": "Libra Pro Skin Liners Dry Long 30 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/226535.jpg",
+    "source_id": "226535",
+    "barcode": "9325344003618",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "315",
+        "price_per_unit": "11",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230708/libra-pro-skin-liners-extra-protect",
+    "name": "Libra Pro Skin Liners Extra Protect 50 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/230708.jpg",
+    "source_id": "230708",
+    "barcode": "9325344003625",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "50 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "13",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/839570/tom-organic-ultra-thin-liners",
+    "name": "Tom Organic Ultra Thin Liners 26 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/839570.jpg",
+    "source_id": "839570",
+    "barcode": "9346285000054",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "26 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "475",
+        "price_per_unit": "18",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/748534/u-by-kotex-designer-series-liners-protect-liners",
+    "name": "U by Kotex Designer Series Liners Protect Liners 30 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/748534.jpg",
+    "source_id": "748534",
+    "barcode": "9310088008197",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "30 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "15",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/748572/u-by-kotex-nude-wafer-thin-liners",
+    "name": "U by Kotex Nude Wafer Thin Liners 30 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/748572.jpg",
+    "source_id": "748572",
+    "barcode": "9310088008166",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "15",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/748554/u-by-kotex-sport-liners-sport-liners",
+    "name": "U by Kotex Sport Liners Sport Liners 30 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/748554.jpg",
+    "source_id": "748554",
+    "barcode": "9310088008173",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "30 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "15",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/104397/bonds-bloody-cmfy-bikini-moderate-10-period-care-reusable-underwear",
+    "name": "Bonds Bloody Cmfy Bikini Moderate 10 Period Care Reusable Underwear Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/104397.jpg",
+    "source_id": "104397",
+    "barcode": "9999998499358",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2310",
+        "price_per_unit": "2310",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/104355/bonds-bloody-cmfy-bikini-moderate-12-period-care-reusable-underwear",
+    "name": "Bonds Bloody Cmfy Bikini Moderate 12 Period Care Reusable Underwear Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/104355.jpg",
+    "source_id": "104355",
+    "barcode": "9999998499365",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2310",
+        "price_per_unit": "2310",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/104348/bonds-bloody-cmfy-bikini-moderate-14-period-care-reusable-underwear",
+    "name": "Bonds Bloody Cmfy Bikini Moderate 14 Period Care Reusable Underwear Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/104348.jpg",
+    "source_id": "104348",
+    "barcode": "9999998499372",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2310",
+        "price_per_unit": "2310",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/140966/bonds-bloody-cmfy-bikini-moderate-6-period-care-reusable-underwear",
+    "name": "Bonds Bloody Cmfy Bikini Moderate 6 Period Care Reusable Underwear Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/140966.jpg",
+    "source_id": "140966",
+    "barcode": "9999998499419",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2310",
+        "price_per_unit": "2310",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/104758/bonds-bloody-cmfy-bikini-moderate-8-period-care-reusable-underwear",
+    "name": "Bonds Bloody Cmfy Bikini Moderate 8 Period Care Reusable Underwear Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/104758.jpg",
+    "source_id": "104758",
+    "barcode": "9999998499426",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2310",
+        "price_per_unit": "2310",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/104628/bonds-bloody-comfy-brief-heavy-10-period-care-reusable-underwear",
+    "name": "Bonds Bloody Comfy Brief Heavy 10 Period Care Reusable Underwear Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/104628.jpg",
+    "source_id": "104628",
+    "barcode": "9999998498955",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "2500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/102878/bonds-bloody-comfy-brief-heavy-12-period-care-reusable-underwear",
+    "name": "Bonds Bloody Comfy Brief Heavy 12 Period Care Reusable Underwear Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/102878.jpg",
+    "source_id": "102878",
+    "barcode": "9999998498962",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "2500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/103785/bonds-bloody-comfy-brief-heavy-14-period-care-reusable-underwear",
+    "name": "Bonds Bloody Comfy Brief Heavy 14 Period Care Reusable Underwear Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/103785.jpg",
+    "source_id": "103785",
+    "barcode": "9999998498979",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "2500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/104673/bonds-bloody-comfy-brief-heavy-16-period-care-reusable-underwear",
+    "name": "Bonds Bloody Comfy Brief Heavy 16 Period Care Reusable Underwear Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/104673.jpg",
+    "source_id": "104673",
+    "barcode": "9999998498986",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "2500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/141004/bonds-bloody-comfy-brief-heavy-18-period-care-reusable-underwear",
+    "name": "Bonds Bloody Comfy Brief Heavy 18 Period Care Reusable Underwear Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/141004.jpg",
+    "source_id": "141004",
+    "barcode": "9999998498993",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "2500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230826/bonds-bloody-comfy-heavy-full-brief-period-underwear-size-20",
+    "name": "Bonds Bloody Comfy Heavy Full Brief Period Underwear Size 20 Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/230826.jpg",
+    "source_id": "230826",
+    "barcode": "9999998499006",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "2500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230391/bonds-bloody-comfy-heavy-full-brief-period-underwear-size-8",
+    "name": "Bonds Bloody Comfy Heavy Full Brief Period Underwear Size 8 Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/230391.jpg",
+    "source_id": "230391",
+    "barcode": "9999998499020",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "2500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/903789/bonds-bloody-comfy-overnight-period-full-brief-underwear-size-10",
+    "name": "Bonds Bloody Comfy Overnight Period Full Brief Underwear Size 10 each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/903789.jpg",
+    "source_id": "903789",
+    "barcode": "9360456247420",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/905054/bonds-bloody-comfy-overnight-period-full-brief-underwear-size-12",
+    "name": "Bonds Bloody Comfy Overnight Period Full Brief Underwear Size 12 each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/905054.jpg",
+    "source_id": "905054",
+    "barcode": "9360456247437",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/904776/bonds-bloody-comfy-overnight-period-full-brief-underwear-size-14",
+    "name": "Bonds Bloody Comfy Overnight Period Full Brief Underwear Size 14 each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/904776.jpg",
+    "source_id": "904776",
+    "barcode": "9360456247444",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/905082/bonds-bloody-comfy-overnight-period-full-brief-underwear-size-16",
+    "name": "Bonds Bloody Comfy Overnight Period Full Brief Underwear Size 16 each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/905082.jpg",
+    "source_id": "905082",
+    "barcode": "9360456247451",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2800",
+        "price_per_unit": "2800",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230450/bonds-damn-dry-midi-light-bladder-leaks-underwear-size-16",
+    "name": "Bonds Damn Dry Midi Light Bladder Leaks Underwear Size 16 Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/230450.jpg",
+    "source_id": "230450",
+    "barcode": "9357679299466",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2310",
+        "price_per_unit": "2310",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230686/bonds-damn-dry-midi-period-underwear-size-12",
+    "name": "Bonds Damn Dry Midi Period Underwear Size 12 Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/230686.jpg",
+    "source_id": "230686",
+    "barcode": "9357679299442",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2310",
+        "price_per_unit": "2310",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/684965/love-luna-full-brief-period-undies-black-size-12-14",
+    "name": "Love Luna Full Brief Period Undies Black Size 12-14 Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/684965.jpg",
+    "source_id": "684965",
+    "barcode": "9335393025080",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "980",
+        "price_per_unit": "980",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/684475/love-luna-full-period-brief",
+    "name": "Love Luna Full Period Brief 14--16",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/684475.jpg",
+    "source_id": "684475",
+    "barcode": "9335393025097",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "14--16",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "980",
+        "price_per_unit": "980",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/684276/love-luna-midi-brief-period-undies-black-size-10-12",
+    "name": "Love Luna Midi Brief Period Undies Black Size 10-12 Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/684276.jpg",
+    "source_id": "684276",
+    "barcode": "9335393025066",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "980",
+        "price_per_unit": "980",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/684277/love-luna-midi-period-brief",
+    "name": "Love Luna Midi Period Brief 12--14",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/684277.jpg",
+    "source_id": "684277",
+    "barcode": "9335393025059",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "12--14",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "980",
+        "price_per_unit": "980",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/684290/love-luna-period-underwear-midi-brief-size-8-10",
+    "name": "Love Luna Period Underwear Midi Brief Size 8-10 each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/684290.jpg",
+    "source_id": "684290",
+    "barcode": "9335393025042",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "980",
+        "price_per_unit": "980",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/318433/modibodi-mid-rise-period-underwear-heavy-overnight-size-10",
+    "name": "Modibodi Mid Rise Period Underwear Heavy - Overnight Size 10 Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/318433.jpg",
+    "source_id": "318433",
+    "barcode": "9351343049050",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1995",
+        "price_per_unit": "1995",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/318514/modibodi-mid-rise-period-underwear-heavy-overnight-size-12",
+    "name": "Modibodi Mid Rise Period Underwear Heavy - Overnight Size 12 Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/318514.jpg",
+    "source_id": "318514",
+    "barcode": "9351343049067",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1995",
+        "price_per_unit": "1995",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/317883/modibodi-mid-rise-period-underwear-heavy-overnight-size-14",
+    "name": "Modibodi Mid Rise Period Underwear Heavy - Overnight Size 14 Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/317883.jpg",
+    "source_id": "317883",
+    "barcode": "9351343049074",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1995",
+        "price_per_unit": "1995",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/318487/modibodi-mid-rise-period-underwear-heavy-overnight-size-16",
+    "name": "Modibodi Mid Rise Period Underwear Heavy - Overnight Size 16 Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/318487.jpg",
+    "source_id": "318487",
+    "barcode": "9351343049081",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1995",
+        "price_per_unit": "1995",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/307923/tom-organic-reusable-liner-light",
+    "name": "Tom Organic Reusable Liner Light Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/307923.jpg",
+    "source_id": "307923",
+    "barcode": "9346285001617",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/309032/tom-organic-reusable-pad-regular",
+    "name": "Tom Organic Reusable Pad Regular Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/309032.jpg",
+    "source_id": "309032",
+    "barcode": "9346285001600",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1305",
+        "price_per_unit": "1305",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/307915/tom-organic-the-period-brief-bikini-moderate-flow-size-large",
+    "name": "Tom Organic The Period Brief Bikini Moderate Flow Size Large Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/307915.jpg",
+    "source_id": "307915",
+    "barcode": "9346285001167",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1385",
+        "price_per_unit": "1385",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/309013/tom-organic-the-period-brief-bikini-moderate-flow-size-medium",
+    "name": "Tom Organic The Period Brief Bikini Moderate Flow Size Medium Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/309013.jpg",
+    "source_id": "309013",
+    "barcode": "9346285001150",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1385",
+        "price_per_unit": "1385",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/307615/tom-organic-the-period-brief-bikini-moderate-flow-size-small",
+    "name": "Tom Organic The Period Brief Bikini Moderate Flow Size Small Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/307615.jpg",
+    "source_id": "307615",
+    "barcode": "9346285001143",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1385",
+        "price_per_unit": "1385",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/299406/tom-organic-the-period-brief-bikini-moderate-flow-size-x-small",
+    "name": "Tom Organic The Period Brief Bikini Moderate Flow Size x Small Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/299406.jpg",
+    "source_id": "299406",
+    "barcode": "9346285001136",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1385",
+        "price_per_unit": "1385",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/196744/tom-organic-the-period-cup-size-1-regular-size-1-regular",
+    "name": "Tom Organic The Period Cup Size 1 Regular Size 1 Regular Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/196744.jpg",
+    "source_id": "196744",
+    "barcode": "9346285000900",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3230",
+        "price_per_unit": "3230",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/196745/tom-organic-the-period-cup-size-2-super-size-2-super",
+    "name": "Tom Organic The Period Cup Size 2 Super Size 2 Super Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/196745.jpg",
+    "source_id": "196745",
+    "barcode": "9346285000917",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3230",
+        "price_per_unit": "3230",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/910147/u-by-kotex-thinx-period-undies-bikini-heavy-size-10",
+    "name": "U by Kotex Thinx Period Undies Bikini Heavy Size 10 each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/910147.jpg",
+    "source_id": "910147",
+    "barcode": "9310088017458",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "2000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/910372/u-by-kotex-thinx-period-undies-bikini-heavy-size-12",
+    "name": "U by Kotex Thinx Period Undies Bikini Heavy Size 12 each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/910372.jpg",
+    "source_id": "910372",
+    "barcode": "9310088017465",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "2000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/911033/u-by-kotex-thinx-period-undies-bikini-heavy-size-14",
+    "name": "U by Kotex Thinx Period Undies Bikini Heavy Size 14 each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/911033.jpg",
+    "source_id": "911033",
+    "barcode": "9310088017472",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "2000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/910755/u-by-kotex-thinx-period-undies-bikini-heavy-size-6-8",
+    "name": "U by Kotex Thinx Period Undies Bikini Heavy Size 6-8 each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/910755.jpg",
+    "source_id": "910755",
+    "barcode": "9310088017441",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "2000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/911034/u-by-kotex-thinx-period-undies-full-brief-heavy-size-12",
+    "name": "U by Kotex Thinx Period Undies Full Brief Heavy Size 12 each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/911034.jpg",
+    "source_id": "911034",
+    "barcode": "9310088017489",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "2500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/911042/u-by-kotex-thinx-period-undies-full-brief-heavy-size-14",
+    "name": "U by Kotex Thinx Period Undies Full Brief Heavy Size 14 each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/911042.jpg",
+    "source_id": "911042",
+    "barcode": "9310088017496",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "2500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/911579/u-by-kotex-thinx-period-undies-full-brief-heavy-size-16",
+    "name": "U by Kotex Thinx Period Undies Full Brief Heavy Size 16 each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/911579.jpg",
+    "source_id": "911579",
+    "barcode": "9310088017502",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "2500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/910804/u-by-kotex-thinx-period-undies-full-brief-heavy-size-18",
+    "name": "U by Kotex Thinx Period Undies Full Brief Heavy Size 18 each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/910804.jpg",
+    "source_id": "910804",
+    "barcode": "9310088017519",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "2500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/912000/u-by-kotex-thinx-reusable-period-undies-full-brief-overnight-size-10",
+    "name": "U by Kotex Thinx Reusable Period Undies Full Brief Overnight Size 10 each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/912000.jpg",
+    "source_id": "912000",
+    "barcode": "9310088017557",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/911504/u-by-kotex-thinx-reusable-period-undies-full-brief-overnight-size-12",
+    "name": "U by Kotex Thinx Reusable Period Undies Full Brief Overnight Size 12 each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/911504.jpg",
+    "source_id": "911504",
+    "barcode": "9310088017564",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/911895/u-by-kotex-thinx-reusable-period-undies-full-brief-overnight-size-14",
+    "name": "U by Kotex Thinx Reusable Period Undies Full Brief Overnight Size 14 each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/911895.jpg",
+    "source_id": "911895",
+    "barcode": "9310088017571",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/911996/u-by-kotex-thinx-reusable-period-undies-full-brief-overnight-size-6-8",
+    "name": "U by Kotex Thinx Reusable Period Undies Full Brief Overnight Size 6-8 each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/911996.jpg",
+    "source_id": "911996",
+    "barcode": "9310088017540",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/911904/u-by-kotex-thinx-teen-period-undies-full-brief-heavy-size-10-12",
+    "name": "U by Kotex Thinx Teen Period Undies Full Brief Heavy Size 10-12 each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/911904.jpg",
+    "source_id": "911904",
+    "barcode": "9310088017588",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "2000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/913504/u-by-kotex-thinx-teen-period-undies-full-brief-heavy-size-12-14",
+    "name": "U by Kotex Thinx Teen Period Undies Full Brief Heavy Size 12-14 each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/913504.jpg",
+    "source_id": "913504",
+    "barcode": "9310088017595",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "2000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/840179/femfresh-deodorising-wash",
+    "name": "Femfresh Deodorising Wash 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/840179.jpg",
+    "source_id": "840179",
+    "barcode": "9310320002105",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "316",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/38194/femfresh-intimate-hygiene-feminine-deodorant",
+    "name": "Femfresh Intimate Hygiene Feminine Deodorant 75g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/038194.jpg",
+    "source_id": "38194",
+    "barcode": "9310320092779",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "75G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1410",
+        "price_per_unit": "1880",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/256991/femfresh-intimate-hygiene-feminine-wipes",
+    "name": "Femfresh Intimate Hygiene Feminine Wipes 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/256991.jpg",
+    "source_id": "256991",
+    "barcode": "3031442600142",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "38",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/164653/femfresh-intimate-skin-care-daily-wash",
+    "name": "Femfresh Intimate Skin Care Daily Wash 600ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/164653.jpg",
+    "source_id": "164653",
+    "barcode": "9310320003829",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1510",
+        "price_per_unit": "252",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/684442/femfresh-sensitive-wash",
+    "name": "Femfresh Sensitive Wash 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/684442.jpg",
+    "source_id": "684442",
+    "barcode": "9310320003119",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "316",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/310872/femfresh-sensitive-wash",
+    "name": "Femfresh Sensitive Wash 600ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/310872.jpg",
+    "source_id": "310872",
+    "barcode": "9310320003911",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1510",
+        "price_per_unit": "252",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/840167/femfresh-soap-free-wash",
+    "name": "Femfresh Soap Free Wash 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/840167.jpg",
+    "source_id": "840167",
+    "barcode": "9310320002099",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "316",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/136777/vagisil-intimate-wash-ph-balance",
+    "name": "Vagisil Intimate Wash Ph Balance 354ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/136777.jpg",
+    "source_id": "136777",
+    "barcode": "11509060273",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "354ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "840",
+        "price_per_unit": "237",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230835/vagisil-scentsitive-scents-daily-intimate-wash-peach-blossom",
+    "name": "Vagisil Scentsitive Scents Daily Intimate Wash Peach Blossom 354ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/230835.jpg",
+    "source_id": "230835",
+    "barcode": "11509060341",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "354ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "840",
+        "price_per_unit": "237",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/164580/always-discreet-incontinence-underwear-super-night-pant-l",
+    "name": "Always Discreet Incontinence Underwear Super Night Pant l 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/164580.jpg",
+    "source_id": "164580",
+    "barcode": "4987176063595",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2350",
+        "price_per_unit": "294",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/164663/always-discreet-incontinence-underwear-super-night-pant-m",
+    "name": "Always Discreet Incontinence Underwear Super Night Pant m 9 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/164663.jpg",
+    "source_id": "164663",
+    "barcode": "4987176063564",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "9 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2350",
+        "price_per_unit": "261",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/229551/bonds-damn-dry-midi-light-bladder-leaks-underwear-size-14",
+    "name": "Bonds Damn Dry Midi Light Bladder Leaks Underwear Size 14 Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/229551.jpg",
+    "source_id": "229551",
+    "barcode": "9357679299459",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2310",
+        "price_per_unit": "2310",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/231184/bonds-damn-dry-midi-light-bladder-leaks-underwear-size-18",
+    "name": "Bonds Damn Dry Midi Light Bladder Leaks Underwear Size 18 Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/231184.jpg",
+    "source_id": "231184",
+    "barcode": "9357679299473",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2310",
+        "price_per_unit": "2310",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/809474/confidere-incontinence-pants-womens-large",
+    "name": "Confidere Incontinence Pants Womens Large 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/809474.jpg",
+    "source_id": "809474",
+    "barcode": "9339687068197",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "965",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/809475/confidere-incontinence-underwear-pants-womens-medium",
+    "name": "Confidere Incontinence Underwear Pants Womens Medium 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/809475.jpg",
+    "source_id": "809475",
+    "barcode": "9339687068203",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "965",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/800830/depend-real-fit-incontinence-underwear-regular-women-medium",
+    "name": "Depend Real Fit Incontinence Underwear Regular Women Medium 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/800830.jpg",
+    "source_id": "800830",
+    "barcode": "9310088009514",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1510",
+        "price_per_unit": "189",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/754807/depend-real-fit-incontinence-underwear-regular-women-xl",
+    "name": "Depend Real Fit Incontinence Underwear Regular Women Xl 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/754807.jpg",
+    "source_id": "754807",
+    "barcode": "9310088007923",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1510",
+        "price_per_unit": "189",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/467392/depend-real-fit-incontinence-underwear-super-women-xl",
+    "name": "Depend Real Fit Incontinence Underwear Super Women Xl 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/467392.jpg",
+    "source_id": "467392",
+    "barcode": "9310088010367",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "219",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/167173/depend-real-fit-night-defence-incontinence-underwear-women-l",
+    "name": "Depend Real Fit Night Defence Incontinence Underwear Women l 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/167173.jpg",
+    "source_id": "167173",
+    "barcode": "9310088014747",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1785",
+        "price_per_unit": "223",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/912697/depend-real-fit-super-underwear-heavy-absorbency-size-medium",
+    "name": "Depend Real Fit Super Underwear Heavy Absorbency Size Medium 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/912697.jpg",
+    "source_id": "912697",
+    "barcode": "9310088010343",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "213",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/164271/tena-discreet-underwear-black-pants-large",
+    "name": "Tena Discreet Underwear Black Pants Large 9 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/164271.jpg",
+    "source_id": "164271",
+    "barcode": "7322541216607",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "9 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1230",
+        "price_per_unit": "137",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/164414/tena-discreet-underwear-black-pants-medium",
+    "name": "Tena Discreet Underwear Black Pants Medium 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/164414.jpg",
+    "source_id": "164414",
+    "barcode": "7322541216508",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1230",
+        "price_per_unit": "123",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/600467/tena-night-pants-large",
+    "name": "Tena Night Pants Large 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/600467.jpg",
+    "source_id": "600467",
+    "barcode": "7322540839920",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "146",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/721797/tena-pants-for-women-large",
+    "name": "Tena Pants For Women Large 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/721797.jpg",
+    "source_id": "721797",
+    "barcode": "7322540549010",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/721589/tena-pants-for-women-medium",
+    "name": "Tena Pants For Women Medium 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/721589.jpg",
+    "source_id": "721589",
+    "barcode": "7322540548693",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/226533/tena-pants-night-medium",
+    "name": "Tena Pants Night Medium 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/226533.jpg",
+    "source_id": "226533",
+    "barcode": "7322540839913",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "146",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/251460/tena-washable-absorbent-underwear-size-14-16",
+    "name": "Tena Washable Absorbent Underwear Size 14-16 Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/251460.jpg",
+    "source_id": "251460",
+    "barcode": "9325344003656",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "1750",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/251347/tena-washable-absorbent-underwear-size-18-20",
+    "name": "Tena Washable Absorbent Underwear Size 18-20 Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/251347.jpg",
+    "source_id": "251347",
+    "barcode": "9325344003663",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "1750",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/247657/tena-washable-men-s-boxer-large",
+    "name": "Tena Washable Men's Boxer Large Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/247657.jpg",
+    "source_id": "247657",
+    "barcode": "7322541453583",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2450",
+        "price_per_unit": "2450",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/247888/tena-washable-men-s-boxer-medium",
+    "name": "Tena Washable Men's Boxer Medium Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/247888.jpg",
+    "source_id": "247888",
+    "barcode": "7322541453668",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2450",
+        "price_per_unit": "2450",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230384/always-discreet-3-in-1-dryness-comfort-odour-control-long-pads",
+    "name": "Always Discreet 3 In 1 Dryness, Comfort, Odour Control Long Pads 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/230384.jpg",
+    "source_id": "230384",
+    "barcode": "4987176117571",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "20 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1275",
+        "price_per_unit": "64",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/913237/always-discreet-active-5-in-1-pads-long",
+    "name": "Always Discreet Active 5 In 1 Pads Long 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/913237.jpg",
+    "source_id": "913237",
+    "barcode": "4987176224316",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "930",
+        "price_per_unit": "116",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/913502/always-discreet-active-5-in-1-pads-normal",
+    "name": "Always Discreet Active 5 In 1 Pads Normal 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/913502.jpg",
+    "source_id": "913502",
+    "barcode": "4987176224323",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "10 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "930",
+        "price_per_unit": "93",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/99287/always-discreet-incontinence-pads-long-leaks",
+    "name": "Always Discreet Incontinence Pads Long 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/099287.jpg",
+    "source_id": "99287",
+    "barcode": "4902430907842",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/99043/always-discreet-incontinence-pads-normal-leaks",
+    "name": "Always Discreet Incontinence Pads Normal 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/099043.jpg",
+    "source_id": "99043",
+    "barcode": "4902430907835",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "75",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/229587/always-discreet-value-pads-for-bladder-leaks-normal",
+    "name": "Always Discreet Value Pads for Bladder Leaks Normal 30 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/229587.jpg",
+    "source_id": "229587",
+    "barcode": "4987176117564",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1650",
+        "price_per_unit": "55",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/809472/confidere-incontinence-extra-plus-pads",
+    "name": "Confidere Incontinence Extra Plus Pads 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/809472.jpg",
+    "source_id": "809472",
+    "barcode": "9339687068173",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "35",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/809471/confidere-incontinence-pads-extra",
+    "name": "Confidere Incontinence Pads Extra 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/809471.jpg",
+    "source_id": "809471",
+    "barcode": "9339687316618",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "23",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/809426/confidere-incontinence-pads-regular",
+    "name": "Confidere Incontinence Pads Regular 14 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/809426.jpg",
+    "source_id": "809426",
+    "barcode": "9339687068159",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "14 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "285",
+        "price_per_unit": "20",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/911416/poise-bladder-protection-pads-regular-value",
+    "name": "Poise Bladder Protection Pads Regular Value 32 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/911416.jpg",
+    "source_id": "911416",
+    "barcode": "9310088017649",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "32 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1180",
+        "price_per_unit": "37",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/309530/poise-overnight-pads",
+    "name": "Poise Overnight Pads 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/309530.jpg",
+    "source_id": "309530",
+    "barcode": "9310088012422",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "16 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1240",
+        "price_per_unit": "78",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/741010/poise-pads-for-bladder-leaks-extra",
+    "name": "Poise Pads For Bladder Leaks Extra 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/741010.jpg",
+    "source_id": "741010",
+    "barcode": "9310088007688",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "730",
+        "price_per_unit": "61",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/740512/poise-pads-for-bladder-leaks-extra-plus",
+    "name": "Poise Pads For Bladder Leaks Extra Plus 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/740512.jpg",
+    "source_id": "740512",
+    "barcode": "9310088007695",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "730",
+        "price_per_unit": "73",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/754759/poise-pads-for-bladder-leaks-extra-plus",
+    "name": "Poise Pads For Bladder Leaks Extra Plus 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/754759.jpg",
+    "source_id": "754759",
+    "barcode": "9310088009194",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1180",
+        "price_per_unit": "59",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/722111/poise-pads-for-bladder-leaks-overnight",
+    "name": "Poise Pads For Bladder Leaks Overnight 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/722111.jpg",
+    "source_id": "722111",
+    "barcode": "9310088007015",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "730",
+        "price_per_unit": "91",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/740552/poise-pads-for-bladder-leaks-regular",
+    "name": "Poise Pads For Bladder Leaks Regular 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/740552.jpg",
+    "source_id": "740552",
+    "barcode": "9310088007664",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "16 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "730",
+        "price_per_unit": "46",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/740800/poise-pads-for-bladder-leaks-super",
+    "name": "Poise Pads For Bladder Leaks Super 14 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/740800.jpg",
+    "source_id": "740800",
+    "barcode": "9310088007671",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "14 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "730",
+        "price_per_unit": "52",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/722976/poise-super-pads-value-absorbency",
+    "name": "Poise Super Pads Value Absorbency 28 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/722976.jpg",
+    "source_id": "722976",
+    "barcode": "9310088002744",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "28 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1240",
+        "price_per_unit": "44",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/105051/poise-thin-discreet-pads-for-bladder-leaks-extra",
+    "name": "Poise Thin & Discreet Pads For Bladder Leaks Extra 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/105051.jpg",
+    "source_id": "105051",
+    "barcode": "9310088013788",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "57",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/105049/poise-thin-discreet-pads-for-bladder-leaks-regular",
+    "name": "Poise Thin & Discreet Pads For Bladder Leaks Regular 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/105049.jpg",
+    "source_id": "105049",
+    "barcode": "9310088013764",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "16 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "43",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/165032/poise-thin-discreet-ultra-long-pads",
+    "name": "Poise Thin & Discreet Ultra Long Pads 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/165032.jpg",
+    "source_id": "165032",
+    "barcode": "9310088014815",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "85",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/226189/tena-insta-dry-pads-standard-length",
+    "name": "Tena Insta Dry Pads Standard Length 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/226189.jpg",
+    "source_id": "226189",
+    "barcode": "7322541486024",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "20 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "55",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/308057/tena-maxi-night-pads-long-length",
+    "name": "Tena Maxi Night Pads Long Length 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/308057.jpg",
+    "source_id": "308057",
+    "barcode": "7322542008416",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "485",
+        "price_per_unit": "81",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230860/tena-mini-plus-pads",
+    "name": "Tena Mini Plus Pads 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/230860.jpg",
+    "source_id": "230860",
+    "barcode": "7322541485492",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "16 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "485",
+        "price_per_unit": "30",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/226191/tena-pads-instadry-long-length",
+    "name": "Tena Pads Instadry Long Length 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/226191.jpg",
+    "source_id": "226191",
+    "barcode": "7322541486390",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "485",
+        "price_per_unit": "61",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/783873/tena-pads-maxi",
+    "name": "Tena Pads Maxi 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/783873.jpg",
+    "source_id": "783873",
+    "barcode": "7322540679960",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "485",
+        "price_per_unit": "81",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/380317/tena-pads-maxi-night",
+    "name": "Tena Pads Maxi Night 14 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/380317.jpg",
+    "source_id": "380317",
+    "barcode": "9325344001645",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "14 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "79",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/231662/tena-ultra-thin-mini-pads",
+    "name": "Tena Ultra Thin Mini Pads 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/231662.jpg",
+    "source_id": "231662",
+    "barcode": "7322541485423",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "20 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "485",
+        "price_per_unit": "24",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/97280/always-discreet-incontinence-liners-long-plus",
+    "name": "Always Discreet Incontinence Liners Long Plus 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/097280.jpg",
+    "source_id": "97280",
+    "barcode": "4902430907798",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "38",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/97441/always-discreet-incontinence-liners-normal",
+    "name": "Always Discreet Incontinence Liners Normal 24 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/097441.jpg",
+    "source_id": "97441",
+    "barcode": "4902430907804",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "24 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "31",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/910891/poise-bladder-protection-liners-extra-light",
+    "name": "Poise Bladder Protection Liners Extra Light 30 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/910891.jpg",
+    "source_id": "910891",
+    "barcode": "9310088017656",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "640",
+        "price_per_unit": "21",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/911905/poise-bladder-protection-liners-extra-long-value",
+    "name": "Poise Bladder Protection Liners Extra Long Value 44 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/911905.jpg",
+    "source_id": "911905",
+    "barcode": "9310088017632",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "44 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "23",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/911425/poise-bladder-protection-liners-regular-value",
+    "name": "Poise Bladder Protection Liners Regular Value 52 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/911425.jpg",
+    "source_id": "911425",
+    "barcode": "9310088017625",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "52 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "19",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/309527/poise-charcoal-extra-long-panty-liners",
+    "name": "Poise Charcoal Extra Long Panty Liners 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/309527.jpg",
+    "source_id": "309527",
+    "barcode": "9310088016208",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "670",
+        "price_per_unit": "34",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/310674/poise-charcoal-light-panty-liners",
+    "name": "Poise Charcoal Light Panty Liners 22 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/310674.jpg",
+    "source_id": "310674",
+    "barcode": "9310088016215",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "22 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "27",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/314953/poise-liners-for-bladder-leaks-extra-long",
+    "name": "Poise Liners For Bladder Leaks Extra Long 22 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/314953.jpg",
+    "source_id": "314953",
+    "barcode": "9310088001990",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "22 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "640",
+        "price_per_unit": "29",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/215951/poise-liners-for-bladder-leaks-light",
+    "name": "Poise Liners For Bladder Leaks Light 18 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/215951.jpg",
+    "source_id": "215951",
+    "barcode": "9310088016734",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "18 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "22",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/170704/poise-liners-for-bladder-leaks-regular",
+    "name": "Poise Liners For Bladder Leaks Regular 26 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/170704.jpg",
+    "source_id": "170704",
+    "barcode": "9310088016697",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "26 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "640",
+        "price_per_unit": "25",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/165033/poise-liners-for-bladder-leaks-ultra-long",
+    "name": "Poise Liners For Bladder Leaks Ultra Long 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/165033.jpg",
+    "source_id": "165033",
+    "barcode": "9310088014808",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "620",
+        "price_per_unit": "31",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/312062/tena-liners-extra-long",
+    "name": "Tena Liners Extra Long 24 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/312062.jpg",
+    "source_id": "312062",
+    "barcode": "7322540298932",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "24 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "18",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/905289/tena-liners-long-length",
+    "name": "Tena Liners Long Length 26 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/905289.jpg",
+    "source_id": "905289",
+    "barcode": "9325344005483",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "26 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "16",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/905255/tena-liners-standard-length",
+    "name": "Tena Liners Standard Length 18 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/905255.jpg",
+    "source_id": "905255",
+    "barcode": "9325344005476",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "18 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "16",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/11451/tena-liners-ultra-long",
+    "name": "Tena Liners Ultra Long 22 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/011451.jpg",
+    "source_id": "11451",
+    "barcode": "9325344002765",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "22 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "19",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/226190/tena-pads-extra-standard-length",
+    "name": "Tena Pads Extra Standard Length 24 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/226190.jpg",
+    "source_id": "226190",
+    "barcode": "7322541744001",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "24 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "46",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/748543/depend-real-fit-incontinence-men-large",
+    "name": "Depend Real Fit Incontinence Men Large 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/748543.jpg",
+    "source_id": "748543",
+    "barcode": "9310088007947",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1630",
+        "price_per_unit": "204",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/748532/depend-real-fit-incontinence-men-medium",
+    "name": "Depend Real Fit Incontinence Men Medium 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/748532.jpg",
+    "source_id": "748532",
+    "barcode": "9310088007930",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1630",
+        "price_per_unit": "204",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/167128/depend-real-fit-night-defence-incontinence-underwear-men-l",
+    "name": "Depend Real Fit Night Defence Incontinence Underwear Men l 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/167128.jpg",
+    "source_id": "167128",
+    "barcode": "9310088014754",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1785",
+        "price_per_unit": "223",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/13925/tena-men-absorbent-protector-level-3",
+    "name": "Tena Men Absorbent Protector Level 3 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/013925.jpg",
+    "source_id": "13925",
+    "barcode": "7322540560602",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/25924/tena-men-active-fit-pants-plus-large",
+    "name": "Tena Men Active Fit Pants Plus Large 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/025924.jpg",
+    "source_id": "25924",
+    "barcode": "7322541106434",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1120",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/25908/tena-men-active-fit-pants-plus-medium",
+    "name": "Tena Men Active Fit Pants Plus Medium 9 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/025908.jpg",
+    "source_id": "25908",
+    "barcode": "7322541106328",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "9 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1120",
+        "price_per_unit": "124",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/353459/tena-men-level-1",
+    "name": "Tena Men Level 1 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/353459.jpg",
+    "source_id": "353459",
+    "barcode": "7322540426335",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/179685/tena-men-level-2",
+    "name": "Tena Men Level 2 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/179685.jpg",
+    "source_id": "179685",
+    "barcode": "7322540016413",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/721913/tena-pants-for-men-level-4-medium-to-large",
+    "name": "Tena Pants For Men Level 4 Medium To Large 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/721913.jpg",
+    "source_id": "721913",
+    "barcode": "7322540549034",
+    "category_id": "22394",
+    "subcategory_id": "22440",
+    "subsubcategory_id": "23922",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1190",
+        "price_per_unit": "149",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

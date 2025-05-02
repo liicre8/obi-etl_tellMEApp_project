@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/annabel-karmel-meals-bolognaise-pasta-bake-200g-2313244",
+    "name": "Annabel Karmel Meals Bolognaise Pasta Bake | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2313244.jpg&w=640&q=90",
+    "source_id": "2313244",
+    "barcode": "9310761715923",
+    "shop": "coles",
+    "category_id": "23989",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "195",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544364/annabel-karmel-little-meals-bolognese-pasta-bake",
+    "name": "Annabel Karmel Little Meals Bolognese Pasta Bake 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/544364.jpg",
+    "source_id": "544364",
+    "barcode": "9310761715923",
+    "shop": "Woolworths",
+    "category_id": "23989",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "215",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

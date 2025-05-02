@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-nesquik-chocolate-flavoured-milk-drink-500g-116107",
+    "name": "Nestle Nesquik Chocolate Flavoured Milk Drink | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F116107.jpg&w=640&q=90",
+    "source_id": "116107",
+    "barcode": "9300605120693",
+    "shop": "coles",
+    "category_id": "22192",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33889/nesquik-chocolate-flavoured-milk-drink",
+    "name": "Nesquik Chocolate Flavoured Milk Drink 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033889.jpg",
+    "source_id": "33889",
+    "barcode": "9300605120693",
+    "shop": "Woolworths",
+    "category_id": "22192",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

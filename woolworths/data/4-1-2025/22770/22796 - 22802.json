@@ -1,0 +1,102 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/79303/fray-bentos-steak-kidney-pie-steak-kidney-pie",
+    "name": "Fray Bentos Steak & Kidney Pie 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/079303.jpg",
+    "source_id": "79303",
+    "barcode": "9300644022217",
+    "category_id": "22770",
+    "subcategory_id": "22796",
+    "subsubcategory_id": "22802",
+    "shop": "Woolworths",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "247",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/8229/harvest-beef-braised-steak-onion",
+    "name": "Harvest Beef Braised Steak & Onion 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/008229.jpg",
+    "source_id": "8229",
+    "barcode": "9300645041941",
+    "category_id": "22770",
+    "subcategory_id": "22796",
+    "subsubcategory_id": "22802",
+    "shop": "Woolworths",
+    "weight": "425G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "118",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33996/harvest-beef-irish-stew",
+    "name": "Harvest Beef Irish Stew 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033996.jpg",
+    "source_id": "33996",
+    "barcode": "9300645041385",
+    "category_id": "22770",
+    "subcategory_id": "22796",
+    "subsubcategory_id": "22802",
+    "shop": "Woolworths",
+    "weight": "425G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "118",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/34017/harvest-beef-steak-vegetables",
+    "name": "Harvest Beef Steak Vegetables 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/034017.jpg",
+    "source_id": "34017",
+    "barcode": "9300645041705",
+    "category_id": "22770",
+    "subcategory_id": "22796",
+    "subsubcategory_id": "22802",
+    "shop": "Woolworths",
+    "weight": "425G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "118",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/34021/harvest-sausages-vegetables",
+    "name": "Harvest Sausages Vegetables 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/034021.jpg",
+    "source_id": "34021",
+    "barcode": "9300645041620",
+    "category_id": "22770",
+    "subcategory_id": "22796",
+    "subsubcategory_id": "22802",
+    "shop": "Woolworths",
+    "weight": "425G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "118",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

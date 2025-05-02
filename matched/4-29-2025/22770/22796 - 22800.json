@@ -1,0 +1,866 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/dole-fruit-in-juice-432g-3862930",
+    "name": "Dole Fruit In Juice | 432g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3862930.jpg&w=640&q=90",
+    "source_id": "3862930",
+    "barcode": "38900091934",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "432g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "579",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/354718/dole-fruit-mix-in-juice",
+    "name": "Dole Fruit Mix In Juice 432g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/354718.jpg",
+    "source_id": "354718",
+    "barcode": "38900091934",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "432g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "310",
+        "price_per_unit": "718",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dole-pineapple-chunks-in-juice-822g-4314088",
+    "name": "Dole Pineapple Chunks In Juice | 822g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4314088.jpg&w=640&q=90",
+    "source_id": "4314088",
+    "barcode": "38900014858",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "822g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "575",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/8449/dole-pineapple-chunks-in-juice",
+    "name": "Dole Pineapple Chunks In Juice 822g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/008449.jpg",
+    "source_id": "8449",
+    "barcode": "38900014858",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "822G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "575",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dole-pineapple-pieces-in-juice-227g-4727485",
+    "name": "Dole Pineapple Pieces In Juice | 227g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4727485.jpg&w=640&q=90",
+    "source_id": "4727485",
+    "barcode": "38900015145",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "227g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "1013",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/86233/dole-pineapple-pieces-in-juice",
+    "name": "Dole Pineapple Pieces In Juice 227g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/086233.jpg",
+    "source_id": "86233",
+    "barcode": "38900015145",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "227G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "1013",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dole-pineapple-pieces-in-juice-432g-5296786",
+    "name": "Dole Pineapple Pieces In Juice | 432g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5296786.jpg&w=640&q=90",
+    "source_id": "5296786",
+    "barcode": "38900005313",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "432g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "265",
+        "price_per_unit": "613",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/219790/dole-pineapple-pieces-in-juice",
+    "name": "Dole Pineapple Pieces In Juice 432g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/219790.jpg",
+    "source_id": "219790",
+    "barcode": "38900005313",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "432g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "764",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dole-pineapple-slices-in-juice-822g-4314157",
+    "name": "Dole Pineapple Slices In Juice | 822g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4314157.jpg&w=640&q=90",
+    "source_id": "4314157",
+    "barcode": "38900016012",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "822g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "575",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/813467/dole-pineapple-slices-in-juice",
+    "name": "Dole Pineapple Slices In Juice 822g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/813467.jpg",
+    "source_id": "813467",
+    "barcode": "38900016012",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "822G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "575",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dole-pineapple-slices-in-syrup-439g-2379210",
+    "name": "Dole Pineapple Slices In Syrup | 439g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2379210.jpg&w=640&q=90",
+    "source_id": "2379210",
+    "barcode": "38900012779",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "439g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "265",
+        "price_per_unit": "604",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/841347/dole-premium-pineapple-slices-in-syrup",
+    "name": "Dole Premium Pineapple Slices In Syrup 439g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/841347.jpg",
+    "source_id": "841347",
+    "barcode": "38900012779",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "439G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "752",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dole-tropical-fruit-chunks-in-light-syrup-432g-5296720",
+    "name": "Dole Tropical Fruit Chunks In Light Syrup | 432g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5296720.jpg&w=640&q=90",
+    "source_id": "5296720",
+    "barcode": "38900090814",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "432g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "581",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/263999/dole-tropical-fruit-chunks-in-light-syrup",
+    "name": "Dole Tropical Fruit Chunks In Light Syrup 432g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/263999.jpg",
+    "source_id": "263999",
+    "barcode": "38900090814",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "432g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "310",
+        "price_per_unit": "718",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/golden-circle-pineapple-crushed-in-syrup-450g-117755",
+    "name": "Golden Circle Pineapple Crushed in Syrup | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F117755.jpg&w=640&q=90",
+    "source_id": "117755",
+    "barcode": "9310179004633",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "978",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33427/golden-circle-australian-canned-fruit-tinned-crushed-pineapple-in-syrup",
+    "name": "Golden Circle Australian Canned Fruit Tinned Crushed Pineapple In Syrup 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033427.jpg",
+    "source_id": "33427",
+    "barcode": "9310179004633",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "844",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/golden-circle-australian-pineapple-pieces-in-juice-225g-2915713",
+    "name": "Golden Circle Australian Pineapple Pieces In Juice | 225g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2915713.jpg&w=640&q=90",
+    "source_id": "2915713",
+    "barcode": "9310179004466",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "225g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "1444",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/77571/golden-circle-australian-canned-fruit-tinned-pineapple-pieces-in-juice",
+    "name": "Golden Circle Australian Canned Fruit Tinned Pineapple Pieces In Juice 225g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/077571.jpg",
+    "source_id": "77571",
+    "barcode": "9310179004466",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "225G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "1444",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/golden-circle-pineapple-pieces-in-natural-juice-canned-440g-117788",
+    "name": "Golden Circle Pineapple Pieces in Natural Juice Canned | 440g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F117788.jpg&w=640&q=90",
+    "source_id": "117788",
+    "barcode": "9310179004503",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "440g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/34676/golden-circle-australian-canned-fruit-tinned-pineapple-pieces-in-juice",
+    "name": "Golden Circle Australian Canned Fruit Tinned Pineapple Pieces In Juice 440g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/034676.jpg",
+    "source_id": "34676",
+    "barcode": "9310179004503",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "440G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "864",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/golden-circle-australian-pineapple-pieces-in-syrup-450g-117766",
+    "name": "Golden Circle  Australian Pineapple Pieces In Syrup | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F117766.jpg&w=640&q=90",
+    "source_id": "117766",
+    "barcode": "9310179004510",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "978",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33428/golden-circle-australian-canned-fruit-tinned-pineapple-pieces-in-syrup",
+    "name": "Golden Circle Australian Canned Fruit Tinned Pineapple Pieces In Syrup 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033428.jpg",
+    "source_id": "33428",
+    "barcode": "9310179004510",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "844",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/golden-circle-australian-pineapple-slices-in-juice-225g-2915702",
+    "name": "Golden Circle Australian Pineapple Slices In Juice | 225g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2915702.jpg&w=640&q=90",
+    "source_id": "2915702",
+    "barcode": "9310179004442",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "225g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "1444",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/77570/golden-circle-australian-canned-fruit-tinned-pineapple-slices-in-juice",
+    "name": "Golden Circle Australian Canned Fruit Tinned Pineapple Slices In Juice 225g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/077570.jpg",
+    "source_id": "77570",
+    "barcode": "9310179004442",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "225G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "1444",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/golden-circle-pineapple-slices-in-natural-juice-canned-440g-199997",
+    "name": "Golden Circle Pineapple Slices in Natural Juice Canned | 440g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F199997.jpg&w=640&q=90",
+    "source_id": "199997",
+    "barcode": "9310179004572",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "440g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33437/golden-circle-australian-canned-fruit-tinned-pineapple-slices-in-juice",
+    "name": "Golden Circle Australian Canned Fruit Tinned Pineapple Slices In Juice 440g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033437.jpg",
+    "source_id": "33437",
+    "barcode": "9310179004572",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "440G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "864",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/golden-circle-canned-pineapple-slices-in-syrup-450g-117777",
+    "name": "Golden Circle Canned Pineapple Slices In Syrup | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F117777.jpg&w=640&q=90",
+    "source_id": "117777",
+    "barcode": "9310179004596",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33429/golden-circle-australian-canned-fruit-tinned-pineapple-slices-in-syrup",
+    "name": "Golden Circle Australian Canned Fruit Tinned Pineapple Slices In Syrup 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033429.jpg",
+    "source_id": "33429",
+    "barcode": "9310179004596",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "844",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/golden-circle-berry-buzz-squeezy-pouch-120g-2366295",
+    "name": "Golden Circle Berry Buzz Squeezy Pouch | 120g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2366295.jpg&w=640&q=90",
+    "source_id": "2366295",
+    "barcode": "9310179169585",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/492142/golden-circle-blended-fruit-puree-berry-apple-blackcurrant-lunchbox",
+    "name": "Golden Circle Blended Fruit Puree Berry & Apple Blackcurrant Lunchbox 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/492142.jpg",
+    "source_id": "492142",
+    "barcode": "9310179169585",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/golden-circle-strawberry-squeeze-squeezy-pouch-120g-1857815",
+    "name": "Golden Circle Strawberry Squeeze Squeezy Pouch | 120g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1857815.jpg&w=640&q=90",
+    "source_id": "1857815",
+    "barcode": "9310179169547",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/763159/golden-circle-blended-fruit-puree-strawberry-apple-pear-lunch-box-pouch",
+    "name": "Golden Circle Blended Fruit Puree Strawberry Apple Pear Lunch Box Pouch 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/763159.jpg",
+    "source_id": "763159",
+    "barcode": "9310179169547",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/golden-circle-apple-pineapple-and-banana-tropical-smash-120g-2366309",
+    "name": "Golden Circle Apple Pineapple and Banana Tropical Smash | 120g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2366309.jpg&w=640&q=90",
+    "source_id": "2366309",
+    "barcode": "9310179169592",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "1500",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/592203/golden-circle-blended-fruit-puree-tropical-smash-lunch-box-pouch",
+    "name": "Golden Circle Blended Fruit Puree Tropical Smash Lunch Box Pouch 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/592203.jpg",
+    "source_id": "592203",
+    "barcode": "9310179169592",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/goulburn-valley-apricots-in-juice-700g-1857484",
+    "name": "Goulburn Valley Apricots In Juice | 700g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1857484.jpg&w=640&q=90",
+    "source_id": "1857484",
+    "barcode": "9310093004443",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "714",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/784136/goulburn-valley-apricot-halves-in-juice",
+    "name": "Goulburn Valley Apricot Halves In Juice 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/784136.jpg",
+    "source_id": "784136",
+    "barcode": "9310093004443",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "714",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/goulburn-valley-fruit-salad-in-juice-700g-1857495",
+    "name": "Goulburn Valley Fruit Salad In Juice | 700g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1857495.jpg&w=640&q=90",
+    "source_id": "1857495",
+    "barcode": "9310093003897",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "714",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/784112/goulburn-valley-fruit-salad-in-juice",
+    "name": "Goulburn Valley Fruit Salad In Juice 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/784112.jpg",
+    "source_id": "784112",
+    "barcode": "9310093003897",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "714",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/goulburn-valley-mangoes-slices-in-natural-juice-685g-1860140",
+    "name": "Goulburn Valley Mangoes Slices In Natural Juice | 685g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1860140.jpg&w=640&q=90",
+    "source_id": "1860140",
+    "barcode": "9310093004573",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "685g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "964",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/784246/goulburn-valley-mango-in-juice",
+    "name": "Goulburn Valley Mango In Juice 685g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/784246.jpg",
+    "source_id": "784246",
+    "barcode": "9310093004573",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "685g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "530",
+        "price_per_unit": "774",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/goulburn-valley-peaches-slices-in-natural-juice-700g-1857451",
+    "name": "Goulburn Valley Peaches Slices In Natural Juice | 700g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1857451.jpg&w=640&q=90",
+    "source_id": "1857451",
+    "barcode": "9310093003873",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "714",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/784123/goulburn-valley-peaches-in-juice-sliced-in-juice",
+    "name": "Goulburn Valley Peaches In Juice 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/784123.jpg",
+    "source_id": "784123",
+    "barcode": "9310093003873",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "714",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/goulburn-valley-peaches-in-mango-nectar-700g-1857462",
+    "name": "Goulburn Valley Peaches In Mango Nectar | 700g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1857462.jpg&w=640&q=90",
+    "source_id": "1857462",
+    "barcode": "9310093003880",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "714",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/784116/goulburn-valley-peaches-in-mango-nectar-sliced-in-mango-nectar",
+    "name": "Goulburn Valley Peaches In Mango Nectar 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/784116.jpg",
+    "source_id": "784116",
+    "barcode": "9310093003880",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "714",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/goulburn-valley-pears-in-juice-700g-1857473",
+    "name": "Goulburn Valley Pears In Juice | 700g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1857473.jpg&w=640&q=90",
+    "source_id": "1857473",
+    "barcode": "9310093004313",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "714",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/784143/goulburn-valley-pears-in-juice-sliced-in-juice",
+    "name": "Goulburn Valley Pears In Juice 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/784143.jpg",
+    "source_id": "784143",
+    "barcode": "9310093004313",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "714",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/goulburn-valley-two-fruits-in-juice-700g-1857509",
+    "name": "Goulburn Valley Two Fruits In Juice | 700g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1857509.jpg&w=640&q=90",
+    "source_id": "1857509",
+    "barcode": "9310093003903",
+    "shop": "coles",
+    "category_id": "22800",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "714",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/784113/goulburn-valley-two-fruits-in-juice",
+    "name": "Goulburn Valley Two Fruits In Juice 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/784113.jpg",
+    "source_id": "784113",
+    "barcode": "9310093003903",
+    "shop": "Woolworths",
+    "category_id": "22800",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "714",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

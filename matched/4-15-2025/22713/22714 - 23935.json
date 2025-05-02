@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/mount-barker-free-range-chicken-tenderloin-kebab-with-lemon-and-herb-400g-4461967",
+    "name": "Mount Barker Free Range Chicken Tenderloin Kebab With Lemon And Herb | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4461967.jpg&w=640&q=90",
+    "source_id": "4461967",
+    "barcode": "9334864004449",
+    "shop": "coles",
+    "category_id": "23935",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1050",
+        "price_per_unit": "2625",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/117900/mt-barker-gourmet-kebabs-lemon-herb-chicken-tenders",
+    "name": "Mt Barker Gourmet Kebabs Lemon & Herb Chicken Tenders 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/117900.jpg",
+    "source_id": "117900",
+    "barcode": "9334864004449",
+    "shop": "Woolworths",
+    "category_id": "23935",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "1050",
+        "price_per_unit": "2625",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

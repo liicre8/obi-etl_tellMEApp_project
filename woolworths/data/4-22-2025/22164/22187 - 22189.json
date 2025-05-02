@@ -1,0 +1,204 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/738745/avalanche-sugar-free-drinking-chocolate",
+    "name": "Avalanche Sugar Free Drinking Chocolate 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/738745.jpg",
+    "source_id": "738745",
+    "barcode": "9421902404375",
+    "category_id": "22164",
+    "subcategory_id": "22187",
+    "subsubcategory_id": "22189",
+    "shop": "Woolworths",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/152988/cadbury-drinking-chocolate",
+    "name": "Cadbury Drinking Chocolate 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/152988.jpg",
+    "source_id": "152988",
+    "barcode": "9300617290988",
+    "category_id": "22164",
+    "subcategory_id": "22187",
+    "subsubcategory_id": "22189",
+    "shop": "Woolworths",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/151863/cadbury-drinking-chocolate-neapolitan",
+    "name": "Cadbury Drinking Chocolate Neapolitan 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/151863.jpg",
+    "source_id": "151863",
+    "barcode": "9300617293194",
+    "category_id": "22164",
+    "subcategory_id": "22187",
+    "subsubcategory_id": "22189",
+    "shop": "Woolworths",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "385",
+        "price_per_unit": "154",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/46127/jarrah-classic-hot-chocolate-sachets",
+    "name": "Jarrah Classic Hot Chocolate 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/046127.jpg",
+    "source_id": "46127",
+    "barcode": "7612100175200",
+    "category_id": "22164",
+    "subcategory_id": "22187",
+    "subsubcategory_id": "22189",
+    "shop": "Woolworths",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NSW",
+        "price": "760",
+        "price_per_unit": "76",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/905340/jarrah-hot-chocolate-powder",
+    "name": "Jarrah Hot Chocolate Powder 322g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/905340.jpg",
+    "source_id": "905340",
+    "barcode": "7612100919088",
+    "category_id": "22164",
+    "subcategory_id": "22187",
+    "subsubcategory_id": "22189",
+    "shop": "Woolworths",
+    "weight": "322g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "295",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "760",
+        "price_per_unit": "236",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/852937/jarrah-mint-hot-chocolate-drinking-chocolate-sachets",
+    "name": "Jarrah Mint Hot Chocolate 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/852937.jpg",
+    "source_id": "852937",
+    "barcode": "7612100066126",
+    "category_id": "22164",
+    "subcategory_id": "22187",
+    "subsubcategory_id": "22189",
+    "shop": "Woolworths",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "60",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NSW",
+        "price": "760",
+        "price_per_unit": "76",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/24570/vittoria-chocochino-drinking-chocolate",
+    "name": "Vittoria Chocochino Drinking Chocolate 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/024570.jpg",
+    "source_id": "24570",
+    "barcode": "9310631001941",
+    "category_id": "22164",
+    "subcategory_id": "22187",
+    "subsubcategory_id": "22189",
+    "shop": "Woolworths",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "168",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "187",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/694353/woolworths-hot-chocolate",
+    "name": "Woolworths Hot Chocolate 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/694353.jpg",
+    "source_id": "694353",
+    "barcode": "9339687314553",
+    "category_id": "22164",
+    "subcategory_id": "22187",
+    "subsubcategory_id": "22189",
+    "shop": "Woolworths",
+    "weight": "10 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

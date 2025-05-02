@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-free-range-eggs-12-pack-600g-3169697",
+    "name": "Coles Organic Free Range Eggs 12 Pack | 600g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3169697.jpg&w=640&q=90",
+    "source_id": "3169697",
+    "barcode": "9339687285136",
+    "shop": "coles",
+    "category_id": "22114",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "175",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/191726/macro-12-large-organic-australian-free-range-eggs",
+    "name": "Macro 12 Large Organic Australian Free Range Eggs 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/191726.jpg",
+    "source_id": "191726",
+    "barcode": "9339687285136",
+    "shop": "Woolworths",
+    "category_id": "22114",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1060",
+        "price_per_unit": "177",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sunny-queen-free-range-extra-large-eggs-12-pack-700g-5417789",
+    "name": "Sunny Queen Free Range Extra Large Eggs 12 pack | 700g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5417789.jpg&w=640&q=90",
+    "source_id": "5417789",
+    "barcode": "9310625012786",
+    "shop": "coles",
+    "category_id": "22114",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": "126",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/77170/sunny-queen-12-extra-large-free-range-eggs",
+    "name": "Sunny Queen 12 Extra Large Free Range Eggs 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/077170.jpg",
+    "source_id": "77170",
+    "barcode": "9310625012786",
+    "shop": "Woolworths",
+    "category_id": "22114",
+    "weight": "700G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": "126",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-free-range-eggs-12-pack-600g-9453456",
+    "name": "Coles Free Range Eggs 12 Pack | 600g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9453456.jpg&w=640&q=90",
+    "source_id": "9453456",
+    "barcode": "9339687306558",
+    "shop": "coles",
+    "category_id": "22114",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "570",
+        "price_per_unit": "95",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/224762/woolworths-12-large-free-range-eggs",
+    "name": "Woolworths 12 Large Free Range Eggs 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/224762.jpg",
+    "source_id": "224762",
+    "barcode": "9339687306558",
+    "shop": "Woolworths",
+    "category_id": "22114",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "620",
+        "price_per_unit": "103",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2434 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/223975/freedom-classic-xo-cocoa-crunch-cereal-32-whole-grain",
+    "name": "Freedom Classic Xo Cocoa Crunch Cereal 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/223975.jpg",
+    "source_id": "223975",
+    "barcode": "9326666610096",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "208",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "208",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/334789/macro-five-grain-porridge",
+    "name": "Macro Five Grain Porridge 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/334789.jpg",
+    "source_id": "334789",
+    "barcode": "9300633143442",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "750G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "47",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "47",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/184974/arnold-s-farm-clusters-berry-crumble",
+    "name": "Arnold's Farm Clusters Berry Crumble 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/184974.jpg",
+    "source_id": "184974",
+    "barcode": "9326666200020",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "97",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/243904/arnold-s-farm-clusters-cocoa-cookie-crumble",
+    "name": "Arnold's Farm Clusters Cocoa Cookie Crumble 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/243904.jpg",
+    "source_id": "243904",
+    "barcode": "9326666200105",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "97",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/184975/arnold-s-farm-clusters-vanilla-almond",
+    "name": "Arnold's Farm Clusters Vanilla Almond 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/184975.jpg",
+    "source_id": "184975",
+    "barcode": "9326666200068",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "97",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/184937/arnold-s-farm-granola-pink-lady-apple-cinnamon",
+    "name": "Arnold's Farm Granola Pink Lady Apple & Cinnamon 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/184937.jpg",
+    "source_id": "184937",
+    "barcode": "9326666200044",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "97",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/377308/arnold-s-farm-maple-pecan-granola",
+    "name": "Arnold's Farm Maple & Pecan Granola 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/377308.jpg",
+    "source_id": "377308",
+    "barcode": "9326666600585",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "97",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/377262/arnold-s-farm-porridge-sachets-apple-cinnamon",
+    "name": "Arnold's Farm Porridge Sachets Apple & Cinnamon 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/377262.jpg",
+    "source_id": "377262",
+    "barcode": "9326666610591",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "122",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/205729/arnold-s-farm-porridge-sachets-berry-blend",
+    "name": "Arnold's Farm Porridge Sachets Berry Blend 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/205729.jpg",
+    "source_id": "205729",
+    "barcode": "9326666210098",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "122",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/207996/arnold-s-farm-porridge-sachets-creamy-honey",
+    "name": "Arnold's Farm Porridge Sachets Creamy Honey 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/207996.jpg",
+    "source_id": "207996",
+    "barcode": "9326666210081",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "122",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/184938/arnold-s-farm-toasted-muesli-fruit-nut",
+    "name": "Arnold's Farm Toasted Muesli Fruit & Nut 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/184938.jpg",
+    "source_id": "184938",
+    "barcode": "9326666200013",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "97",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/208100/blue-frog-keto-almond-peanut-raspberry-cereal",
+    "name": "Blue Frog Keto Almond, Peanut & Raspberry Cereal 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/208100.jpg",
+    "source_id": "208100",
+    "barcode": "9421906822106",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1475",
+        "price_per_unit": "492",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/274329/blue-frog-keto-cereal-almond-butter-vanilla-bean",
+    "name": "Blue Frog Keto Cereal Almond Butter & Vanilla Bean 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/274329.jpg",
+    "source_id": "274329",
+    "barcode": "9421906822380",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1475",
+        "price_per_unit": "492",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6016551/blue-frog-keto-raspberry-macadamia-vanilla",
+    "name": "Blue Frog Keto Raspberry Macadamia & Vanilla 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6016551.jpg",
+    "source_id": "6016551",
+    "barcode": "9421906822670",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1475",
+        "price_per_unit": "492",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/153261/blue-frog-macadamia-almond-manuka-honey-muesli",
+    "name": "Blue Frog Macadamia, Almond & Manuka Honey Muesli 350G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/153261.jpg",
+    "source_id": "153261",
+    "barcode": "9421903833938",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "350G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1475",
+        "price_per_unit": "421",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/956036/carman-s-aussie-oat-cluster-berry-crunch-value-pack",
+    "name": "Carman's Aussie Oat Cluster Berry Crunch Value Pack 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/956036.jpg",
+    "source_id": "956036",
+    "barcode": "9319133338111",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "119",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6015149/carman-s-aussie-oat-clusters-nutty-crunch",
+    "name": "Carman's Aussie Oat Clusters Nutty Crunch 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6015149.jpg",
+    "source_id": "6015149",
+    "barcode": "9319133339002",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/383849/carman-s-clusters-aussie-oat-apple-crunch",
+    "name": "Carman's Clusters Aussie Oat Apple Crunch 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/383849.jpg",
+    "source_id": "383849",
+    "barcode": "9319133338067",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/384998/carman-s-clusters-aussie-oat-apple-crunch",
+    "name": "Carman's Clusters Aussie Oat Apple Crunch 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/384998.jpg",
+    "source_id": "384998",
+    "barcode": "9319133338104",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "119",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/385531/carman-s-clusters-aussie-oat-crunchy-berry-crunch",
+    "name": "Carman's Clusters Aussie Oat Crunchy Berry Crunch 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/385531.jpg",
+    "source_id": "385531",
+    "barcode": "9319133338074",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/383792/carman-s-clusters-aussie-oat-honey-crunch",
+    "name": "Carman's Clusters Aussie Oat Honey Crunch 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/383792.jpg",
+    "source_id": "383792",
+    "barcode": "9319133338081",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/385174/carman-s-clusters-aussie-oat-honey-crunch",
+    "name": "Carman's Clusters Aussie Oat Honey Crunch 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/385174.jpg",
+    "source_id": "385174",
+    "barcode": "9319133338128",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "119",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/867025/carman-s-granola-5-grain-seed-almond-vanilla-cinnamon",
+    "name": "Carman's Granola 5 Grain & Seed Almond Vanilla & Cinnamon 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/867025.jpg",
+    "source_id": "867025",
+    "barcode": "9319133334809",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/867026/carman-s-granola-5-grain-seed-pink-lady-apple-blueberry",
+    "name": "Carman's Granola 5 Grain & Seed Pink Lady Apple & Blueberry 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/867026.jpg",
+    "source_id": "867026",
+    "barcode": "9319133334816",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/272603/carman-s-granola-antioxidant-blueberry-vanilla",
+    "name": "Carman's Granola Antioxidant Blueberry & Vanilla 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/272603.jpg",
+    "source_id": "272603",
+    "barcode": "9319133337589",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/209633/carman-s-granola-grain-free-almond-macadamia-cashew-pecan",
+    "name": "Carman's Granola Grain Free Almond, Macadamia, Cashew & Pecan 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/209633.jpg",
+    "source_id": "209633",
+    "barcode": "9319133337053",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/208879/carman-s-granola-grain-free-raspberry-blueberry-cranberry",
+    "name": "Carman's Granola Grain Free Raspberry, Blueberry & Cranberry 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/208879.jpg",
+    "source_id": "208879",
+    "barcode": "9319133337060",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/272313/carman-s-granola-low-carb-peanut-butter",
+    "name": "Carman's Granola Low Carb Peanut Butter 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/272313.jpg",
+    "source_id": "272313",
+    "barcode": "9319133337534",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/208900/carman-s-granola-protein-rich-almond-hazelnut",
+    "name": "Carman's Granola Protein Rich Almond & Hazelnut 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/208900.jpg",
+    "source_id": "208900",
+    "barcode": "9319133337039",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/143191/carman-s-granola-raspberry-coconut-low-sugar",
+    "name": "Carman's Granola Raspberry & Coconut Low Sugar 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/143191.jpg",
+    "source_id": "143191",
+    "barcode": "9319133335974",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/953876/carman-s-gut-loving-granola-honey-roasted-almond-vanilla",
+    "name": "Carman's Gut Loving Granola Honey Roasted Almond & Vanilla 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/953876.jpg",
+    "source_id": "953876",
+    "barcode": "9319133338418",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6016152/carman-s-low-sugar-granola-raspberry-coconut",
+    "name": "Carman's Low Sugar Granola Raspberry & Coconut 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6016152.jpg",
+    "source_id": "6016152",
+    "barcode": "9319133338968",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "144",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/64137/carman-s-muesli-crispy-deluxe-almond-maple",
+    "name": "Carman's Muesli Crispy Deluxe Almond & Maple 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/064137.jpg",
+    "source_id": "64137",
+    "barcode": "9319133334311",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/292780/carman-s-muesli-crispy-deluxe-fruit-nut",
+    "name": "Carman's Muesli Crispy Deluxe Fruit & Nut 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/292780.jpg",
+    "source_id": "292780",
+    "barcode": "9319133338012",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/146327/carman-s-muesli-natural-bircher-muesli",
+    "name": "Carman's Muesli Natural Bircher 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/146327.jpg",
+    "source_id": "146327",
+    "barcode": "9319133331396",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/688509/carman-s-muesli-natural-bircher",
+    "name": "Carman's Muesli Natural Bircher 875g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/688509.jpg",
+    "source_id": "688509",
+    "barcode": "9319133334694",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "875g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "990",
+        "price_per_unit": "113",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/146326/carman-s-muesli-toasted-classic-fruit-nut",
+    "name": "Carman's Muesli Toasted Classic Fruit & Nut 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/146326.jpg",
+    "source_id": "146326",
+    "barcode": "9319133331389",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/688508/carman-s-muesli-toasted-classic-fruit-nut",
+    "name": "Carman's Muesli Toasted Classic Fruit & Nut 875g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/688508.jpg",
+    "source_id": "688508",
+    "barcode": "9319133334670",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "875g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "990",
+        "price_per_unit": "113",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/146325/carman-s-muesli-toasted-original-fruit-free",
+    "name": "Carman's Muesli Toasted Original Fruit Free 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/146325.jpg",
+    "source_id": "146325",
+    "barcode": "9319133331372",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/688530/carman-s-muesli-toasted-original-fruit-free",
+    "name": "Carman's Muesli Toasted Original Fruit Free 875g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/688530.jpg",
+    "source_id": "688530",
+    "barcode": "9319133334687",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "875g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "990",
+        "price_per_unit": "113",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/922530/carman-s-muesli-toasted-super-berry-cranberry-blueberry",
+    "name": "Carman's Muesli Toasted Super Berry, Cranberry & Blueberry 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/922530.jpg",
+    "source_id": "922530",
+    "barcode": "9319133333451",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85132/carman-s-muesli-toasted-super-berry-cranberry-blueberry",
+    "name": "Carman's Muesli Toasted Super Berry, Cranberry & Blueberry 875g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085132.jpg",
+    "source_id": "85132",
+    "barcode": "9319133335523",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "875g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "990",
+        "price_per_unit": "113",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6015758/carman-s-overnight-bircher-sachets-apple-almond",
+    "name": "Carman's Overnight Bircher Sachets Apple & Almond 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6015758.jpg",
+    "source_id": "6015758",
+    "barcode": "9319133339422",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/571396/carman-s-overnight-chia-oat-sachets-berry-coconut",
+    "name": "Carman's Overnight Chia & Oat Sachets Berry & Coconut 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/571396.jpg",
+    "source_id": "571396",
+    "barcode": "9319133338470",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "286",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/571582/carman-s-overnight-chia-oat-sachets-cacao-hazelnut",
+    "name": "Carman's Overnight Chia & Oat Sachets Cacao & Hazelnut 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/571582.jpg",
+    "source_id": "571582",
+    "barcode": "9319133338494",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "286",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/687777/carman-s-porridge-sachets-almond-pecan-hazelnut",
+    "name": "Carman's Porridge Sachets Almond, Pecan & Hazelnut 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/687777.jpg",
+    "source_id": "687777",
+    "barcode": "9319133334656",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "188",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/608601/carman-s-porridge-sachets-apple-sultana-cinnamon",
+    "name": "Carman's Porridge Sachets Apple, Sultana & Cinnamon 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/608601.jpg",
+    "source_id": "608601",
+    "barcode": "9319133333666",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "188",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/435300/carman-s-porridge-sachets-honey-vanilla-cinnamon",
+    "name": "Carman's Porridge Sachets Honey, Vanilla & Cinnamon 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/435300.jpg",
+    "source_id": "435300",
+    "barcode": "9319133333925",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "188",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/687790/carman-s-porridge-sachets-natural-5-grain-super-seed",
+    "name": "Carman's Porridge Sachets Natural 5 Grain & Super Seed 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/687790.jpg",
+    "source_id": "687790",
+    "barcode": "9319133334243",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "188",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/143627/carman-s-porridge-sachets-protein-rich-almond-vanilla-cinnamon",
+    "name": "Carman's Porridge Sachets Protein Rich Almond, Vanilla & Cinnamon 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/143627.jpg",
+    "source_id": "143627",
+    "barcode": "9319133336155",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/435310/carman-s-porridge-sachets-super-berry-coconut",
+    "name": "Carman's Porridge Sachets Super Berry & Coconut 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/435310.jpg",
+    "source_id": "435310",
+    "barcode": "9319133333444",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "188",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6015819/carman-s-protein-clusters-cranberry-coconut",
+    "name": "Carman's Protein Clusters Cranberry & Coconut 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6015819.jpg",
+    "source_id": "6015819",
+    "barcode": "9319133339361",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6016191/carman-s-protein-clusters-vanilla-cinnamon-crumble",
+    "name": "Carman's Protein Clusters Vanilla Cinnamon Crumble 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6016191.jpg",
+    "source_id": "6016191",
+    "barcode": "9319133338791",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6016201/carman-s-protein-porridge-sachets-apple-cranberry",
+    "name": "Carman's Protein Porridge Sachets Apple & Cranberry 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6016201.jpg",
+    "source_id": "6016201",
+    "barcode": "9319133339408",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "222",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85468/dorset-berry-granola",
+    "name": "Dorset Berry Granola 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085468.jpg",
+    "source_id": "85468",
+    "barcode": "5018357013098",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85470/dorset-nut-granola",
+    "name": "Dorset Nut Granola 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085470.jpg",
+    "source_id": "85470",
+    "barcode": "5018357013074",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/93035/essentials-processed-bran-sticks",
+    "name": "Essentials Processed Bran Sticks 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/093035.jpg",
+    "source_id": "93035",
+    "barcode": "9300633930356",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "179",
+        "price_per_unit": "36",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/277271/farmer-jo-gluten-free-keto-granola-with-cinnamon-spice",
+    "name": "Farmer Jo Gluten Free Keto Granola With Cinnamon Spice 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/277271.jpg",
+    "source_id": "277271",
+    "barcode": "9346430002315",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147895/farmer-jo-gluten-free-paleo-granola-salted-maple-cashew",
+    "name": "Farmer Jo Gluten Free Paleo Granola Salted Maple Cashew 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/147895.jpg",
+    "source_id": "147895",
+    "barcode": "9346430002308",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85136/farmer-jo-gluten-free-paleo-muesli",
+    "name": "Farmer Jo Gluten Free Paleo Muesli 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085136.jpg",
+    "source_id": "85136",
+    "barcode": "9346430002131",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/935641/farmer-jo-granola-twice-baked-pistachio-quinoa",
+    "name": "Farmer Jo Granola Twice Baked Pistachio & Quinoa 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/935641.jpg",
+    "source_id": "935641",
+    "barcode": "9346430000489",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "400",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/148981/hubbards-cocoa-coconut-toasted-granola",
+    "name": "Hubbards Cocoa & Coconut Toasted Granola 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/148981.jpg",
+    "source_id": "148981",
+    "barcode": "9414763003696",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/150504/hubbards-raspberry-coconut-toasted-granola",
+    "name": "Hubbards Raspberry  & Coconut Toasted Granola 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/150504.jpg",
+    "source_id": "150504",
+    "barcode": "9414763003689",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/149331/hubbards-vanilla-almond-toasted-clusters",
+    "name": "Hubbards Vanilla & Almond Toasted Clusters 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/149331.jpg",
+    "source_id": "149331",
+    "barcode": "9414763003658",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/790810/jordans-bursting-with-berries-crunchy-oat-granola",
+    "name": "Jordans Bursting With Berries Crunchy Oat Granola 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/790810.jpg",
+    "source_id": "790810",
+    "barcode": "5010477346216",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/780739/jordans-chunky-nut-crispy-oat-clusters",
+    "name": "Jordans Chunky Nut Crispy Oat Clusters 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/780739.jpg",
+    "source_id": "780739",
+    "barcode": "5010477341273",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85469/jordans-cluster-bites-honey-nut",
+    "name": "Jordans Cluster Bites Honey Nut 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085469.jpg",
+    "source_id": "85469",
+    "barcode": "5010477356215",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85599/jordans-cluster-bites-milk-chocolate",
+    "name": "Jordans Cluster Bites Milk Chocolate 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085599.jpg",
+    "source_id": "85599",
+    "barcode": "5010477356192",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/609563/jordans-crispy-oat-clusters-maple-pecan",
+    "name": "Jordans Crispy Oat Clusters Maple & Pecan 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/609563.jpg",
+    "source_id": "609563",
+    "barcode": "5010477352859",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147354/jordans-crispy-oat-clusters-wild-about-berries",
+    "name": "Jordans Crispy Oat Clusters Wild About Berries 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/147354.jpg",
+    "source_id": "147354",
+    "barcode": "5010477349637",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/686551/jordans-granola-low-sugar-almond-hazelnut",
+    "name": "Jordans Granola Low Sugar Almond Hazelnut 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/686551.jpg",
+    "source_id": "686551",
+    "barcode": "5010477353818",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/967421/jordans-light-crunch-granola-triple-nut",
+    "name": "Jordans Light Crunch Granola Triple Nut 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/967421.jpg",
+    "source_id": "967421",
+    "barcode": "5010477365873",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "212",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85598/jordans-low-sugar-granola-blueberry-coconut",
+    "name": "Jordans Low Sugar Granola Blueberry & Coconut 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085598.jpg",
+    "source_id": "85598",
+    "barcode": "5010477357274",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/207593/jordans-low-sugar-granola-strawberry-seeds",
+    "name": "Jordans Low Sugar Granola Strawberry & Seeds 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/207593.jpg",
+    "source_id": "207593",
+    "barcode": "5010477360816",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/609556/jordans-simply-crunchy-oat-granola-honey",
+    "name": "Jordans Simply Crunchy Oat Granola Honey 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/609556.jpg",
+    "source_id": "609556",
+    "barcode": "5010477349651",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "750G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "120",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147307/jordans-simply-granola-crunchy-oat-honey",
+    "name": "Jordans Simply Granola Crunchy Oat & Honey 1.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/147307.jpg",
+    "source_id": "147307",
+    "barcode": "5010477360793",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "1.5Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1270",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/780751/jordans-strawberry-crispy-oat-clusters",
+    "name": "Jordans Strawberry Crispy Oat Clusters 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/780751.jpg",
+    "source_id": "780751",
+    "barcode": "5010477341259",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/321862/lowan-quick-whole-grain-oats",
+    "name": "Lowan Quick Whole Grain Oats 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/321862.jpg",
+    "source_id": "321862",
+    "barcode": "9310273275007",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/79402/lowan-rolled-wholegrain-oats",
+    "name": "Lowan Rolled Wholegrain Oats 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/079402.jpg",
+    "source_id": "79402",
+    "barcode": "9310598300255",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/121764/macro-organic-natural-muesli",
+    "name": "Macro Organic Natural Muesli 750G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/121764.jpg",
+    "source_id": "121764",
+    "barcode": "9339687213405",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "750G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "93",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/664723/macro-organic-oats-rolled-unstabilised",
+    "name": "Macro Organic Oats Rolled Unstabilised 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/664723.jpg",
+    "source_id": "664723",
+    "barcode": "9339687013005",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/700525/macro-organic-quick-oats",
+    "name": "Macro Organic Quick Oats 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/700525.jpg",
+    "source_id": "700525",
+    "barcode": "9300633226282",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/700524/macro-organic-rolled-oats",
+    "name": "Macro Organic Rolled Oats 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/700524.jpg",
+    "source_id": "700524",
+    "barcode": "9300633226275",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "60",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/664722/macro-organic-steel-cut-oats",
+    "name": "Macro Organic Steel Cut Oats 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/664722.jpg",
+    "source_id": "664722",
+    "barcode": "9339687012992",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/486769/macro-wholefoods-market-grain-free-granola-cacao-hazelnut-butter",
+    "name": "Macro Wholefoods Market Grain Free Granola Cacao & Hazelnut Butter 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/486769.jpg",
+    "source_id": "486769",
+    "barcode": "9339687362370",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "233",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/488243/macro-wholefoods-market-grain-free-granola-honey-almond",
+    "name": "Macro Wholefoods Market Grain Free Granola Honey Almond 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/488243.jpg",
+    "source_id": "488243",
+    "barcode": "9339687362356",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "233",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/336408/morning-sun-apricot-almond-breakfast-cereal",
+    "name": "Morning Sun Apricot & Almond Breakfast Cereal 650g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/336408.jpg",
+    "source_id": "336408",
+    "barcode": "9300605118034",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "650g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "69",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/336406/morning-sun-naturual-style-muesli-97-fat-free-breakfast-cereal",
+    "name": "Morning Sun Naturual Style Muesli  97% Fat Free Breakfast Cereal 650g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/336406.jpg",
+    "source_id": "336406",
+    "barcode": "9300605118027",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "650g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "69",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/217155/orgran-gluten-free-porridge-quinoa",
+    "name": "Orgran Gluten Free Porridge Quinoa 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/217155.jpg",
+    "source_id": "217155",
+    "barcode": "720516026386",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1060",
+        "price_per_unit": "212",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/743270/woolworths-apricot-almond-and-date-muesli",
+    "name": "Woolworths Apricot Almond And Date Muesli 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/743270.jpg",
+    "source_id": "743270",
+    "barcode": "9300633364304",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "750G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "53",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/196294/woolworths-australian-quick-oats",
+    "name": "Woolworths Australian Quick Oats 1.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/196294.jpg",
+    "source_id": "196294",
+    "barcode": "9339687286287",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "1.5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "19",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/196293/woolworths-australian-rolled-oats",
+    "name": "Woolworths Australian Rolled Oats 1.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/196293.jpg",
+    "source_id": "196293",
+    "barcode": "9339687286270",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "1.5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "19",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/95076/woolworths-australian-wheat-bran",
+    "name": "Woolworths Australian Wheat Bran 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/095076.jpg",
+    "source_id": "95076",
+    "barcode": "9300633950767",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "36",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/343660/woolworths-essentials-traditional-muesli",
+    "name": "Woolworths Essentials Traditional Muesli 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/343660.jpg",
+    "source_id": "343660",
+    "barcode": "9300633203610",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "900G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "255",
+        "price_per_unit": "28",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/11709/woolworths-fruit-free-toasted-muesli",
+    "name": "Woolworths Fruit Free Toasted Muesli 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/011709.jpg",
+    "source_id": "11709",
+    "barcode": "9339687092840",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "750G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "53",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/576157/uncle-tobys-big-bowl-quick-oats-protein-berry",
+    "name": "Uncle Tobys Big Bowl Quick Oats Protein Berry 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/576157.jpg",
+    "source_id": "576157",
+    "barcode": "9300605155398",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "177",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/583228/uncle-tobys-big-bowl-quick-oats-protein-vanilla",
+    "name": "Uncle Tobys Big Bowl Quick Oats Protein Vanilla 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/583228.jpg",
+    "source_id": "583228",
+    "barcode": "9300605155381",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "177",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6014636/uncle-tobys-milo-porridge-quick-sachets",
+    "name": "Uncle Tobys Milo Porridge Quick Sachets 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6014636.jpg",
+    "source_id": "6014636",
+    "barcode": "9300605157842",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/36370/uncle-tobys-natural-style-swiss-blend-muesli-breakfast-cereal",
+    "name": "Uncle Tobys Natural Style Swiss Blend Muesli Breakfast Cereal 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/036370.jpg",
+    "source_id": "36370",
+    "barcode": "9310060050039",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "90",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/31129/uncle-tobys-oats-quick-oats-porridge-porridge",
+    "name": "Uncle Tobys Oats Quick Oats Porridge Porridge 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/031129.jpg",
+    "source_id": "31129",
+    "barcode": "9310060012013",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37562/uncle-tobys-oats-quick-rolled-oats-porridge",
+    "name": "Uncle Tobys Oats Quick Rolled Oats Porridge 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/037562.jpg",
+    "source_id": "37562",
+    "barcode": "9310060012037",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/149866/uncle-tobys-oats-quick-sachets-apple-cinnamon-porridge",
+    "name": "Uncle Tobys Oats Quick Sachets Apple & Cinnamon Porridge 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/149866.jpg",
+    "source_id": "149866",
+    "barcode": "9300605139732",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147406/uncle-tobys-oats-quick-sachets-berry-variety-porridge",
+    "name": "Uncle Tobys Oats Quick Sachets Berry Variety Porridge 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/147406.jpg",
+    "source_id": "147406",
+    "barcode": "9300605139626",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/148985/uncle-tobys-oats-quick-sachets-big-bowl-banana-honey-porridge",
+    "name": "Uncle Tobys Oats Quick Sachets Big Bowl Banana & Honey Porridge 368g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/148985.jpg",
+    "source_id": "148985",
+    "barcode": "9300605139756",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "368g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "177",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147720/uncle-tobys-oats-quick-sachets-big-bowl-creamy-honey-porridge",
+    "name": "Uncle Tobys Oats Quick Sachets Big Bowl Creamy Honey Porridge 368g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/147720.jpg",
+    "source_id": "147720",
+    "barcode": "9300605139633",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "368g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "177",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/148281/uncle-tobys-oats-quick-sachets-big-bowl-original-porridge",
+    "name": "Uncle Tobys Oats Quick Sachets Big Bowl Original Porridge 368g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/148281.jpg",
+    "source_id": "148281",
+    "barcode": "9300605139794",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "368g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "177",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/148885/uncle-tobys-oats-quick-sachets-brown-sugar-cinnamon-porridge",
+    "name": "Uncle Tobys Oats Quick Sachets Brown Sugar & Cinnamon Porridge 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/148885.jpg",
+    "source_id": "148885",
+    "barcode": "9300605139718",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/148976/uncle-tobys-oats-quick-sachets-classic-variety-porridge",
+    "name": "Uncle Tobys Oats Quick Sachets Classic Variety Porridge 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/148976.jpg",
+    "source_id": "148976",
+    "barcode": "9300605139640",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/148364/uncle-tobys-oats-quick-sachets-creamy-honey-porridge",
+    "name": "Uncle Tobys Oats Quick Sachets Creamy Honey Porridge 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/148364.jpg",
+    "source_id": "148364",
+    "barcode": "9300605139619",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147588/uncle-tobys-oats-quick-sachets-creamy-vanilla-porridge",
+    "name": "Uncle Tobys Oats Quick Sachets Creamy Vanilla Porridge 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/147588.jpg",
+    "source_id": "147588",
+    "barcode": "9300605139657",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147896/uncle-tobys-oats-quick-sachets-family-pack-creamy-honey-porridge",
+    "name": "Uncle Tobys Oats Quick Sachets Family Pack Creamy Honey Porridge 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/147896.jpg",
+    "source_id": "147896",
+    "barcode": "9300605139688",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/149502/uncle-tobys-oats-quick-sachets-family-pack-original-porridge",
+    "name": "Uncle Tobys Oats Quick Sachets Family Pack Original Porridge 680g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/149502.jpg",
+    "source_id": "149502",
+    "barcode": "9300605139695",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "680g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "140",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147398/uncle-tobys-oats-quick-sachets-fruit-variety-porridge",
+    "name": "Uncle Tobys Oats Quick Sachets Fruit Variety Porridge 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/147398.jpg",
+    "source_id": "147398",
+    "barcode": "9300605139725",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/148396/uncle-tobys-oats-quick-sachets-hi-fibre-porridge",
+    "name": "Uncle Tobys Oats Quick Sachets Hi-Fibre Porridge 320g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/148396.jpg",
+    "source_id": "148396",
+    "barcode": "9300605139770",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "320g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "197",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/204987/uncle-tobys-oats-quick-sachets-original-porridge",
+    "name": "Uncle Tobys Oats Quick Sachets Original Porridge 340g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/204987.jpg",
+    "source_id": "204987",
+    "barcode": "9310060403699",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "340g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "185",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37678/uncle-tobys-oats-traditional-rolled-oats-porridge",
+    "name": "Uncle Tobys Oats Traditional Rolled Oats Porridge 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/037678.jpg",
+    "source_id": "37678",
+    "barcode": "9310060011016",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33036/uncle-tobys-oats-traditonal-rolled-oats-porridge",
+    "name": "Uncle Tobys Oats Traditonal Rolled Oats Porridge 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033036.jpg",
+    "source_id": "33036",
+    "barcode": "9310060011030",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6014649/uncle-tobys-quick-oats-protein-sachets-berry-banana-vanilla",
+    "name": "Uncle Tobys Quick Oats Protein Sachets Berry Banana & Vanilla 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6014649.jpg",
+    "source_id": "6014649",
+    "barcode": "9300605157972",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "8 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/610114/uncle-tobys-rolled-oats-ancient-grains-rye-puffed-quinoa-millet",
+    "name": "Uncle Tobys Rolled Oats Ancient Grains Rye, Puffed Quinoa & Millet 490g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/610114.jpg",
+    "source_id": "610114",
+    "barcode": "9300605155404",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "490g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "102",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6015533/uncle-tobys-rolled-oats-protein-with-pepita-chia-seeds",
+    "name": "Uncle Tobys Rolled Oats Protein With Pepita & Chia Seeds 490g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6015533.jpg",
+    "source_id": "6015533",
+    "barcode": "9300605155374",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "490g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "102",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/225360/vogel-s-low-carb-granola-raspberry-blueberry-almond",
+    "name": "Vogel's Low Carb Granola Raspberry, Blueberry & Almond 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/225360.jpg",
+    "source_id": "225360",
+    "barcode": "9421021173053",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22791",
+    "shop": "Woolworths",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/30011/bird-munchies-bird-food-gourmet-blend-parrot",
+    "name": "Bird Munchies Bird Food Gourmet Blend Parrot 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/030011.jpg",
+    "source_id": "30011",
+    "barcode": "9313175050024",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "58",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

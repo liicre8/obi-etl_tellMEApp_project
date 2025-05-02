@@ -1,0 +1,614 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/la-famiglia-garlic-bread-400g-6146213",
+    "name": "La Famiglia Garlic Bread | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6146213.jpg&w=640&q=90",
+    "source_id": "6146213",
+    "barcode": "9317755000683",
+    "shop": "coles",
+    "category_id": "22142",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/294517/la-famiglia-garlic-bread",
+    "name": "La Famiglia Garlic Bread 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/294517.jpg",
+    "source_id": "294517",
+    "barcode": "9317755000683",
+    "shop": "Woolworths",
+    "category_id": "22142",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/la-famiglia-just-for-2-cheesy-garlic-bread-190g-5552263",
+    "name": "La Famiglia Just For 2 Cheesy Garlic Bread | 190g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5552263.jpg&w=640&q=90",
+    "source_id": "5552263",
+    "barcode": "9310023145727",
+    "shop": "coles",
+    "category_id": "22142",
+    "weight": "190g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "200",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/236518/just-for-2-cheesy-garlic-bread",
+    "name": "La Famiglia Just For 2 Cheesy Garlic Bread 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/236518.jpg",
+    "source_id": "236518",
+    "barcode": "9310023145727",
+    "shop": "Woolworths",
+    "category_id": "22142",
+    "weight": "190g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "237",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/la-famiglia-just-for-2-cheesy-pesto-garlic-bread-190g-7852552",
+    "name": "La Famiglia Just For 2 Cheesy Pesto Garlic Bread | 190g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7852552.jpg&w=640&q=90",
+    "source_id": "7852552",
+    "barcode": "9310023146069",
+    "shop": "coles",
+    "category_id": "22142",
+    "weight": "190g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "200",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/583303/la-famiglia-kitchen-cheesy-pesto-garlic-bread-for-two",
+    "name": "La Famiglia Kitchen Cheesy Pesto Garlic Bread For Two 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/583303.jpg",
+    "source_id": "583303",
+    "barcode": "9310023146069",
+    "shop": "Woolworths",
+    "category_id": "22142",
+    "weight": "190g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "237",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kitchen-plain-pizza-base-260g-4691581",
+    "name": "Coles Kitchen Plain Pizza Base | 260g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4691581.jpg&w=640&q=90",
+    "source_id": "4691581",
+    "barcode": "9338033004759",
+    "shop": "coles",
+    "category_id": "22142",
+    "weight": "260g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "85",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/637441/picasso-kitchen-kitchen-pizza-base",
+    "name": "Picasso Kitchen Kitchen Pizza Base 260G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/637441.jpg",
+    "source_id": "637441",
+    "barcode": "9338033004759",
+    "shop": "Woolworths",
+    "category_id": "22142",
+    "weight": "260G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kitchen-pizza-dough-ball-250g-3467935",
+    "name": "Coles Kitchen Pizza Dough Ball | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3467935.jpg&w=640&q=90",
+    "source_id": "3467935",
+    "barcode": "9338033004193",
+    "shop": "coles",
+    "category_id": "22142",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "80",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/965942/picasso-kitchen-pizza-dough-ball",
+    "name": "Picasso Kitchen Pizza Dough Ball 250G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/965942.jpg",
+    "source_id": "965942",
+    "barcode": "9338033004193",
+    "shop": "Woolworths",
+    "category_id": "22142",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "80",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kitchen-bbq-chicken-and-bacon-pizza-400g-8986011",
+    "name": "Coles Kitchen BBQ Chicken & Bacon Pizza | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8986011.jpg&w=640&q=90",
+    "source_id": "8986011",
+    "barcode": "9338033006746",
+    "shop": "coles",
+    "category_id": "22142",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/89944/picasso-kitchen-pizza-thin-crispy-bbq-chicken-bacon",
+    "name": "Picasso Kitchen Pizza Thin & Crispy BBQ Chicken & Bacon 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/089944.jpg",
+    "source_id": "89944",
+    "barcode": "9338033006746",
+    "shop": "Woolworths",
+    "category_id": "22142",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kitchen-supreme-pizza-600g-8986102",
+    "name": "Coles Kitchen Supreme Pizza | 600g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8986102.jpg&w=640&q=90",
+    "source_id": "8986102",
+    "barcode": "9338033006661",
+    "shop": "coles",
+    "category_id": "22142",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "167",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/435644/picasso-kitchen-supreme-pizza",
+    "name": "Picasso Kitchen Supreme Pizza 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/435644.jpg",
+    "source_id": "435644",
+    "barcode": "9338033006661",
+    "shop": "Woolworths",
+    "category_id": "22142",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/senza-gluten-free-pizza-base-220g-3467902",
+    "name": "Senza Gluten Free Pizza Base | 220g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3467902.jpg&w=640&q=90",
+    "source_id": "3467902",
+    "barcode": "9344378002008",
+    "shop": "coles",
+    "category_id": "22142",
+    "weight": "220g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "227",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/88352/senza-gluten-free-pizza-base",
+    "name": "Senza Gluten Free Pizza Base 220g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/088352.jpg",
+    "source_id": "88352",
+    "barcode": "9344378002008",
+    "shop": "Woolworths",
+    "category_id": "22142",
+    "weight": "220G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "159",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sugo-tu-pizza-sauce-150g-8981630",
+    "name": "Sugo Tu Pizza Sauce | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8981630.jpg&w=640&q=90",
+    "source_id": "8981630",
+    "barcode": "9342739001684",
+    "shop": "coles",
+    "category_id": "22142",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "167",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/179689/sugo-tu-pizza-sauce-chilled",
+    "name": "Sugo Tu Pizza Sauce Chilled 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/179689.jpg",
+    "source_id": "179689",
+    "barcode": "9342739001684",
+    "shop": "Woolworths",
+    "category_id": "22142",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/senza-gluten-and-dairy-free-garlic-bread-250g-5573911",
+    "name": "Senza Gluten & Dairy Free Garlic Bread | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5573911.jpg&w=640&q=90",
+    "source_id": "5573911",
+    "barcode": "9339687276349",
+    "shop": "coles",
+    "category_id": "22142",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "180",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/183624/woolworths-free-from-gluten-dairy-garlic-bread",
+    "name": "Woolworths Free From Gluten & Dairy Garlic Bread 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/183624.jpg",
+    "source_id": "183624",
+    "barcode": "9339687276349",
+    "shop": "Woolworths",
+    "category_id": "22142",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "180",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-simply-garlic-bread-slices-270g-7081995",
+    "name": "Coles Simply Garlic Bread Slices | 270g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7081995.jpg&w=640&q=90",
+    "source_id": "7081995",
+    "barcode": "9339687055760",
+    "shop": "coles",
+    "category_id": "22142",
+    "weight": "270g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "122",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/695868/woolworths-garlic-bread-slices",
+    "name": "Woolworths Garlic Bread Slices 270g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/695868.jpg",
+    "source_id": "695868",
+    "barcode": "9339687055760",
+    "shop": "Woolworths",
+    "category_id": "22142",
+    "weight": "270G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "122",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/antoniou-filo-pastry-chilled-375g-297384",
+    "name": "Antoniou Filo Pastry Chilled | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F297384.jpg&w=640&q=90",
+    "source_id": "297384",
+    "barcode": "9310683000039",
+    "shop": "coles",
+    "category_id": "22142",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "475",
+        "price_per_unit": "127",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/90922/antoniou-fillo-pastry",
+    "name": "Antoniou Fillo Pastry 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/090922.jpg",
+    "source_id": "90922",
+    "barcode": "9310683000039",
+    "shop": "Woolworths",
+    "category_id": "22142",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "475",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/la-famiglia-stone-baked-garlic-ciabatta-330g-9082489",
+    "name": "La Famiglia Stone Baked Garlic Ciabatta | 330g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9082489.jpg&w=640&q=90",
+    "source_id": "9082489",
+    "barcode": "9317755001246",
+    "shop": "coles",
+    "category_id": "22142",
+    "weight": "330g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "242",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/717550/la-famiglia-garlic-bread-ciabatta",
+    "name": "La Famiglia Garlic Bread Ciabatta 330g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/717550.jpg",
+    "source_id": "717550",
+    "barcode": "9317755001246",
+    "shop": "Woolworths",
+    "category_id": "22142",
+    "weight": "330G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "242",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/la-famiglia-garlic-bread-170g-2681882",
+    "name": "La Famiglia  Garlic Bread | 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2681882.jpg&w=640&q=90",
+    "source_id": "2681882",
+    "barcode": "9317755001505",
+    "shop": "coles",
+    "category_id": "22142",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "206",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/520533/la-famiglia-garlic-bread-just-for-2",
+    "name": "La Famiglia Garlic Bread Just For 2 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/520533.jpg",
+    "source_id": "520533",
+    "barcode": "9317755001505",
+    "shop": "Woolworths",
+    "category_id": "22142",
+    "weight": "170G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "206",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/la-famiglia-bread-slices-garlic-9-pack-270g-9435160",
+    "name": "La Famiglia Bread Slices Garlic 9 Pack | 270g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9435160.jpg&w=640&q=90",
+    "source_id": "9435160",
+    "barcode": "9317755000232",
+    "shop": "coles",
+    "category_id": "22142",
+    "weight": "270g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "241",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/184335/la-famiglia-garlic-bread-slices",
+    "name": "La Famiglia Garlic Bread Slices 270g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/184335.jpg",
+    "source_id": "184335",
+    "barcode": "9317755000232",
+    "shop": "Woolworths",
+    "category_id": "22142",
+    "weight": "270G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "148",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/la-famiglia-stone-baked-sourdough-garlic-bread-480g-9017115",
+    "name": "La Famiglia Stone Baked Sourdough Garlic Bread | 480g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9017115.jpg&w=640&q=90",
+    "source_id": "9017115",
+    "barcode": "9317755001253",
+    "shop": "coles",
+    "category_id": "22142",
+    "weight": "480g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "115",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/717519/la-famiglia-garlic-bread-sourdough",
+    "name": "La Famiglia Garlic Bread Sourdough 480g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/717519.jpg",
+    "source_id": "717519",
+    "barcode": "9317755001253",
+    "shop": "Woolworths",
+    "category_id": "22142",
+    "weight": "480G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "167",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/supreme-plain-roti-4-pack-500g-8227892",
+    "name": "Supreme Plain Roti 4 pack | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8227892.jpg&w=640&q=90",
+    "source_id": "8227892",
+    "barcode": "9313025000438",
+    "shop": "coles",
+    "category_id": "22142",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "760",
+        "price_per_unit": "152",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/104352/supreme-foods-roti-bread-canai-null",
+    "name": "Supreme Foods Roti Bread Canai 4 Pack 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/104352.jpg",
+    "source_id": "104352",
+    "barcode": "9313025000438",
+    "shop": "Woolworths",
+    "category_id": "22142",
+    "weight": "4 Pack 500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "670",
+        "price_per_unit": "134",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

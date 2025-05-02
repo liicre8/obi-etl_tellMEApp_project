@@ -1,0 +1,686 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/fantastic-hokkien-noodles-450g-8679624",
+    "name": "Fantastic Hokkien Noodles | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8679624.jpg&w=640&q=90",
+    "source_id": "8679624",
+    "barcode": "9310155561624",
+    "shop": "coles",
+    "category_id": "24040",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "265",
+        "price_per_unit": "59",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/145566/fantastic-fresh-noodles-hokkien",
+    "name": "Fantastic Fresh Noodles Hokkien 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/145566.jpg",
+    "source_id": "145566",
+    "barcode": "9310155561624",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "77",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/latina-fresh-beef-bolognese-pasta-sauce-425g-5220241",
+    "name": "Latina Fresh Beef Bolognese Pasta Sauce | 425g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5220241.jpg&w=640&q=90",
+    "source_id": "5220241",
+    "barcode": "9312353000752",
+    "shop": "coles",
+    "category_id": "24040",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "129",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/9741/latina-fresh-beef-bolognese-pasta-sauce-pasta-sauce",
+    "name": "Latina Fresh Beef Bolognese Pasta Sauce Pasta Sauce 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/009741.jpg",
+    "source_id": "9741",
+    "barcode": "9312353000752",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "176",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/latina-fresh-beef-ravioli-pasta-375g-5051858",
+    "name": "Latina Fresh Beef Ravioli Pasta | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5051858.jpg&w=640&q=90",
+    "source_id": "5051858",
+    "barcode": "93231251",
+    "shop": "coles",
+    "category_id": "24040",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "213",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/10634/latina-fresh-beef-ravioli-pasta",
+    "name": "Latina Fresh Beef Ravioli Pasta 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/010634.jpg",
+    "source_id": "10634",
+    "barcode": "93231251",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "213",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/latina-fresh-beef-ravioli-pasta-4-serve-625g-5404110",
+    "name": "Latina Fresh Beef Ravioli Pasta 4 Serve | 625g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5404110.jpg&w=640&q=90",
+    "source_id": "5404110",
+    "barcode": "9312353000875",
+    "shop": "coles",
+    "category_id": "24040",
+    "weight": "625g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "88",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/54267/latina-fresh-beef-ravioli-pasta-ravioli",
+    "name": "Latina Fresh Beef Ravioli Pasta Ravioli 625g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/054267.jpg",
+    "source_id": "54267",
+    "barcode": "9312353000875",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "625g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "176",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/latina-filled-pasta-chicken-tomato-and-mozzarella-4-serve-625g-7730930",
+    "name": "Latina Filled Pasta Chicken Tomato & Mozzarella 4 Serve | 625g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7730930.jpg&w=640&q=90",
+    "source_id": "7730930",
+    "barcode": "9312353007805",
+    "shop": "coles",
+    "category_id": "24040",
+    "weight": "625g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "88",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/882089/latina-fresh-chicken-tomato-mozzarella-agnolotti-family-pack",
+    "name": "Latina Fresh Chicken Tomato & Mozzarella Agnolotti Family Pack 625g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/882089.jpg",
+    "source_id": "882089",
+    "barcode": "9312353007805",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "625g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "176",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/latina-fresh-creamy-carbonara-pasta-sauce-425g-5404109",
+    "name": "Latina Fresh Creamy Carbonara Pasta Sauce | 425g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5404109.jpg&w=640&q=90",
+    "source_id": "5404109",
+    "barcode": "9312353000769",
+    "shop": "coles",
+    "category_id": "24040",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "129",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/42091/latina-fresh-creamy-carbonara-pasta-sauce-pasta-sauce",
+    "name": "Latina Fresh Creamy Carbonara Pasta Sauce Pasta Sauce 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/042091.jpg",
+    "source_id": "42091",
+    "barcode": "9312353000769",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "176",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/latina-fresh-creamy-sun-dried-tomato-pasta-sauce-425g-6026890",
+    "name": "Latina Fresh Creamy Sun-Dried Tomato Pasta Sauce | 425g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6026890.jpg&w=640&q=90",
+    "source_id": "6026890",
+    "barcode": "9312353002800",
+    "shop": "coles",
+    "category_id": "24040",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "129",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/14894/latina-fresh-creamy-sun-dried-tomato-pasta-sauce",
+    "name": "Latina Fresh Creamy Sun-Dried Tomato Pasta Sauce 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/014894.jpg",
+    "source_id": "14894",
+    "barcode": "9312353002800",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "176",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/latina-fresh-egg-fettuccine-pasta-375g-5051790",
+    "name": "Latina Fresh Egg Fettuccine Pasta | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5051790.jpg&w=640&q=90",
+    "source_id": "5051790",
+    "barcode": "93231213",
+    "shop": "coles",
+    "category_id": "24040",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "160",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/22081/latina-fresh-egg-fettuccine-pasta",
+    "name": "Latina Fresh Egg Fettuccine Pasta 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/022081.jpg",
+    "source_id": "22081",
+    "barcode": "93231213",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "144",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/latina-fresh-gluten-free-beef-ravioli-pasta-280g-2271450",
+    "name": "Latina Fresh Gluten Free Beef Ravioli Pasta | 280g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2271450.jpg&w=640&q=90",
+    "source_id": "2271450",
+    "barcode": "9312353006143",
+    "shop": "coles",
+    "category_id": "24040",
+    "weight": "280g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "875",
+        "price_per_unit": "313",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/845631/latina-fresh-gluten-free-beef-ravioli-pasta",
+    "name": "Latina Fresh Gluten Free Beef Ravioli Pasta 280g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/845631.jpg",
+    "source_id": "845631",
+    "barcode": "9312353006143",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "280g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "875",
+        "price_per_unit": "313",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/latina-gluten-free-tagliatelle-280g-5153202",
+    "name": "Latina Gluten Free Tagliatelle | 280g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5153202.jpg&w=640&q=90",
+    "source_id": "5153202",
+    "barcode": "9312353007645",
+    "shop": "coles",
+    "category_id": "24040",
+    "weight": "280g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "875",
+        "price_per_unit": "313",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/214982/latina-fresh-gluten-free-tagliatelle-pasta",
+    "name": "Latina Fresh Gluten Free Tagliatelle Pasta 280g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/214982.jpg",
+    "source_id": "214982",
+    "barcode": "9312353007645",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "280g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "875",
+        "price_per_unit": "313",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/latina-fresh-kids-mini-ravioli-pasta-beef-and-vegetable-200g-6393915",
+    "name": "Latina Fresh Kids Mini Ravioli Pasta Beef & Vegetable | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6393915.jpg&w=640&q=90",
+    "source_id": "6393915",
+    "barcode": "9312353004897",
+    "shop": "coles",
+    "category_id": "24040",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/304116/latina-fresh-kids-mini-ravioli-pasta-beef-vegetable",
+    "name": "Latina Fresh Kids Mini Ravioli Pasta Beef & Vegetable 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/304116.jpg",
+    "source_id": "304116",
+    "barcode": "9312353004897",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/latina-fresh-kids-mini-ravioli-pasta-cheese-and-vegetable-200g-6393926",
+    "name": "Latina Fresh Kids Mini Ravioli Pasta Cheese & Vegetable | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6393926.jpg&w=640&q=90",
+    "source_id": "6393926",
+    "barcode": "9312353004880",
+    "shop": "coles",
+    "category_id": "24040",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/304103/latina-fresh-kids-mini-ravioli-pasta-cheese-vegetable",
+    "name": "Latina Fresh Kids Mini Ravioli Pasta Cheese & Vegetable 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/304103.jpg",
+    "source_id": "304103",
+    "barcode": "9312353004880",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "240",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/latina-fresh-lasagne-sheets-8-pack-375g-5165427",
+    "name": "Latina Fresh Lasagne Sheets 8 Pack | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5165427.jpg&w=640&q=90",
+    "source_id": "5165427",
+    "barcode": "9312353000035",
+    "shop": "coles",
+    "category_id": "24040",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "160",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/5033/latina-fresh-lasagne-sheets-sheets",
+    "name": "Latina Fresh Lasagne Sheets Sheets 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/005033.jpg",
+    "source_id": "5033",
+    "barcode": "9312353000035",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "144",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/latina-protein-pasta-chicken-and-pesto-400g-7729986",
+    "name": "Latina Protein Pasta Chicken & Pesto | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7729986.jpg&w=640&q=90",
+    "source_id": "7729986",
+    "barcode": "9312353007782",
+    "shop": "coles",
+    "category_id": "24040",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "225",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/882501/latina-fresh-protein-pasta-chicken-pesto-ravioli",
+    "name": "Latina Fresh PROTEIN Pasta Chicken & Pesto Ravioli 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/882501.jpg",
+    "source_id": "882501",
+    "barcode": "9312353007782",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/latina-fresh-spinach-and-ricotta-agnolotti-pasta-375g-5280232",
+    "name": "Latina Fresh Spinach & Ricotta Agnolotti Pasta | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5280232.jpg&w=640&q=90",
+    "source_id": "5280232",
+    "barcode": "9312353000950",
+    "shop": "coles",
+    "category_id": "24040",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "213",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/42092/latina-fresh-ricotta-spinach-agnolotti-pasta",
+    "name": "Latina Fresh Ricotta & Spinach Agnolotti Pasta 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/042092.jpg",
+    "source_id": "42092",
+    "barcode": "9312353000950",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "213",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/latina-fresh-roast-chicken-and-garlic-ravioli-pasta-4-serve-625g-7294409",
+    "name": "Latina Fresh Roast Chicken & Garlic Ravioli Pasta 4 Serve | 625g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7294409.jpg&w=640&q=90",
+    "source_id": "7294409",
+    "barcode": "9312353004989",
+    "shop": "coles",
+    "category_id": "24040",
+    "weight": "625g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "88",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/335534/latina-fresh-roast-chicken-garlic-ravioli-pasta",
+    "name": "Latina Fresh Roast Chicken & Garlic Ravioli Pasta 625g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/335534.jpg",
+    "source_id": "335534",
+    "barcode": "9312353004989",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "625g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "176",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/latina-fresh-veal-tortellini-pasta-4-serve-625g-5404131",
+    "name": "Latina Fresh Veal Tortellini Pasta 4 Serve | 625g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5404131.jpg&w=640&q=90",
+    "source_id": "5404131",
+    "barcode": "9312353000899",
+    "shop": "coles",
+    "category_id": "24040",
+    "weight": "625g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "88",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/54264/latina-fresh-veal-tortellini-pasta",
+    "name": "Latina Fresh Veal Tortellini Pasta 625g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/054264.jpg",
+    "source_id": "54264",
+    "barcode": "9312353000899",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "625g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "176",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-pasta-spinach-ricotta-agnolotti-600g-9059421",
+    "name": "Fresh Pasta Spinach Ricotta Agnolotti | 600g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9059421.jpg&w=640&q=90",
+    "source_id": "9059421",
+    "barcode": "9356335001504",
+    "shop": "coles",
+    "category_id": "24040",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/844412/leggo-s-fresh-ricotta-spinach-agnolotti",
+    "name": "Leggo's Fresh Ricotta & Spinach Agnolotti 630g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/844412.jpg",
+    "source_id": "844412",
+    "barcode": "9356335001504",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "630g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "127",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/rana-pumpkin-and-caramelised-onion-ravioli-325g-3091148",
+    "name": "Rana Pumpkin & Caramelised Onion Ravioli | 325g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3091148.jpg&w=640&q=90",
+    "source_id": "3091148",
+    "barcode": "8001665705257",
+    "shop": "coles",
+    "category_id": "24040",
+    "weight": "325g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "246",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/810775/rana-pumpkin-onion-ravioli-pasta",
+    "name": "Rana Pumpkin & Onion Ravioli Pasta 325g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/810775.jpg",
+    "source_id": "810775",
+    "barcode": "8001665705257",
+    "shop": "Woolworths",
+    "category_id": "24040",
+    "weight": "325G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "246",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

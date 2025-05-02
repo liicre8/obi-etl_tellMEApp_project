@@ -1,0 +1,356 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/112533/fresh-rockmelon-half",
+    "name": "Fresh Rockmelon Half Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/112533.jpg",
+    "source_id": "112533",
+    "barcode": "0266962000001",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22359",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "345",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "345",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "345",
+        "price_per_unit": "345",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "345",
+        "price_per_unit": "345",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "295",
+        "price_per_unit": "295",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "345",
+        "price_per_unit": "345",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "295",
+        "price_per_unit": "295",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "345",
+        "price_per_unit": "345",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "345",
+        "price_per_unit": "345",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/139806/fresh-rockmelon-whole",
+    "name": "Fresh Rockmelon Whole Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/139806.jpg",
+    "source_id": "139806",
+    "barcode": "0264050000001",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22359",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/139765/honeydew-fresh",
+    "name": "Honeydew Fresh Whole Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/139765.jpg",
+    "source_id": "139765",
+    "barcode": "0264034000003",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22359",
+    "shop": "Woolworths",
+    "weight": "Whole Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "790",
+        "price_per_unit": "790",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/113616/honeydew-large",
+    "name": "Honeydew Large Half Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/113616.jpg",
+    "source_id": "113616",
+    "barcode": "0266963000000",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22359",
+    "shop": "Woolworths",
+    "weight": "Half Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "345",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "345",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "345",
+        "price_per_unit": "345",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "345",
+        "price_per_unit": "345",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "395",
+        "price_per_unit": "395",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "345",
+        "price_per_unit": "345",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "345",
+        "price_per_unit": "345",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "345",
+        "price_per_unit": "345",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "345",
+        "price_per_unit": "345",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/120384/woolworths-red-watermelon-cut-quarter",
+    "name": "Woolworths Red Watermelon Cut Quarter Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/120384.jpg",
+    "source_id": "120384",
+    "barcode": "0265930000005",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22359",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "770",
+        "price_per_unit": "770",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NSW",
+        "price": "770",
+        "price_per_unit": "770",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "770",
+        "price_per_unit": "770",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "858",
+        "price_per_unit": "858",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "770",
+        "price_per_unit": "770",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "770",
+        "price_per_unit": "770",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "770",
+        "price_per_unit": "770",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/696428/melon-orange-candy",
+    "name": "Melon Orange Candy Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/696428.jpg",
+    "source_id": "696428",
+    "barcode": "0269939000004",
+    "category_id": "22351",
+    "subcategory_id": "22352",
+    "subsubcategory_id": "22359",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "790",
+        "price_per_unit": "790",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

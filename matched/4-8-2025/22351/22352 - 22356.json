@@ -1,0 +1,824 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-medium-lemons-5-pack-1-each-409728",
+    "name": "Coles Medium Lemons 5 Pack | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F409728.jpg&w=640&q=90",
+    "source_id": "409728",
+    "barcode": "9339687382125",
+    "shop": "coles",
+    "category_id": "22356",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "98",
+        "price_unit": "each"
+      },
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "98",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "98",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "110",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "490",
+        "price_per_unit": "98",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "98",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "98",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "98",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/693501/lemon-lemon",
+    "name": "Lemon 500g Per Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/693501.jpg",
+    "source_id": "693501",
+    "barcode": "9339687382125",
+    "shop": "Woolworths",
+    "category_id": "22356",
+    "weight": "500G Per Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-medium-lemons-1-each-5318302",
+    "name": "Coles Medium Lemons | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5318302.jpg&w=640&q=90",
+    "source_id": "5318302",
+    "barcode": "0266462000006",
+    "shop": "coles",
+    "category_id": "22356",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "each"
+      },
+      {
+        "state": "VIC",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/259514/lemon-fresh",
+    "name": "Lemon Fresh Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/259514.jpg",
+    "source_id": "259514",
+    "barcode": "0266462000006",
+    "shop": "Woolworths",
+    "category_id": "22356",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "138",
+        "price_per_unit": "138",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "121",
+        "price_per_unit": "121",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-limes-medium-loose-1-each-197594",
+    "name": "Coles Limes Medium Loose | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F197594.jpg&w=640&q=90",
+    "source_id": "197594",
+    "barcode": "0264048000006",
+    "shop": "coles",
+    "category_id": "22356",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "150",
+        "price_unit": "each"
+      },
+      {
+        "state": "VIC",
+        "price": "150",
+        "price_per_unit": "150",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "150",
+        "price_per_unit": "150",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "150",
+        "price_per_unit": "150",
+        "price_unit": "each"
+      },
+      {
+        "state": "SA",
+        "price": "150",
+        "price_per_unit": "150",
+        "price_unit": "each"
+      },
+      {
+        "state": "TAS",
+        "price": "150",
+        "price_per_unit": "150",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "150",
+        "price_per_unit": "150",
+        "price_unit": "each"
+      },
+      {
+        "state": "NT",
+        "price": "150",
+        "price_per_unit": "150",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/245902/lime-fresh",
+    "name": "Lime Fresh Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/245902.jpg",
+    "source_id": "245902",
+    "barcode": "0264048000006",
+    "shop": "Woolworths",
+    "category_id": "22356",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "125",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-medium-navel-oranges-approx.-250g-4255717",
+    "name": "Coles Medium Navel Oranges | approx. 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4255717.jpg&w=640&q=90",
+    "source_id": "4255717",
+    "barcode": "0264012000001",
+    "shop": "coles",
+    "category_id": "22356",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "173",
+        "price_per_unit": "690",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "198",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "173",
+        "price_per_unit": "690",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "173",
+        "price_per_unit": "690",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "188",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "173",
+        "price_per_unit": "690",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/149885/orange-navel",
+    "name": "Orange Navel Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/149885.jpg",
+    "source_id": "149885",
+    "barcode": "0264012000001",
+    "shop": "Woolworths",
+    "category_id": "22356",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "214",
+        "price_per_unit": "214",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "214",
+        "price_per_unit": "214",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "214",
+        "price_per_unit": "214",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "214",
+        "price_per_unit": "214",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "178",
+        "price_per_unit": "178",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "214",
+        "price_per_unit": "214",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "214",
+        "price_per_unit": "214",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "214",
+        "price_per_unit": "214",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-valencia-oranges-medium-approx.-210g-409830",
+    "name": "Coles Valencia Oranges Medium | approx. 210g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F409830.jpg&w=640&q=90",
+    "source_id": "409830",
+    "barcode": "0263108000000",
+    "shop": "coles",
+    "category_id": "22356",
+    "weight": "210g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "94",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "94",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "94",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "103",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "94",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "94",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "94",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "94",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/144708/orange-valencia",
+    "name": "Orange Valencia Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/144708.jpg",
+    "source_id": "144708",
+    "barcode": "0263108000000",
+    "shop": "Woolworths",
+    "category_id": "22356",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "59",
+        "price_per_unit": "59",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "59",
+        "price_per_unit": "59",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "59",
+        "price_per_unit": "59",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "59",
+        "price_per_unit": "59",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "59",
+        "price_per_unit": "59",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "59",
+        "price_per_unit": "59",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "59",
+        "price_per_unit": "59",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-i'm-perfect-lemons-prepacked-1kg-3586912",
+    "name": "Coles I'M Perfect Lemons Prepacked | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3586912.jpg&w=640&q=90",
+    "source_id": "3586912",
+    "barcode": "9300633741563",
+    "shop": "coles",
+    "category_id": "22356",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "kg"
+      },
+      {
+        "state": "VIC",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "kg"
+      },
+      {
+        "state": "NT",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/830353/the-odd-bunch-lemon-prepacked",
+    "name": "The Odd Bunch Lemon Prepacked 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/830353.jpg",
+    "source_id": "830353",
+    "barcode": "9300633741563",
+    "shop": "Woolworths",
+    "category_id": "22356",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "270",
+        "price_per_unit": "540",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "270",
+        "price_per_unit": "540",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "310",
+        "price_per_unit": "620",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-i'm-perfect-limes-prepacked-500g-5208450",
+    "name": "Coles I'M Perfect Limes Prepacked | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5208450.jpg&w=640&q=90",
+    "source_id": "5208450",
+    "barcode": "9300633741457",
+    "shop": "coles",
+    "category_id": "22356",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "1180",
+        "price_unit": "g"
+      },
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "1180",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "590",
+        "price_per_unit": "1180",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "590",
+        "price_per_unit": "1180",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "590",
+        "price_per_unit": "1180",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "590",
+        "price_per_unit": "1180",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/830354/the-odd-bunch-lime-prepacked",
+    "name": "The Odd Bunch Lime Prepacked 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/830354.jpg",
+    "source_id": "830354",
+    "barcode": "9300633741457",
+    "shop": "Woolworths",
+    "category_id": "22356",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

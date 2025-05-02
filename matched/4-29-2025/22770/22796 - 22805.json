@@ -1,0 +1,146 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/ardmona-crushed-tomatoes-410g-4687074",
+    "name": "Ardmona Crushed Tomatoes | 410g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4687074.jpg&w=640&q=90",
+    "source_id": "4687074",
+    "barcode": "9310092000583",
+    "shop": "coles",
+    "category_id": "22805",
+    "weight": "410g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "512",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230392/ardmona-crushed-vine-ripened-tomatoes",
+    "name": "Ardmona Crushed Vine Ripened Tomatoes 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/230392.jpg",
+    "source_id": "230392",
+    "barcode": "9310092000583",
+    "shop": "Woolworths",
+    "category_id": "22805",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "140",
+        "price_per_unit": "341",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ardmona-crushed-tomatoes-810g-6393868",
+    "name": "Ardmona Crushed Tomatoes | 810g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6393868.jpg&w=640&q=90",
+    "source_id": "6393868",
+    "barcode": "9310092228628",
+    "shop": "coles",
+    "category_id": "22805",
+    "weight": "810g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "481",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/77884/ardmona-crushed-vine-ripened-tomatoes",
+    "name": "Ardmona Crushed Vine Ripened Tomatoes 810g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/077884.jpg",
+    "source_id": "77884",
+    "barcode": "9310092228628",
+    "shop": "Woolworths",
+    "category_id": "22805",
+    "weight": "810g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "481",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ardmona-diced-tomatoes-400g-4558967",
+    "name": "Ardmona Diced Tomatoes | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4558967.jpg&w=640&q=90",
+    "source_id": "4558967",
+    "barcode": "9310092000569",
+    "shop": "coles",
+    "category_id": "22805",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "525",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/226849/ardmona-diced-vine-ripened-tomatoes",
+    "name": "Ardmona Diced Vine Ripened Tomatoes 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/226849.jpg",
+    "source_id": "226849",
+    "barcode": "9310092000569",
+    "shop": "Woolworths",
+    "category_id": "22805",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "140",
+        "price_per_unit": "350",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ardmona-classic-rich-and-thick-tomatoes-410g-4515749",
+    "name": "Ardmona Classic Rich & Thick Tomatoes | 410g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4515749.jpg&w=640&q=90",
+    "source_id": "4515749",
+    "barcode": "9310092000521",
+    "shop": "coles",
+    "category_id": "22805",
+    "weight": "410g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "610",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230649/ardmona-rich-thick-diced-tomatoes-with-paste-classic",
+    "name": "Ardmona Rich & Thick Diced Tomatoes With Paste Classic 410g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/230649.jpg",
+    "source_id": "230649",
+    "barcode": "9310092000521",
+    "shop": "Woolworths",
+    "category_id": "22805",
+    "weight": "410g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "610",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

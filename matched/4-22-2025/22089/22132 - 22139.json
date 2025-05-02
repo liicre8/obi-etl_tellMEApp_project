@@ -1,0 +1,866 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/a2-lactose-free-full-cream-milk-1l-5593191",
+    "name": "A2 Lactose Free Full Cream Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5593191.jpg&w=640&q=90",
+    "source_id": "5593191",
+    "barcode": "9335390002237",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/248009/a2-milk-full-cream-milk-lactose-free",
+    "name": "A2 Milk Full Cream Milk Lactose Free 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/248009.jpg",
+    "source_id": "248009",
+    "barcode": "9335390002237",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/a2-lactose-free-full-cream-milk-2l-5458210",
+    "name": "A2 Lactose Free Full Cream Milk | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5458210.jpg&w=640&q=90",
+    "source_id": "5458210",
+    "barcode": "9335390002244",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/239521/a2-milk-lactose-free-full-cream-milk",
+    "name": "A2 Milk Lactose Free Full Cream Milk 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/239521.jpg",
+    "source_id": "239521",
+    "barcode": "9335390002244",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "345",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/australia's-own-unsweetened-organic-almond-milk-1l-2412370",
+    "name": "Australia's Own Unsweetened Organic Almond Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2412370.jpg&w=640&q=90",
+    "source_id": "2412370",
+    "barcode": "9315090202359",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "310",
+        "price_per_unit": "310",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/924245/australia-s-own-unsweetened-almond-milk",
+    "name": "Australia's Own Unsweetened Almond Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/924245.jpg",
+    "source_id": "924245",
+    "barcode": "9315090202359",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "230",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/australia's-own-unsweetened-organic-coconut-milk-1l-3019210",
+    "name": "Australia's Own Unsweetened Organic Coconut Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3019210.jpg&w=640&q=90",
+    "source_id": "3019210",
+    "barcode": "9315090204483",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/575869/australia-s-own-unsweetened-coconut-milk",
+    "name": "Australia's Own Unsweetened Coconut Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/575869.jpg",
+    "source_id": "575869",
+    "barcode": "9315090204483",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "235",
+        "price_per_unit": "235",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bonsoy-almond-milk-1l-3740660",
+    "name": "Bonsoy Almond Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3740660.jpg&w=640&q=90",
+    "source_id": "3740660",
+    "barcode": "9312336049402",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85169/bonsoy-almond-milk",
+    "name": "Bonsoy Almond Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085169.jpg",
+    "source_id": "85169",
+    "barcode": "9312336049402",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "475",
+        "price_per_unit": "475",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/inside-out-unsweetened-almond-milk-1l-3269691",
+    "name": "Inside Out Unsweetened Almond Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3269691.jpg&w=640&q=90",
+    "source_id": "3269691",
+    "barcode": "9369999803025",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/797060/inside-out-almond-milk-unsweetened",
+    "name": "Inside Out Almond Milk Unsweetened 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/797060.jpg",
+    "source_id": "797060",
+    "barcode": "9369999803025",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pauls-smarter-white-milk-2percent-fat-full-cream-taste-2l-9411784",
+    "name": "Pauls Smarter White Milk 2% Fat Full Cream Taste | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9411784.jpg&w=640&q=90",
+    "source_id": "9411784",
+    "barcode": "9310036039488",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/204746/pauls-smarter-white-low-fat-milk",
+    "name": "Pauls Smarter White Low Fat Milk 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/204746.jpg",
+    "source_id": "204746",
+    "barcode": "9310036039488",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-so-good-almond-barista-uht-milk-1l-5318969",
+    "name": "Sanitarium So Good Almond Barista Uht Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5318969.jpg&w=640&q=90",
+    "source_id": "5318969",
+    "barcode": "9300652808834",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83836/sanitarium-so-good-barista-edition-almond-milk",
+    "name": "Sanitarium So Good Barista Edition Almond Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/083836.jpg",
+    "source_id": "83836",
+    "barcode": "9300652808834",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-so-good-long-life-original-almond-milk-1l-9089036",
+    "name": "Sanitarium So Good Long Life Original Almond Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9089036.jpg&w=640&q=90",
+    "source_id": "9089036",
+    "barcode": "9300652803020",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/710014/sanitarium-so-good-long-life-original-almond-milk",
+    "name": "Sanitarium So Good Long Life Original Almond Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/710014.jpg",
+    "source_id": "710014",
+    "barcode": "9300652803020",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-so-good-long-life-unsweetened-almond-and-coconut-milk-1l-1987118",
+    "name": "Sanitarium So Good Long Life Unsweetened Almond & Coconut Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1987118.jpg&w=640&q=90",
+    "source_id": "1987118",
+    "barcode": "9300652804973",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/793384/sanitarium-so-good-long-life-unsweetened-almond-coconut-milk",
+    "name": "Sanitarium So Good Long Life Unsweetened Almond Coconut Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/793384.jpg",
+    "source_id": "793384",
+    "barcode": "9300652804973",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-so-good-long-life-unsweetened-almond-milk-1l-1260754",
+    "name": "Sanitarium So Good Long Life Unsweetened Almond Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1260754.jpg&w=640&q=90",
+    "source_id": "1260754",
+    "barcode": "9300652803495",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/744490/sanitarium-so-good-long-life-unsweetened-almond-milk",
+    "name": "Sanitarium So Good Long Life Unsweetened Almond Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/744490.jpg",
+    "source_id": "744490",
+    "barcode": "9300652803495",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-so-good-high-protein-almond-milk-1l-3782932",
+    "name": "Sanitarium So Good High Protein Almond Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3782932.jpg&w=640&q=90",
+    "source_id": "3782932",
+    "barcode": "9300652805949",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "340",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/171712/so-good-high-protein-almond",
+    "name": "So Good High Protein Almond 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/171712.jpg",
+    "source_id": "171712",
+    "barcode": "9300652805949",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "340",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-so-good-high-protein-oat-milk-1l-9269093",
+    "name": "Sanitarium So Good High Protein Oat Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9269093.jpg&w=640&q=90",
+    "source_id": "9269093",
+    "barcode": "9300652815573",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "340",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/79407/so-good-high-protein-oat-milk",
+    "name": "So Good High Protein Oat Milk 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/079407.jpg",
+    "source_id": "79407",
+    "barcode": "9300652815573",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "340",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/the-complete-dairy-high-protein-full-cream-milk-1l-2589981",
+    "name": "The Complete Dairy High Protein Full Cream Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2589981.jpg&w=640&q=90",
+    "source_id": "2589981",
+    "barcode": "9310232956589",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/407509/the-complete-dairy-full-cream-milk",
+    "name": "The Complete Dairy Full Cream Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/407509.jpg",
+    "source_id": "407509",
+    "barcode": "9310232956589",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "360",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vitasoy-unsweetened-almond-uht-milk-1l-1l-2412734",
+    "name": "Vitasoy Unsweetened Almond UHT Milk 1L | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2412734.jpg&w=640&q=90",
+    "source_id": "2412734",
+    "barcode": "9341650000899",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "330",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/926885/vitasoy-almond-milk-unsweetened",
+    "name": "Vitasoy Almond Milk Unsweetened 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/926885.jpg",
+    "source_id": "926885",
+    "barcode": "9341650000899",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vitasoy-almond-milky-1l-3019027",
+    "name": "Vitasoy Almond Milky | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3019027.jpg&w=640&q=90",
+    "source_id": "3019027",
+    "barcode": "9341650000448",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/660390/vitasoy-almond-milky",
+    "name": "Vitasoy Almond Milky 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/660390.jpg",
+    "source_id": "660390",
+    "barcode": "9341650000448",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vitasoy-almond-milky-low-sugar-1l-5638700",
+    "name": "Vitasoy Almond Milky Low Sugar | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5638700.jpg&w=640&q=90",
+    "source_id": "5638700",
+    "barcode": "9341650001568",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "310",
+        "price_per_unit": "310",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/155694/vitasoy-almond-milky",
+    "name": "Vitasoy Almond Milky 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/155694.jpg",
+    "source_id": "155694",
+    "barcode": "9341650001568",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "310",
+        "price_per_unit": "310",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vitasoy-soy-milk-calci-plus-1l-9067496",
+    "name": "Vitasoy Soy Milk Calci-Plus | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9067496.jpg&w=640&q=90",
+    "source_id": "9067496",
+    "barcode": "9341650001773",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "270",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/153587/vitasoy-calci-plus-soy-milk",
+    "name": "Vitasoy Calci Plus Soy Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/153587.jpg",
+    "source_id": "153587",
+    "barcode": "9341650001773",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "235",
+        "price_per_unit": "235",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vitasoy-rice-milk-unsweetened-chilled-1l-6380811",
+    "name": "Vitasoy Rice Milk Unsweetened Chilled | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6380811.jpg&w=640&q=90",
+    "source_id": "6380811",
+    "barcode": "9341650001797",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/306053/vitasoy-calcium-enriched-rice-milk",
+    "name": "Vitasoy Calcium Enriched Rice Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/306053.jpg",
+    "source_id": "306053",
+    "barcode": "9341650001797",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "230",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vitasoy-soy-milky-regular-chilled-1l-5111880",
+    "name": "Vitasoy Soy Milky Regular Chilled | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5111880.jpg&w=640&q=90",
+    "source_id": "5111880",
+    "barcode": "9341650001766",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "225",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/216825/vitasoy-so-milky-soy-milk",
+    "name": "Vitasoy So Milky Soy Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/216825.jpg",
+    "source_id": "216825",
+    "barcode": "9341650001766",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-lactose-free-full-cream-milk-1l-2635444",
+    "name": "Coles Lactose Free Full Cream Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2635444.jpg&w=640&q=90",
+    "source_id": "2635444",
+    "barcode": "9339687019380",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "310",
+        "price_per_unit": "310",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/665750/woolworths-free-from-lactose-free-full-cream-milk",
+    "name": "Woolworths Free From Lactose Free Full Cream Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/665750.jpg",
+    "source_id": "665750",
+    "barcode": "9339687019380",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "310",
+        "price_per_unit": "310",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/yakult-fermented-light-probiotic-milk-5-pack-65ml-5543105",
+    "name": "Yakult Fermented Light Probiotic Milk 5 Pack | 65mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5543105.jpg&w=640&q=90",
+    "source_id": "5543105",
+    "barcode": "9317557000027",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "65ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1231",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/256106/yakult-probiotic-drink-light",
+    "name": "Yakult Probiotic Drink Light 5x65ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/256106.jpg",
+    "source_id": "256106",
+    "barcode": "9317557000027",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "5x65mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "515",
+        "price_per_unit": "1585",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-almond-milk-unsweetened-1l-1852210",
+    "name": "Coles Almond Milk Unsweetened | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1852210.jpg&w=640&q=90",
+    "source_id": "1852210",
+    "barcode": "9300633473686",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/779134/woolworths-unsweetened-almond-milk",
+    "name": "Woolworths Unsweetened Almond Milk 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/779134.jpg",
+    "source_id": "779134",
+    "barcode": "9300633473686",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/milklab-almond-milk-1l-7497814",
+    "name": "Milklab Almond Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7497814.jpg&w=640&q=90",
+    "source_id": "7497814",
+    "barcode": "9315090215021",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/895609/milklab-almond-milk-home-barista-edition",
+    "name": "MILKLAB Almond Milk Home Barista Edition 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/895609.jpg",
+    "source_id": "895609",
+    "barcode": "9315090215021",
+    "shop": "Woolworths",
+    "category_id": "22139",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "550",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/brooke-bond-red-label-black-leaf-tea-900g-20-pack-1872740",
+    "name": "Brooke Bond Red Label Black Leaf Tea 900g | 20 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1872740.jpg&w=640&q=90",
+    "source_id": "1872740",
+    "barcode": "8901030083044",
+    "shop": "coles",
+    "category_id": "22851",
+    "weight": "20pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "70",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/431071/brooke-bond-red-label-black-leaf-tea",
+    "name": "Brooke Bond Red Label Black Leaf Tea 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/431071.jpg",
+    "source_id": "431071",
+    "barcode": "8901030083044",
+    "shop": "Woolworths",
+    "category_id": "22851",
+    "weight": "900G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "156",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

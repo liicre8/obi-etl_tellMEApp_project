@@ -1,0 +1,80 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544364/annabel-karmel-little-meals-bolognese-pasta-bake",
+    "name": "Annabel Karmel Little Meals Bolognese Pasta Bake 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/544364.jpg",
+    "source_id": "544364",
+    "barcode": "9310761715923",
+    "category_id": "22280",
+    "subcategory_id": "22299",
+    "subsubcategory_id": "23989",
+    "shop": "Woolworths",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "215",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "215",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/545704/coco-lucas-butter-chicken-jasmine-rice-frozen-meal",
+    "name": "Coco & Lucas' Butter Chicken & Jasmine Rice Frozen Meal 220g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/545704.jpg",
+    "source_id": "545704",
+    "barcode": "9350327000193",
+    "category_id": "22280",
+    "subcategory_id": "22299",
+    "subsubcategory_id": "23989",
+    "shop": "Woolworths",
+    "weight": "220G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "195",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "195",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/545667/coco-lucas-spaghetti-bolognese-frozen-meal",
+    "name": "Coco & Lucas' Spaghetti Bolognese Frozen Meal 220g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/545667.jpg",
+    "source_id": "545667",
+    "barcode": "9350327000223",
+    "category_id": "22280",
+    "subcategory_id": "22299",
+    "subsubcategory_id": "23989",
+    "shop": "Woolworths",
+    "weight": "220G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "195",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "195",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

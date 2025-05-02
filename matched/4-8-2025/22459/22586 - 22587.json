@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/aerogard-home-multi-insect-killer-300ml-6846995",
+    "name": "Aerogard Home Multi Insect Killer | 300mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6846995.jpg&w=640&q=90",
+    "source_id": "6846995",
+    "barcode": "9300701630720",
+    "shop": "coles",
+    "category_id": "22587",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1120",
+        "price_per_unit": "373",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/386033/aerogard-home-multi-insect-killer-spray",
+    "name": "Aerogard Home Multi Insect Killer Spray 300ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/386033.jpg",
+    "source_id": "386033",
+    "barcode": "9300701630720",
+    "shop": "Woolworths",
+    "category_id": "22587",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1120",
+        "price_per_unit": "373",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/aerogard-crawling-insect-killer-300ml-7129887",
+    "name": "Aerogard Crawling Insect Killer | 300mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7129887.jpg&w=640&q=90",
+    "source_id": "7129887",
+    "barcode": "9300701630744",
+    "shop": "coles",
+    "category_id": "22587",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "467",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/385982/aerogard-home-crawling-insect-spray",
+    "name": "Aerogard Home Crawling-Insect Spray 300ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/385982.jpg",
+    "source_id": "385982",
+    "barcode": "9300701630744",
+    "shop": "Woolworths",
+    "category_id": "22587",
+    "weight": "300mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "467",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/asahi-0.0percent-bottle-330ml-6-pack-6402754",
+    "name": "Asahi 0.0% Bottle 330mL | 6 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6402754.jpg&w=640&q=90",
+    "source_id": "6402754",
+    "barcode": "8008440544001",
+    "shop": "coles",
+    "category_id": "22214",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "808",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/280437/asahi-super-dry-0-non-alcoholic-beer-glass-bottles-multipack",
+    "name": "Asahi Super Dry 0% Non Alcoholic Beer Glass Bottles Multipack 330ml x 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/280437.jpg",
+    "source_id": "280437",
+    "barcode": "8008440544001",
+    "shop": "Woolworths",
+    "category_id": "22214",
+    "weight": "330mL x 6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1595",
+        "price_per_unit": "806",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1404 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/764979/lamb-leg-roast",
+    "name": "Lamb Leg Roast 1.8kg - 2.8kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/764979.jpg",
+    "source_id": "764979",
+    "barcode": "9339687141869",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "1.8Kg - 2.8Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4200",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "4200",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "4200",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "4200",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "4200",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "4200",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "4200",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "4200",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/699933/woolworths-cook-butterflied-lamb-leg-with-honey-rosemary",
+    "name": "Woolworths Cook Butterflied Lamb Leg With Honey & Rosemary 400g - 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/699933.jpg",
+    "source_id": "699933",
+    "barcode": "9339687142491",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "400G - 900G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1710",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1710",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1710",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1710",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1710",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/337138/woolworths-cook-butterflied-lamb-shoulder-with-rosemary-mint",
+    "name": "Woolworths Cook Butterflied Lamb Shoulder With Rosemary & Mint 850g - 1.65kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/337138.jpg",
+    "source_id": "337138",
+    "barcode": "9300633157715",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "850G - 1.65Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3300",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3300",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3300",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3300",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83534/woolworths-cook-marinated-lamb-steaks-with-thyme-pepper-garlic",
+    "name": "Woolworths Cook Marinated Lamb Steaks With Thyme Pepper & Garlic 270g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/083534.jpg",
+    "source_id": "83534",
+    "barcode": "9339687161362",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "270G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "3148",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "3148",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "3148",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "3148",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "3148",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "3148",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "3148",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/483555/woolworths-cook-slow-cooked-roast-lamb-shoulder-garlic-rosemary",
+    "name": "Woolworths COOK Slow Cooked Roast Lamb Shoulder Garlic & Rosemary 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/483555.jpg",
+    "source_id": "483555",
+    "barcode": "9339687362042",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1550",
+        "price_per_unit": "2583",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1550",
+        "price_per_unit": "2583",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1550",
+        "price_per_unit": "2583",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1550",
+        "price_per_unit": "2583",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1550",
+        "price_per_unit": "2583",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1550",
+        "price_per_unit": "2583",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1550",
+        "price_per_unit": "2583",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/764994/woolworths-lamb-cutlets-4-7-pieces",
+    "name": "Woolworths Lamb Cutlets 4 - 7 Pieces 250g - 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/764994.jpg",
+    "source_id": "764994",
+    "barcode": "9339687141838",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "250g - 600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2700",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "2700",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2700",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2700",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2700",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/765046/woolworths-lamb-cutlets-6-10-pieces",
+    "name": "Woolworths Lamb Cutlets 6 - 10 Pieces 500g - 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/765046.jpg",
+    "source_id": "765046",
+    "barcode": "9339687141845",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "500g - 900g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4050",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "4050",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "4050",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "4050",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "4050",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "4050",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/200152/woolworths-lamb-easy-carve-leg-roast",
+    "name": "Woolworths Lamb Easy Carve Leg Roast 900g - 1.4kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/200152.jpg",
+    "source_id": "200152",
+    "barcode": "9339687296910",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "900g - 1.4kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3080",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "3080",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3080",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3080",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3080",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/764944/woolworths-lamb-extra-trim-cutlets-8-9-pieces",
+    "name": "Woolworths Lamb Extra Trim Cutlets 8-9 Pieces 250g - 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/764944.jpg",
+    "source_id": "764944",
+    "barcode": "9339687142477",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "250g - 600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3120",
+        "price_per_unit": "5200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "3120",
+        "price_per_unit": "5200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3120",
+        "price_per_unit": "5200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "3120",
+        "price_per_unit": "5200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3120",
+        "price_per_unit": "5200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/764848/woolworths-lamb-forequarter-chops-2-3-pieces",
+    "name": "Woolworths Lamb Forequarter Chops 2 - 3 Pieces 500g -750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/764848.jpg",
+    "source_id": "764848",
+    "barcode": "9339687141883",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "500g -750g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1500",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1500",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1500",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1500",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/764968/woolworths-lamb-leg-roast-half",
+    "name": "Woolworths Lamb Leg Roast Half 750g - 1.6kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/764968.jpg",
+    "source_id": "764968",
+    "barcode": "9339687141876",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "750g - 1.6kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "2400",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2400",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2400",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2400",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2400",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2400",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/675490/woolworths-lamb-leg-steak",
+    "name": "Woolworths Lamb Leg Steak 270g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/675490.jpg",
+    "source_id": "675490",
+    "barcode": "9339687029792",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "270G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/827609/woolworths-lamb-leg-steak",
+    "name": "Woolworths Lamb Leg Steak 540g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/827609.jpg",
+    "source_id": "827609",
+    "barcode": "9339687082148",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "540G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "2963",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "2963",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1600",
+        "price_per_unit": "2963",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1600",
+        "price_per_unit": "2963",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1600",
+        "price_per_unit": "2963",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1600",
+        "price_per_unit": "2963",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/764967/woolworths-lamb-midloins-3-6-pieces-6-8-pieces",
+    "name": "Woolworths Lamb Midloins 3 - 6 Pieces 450g - 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/764967.jpg",
+    "source_id": "764967",
+    "barcode": "9339687142415",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "450g - 800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1760",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1760",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1760",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1600",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1600",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/582607/woolworths-lamb-mince",
+    "name": "Woolworths Lamb Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/582607.jpg",
+    "source_id": "582607",
+    "barcode": "9300633637095",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/675643/woolworths-lamb-rump-steak-medium",
+    "name": "Woolworths Lamb Rump Steak Medium 400g - 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/675643.jpg",
+    "source_id": "675643",
+    "barcode": "9339687142064",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "400g - 600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1920",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1920",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1920",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1920",
+        "price_per_unit": "3200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/868940/woolworths-lamb-shanks",
+    "name": "Woolworths Lamb Shanks 500g - 950g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/868940.jpg",
+    "source_id": "868940",
+    "barcode": "9339687141920",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "500g - 950g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1045",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1045",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1045",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1045",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1045",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/727929/woolworths-lamb-shoulder-roast",
+    "name": "Woolworths Lamb Shoulder Roast 1.1kg - 1.7kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/727929.jpg",
+    "source_id": "727929",
+    "barcode": "9339687142453",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "1.1kg - 1.7kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2550",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2550",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2550",
+        "price_per_unit": "1500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/903733/fettayleh-foods-lamb-mince",
+    "name": "Fettayleh Foods Lamb Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/903733.jpg",
+    "source_id": "903733",
+    "barcode": "9346587073626",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "1700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/286301/macro-grass-fed-australian-lamb-cutlets",
+    "name": "Macro Grass Fed Australian Lamb Cutlets 200g-400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/286301.jpg",
+    "source_id": "286301",
+    "barcode": "9339687341368",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "200g-400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2240",
+        "price_per_unit": "5600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2240",
+        "price_per_unit": "5600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/288125/macro-grass-fed-australian-lamb-shoulder-rosemary-garlic",
+    "name": "Macro Grass Fed Australian Lamb Shoulder Rosemary & Garlic 400g-600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/288125.jpg",
+    "source_id": "288125",
+    "barcode": "9339687341405",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "400g-600g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1860",
+        "price_per_unit": "3100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1860",
+        "price_per_unit": "3100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1860",
+        "price_per_unit": "3100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1860",
+        "price_per_unit": "3100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/288123/macro-grass-fed-australian-lamb-trimmed-loin",
+    "name": "Macro Grass Fed Australian Lamb Trimmed Loin 180g - 320g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/288123.jpg",
+    "source_id": "288123",
+    "barcode": "9339687341382",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "180g - 320g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1728",
+        "price_per_unit": "5400",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/414998/macro-grass-fed-lamb-steaks-with-mint-garlic-butter",
+    "name": "Macro Grass Fed Lamb Steaks With Mint Garlic Butter 300g- 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/414998.jpg",
+    "source_id": "414998",
+    "barcode": "9339687360246",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "300g- 450g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1935",
+        "price_per_unit": "4300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1935",
+        "price_per_unit": "4300",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1935",
+        "price_per_unit": "4300",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/765062/woolworths-lamb-forequarter-chops-4-6-pieces",
+    "name": "Woolworths Lamb Forequarter Chops 4 - 6 Pieces 800g - 1.3kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/765062.jpg",
+    "source_id": "765062",
+    "barcode": "9339687141890",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "800g - 1.3kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2600",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2600",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2600",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2600",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2600",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2600",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/764868/woolworths-lamb-midloins-6-9-pieces-9-12-pieces",
+    "name": "Woolworths Lamb Midloins 6 - 9 Pieces 650g - 1.1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/764868.jpg",
+    "source_id": "764868",
+    "barcode": "9339687141906",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "650g - 1.1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2420",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2420",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "2420",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2200",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2200",
+        "price_per_unit": "2000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/765012/woolworths-lamb-offcut-4-6-pieces",
+    "name": "Woolworths Lamb Offcut 4-6 Pieces 650g - 1.2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/765012.jpg",
+    "source_id": "765012",
+    "barcode": "9339687141715",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "650g - 1.2Kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1080",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1080",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1080",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1080",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1080",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/251348/woolworths-lamb-strips-souvlaki-style",
+    "name": "Woolworths Lamb Strips Souvlaki Style 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/251348.jpg",
+    "source_id": "251348",
+    "barcode": "9339687316076",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/288124/macro-grass-fed-australian-lamb-mini-leg-roast",
+    "name": "Macro Grass Fed Australian Lamb Mini Leg Roast 400g-700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/288124.jpg",
+    "source_id": "288124",
+    "barcode": "9339687341399",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "400g-700g",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "2345",
+        "price_per_unit": "3350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2345",
+        "price_per_unit": "3350",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2345",
+        "price_per_unit": "3350",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/580986/woolworths-boneless-lamb-shoulder-rolled",
+    "name": "Woolworths Boneless Lamb Shoulder Rolled 1kg - 1.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/580986.jpg",
+    "source_id": "580986",
+    "barcode": "9339687141951",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "1kg - 1.5kg",
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "3150",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "3150",
+        "price_per_unit": "2100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/321141/woolworths-cook-butterflied-lamb-leg-with-garlic-herbs",
+    "name": "Woolworths Cook Butterflied Lamb Leg With Garlic & Herbs 750g - 1.4kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/321141.jpg",
+    "source_id": "321141",
+    "barcode": "9300633157692",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "750g - 1.4kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "2660",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2660",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2660",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2660",
+        "price_per_unit": "1900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83111/woolworths-cook-lamb-shanks-with-red-wine-rosemary",
+    "name": "Woolworths Cook Lamb Shanks With Red Wine & Rosemary 850g - 1.25kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/083111.jpg",
+    "source_id": "83111",
+    "barcode": "9339687359295",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "850G - 1.25Kg",
+    "prices": [
+      {
+        "state": "WA",
+        "price": "2000",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "2000",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2000",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "2000",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/757933/olga-s-fine-foods-lamb-yiros-traditional-recipe",
+    "name": "Olga's Fine Foods Lamb Yiros Traditional Recipe 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/757933.jpg",
+    "source_id": "757933",
+    "barcode": "9319139000425",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1300",
+        "price_per_unit": "2600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/221144/woolworths-lamb-offal-liver",
+    "name": "Woolworths Lamb Offal Liver 450g - 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/221144.jpg",
+    "source_id": "221144",
+    "barcode": "0230319000006",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "450g - 750g",
+    "prices": [
+      {
+        "state": "SA",
+        "price": "488",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/221145/lamb-offal-hearts",
+    "name": "Lamb Offal Hearts 400g - 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/221145.jpg",
+    "source_id": "221145",
+    "barcode": "0230469000000",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "400G - 700G",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "490",
+        "price_per_unit": "700",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/286300/macro-grass-fed-australian-lamb-mince",
+    "name": "Macro Grass Fed Australian Lamb Mince 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/286300.jpg",
+    "source_id": "286300",
+    "barcode": "9339687341351",
+    "category_id": "22713",
+    "subcategory_id": "22714",
+    "subsubcategory_id": "22719",
+    "shop": "Woolworths",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "TAS",
+        "price": "975",
+        "price_per_unit": "2167",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "975",
+        "price_per_unit": "2167",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

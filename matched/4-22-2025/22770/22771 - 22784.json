@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/lighthouse-yeast-+-bread-improver-70g-3767768",
+    "name": "Lighthouse Yeast + Bread Improver | 70g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3767768.jpg&w=640&q=90",
+    "source_id": "3767768",
+    "barcode": "9300609107577",
+    "shop": "coles",
+    "category_id": "22784",
+    "weight": "70g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "620",
+        "price_per_unit": "886",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/673516/lighthouse-yeast-bread-improver",
+    "name": "Lighthouse Yeast Bread Improver 10x7g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/673516.jpg",
+    "source_id": "673516",
+    "barcode": "9300609107577",
+    "shop": "Woolworths",
+    "category_id": "22784",
+    "weight": "10x7G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "929",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tandaco-yeast-84g-5150587",
+    "name": "Tandaco Yeast | 84g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5150587.jpg&w=640&q=90",
+    "source_id": "5150587",
+    "barcode": "9300681225114",
+    "shop": "coles",
+    "category_id": "22784",
+    "weight": "84g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "714",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/39156/tandaco-dry-yeast-12x7g-sachets",
+    "name": "Tandaco Dry Yeast 12x7g Sachets 84g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/039156.jpg",
+    "source_id": "39156",
+    "barcode": "9300681225114",
+    "shop": "Woolworths",
+    "category_id": "22784",
+    "weight": "84G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "714",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tandaco-dry-yeast-35g-5140878",
+    "name": "Tandaco Dry Yeast | 35g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5140878.jpg&w=640&q=90",
+    "source_id": "5140878",
+    "barcode": "9300681225350",
+    "shop": "coles",
+    "category_id": "22784",
+    "weight": "35g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "857",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/15391/tandaco-dry-yeast-5x7g-sachets",
+    "name": "Tandaco Dry Yeast 5x7g Sachets 35g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/015391.jpg",
+    "source_id": "15391",
+    "barcode": "9300681225350",
+    "shop": "Woolworths",
+    "category_id": "22784",
+    "weight": "35G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "857",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

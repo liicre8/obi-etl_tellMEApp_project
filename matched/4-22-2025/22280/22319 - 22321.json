@@ -1,0 +1,326 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/dr.-oetker-frozen-ristorante-pepperoni-pizza-310g-8634943",
+    "name": "Dr. Oetker Frozen Ristorante Pepperoni Pizza | 310g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8634943.jpg&w=640&q=90",
+    "source_id": "8634943",
+    "barcode": "9344988000074",
+    "shop": "coles",
+    "category_id": "22321",
+    "weight": "310g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "210",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/705420/dr-oetker-ristorante-pizza-pepperoni",
+    "name": "Dr. Oetker Ristorante Pizza Pepperoni 310g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/705420.jpg",
+    "source_id": "705420",
+    "barcode": "9344988000074",
+    "shop": "Woolworths",
+    "category_id": "22321",
+    "weight": "310G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "210",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-family-pizza-pepperoni-490g-4655475",
+    "name": "McCain Family Pizza Pepperoni | 490g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4655475.jpg&w=640&q=90",
+    "source_id": "4655475",
+    "barcode": "9310174198108",
+    "shop": "coles",
+    "category_id": "22321",
+    "weight": "490g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "139",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/165354/mccain-family-pizza-pepperoni",
+    "name": "McCain Family Pizza Pepperoni 490g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/165354.jpg",
+    "source_id": "165354",
+    "barcode": "9310174198108",
+    "shop": "Woolworths",
+    "category_id": "22321",
+    "weight": "490g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "139",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-frozen-bbq-meatlovers-family-pizza-500g-7010250",
+    "name": "McCain Frozen BBQ Meatlovers Family Pizza | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7010250.jpg&w=640&q=90",
+    "source_id": "7010250",
+    "barcode": "9310174024346",
+    "shop": "coles",
+    "category_id": "22321",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "136",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/252640/mccain-pizza-meatlovers-bbq",
+    "name": "McCain Pizza Meatlovers Bbq 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/252640.jpg",
+    "source_id": "252640",
+    "barcode": "9310174024346",
+    "shop": "Woolworths",
+    "category_id": "22321",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-frozen-cheese-and-bacon-pizza-pockets-400g-8697604",
+    "name": "McCain Frozen Cheese & Bacon Pizza Pockets | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8697604.jpg&w=640&q=90",
+    "source_id": "8697604",
+    "barcode": "9310174024407",
+    "shop": "coles",
+    "category_id": "22321",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "188",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/139610/mccain-pizza-pocket-snacks-cheese-bacon",
+    "name": "McCain Pizza Pocket Snacks Cheese & Bacon 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/139610.jpg",
+    "source_id": "139610",
+    "barcode": "9310174024407",
+    "shop": "Woolworths",
+    "category_id": "22321",
+    "weight": "4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "915",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-cheese-and-bacon-pizza-slices-2-pack-600g-8544829",
+    "name": "McCain Cheese & Bacon Pizza Slices 2 Pack | 600g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8544829.jpg&w=640&q=90",
+    "source_id": "8544829",
+    "barcode": "9310174024827",
+    "shop": "coles",
+    "category_id": "22321",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/112352/mccain-pizza-slice-snacks-cheese-bacon",
+    "name": "McCain Pizza Slice Snacks Cheese & Bacon 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/112352.jpg",
+    "source_id": "112352",
+    "barcode": "9310174024827",
+    "shop": "Woolworths",
+    "category_id": "22321",
+    "weight": "2 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "972",
+        "price_per_unit": "162",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-ham-and-pineapple-pizza-slices-2-pack-600g-5179501",
+    "name": "McCain Ham & Pineapple Pizza Slices 2 Pack | 600g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5179501.jpg&w=640&q=90",
+    "source_id": "5179501",
+    "barcode": "9310174002719",
+    "shop": "coles",
+    "category_id": "22321",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/3496/mccain-pizza-slice-snacks-ham-pineapple",
+    "name": "McCain Pizza Slice Snacks Ham & Pineapple 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/003496.jpg",
+    "source_id": "3496",
+    "barcode": "9310174002719",
+    "shop": "Woolworths",
+    "category_id": "22321",
+    "weight": "2 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "972",
+        "price_per_unit": "162",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-rustica-thin-and-crispy-angus-beef-370g-6839515",
+    "name": "McCain Rustica Thin & Crispy Angus Beef | 370g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6839515.jpg&w=640&q=90",
+    "source_id": "6839515",
+    "barcode": "9310174113880",
+    "shop": "coles",
+    "category_id": "22321",
+    "weight": "370g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "297",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/315505/mccain-rustica-thin-crispy-australian-angus-beef-pizza",
+    "name": "McCain Rustica Thin & Crispy Australian Angus Beef Pizza 370g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/315505.jpg",
+    "source_id": "315505",
+    "barcode": "9310174113880",
+    "shop": "Woolworths",
+    "category_id": "22321",
+    "weight": "370g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "297",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-frozen-supreme-family-pizza-500g-251124",
+    "name": "McCain Frozen Supreme Family Pizza | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F251124.jpg&w=640&q=90",
+    "source_id": "251124",
+    "barcode": "9310174002504",
+    "shop": "coles",
+    "category_id": "22321",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "136",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/96415/mccain-supreme-pizza",
+    "name": "McCain Supreme Pizza 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/096415.jpg",
+    "source_id": "96415",
+    "barcode": "9310174002504",
+    "shop": "Woolworths",
+    "category_id": "22321",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "136",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-frozen-hawaiian-pizza-500g-2632162",
+    "name": "Coles Frozen Hawaiian Pizza | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2632162.jpg&w=640&q=90",
+    "source_id": "2632162",
+    "barcode": "9300633558994",
+    "shop": "coles",
+    "category_id": "22321",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/508041/woolworths-frozen-pizza-hawaiian",
+    "name": "Woolworths Frozen Pizza Hawaiian 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/508041.jpg",
+    "source_id": "508041",
+    "barcode": "9300633558994",
+    "shop": "Woolworths",
+    "category_id": "22321",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/581152/all-smiles-total-care-dental-floss",
+    "name": "All Smiles Total Care Dental Floss 50m",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/581152.jpg",
+    "source_id": "581152",
+    "barcode": "9300633636678",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "50M",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "4",
+        "price_unit": "M"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/581150/all-smiles-total-care-interdental-floss-brush",
+    "name": "All Smiles Total Care Interdental Floss Brush 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/581150.jpg",
+    "source_id": "581150",
+    "barcode": "9300633636654",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "20",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/236844/all-smiles-total-care-recycled-plastic-flossers",
+    "name": "All Smiles Total Care Recycled Plastic Flossers 50 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/236844.jpg",
+    "source_id": "236844",
+    "barcode": "9339687309740",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "50 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/173111/colgate-dental-floss-total-tartar-control",
+    "name": "Colgate Dental Floss Total Tartar Control 25m",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/173111.jpg",
+    "source_id": "173111",
+    "barcode": "9300632048922",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "25M",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "15",
+        "price_unit": "M"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/226455/colgate-dental-floss-waxed-mint-flavour-value",
+    "name": "Colgate Dental Floss Waxed Mint Flavour Value 100m each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/226455.jpg",
+    "source_id": "226455",
+    "barcode": "8850006944219",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "100m each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "560",
+        "price_per_unit": "6",
+        "price_unit": "M"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/423287/colgate-max-fresh-mouthwash-mint-fusion",
+    "name": "Colgate Max Fresh Mouthwash Mint Fusion 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/423287.jpg",
+    "source_id": "423287",
+    "barcode": "8850006951354",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "70",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/500533/colgate-max-fresh-mouthwash-watermelon-mint",
+    "name": "Colgate Max Fresh Mouthwash Watermelon Mint 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/500533.jpg",
+    "source_id": "500533",
+    "barcode": "8850006951392",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "840",
+        "price_per_unit": "168",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/750056/colgate-mouthwash-fresh-tea-alcohol-free-plax",
+    "name": "Colgate Mouthwash Fresh Tea Alcohol Free - Plax 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/750056.jpg",
+    "source_id": "750056",
+    "barcode": "8850006305355",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "770",
+        "price_per_unit": "154",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/238473/colgate-mouthwash-freshmint-alcohol-free-plax",
+    "name": "Colgate Mouthwash Freshmint Alcohol Free - Plax 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/238473.jpg",
+    "source_id": "238473",
+    "barcode": "9300632064205",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "840",
+        "price_per_unit": "84",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/321727/colgate-mouthwash-freshmint-alcohol-free-plax",
+    "name": "Colgate Mouthwash Freshmint Alcohol Free - Plax 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/321727.jpg",
+    "source_id": "321727",
+    "barcode": "8850006303306",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "144",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/24730/colgate-mouthwash-freshmint-alcohol-free-plax",
+    "name": "Colgate Mouthwash Freshmint Alcohol Free - Plax 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/024730.jpg",
+    "source_id": "24730",
+    "barcode": "9400541425002",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "770",
+        "price_per_unit": "154",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/226196/colgate-mouthwash-mint-neutrafluor-220-daily-fluoride",
+    "name": "Colgate Mouthwash Mint Neutrafluor 220 Daily Fluoride 473ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/226196.jpg",
+    "source_id": "226196",
+    "barcode": "9300632068180",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "473mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1570",
+        "price_per_unit": "332",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/259931/colgate-mouthwash-optic-brightener-optic-white",
+    "name": "Colgate Mouthwash Optic Brightener - Optic White 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/259931.jpg",
+    "source_id": "259931",
+    "barcode": "9300632085019",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "560",
+        "price_per_unit": "112",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/226164/colgate-mouthwash-oral-cleanser-mint-peroxyl",
+    "name": "Colgate Mouthwash Oral Cleanser Mint - Peroxyl 236ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/226164.jpg",
+    "source_id": "226164",
+    "barcode": "9300632058525",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "236mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "551",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/477993/colgate-mouthwash-peppermint-alcohol-free-plax",
+    "name": "Colgate Mouthwash Peppermint Alcohol Free - Plax 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/477993.jpg",
+    "source_id": "477993",
+    "barcode": "8850006306383",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "840",
+        "price_per_unit": "84",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/25281/colgate-mouthwash-peppermint-alcohol-free-plax",
+    "name": "Colgate Mouthwash Peppermint Alcohol Free - Plax 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/025281.jpg",
+    "source_id": "25281",
+    "barcode": "9400541425019",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "770",
+        "price_per_unit": "154",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/301839/colgate-plax-mouthwash-gentle-mint",
+    "name": "Colgate Plax Mouthwash Gentle Mint 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/301839.jpg",
+    "source_id": "301839",
+    "barcode": "8850006303153",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "770",
+        "price_per_unit": "154",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/919372/colgate-savacol-mouth-wash-mint",
+    "name": "Colgate Savacol Mouth Wash Mint 300ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/919372.jpg",
+    "source_id": "919372",
+    "barcode": "8718951624177",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "300ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1260",
+        "price_per_unit": "420",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6003627/colgate-total-active-prevention-mouthwash-clean-mint",
+    "name": "Colgate Total Active Prevention Mouthwash Clean Mint 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6003627.jpg",
+    "source_id": "6003627",
+    "barcode": "8850006954324",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "840",
+        "price_per_unit": "168",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/197100/go2-dentagenie-double-floss-picks",
+    "name": "Go2 Dentagenie Double Floss Picks 36 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/197100.jpg",
+    "source_id": "197100",
+    "barcode": "9342475107893",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "36 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "570",
+        "price_per_unit": "16",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/198265/go2-dentagenie-smooth-gentle-floss-tape",
+    "name": "Go2 Dentagenie Smooth Gentle Floss Tape 36 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/198265.jpg",
+    "source_id": "198265",
+    "barcode": "9342475107923",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "36 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "570",
+        "price_per_unit": "16",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/197371/go2-dentagenie-tongue-cleaner",
+    "name": "Go2 Dentagenie Tongue Cleaner 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/197371.jpg",
+    "source_id": "197371",
+    "barcode": "9342475107947",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "570",
+        "price_per_unit": "29",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6010038/go2-dentagenie-water-flosser",
+    "name": "Go2 Dentagenie Water Flosser",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6010038.jpg",
+    "source_id": "6010038",
+    "barcode": "9342475104229",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": null,
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "7350",
+        "price_per_unit": "7350",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6003553/hismile-foaming-mouthwash-blue-raspberry",
+    "name": "Hismile Foaming Mouthwash Blue Raspberry 45mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6003553.jpg",
+    "source_id": "6003553",
+    "barcode": "93576055",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "45mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1360",
+        "price_per_unit": "3022",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6006563/hismile-foaming-mouthwash-watermelon",
+    "name": "Hismile Foaming Mouthwash Watermelon 45mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6006563.jpg",
+    "source_id": "6006563",
+    "barcode": "93576079",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "45mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1360",
+        "price_per_unit": "3022",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/196934/listerine-freshburst-zero-alcohol-antibacterial-mouthwash",
+    "name": "Listerine Freshburst Zero Alcohol Antibacterial Mouthwash 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/196934.jpg",
+    "source_id": "196934",
+    "barcode": "9300607091250",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1320",
+        "price_per_unit": "132",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/197250/listerine-freshburst-zero-alcohol-antibacterial-mouthwash",
+    "name": "Listerine Freshburst Zero Alcohol Antibacterial Mouthwash 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/197250.jpg",
+    "source_id": "197250",
+    "barcode": "9300607091267",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "840",
+        "price_per_unit": "168",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/197354/listerine-pocketpaks-oral-care-strips-freshburst",
+    "name": "Listerine Pocketpaks Oral Care Strips Freshburst 72 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/197354.jpg",
+    "source_id": "197354",
+    "barcode": "9310059073032",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "72 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "990",
+        "price_per_unit": "14",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/302987/listerine-smart-rinse-anti-cavity-kids-mouthwash-berry-shield",
+    "name": "Listerine Smart Rinse Anti Cavity Kids' Mouthwash Berry Shield 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/302987.jpg",
+    "source_id": "302987",
+    "barcode": "9300607090000",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "840",
+        "price_per_unit": "168",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/694665/listerine-total-care-antibacterial-mouthwash",
+    "name": "Listerine Total Care Antibacterial Mouthwash 100ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/694665.jpg",
+    "source_id": "694665",
+    "barcode": "9300607091076",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "100mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6003122/listerine-total-care-mouthwash-zero-alcohol-gum-protect",
+    "name": "Listerine Total Care Mouthwash Zero Alcohol Gum Protect 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6003122.jpg",
+    "source_id": "6003122",
+    "barcode": "9300607091359",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "210",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/569369/listerine-total-care-zero-alcohol-antibacterial-mouthwash",
+    "name": "Listerine Total Care Zero Alcohol Antibacterial Mouthwash 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/569369.jpg",
+    "source_id": "569369",
+    "barcode": "9300607090901",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "210",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/376504/listerine-zero-alcohol-antibacterial-mouthwash",
+    "name": "Listerine Zero Alcohol Antibacterial Mouthwash 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/376504.jpg",
+    "source_id": "376504",
+    "barcode": "9300607090581",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1320",
+        "price_per_unit": "132",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/376505/listerine-zero-alcohol-antibacterial-mouthwash",
+    "name": "Listerine Zero Alcohol Antibacterial Mouthwash 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/376505.jpg",
+    "source_id": "376505",
+    "barcode": "9300607090574",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "840",
+        "price_per_unit": "168",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/139070/listerine-zero-alcohol-antibacterial-mouthwash-cherry-blossom-peach",
+    "name": "Listerine Zero Alcohol Antibacterial Mouthwash Cherry Blossom&Peach 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/139070.jpg",
+    "source_id": "139070",
+    "barcode": "8850007815761",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "840",
+        "price_per_unit": "168",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6005145/listerine-zero-alcohol-mouthwash-fresh-burst",
+    "name": "Listerine Zero Alcohol Mouthwash Fresh Burst 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6005145.jpg",
+    "source_id": "6005145",
+    "barcode": "8850007817222",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "23817",
+    "shop": "Woolworths",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "180",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

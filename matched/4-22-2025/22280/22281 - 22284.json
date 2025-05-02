@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/birds-eye-deli-roast-vegetables-potato-pumpkin-red-onion-and-carrot-600g-4204002",
+    "name": "Birds Eye Deli Roast Vegetables Potato Pumpkin Red Onion & Carrot | 600g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4204002.jpg&w=640&q=90",
+    "source_id": "4204002",
+    "barcode": "9310081111863",
+    "shop": "coles",
+    "category_id": "22284",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "560",
+        "price_per_unit": "933",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802639/birds-eye-deli-roast-vegetables-potato-pumpkin-red-onion-carrot",
+    "name": "Birds Eye Deli Roast Vegetables Potato Pumpkin Red Onion & Carrot 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/802639.jpg",
+    "source_id": "802639",
+    "barcode": "9310081111863",
+    "shop": "Woolworths",
+    "category_id": "22284",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "735",
+        "price_per_unit": "1225",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/birds-eye-golden-crunch-potato-hash-browns-800g-4545717",
+    "name": "Birds Eye Golden Crunch Potato Hash Browns | 800g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4545717.jpg&w=640&q=90",
+    "source_id": "4545717",
+    "barcode": "9300462406220",
+    "shop": "coles",
+    "category_id": "22284",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "688",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/228797/birds-eye-golden-crunch-hash-browns",
+    "name": "Birds Eye Golden Crunch Hash Browns 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/228797.jpg",
+    "source_id": "228797",
+    "barcode": "9300462406220",
+    "shop": "Woolworths",
+    "category_id": "22284",
+    "weight": "800G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "575",
+        "price_per_unit": "719",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/birds-eye-golden-crunch-potato-gems-bite-size-hash-brown-900g-5052500",
+    "name": "Birds Eye Golden Crunch Potato Gems Bite Size Hash Brown | 900g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5052500.jpg&w=640&q=90",
+    "source_id": "5052500",
+    "barcode": "9310081128793",
+    "shop": "coles",
+    "category_id": "22284",
+    "weight": "900g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "722",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180109/birds-eye-potato-gems-bite-size-hash-brown",
+    "name": "Birds Eye Potato Gems Bite Size Hash Brown 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/180109.jpg",
+    "source_id": "180109",
+    "barcode": "9310081128793",
+    "shop": "Woolworths",
+    "category_id": "22284",
+    "weight": "900g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "685",
+        "price_per_unit": "761",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

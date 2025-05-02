@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/lean-cuisine-thai-red-chicken-curry-375g-3867183",
+    "name": "Lean Cuisine Thai Red Chicken Curry | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3867183.jpg&w=640&q=90",
+    "source_id": "3867183",
+    "barcode": "9310761724499",
+    "shop": "coles",
+    "category_id": "22300",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "187",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/113969/lean-cuisine-thai-red-chicken-curry-with-rice-frozen-meal",
+    "name": "Lean Cuisine Thai Red Chicken Curry With Rice Frozen Meal 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/113969.jpg",
+    "source_id": "113969",
+    "barcode": "9310761724499",
+    "shop": "Woolworths",
+    "category_id": "22300",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "756",
+        "price_per_unit": "202",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/seng-hork-beef-dumplings-500g-6510123",
+    "name": "Seng Hork Beef Dumplings | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6510123.jpg&w=640&q=90",
+    "source_id": "6510123",
+    "barcode": "9324505000664",
+    "shop": "coles",
+    "category_id": "22300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "160",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/602036/seng-hork-beef-dumplings-null",
+    "name": "Seng Hork Beef Dumplings 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/602036.jpg",
+    "source_id": "602036",
+    "barcode": "9324505000664",
+    "shop": "Woolworths",
+    "category_id": "22300",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/seng-hork-prawn-and-pork-dumplings-500g-6510145",
+    "name": "Seng Hork Prawn & Pork Dumplings | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6510145.jpg&w=640&q=90",
+    "source_id": "6510145",
+    "barcode": "9324505000626",
+    "shop": "coles",
+    "category_id": "22300",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "160",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/602034/seng-hork-prawn-pork-dumplings-null",
+    "name": "Seng Hork Prawn & Pork Dumplings 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/602034.jpg",
+    "source_id": "602034",
+    "barcode": "9324505000626",
+    "shop": "Woolworths",
+    "category_id": "22300",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

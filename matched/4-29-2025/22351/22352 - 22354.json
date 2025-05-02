@@ -1,0 +1,452 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-lady-finger-bananas-approx.-140g-132056",
+    "name": "Coles Lady Finger Bananas | approx. 140g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F132056.jpg&w=640&q=90",
+    "source_id": "132056",
+    "barcode": "0264233000002",
+    "shop": "coles",
+    "category_id": "22354",
+    "weight": "140g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "97",
+        "price_per_unit": "690",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "97",
+        "price_per_unit": "690",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "111",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "97",
+        "price_per_unit": "690",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/133390/banana-lady-finger",
+    "name": "Banana Lady Finger Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/133390.jpg",
+    "source_id": "133390",
+    "barcode": "0264233000002",
+    "shop": "Woolworths",
+    "category_id": "22354",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "112",
+        "price_per_unit": "112",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "112",
+        "price_per_unit": "112",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "144",
+        "price_per_unit": "144",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "128",
+        "price_per_unit": "128",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "112",
+        "price_per_unit": "112",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bananas-red-tipped-approx.-180g-each-9174565",
+    "name": "Coles Bananas Red Tipped | approx. 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9174565.jpg&w=640&q=90",
+    "source_id": "9174565",
+    "barcode": "0267128000002",
+    "shop": "coles",
+    "category_id": "22354",
+    "weight": "180geach",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "106",
+        "price_per_unit": "590",
+        "price_unit": "each"
+      },
+      {
+        "state": "QLD",
+        "price": "106",
+        "price_per_unit": "590",
+        "price_unit": "each"
+      },
+      {
+        "state": "WA",
+        "price": "106",
+        "price_per_unit": "590",
+        "price_unit": "each"
+      },
+      {
+        "state": "ACT",
+        "price": "106",
+        "price_per_unit": "590",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180148/banana-red-tipped",
+    "name": "Banana Red Tipped Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/180148.jpg",
+    "source_id": "180148",
+    "barcode": "0267128000002",
+    "shop": "Woolworths",
+    "category_id": "22354",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "106",
+        "price_per_unit": "106",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "106",
+        "price_per_unit": "106",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "106",
+        "price_per_unit": "106",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "108",
+        "price_per_unit": "108",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "106",
+        "price_per_unit": "106",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bananas-mini-pack-750g-2511791",
+    "name": "Coles Bananas Mini Pack | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2511791.jpg&w=640&q=90",
+    "source_id": "2511791",
+    "barcode": "9334969003507",
+    "shop": "coles",
+    "category_id": "22354",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "490",
+        "price_per_unit": "653",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "653",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "490",
+        "price_per_unit": "653",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "490",
+        "price_per_unit": "653",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "490",
+        "price_per_unit": "653",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/106218/bananas-kids",
+    "name": "Bananas Kids 5 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/106218.jpg",
+    "source_id": "106218",
+    "barcode": "9334969003507",
+    "shop": "Woolworths",
+    "category_id": "22354",
+    "weight": "5 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "350",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bananas-approx.-170g-409499",
+    "name": "Coles Bananas | approx. 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F409499.jpg&w=640&q=90",
+    "source_id": "409499",
+    "barcode": "0264011000002",
+    "shop": "coles",
+    "category_id": "22354",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "83",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "83",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "83",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "83",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "77",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "83",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "77",
+        "price_per_unit": "450",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "83",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/133211/cavendish-bananas",
+    "name": "Cavendish Bananas Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/133211.jpg",
+    "source_id": "133211",
+    "barcode": "0264011000002",
+    "shop": "Woolworths",
+    "category_id": "22354",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "93",
+        "price_per_unit": "93",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "93",
+        "price_per_unit": "93",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "86",
+        "price_per_unit": "86",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-bananas-approx.-170g-1039770",
+    "name": "Coles Organic Bananas | approx. 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1039770.jpg&w=640&q=90",
+    "source_id": "1039770",
+    "barcode": "0268095000002",
+    "shop": "coles",
+    "category_id": "22354",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "110",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "110",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "151",
+        "price_per_unit": "890",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "110",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "151",
+        "price_per_unit": "890",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/306510/macro-organic-banana",
+    "name": "Macro Organic Banana Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/306510.jpg",
+    "source_id": "306510",
+    "barcode": "0268095000002",
+    "shop": "Woolworths",
+    "category_id": "22354",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "117",
+        "price_per_unit": "117",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "117",
+        "price_per_unit": "117",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "142",
+        "price_per_unit": "142",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "135",
+        "price_per_unit": "135",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "117",
+        "price_per_unit": "117",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "117",
+        "price_per_unit": "117",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

@@ -1,0 +1,742 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/30011/bird-munchies-bird-food-gourmet-blend-parrot",
+    "name": "Bird Munchies Bird Food Gourmet Blend Parrot 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/030011.jpg",
+    "source_id": "30011",
+    "barcode": "9313175050024",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "58",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/679545/frankie-friends-budgie-canary-bird-seed-mix",
+    "name": "Frankie & Friends Budgie & Canary Bird Seed Mix 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/679545.jpg",
+    "source_id": "679545",
+    "barcode": "9339687034987",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "2Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "26",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/679546/frankie-friends-cockatiel-peachface-bird-seed-mix",
+    "name": "Frankie & Friends Cockatiel & Peachface Bird Seed Mix 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/679546.jpg",
+    "source_id": "679546",
+    "barcode": "9339687034994",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "2Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "26",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/679548/frankie-friends-large-parrot-wildbird-bird-seed-mix",
+    "name": "Frankie & Friends Large Parrot & Wildbird Bird Seed Mix 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/679548.jpg",
+    "source_id": "679548",
+    "barcode": "9339687035014",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "2Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "26",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/679547/frankie-friends-small-parrot-wildbird-bird-seed-mix",
+    "name": "Frankie & Friends Small Parrot & Wildbird Bird Seed Mix 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/679547.jpg",
+    "source_id": "679547",
+    "barcode": "9339687035007",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "2Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "26",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/9115/frankie-friends-sunflower-seeds",
+    "name": "Frankie & Friends Sunflower Seeds 1.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/009115.jpg",
+    "source_id": "9115",
+    "barcode": "9300633600235",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "1.5Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "40",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/204524/frankie-friends-wild-bird-food",
+    "name": "Frankie & Friends Wild Bird Food 10kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/204524.jpg",
+    "source_id": "204524",
+    "barcode": "9300633019099",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "10Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "19",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/696223/frankie-friends-wild-bird-seed-blend",
+    "name": "Frankie & Friends Wild Bird Seed Blend 5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/696223.jpg",
+    "source_id": "696223",
+    "barcode": "9339687055890",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "5Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "21",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/204495/harmony-bird-food-lorikeet-honey-eater",
+    "name": "Harmony Bird Food Lorikeet & Honey Eater 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/204495.jpg",
+    "source_id": "204495",
+    "barcode": "9310022263293",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "200",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/204498/harmony-bird-food-wild-bird-mix",
+    "name": "Harmony Bird Food Wild Bird Mix 4kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/204498.jpg",
+    "source_id": "204498",
+    "barcode": "9310022263286",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "4Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "25",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/685175/harmony-no-waste-seed-mix",
+    "name": "Harmony No Waste Seed Mix 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/685175.jpg",
+    "source_id": "685175",
+    "barcode": "9334214030197",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "70",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/80067/trill-budgie-mix",
+    "name": "Trill Budgie Mix 1.8kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/080067.jpg",
+    "source_id": "80067",
+    "barcode": "9334214052489",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "1.8Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "33",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/80087/trill-canary-finch-mix",
+    "name": "Trill Canary & Finch Mix 1.8kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/080087.jpg",
+    "source_id": "80087",
+    "barcode": "9334214052502",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "1.8Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "33",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/937633/trill-pet-lorikeet-mix",
+    "name": "Trill Pet Lorikeet Mix 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/937633.jpg",
+    "source_id": "937633",
+    "barcode": "9334214036823",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "220",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/80088/trill-small-parrot-mix",
+    "name": "Trill Small Parrot Mix 1.8kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/080088.jpg",
+    "source_id": "80088",
+    "barcode": "9334214052540",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "1.8Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "33",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6011032/trill-vitablend-large-birds",
+    "name": "Trill Vitablend Large Birds 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6011032.jpg",
+    "source_id": "6011032",
+    "barcode": "9334214150031",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "94",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6010486/trill-vitablend-small-birds",
+    "name": "Trill Vitablend Small Birds 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6010486.jpg",
+    "source_id": "6010486",
+    "barcode": "9334214150024",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "94",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/176674/frankie-friends-fish-food-flakes",
+    "name": "Frankie & Friends Fish Food Flakes 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/176674.jpg",
+    "source_id": "176674",
+    "barcode": "9300633092627",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "50G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "530",
+        "price_per_unit": "1060",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/198805/frankie-friends-goldfish-granulated-food",
+    "name": "Frankie & Friends Goldfish Granulated Food 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/198805.jpg",
+    "source_id": "198805",
+    "barcode": "9300633005887",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "290",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/360823/vitapet-fish-food-goldfish-flake-plus",
+    "name": "Vitapet Fish Food Goldfish Flake Plus 36g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/360823.jpg",
+    "source_id": "360823",
+    "barcode": "9312239085552",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "36G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "2083",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/360821/vitapet-fish-food-goldfish-flake-plus",
+    "name": "Vitapet Fish Food Goldfish Flake Plus 90g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/360821.jpg",
+    "source_id": "360821",
+    "barcode": "9400539077572",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "90G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "1056",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/360822/vitapet-fish-food-goldfish-granules",
+    "name": "Vitapet Fish Food Goldfish Granules 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/360822.jpg",
+    "source_id": "360822",
+    "barcode": "9400539077565",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "550",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/360825/vitapet-fish-food-tropical-flake",
+    "name": "Vitapet Fish Food Tropical Flake 36g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/360825.jpg",
+    "source_id": "360825",
+    "barcode": "9312239085569",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "36G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "2639",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/272264/vitapet-treatment-water-ager",
+    "name": "Vitapet Treatment Water Ager 125ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/272264.jpg",
+    "source_id": "272264",
+    "barcode": "9312239000753",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "125mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "560",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/183873/dux-guinea-pig-rabbit-meal",
+    "name": "Dux Guinea Pig & Rabbit Meal 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/183873.jpg",
+    "source_id": "183873",
+    "barcode": "9311821000102",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "2Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "38",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/133629/fibre-cycle-back-2-nature-small-animal-bedding",
+    "name": "Fibre Cycle Back 2 Nature Small Animal Bedding 10l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/133629.jpg",
+    "source_id": "133629",
+    "barcode": "9315087401109",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "10L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "130",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/391544/harmony-wild-bird-dried-mealworms",
+    "name": "Harmony Wild Bird Dried Mealworms 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/391544.jpg",
+    "source_id": "391544",
+    "barcode": "9334214057491",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "799",
+        "price_per_unit": "666",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/390449/peckish-dental-nibbles-blueberry-for-small-animals",
+    "name": "Peckish Dental Nibbles Blueberry For Small Animals 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/390449.jpg",
+    "source_id": "390449",
+    "barcode": "9322930016533",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "533",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/134161/peckish-performance-layer-mix",
+    "name": "Peckish Performance Layer Mix 5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/134161.jpg",
+    "source_id": "134161",
+    "barcode": "9322930010531",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "5Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "30",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/394283/pet-munchies-rabbit-guinea-pig-blend",
+    "name": "Pet Munchies Rabbit & Guinea Pig Blend 90g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/394283.jpg",
+    "source_id": "394283",
+    "barcode": "9313175023165",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "90g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "356",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/394263/pet-munchies-small-animal-gourmet-treat",
+    "name": "Pet Munchies Small Animal Gourmet Treat 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/394263.jpg",
+    "source_id": "394263",
+    "barcode": "9313175023219",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/174486/peters-alfalfa-fruit-rabbit-guinea-pig-food",
+    "name": "Peters Alfalfa & Fruit Rabbit & Guinea Pig Food 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/174486.jpg",
+    "source_id": "174486",
+    "barcode": "9316203000206",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "2Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "50",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/40423/peters-multigrain-mix-rabbit-guinea-pig-food",
+    "name": "Peters Multigrain Mix Rabbit & Guinea Pig Food 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/040423.jpg",
+    "source_id": "40423",
+    "barcode": "9316203000015",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "2Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "860",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/74624/peters-poultry-free-range-mix",
+    "name": "Peters Poultry Free Range Mix 5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/074624.jpg",
+    "source_id": "74624",
+    "barcode": "9316203000114",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "5Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1310",
+        "price_per_unit": "26",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/351934/peters-rabbit-guinea-pig-foragers-feast",
+    "name": "Peters Rabbit & Guinea Pig Foragers Feast 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/351934.jpg",
+    "source_id": "351934",
+    "barcode": "9316203000381",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "85",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/351933/peters-rabbit-guinea-pig-little-gems-treats",
+    "name": "Peters Rabbit & Guinea Pig Little Gems Treats 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/351933.jpg",
+    "source_id": "351933",
+    "barcode": "9316203000282",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "120G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "567",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/174485/peters-rabbit-guinea-pig-lucerne-pellets",
+    "name": "Peters Rabbit & Guinea Pig Lucerne Pellets 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/174485.jpg",
+    "source_id": "174485",
+    "barcode": "9316203000190",
+    "category_id": "22916",
+    "subcategory_id": "22917",
+    "subsubcategory_id": "22921",
+    "shop": "Woolworths",
+    "weight": "2Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "48",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

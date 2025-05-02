@@ -1,0 +1,794 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/gatorade-g-active-sports-drinks-berry-water-electrolytes-and-vitamins-600ml-2925830",
+    "name": "Gatorade G Active Sports Drinks Berry Water Electrolytes & Vitamins | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2925830.jpg&w=640&q=90",
+    "source_id": "2925830",
+    "barcode": "9310640000881",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "350",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/594960/gatorade-g-active-sports-drinks-berry-water-electrolytes-vitamins",
+    "name": "Gatorade G Active Sports Drinks Berry Water Electrolytes & Vitamins 600ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/594960.jpg",
+    "source_id": "594960",
+    "barcode": "9310640000881",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "600mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "367",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/g-active-electrolyte-water-grape-600ml-4661569",
+    "name": "G Active Electrolyte Water Grape | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4661569.jpg&w=640&q=90",
+    "source_id": "4661569",
+    "barcode": "9310640001079",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "350",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/173487/gatorade-g-active-sports-drinks-grape-water-electrolytes-vitamins",
+    "name": "Gatorade G Active Sports Drinks Grape Water Electrolytes & Vitamins 600ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/173487.jpg",
+    "source_id": "173487",
+    "barcode": "9310640001079",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "600mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "367",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lo-bros-kombucha-pineapple-lime-330ml-4474390",
+    "name": "Lo Bros Kombucha Pineapple Lime | 330mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4474390.jpg&w=640&q=90",
+    "source_id": "4474390",
+    "barcode": "9340784002625",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "330ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "1273",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55749/lo-bros-kombucha-peach-blackberry",
+    "name": "Lo Bros Kombucha Peach & Blackberry 330mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/055749.jpg",
+    "source_id": "55749",
+    "barcode": "9340784002625",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "330mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "1303",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lo-bros-kombucha-raspberry-and-blackcurrant-750ml-5786082",
+    "name": "Lo Bros Kombucha Raspberry & Blackcurrant | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5786082.jpg&w=640&q=90",
+    "source_id": "5786082",
+    "barcode": "9340784007477",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "693",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/265211/lo-bros-kombucha-raspberry-blackcurrant",
+    "name": "Lo Bros Kombucha Raspberry & Blackcurrant 750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/265211.jpg",
+    "source_id": "265211",
+    "barcode": "9340784007477",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "750mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "693",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mount-franklin-sparkling-water-cans-passionfruit-6x250ml-6-pack-6266929",
+    "name": "Mount Franklin Sparkling Water Cans Passionfruit 6X250mL | 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6266929.jpg&w=640&q=90",
+    "source_id": "6266929",
+    "barcode": "9300675093330",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "667",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/287016/mount-franklin-lightly-sparkling-mineral-water-passionfruit",
+    "name": "Mount Franklin Lightly Sparkling Mineral Water Passionfruit 250ml x 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/287016.jpg",
+    "source_id": "287016",
+    "barcode": "9300675093330",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "250ml x 6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "420",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mount-franklin-lightly-sparkling-water-raspberry-multipack-cans-10-x-375ml-10-pack-3738410",
+    "name": "Mount Franklin Lightly Sparkling Water Ras ... 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3738410.jpg&w=640&q=90",
+    "source_id": "3738410",
+    "barcode": "9300624034148",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "267",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/80047/mount-franklin-lightly-sparkling-raspberry",
+    "name": "Mount Franklin Lightly Sparkling Raspberry 10 X 375mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/080047.jpg",
+    "source_id": "80047",
+    "barcode": "9300624034148",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "10 X 375mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "560",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mount-franklin-lightly-sparkling-water-lime-multipack-mini-cans-6-x-250ml-6-pack-5622960",
+    "name": "Mount Franklin Lightly Sparkling Water Lime  ... 6 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5622960.jpg&w=640&q=90",
+    "source_id": "5622960",
+    "barcode": "9300624035589",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "6pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "667",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/242317/mount-franklin-lightly-sparkling-water-lime-cans",
+    "name": "Mount Franklin Lightly Sparkling Water Lime Cans 250ml x 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/242317.jpg",
+    "source_id": "242317",
+    "barcode": "9300624035589",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "250ml x 6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "420",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mount-franklin-lightly-sparkling-water-lime-10-pack-3738420",
+    "name": "Mount Franklin Lightly Sparkling Water Lime | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3738420.jpg&w=640&q=90",
+    "source_id": "3738420",
+    "barcode": "9300624034179",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "267",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/77938/mount-franklin-lightly-sparkling-water-lime-multipack-cans",
+    "name": "Mount Franklin Lightly Sparkling Water Lime Multipack Cans 375ml x10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/077938.jpg",
+    "source_id": "77938",
+    "barcode": "9300624034179",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "375mL x10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "560",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mount-franklin-lightly-sparkling-water-passionfruit-10-pack-3847914",
+    "name": "Mount Franklin Lightly Sparkling Water Pas ... 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3847914.jpg&w=640&q=90",
+    "source_id": "3847914",
+    "barcode": "9300624034315",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "267",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/136874/mount-franklin-lightly-sparkling-water-pasionfruit-multipack-cans",
+    "name": "Mount Franklin Lightly Sparkling Water Pasionfruit Multipack Cans 375ml x10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/136874.jpg",
+    "source_id": "136874",
+    "barcode": "9300624034315",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "375mL x10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "560",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mount-franklin-lightly-sparkling-water-lime-bottle-450ml-2117224",
+    "name": "Mount Franklin Lightly Sparkling Water Lime Bottle | 450mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2117224.jpg&w=640&q=90",
+    "source_id": "2117224",
+    "barcode": "9300624022589",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "450ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "578",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/760280/mount-franklin-mineral-water-lightly-sparkling-lime-bottle",
+    "name": "Mount Franklin Mineral Water Lightly Sparkling Lime Bottle 450ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/760280.jpg",
+    "source_id": "760280",
+    "barcode": "9300624022589",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "450mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "756",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/perkii-mango-passionfruit-probiotic-drink-350ml-3416559",
+    "name": "Perkii Mango Passionfruit Probiotic Drink | 350mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3416559.jpg&w=640&q=90",
+    "source_id": "3416559",
+    "barcode": "9351422000002",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "1257",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/685777/perkii-mango-passionfruit-probiotic-drink",
+    "name": "Perkii Mango Passionfruit Probiotic Drink 350ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/685777.jpg",
+    "source_id": "685777",
+    "barcode": "9351422000002",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "350mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "1000",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/perkii-strawberry-watermelon-probiotic-drink-350ml-3416606",
+    "name": "Perkii Strawberry Watermelon Probiotic Drink | 350mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3416606.jpg&w=640&q=90",
+    "source_id": "3416606",
+    "barcode": "9351422000019",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "1257",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/685790/perkii-strawberry-watermelon-probiotic-drink",
+    "name": "Perkii Strawberry Watermelon Probiotic Drink 350ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/685790.jpg",
+    "source_id": "685790",
+    "barcode": "9351422000019",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "350mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "1000",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/powerade-active-water-peach-and-apple-600ml-3528676",
+    "name": "Powerade Active Water Peach & Apple | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3528676.jpg&w=640&q=90",
+    "source_id": "3528676",
+    "barcode": "9300675087902",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "733",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/51557/powerade-active-water-apple-peach-sports-drink-sipper-cap",
+    "name": "Powerade Active Water Apple & Peach Sports Drink Sipper Cap 600ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/051557.jpg",
+    "source_id": "51557",
+    "barcode": "9300675087902",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "600mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "767",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/powerade-active-water-sports-drink-mango-600ml-3528632",
+    "name": "Powerade Active Water Sports Drink Mango | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3528632.jpg&w=640&q=90",
+    "source_id": "3528632",
+    "barcode": "9300675087889",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "733",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/51569/powerade-active-water-mango-sports-drink-sipper-cap",
+    "name": "Powerade Active Water Mango Sports Drink Sipper Cap 600ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/051569.jpg",
+    "source_id": "51569",
+    "barcode": "9300675087889",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "600mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "767",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pump-flavoured-water-lime-750ml-2099880",
+    "name": "Pump Flavoured Water Lime | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2099880.jpg&w=640&q=90",
+    "source_id": "2099880",
+    "barcode": "9300675046190",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "467",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/325530/pump-lime-rush-water-bottle-lime-rush-bottle",
+    "name": "Pump Lime Rush Water Bottle Lime Rush Bottle 750ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/325530.jpg",
+    "source_id": "325530",
+    "barcode": "9300675046190",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "750mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "435",
+        "price_per_unit": "580",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/raw-c-straight-up-coconut-water-2l-3422518",
+    "name": "Raw C Straight Up Coconut Water | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3422518.jpg&w=640&q=90",
+    "source_id": "3422518",
+    "barcode": "9349622000281",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "330",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/630643/raw-c-coconut-water",
+    "name": "Raw C Coconut Water 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/630643.jpg",
+    "source_id": "630643",
+    "barcode": "9349622000281",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "330",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/remedy-shot-energy-60ml-4471450",
+    "name": "Remedy Shot Energy | 60mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4471450.jpg&w=640&q=90",
+    "source_id": "4471450",
+    "barcode": "9350271002434",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "60ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "5834",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/174912/remedy-energy-with-caffeine-berry-shot",
+    "name": "Remedy Energy With Caffeine Berry Shot 60ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/174912.jpg",
+    "source_id": "174912",
+    "barcode": "9350271002434",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "60ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "4167",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schweppes-zero-sugar-blood-orange-infused-mineral-water-cans-multipack-375ml-x-10-pack-10-pack-4677172",
+    "name": "Schweppes Zero Sugar Blood Orange Infused Mi ... 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4677172.jpg&w=640&q=90",
+    "source_id": "4677172",
+    "barcode": "9315596007991",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "507",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/189114/schweppes-blood-orange-mango-infused-mineral-water-cans-multipack",
+    "name": "Schweppes Blood Orange Mango Infused Mineral Water Cans Multipack 375ml x 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/189114.jpg",
+    "source_id": "189114",
+    "barcode": "9315596007991",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "375mL x 10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1995",
+        "price_per_unit": "532",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/schweppes-zero-sugar-lime-and-lemon-infused-natural-mineral-sparkling-water-375ml-x-10-pack-10-pack-6274530",
+    "name": "Schweppes Zero Sugar Lime & Lemon Infused Na ... 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6274530.jpg&w=640&q=90",
+    "source_id": "6274530",
+    "barcode": "9315596008547",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "507",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/282467/schweppes-zero-sugar-lime-infused-mineral-water-cans-multipack",
+    "name": "Schweppes Zero Sugar Lime Infused Mineral Water Cans Multipack 375ml x 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/282467.jpg",
+    "source_id": "282467",
+    "barcode": "9315596008547",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "375mL x 10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1995",
+        "price_per_unit": "532",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/the-juice-lab-wellness-multidose-shot-immunity-350ml-5624659",
+    "name": "The Juice Lab Wellness Multidose Shot Immunity | 350mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5624659.jpg&w=640&q=90",
+    "source_id": "5624659",
+    "barcode": "9350142002112",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "3429",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/247557/the-juice-lab-well-immune-multidose-orange-turmeric-ginger",
+    "name": "The Juice Lab Well Immune Multidose Orange Turmeric Ginger 350ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/247557.jpg",
+    "source_id": "247557",
+    "barcode": "9350142002112",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "3429",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/the-juice-lab-wellness-shot-immunity-60ml-3960746",
+    "name": "The Juice Lab Wellness Shot Immunity | 60mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3960746.jpg&w=640&q=90",
+    "source_id": "3960746",
+    "barcode": "93562881",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "60ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "4167",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/227257/the-juice-lab-wellness-shot-calm",
+    "name": "The Juice Lab Wellness Shot Calm 60ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/227257.jpg",
+    "source_id": "227257",
+    "barcode": "93562881",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "60ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "5833",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-lemon-and-lime-sparkling-water-1.25l-3277179",
+    "name": "Coles Lemon & Lime Sparkling Water | 1.25L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3277179.jpg&w=640&q=90",
+    "source_id": "3277179",
+    "barcode": "9300633417918",
+    "shop": "coles",
+    "category_id": "22231",
+    "weight": "1.25l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "144",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/756089/woolworths-lightly-sparkling-lime-water",
+    "name": "Woolworths Lightly Sparkling Lime Water 1.25l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/756089.jpg",
+    "source_id": "756089",
+    "barcode": "9300633417918",
+    "shop": "Woolworths",
+    "category_id": "22231",
+    "weight": "1.25L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "130",
+        "price_per_unit": "104",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/don-gluten-free-footy-franks-skinless-600g-1500304",
+    "name": "Don Gluten Free Footy Franks Skinless | 600g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1500304.jpg&w=640&q=90",
+    "source_id": "1500304",
+    "barcode": "9326451792587",
+    "shop": "coles",
+    "category_id": "24030",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "780",
+        "price_per_unit": "1300",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/789962/don-footy-frankfurts-skinless",
+    "name": "Don Footy Frankfurts Skinless 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/789962.jpg",
+    "source_id": "789962",
+    "barcode": "9326451792587",
+    "shop": "Woolworths",
+    "category_id": "24030",
+    "weight": "600G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "1317",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hans-twiggy-sticks-mild-500g-2517845",
+    "name": "Hans Twiggy Sticks Mild | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2517845.jpg&w=640&q=90",
+    "source_id": "2517845",
+    "barcode": "9310568462167",
+    "shop": "coles",
+    "category_id": "24030",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "2200",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6008517/hans-twiggy-sticks-mild",
+    "name": "Hans Twiggy Sticks Mild 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6008517.jpg",
+    "source_id": "6008517",
+    "barcode": "9310568462167",
+    "shop": "Woolworths",
+    "category_id": "24030",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/primo-cocktail-frankfurts-1-kg-4509983",
+    "name": "Primo Cocktail Frankfurts | 1 kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4509983.jpg&w=640&q=90",
+    "source_id": "4509983",
+    "barcode": "9311594046857",
+    "shop": "coles",
+    "category_id": "24030",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/185410/primo-cocktail-frankfurts-cocktail",
+    "name": "Primo Cocktail Frankfurts 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/185410.jpg",
+    "source_id": "185410",
+    "barcode": "9311594046857",
+    "shop": "Woolworths",
+    "category_id": "24030",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "790",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/primo-thin-frankfurts-1-kg-4510009",
+    "name": "Primo Thin Frankfurts | 1 kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4510009.jpg&w=640&q=90",
+    "source_id": "4510009",
+    "barcode": "9311594223463",
+    "shop": "coles",
+    "category_id": "24030",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/185280/primo-frankfurts-slim",
+    "name": "Primo Frankfurts Slim 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/185280.jpg",
+    "source_id": "185280",
+    "barcode": "9311594223463",
+    "shop": "Woolworths",
+    "category_id": "24030",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "790",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

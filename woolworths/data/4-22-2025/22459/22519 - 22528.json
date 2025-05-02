@@ -1,0 +1,102 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/169533/brunnings-all-purpose-npk-fertiliser",
+    "name": "Brunnings All Purpose Npk Fertiliser 3kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/169533.jpg",
+    "source_id": "169533",
+    "barcode": "9310522500720",
+    "category_id": "22459",
+    "subcategory_id": "22519",
+    "subsubcategory_id": "22528",
+    "shop": "Woolworths",
+    "weight": "3Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1850",
+        "price_per_unit": "62",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/234686/brunnings-all-purpose-npk-fertiliser-for-indoor-outdoor-plants",
+    "name": "Brunnings All Purpose NPK Fertiliser For Indoor & Outdoor Plants 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/234686.jpg",
+    "source_id": "234686",
+    "barcode": "9310522021331",
+    "category_id": "22459",
+    "subcategory_id": "22519",
+    "subsubcategory_id": "22528",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "110",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/29923/brunnings-organic-blood-bone-based-fertiliser",
+    "name": "Brunnings Organic Blood & Bone Based Fertiliser 2.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/029923.jpg",
+    "source_id": "29923",
+    "barcode": "9310522021386",
+    "category_id": "22459",
+    "subcategory_id": "22519",
+    "subsubcategory_id": "22528",
+    "shop": "Woolworths",
+    "weight": "2.5Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/12492/brunnings-organic-fruit-citrus-food",
+    "name": "Brunnings Organic Fruit & Citrus Food 2.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/012492.jpg",
+    "source_id": "12492",
+    "barcode": "9310522025506",
+    "category_id": "22459",
+    "subcategory_id": "22519",
+    "subsubcategory_id": "22528",
+    "shop": "Woolworths",
+    "weight": "2.5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/12482/brunnings-organic-rose-flower-food",
+    "name": "Brunnings Organic Rose & Flower Food 2.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/012482.jpg",
+    "source_id": "12482",
+    "barcode": "9310522025490",
+    "category_id": "22459",
+    "subcategory_id": "22519",
+    "subsubcategory_id": "22528",
+    "shop": "Woolworths",
+    "weight": "2.5kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "56",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180011/chan-s-yum-cha-pork-chive-gyoza",
+    "name": "Chan's Yum Cha Pork & Chive Gyoza 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/180011.jpg",
+    "source_id": "180011",
+    "barcode": "9355683003758",
+    "category_id": "22089",
+    "subcategory_id": "22140",
+    "subsubcategory_id": "22141",
+    "shop": "Woolworths",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "795",
+        "price_per_unit": "318",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "795",
+        "price_per_unit": "318",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "795",
+        "price_per_unit": "318",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "795",
+        "price_per_unit": "318",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-moist-coconut-flakes-225g-5228822",
+    "name": "McKenzie's Moist Coconut Flakes | 225g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5228822.jpg&w=640&q=90",
+    "source_id": "5228822",
+    "barcode": "9310061017208",
+    "shop": "coles",
+    "category_id": "22781",
+    "weight": "225g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "129",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/251036/mckenzie-s-coconut-moist-flakes",
+    "name": "McKenzie's Coconut Moist Flakes 225g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/251036.jpg",
+    "source_id": "251036",
+    "barcode": "9310061017208",
+    "shop": "Woolworths",
+    "category_id": "22781",
+    "weight": "225G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "1600",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-desiccated-coconut-250g-120024",
+    "name": "McKenzie's Desiccated Coconut | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F120024.jpg&w=640&q=90",
+    "source_id": "120024",
+    "barcode": "9310061550101",
+    "shop": "coles",
+    "category_id": "22781",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "88",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/28708/mckenzie-s-coconut-fine-desiccated",
+    "name": "McKenzie's Coconut Fine Desiccated 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/028708.jpg",
+    "source_id": "28708",
+    "barcode": "9310061550101",
+    "shop": "Woolworths",
+    "category_id": "22781",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "1100",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-shredded-coconut-pouches-215g-5228833",
+    "name": "McKenzie's Shredded Coconut Pouches | 215g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5228833.jpg&w=640&q=90",
+    "source_id": "5228833",
+    "barcode": "9310061122674",
+    "shop": "coles",
+    "category_id": "22781",
+    "weight": "215g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "167",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/782242/mckenzie-s-coconut-shredded-loose",
+    "name": "McKenzie's Coconut Shredded Loose 215g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/782242.jpg",
+    "source_id": "782242",
+    "barcode": "9310061122674",
+    "shop": "Woolworths",
+    "category_id": "22781",
+    "weight": "215G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "1674",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

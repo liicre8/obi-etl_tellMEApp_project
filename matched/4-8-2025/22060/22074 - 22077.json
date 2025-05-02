@@ -1,0 +1,146 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/golden-crumpet-square-6-pack-425g-6034275",
+    "name": "Golden Crumpet Square 6 pack | 425g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6034275.jpg&w=640&q=90",
+    "source_id": "6034275",
+    "barcode": "9310043003434",
+    "shop": "coles",
+    "category_id": "22077",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "82",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/7413/golden-crumpet-squares",
+    "name": "Golden Crumpet Squares 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/007413.jpg",
+    "source_id": "7413",
+    "barcode": "9310043003434",
+    "shop": "Woolworths",
+    "category_id": "22077",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "83",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/golden-crumpet-rounds-wholemeal-300g-292223",
+    "name": "Golden Crumpet Rounds Wholemeal | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F292223.jpg&w=640&q=90",
+    "source_id": "292223",
+    "barcode": "9310043003076",
+    "shop": "coles",
+    "category_id": "22077",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "153",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/31560/golden-crumpets-round-wholemeal",
+    "name": "Golden Crumpets Round Wholemeal 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/031560.jpg",
+    "source_id": "31560",
+    "barcode": "9310043003076",
+    "shop": "Woolworths",
+    "category_id": "22077",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "38",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/golden-pancakes-6-pack-360g-6051649",
+    "name": "Golden Pancakes 6 Pack | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6051649.jpg&w=640&q=90",
+    "source_id": "6051649",
+    "barcode": "9310043003519",
+    "shop": "coles",
+    "category_id": "22077",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "125",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33140/golden-pancakes",
+    "name": "Golden Pancakes 6 Pack 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033140.jpg",
+    "source_id": "33140",
+    "barcode": "9310043003519",
+    "shop": "Woolworths",
+    "category_id": "22077",
+    "weight": "6 Pack 360G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/golden-pikelets-original-200g-54000",
+    "name": "Golden Pikelets Original | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F54000.jpg&w=640&q=90",
+    "source_id": "54000",
+    "barcode": "9310043003205",
+    "shop": "coles",
+    "category_id": "22077",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/46645/golden-pikelets",
+    "name": "Golden Pikelets 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/046645.jpg",
+    "source_id": "46645",
+    "barcode": "9310043003205",
+    "shop": "Woolworths",
+    "category_id": "22077",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/211595/all-smiles-denture-tablets",
+    "name": "All Smiles Denture Tablets 48 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/211595.jpg",
+    "source_id": "211595",
+    "barcode": "9300633901776",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "22406",
+    "shop": "Woolworths",
+    "weight": "48 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "7",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6010170/go2-dentagenie-sonic-cleaner",
+    "name": "Go2 Dentagenie Sonic Cleaner each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6010170.jpg",
+    "source_id": "6010170",
+    "barcode": "9342475108067",
+    "category_id": "22394",
+    "subcategory_id": "22394",
+    "subsubcategory_id": "22406",
+    "shop": "Woolworths",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "7350",
+        "price_per_unit": "7350",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/toscano-toasting-waffle-classic-160g-7856644",
+    "name": "Toscano Toasting Waffle Classic | 160g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7856644.jpg&w=640&q=90",
+    "source_id": "7856644",
+    "barcode": "9300602385958",
+    "shop": "coles",
+    "category_id": "22078",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "247",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/117370/toscano-4-toasting-waffles-classic",
+    "name": "Toscano 4 Toasting Waffles Classic 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/117370.jpg",
+    "source_id": "117370",
+    "barcode": "9300602385958",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "247",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/toscano-crepes-chocolate-180g-2902427",
+    "name": "Toscano Crepes Chocolate | 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2902427.jpg&w=640&q=90",
+    "source_id": "2902427",
+    "barcode": "9300602375072",
+    "shop": "coles",
+    "category_id": "22078",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "333",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/388030/toscano-french-crepes-chocolate-hazelnut",
+    "name": "Toscano French Crepes Chocolate Hazelnut 180g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/388030.jpg",
+    "source_id": "388030",
+    "barcode": "9300602375072",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "333",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/toscano-mini-waffles-200g-4986213",
+    "name": "Toscano Mini Waffles | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4986213.jpg&w=640&q=90",
+    "source_id": "4986213",
+    "barcode": "9350007001687",
+    "shop": "coles",
+    "category_id": "22078",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "275",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/693170/toscano-mini-waffle",
+    "name": "Toscano Mini Waffle 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/693170.jpg",
+    "source_id": "693170",
+    "barcode": "9350007001687",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "275",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/toscano-traditional-butter-waffles-4-pack-360g-8995056",
+    "name": "Toscano Traditional Butter Waffles 4 pack | 360g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8995056.jpg&w=640&q=90",
+    "source_id": "8995056",
+    "barcode": "9417986938868",
+    "shop": "coles",
+    "category_id": "22078",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "208",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/785629/toscano-waffles",
+    "name": "Toscano Waffles 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/785629.jpg",
+    "source_id": "785629",
+    "barcode": "9417986938868",
+    "shop": "Woolworths",
+    "category_id": "22078",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "208",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

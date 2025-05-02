@@ -1,0 +1,614 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-evening-primrose-oil-skin-capsules-125-pack-1847141",
+    "name": "Blackmores Evening Primrose Oil Skin Capsules | 125 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1847141.jpg&w=640&q=90",
+    "source_id": "1847141",
+    "barcode": "9300807219065",
+    "shop": "coles",
+    "category_id": "22453",
+    "weight": "125pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "1400",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/200718/blackmores-evening-primrose-oil-skin-health-vitamin-capsules",
+    "name": "Blackmores Evening Primrose Oil Skin Health Vitamin Capsules 125 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/200718.jpg",
+    "source_id": "200718",
+    "barcode": "9300807219065",
+    "shop": "Woolworths",
+    "category_id": "22453",
+    "weight": "125 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3500",
+        "price_per_unit": "2800",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-nails-hair-and-skin-vitamin-tablets-60-pack-4643487",
+    "name": "Blackmores Nails Hair & Skin Vitamin Tablets | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4643487.jpg&w=640&q=90",
+    "source_id": "4643487",
+    "barcode": "93333535",
+    "shop": "coles",
+    "category_id": "22453",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/228483/blackmores-nails-hair-skin-beauty-vitamin-tablets",
+    "name": "Blackmores Nails Hair & Skin Beauty Vitamin Tablets 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/228483.jpg",
+    "source_id": "228483",
+    "barcode": "93333535",
+    "shop": "Woolworths",
+    "category_id": "22453",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1667",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-hair-skin-nails-120-pack-6481580",
+    "name": "Blackmores Hair Skin Nails | 120 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6481580.jpg&w=640&q=90",
+    "source_id": "6481580",
+    "barcode": "93894326",
+    "shop": "coles",
+    "category_id": "22453",
+    "weight": "120pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "1458",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296181/blackmores-nails-hair-skin-tablets",
+    "name": "Blackmores Nails Hair & Skin Tablets 120 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/296181.jpg",
+    "source_id": "296181",
+    "barcode": "93894326",
+    "shop": "Woolworths",
+    "category_id": "22453",
+    "weight": "120 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3500",
+        "price_per_unit": "2917",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-zinc-plus-tablets-for-wellbeing-+-skin-health-150-pack-2828743",
+    "name": "Cenovis Zinc Plus Tablets For Wellbeing + Skin Health | 150 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2828743.jpg&w=640&q=90",
+    "source_id": "2828743",
+    "barcode": "9300705605397",
+    "shop": "coles",
+    "category_id": "22453",
+    "weight": "150pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "1067",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/460958/cenovis-zinc-plus-tablets-for-general-wellbeing-skin-health",
+    "name": "Cenovis Zinc Plus Tablets For General Wellbeing + Skin Health 150 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/460958.jpg",
+    "source_id": "460958",
+    "barcode": "9300705605397",
+    "shop": "Woolworths",
+    "category_id": "22453",
+    "weight": "150 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "1067",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/haircarebear-apple-cider-vinegar-gummies-60-pack-4789518",
+    "name": "Haircarebear Apple Cider Vinegar Gummies | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4789518.jpg&w=640&q=90",
+    "source_id": "4789518",
+    "barcode": "9354792000047",
+    "shop": "coles",
+    "category_id": "22453",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "5000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/149009/haircarebear-apple-cider-vinegar-gummies-apple",
+    "name": "Haircarebear Apple Cider Vinegar Gummies Apple 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/149009.jpg",
+    "source_id": "149009",
+    "barcode": "9354792000047",
+    "shop": "Woolworths",
+    "category_id": "22453",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1395",
+        "price_per_unit": "2325",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/haircarebear-hair-gummies-60-pack-4788934",
+    "name": "Haircarebear Hair Gummies | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4788934.jpg&w=640&q=90",
+    "source_id": "4788934",
+    "barcode": "9354792002195",
+    "shop": "coles",
+    "category_id": "22453",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "5000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/149504/haircarebear-hair-gummies-mixed-berry",
+    "name": "Haircarebear Hair Gummies Mixed Berry 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/149504.jpg",
+    "source_id": "149504",
+    "barcode": "9354792002195",
+    "shop": "Woolworths",
+    "category_id": "22453",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1395",
+        "price_per_unit": "2325",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-vita-gummies-hair-skin-and-nails-60-pack-2564415",
+    "name": "Nature's Way Vita Gummies Hair- Skin & Nails | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2564415.jpg&w=640&q=90",
+    "source_id": "2564415",
+    "barcode": "9314807052003",
+    "shop": "coles",
+    "category_id": "22453",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/942010/nature-s-way-adult-vita-gummies-hair-skin-nails",
+    "name": "Nature's Way Adult Vita Gummies Hair Skin & Nails 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/942010.jpg",
+    "source_id": "942010",
+    "barcode": "9314807052003",
+    "shop": "Woolworths",
+    "category_id": "22453",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "4000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-ashwagandha-tablets-50-pack-4808645",
+    "name": "Nature's Way Ashwagandha Tablets | 50 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4808645.jpg&w=640&q=90",
+    "source_id": "4808645",
+    "barcode": "9314807079895",
+    "shop": "coles",
+    "category_id": "22453",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "2700",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/206486/nature-s-way-ashwagandha-hard-capsules",
+    "name": "Nature's Way Ashwagandha Hard Capsules 50 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/206486.jpg",
+    "source_id": "206486",
+    "barcode": "9314807079895",
+    "shop": "Woolworths",
+    "category_id": "22453",
+    "weight": "50 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2700",
+        "price_per_unit": "5400",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-way-beauty-hair-scalp-skin-nails-60-pack-6496645",
+    "name": "Natures Way Beauty Hair Scalp Skin Nails | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6496645.jpg&w=640&q=90",
+    "source_id": "6496645",
+    "barcode": "9314807083403",
+    "shop": "coles",
+    "category_id": "22453",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/304474/nature-s-way-beauty-hair-scalp-skin-nails-tablets",
+    "name": "Nature's Way Beauty Hair Scalp Skin & Nails Tablets 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/304474.jpg",
+    "source_id": "304474",
+    "barcode": "9314807083403",
+    "shop": "Woolworths",
+    "category_id": "22453",
+    "weight": "60 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-way-adult-vita-gummies-hair-skin-nails-150-pack-7482475",
+    "name": "Natures Way Adult Vita Gummies Hair Skin Nails | 150 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7482475.jpg&w=640&q=90",
+    "source_id": "7482475",
+    "barcode": "9314807086060",
+    "shop": "coles",
+    "category_id": "22453",
+    "weight": "150pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "1333",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/898456/nature-s-way-hair-skin-nails-adult-vita-gummies-berry",
+    "name": "Nature's Way Hair Skin Nails Adult Vita Gummies Berry 150 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/898456.jpg",
+    "source_id": "898456",
+    "barcode": "9314807086060",
+    "shop": "Woolworths",
+    "category_id": "22453",
+    "weight": "150 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4000",
+        "price_per_unit": "2667",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/swisse-beauty-hair-skin-nails-gummies-with-vitamin-c-to-support-skin-health-50-pack-4223765",
+    "name": "Swisse Beauty Hair Skin Nails Gummies With Vitamin C To Support Skin Health | 50 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4223765.jpg&w=640&q=90",
+    "source_id": "4223765",
+    "barcode": "93565011",
+    "shop": "coles",
+    "category_id": "22453",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2950",
+        "price_per_unit": "5900",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/165985/swisse-beauty-hair-skin-nails-gummies",
+    "name": "Swisse Beauty Hair Skin Nails Gummies 50 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/165985.jpg",
+    "source_id": "165985",
+    "barcode": "93565011",
+    "shop": "Woolworths",
+    "category_id": "22453",
+    "weight": "50 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2950",
+        "price_per_unit": "5900",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/swisse-beauty-hair-skin-nails+-for-beauty-from-within-100-pack-8097119",
+    "name": "Swisse Beauty Hair Skin Nails+ For Beauty From Within | 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8097119.jpg&w=640&q=90",
+    "source_id": "8097119",
+    "barcode": "9311770588218",
+    "shop": "coles",
+    "category_id": "22453",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3950",
+        "price_per_unit": "3950",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/725183/swisse-beauty-hair-skin-nails-tablets",
+    "name": "Swisse Beauty Hair Skin Nails+ Tablets 100 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/725183.jpg",
+    "source_id": "725183",
+    "barcode": "9311770588218",
+    "shop": "Woolworths",
+    "category_id": "22453",
+    "weight": "100 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3950",
+        "price_per_unit": "3950",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/swisse-beauty-hair-skin-nails+-for-beauty-from-within-60-pack-7109303",
+    "name": "Swisse Beauty Hair Skin Nails+ For Beauty From Within | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7109303.jpg&w=640&q=90",
+    "source_id": "7109303",
+    "barcode": "9311770588041",
+    "shop": "coles",
+    "category_id": "22453",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2950",
+        "price_per_unit": "4917",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/324905/swisse-beauty-hair-skin-nails-tablets",
+    "name": "Swisse Beauty Hair Skin Nails+ Tablets 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/324905.jpg",
+    "source_id": "324905",
+    "barcode": "9311770588041",
+    "shop": "Woolworths",
+    "category_id": "22453",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2950",
+        "price_per_unit": "4917",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/swisse-ultiboost-hair-nutrition-for-men-capsules-60-pack-3768217",
+    "name": "Swisse Ultiboost Hair Nutrition For Men Capsules | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3768217.jpg&w=640&q=90",
+    "source_id": "3768217",
+    "barcode": "9311770601146",
+    "shop": "coles",
+    "category_id": "22453",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3350",
+        "price_per_unit": "5583",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6008916/swisse-ultiboost-hair-nutrition-for-men-soft-capsules",
+    "name": "Swisse Ultiboost Hair Nutrition For Men Soft Capsules 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6008916.jpg",
+    "source_id": "6008916",
+    "barcode": "9311770601146",
+    "shop": "Woolworths",
+    "category_id": "22453",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3350",
+        "price_per_unit": "5583",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/swisse-ultibiotic-hair-nutrition-for-women-capsules-60-pack-3768228",
+    "name": "Swisse Ultibiotic Hair Nutrition For Women Capsules | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3768228.jpg&w=640&q=90",
+    "source_id": "3768228",
+    "barcode": "9311770601153",
+    "shop": "coles",
+    "category_id": "22453",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3350",
+        "price_per_unit": "5583",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6009500/swisse-ultiboost-hair-nutrition-for-women-capsules",
+    "name": "Swisse Ultiboost Hair Nutrition for Women Capsules 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6009500.jpg",
+    "source_id": "6009500",
+    "barcode": "9311770601153",
+    "shop": "Woolworths",
+    "category_id": "22453",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3350",
+        "price_per_unit": "5583",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/swisse-ultiboost-high-strength-c-for-immune-system-health-support-150-pack-2869456",
+    "name": "Swisse Ultiboost High Strength C For Immune System Health Support | 150 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2869456.jpg&w=640&q=90",
+    "source_id": "2869456",
+    "barcode": "9311770598200",
+    "shop": "coles",
+    "category_id": "22453",
+    "weight": "150pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4500",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/61703/swisse-ultiboost-high-strength-c-tablets",
+    "name": "Swisse Ultiboost High Strength C Tablets 150 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/061703.jpg",
+    "source_id": "61703",
+    "barcode": "9311770598200",
+    "shop": "Woolworths",
+    "category_id": "22453",
+    "weight": "150 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4500",
+        "price_per_unit": "3000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/swisse-ultiboost-zinc+-contains-zinc-for-immune-system-health-support-60-pack-9120329",
+    "name": "Swisse Ultiboost Zinc+ Contains Zinc For Immune System Health Support | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9120329.jpg&w=640&q=90",
+    "source_id": "9120329",
+    "barcode": "9311770589666",
+    "shop": "coles",
+    "category_id": "22453",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1950",
+        "price_per_unit": "3250",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/725119/swisse-ultiboost-zinc-tablets-for-immune-system-support",
+    "name": "Swisse Ultiboost Zinc+ Tablets For Immune System Support 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/725119.jpg",
+    "source_id": "725119",
+    "barcode": "9311770589666",
+    "shop": "Woolworths",
+    "category_id": "22453",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1950",
+        "price_per_unit": "3250",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

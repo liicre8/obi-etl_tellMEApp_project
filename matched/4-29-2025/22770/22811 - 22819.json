@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/cholula-chipotle-hot-sauce-150ml-8687407",
+    "name": "Cholula Chipotle Hot Sauce | 150ML",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8687407.jpg&w=640&q=90",
+    "source_id": "8687407",
+    "barcode": "49733000208",
+    "shop": "coles",
+    "category_id": "22819",
+    "weight": "150ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "313",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/962055/cholula-chipotle-hot-sauce",
+    "name": "Cholula Chipotle Hot Sauce 150mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/962055.jpg",
+    "source_id": "962055",
+    "barcode": "49733000208",
+    "shop": "Woolworths",
+    "category_id": "22819",
+    "weight": "150mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "367",
+        "price_unit": "ML"
+      }
+    ]
+  }
+]

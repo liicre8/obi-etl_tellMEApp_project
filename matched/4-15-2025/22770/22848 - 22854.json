@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/little-bellies-organic-pear-and-vanilla-paws-10-months+-12g-5025552",
+    "name": "Little Bellies Organic Pear & Vanilla Paws 10 Months+ | 12g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5025552.jpg&w=640&q=90",
+    "source_id": "5025552",
+    "barcode": "9337824003421",
+    "shop": "coles",
+    "category_id": "22854",
+    "weight": "12g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1667",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/176008/little-bellies-organic-pear-vanilla-paws",
+    "name": "Little Bellies Organic Pear & Vanilla Paws 12g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/176008.jpg",
+    "source_id": "176008",
+    "barcode": "9337824003421",
+    "shop": "Woolworths",
+    "category_id": "22854",
+    "weight": "12g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "1667",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

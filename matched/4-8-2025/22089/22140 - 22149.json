@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/vegie-delights-plant-based-hot-dogs-300g-5141804",
+    "name": "Vegie Delights Plant Based Hot Dogs | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5141804.jpg&w=640&q=90",
+    "source_id": "5141804",
+    "barcode": "9349174000494",
+    "shop": "coles",
+    "category_id": "22149",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/249729/vegie-delights-plant-based-hot-dogs",
+    "name": "Vegie Delights Plant Based Hot Dogs 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/249729.jpg",
+    "source_id": "249729",
+    "barcode": "9349174000494",
+    "shop": "Woolworths",
+    "category_id": "22149",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vegie-delights-plant-based-vegie-sausages-300g-5141815",
+    "name": "Vegie Delights Plant Based Vegie Sausages | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5141815.jpg&w=640&q=90",
+    "source_id": "5141815",
+    "barcode": "9349174000500",
+    "shop": "coles",
+    "category_id": "22149",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/249730/vegie-delights-plant-based-vegie-sausages",
+    "name": "Vegie Delights Plant Based Vegie Sausages 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/249730.jpg",
+    "source_id": "249730",
+    "barcode": "9349174000500",
+    "shop": "Woolworths",
+    "category_id": "22149",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "2500",
+        "price_unit": "KG"
+      }
+    ]
+  }
+]

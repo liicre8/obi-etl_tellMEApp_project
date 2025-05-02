@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/huggies-ultra-dry-nappies-boys-size-3-(6-11kg)-44-pack-6803904",
+    "name": "Huggies Ultra Dry Nappies Boys Size 3 (6-11kg) | 44 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6803904.jpg&w=640&q=90",
+    "source_id": "6803904",
+    "barcode": "9310088023114",
+    "shop": "coles",
+    "category_id": "22049",
+    "weight": "44pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "50",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/16135/huggies-ultra-dry-nappies-boys-size-3-6-11kg-",
+    "name": "Huggies Ultra Dry Nappies Boys Size 3 (6-11kg) 44 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/016135.jpg",
+    "source_id": "16135",
+    "barcode": "9310088023114",
+    "shop": "Woolworths",
+    "category_id": "22049",
+    "weight": "44 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "39",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/huggies-ultra-dry-nappies-girls-size-3-(6-11kg)-44-pack-6803008",
+    "name": "Huggies Ultra Dry Nappies Girls Size 3 (6-11kg) | 44 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6803008.jpg&w=640&q=90",
+    "source_id": "6803008",
+    "barcode": "9310088023121",
+    "shop": "coles",
+    "category_id": "22049",
+    "weight": "44pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "50",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/16578/huggies-ultra-dry-nappies-girls-size-3-6-11kg-",
+    "name": "Huggies Ultra Dry Nappies Girls Size 3 (6-11kg) 44 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/016578.jpg",
+    "source_id": "16578",
+    "barcode": "9310088023121",
+    "shop": "Woolworths",
+    "category_id": "22049",
+    "weight": "44 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "39",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/babylove-cosifit-nappies-size-4-(9-14kg)-60-pack-4165148",
+    "name": "Babylove Cosifit Nappies Size 4 (9-14Kg) | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4165148.jpg&w=640&q=90",
+    "source_id": "4165148",
+    "barcode": "9312818004561",
+    "shop": "coles",
+    "category_id": "22049",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2700",
+        "price_per_unit": "45",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/155820/babylove-cosifit-nappies-size-4-9-14kg-",
+    "name": "Babylove Cosifit Nappies Size 4 (9-14kg) 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/155820.jpg",
+    "source_id": "155820",
+    "barcode": "9312818004561",
+    "shop": "Woolworths",
+    "category_id": "22049",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "40",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/chatime-mango-iced-bubble-tea-4-pack-5579000",
+    "name": "Chatime Mango Iced Bubble Tea | 4 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5579000.jpg&w=640&q=90",
+    "source_id": "5579000",
+    "barcode": "9359338000079",
+    "shop": "coles",
+    "category_id": "22188",
+    "weight": "4pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "225",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/227824/chatime-passionfruit-iced-bubble-tea",
+    "name": "Chatime Passionfruit Iced Bubble Tea 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/227824.jpg",
+    "source_id": "227824",
+    "barcode": "9359338000079",
+    "shop": "Woolworths",
+    "category_id": "22188",
+    "weight": "4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]

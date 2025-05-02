@@ -1,0 +1,5330 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-kids-chewable-vitamin-c-250mg-berry-150-pack-8168217",
+    "name": "Cenovis Kids Chewable Vitamin C 250Mg Be ... 150 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8168217.jpg&w=640&q=90",
+    "source_id": "8168217",
+    "barcode": "9300705606622",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "150pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "467",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/903813/cenovis-kids-chewable-vitamin-c-250mg-tablets-strawberry-flavour",
+    "name": "Cenovis Kids Chewable Vitamin C 250mg Tablets Strawberry Flavour 150 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/903813.jpg",
+    "source_id": "903813",
+    "barcode": "9300705606622",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "150 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "933",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-kids-smart-probiotic-50-milk-chocolate-balls-50-pack-1279129",
+    "name": "Nature's Way Kids Smart Probiotic 50 Milk Choc ... 50 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1279129.jpg&w=640&q=90",
+    "source_id": "1279129",
+    "barcode": "9314807025458",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "3500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/725423/nature-s-way-kids-smart-probiotic-choc-balls",
+    "name": "Nature's Way Kids Smart Probiotic Choc Balls 50 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/725423.jpg",
+    "source_id": "725423",
+    "barcode": "9314807025458",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "50 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "3500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-way-kids-vita-gummies-for-fussy-eaters-120-pack-8423347",
+    "name": "Natures Way Kids Vita Gummies For Fussy Eat ... 120 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8423347.jpg&w=640&q=90",
+    "source_id": "8423347",
+    "barcode": "9314807088361",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "120pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3200",
+        "price_per_unit": "2667",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/903811/nature-s-way-kids-smart-vita-gummies-multi-vitamin-pastilles",
+    "name": "Nature's Way Kids Smart Vita Gummies Multi Vitamin Pastilles 120 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/903811.jpg",
+    "source_id": "903811",
+    "barcode": "9314807088361",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "120 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "1333",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-kids-smart-vita-gummies-omega-60-pack-7969050",
+    "name": "Nature's Way Kids Smart Vita Gummies Omega | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7969050.jpg&w=640&q=90",
+    "source_id": "7969050",
+    "barcode": "9314807022853",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/360601/nature-s-way-kids-smart-vita-gummies-omega-3-dha-fish-oil",
+    "name": "Nature's Way Kids Smart Vita Gummies Omega-3 Dha Fish Oil 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/360601.jpg",
+    "source_id": "360601",
+    "barcode": "9314807022853",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "3000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-way-kids-gummies-probitotic-+-prebiotic-90-pack-8419394",
+    "name": "Natures Way Kids Gummies Probitotic + Prebiotic | 90 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8419394.jpg&w=640&q=90",
+    "source_id": "8419394",
+    "barcode": "9314807088378",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "90pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3200",
+        "price_per_unit": "3556",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/903734/nature-s-way-kids-smart-vita-gummies-probiotic-prebiotic",
+    "name": "Nature's Way Kids Smart Vita Gummies Probiotic & Prebiotic 90 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/903734.jpg",
+    "source_id": "903734",
+    "barcode": "9314807088378",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "90 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3200",
+        "price_per_unit": "3556",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-kids-smart-vita-gummies-immune-support-120-pack-4223674",
+    "name": "Nature's Way Kids Smart Vita Gummies Immune  ... 120 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4223674.jpg&w=640&q=90",
+    "source_id": "4223674",
+    "barcode": "9314807072421",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "120pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/306710/natures-way-kids-smart-vita-gummies-immune-support",
+    "name": "Natures Way Kids Smart Vita Gummies Immune Support 120 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/306710.jpg",
+    "source_id": "306710",
+    "barcode": "9314807072421",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "120 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "2500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-pregnancy-+-breastfeeding-gold-capsules-120-pack-5678410",
+    "name": "Blackmores Pregnancy + Breastfeeding Gold Capsules | 120 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5678410.jpg&w=640&q=90",
+    "source_id": "5678410",
+    "barcode": "9300807236727",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "120pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5000",
+        "price_per_unit": "4167",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/258736/blackmores-pregnancy-breastfeeding-gold-vitamin-capsules",
+    "name": "Blackmores Pregnancy & Breastfeeding Gold Vitamin Capsules 120 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/258736.jpg",
+    "source_id": "258736",
+    "barcode": "9300807236727",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "120 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "2083",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-bio-iron-advanced-energy-tablets-30-pack-2268988",
+    "name": "Blackmores Bio Iron Advanced Energy Tablets | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2268988.jpg&w=640&q=90",
+    "source_id": "2268988",
+    "barcode": "93556828",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "6667",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/59321/blackmores-bio-iron-advanced-energy-support-tablets",
+    "name": "Blackmores Bio Iron Advanced Energy Support Tablets 30 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/059321.jpg",
+    "source_id": "59321",
+    "barcode": "93556828",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "3333",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-cranberry-forte-50000mg-30-pack-9105926",
+    "name": "Blackmores Cranberry Forte 50000Mg | 30 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9105926.jpg&w=640&q=90",
+    "source_id": "9105926",
+    "barcode": "93573320",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2800",
+        "price_per_unit": "9334",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6000126/blackmores-cranberry-forte-50000mg-capsules",
+    "name": "Blackmores Cranberry Forte 50000mg Capsules 30 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6000126.jpg",
+    "source_id": "6000126",
+    "barcode": "93573320",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2800",
+        "price_per_unit": "9333",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-nails-hair-and-skin-vitamin-tablets-60-pack-4643487",
+    "name": "Blackmores Nails Hair & Skin Vitamin Tablets | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4643487.jpg&w=640&q=90",
+    "source_id": "4643487",
+    "barcode": "93333535",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "3333",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/228483/blackmores-nails-hair-skin-beauty-vitamin-tablets",
+    "name": "Blackmores Nails Hair & Skin Beauty Vitamin Tablets 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/228483.jpg",
+    "source_id": "228483",
+    "barcode": "93333535",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "3333",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-iron-plus-tablets-for-women's-health-80-pack-2676124",
+    "name": "Cenovis Iron Plus Tablets For Women's Health | 80 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2676124.jpg&w=640&q=90",
+    "source_id": "2676124",
+    "barcode": "9300705605441",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "80pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/460962/cenovis-iron-plus-tablets-for-women-s-health",
+    "name": "Cenovis Iron Plus Tablets For Women's Health 80 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/460962.jpg",
+    "source_id": "460962",
+    "barcode": "9300705605441",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "80 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "2125",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-women's-multivitamin-capsules-multi-for-energy-100-pack-2826114",
+    "name": "Cenovis Women's Multivitamin Capsules Multi For Energy | 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2826114.jpg&w=640&q=90",
+    "source_id": "2826114",
+    "barcode": "9300705605816",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1450",
+        "price_per_unit": "1450",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/61135/cenovis-women-s-multivitamin-capsules-multi-vitamin-for-energy",
+    "name": "Cenovis Women's Multivitamin Capsules Multi Vitamin For Energy 100 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/061135.jpg",
+    "source_id": "61135",
+    "barcode": "9300705605816",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "100 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-own-activated-methyl-b12-vitamin-b-tablets-for-energy-60-pack-3758519",
+    "name": "Nature's Own Activated Methyl B12 Vitamin B Tablets For Energy | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3758519.jpg&w=640&q=90",
+    "source_id": "3758519",
+    "barcode": "9316090019077",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "2167",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/244267/nature-s-own-activated-methyl-b12-1000mcg-with-vitamin-b-for-energy",
+    "name": "Nature's Own Activated Methyl b12 1000mcg With Vitamin b For Energy 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/244267.jpg",
+    "source_id": "244267",
+    "barcode": "9316090019077",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2800",
+        "price_per_unit": "4667",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-way-high-strength-gummies-iron-24mg-30-pack-7482362",
+    "name": "Natures Way High Strength Gummies Iron 24Mg | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7482362.jpg&w=640&q=90",
+    "source_id": "7482362",
+    "barcode": "9314807086091",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "8334",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/902958/nature-s-way-adult-vita-gummies-24mg-iron-grape-flavour",
+    "name": "Nature's Way Adult Vita Gummies 24mg Iron Grape Flavour 30 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/902958.jpg",
+    "source_id": "902958",
+    "barcode": "9314807086091",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "8333",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-vita-gummies-hair-skin-and-nails-60-pack-2564415",
+    "name": "Nature's Way Vita Gummies Hair- Skin & Nails | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2564415.jpg&w=640&q=90",
+    "source_id": "2564415",
+    "barcode": "9314807052003",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "4000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/942010/nature-s-way-adult-vita-gummies-hair-skin-nails",
+    "name": "Nature's Way Adult Vita Gummies Hair Skin & Nails 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/942010.jpg",
+    "source_id": "942010",
+    "barcode": "9314807052003",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "4000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-men's-multivitamin-+-performance-multi-capsules-100-pack-2825993",
+    "name": "Cenovis Men's Multivitamin + Performance Multi Capsules | 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2825993.jpg&w=640&q=90",
+    "source_id": "2825993",
+    "barcode": "9300705605847",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "1750",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85592/cenovis-men-s-multivitamin-capsules-performance-multi-vitamin",
+    "name": "Cenovis Men's Multivitamin Capsules + Performance Multi Vitamin 100 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085592.jpg",
+    "source_id": "85592",
+    "barcode": "9300705605847",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "100 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3700",
+        "price_per_unit": "3700",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/naturopathica-horny-goat-weed-for-him-50-pack-9670873",
+    "name": "Naturopathica Horny Goat Weed For Him | 50 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9670873.jpg&w=640&q=90",
+    "source_id": "9670873",
+    "barcode": "9325740004806",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "60",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/172872/naturopathica-horny-goat-weed-tablets-for-him",
+    "name": "Naturopathica Horny Goat Weed Tablets For Him 50 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/172872.jpg",
+    "source_id": "172872",
+    "barcode": "9325740004806",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "50 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1850",
+        "price_per_unit": "3700",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kin-the-prenatal-soft-gel-60-pack-8160226",
+    "name": "Kin The Prenatal Soft Gel | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8160226.jpg&w=640&q=90",
+    "source_id": "8160226",
+    "barcode": "9309000023165",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2250",
+        "price_per_unit": "3750",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/396245/kin-the-prenatal-soft-capsules",
+    "name": "Kin The Prenatal Soft Capsules 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/396245.jpg",
+    "source_id": "396245",
+    "barcode": "9309000023165",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2250",
+        "price_per_unit": "3750",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/berocca-immune-effervescent-blackcurrant-45-pack-8158177",
+    "name": "Berocca Immune Effervescent Blackcurrant | 45 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8158177.jpg&w=640&q=90",
+    "source_id": "8158177",
+    "barcode": "4057599009392",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "45pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2600",
+        "price_per_unit": "5778",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/907053/berocca-immune-daily-defence-blackcurrant-effervescent",
+    "name": "Berocca Immune Daily Defence Blackcurrant Effervescent 45 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/907053.jpg",
+    "source_id": "907053",
+    "barcode": "4057599009392",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "45 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2600",
+        "price_per_unit": "5778",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/berocca-immune-effervescent-orange-15-pack-8157673",
+    "name": "Berocca Immune Effervescent Orange | 15 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8157673.jpg&w=640&q=90",
+    "source_id": "8157673",
+    "barcode": "4057599009378",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "15pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "6667",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/662095/berocca-immune-daily-defence-effervescent-tablets",
+    "name": "Berocca Immune Daily Defence Effervescent Tablets 15 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/662095.jpg",
+    "source_id": "662095",
+    "barcode": "4057599009378",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "15 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "6000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/berocca-immune-effervescent-orange-45-pack-8158155",
+    "name": "Berocca Immune Effervescent Orange | 45 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8158155.jpg&w=640&q=90",
+    "source_id": "8158155",
+    "barcode": "4057599009385",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "45pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2600",
+        "price_per_unit": "5778",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/905684/berocca-immune-daily-defence-orange-effervescent-tablets",
+    "name": "Berocca Immune Daily Defence Orange Effervescent Tablets 45 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/905684.jpg",
+    "source_id": "905684",
+    "barcode": "4057599009385",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "45 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2600",
+        "price_per_unit": "5778",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-bio-c-1000mg-vitamin-c-immune-tablets-62-pack-8297402",
+    "name": "Blackmores Bio C 1000mg Vitamin C Immune Tablets | 62 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8297402.jpg&w=640&q=90",
+    "source_id": "8297402",
+    "barcode": "93558594",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "62pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "3548",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6571/blackmores-bio-c-1000mg-vitamin-c-immune-support-tablets",
+    "name": "Blackmores Bio c 1000mg Vitamin c Immune Support Tablets 62 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/006571.jpg",
+    "source_id": "6571",
+    "barcode": "93558594",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "62 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "3548",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-bio-zinc-tablets-168-pack-3788112",
+    "name": "Blackmores Bio Zinc Tablets | 168 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3788112.jpg&w=640&q=90",
+    "source_id": "3788112",
+    "barcode": "93808989",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "168pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4500",
+        "price_per_unit": "2679",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/172777/blackmores-bio-zinc-tablets",
+    "name": "Blackmores Bio Zinc Tablets 168 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/172777.jpg",
+    "source_id": "172777",
+    "barcode": "93808989",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "168 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2250",
+        "price_per_unit": "1339",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-lyp-sine-cold-sore-relief-tablets-30-pack-8297650",
+    "name": "Blackmores Lyp-Sine Cold Sore Relief Tablets | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8297650.jpg&w=640&q=90",
+    "source_id": "8297650",
+    "barcode": "93448826",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "4667",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/8595/blackmores-lyp-sine-cold-sore-relief-vitamin-tablets",
+    "name": "Blackmores Lyp-Sine Cold Sore Relief Vitamin Tablets 30 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/008595.jpg",
+    "source_id": "8595",
+    "barcode": "93448826",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "4667",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-vitamin-c-500mg-immune-tablets-120-pack-2837959",
+    "name": "Blackmores Vitamin C 500mg Immune Tablets | 120 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2837959.jpg&w=640&q=90",
+    "source_id": "2837959",
+    "barcode": "9300807324172",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "120pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "1333",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85697/blackmores-vitamin-c-500mg-immune-support-tablets",
+    "name": "Blackmores Vitamin c 500mg Immune Support Tablets 120 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085697.jpg",
+    "source_id": "85697",
+    "barcode": "9300807324172",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "120 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "1333",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-chewable-mega-c-1000mg-berry-60-pack-8167881",
+    "name": "Cenovis Chewable Mega C 1000mg Berry | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8167881.jpg&w=640&q=90",
+    "source_id": "8167881",
+    "barcode": "9300705606653",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "725",
+        "price_per_unit": "1208",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/903737/cenovis-chewable-mega-c-1000mg-immunity-berry-flavour",
+    "name": "Cenovis Chewable Mega C 1000mg Immunity Berry Flavour 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/903737.jpg",
+    "source_id": "903737",
+    "barcode": "9300705606653",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1450",
+        "price_per_unit": "2417",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-chewable-triple-action-vit-c-d-and-zinc-60-pack-8168035",
+    "name": "Cenovis Chewable Triple Action Vit C D And Zinc | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8168035.jpg&w=640&q=90",
+    "source_id": "8168035",
+    "barcode": "9300705606639",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "1500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/902979/cenovis-chewable-triple-action-vitamin-c-d-zinc-tablets",
+    "name": "Cenovis Chewable Triple Action Vitamin C, D & Zinc Tablets 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/902979.jpg",
+    "source_id": "902979",
+    "barcode": "9300705606639",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "3000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-echinacea-5000-capsules-for-immune-support-60-pack-9677125",
+    "name": "Cenovis Echinacea 5000 Capsules For Immune Support | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9677125.jpg&w=640&q=90",
+    "source_id": "9677125",
+    "barcode": "9300705602648",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "1500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/205649/cenovis-echinacea-5000-capsules-for-immune-support",
+    "name": "Cenovis Echinacea 5000 Capsules For Immune Support 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/205649.jpg",
+    "source_id": "205649",
+    "barcode": "9300705602648",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "3167",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-vitamin-c-250mg-tablets-for-immune-support-150-pack-2556213",
+    "name": "Cenovis Vitamin C 250mg Tablets For Immune Support | 150 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2556213.jpg&w=640&q=90",
+    "source_id": "2556213",
+    "barcode": "9300705605229",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "150pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "433",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/828923/cenovis-vitamin-c-250mg-tablets-for-immune-support",
+    "name": "Cenovis Vitamin c 250mg Tablets For Immune Support 150 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/828923.jpg",
+    "source_id": "828923",
+    "barcode": "9300705605229",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "150 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "933",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-zinc-plus-tablets-for-wellbeing-+-skin-health-150-pack-2828743",
+    "name": "Cenovis Zinc Plus Tablets For Wellbeing + Skin Health | 150 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2828743.jpg&w=640&q=90",
+    "source_id": "2828743",
+    "barcode": "9300705605397",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "150pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/460958/cenovis-zinc-plus-tablets-for-general-wellbeing-skin-health",
+    "name": "Cenovis Zinc Plus Tablets For General Wellbeing + Skin Health 150 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/460958.jpg",
+    "source_id": "460958",
+    "barcode": "9300705605397",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "150 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "1067",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-activated-curcumin-tablets-30-pack-2564798",
+    "name": "Nature's Way Activated Curcumin Tablets | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2564798.jpg&w=640&q=90",
+    "source_id": "2564798",
+    "barcode": "9314807052225",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2700",
+        "price_per_unit": "9000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/531547/nature-s-way-activated-curcumin",
+    "name": "Nature's Way Activated Curcumin 30 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/531547.jpg",
+    "source_id": "531547",
+    "barcode": "9314807052225",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2700",
+        "price_per_unit": "9000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-way-vitamins-c-500mg-chewable-320-pack-8165219",
+    "name": "Natures Way Vitamins C 500Mg Chewable | 320 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8165219.jpg&w=640&q=90",
+    "source_id": "8165219",
+    "barcode": "9314807088286",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "320pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "781",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/901831/nature-s-way-vitamin-c-500mg-chewable-tablets",
+    "name": "Nature's Way Vitamin C 500mg Chewable Tablets 320 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/901831.jpg",
+    "source_id": "901831",
+    "barcode": "9314807088286",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "320 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "781",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-fish-oil-1000mg-omega-3-capsules-200-pack-4941780",
+    "name": "Blackmores Fish Oil 1000mg Omega-3 Capsules | 200 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4941780.jpg&w=640&q=90",
+    "source_id": "4941780",
+    "barcode": "9300807287446",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "200pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4000",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/828172/blackmores-fish-oil-1000mg-omega-3-capsules",
+    "name": "Blackmores Fish Oil 1000mg Omega-3 Capsules 200 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/828172.jpg",
+    "source_id": "828172",
+    "barcode": "9300807287446",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "200 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4000",
+        "price_per_unit": "2000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-fish-oil-1000mg-omega-3-capsules-400-pack-4941770",
+    "name": "Blackmores Fish Oil 1000mg Omega-3 Capsules | 400 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4941770.jpg&w=640&q=90",
+    "source_id": "4941770",
+    "barcode": "9300807287378",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "400pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "6000",
+        "price_per_unit": "1500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/828200/blackmores-fish-oil-1000mg-omega-3-capsules",
+    "name": "Blackmores Fish Oil 1000mg Omega-3 Capsules 400 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/828200.jpg",
+    "source_id": "828200",
+    "barcode": "9300807287378",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "400 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-lutein-defence-eye-care-vitamin-tablets-60-pack-1812090",
+    "name": "Blackmores Lutein Defence Eye Care Vitamin Tablets | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1812090.jpg&w=640&q=90",
+    "source_id": "1812090",
+    "barcode": "93543811",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4400",
+        "price_per_unit": "7333",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/771942/blackmores-lutein-defence-eye-care-vitamin-tablets",
+    "name": "Blackmores Lutein Defence Eye Care Vitamin Tablets 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/771942.jpg",
+    "source_id": "771942",
+    "barcode": "93543811",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4400",
+        "price_per_unit": "7333",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-macu-vision-eye-care-vitamin-tablets-125-pack-3758100",
+    "name": "Blackmores Macu Vision Eye Care Vitamin Tablets | 125 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3758100.jpg&w=640&q=90",
+    "source_id": "3758100",
+    "barcode": "9300807307038",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "125pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5000",
+        "price_per_unit": "4000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/572399/blackmores-macu-vision-eye-care-vitamin-tablets",
+    "name": "Blackmores Macu Vision Eye Care Vitamin Tablets 125 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/572399.jpg",
+    "source_id": "572399",
+    "barcode": "9300807307038",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "125 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "2000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-multivitamin-for-women-sustained-release-tablets-60-pack-5325512",
+    "name": "Blackmores Multivitamin For Women Sustained Release Tablets | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5325512.jpg&w=640&q=90",
+    "source_id": "5325512",
+    "barcode": "93567077",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "5000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/204786/blackmores-multivitamin-for-women-sustained-release-tablets",
+    "name": "Blackmores Multivitamin For Women Sustained Release Tablets 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/204786.jpg",
+    "source_id": "204786",
+    "barcode": "93567077",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-multivitamins-50+-60-pack-9105890",
+    "name": "Blackmores Multivitamins 50+ | 60 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9105890.jpg&w=640&q=90",
+    "source_id": "9105890",
+    "barcode": "9300807349939",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "5000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/205074/blackmores-multivitamins-for-50-release-tablets",
+    "name": "Blackmores Multivitamins For 50+ Release Tablets 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/205074.jpg",
+    "source_id": "205074",
+    "barcode": "9300807349939",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-odourless-fish-oil-omega-3-capsules-200-pack-6294651",
+    "name": "Blackmores Odourless Fish Oil Omega-3  ... 200 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6294651.jpg&w=640&q=90",
+    "source_id": "6294651",
+    "barcode": "9300807287439",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "200pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4000",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/828148/blackmores-odourless-fish-oil-1000mg-omega-3-capsules",
+    "name": "Blackmores Odourless Fish Oil 1000mg Omega-3 Capsules 200 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/828148.jpg",
+    "source_id": "828148",
+    "barcode": "9300807287439",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "200 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-odourless-fish-oil-omega-3-capsules-400-pack-7109880",
+    "name": "Blackmores Odourless Fish Oil Omega-3  ... 400 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7109880.jpg&w=640&q=90",
+    "source_id": "7109880",
+    "barcode": "9300807287354",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "400pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "7000",
+        "price_per_unit": "1750",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/828136/blackmores-odourless-fish-oil-1000mg-omega-3-capsules",
+    "name": "Blackmores Odourless Fish Oil 1000mg Omega-3 Capsules 400 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/828136.jpg",
+    "source_id": "828136",
+    "barcode": "9300807287354",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "400 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "7000",
+        "price_per_unit": "1750",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-odourless-fish-oil-omega-3-mini-capsules-200-pack-2268955",
+    "name": "Blackmores Odourless Fish Oil Omega-3  ... 200 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2268955.jpg&w=640&q=90",
+    "source_id": "2268955",
+    "barcode": "9300807293195",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "200pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4500",
+        "price_per_unit": "2250",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/894475/blackmores-odourless-fish-oil-1000mg-omega-3-mini-capsules",
+    "name": "Blackmores Odourless Fish Oil 1000mg Omega-3 Mini Capsules 200 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/894475.jpg",
+    "source_id": "894475",
+    "barcode": "9300807293195",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "200 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4500",
+        "price_per_unit": "2250",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-50+-multivitamin-capsules-multi-for-energy-100-pack-2826125",
+    "name": "Cenovis 50+ Multivitamin Capsules Multi For Energy | 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2826125.jpg&w=640&q=90",
+    "source_id": "2826125",
+    "barcode": "9300705605632",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1550",
+        "price_per_unit": "1550",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/532342/cenovis-50-multivitamin-capsules-multi-vitamin-for-energy",
+    "name": "Cenovis 50+ Multivitamin Capsules Multi Vitamin For Energy 100 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/532342.jpg",
+    "source_id": "532342",
+    "barcode": "9300705605632",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "100 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3200",
+        "price_per_unit": "3200",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-st-john's-wort-tablets-for-healthy-mood-balance-60-pack-5602430",
+    "name": "Cenovis St John's Wort Tablets For Healthy Mood Balance | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5602430.jpg&w=640&q=90",
+    "source_id": "5602430",
+    "barcode": "9300705603041",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1333",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/256175/cenovis-st-john-s-wort-tablets-for-healthy-mood-balance",
+    "name": "Cenovis St John's Wort Tablets For Healthy Mood Balance 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/256175.jpg",
+    "source_id": "256175",
+    "barcode": "9300705603041",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "2833",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/berocca-energy-effervescent-variety-pack-45-pack-6481535",
+    "name": "Berocca Energy Effervescent Variety Pack | 45 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6481535.jpg&w=640&q=90",
+    "source_id": "6481535",
+    "barcode": "4057599008449",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "45pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2600",
+        "price_per_unit": "5778",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6010473/berocca-energy-effervescent-variety-pack-tablets",
+    "name": "Berocca Energy Effervescent Variety Pack Tablets 45 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6010473.jpg",
+    "source_id": "6010473",
+    "barcode": "4057599008449",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "45 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2600",
+        "price_per_unit": "5778",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/berocca-energy-vitamin-b-and-c-mango-and-orange-flavour-effervescent-tablets-45-pack-2279747",
+    "name": "Berocca Energy Vitamin B & C Mango & Orange Flavour Effervescent Tablets | 45 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2279747.jpg&w=640&q=90",
+    "source_id": "2279747",
+    "barcode": "9310160821560",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "45pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2600",
+        "price_per_unit": "5778",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/827373/berocca-vitamin-b-c-mango-orange-flavour-energy",
+    "name": "Berocca Vitamin b & c Mango & Orange Flavour Energy 45 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/827373.jpg",
+    "source_id": "827373",
+    "barcode": "9310160821560",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "45 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2600",
+        "price_per_unit": "5778",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/berocca-energy-vitamin-b-and-c-orange-flavour-effervescent-tablets-30-pack-9467224",
+    "name": "Berocca Energy Vitamin B & C Orange Flavour Effervescent Tablets | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9467224.jpg&w=640&q=90",
+    "source_id": "9467224",
+    "barcode": "4057599006346",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "6334",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/187681/berocca-vitamin-b-c-orange-flavour-energy",
+    "name": "Berocca Vitamin b & c Orange Flavour Energy 30 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/187681.jpg",
+    "source_id": "187681",
+    "barcode": "4057599006346",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "6333",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-ashwagandha-60-pack-5808301",
+    "name": "Blackmores Ashwagandha | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5808301.jpg&w=640&q=90",
+    "source_id": "5808301",
+    "barcode": "93555951",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "5000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/229556/blackmores-ashwagandha-",
+    "name": "Blackmores Ashwagandha+ 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/229556.jpg",
+    "source_id": "229556",
+    "barcode": "93555951",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-deep-sleep-30-pack-6481692",
+    "name": "Blackmores Deep Sleep | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6481692.jpg&w=640&q=90",
+    "source_id": "6481692",
+    "barcode": "93569835",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2700",
+        "price_per_unit": "9000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/300864/blackmores-deep-sleep-capsules",
+    "name": "Blackmores Deep Sleep Capsules 30 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/300864.jpg",
+    "source_id": "300864",
+    "barcode": "93569835",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "30 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2700",
+        "price_per_unit": "9000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-mega-b-complex-energy-vitamin-tablets-75-pack-8297661",
+    "name": "Blackmores Mega B Complex Energy Vitamin Tablets | 75 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8297661.jpg&w=640&q=90",
+    "source_id": "8297661",
+    "barcode": "93808804",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "75pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3200",
+        "price_per_unit": "4267",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6370/blackmores-mega-b-complex-energy-support-vitamin-b12-tablets",
+    "name": "Blackmores Mega b Complex Energy Support Vitamin b12 Tablets 75 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/006370.jpg",
+    "source_id": "6370",
+    "barcode": "93808804",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "75 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3200",
+        "price_per_unit": "4267",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-vitamin-b12-energy-support-tablets-75-pack-3758097",
+    "name": "Blackmores Vitamin B12 Energy Support Tablets | 75 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3758097.jpg&w=640&q=90",
+    "source_id": "3758097",
+    "barcode": "93807845",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "75pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "2133",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/771709/blackmores-vitamin-b12-energy-support-tablets",
+    "name": "Blackmores Vitamin b12 Energy Support Tablets 75 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/771709.jpg",
+    "source_id": "771709",
+    "barcode": "93807845",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "75 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "2133",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vitaceuticals-magzorb-magnesium-sleep-60-pack-7523856",
+    "name": "Vitaceuticals Magzorb Magnesium Sleep | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7523856.jpg&w=640&q=90",
+    "source_id": "7523856",
+    "barcode": "9358278000118",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "2250",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/305115/magzorb-magnesium-sleep-formula",
+    "name": "MagZorb Magnesium Sleep Formula 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/305115.jpg",
+    "source_id": "305115",
+    "barcode": "9358278000118",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "2250",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-own-complete-sleep-+-magnesium-30-pack-8169366",
+    "name": "Natures Own Complete Sleep + Magnesium | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8169366.jpg&w=640&q=90",
+    "source_id": "8169366",
+    "barcode": "9316090020653",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1175",
+        "price_per_unit": "3917",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/902980/nature-s-own-complete-sleep-magnesium-tablets",
+    "name": "Nature's Own Complete Sleep & Magnesium Tablets 30 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/902980.jpg",
+    "source_id": "902980",
+    "barcode": "9316090020653",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2350",
+        "price_per_unit": "7833",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-own-effervescent-magnesium-+-sleep-40-pack-8168454",
+    "name": "Natures Own Effervescent Magnesiu ... 40 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8168454.jpg&w=640&q=90",
+    "source_id": "8168454",
+    "barcode": "9316090020738",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "40pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/903626/nature-s-own-magnesium-sleep-effervescent-tablets",
+    "name": "Nature's Own Magnesium & Sleep Effervescent Tablets 40 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/903626.jpg",
+    "source_id": "903626",
+    "barcode": "9316090020738",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "40 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "2500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-own-magnesium-+-energy-effervescent-with-b-vitamins-and-caffeine-20-pack-6497502",
+    "name": "Nature's Own Magnesium + Energy Effervesce ... 20 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6497502.jpg&w=640&q=90",
+    "source_id": "6497502",
+    "barcode": "9316090020264",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "20pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/301051/nature-s-own-magnesium-energy-effervescent-with-b-vitamins-caffeine",
+    "name": "Nature's Own Magnesium+ Energy Effervescent With b Vitamins & Caffeine 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/301051.jpg",
+    "source_id": "301051",
+    "barcode": "9316090020264",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "6000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-own-magnesium-+-sleep-effervescent-with-passionflower-20-pack-6497524",
+    "name": "Nature's Own Magnesium + Sleep Effervesce ... 20 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6497524.jpg&w=640&q=90",
+    "source_id": "6497524",
+    "barcode": "9316090020288",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "20pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/300878/nature-s-own-magnesium-sleep-effervescent-with-passionflower",
+    "name": "Nature's Own Magnesium+ Sleep Effervescent With Passionflower 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/300878.jpg",
+    "source_id": "300878",
+    "barcode": "9316090020288",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "6000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-own-mild-anxiety-ashwagandha-60-pack-7482533",
+    "name": "Natures Own Mild Anxiety Ashwagandh ... 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7482533.jpg&w=640&q=90",
+    "source_id": "7482533",
+    "barcode": "9316090020509",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1450",
+        "price_per_unit": "2417",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/507599/nature-s-own-mild-anxiety-ashwagandha",
+    "name": "Nature's Own Mild Anxiety Ashwagandha 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/507599.jpg",
+    "source_id": "507599",
+    "barcode": "9316090020509",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2950",
+        "price_per_unit": "4917",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-own-sleep-ezy-capsules-w.-chamomile-valerian-+-hops-100-pack-2898964",
+    "name": "Nature's Own Sleep Ezy Capsules W. Chamomile Valerian + Hops | 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2898964.jpg&w=640&q=90",
+    "source_id": "2898964",
+    "barcode": "9316090293606",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "875",
+        "price_per_unit": "875",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/940166/nature-s-own-sleep-ezy-capsules-with-hops-valerian-chamomile",
+    "name": "Nature's Own Sleep Ezy Capsules With Hops, Valerian + Chamomile 100 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/940166.jpg",
+    "source_id": "940166",
+    "barcode": "9316090293606",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "100 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "1800",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-own-super-vitamin-b-complex-tablets-w.-biotin-+-vitamin-b12-150-pack-5355309",
+    "name": "Nature's Own Super Vitamin B Complex Tablets w. Biotin + Vitamin B12 | 150 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5355309.jpg&w=640&q=90",
+    "source_id": "5355309",
+    "barcode": "9316090020172",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "150pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "1333",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/243789/nature-s-own-super-vitamin-b-complex-with-biotin-b3-b6-b12",
+    "name": "Nature's Own Super Vitamin b Complex With Biotin, b3, b6 & b12 150 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/243789.jpg",
+    "source_id": "243789",
+    "barcode": "9316090020172",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "150 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4250",
+        "price_per_unit": "2833",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-own-vitamin-b12-1000mcg-vitamin-b-tablets-for-energy-150-pack-5806554",
+    "name": "Nature's Own Vitamin B12 1000mcg Vitamin B Tablets for Energy | 150 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5806554.jpg&w=640&q=90",
+    "source_id": "5806554",
+    "barcode": "9316090020424",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "150pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/308733/nature-s-own-vitamin-b12-1000mcg-vitamin-b-tablets-for-energy",
+    "name": "Nature's Own Vitamin b12 1000mcg Vitamin b Tablets For Energy 150 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/308733.jpg",
+    "source_id": "308733",
+    "barcode": "9316090020424",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "150 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3850",
+        "price_per_unit": "2567",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-own-vitamin-b12-1000mcg-vitamin-b-tablets-for-energy-60-pack-9692854",
+    "name": "Nature's Own Vitamin B12 1000mcg Vitamin B Tablets for Energy | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9692854.jpg&w=640&q=90",
+    "source_id": "9692854",
+    "barcode": "9316090023906",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "1500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/205300/nature-s-own-vitamin-b12-1000mcg-vitamin-b-tablets-for-energy",
+    "name": "Nature's Own Vitamin b12 1000mcg Vitamin b Tablets For Energy 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/205300.jpg",
+    "source_id": "205300",
+    "barcode": "9316090023906",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1950",
+        "price_per_unit": "3250",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-own-vitamin-b3-500mg-vitamin-b-tablets-for-energy-60-pack-3470292",
+    "name": "Nature's Own Vitamin B3 500mg Vitamin B Tablets For Energy | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3470292.jpg&w=640&q=90",
+    "source_id": "3470292",
+    "barcode": "9316090019121",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "725",
+        "price_per_unit": "1208",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/678276/nature-s-own-vitamin-b3-500mg-vitamin-b-tablets-for-energy",
+    "name": "Nature's Own Vitamin b3 500mg Vitamin b Tablets For Energy 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/678276.jpg",
+    "source_id": "678276",
+    "barcode": "9316090019121",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1550",
+        "price_per_unit": "2583",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-sleeping-tablets-60-pack-3455255",
+    "name": "Nature's Way Sleeping Tablets | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3455255.jpg&w=640&q=90",
+    "source_id": "3455255",
+    "barcode": "9314807073442",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "3333",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/120063/nature-s-way-sleeping-tablets",
+    "name": "Nature's Way Sleeping Tablets 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/120063.jpg",
+    "source_id": "120063",
+    "barcode": "9314807073442",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "3333",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nighty-night-effervescent-sleep-elderberry-14-pack-6495562",
+    "name": "Nighty Night Effervescent Sleep Elderberry | 14 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6495562.jpg&w=640&q=90",
+    "source_id": "6495562",
+    "barcode": "9352496000585",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "14pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "14286",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/309023/nighty-night-sleep-effervescent-elderberry",
+    "name": "Nighty Night Sleep Effervescent Elderberry 14 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/309023.jpg",
+    "source_id": "309023",
+    "barcode": "9352496000585",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "14 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "7143",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-bio-magnesium-muscle-health-tablets-50-pack-8299146",
+    "name": "Blackmores Bio Magnesium Muscle Health Tab ... 50 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8299146.jpg&w=640&q=90",
+    "source_id": "8299146",
+    "barcode": "93367066",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "4000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/49220/blackmores-bio-magnesium-muscle-health-tablets",
+    "name": "Blackmores Bio Magnesium Muscle Health Tablets 50 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/049220.jpg",
+    "source_id": "49220",
+    "barcode": "93367066",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "50 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "4000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-coq10-150mg-heart-health-capsules-30-pack-1295588",
+    "name": "Blackmores CoQ10 150mg Heart Health Capsules | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1295588.jpg&w=640&q=90",
+    "source_id": "1295588",
+    "barcode": "93894944",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "10000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/725625/blackmores-coq10-150mg-heart-health-vitamin-capsules",
+    "name": "Blackmores Coq10 150mg Heart Health Vitamin Capsules 30 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/725625.jpg",
+    "source_id": "725625",
+    "barcode": "93894944",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "10000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-super-magnesium+-muscle-vitamin-tablets-100-pack-3068088",
+    "name": "Blackmores Super Magnesium+ Muscle Vitamin Tablets | 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3068088.jpg&w=640&q=90",
+    "source_id": "3068088",
+    "barcode": "9300807293850",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3400",
+        "price_per_unit": "3400",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/884137/blackmores-super-magnesium-muscle-health-vitamin-tablets",
+    "name": "Blackmores Super Magnesium+ Muscle Health Vitamin Tablets 100 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/884137.jpg",
+    "source_id": "884137",
+    "barcode": "9300807293850",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "100 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3400",
+        "price_per_unit": "3400",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-vitamin-d-1000iu-tablets-d3-for-bone-health-200-pack-7973921",
+    "name": "Cenovis Vitamin D 1000IU Tablets D3 For Bone Health | 200 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7973921.jpg&w=640&q=90",
+    "source_id": "7973921",
+    "barcode": "9300705603935",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "200pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "400",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/375733/cenovis-vitamin-d-1000iu-tablets-d3-for-bone-health",
+    "name": "Cenovis Vitamin d 1000iu Tablets d3 For Bone Health 200 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/375733.jpg",
+    "source_id": "375733",
+    "barcode": "9300705603935",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "200 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vitaceuticals-magzorb-magnesium-glycinate-tablets-500mg-100-pack-8166062",
+    "name": "Vitaceuticals Magzorb Magnesium Glycinate  ... 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8166062.jpg&w=640&q=90",
+    "source_id": "8166062",
+    "barcode": "9358278000002",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1650",
+        "price_per_unit": "1650",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/905823/magzorb-magnesium-glycinate-500mg-hard-capsules",
+    "name": "MagZorb Magnesium Glycinate 500mg Hard Capsules 100 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/905823.jpg",
+    "source_id": "905823",
+    "barcode": "9358278000002",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "100 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1650",
+        "price_per_unit": "1650",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-own-calcium-magnesium-and-vitamin-d-tablets-for-bone-health-120-pack-3758520",
+    "name": "Nature's Own Calcium Magnesium & Vitami ... 120 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3758520.jpg&w=640&q=90",
+    "source_id": "3758520",
+    "barcode": "9316090037200",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "120pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1075",
+        "price_per_unit": "896",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/205356/nature-s-own-calcium-magnesium-vitamin-d-tablets-for-bone-health",
+    "name": "Nature's Own Calcium, Magnesium & Vitamin d Tablets For Bone Health 120 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/205356.jpg",
+    "source_id": "205356",
+    "barcode": "9316090037200",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "120 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "1833",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-own-glucosamine-sulfate-and-chondroitin-joints-tablets-200-pack-4658597",
+    "name": "Nature's Own Glucosamine Sulfate & Chondroitin Joints Tablets | 200 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4658597.jpg&w=640&q=90",
+    "source_id": "4658597",
+    "barcode": "9316090019909",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "200pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/155345/nature-s-own-glucosamine-sulfate-chondroitin-tablets-for-joints",
+    "name": "Nature's Own Glucosamine Sulfate & Chondroitin Tablets For Joints 200 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/155345.jpg",
+    "source_id": "155345",
+    "barcode": "9316090019909",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "200 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3600",
+        "price_per_unit": "1800",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-own-high-strength-magnesium-muscle-health-capsules-150-pack-5806394",
+    "name": "Nature's Own High Strength Magnesium Muscle Health Capsules | 150 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5806394.jpg&w=640&q=90",
+    "source_id": "5806394",
+    "barcode": "9316090020394",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "150pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "1267",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/306602/nature-s-own-high-strength-magnesium-muscle-health-tablets",
+    "name": "Nature's Own High Strength Magnesium Muscle Health Tablets 150 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/306602.jpg",
+    "source_id": "306602",
+    "barcode": "9316090020394",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "150 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3950",
+        "price_per_unit": "2633",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-own-magnesium-chelate-500mg-muscle-health-capsules-300-pack-5330320",
+    "name": "Nature's Own Magnesium Chelate 500mg Muscle Health Capsules | 300 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5330320.jpg&w=640&q=90",
+    "source_id": "5330320",
+    "barcode": "9316090020202",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "300pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5100",
+        "price_per_unit": "1700",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/244292/nature-s-own-magnesium-chelate-500mg-muscle-health-capsules",
+    "name": "Nature's Own Magnesium Chelate 500mg Muscle Health Capsules 300 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/244292.jpg",
+    "source_id": "244292",
+    "barcode": "9316090020202",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "300 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5250",
+        "price_per_unit": "1750",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-own-magnesium-+-muscle-support-effervescent-with-high-strength-magnesium-20-pack-6497513",
+    "name": "Nature's Own Magnesium + Muscle Support Ef ... 20 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6497513.jpg&w=640&q=90",
+    "source_id": "6497513",
+    "barcode": "9316090020271",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "20pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/301149/nature-s-own-magnesium-muscle-effervescent-with-high-strength-magnesium",
+    "name": "Nature's Own Magnesium+ Muscle Effervescent With High Strength Magnesium 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/301149.jpg",
+    "source_id": "301149",
+    "barcode": "9316090020271",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "6000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-own-vitamin-d-1000iu-tablets-d3-for-bone-health-400-pack-5330228",
+    "name": "Nature's Own Vitamin D 1000IU Tablets D3 for Bone Health | 400 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5330228.jpg&w=640&q=90",
+    "source_id": "5330228",
+    "barcode": "9316090020219",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "400pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "438",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/243816/nature-s-own-vitamin-d-1000iu-d3-capsules-for-bone-health-immunity",
+    "name": "Nature's Own Vitamin d 1000iu d3 Capsules For Bone Health + Immunity 400 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/243816.jpg",
+    "source_id": "243816",
+    "barcode": "9316090020219",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "400 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3600",
+        "price_per_unit": "900",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-glucosamine-1500mg-tablets-200-pack-6542083",
+    "name": "Nature's Way Glucosamine 1500mg Tablets | 200 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6542083.jpg&w=640&q=90",
+    "source_id": "6542083",
+    "barcode": "9314807048051",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "200pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4000",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/306795/nature-s-way-glucosamine-tablets-1500mg",
+    "name": "Nature's Way Glucosamine Tablets 1500Mg 180 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/306795.jpg",
+    "source_id": "306795",
+    "barcode": "9314807048051",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "180 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4000",
+        "price_per_unit": "2222",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-way-kids-gummies-hs-magnesium-50-pack-9110664",
+    "name": "Natures Way Kids Gummies Hs Magnesium | 50 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9110664.jpg&w=640&q=90",
+    "source_id": "9110664",
+    "barcode": "9314807090180",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "4400",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6008700/nature-s-way-kids-smart-vita-gummies-magnesium-berry-pastilles",
+    "name": "Nature's Way Kids Smart Vita Gummies Magnesium Berry Pastilles 50 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6008700.jpg",
+    "source_id": "6008700",
+    "barcode": "9314807090180",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "50 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "4400",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-magnesium-+-turmeric-tablets-150-pack-2897214",
+    "name": "Nature's Way Magnesium + Turmeric  ... 150 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2897214.jpg&w=640&q=90",
+    "source_id": "2897214",
+    "barcode": "9314807067298",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "150pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4400",
+        "price_per_unit": "2933",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/155581/nature-s-way-magnesium-turmeric-tablets",
+    "name": "Nature's Way Magnesium & Turmeric Tablets 150 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/155581.jpg",
+    "source_id": "155581",
+    "barcode": "9314807067298",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "150 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4400",
+        "price_per_unit": "2933",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-magnesium-+-calcium-bones-150-pack-6496758",
+    "name": "Nature's Way Magnesium + Calcium Bones | 150 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6496758.jpg&w=640&q=90",
+    "source_id": "6496758",
+    "barcode": "9314807062910",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "150pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3200",
+        "price_per_unit": "2133",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/243672/nature-s-way-magnesium-calcium-muscle-bones",
+    "name": "Nature's Way Magnesium + Calcium Muscle & Bones 150 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/243672.jpg",
+    "source_id": "243672",
+    "barcode": "9314807062910",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "150 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3200",
+        "price_per_unit": "2133",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-magnesium-chelate-1000mg-tablets-100-pack-2564878",
+    "name": "Nature's Way Magnesium Chelate 1000mg  ... 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2564878.jpg&w=640&q=90",
+    "source_id": "2564878",
+    "barcode": "9314807051617",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/642322/nature-s-way-magnesium-chelate-tablets-1000mg",
+    "name": "Nature's Way Magnesium Chelate Tablets 1000Mg 100 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/642322.jpg",
+    "source_id": "642322",
+    "barcode": "9314807051617",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "100 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-high-strength-magnesium-tablets-150-pack-6848800",
+    "name": "Nature's Way High Strength Magnesium Tablets | 150 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6848800.jpg&w=640&q=90",
+    "source_id": "6848800",
+    "barcode": "9314807020125",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "150pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2700",
+        "price_per_unit": "1800",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/306793/nature-s-way-magnesium-tablets",
+    "name": "Nature's Way Magnesium Tablets 150 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/306793.jpg",
+    "source_id": "306793",
+    "barcode": "9314807020125",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "150 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2700",
+        "price_per_unit": "1800",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-adults-vita-gummies-magnesium-80-pack-2897327",
+    "name": "Nature's Way Adults Vita Gummies Magnesium | 80 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2897327.jpg&w=640&q=90",
+    "source_id": "2897327",
+    "barcode": "9314807059361",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "80pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/642325/nature-s-way-magnesium-vita-gummies",
+    "name": "Nature's Way Magnesium Vita Gummies 80 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/642325.jpg",
+    "source_id": "642325",
+    "barcode": "9314807059361",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "80 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "3000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/naturopathica-curcumax-daily-care-3100mg-tablets-80-pack-2897291",
+    "name": "Naturopathica Curcumax Daily Care 3100mg Tablets | 80 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2897291.jpg&w=640&q=90",
+    "source_id": "2897291",
+    "barcode": "9325740028932",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "80pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2600",
+        "price_per_unit": "3250",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/150790/naturopathica-curcumax-turmeric-daily-3100mg-tablets",
+    "name": "Naturopathica Curcumax Turmeric Daily 3100mg Tablets 80 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/150790.jpg",
+    "source_id": "150790",
+    "barcode": "9325740028932",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "80 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2600",
+        "price_per_unit": "3250",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-way-fish-oil-1500mg-120-pack-9110890",
+    "name": "Natures Way Fish Oil 1500Mg | 120 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9110890.jpg&w=640&q=90",
+    "source_id": "9110890",
+    "barcode": "9314807088736",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "120pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3500",
+        "price_per_unit": "2917",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6000620/nature-s-way-wild-caught-fish-oil-1500mg-soft-capsules",
+    "name": "Nature's Way Wild Caught Fish Oil 1500mg Soft Capsules 120 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6000620.jpg",
+    "source_id": "6000620",
+    "barcode": "9314807088736",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "120 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "1458",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/life-space-probiotics-triple-strength-20-pack-5325603",
+    "name": "Life Space Probiotics Triple Strength | 20 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5325603.jpg&w=640&q=90",
+    "source_id": "5325603",
+    "barcode": "9331927002916",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "20pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "15000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/244827/life-space-triple-strength-probiotic-capsules",
+    "name": "Life-Space Triple Strength Probiotic Capsules 20 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/244827.jpg",
+    "source_id": "244827",
+    "barcode": "9331927002916",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "20 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2760",
+        "price_per_unit": "276000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-kids-smart-trio-60-pack-3470452",
+    "name": "Nature's Way Kids Smart Trio | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3470452.jpg&w=640&q=90",
+    "source_id": "3470452",
+    "barcode": "9314807064655",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2550",
+        "price_per_unit": "4250",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/775078/nature-s-way-kids-omega-3-fish-oil-smart-trio",
+    "name": "Nature's Way Kids Omega-3 Fish Oil Smart Trio 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/775078.jpg",
+    "source_id": "775078",
+    "barcode": "9314807064655",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2550",
+        "price_per_unit": "4250",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-way-kids-gummies-calm-and-sleep-50-pack-5351057",
+    "name": "Natures Way Kids Gummies Calm & Sleep | 50 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5351057.jpg&w=640&q=90",
+    "source_id": "5351057",
+    "barcode": "9314807080020",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "4000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/236186/nature-s-way-kids-smart-vita-gummies-calm-sleep",
+    "name": "Nature's Way Kids Smart Vita Gummies Calm & Sleep 50 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/236186.jpg",
+    "source_id": "236186",
+    "barcode": "9314807080020",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "50 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "4000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-kid-smart-vita-gummies-multi-vitamin-plus-60-pack-7969028",
+    "name": "Nature's Way Kid Smart Vita Gummies Multi-Vita ... 60 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7969028.jpg&w=640&q=90",
+    "source_id": "7969028",
+    "barcode": "9314807022839",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "2833",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/360600/nature-s-way-kids-smart-vita-gummies-multi-vegies",
+    "name": "Nature's Way Kids Smart Vita Gummies Multi + Vegies 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/360600.jpg",
+    "source_id": "360600",
+    "barcode": "9314807022839",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "1417",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-way-high-strength-kids-gummies-multi-+-iron-40-pack-5818203",
+    "name": "Natures Way High Strength Kids Gummies  ... 40 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5818203.jpg&w=640&q=90",
+    "source_id": "5818203",
+    "barcode": "9314807082512",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "40pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "5250",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/303953/nature-s-way-kids-smart-vita-gummies-multivit-iron-pastilles",
+    "name": "Nature's Way Kids Smart Vita Gummies Multivit + Iron Pastilles 40 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/303953.jpg",
+    "source_id": "303953",
+    "barcode": "9314807082512",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "40 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "5250",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-kids-smart-vita-gummies-calcium-60-pack-9114020",
+    "name": "Nature's Way Kids Smart Vita Gummies Calcium | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9114020.jpg&w=640&q=90",
+    "source_id": "9114020",
+    "barcode": "9314807025267",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "2833",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/705869/nature-s-way-kids-smart-vita-gummies-calcium",
+    "name": "Nature's Way Kids Smart Vita-Gummies Calcium 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/705869.jpg",
+    "source_id": "705869",
+    "barcode": "9314807025267",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "1417",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-kid-smart-vita-gummies-multi-vitamin-plus-120-pack-8097221",
+    "name": "Nature's Way Kid Smart Vita Gummies Multi-Vit ... 120 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8097221.jpg&w=640&q=90",
+    "source_id": "8097221",
+    "barcode": "9314807022846",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "120pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/705837/nature-s-way-kids-smart-vita-gummies-multivitamin",
+    "name": "Nature's Way Kids Smart Vita-Gummies Multivitamin 120 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/705837.jpg",
+    "source_id": "705837",
+    "barcode": "9314807022846",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "120 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "1250",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-vita-gummies-sugar-free-multi-trio-75-pack-3279505",
+    "name": "Nature's Way Vita Gummies Sugar Free Multi Trio | 75 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3279505.jpg&w=640&q=90",
+    "source_id": "3279505",
+    "barcode": "9314807062354",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "75pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/674888/nature-s-way-kids-smart-vita-gummies-sugar-free-multi-trio",
+    "name": "Nature's Way Kids Smart Vita-Gummies Sugar Free Multi Trio 75 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/674888.jpg",
+    "source_id": "674888",
+    "barcode": "9314807062354",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "75 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "1400",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-kids-gummies-immunity-60-each-1281404",
+    "name": "Nature's Way Kids Gummies Immunity | 60 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1281404.jpg&w=640&q=90",
+    "source_id": "1281404",
+    "barcode": "9314807038298",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "2833",
+        "price_unit": "each"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/751259/nature-s-way-kids-vita-gummies-immunity",
+    "name": "Nature's Way Kids Vita Gummies Immunity 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/751259.jpg",
+    "source_id": "751259",
+    "barcode": "9314807038298",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "3400",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-conceive-well-tab-56-pack-6294527",
+    "name": "Blackmores Conceive Well Tab | 56 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6294527.jpg&w=640&q=90",
+    "source_id": "6294527",
+    "barcode": "9300807239346",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "56pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4400",
+        "price_per_unit": "7857",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/294622/blackmores-conceive-well-gold-preconception-vitamin",
+    "name": "Blackmores Conceive Well Gold Preconception Vitamin 56 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/294622.jpg",
+    "source_id": "294622",
+    "barcode": "9300807239346",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "56 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "3929",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-evening-primrose-oil-skin-capsules-125-pack-1847141",
+    "name": "Blackmores Evening Primrose Oil Skin Capsules | 125 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1847141.jpg&w=640&q=90",
+    "source_id": "1847141",
+    "barcode": "9300807219065",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "125pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3500",
+        "price_per_unit": "2800",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/200718/blackmores-evening-primrose-oil-skin-health-vitamin-capsules",
+    "name": "Blackmores Evening Primrose Oil Skin Health Vitamin Capsules 125 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/200718.jpg",
+    "source_id": "200718",
+    "barcode": "9300807219065",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "125 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "1400",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-women's-multivitamin-+-energy-boost-multi-capsules-100-pack-2826001",
+    "name": "Cenovis Women's Multivitamin + Energy Boost Multi Capsules | 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2826001.jpg&w=640&q=90",
+    "source_id": "2826001",
+    "barcode": "9300705605861",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "1750",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85596/cenovis-once-daily-women-s-multi-energy-boost-capsules",
+    "name": "Cenovis Once Daily Women's Multi + Energy Boost Capsules 100 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085596.jpg",
+    "source_id": "85596",
+    "barcode": "9300705605861",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "100 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3700",
+        "price_per_unit": "3700",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/centrum-for-women-50+-multivitamin-60-pack-1770660",
+    "name": "Centrum For Women 50+ Multivitamin | 60 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1770660.jpg&w=640&q=90",
+    "source_id": "1770660",
+    "barcode": "9310488003242",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2250",
+        "price_per_unit": "3750",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/780021/centrum-women-50-daily-multivitamin-supplements",
+    "name": "Centrum Women 50+ Daily Multivitamin Supplements 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/780021.jpg",
+    "source_id": "780021",
+    "barcode": "9310488003242",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2250",
+        "price_per_unit": "3750",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/centrum-for-women-multivitamin-60-pack-1281696",
+    "name": "Centrum For Women Multivitamin | 60 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1281696.jpg&w=640&q=90",
+    "source_id": "1281696",
+    "barcode": "9310488003204",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2250",
+        "price_per_unit": "3750",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/750906/centrum-women-daily-multivitamin-supplements",
+    "name": "Centrum Women Daily Multivitamin Supplements 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/750906.jpg",
+    "source_id": "750906",
+    "barcode": "9310488003204",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "1833",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-way-high-strength-iron-30-pack-4207984",
+    "name": "Natures Way High Strength Iron | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4207984.jpg&w=640&q=90",
+    "source_id": "4207984",
+    "barcode": "9314807076863",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "4667",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/149296/nature-s-way-high-strength-iron-vitamin-c-b12-tablets",
+    "name": "Nature's Way High Strength Iron + Vitamin C & B12 Tablets 30 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/149296.jpg",
+    "source_id": "149296",
+    "barcode": "9314807076863",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "4667",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-women's-multi-vitamin-vita-gummies-100-pack-2265775",
+    "name": "Nature's Way Women's Multi-Vitamin Vita Gummies | 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2265775.jpg&w=640&q=90",
+    "source_id": "2265775",
+    "barcode": "9314807046408",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/826885/nature-s-way-vitagummies-womens-multivit-orange-lemon-blueberry",
+    "name": "Nature's Way Vitagummies Womens Multivit Orange Lemon Blueberry 100 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/826885.jpg",
+    "source_id": "826885",
+    "barcode": "9314807046408",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "100 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-way-high-strength-gummies-women's-multi-50+-60-pack-7482330",
+    "name": "Natures Way High Strength Gummies Women's Multi 50+ | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7482330.jpg&w=640&q=90",
+    "source_id": "7482330",
+    "barcode": "9314807084189",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "5000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/899838/nature-s-way-women-s-50-multivitamin-adult-vita-gummies",
+    "name": "Nature's Way Women's 50+ Multivitamin Adult Vita Gummies 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/899838.jpg",
+    "source_id": "899838",
+    "barcode": "9314807084189",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "2500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/centrum-for-men-50+-multivitamin-60-pack-1770626",
+    "name": "Centrum For Men 50+ Multivitamin | 60 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1770626.jpg&w=640&q=90",
+    "source_id": "1770626",
+    "barcode": "9310488003228",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2250",
+        "price_per_unit": "3750",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/780010/centrum-men-50-daily-multivitamin-supplements",
+    "name": "Centrum Men 50+ Daily Multivitamin Supplements 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/780010.jpg",
+    "source_id": "780010",
+    "barcode": "9310488003228",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2250",
+        "price_per_unit": "3750",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/centrum-for-men-multivitamin-60-pack-1281685",
+    "name": "Centrum For Men Multivitamin | 60 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1281685.jpg&w=640&q=90",
+    "source_id": "1281685",
+    "barcode": "9310488003181",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2250",
+        "price_per_unit": "3750",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/750905/centrum-men-daily-multivitamin-supplements",
+    "name": "Centrum Men Daily Multivitamin Supplements 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/750905.jpg",
+    "source_id": "750905",
+    "barcode": "9310488003181",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "1833",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-men's-multi-vitamin-vita-gummies-100-pack-2265764",
+    "name": "Nature's Way Men's Multi-Vitamin Vita Gummies | 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2265764.jpg&w=640&q=90",
+    "source_id": "2265764",
+    "barcode": "9314807046392",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/826884/nature-s-way-vitagummies-mens-multivitamin",
+    "name": "Nature's Way Vitagummies Mens Multivitamin 100 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/826884.jpg",
+    "source_id": "826884",
+    "barcode": "9314807046392",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "100 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-bio-c-1000mg-tablets-150-pack-3788087",
+    "name": "Blackmores Bio C 1000mg Tablets | 150 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3788087.jpg&w=640&q=90",
+    "source_id": "3788087",
+    "barcode": "9300807325698",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "150pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4900",
+        "price_per_unit": "3267",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/771770/blackmores-bio-c-1000mg-tablets-support-tablets",
+    "name": "Blackmores Bio c 1000mg Tablets Support Tablets 150 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/771770.jpg",
+    "source_id": "771770",
+    "barcode": "9300807325698",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "150 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2450",
+        "price_per_unit": "1633",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-echinacea-garlic-zinc-and-vitamin-c-tablets-125-pack-7103770",
+    "name": "Cenovis Echinacea Garlic Zinc & Vitamin C Tablets | 125 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7103770.jpg&w=640&q=90",
+    "source_id": "7103770",
+    "barcode": "9300705603768",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "125pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1550",
+        "price_per_unit": "1240",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/324756/cenovis-echinacea-garlic-zinc-vitamin-c-for-immune-support",
+    "name": "Cenovis Echinacea Garlic Zinc & Vitamin c For Immune Support 125 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/324756.jpg",
+    "source_id": "324756",
+    "barcode": "9300705603768",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "125 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3300",
+        "price_per_unit": "2640",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-echinacea-garlic-zinc-and-vitamin-c-tablets-60-pack-8142439",
+    "name": "Cenovis Echinacea Garlic Zinc & Vitamin C Tablets | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8142439.jpg&w=640&q=90",
+    "source_id": "8142439",
+    "barcode": "9300705031455",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "925",
+        "price_per_unit": "1542",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/82194/cenovis-echinacea-garlic-zinc-vitamin-c-for-immune-support",
+    "name": "Cenovis Echinacea Garlic Zinc & Vitamin c For Immune Support 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/082194.jpg",
+    "source_id": "82194",
+    "barcode": "9300705031455",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1950",
+        "price_per_unit": "3250",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-garlic-horseradish-+-vitamin-c-complex-capsules-120-pack-4779773",
+    "name": "Cenovis Garlic Horseradish + Vitamin C Complex Capsules | 120 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4779773.jpg&w=640&q=90",
+    "source_id": "4779773",
+    "barcode": "9300705602839",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "120pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "792",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/233149/cenovis-garlic-horseradish-vitamin-c-complex-for-immune-support",
+    "name": "Cenovis Garlic Horseradish + Vitamin c Complex For Immune Support 120 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/233149.jpg",
+    "source_id": "233149",
+    "barcode": "9300705602839",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "120 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1950",
+        "price_per_unit": "1625",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-mega-vitamin-c-for-immune-support-1000mg-150-pack-6497580",
+    "name": "Cenovis Mega Vitamin C for Immune Support 1000mg | 150 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6497580.jpg&w=640&q=90",
+    "source_id": "6497580",
+    "barcode": "9300705606479",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "150pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1175",
+        "price_per_unit": "783",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/398188/cenovis-mega-c-1000mg-chewable-tablets",
+    "name": "Cenovis Mega c 1000mg Chewable Tablets 150 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/398188.jpg",
+    "source_id": "398188",
+    "barcode": "9300705606479",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "150 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "1600",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-mega-vitamin-c-1000mg-tablets-for-immunity-100-pack-3765456",
+    "name": "Cenovis Mega Vitamin C 1000mg Tablets For Immunity | 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3765456.jpg&w=640&q=90",
+    "source_id": "3765456",
+    "barcode": "9300705606028",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "900",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85594/cenovis-mega-vitamin-c-1000mg-chewable-tablets-for-immune-support",
+    "name": "Cenovis Mega Vitamin c 1000mg Chewable Tablets For Immune Support 100 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085594.jpg",
+    "source_id": "85594",
+    "barcode": "9300705606028",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "100 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1850",
+        "price_per_unit": "1850",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-mega-vitamin-c-1000mg-tablets-for-immunity-60-pack-9314518",
+    "name": "Cenovis Mega Vitamin C 1000mg Tablets For Immunity | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9314518.jpg&w=640&q=90",
+    "source_id": "9314518",
+    "barcode": "9300705601788",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "675",
+        "price_per_unit": "1125",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/168814/cenovis-mega-vitamin-c-1000mg-chewable-tablets-for-immune-support",
+    "name": "Cenovis Mega Vitamin c 1000mg Chewable Tablets For Immune Support 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/168814.jpg",
+    "source_id": "168814",
+    "barcode": "9300705601788",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "2333",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-sugarless-vitamin-c-500mg-tablets-for-immunity-160-pack-3765445",
+    "name": "Cenovis Sugarless Vitamin C 500mg Tablets For Immunity | 160 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3765445.jpg&w=640&q=90",
+    "source_id": "3765445",
+    "barcode": "9300705606004",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "160pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "725",
+        "price_per_unit": "453",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/85593/cenovis-sugarless-vitamin-c-chewable-500mg-tablets-immune-support",
+    "name": "Cenovis Sugarless Vitamin c Chewable 500mg Tablets Immune Support 160 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/085593.jpg",
+    "source_id": "85593",
+    "barcode": "9300705606004",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "160 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-sugarless-vitamin-c-500mg-tablets-for-immunity-300-pack-9461738",
+    "name": "Cenovis Sugarless Vitamin C 500mg Tablets For Immunity | 300 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9461738.jpg&w=640&q=90",
+    "source_id": "9461738",
+    "barcode": "9300705032308",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "300pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1850",
+        "price_per_unit": "617",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/88038/cenovis-sugarless-vitamin-c-chewable-500mg-tablets-immune-support",
+    "name": "Cenovis Sugarless Vitamin c Chewable 500mg Tablets Immune Support 300 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/088038.jpg",
+    "source_id": "88038",
+    "barcode": "9300705032308",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "300 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1950",
+        "price_per_unit": "650",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-own-cold-sore-relief-double-strength-tablets-50-pack-1810174",
+    "name": "Nature's Own Cold Sore Relief Double Strength Tablets | 50 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1810174.jpg&w=640&q=90",
+    "source_id": "1810174",
+    "barcode": "9316090017370",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "725",
+        "price_per_unit": "1450",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/780031/nature-s-own-cold-sore-relief-double-strength-for-immune-support",
+    "name": "Nature's Own Cold Sore Relief Double Strength For Immune Support 50 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/780031.jpg",
+    "source_id": "780031",
+    "barcode": "9316090017370",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "50 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "3000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-way-high-strength-gummies-triple-immune-50-pack-6496576",
+    "name": "Natures Way High Strength Gummies Triple Immune | 50 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6496576.jpg&w=640&q=90",
+    "source_id": "6496576",
+    "barcode": "9314807084165",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "5000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/304364/nature-s-way-adult-vita-gummies-triple-immune-support-pastilles",
+    "name": "Nature's Way Adult Vita Gummies Triple Immune Support Pastilles 50 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/304364.jpg",
+    "source_id": "304364",
+    "barcode": "9314807084165",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "50 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-garlic-+-c-and-horseradish-tablets-200-pack-9314733",
+    "name": "Nature's Way Garlic + C & Horseradish Tablets | 200 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9314733.jpg&w=640&q=90",
+    "source_id": "9314733",
+    "barcode": "9314807007379",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "200pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "1250",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/169114/nature-s-way-immunity-defense-garlic-horseradish-immune-support",
+    "name": "Nature's Way Immunity Defense Garlic & Horseradish Immune Support 200 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/169114.jpg",
+    "source_id": "169114",
+    "barcode": "9314807007379",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "200 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "1250",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-adult-vita-gummies-vitamin-c-120-pack-9114268",
+    "name": "Nature's Way Adult Vita Gummies Vitamin C | 120 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9114268.jpg&w=640&q=90",
+    "source_id": "9114268",
+    "barcode": "9314807025786",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "120pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/711536/nature-s-way-vitagummies-for-adults-vitamin-c",
+    "name": "Nature's Way Vitagummies For Adults Vitamin C 120 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/711536.jpg",
+    "source_id": "711536",
+    "barcode": "9314807025786",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "120 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "2000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-milk-thistle-liver-health-tablets-1-pack-8299703",
+    "name": "Blackmores Milk Thistle Liver Health Tablets | 1 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8299703.jpg&w=640&q=90",
+    "source_id": "8299703",
+    "barcode": "93807357",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "1pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "4762",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/89860/blackmores-milk-thistle-liver-health-tablets",
+    "name": "Blackmores Milk Thistle Liver Health Tablets 42 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/089860.jpg",
+    "source_id": "89860",
+    "barcode": "93807357",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "42 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "4762",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-multivitamin-for-men-sustained-release-tablets-60-pack-5325523",
+    "name": "Blackmores Multivitamin For Men Sustained Release Tablets | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5325523.jpg&w=640&q=90",
+    "source_id": "5325523",
+    "barcode": "93567060",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "5000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/206052/blackmores-multivitamins-for-men-release-tablets",
+    "name": "Blackmores Multivitamins For Men Release Tablets 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/206052.jpg",
+    "source_id": "206052",
+    "barcode": "93567060",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-omega-brain-60-pack-5325567",
+    "name": "Blackmores Omega Brain | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5325567.jpg&w=640&q=90",
+    "source_id": "5325567",
+    "barcode": "9300807237311",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4500",
+        "price_per_unit": "7500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/256205/blackmores-omega-brain-high-dha-fish-oil",
+    "name": "Blackmores Omega Brain High Dha Fish Oil 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/256205.jpg",
+    "source_id": "256205",
+    "barcode": "9300807237311",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4500",
+        "price_per_unit": "7500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-omega-triple-concentrated-fish-oil-capsules-60-pack-2108347",
+    "name": "Blackmores Omega Triple Concentrated Fish Oil Capsules | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2108347.jpg&w=640&q=90",
+    "source_id": "2108347",
+    "barcode": "9300807290347",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4500",
+        "price_per_unit": "7500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/828241/blackmores-omega-triple-high-strength-fish-oil-capsules",
+    "name": "Blackmores Omega Triple High Strength Fish Oil Capsules 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/828241.jpg",
+    "source_id": "828241",
+    "barcode": "9300807290347",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4500",
+        "price_per_unit": "7500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-men's-multivitamin-capsules-multi-for-energy-100-pack-2826090",
+    "name": "Cenovis Men's Multivitamin Capsules Multi For Energy | 100 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2826090.jpg&w=640&q=90",
+    "source_id": "2826090",
+    "barcode": "9300705606363",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1450",
+        "price_per_unit": "1450",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/301068/cenovis-men-s-once-daily-multivitamin-capsules",
+    "name": "Cenovis Men's Once Daily Multivitamin Capsules 100 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/301068.jpg",
+    "source_id": "301068",
+    "barcode": "9300705606363",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "100 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/grant's-liquid-chlorophyll-500ml-5751554",
+    "name": "Grant's Liquid Chlorophyll | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5751554.jpg&w=640&q=90",
+    "source_id": "5751554",
+    "barcode": "9312812000200",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1120",
+        "price_per_unit": "224",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/203746/grants-liquid-chlorophyll-concentrate-spearmint",
+    "name": "Grants Liquid Chlorophyll Concentrate Spearmint 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/203746.jpg",
+    "source_id": "203746",
+    "barcode": "9312812000200",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1595",
+        "price_per_unit": "319",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-way-high-strength-gummies-sugar-free-multi-65-pack-5328099",
+    "name": "Natures Way High Strength Gummies Sugar Free Multi | 65 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5328099.jpg&w=640&q=90",
+    "source_id": "5328099",
+    "barcode": "9314807080150",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "65pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "3846",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/235596/nature-s-way-high-strength-multivitamins-minerals-adult-gummies",
+    "name": "Nature's Way High Strength Multivitamins & Minerals Adult Gummies 65 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/235596.jpg",
+    "source_id": "235596",
+    "barcode": "9314807080150",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "65 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "3846",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-adult-vita-gummies-multi-vitamin-120-pack-9114075",
+    "name": "Nature's Way Adult Vita Gummies Multi-Vitamin | 120 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9114075.jpg&w=640&q=90",
+    "source_id": "9114075",
+    "barcode": "9314807025533",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "120pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/711547/nature-s-way-vitagummies-for-adults-multi-vitamin",
+    "name": "Nature's Way Vitagummies For Adults Multi-Vitamin 120 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/711547.jpg",
+    "source_id": "711547",
+    "barcode": "9314807025533",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "120 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/berocca-mind-effervescent-citrus-20-pack-8157651",
+    "name": "Berocca Mind Effervescent Citrus | 20 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8157651.jpg&w=640&q=90",
+    "source_id": "8157651",
+    "barcode": "4057599008913",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "20pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "9500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/671780/berocca-mind-effervescent-tablets-citrus-flavour",
+    "name": "Berocca Mind Effervescent Tablets Citrus Flavour 20 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/671780.jpg",
+    "source_id": "671780",
+    "barcode": "4057599008913",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "20 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "4750",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/berocca-mind-effervescent-mixed-berry-20-pack-8157630",
+    "name": "Berocca Mind Effervescent Mixed Berry | 20 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8157630.jpg&w=640&q=90",
+    "source_id": "8157630",
+    "barcode": "4057599008937",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "20pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "9500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/906442/berocca-mind-effervescent-tablets-mixed-berry-flavour",
+    "name": "Berocca Mind Effervescent Tablets Mixed Berry Flavour 20 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/906442.jpg",
+    "source_id": "906442",
+    "barcode": "4057599008937",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "20 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "4750",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/berocca-effervescent-boost-guava-20-pack-2034182",
+    "name": "Berocca Effervescent Boost Guava | 20 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2034182.jpg&w=640&q=90",
+    "source_id": "2034182",
+    "barcode": "9310160821621",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "20pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "9500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/794632/berocca-vitamin-b-c-guava-flavour-with-guarana-energy",
+    "name": "Berocca Vitamin b & c Guava Flavour With Guarana Energy 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/794632.jpg",
+    "source_id": "794632",
+    "barcode": "9310160821621",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "20 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "9500",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/berocca-energy-effervescent-original-berry-15-pack-6481488",
+    "name": "Berocca Energy Effervescent Original Berry | 15 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6481488.jpg&w=640&q=90",
+    "source_id": "6481488",
+    "barcode": "4057599006384",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "15pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "6667",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/205682/berocca-vitamin-b-c-original-berry-flavour-energy",
+    "name": "Berocca Vitamin b & c Original Berry Flavour Energy 15 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/205682.jpg",
+    "source_id": "205682",
+    "barcode": "4057599006384",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "15 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "6000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-executive-b-stress-support-tablets-125-pack-9506814",
+    "name": "Blackmores Executive B Stress Support Tablets | 125 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9506814.jpg&w=640&q=90",
+    "source_id": "9506814",
+    "barcode": "9300807220115",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "125pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4000",
+        "price_per_unit": "3200",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/192702/blackmores-executive-b-vitamin-b-stress-support-tablets",
+    "name": "Blackmores Executive b Vitamin b Stress Support Tablets 125 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/192702.jpg",
+    "source_id": "192702",
+    "barcode": "9300807220115",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "125 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "1600",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-own-complete-sleep-advanced-tablets-30-pack-9499446",
+    "name": "Nature's Own Complete Sleep Advanced Tablets | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9499446.jpg&w=640&q=90",
+    "source_id": "9499446",
+    "barcode": "9316090019862",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1175",
+        "price_per_unit": "3917",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/153407/nature-s-own-complete-sleep-advanced-tablets-for-stress-relief",
+    "name": "Nature's Own Complete Sleep Advanced Tablets For Stress Relief 30 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/153407.jpg",
+    "source_id": "153407",
+    "barcode": "9316090019862",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "30 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1175",
+        "price_per_unit": "3917",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-way-adult-vita-gummies-b12-energy-80-pack-4206744",
+    "name": "Natures Way Adult Vita Gummies B12 Energy | 80 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4206744.jpg&w=640&q=90",
+    "source_id": "4206744",
+    "barcode": "9314807076764",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "80pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "3000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/152282/nature-s-way-adult-gummies-b12",
+    "name": "Nature's Way Adult Gummies B12 80 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/152282.jpg",
+    "source_id": "152282",
+    "barcode": "9314807076764",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "80 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "3000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-ashwagandha-tablets-50-pack-4808645",
+    "name": "Nature's Way Ashwagandha Tablets | 50 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4808645.jpg&w=640&q=90",
+    "source_id": "4808645",
+    "barcode": "9314807079895",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2700",
+        "price_per_unit": "5400",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/206486/nature-s-way-ashwagandha-hard-capsules",
+    "name": "Nature's Way Ashwagandha Hard Capsules 50 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/206486.jpg",
+    "source_id": "206486",
+    "barcode": "9314807079895",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "50 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2700",
+        "price_per_unit": "5400",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-way-high-strength-gummies-sugar-free-sleep-40-pack-5353530",
+    "name": "Natures Way High Strength Gummies Sugar Free Sleep | 40 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5353530.jpg&w=640&q=90",
+    "source_id": "5353530",
+    "barcode": "9314807080129",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "40pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "6250",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/236116/nature-s-way-high-strength-sleep-ashwagandha-adult-vita-gummies",
+    "name": "Nature's Way High Strength Sleep Ashwagandha Adult Vita Gummies 40 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/236116.jpg",
+    "source_id": "236116",
+    "barcode": "9314807080129",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "40 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "6250",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-mega-b-executive-stress-200-pack-9548927",
+    "name": "Nature's Way Mega B Executive Stress | 200 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9548927.jpg&w=640&q=90",
+    "source_id": "9548927",
+    "barcode": "9314807008048",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "200pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "1200",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/192538/nature-s-way-vitamin-b-energy-boost-tablets",
+    "name": "Nature's Way Vitamin B Energy Boost Tablets 200 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/192538.jpg",
+    "source_id": "192538",
+    "barcode": "9314807008048",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "200 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-bio-magnesium-150-pack-6482083",
+    "name": "Blackmores Bio Magnesium | 150 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6482083.jpg&w=640&q=90",
+    "source_id": "6482083",
+    "barcode": "9300807304686",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "150pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4000",
+        "price_per_unit": "2667",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/571823/blackmores-bio-magnesium-muscle-health-tablets",
+    "name": "Blackmores Bio Magnesium Muscle Health Tablets 150 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/571823.jpg",
+    "source_id": "571823",
+    "barcode": "9300807304686",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "150 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "1333",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-glucosamine-sulfate-1500mg-tablets-150-pack-3465929",
+    "name": "Blackmores Glucosamine Sulfate 1500mg Tablets | 150 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3465929.jpg&w=640&q=90",
+    "source_id": "3465929",
+    "barcode": "9300807320143",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "150pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5000",
+        "price_per_unit": "3333",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/188008/blackmores-glucosamine-sulfate-1500mg-joint-health-vitamin-tablets",
+    "name": "Blackmores Glucosamine Sulfate 1500mg Joint Health Vitamin Tablets 150 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/188008.jpg",
+    "source_id": "188008",
+    "barcode": "9300807320143",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "150 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "1600",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-super-magnesium-180-pack-7451223",
+    "name": "Blackmores Super Magnesium | 180 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7451223.jpg&w=640&q=90",
+    "source_id": "7451223",
+    "barcode": "9300807359600",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "180pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4500",
+        "price_per_unit": "2500",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/905571/blackmores-super-magnesium-coated-tablets",
+    "name": "Blackmores Super Magnesium+ Coated Tablets 180 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/905571.jpg",
+    "source_id": "905571",
+    "barcode": "9300807359600",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "180 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2250",
+        "price_per_unit": "1250",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-total-calcium-magnesium-+-d3-tablets-125-pack-9688890",
+    "name": "Blackmores Total Calcium Magnesium + D3 Tablets | 125 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9688890.jpg&w=640&q=90",
+    "source_id": "9688890",
+    "barcode": "9300807219508",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "125pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "2400",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/206378/blackmores-total-calcium-magnesium-d3-bone-health-vitamin-tablets",
+    "name": "Blackmores Total Calcium Magnesium + d3 Bone Health Vitamin Tablets 125 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/206378.jpg",
+    "source_id": "206378",
+    "barcode": "9300807219508",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "125 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "1200",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-vitamin-d3-1000iu-immune-capsules-200-pack-9001782",
+    "name": "Blackmores Vitamin D3 1000IU Immune Capsules | 200 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9001782.jpg&w=640&q=90",
+    "source_id": "9001782",
+    "barcode": "9300807243763",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "200pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3100",
+        "price_per_unit": "1550",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/771858/blackmores-vitamin-d3-1000iu-bone-health-immunity-capsules",
+    "name": "Blackmores Vitamin d3 1000iu Bone Health Immunity Capsules 200 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/771858.jpg",
+    "source_id": "771858",
+    "barcode": "9300807243763",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "200 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1550",
+        "price_per_unit": "775",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/caltrate-bone-and-muscle-health-vit-d-500iu-and-minerals-50+-100-pack-3469464",
+    "name": "Caltrate Bone & Muscle Health Vit D 500IU & Minerals 50+ | 100 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3469464.jpg&w=640&q=90",
+    "source_id": "3469464",
+    "barcode": "9310488003532",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "100pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/805415/caltrate-bone-muscle-50-plus-with-calcium-vitamin-d3",
+    "name": "Caltrate Bone & Muscle 50 Plus With Calcium & Vitamin d3 100 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/805415.jpg",
+    "source_id": "805415",
+    "barcode": "9310488003532",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "100 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2100",
+        "price_per_unit": "2100",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-magnesium-200-pack-5330341",
+    "name": "Cenovis Magnesium | 200 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5330341.jpg&w=640&q=90",
+    "source_id": "5330341",
+    "barcode": "9300705603706",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "200pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1375",
+        "price_per_unit": "688",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/324630/cenovis-magnesium-tablets-muscle-health-supplement",
+    "name": "Cenovis Magnesium Tablets Muscle Health Supplement 200 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/324630.jpg",
+    "source_id": "324630",
+    "barcode": "9300705603706",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "200 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2850",
+        "price_per_unit": "1425",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cenovis-turmeric-3100-capsules-w.-curcuminoids-for-joints-80-pack-2556202",
+    "name": "Cenovis Turmeric 3100 Capsules w. Curcuminoids For Joints | 80 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2556202.jpg&w=640&q=90",
+    "source_id": "2556202",
+    "barcode": "9300705605335",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "80pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1025",
+        "price_per_unit": "1281",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/940032/cenovis-turmeric-3100-capsules-with-curcuminoids-for-joint-health",
+    "name": "Cenovis Turmeric 3100 Capsules With Curcuminoids For Joint Health 80 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/940032.jpg",
+    "source_id": "940032",
+    "barcode": "9300705605335",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "80 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "2750",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/crampeze-capsules-60-pack-4857447",
+    "name": "Crampeze Capsules | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4857447.jpg&w=640&q=90",
+    "source_id": "4857447",
+    "barcode": "9329224000254",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "3167",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/799742/crampeze-night-cramps-capsules",
+    "name": "Crampeze Night Cramps Capsules 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/799742.jpg",
+    "source_id": "799742",
+    "barcode": "9329224000254",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "3167",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-way-extra-strength-gummies-magnesium-60-pack-5353610",
+    "name": "Natures Way Extra Strength Gummies Magnesium | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5353610.jpg&w=640&q=90",
+    "source_id": "5353610",
+    "barcode": "9314807080297",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "5000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/243378/nature-s-way-extra-strength-magnesium-gummies-raspberry-flavour",
+    "name": "Nature's Way Extra Strength Magnesium Gummies Raspberry Flavour 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/243378.jpg",
+    "source_id": "243378",
+    "barcode": "9314807080297",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-way-high-strength-magnesium-250-pack-8165252",
+    "name": "Natures Way High Strength Magnesium | 250 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8165252.jpg&w=640&q=90",
+    "source_id": "8165252",
+    "barcode": "9314807080105",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "250pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4000",
+        "price_per_unit": "1600",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/243486/nature-s-way-high-strength-magnesium",
+    "name": "Nature's Way High Strength Magnesium 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/243486.jpg",
+    "source_id": "243486",
+    "barcode": "9314807080105",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "2000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-vita-gummies-vitamin-d3-1000iu-120-pack-9925861",
+    "name": "Nature's Way Vita Gummies Vitamin D3 1000iu | 120 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9925861.jpg&w=640&q=90",
+    "source_id": "9925861",
+    "barcode": "9314807026981",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "120pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "2000",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/733388/nature-s-way-vita-gummies-vitamin-d",
+    "name": "Nature's Way Vita Gummies Vitamin D 120 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/733388.jpg",
+    "source_id": "733388",
+    "barcode": "9314807026981",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "120 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "2000",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-vitamin-k2-d3-1000iu-30-pack-5804560",
+    "name": "Nature's Way Vitamin K2-D3 1000IU | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5804560.jpg&w=640&q=90",
+    "source_id": "5804560",
+    "barcode": "9314807076696",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2300",
+        "price_per_unit": "7667",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6007297/nature-s-way-vitamin-k2-d3-30-tablets",
+    "name": "Nature's Way Vitamin K2 + D3 30 Tablets each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6007297.jpg",
+    "source_id": "6007297",
+    "barcode": "9314807076696",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2300",
+        "price_per_unit": "7667",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/natures-way-high-strength-gummies-sugar-free-calcium-+-vit-d-60-pack-5327992",
+    "name": "Natures Way High Strength Gummies Sugar Free Calcium + Vit D | 60 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5327992.jpg&w=640&q=90",
+    "source_id": "5327992",
+    "barcode": "9314807080174",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "60pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "4167",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/236522/natures-way-high-strength-calcium-vitamin-d-adult-gummies",
+    "name": "Natures Way High Strength Calcium + Vitamin d Adult Gummies 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/236522.jpg",
+    "source_id": "236522",
+    "barcode": "9314807080174",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "60 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "4167",
+        "price_unit": "EA"
+      }
+    ]
+  }
+]
