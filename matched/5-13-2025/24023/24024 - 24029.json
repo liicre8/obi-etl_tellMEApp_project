@@ -1,0 +1,872 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/bertocchi-triple-smoked-leg-ham-from-the-deli-approx.-100g-1890118",
+    "name": "Berto ... approx. 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1890118.jpg&w=640&q=90",
+    "source_id": "1890118",
+    "barcode": "9300767082822",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "3750",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/912595/d-orsogna-triple-smoked-leg-ham",
+    "name": "D'Orsogna Triple Smoked Leg Ham 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/912595.jpg",
+    "source_id": "912595",
+    "barcode": "9300767082822",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "4400",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/don-double-smoked-leg-ham-200g-6284545",
+    "name": "Don Double Smoked Leg Ham | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6284545.jpg&w=640&q=90",
+    "source_id": "6284545",
+    "barcode": "9326451016294",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "3300",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/289247/don-double-smoked-leg-ham",
+    "name": "Don Double Smoked Leg Ham 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/289247.jpg",
+    "source_id": "289247",
+    "barcode": "9326451016294",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/don-italian-style-shaved-salami-160g-6284680",
+    "name": "Don Italian Style Shaved Salami | 160g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6284680.jpg&w=640&q=90",
+    "source_id": "6284680",
+    "barcode": "9326451011855",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "4125",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/290321/don-italian-style-salami",
+    "name": "Don Italian Style Salami 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/290321.jpg",
+    "source_id": "290321",
+    "barcode": "9326451011855",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "3125",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/don-leg-shaved-ham-200g-6284567",
+    "name": "Don Leg Shaved Ham | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6284567.jpg&w=640&q=90",
+    "source_id": "6284567",
+    "barcode": "9326451016300",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "3300",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/290324/don-leg-ham-shaved",
+    "name": "Don Leg Ham Shaved 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/290324.jpg",
+    "source_id": "290324",
+    "barcode": "9326451016300",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/don-english-style-sliced-ham-200g-6284590",
+    "name": "Don English Style Sliced Ham | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6284590.jpg&w=640&q=90",
+    "source_id": "6284590",
+    "barcode": "9326451016317",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "3300",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/290255/don-thinly-sliced-english-ham",
+    "name": "Don Thinly Sliced English Ham 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/290255.jpg",
+    "source_id": "290255",
+    "barcode": "9326451016317",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/don-honey-leg-ham-200g-6284603",
+    "name": "Don Honey Leg Ham | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6284603.jpg&w=640&q=90",
+    "source_id": "6284603",
+    "barcode": "9326451016331",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "3300",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/288084/don-thinly-sliced-honey-leg-ham",
+    "name": "Don Thinly Sliced Honey Leg Ham 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/288084.jpg",
+    "source_id": "288084",
+    "barcode": "9326451016331",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "2500",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/primo-champagne-leg-ham-100g-3055086",
+    "name": "Primo Champagne Leg  ... 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3055086.jpg&w=640&q=90",
+    "source_id": "3055086",
+    "barcode": "9311594016966",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544761/primo-champagne-ham-sliced-thinly-sliced",
+    "name": "Primo Champagne Ham Sliced 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/544761.jpg",
+    "source_id": "544761",
+    "barcode": "9311594016966",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/primo-chicken-breast-thinly-sliced-80g-2814057",
+    "name": "Primo Chicken B ... 80g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2814057.jpg&w=640&q=90",
+    "source_id": "2814057",
+    "barcode": "9311594016546",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544762/primo-chicken-breast-sliced-thinly-sliced",
+    "name": "Primo Chicken Breast Sliced 80g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/544762.jpg",
+    "source_id": "544762",
+    "barcode": "9311594016546",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/primo-danish-salami-80g-2807856",
+    "name": "Primo Danish S ... 80g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2807856.jpg&w=640&q=90",
+    "source_id": "2807856",
+    "barcode": "9311594018601",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544699/primo-danish-salami-sliced",
+    "name": "Primo Danish  Salami Sliced 80g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/544699.jpg",
+    "source_id": "544699",
+    "barcode": "9311594018601",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/primo-gluten-free-thinly-sliced-double-smoked-leg-ham-100g-2819436",
+    "name": "Primo Gluten F ... 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2819436.jpg&w=640&q=90",
+    "source_id": "2819436",
+    "barcode": "9311594016942",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544760/primo-double-smoked-sliced-leg-ham-double-smoked",
+    "name": "Primo Double Smoked Sliced Leg Ham 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/544760.jpg",
+    "source_id": "544760",
+    "barcode": "9311594016942",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/primo-english-sliced-ham-100g-8145856",
+    "name": "Primo English  ... 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8145856.jpg&w=640&q=90",
+    "source_id": "8145856",
+    "barcode": "9311594017161",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544696/primo-english-style-sliced-leg-ham",
+    "name": "Primo English Style Sliced Leg Ham 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/544696.jpg",
+    "source_id": "544696",
+    "barcode": "9311594017161",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/primo-hot-hungarian-salami-80g-3576271",
+    "name": "Primo Hot Hungarian Sal ... 80g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3576271.jpg&w=640&q=90",
+    "source_id": "3576271",
+    "barcode": "9311594018878",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/68488/primo-hot-hungarian-sliced-salami",
+    "name": "Primo Hot Hungarian Sliced Salami 80g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/068488.jpg",
+    "source_id": "68488",
+    "barcode": "9311594018878",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/primo-25percent-salt-reduced-leg-ham-100g-5644237",
+    "name": "Primo 25% Sal ... 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5644237.jpg&w=640&q=90",
+    "source_id": "5644237",
+    "barcode": "9311594016799",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/248391/primo-leg-ham-sliced-salt-reduced-less-salt",
+    "name": "Primo Leg Ham Sliced Salt Reduced 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/248391.jpg",
+    "source_id": "248391",
+    "barcode": "9311594016799",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/primo-manuka-honey-leg-ham-100g-9065548",
+    "name": "Primo Manuka  ... 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9065548.jpg&w=640&q=90",
+    "source_id": "9065548",
+    "barcode": "9311594223654",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/194494/primo-manuka-honey-sliced-leg-ham-honey-shaved",
+    "name": "Primo Manuka Honey Sliced Leg Ham 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/194494.jpg",
+    "source_id": "194494",
+    "barcode": "9311594223654",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "3950",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/primo-mild-hungarian-salami-80g-2814013",
+    "name": "Primo Mild Hung ... 80g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2814013.jpg&w=640&q=90",
+    "source_id": "2814013",
+    "barcode": "9311594018625",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544764/primo-mild-hungarian-sliced-salami-mild",
+    "name": "Primo Mild Hungarian Sliced Salami 80g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/544764.jpg",
+    "source_id": "544764",
+    "barcode": "9311594018625",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/primo-gluten-free-thinly-sliced-pastrami-beef-80g-2822260",
+    "name": "Primo Gluten Fr ... 80g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2822260.jpg&w=640&q=90",
+    "source_id": "2822260",
+    "barcode": "9311594016928",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544763/primo-pastrami-sliced",
+    "name": "Primo Pastrami Sliced 80g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/544763.jpg",
+    "source_id": "544763",
+    "barcode": "9311594016928",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/primo-pepperoni-hot-salami-80g-2808735",
+    "name": "Primo Pepperoni Hot  ... 80g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2808735.jpg&w=640&q=90",
+    "source_id": "2808735",
+    "barcode": "9311594018632",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544765/primo-pepperoni-thinly-sliced-hot",
+    "name": "Primo Pepperoni Thinly Sliced 80g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/544765.jpg",
+    "source_id": "544765",
+    "barcode": "9311594018632",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/primo-reserve-chicken-schnitzel-130g-8135863",
+    "name": "Primo Reserve Chicken Schnitzel | 130g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8135863.jpg&w=640&q=90",
+    "source_id": "8135863",
+    "barcode": "9311594016072",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "130g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "4615",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/913842/primo-reserve-chicken-schnitzel",
+    "name": "Primo Reserve Chicken Schnitzel 130g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/913842.jpg",
+    "source_id": "913842",
+    "barcode": "9311594016072",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "130g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "4615",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/primo-silverside-80g-3270963",
+    "name": "Primo Silverside | 80g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3270963.jpg&w=640&q=90",
+    "source_id": "3270963",
+    "barcode": "9311594016850",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/90848/primo-silverside-beef",
+    "name": "Primo Silverside Beef 80g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/090848.jpg",
+    "source_id": "90848",
+    "barcode": "9311594016850",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "80G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/primo-sliced-turkey-breast-80g-2814024",
+    "name": "Primo Sliced T ... 80g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2814024.jpg&w=640&q=90",
+    "source_id": "2814024",
+    "barcode": "9311594016584",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/544697/primo-turkey-breast-sliced",
+    "name": "Primo Turkey Breast Sliced 80g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/544697.jpg",
+    "source_id": "544697",
+    "barcode": "9311594016584",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "80g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "4938",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tibaldi-authentic-ham-off-the-bone-500g-2610341",
+    "name": "Tibaldi Authentic Ham Off The Bone | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2610341.jpg&w=640&q=90",
+    "source_id": "2610341",
+    "barcode": "9310176408014",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1450",
+        "price_per_unit": "2900",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/294972/tibaldi-ham-off-the-bone",
+    "name": "Tibaldi Ham Off The Bone 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/294972.jpg",
+    "source_id": "294972",
+    "barcode": "9310176408014",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tibaldi-signature-australian-triple-smoked-ham-off-the-bone-120g-8144081",
+    "name": "Tibaldi Signature Australian Triple Smoked Ham Off The Bone | 120g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8144081.jpg&w=640&q=90",
+    "source_id": "8144081",
+    "barcode": "9310176408427",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "4583",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/395929/tibaldi-signature-collection-triple-smoked-australian-ham",
+    "name": "Tibaldi Signature Collection Triple Smoked Australian Ham 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/395929.jpg",
+    "source_id": "395929",
+    "barcode": "9310176408427",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "5000",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tibaldi-signature-australian-wafer-thin-leg-ham-120g-8167860",
+    "name": "Tibaldi Signature Australian Wafer Thin Leg Ham | 120g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8167860.jpg&w=640&q=90",
+    "source_id": "8167860",
+    "barcode": "9310176408793",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "4583",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/394907/tibaldi-signature-collection-wafer-thin-australian-leg-ham",
+    "name": "Tibaldi Signature Collection Wafer Thin Australian Leg Ham 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/394907.jpg",
+    "source_id": "394907",
+    "barcode": "9310176408793",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "5000",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tibaldi-ham-off-the-bone-120g-3575927",
+    "name": "Tibaldi Ham Off  ... 120g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3575927.jpg&w=640&q=90",
+    "source_id": "3575927",
+    "barcode": "9310176408816",
+    "shop": "coles",
+    "category_id": "24029",
+    "weight": "120g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "4583",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/27566/tibaldi-signature-ham-off-the-bone",
+    "name": "Tibaldi Signature Ham Off The Bone 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/027566.jpg",
+    "source_id": "27566",
+    "barcode": "9310176408816",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "120G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "5000",
+        "price_unit": "1KG"
+      }
+    ]
+  }
+]

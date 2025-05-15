@@ -1,0 +1,102 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/221003/daily-good-organic-blackcurrant-immunity-shots",
+    "name": "Daily Good Organic Blackcurrant Immunity Shots 350ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/221003.jpg",
+    "source_id": "221003",
+    "barcode": "9421905935814",
+    "category_id": "22164",
+    "subcategory_id": "22164",
+    "subsubcategory_id": "22167",
+    "shop": "Woolworths",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "571",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/218277/daily-good-organic-fiji-turmeric-immunity-shots",
+    "name": "Daily Good Organic Fiji Turmeric Immunity Shots 350ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/218277.jpg",
+    "source_id": "218277",
+    "barcode": "9421905935784",
+    "category_id": "22164",
+    "subcategory_id": "22164",
+    "subsubcategory_id": "22167",
+    "shop": "Woolworths",
+    "weight": "350ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2000",
+        "price_per_unit": "571",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/122693/suntory-boss-coffee-iced-long-black-cans",
+    "name": "Suntory Boss Coffee Iced Long Black Cans 237ml x4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/122693.jpg",
+    "source_id": "122693",
+    "barcode": "9415767068209",
+    "category_id": "22164",
+    "subcategory_id": "22164",
+    "subsubcategory_id": "22167",
+    "shop": "Woolworths",
+    "weight": "237ml x4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1470",
+        "price_per_unit": "1551",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/479935/up-go-liquid-breakfast-vanilla-ice",
+    "name": "Up&Go Liquid Breakfast Vanilla Ice 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/479935.jpg",
+    "source_id": "479935",
+    "barcode": "9300652806014",
+    "category_id": "22164",
+    "subcategory_id": "22164",
+    "subsubcategory_id": "22167",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "980",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/136472/vit-hit-perform",
+    "name": "Vit-Hit Perform 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/136472.jpg",
+    "source_id": "136472",
+    "barcode": "5060381910089",
+    "category_id": "22164",
+    "subcategory_id": "22164",
+    "subsubcategory_id": "22167",
+    "shop": "Woolworths",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "1L"
+      }
+    ]
+  }
+]

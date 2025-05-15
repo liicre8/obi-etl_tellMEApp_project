@@ -1,0 +1,804 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/111368/birds-eye-deli-south-atlantic-flathead-bites-light-batter",
+    "name": "Birds Eye Deli South Atlantic Flathead Bites Light Batter 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/111368.jpg",
+    "source_id": "111368",
+    "barcode": "9310081127413",
+    "category_id": "22280",
+    "subcategory_id": "22322",
+    "subsubcategory_id": "22325",
+    "shop": "Woolworths",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "3200",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/373350/i-j-classic-south-pacific-calamari-rings",
+    "name": "I&J Classic South Pacific Calamari Rings 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/373350.jpg",
+    "source_id": "373350",
+    "barcode": "9310139132734",
+    "category_id": "22280",
+    "subcategory_id": "22322",
+    "subsubcategory_id": "22325",
+    "shop": "Woolworths",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "640",
+        "price_per_unit": "1778",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/571927/i-j-salt-pepper-squid-bites-lightly-crumbed",
+    "name": "I&J Salt & Pepper Squid Bites Lightly Crumbed 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/571927.jpg",
+    "source_id": "571927",
+    "barcode": "9310139117847",
+    "category_id": "22280",
+    "subcategory_id": "22322",
+    "subsubcategory_id": "22325",
+    "shop": "Woolworths",
+    "weight": "360g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "640",
+        "price_per_unit": "1778",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/245443/just-caught-classic-crumbed-seafood-basket",
+    "name": "Just Caught Classic Crumbed Seafood Basket 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/245443.jpg",
+    "source_id": "245443",
+    "barcode": "9315822019330",
+    "category_id": "22280",
+    "subcategory_id": "22322",
+    "subsubcategory_id": "22325",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/245442/just-caught-crumbed-squid-rings",
+    "name": "Just Caught Crumbed Squid Rings 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/245442.jpg",
+    "source_id": "245442",
+    "barcode": "9315822019224",
+    "category_id": "22280",
+    "subcategory_id": "22322",
+    "subsubcategory_id": "22325",
+    "shop": "Woolworths",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "1750",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/918356/just-caught-lemon-pepper-squid",
+    "name": "Just Caught Lemon & Pepper Squid 280g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/918356.jpg",
+    "source_id": "918356",
+    "barcode": "9315822022019",
+    "category_id": "22280",
+    "subcategory_id": "22322",
+    "subsubcategory_id": "22325",
+    "shop": "Woolworths",
+    "weight": "280g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "2857",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/666563/just-caught-peeled-deveined-raw-prawns",
+    "name": "Just Caught Peeled & Deveined Raw Prawns 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/666563.jpg",
+    "source_id": "666563",
+    "barcode": "9315822009232",
+    "category_id": "22280",
+    "subcategory_id": "22322",
+    "subsubcategory_id": "22325",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "WA",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "NT",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/245494/just-caught-salt-pepper-prawns",
+    "name": "Just Caught Salt & Pepper Prawns 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/245494.jpg",
+    "source_id": "245494",
+    "barcode": "9315822019194",
+    "category_id": "22280",
+    "subcategory_id": "22322",
+    "subsubcategory_id": "22325",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/727050/ocean-chef-usa-sea-scallops",
+    "name": "Ocean Chef USA Sea Scallops 425G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/727050.jpg",
+    "source_id": "727050",
+    "barcode": "9323015012556",
+    "category_id": "22280",
+    "subcategory_id": "22322",
+    "subsubcategory_id": "22325",
+    "shop": "Woolworths",
+    "weight": "425G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2650",
+        "price_per_unit": "6235",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2650",
+        "price_per_unit": "6235",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "WA",
+        "price": "2650",
+        "price_per_unit": "6235",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "2650",
+        "price_per_unit": "6235",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2650",
+        "price_per_unit": "6235",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "NT",
+        "price": "2650",
+        "price_per_unit": "6235",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/89827/sailing-seas-fish-ball",
+    "name": "Sailing Seas Fish Ball 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/089827.jpg",
+    "source_id": "89827",
+    "barcode": "9349673003071",
+    "category_id": "22280",
+    "subcategory_id": "22322",
+    "subsubcategory_id": "22325",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "98",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387372/better-choice-fisheries-australian-raw-royal-red-prawn-meat",
+    "name": "Better Choice Fisheries Australian Raw Royal Red Prawn Meat 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/387372.jpg",
+    "source_id": "387372",
+    "barcode": "9319270001466",
+    "category_id": "22280",
+    "subcategory_id": "22322",
+    "subsubcategory_id": "22325",
+    "shop": "Woolworths",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "2667",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "2667",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "2667",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "2667",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "2667",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "2667",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/246721/birds-eye-ocean-selections-raw-prawns-frozen-garlic-and-herb-dusted",
+    "name": "Birds Eye Ocean Selections Raw Prawns Frozen, Garlic And Herb Dusted 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/246721.jpg",
+    "source_id": "246721",
+    "barcode": "9310081132424",
+    "category_id": "22280",
+    "subcategory_id": "22322",
+    "subsubcategory_id": "22325",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1900",
+        "price_per_unit": "3800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1900",
+        "price_per_unit": "3800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "WA",
+        "price": "1900",
+        "price_per_unit": "3800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "1900",
+        "price_per_unit": "3800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1900",
+        "price_per_unit": "3800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1900",
+        "price_per_unit": "3800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "NT",
+        "price": "1900",
+        "price_per_unit": "3800",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/186658/birds-eye-ocean-selections-raw-prawns-frozen-peeled-tail-off",
+    "name": "Birds Eye Ocean Selections Raw Prawns Frozen, Peeled & Tail Off 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/186658.jpg",
+    "source_id": "186658",
+    "barcode": "9310081130611",
+    "category_id": "22280",
+    "subcategory_id": "22322",
+    "subsubcategory_id": "22325",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1900",
+        "price_per_unit": "3800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1900",
+        "price_per_unit": "3800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "WA",
+        "price": "1900",
+        "price_per_unit": "3800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "1900",
+        "price_per_unit": "3800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1900",
+        "price_per_unit": "3800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1900",
+        "price_per_unit": "3800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "NT",
+        "price": "1900",
+        "price_per_unit": "3800",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/223880/just-caught-jumbo-cutlets-raw",
+    "name": "Just Caught Jumbo Cutlets Raw 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/223880.jpg",
+    "source_id": "223880",
+    "barcode": "9315822018968",
+    "category_id": "22280",
+    "subcategory_id": "22322",
+    "subsubcategory_id": "22325",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2300",
+        "price_per_unit": "4600",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2300",
+        "price_per_unit": "4600",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "WA",
+        "price": "2300",
+        "price_per_unit": "4600",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "2300",
+        "price_per_unit": "4600",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2300",
+        "price_per_unit": "4600",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2300",
+        "price_per_unit": "4600",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "NT",
+        "price": "2300",
+        "price_per_unit": "4600",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/803034/just-caught-raw-prawn-cutlets",
+    "name": "Just Caught Raw Prawn Cutlets 850g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/803034.jpg",
+    "source_id": "803034",
+    "barcode": "9315822013918",
+    "category_id": "22280",
+    "subcategory_id": "22322",
+    "subsubcategory_id": "22325",
+    "shop": "Woolworths",
+    "weight": "850G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3000",
+        "price_per_unit": "3529",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "3000",
+        "price_per_unit": "3529",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "WA",
+        "price": "3000",
+        "price_per_unit": "3529",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "3000",
+        "price_per_unit": "3529",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "TAS",
+        "price": "3000",
+        "price_per_unit": "3529",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "3000",
+        "price_per_unit": "3529",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "NT",
+        "price": "3000",
+        "price_per_unit": "3529",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/62050/just-caught-raw-prawn-meat",
+    "name": "Just Caught Raw Prawn Meat 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/062050.jpg",
+    "source_id": "62050",
+    "barcode": "9315822016377",
+    "category_id": "22280",
+    "subcategory_id": "22322",
+    "subsubcategory_id": "22325",
+    "shop": "Woolworths",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "3333",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "3333",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "3333",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "3333",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "3333",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "3333",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "3333",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/247602/ocean-chef-australian-raw-peeld-prawns",
+    "name": "Ocean Chef Australian Raw Peeld Prawns 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/247602.jpg",
+    "source_id": "247602",
+    "barcode": "9323015021954",
+    "category_id": "22280",
+    "subcategory_id": "22322",
+    "subsubcategory_id": "22325",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2400",
+        "price_per_unit": "6000",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2400",
+        "price_per_unit": "6000",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "WA",
+        "price": "2400",
+        "price_per_unit": "6000",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "2400",
+        "price_per_unit": "6000",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2400",
+        "price_per_unit": "6000",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2400",
+        "price_per_unit": "6000",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "NT",
+        "price": "2400",
+        "price_per_unit": "6000",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/399608/ocean-chef-peeled-tail-off-deveined-raw-prawns",
+    "name": "Ocean Chef Peeled Tail Off & Deveined Raw Prawns 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/399608.jpg",
+    "source_id": "399608",
+    "barcode": "9323015022470",
+    "category_id": "22280",
+    "subcategory_id": "22322",
+    "subsubcategory_id": "22325",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "2800",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/656743/woolworths-jumbo-cooked-prawn",
+    "name": "Woolworths Jumbo Cooked Prawn 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/656743.jpg",
+    "source_id": "656743",
+    "barcode": "9339687089666",
+    "category_id": "22280",
+    "subcategory_id": "22322",
+    "subsubcategory_id": "22325",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "4000",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "2000",
+        "price_per_unit": "4000",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "WA",
+        "price": "2000",
+        "price_per_unit": "4000",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "2000",
+        "price_per_unit": "4000",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "2000",
+        "price_per_unit": "4000",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "NT",
+        "price": "2000",
+        "price_per_unit": "4000",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/285355/woolworths-raw-peeled-deveined-prawns",
+    "name": "Woolworths Raw Peeled & Deveined Prawns 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/285355.jpg",
+    "source_id": "285355",
+    "barcode": "9339687340477",
+    "category_id": "22280",
+    "subcategory_id": "22322",
+    "subsubcategory_id": "22325",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "WA",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "NT",
+        "price": "1600",
+        "price_per_unit": "3200",
+        "price_unit": "1KG"
+      }
+    ]
+  }
+]

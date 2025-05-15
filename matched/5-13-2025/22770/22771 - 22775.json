@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/cadbury-baking-dark-chocolate-melts-225g-2313641",
+    "name": "Cadbury Baking Dark Chocolate Melts | 225g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2313641.jpg&w=640&q=90",
+    "source_id": "2313641",
+    "barcode": "9300617052715",
+    "shop": "coles",
+    "category_id": "22775",
+    "weight": "225g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "267",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829009/cadbury-baking-dark-chocolate-melts",
+    "name": "Cadbury Baking Dark Chocolate Melts 225g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/829009.jpg",
+    "source_id": "829009",
+    "barcode": "9300617052715",
+    "shop": "Woolworths",
+    "category_id": "22775",
+    "weight": "225G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "267",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cadbury-milk-chocolate-baking-chips-200g-2313620",
+    "name": "Cadbury Milk Chocolate Baking Chips | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2313620.jpg&w=640&q=90",
+    "source_id": "2313620",
+    "barcode": "9300617052982",
+    "shop": "coles",
+    "category_id": "22775",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829004/cadbury-baking-milk-chocolate-chips",
+    "name": "Cadbury Baking Milk Chocolate Chips 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/829004.jpg",
+    "source_id": "829004",
+    "barcode": "9300617052982",
+    "shop": "Woolworths",
+    "category_id": "22775",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cadbury-milk-chocolate-melting-buttons-225g-2313652",
+    "name": "Cadbury Milk Chocolate Melting Buttons | 225g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2313652.jpg&w=640&q=90",
+    "source_id": "2313652",
+    "barcode": "9300617052838",
+    "shop": "coles",
+    "category_id": "22775",
+    "weight": "225g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "267",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829005/cadbury-baking-milk-chocolate-melts",
+    "name": "Cadbury Baking Milk Chocolate Melts 225g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/829005.jpg",
+    "source_id": "829005",
+    "barcode": "9300617052838",
+    "shop": "Woolworths",
+    "category_id": "22775",
+    "weight": "225G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "267",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

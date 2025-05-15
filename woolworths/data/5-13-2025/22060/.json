@@ -1,0 +1,382 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/525814/woolworths-blueberry-muffin",
+    "name": "Woolworths Blueberry Muffin 165g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/525814.jpg",
+    "source_id": "525814",
+    "barcode": "9339687366958",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "165g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "152",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/504821/woolworths-chocolate-chip-muffin",
+    "name": "Woolworths Chocolate Chip Muffin 165g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/504821.jpg",
+    "source_id": "504821",
+    "barcode": "9339687366941",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "165g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "152",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/528292/woolworths-double-chocolate-muffin",
+    "name": "Woolworths Double Chocolate Muffin 165g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/528292.jpg",
+    "source_id": "528292",
+    "barcode": "9339687366972",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "165g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "152",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/259767/woolworths-scone-homestyle-buttermilk",
+    "name": "Woolworths Scone Homestyle Buttermilk 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/259767.jpg",
+    "source_id": "259767",
+    "barcode": "0280513000005",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/259766/woolworths-scone-homestyle-fruit",
+    "name": "Woolworths Scone Homestyle Fruit 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/259766.jpg",
+    "source_id": "259766",
+    "barcode": "0280510000008",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "92",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/104984/woolworths-assorted-celebration-cake",
+    "name": "Woolworths Assorted Celebration Cake 1.2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/104984.jpg",
+    "source_id": "104984",
+    "barcode": "9339687190546",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "1.2Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3200",
+        "price_per_unit": "267",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/921669/woolworths-banana-loaf",
+    "name": "Woolworths Banana Loaf 550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/921669.jpg",
+    "source_id": "921669",
+    "barcode": "9300633594138",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "550G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "105",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/921672/woolworths-carrot-walnut-loaf",
+    "name": "Woolworths Carrot & Walnut Loaf 540g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/921672.jpg",
+    "source_id": "921672",
+    "barcode": "9300633594152",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "540G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "107",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/808593/woolworths-free-from-gluten-dairy-free-chocolate-cheesecake",
+    "name": "Woolworths Free From Gluten Dairy Free Chocolate Cheesecake 675g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/808593.jpg",
+    "source_id": "808593",
+    "barcode": "9339687067602",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "675G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "200",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/103356/woolworths-indulgent-chocolate-caramel-cake",
+    "name": "Woolworths Indulgent Chocolate & Caramel Cake 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/103356.jpg",
+    "source_id": "103356",
+    "barcode": "9339687189199",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "213",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/113770/woolworths-lemon-drizzle-loaf-cake",
+    "name": "Woolworths Lemon Drizzle Loaf Cake 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/113770.jpg",
+    "source_id": "113770",
+    "barcode": "9339687207435",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/921694/woolworths-lemon-madeira-cake",
+    "name": "Woolworths Lemon Madeira Cake 315g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/921694.jpg",
+    "source_id": "921694",
+    "barcode": "9300633594176",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "315G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "110",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/921693/woolworths-madeira-cake",
+    "name": "Woolworths Madeira Cake 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/921693.jpg",
+    "source_id": "921693",
+    "barcode": "9300633594169",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "77",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/118172/woolworths-party-pack-mudcake-slices",
+    "name": "Woolworths Party Pack Mudcake Slices 24 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/118172.jpg",
+    "source_id": "118172",
+    "barcode": "9339687211609",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "24 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "140",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/781712/woolworths-portuguese-tarts",
+    "name": "Woolworths Portuguese Tarts 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/781712.jpg",
+    "source_id": "781712",
+    "barcode": "0289960000002",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "175",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/316258/woolworths-profiteroles",
+    "name": "Woolworths Profiteroles 8 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/316258.jpg",
+    "source_id": "316258",
+    "barcode": "0288616000007",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "8 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "88",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/103358/woolworths-traditional-carrot-cake",
+    "name": "Woolworths Traditional Carrot Cake 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/103358.jpg",
+    "source_id": "103358",
+    "barcode": "9339687189212",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/104629/woolworths-vanilla-cake-with-biscoff",
+    "name": "Woolworths Vanilla Cake With Biscoff 450G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/104629.jpg",
+    "source_id": "104629",
+    "barcode": "9339687189649",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/103357/woolworths-zesty-lemon-cake",
+    "name": "Woolworths Zesty Lemon Cake 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/103357.jpg",
+    "source_id": "103357",
+    "barcode": "9339687189205",
+    "category_id": "22060",
+    "subcategory_id": "",
+    "subsubcategory_id": "",
+    "shop": "Woolworths",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "213",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

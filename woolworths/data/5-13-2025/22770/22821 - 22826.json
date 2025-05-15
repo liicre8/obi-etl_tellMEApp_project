@@ -1,0 +1,62 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180476/slush-puppie-grape-flavoured",
+    "name": "Slush Puppie Grape Flavoured 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/180476.jpg",
+    "source_id": "180476",
+    "barcode": "9329935000017",
+    "category_id": "22770",
+    "subcategory_id": "22821",
+    "subsubcategory_id": "22826",
+    "shop": "Woolworths",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "156",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/21662/zooper-dooper-8-cosmic-flavours",
+    "name": "Zooper Dooper 8 Cosmic Flavours 24 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/021662.jpg",
+    "source_id": "21662",
+    "barcode": "9300648340300",
+    "category_id": "22770",
+    "subcategory_id": "22821",
+    "subsubcategory_id": "22826",
+    "shop": "Woolworths",
+    "weight": "24 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180105/zooper-dooper-no-sugar",
+    "name": "Zooper Dooper No Sugar 24 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/180105.jpg",
+    "source_id": "180105",
+    "barcode": "9310113903817",
+    "category_id": "22770",
+    "subcategory_id": "22821",
+    "subsubcategory_id": "22826",
+    "shop": "Woolworths",
+    "weight": "24 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "720",
+        "price_per_unit": "43",
+        "price_unit": "100ML"
+      }
+    ]
+  }
+]

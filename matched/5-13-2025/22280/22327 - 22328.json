@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-frozen-peas-500g-338856",
+    "name": "McCain Frozen Peas | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F338856.jpg&w=640&q=90",
+    "source_id": "338856",
+    "barcode": "9310174006014",
+    "shop": "coles",
+    "category_id": "22328",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/96206/mccain-frozen-peas",
+    "name": "McCain Frozen Peas 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/096206.jpg",
+    "source_id": "96206",
+    "barcode": "9310174006014",
+    "shop": "Woolworths",
+    "category_id": "22328",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-frozen-baby-peas-500g-5368796",
+    "name": "McCain Frozen Baby Peas | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5368796.jpg&w=640&q=90",
+    "source_id": "5368796",
+    "barcode": "9416036006052",
+    "shop": "coles",
+    "category_id": "22328",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "1KG | WAS $3.90"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/18574/mccain-peas-baby",
+    "name": "McCain Peas Baby 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/018574.jpg",
+    "source_id": "18574",
+    "barcode": "9416036006052",
+    "shop": "Woolworths",
+    "category_id": "22328",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "780",
+        "price_unit": "1KG"
+      }
+    ]
+  }
+]

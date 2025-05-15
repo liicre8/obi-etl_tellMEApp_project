@@ -1,0 +1,830 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/dare-caramel-latte-flavoured-milk-750ml-5601653",
+    "name": "Dare Caramel Latte Flavoured Milk | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5601653.jpg&w=640&q=90",
+    "source_id": "5601653",
+    "barcode": "9310232958972",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "700",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/746542/dare-caramel-latte-iced-coffee",
+    "name": "Dare Caramel Latte Iced Coffee 750ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/746542.jpg",
+    "source_id": "746542",
+    "barcode": "9310232958972",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "425",
+        "price_per_unit": "567",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dare-double-espresso-iced-coffee-500ml-3033946",
+    "name": "Dare Double Espresso Iced Coffee | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3033946.jpg&w=640&q=90",
+    "source_id": "3033946",
+    "barcode": "9310232957500",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "580",
+        "price_unit": "1L | WAS $4.15"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/249137/dare-double-espresso-iced-coffee",
+    "name": "Dare Double Espresso Iced Coffee 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/249137.jpg",
+    "source_id": "249137",
+    "barcode": "9310232957500",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "415",
+        "price_per_unit": "830",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dare-double-espresso-flavoured-milk-750ml-3034020",
+    "name": "Dare Double Espresso Flavoured Milk | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3034020.jpg&w=640&q=90",
+    "source_id": "3034020",
+    "barcode": "9310199080815",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "700",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/293933/dare-double-espresso-iced-coffee",
+    "name": "Dare Double Espresso Iced Coffee 750ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/293933.jpg",
+    "source_id": "293933",
+    "barcode": "9310199080815",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "425",
+        "price_per_unit": "567",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dare-espresso-favoured-milk-750ml-3034010",
+    "name": "Dare Espresso Favoured Milk | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3034010.jpg&w=640&q=90",
+    "source_id": "3034010",
+    "barcode": "9310232957531",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "700",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/255405/dare-espresso-ice-coffee-iced-coffee",
+    "name": "Dare Espresso Ice Coffee 750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/255405.jpg",
+    "source_id": "255405",
+    "barcode": "9310232957531",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "750mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "425",
+        "price_per_unit": "567",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dare-mocha-flavoured-milk-500ml-3033957",
+    "name": "Dare Mocha Flavoured Milk | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3033957.jpg&w=640&q=90",
+    "source_id": "3033957",
+    "barcode": "9310232957517",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "580",
+        "price_unit": "1L | WAS $4.15"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/323328/dare-mocha-iced-coffee",
+    "name": "Dare Mocha Iced Coffee 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/323328.jpg",
+    "source_id": "323328",
+    "barcode": "9310232957517",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "415",
+        "price_per_unit": "830",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dare-mocha-flavoured-milk-750ml-3034031",
+    "name": "Dare Mocha Flavoured Milk | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3034031.jpg&w=640&q=90",
+    "source_id": "3034031",
+    "barcode": "9310232957555",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "700",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/876991/dare-mocha-iced-coffee-flavoured-milk",
+    "name": "Dare Mocha Iced Coffee Flavoured Milk 750ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/876991.jpg",
+    "source_id": "876991",
+    "barcode": "9310232957555",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "425",
+        "price_per_unit": "567",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dare-no-added-sugar-iced-coffee-flavoured-milk-2l-6266816",
+    "name": "Dare No Added Sugar Iced Coffee Flavoured Milk | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6266816.jpg&w=640&q=90",
+    "source_id": "6266816",
+    "barcode": "9310232961231",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "350",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/239524/dare-no-added-sugar-double-espresso-iced-coffee",
+    "name": "Dare No Added Sugar Double Espresso Iced Coffee 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/239524.jpg",
+    "source_id": "239524",
+    "barcode": "9310232961231",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "2L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "315",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dare-no-added-sugar-double-espresso-flavoured-milk-500ml-3568590",
+    "name": "Dare No Added Sugar Double Espresso Flavoured Milk | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3568590.jpg&w=640&q=90",
+    "source_id": "3568590",
+    "barcode": "9310232959245",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "580",
+        "price_unit": "1L | WAS $4.15"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/11076/dare-no-added-sugar-double-espresso-iced-coffee",
+    "name": "Dare No Added Sugar Double Espresso Iced Coffee 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/011076.jpg",
+    "source_id": "11076",
+    "barcode": "9310232959245",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "415",
+        "price_per_unit": "830",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dare-no-sugar-added-iced-coffee-double-espresso-750ml-3643630",
+    "name": "Dare No Sugar Added Iced Coffee Double Espresso | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3643630.jpg&w=640&q=90",
+    "source_id": "3643630",
+    "barcode": "9310232959269",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "700",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/26888/dare-no-added-sugar-double-espresso-iced-coffee",
+    "name": "Dare No Added Sugar Double Espresso Iced Coffee 750ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/026888.jpg",
+    "source_id": "26888",
+    "barcode": "9310232959269",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "425",
+        "price_per_unit": "567",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hunt-and-brew-brazil-iced-coffee-400ml-2918303",
+    "name": "Hunt & Brew Brazil Iced Coffee | 400mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2918303.jpg&w=640&q=90",
+    "source_id": "2918303",
+    "barcode": "9300662886488",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "400ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "495",
+        "price_per_unit": "1238",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/621268/hunt-and-brew-cold-brew-coffee-brazil",
+    "name": "Hunt And Brew Cold Brew Coffee Brazil 400ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/621268.jpg",
+    "source_id": "621268",
+    "barcode": "9300662886488",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "400mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "495",
+        "price_per_unit": "1238",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ice-break-iced-coffee-lactose-free-500ml-5605213",
+    "name": "Ice Break Iced Coffee Lactose Free | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5605213.jpg&w=640&q=90",
+    "source_id": "5605213",
+    "barcode": "9310036078005",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "790",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/238549/ice-break-iced-coffee-lactose-free",
+    "name": "Ice Break Iced Coffee Lactose Free 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/238549.jpg",
+    "source_id": "238549",
+    "barcode": "9310036078005",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ice-break-iced-coffee-regular-strength-750ml-9695364",
+    "name": "Ice Break Iced Coffee Regular Strength | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9695364.jpg&w=640&q=90",
+    "source_id": "9695364",
+    "barcode": "9310036016106",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "527",
+        "price_unit": "1L | WAS $5.25"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/120981/ice-break-iced-coffee-regular-flavoured-milk",
+    "name": "Ice Break Iced Coffee Regular Flavoured Milk 750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/120981.jpg",
+    "source_id": "120981",
+    "barcode": "9310036016106",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "750mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "495",
+        "price_per_unit": "660",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-milo-energy-dairy-snack-150g-3116078",
+    "name": "Nestle Milo En ... 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3116078.jpg&w=640&q=90",
+    "source_id": "3116078",
+    "barcode": "9310036063384",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "175",
+        "price_per_unit": "117",
+        "price_unit": "100G | WAS $2.50"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/623659/nestle-milo-energy-dairy-snack-snack-pouch",
+    "name": "Nestle Milo Energy Dairy Snack 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/623659.jpg",
+    "source_id": "623659",
+    "barcode": "9310036063384",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "153",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/boss-long-black-4x237ml-4-pack-5161550",
+    "name": "Boss Long Black 4x237mL | 4 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5161550.jpg&w=640&q=90",
+    "source_id": "5161550",
+    "barcode": "9415767068209",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "4pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1470",
+        "price_per_unit": "1551",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/122693/suntory-boss-coffee-iced-long-black-cans",
+    "name": "Suntory Boss Coffee Iced Long Black Cans 237ml x4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/122693.jpg",
+    "source_id": "122693",
+    "barcode": "9415767068209",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "237ml x4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1470",
+        "price_per_unit": "1551",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pauls-bluey-chocolate-flavoured-milk-250ml-4165498",
+    "name": "Pauls Bluey Chocolate Flavoured Milk | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4165498.jpg&w=640&q=90",
+    "source_id": "4165498",
+    "barcode": "9310036077886",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "960",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/156078/pauls-bluey-chocolate-flavoured-milk",
+    "name": "Pauls Bluey Chocolate Flavoured Milk 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/156078.jpg",
+    "source_id": "156078",
+    "barcode": "9310036077886",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "960",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pauls-bluey-strawberry-flavoured-milk-250ml-4165501",
+    "name": "Pauls Bluey Strawberry Flavoured Milk | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4165501.jpg&w=640&q=90",
+    "source_id": "4165501",
+    "barcode": "9310036077893",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "960",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/155910/pauls-bluey-strawberry-flavoured-milk",
+    "name": "Pauls Bluey Strawberry Flavoured Milk 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/155910.jpg",
+    "source_id": "155910",
+    "barcode": "9310036077893",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "960",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vitasoy-almond-milky-1l-3019027",
+    "name": "Vitasoy Almond Milky | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3019027.jpg&w=640&q=90",
+    "source_id": "3019027",
+    "barcode": "9341650000448",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/660390/vitasoy-almond-milky",
+    "name": "Vitasoy Almond Milky 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/660390.jpg",
+    "source_id": "660390",
+    "barcode": "9341650000448",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "210",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/rokeby-protein-smoothie-nas-banana-honey-cinnamon-425ml-3905307",
+    "name": "Rokeby Protein Smoothie Nas Banana Honey Cinnamon | 425mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3905307.jpg&w=640&q=90",
+    "source_id": "3905307",
+    "barcode": "9336243005009",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "425ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "1082",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/788553/rokeby-protein-smoothie-banana-honey-cinnamon",
+    "name": "Rokeby Protein Smoothie Banana Honey Cinnamon 425mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/788553.jpg",
+    "source_id": "788553",
+    "barcode": "9336243005009",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "425mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "465",
+        "price_per_unit": "1094",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/rokeby-protein-smoothie-dutch-chocolate-425ml-1944192",
+    "name": "Rokeby Protein Smoothie Dutch Chocolate | 425mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1944192.jpg&w=640&q=90",
+    "source_id": "1944192",
+    "barcode": "9336243005023",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "425ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "1082",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/771258/rokeby-protein-smoothie-dutch-chocolate",
+    "name": "Rokeby Protein Smoothie Dutch Chocolate 425mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/771258.jpg",
+    "source_id": "771258",
+    "barcode": "9336243005023",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "425mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "465",
+        "price_per_unit": "1094",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/boss-iced-latte-coffee-237ml-3762673",
+    "name": "Boss Iced Latte Coffee | 237mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3762673.jpg&w=640&q=90",
+    "source_id": "3762673",
+    "barcode": "9415767068018",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "237ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "1266",
+        "price_unit": "1L | WAS $4.00"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/65575/suntory-boss-coffee-iced-latte",
+    "name": "Suntory Boss Coffee Iced Latte 237ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/065575.jpg",
+    "source_id": "65575",
+    "barcode": "9415767068018",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "237mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1688",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/boss-iced-long-black-coffee-237ml-3762710",
+    "name": "Boss Iced Long Black Coffee | 237mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3762710.jpg&w=640&q=90",
+    "source_id": "3762710",
+    "barcode": "9415767068001",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "237ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "1266",
+        "price_unit": "1L | WAS $4.00"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/66122/suntory-boss-coffee-iced-long-black",
+    "name": "Suntory Boss Coffee Iced Long Black 237ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/066122.jpg",
+    "source_id": "66122",
+    "barcode": "9415767068001",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "237mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1688",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/boss-double-espresso-coffee-237ml-4476727",
+    "name": "Boss Double Espresso Coffee | 237mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4476727.jpg&w=640&q=90",
+    "source_id": "4476727",
+    "barcode": "9415767068049",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "237ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "1266",
+        "price_unit": "1L | WAS $4.00"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/175034/suntory-boss-iced-coffee-double-espresso",
+    "name": "Suntory Boss Iced Coffee Double Espresso 237ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/175034.jpg",
+    "source_id": "175034",
+    "barcode": "9415767068049",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "237ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1688",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vitasoy-almond-iced-coffee-double-espresso-330ml-3624705",
+    "name": "Vitasoy Almond Iced Coffee Double Espresso | 330mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3624705.jpg&w=640&q=90",
+    "source_id": "3624705",
+    "barcode": "9341650001223",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "330ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "1091",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/807017/vitasoy-almond-double-espresso",
+    "name": "Vitasoy Almond Double Espresso 330ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/807017.jpg",
+    "source_id": "807017",
+    "barcode": "9341650001223",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "330mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "879",
+        "price_unit": "1L"
+      }
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/884062/lipton-iced-tea-no-sugar-peach-cans",
+    "name": "Lipton Iced Tea No Sugar Peach Cans 240mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/884062.jpg",
+    "source_id": "884062",
+    "barcode": "9358155000279",
+    "category_id": "22164",
+    "subcategory_id": "22176",
+    "subsubcategory_id": "22180",
+    "shop": "Woolworths",
+    "weight": "240mL x 6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "417",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/305223/lipton-lemon-iced-tea-bottle-lemon",
+    "name": "Lipton Lemon Iced Tea Bottle 1.5L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/305223.jpg",
+    "source_id": "305223",
+    "barcode": "9310021039080",
+    "category_id": "22164",
+    "subcategory_id": "22176",
+    "subsubcategory_id": "22180",
+    "shop": "Woolworths",
+    "weight": "1.5L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "400",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/221517/lipton-no-sugar-lemon-iced-tea-bottle",
+    "name": "Lipton No Sugar Lemon Iced Tea Bottle 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/221517.jpg",
+    "source_id": "221517",
+    "barcode": "9358155000132",
+    "category_id": "22164",
+    "subcategory_id": "22176",
+    "subsubcategory_id": "22180",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/221667/lipton-no-sugar-peach-iced-tea-bottle",
+    "name": "Lipton No Sugar Peach Iced Tea Bottle 1.5L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/221667.jpg",
+    "source_id": "221667",
+    "barcode": "9358155000101",
+    "category_id": "22164",
+    "subcategory_id": "22176",
+    "subsubcategory_id": "22180",
+    "shop": "Woolworths",
+    "weight": "1.5L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "400",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/221029/lipton-no-sugar-peach-iced-tea-bottle",
+    "name": "Lipton No Sugar Peach Iced Tea Bottle 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/221029.jpg",
+    "source_id": "221029",
+    "barcode": "9358155000118",
+    "category_id": "22164",
+    "subcategory_id": "22176",
+    "subsubcategory_id": "22180",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/305224/lipton-peach-iced-tea-bottle-peach",
+    "name": "Lipton Peach Iced Tea Bottle Peach 1.5L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/305224.jpg",
+    "source_id": "305224",
+    "barcode": "9310021039097",
+    "category_id": "22164",
+    "subcategory_id": "22176",
+    "subsubcategory_id": "22180",
+    "shop": "Woolworths",
+    "weight": "1.5L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "400",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/201689/lipton-peach-tea-iced-tea-bottle-ice-tea",
+    "name": "Lipton Peach Tea Iced Tea Bottle Ice Tea 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/201689.jpg",
+    "source_id": "201689",
+    "barcode": "9310021039035",
+    "category_id": "22164",
+    "subcategory_id": "22176",
+    "subsubcategory_id": "22180",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "700",
+        "price_unit": "1L"
+      }
+    ]
+  }
+]

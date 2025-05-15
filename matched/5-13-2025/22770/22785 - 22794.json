@@ -1,0 +1,758 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/bega-peanut-butter-crunchy-755g-7034033",
+    "name": "Bega Peanut  ... 755g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7034033.jpg&w=640&q=90",
+    "source_id": "7034033",
+    "barcode": "9352042002148",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "755g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "740",
+        "price_per_unit": "98",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/423766/bega-crunchy-peanut-butter",
+    "name": "Bega Crunchy Peanut Butter 755g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/423766.jpg",
+    "source_id": "423766",
+    "barcode": "9352042002148",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "755g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "740",
+        "price_per_unit": "98",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-crunchy-peanut-butter-375g-130629",
+    "name": "Bega Crunchy Peanut Butter | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F130629.jpg&w=640&q=90",
+    "source_id": "130629",
+    "barcode": "9352042000137",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "155",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33604/bega-peanut-butter-crunchy",
+    "name": "Bega Peanut Butter Crunchy 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033604.jpg",
+    "source_id": "33604",
+    "barcode": "9352042000137",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "131",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-crunchy-peanut-butter-470g-5390911",
+    "name": "Bega Crunchy Peanut Butter | 470g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5390911.jpg&w=640&q=90",
+    "source_id": "5390911",
+    "barcode": "9352042002827",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "470g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "102",
+        "price_unit": "100G | WAS $6.90"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/98049/bega-peanut-butter-crunchy",
+    "name": "Bega Peanut Butter Crunchy 470g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/098049.jpg",
+    "source_id": "98049",
+    "barcode": "9352042002827",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "470G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "147",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-peanut-butter-smooth-375g-130607",
+    "name": "Bega Peanut Butter Smooth | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F130607.jpg&w=640&q=90",
+    "source_id": "130607",
+    "barcode": "9352042000120",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "155",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33605/bega-peanut-butter-smooth",
+    "name": "Bega Peanut Butter Smooth 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033605.jpg",
+    "source_id": "33605",
+    "barcode": "9352042000120",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "131",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-smooth-peanut-butter-470g-5398753",
+    "name": "Bega Smooth Peanut Butter | 470g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5398753.jpg&w=640&q=90",
+    "source_id": "5398753",
+    "barcode": "9352042002810",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "470g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "102",
+        "price_unit": "100G | WAS $6.90"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/98046/bega-peanut-butter-smooth",
+    "name": "Bega Peanut Butter Smooth 470g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/098046.jpg",
+    "source_id": "98046",
+    "barcode": "9352042002810",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "470G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "690",
+        "price_per_unit": "147",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-peanut-butter-smooth-755g-7034011",
+    "name": "Bega Peanut  ... 755g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7034011.jpg&w=640&q=90",
+    "source_id": "7034011",
+    "barcode": "9352042002131",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "755g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "740",
+        "price_per_unit": "98",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/422889/bega-smooth-peanut-butter",
+    "name": "Bega Smooth Peanut Butter 755g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/422889.jpg",
+    "source_id": "422889",
+    "barcode": "9352042002131",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "755g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "740",
+        "price_per_unit": "98",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mayver's-crunchy-natural-peanut-butter-375g-2621632",
+    "name": "Mayver's Crunchy Natural Peanut Butter | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2621632.jpg&w=640&q=90",
+    "source_id": "2621632",
+    "barcode": "9310885115517",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "168",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/781034/mayver-s-crunchy-peanut-butter",
+    "name": "Mayver's Crunchy Peanut Butter 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/781034.jpg",
+    "source_id": "781034",
+    "barcode": "9310885115517",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "168",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mayver's-crunchy-dark-roast-natural-peanut-butter-375g-2622001",
+    "name": "Mayver's Crunchy Dark Roast Natural Peanut Butter | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2622001.jpg&w=640&q=90",
+    "source_id": "2622001",
+    "barcode": "9310885115586",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "133",
+        "price_unit": "100G | WAS $6.30"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/575838/mayver-s-dark-peanut-butter-crunchy",
+    "name": "Mayver's Dark Peanut Butter Crunchy 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/575838.jpg",
+    "source_id": "575838",
+    "barcode": "9310885115586",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "168",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mayver's-smooth-natural-peanut-butter-375g-2621643",
+    "name": "Mayver's Smooth Natural Peanut Butter | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2621643.jpg&w=640&q=90",
+    "source_id": "2621643",
+    "barcode": "9310885115500",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "168",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/781030/mayver-s-smooth-peanut-butter",
+    "name": "Mayver's Smooth Peanut Butter 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/781030.jpg",
+    "source_id": "781030",
+    "barcode": "9310885115500",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "168",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mayver's-natural-peanut-butter-high-protein-375g-2897371",
+    "name": "Mayver's Natural Peanut Butter High Protein | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2897371.jpg&w=640&q=90",
+    "source_id": "2897371",
+    "barcode": "9310885115852",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "730",
+        "price_per_unit": "195",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/679375/mayver-s-smunchy-protein-plus-peanut-butter",
+    "name": "Mayver's Smunchy Protein Plus Peanut Butter 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/679375.jpg",
+    "source_id": "679375",
+    "barcode": "9310885115852",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "510",
+        "price_per_unit": "136",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pic's-really-good-crunchy-peanut-butter-380g-2120207",
+    "name": "Pic's Really Good Crunchy Peanut Butter | 380g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2120207.jpg&w=640&q=90",
+    "source_id": "2120207",
+    "barcode": "9421901881009",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "380g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "158",
+        "price_unit": "100G | WAS $7.50"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/360257/pic-s-peanut-butter-crunchy",
+    "name": "Pic's Peanut Butter Crunchy 380g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/360257.jpg",
+    "source_id": "360257",
+    "barcode": "9421901881009",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "380G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "197",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pic's-really-good-smooth-peanut-butter-380g-2120218",
+    "name": "Pic's Really Good Smooth Peanut Butter | 380g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2120218.jpg&w=640&q=90",
+    "source_id": "2120218",
+    "barcode": "9421901881160",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "380g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "158",
+        "price_unit": "100G | WAS $7.50"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/754776/pic-s-peanut-butter-smooth",
+    "name": "Pic's Peanut Butter Smooth 380g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/754776.jpg",
+    "source_id": "754776",
+    "barcode": "9421901881160",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "380G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "197",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mayvers-hulled-tahini-385g-5022180",
+    "name": "Mayvers Hulled Tahini | 385g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5022180.jpg&w=640&q=90",
+    "source_id": "5022180",
+    "barcode": "9310885000141",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "385g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "169",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/29348/mayver-s-hulled-tahini-spread",
+    "name": "Mayver's Hulled Tahini Spread 385g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/029348.jpg",
+    "source_id": "29348",
+    "barcode": "9310885000141",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "385G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "135",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-dairylea-cheddar-block-500g-130775",
+    "name": "Bega Dairylea Cheddar Block | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F130775.jpg&w=640&q=90",
+    "source_id": "130775",
+    "barcode": "9352042004807",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/915501/bega-cheddar-cheese-block",
+    "name": "Bega Cheddar Cheese Block 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/915501.jpg",
+    "source_id": "915501",
+    "barcode": "9352042004807",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "790",
+        "price_per_unit": "1580",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-cream-cheese-spread-original-500g-1744739",
+    "name": "Bega Cream Cheese Spread Original | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1744739.jpg&w=640&q=90",
+    "source_id": "1744739",
+    "barcode": "9352042001202",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/781655/bega-cream-cheese-spread-spread",
+    "name": "Bega Cream Cheese Spread Spread 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/781655.jpg",
+    "source_id": "781655",
+    "barcode": "9352042001202",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "1400",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vegemite-cheesybite-spread-270g-7277239",
+    "name": "Vegemite Cheesybite Spread | 270g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7277239.jpg&w=640&q=90",
+    "source_id": "7277239",
+    "barcode": "9352042000441",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "270g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "204",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/333060/vegemite-cheesy-bite-spread",
+    "name": "Vegemite Cheesy Bite Spread 270g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/333060.jpg",
+    "source_id": "333060",
+    "barcode": "9352042000441",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "270G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "204",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vegemite-gluten-free-spread-235g-3447643",
+    "name": "Vegemite Gluten Free Spread | 235g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3447643.jpg&w=640&q=90",
+    "source_id": "3447643",
+    "barcode": "9352042002094",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "235g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "234",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/840274/vegemite-gluten-free-spread",
+    "name": "Vegemite Gluten Free Spread 235g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/840274.jpg",
+    "source_id": "840274",
+    "barcode": "9352042002094",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "235G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "234",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vegemite-spread-150g-6032961",
+    "name": "Vegemite Spread | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6032961.jpg&w=640&q=90",
+    "source_id": "6032961",
+    "barcode": "93552806",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "267",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/281263/vegemite-spread",
+    "name": "Vegemite Spread 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/281263.jpg",
+    "source_id": "281263",
+    "barcode": "93552806",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "150G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "267",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vegemite-spread-380g-5998852",
+    "name": "Vegemite Spread | 380g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5998852.jpg&w=640&q=90",
+    "source_id": "5998852",
+    "barcode": "9352042000328",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "380g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "730",
+        "price_per_unit": "192",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/796439/vegemite-spread",
+    "name": "Vegemite Spread 380g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/796439.jpg",
+    "source_id": "796439",
+    "barcode": "9352042000328",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "380G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "730",
+        "price_per_unit": "192",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/vegemite-spread-560g-6027622",
+    "name": "Vegemite Spread | 560g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6027622.jpg&w=640&q=90",
+    "source_id": "6027622",
+    "barcode": "9300650018860",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "560g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "940",
+        "price_per_unit": "168",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/280512/vegemite-spread",
+    "name": "Vegemite Spread 560g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/280512.jpg",
+    "source_id": "280512",
+    "barcode": "9300650018860",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "560G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "940",
+        "price_per_unit": "168",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/peck's-devilled-ham-spread-125g-130185",
+    "name": "Peck's Devilled Ham Spread | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F130185.jpg&w=640&q=90",
+    "source_id": "130185",
+    "barcode": "93695169",
+    "shop": "coles",
+    "category_id": "22794",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "440",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/38898/peck-s-devilled-ham-spread",
+    "name": "Peck's Devilled Ham Spread 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/038898.jpg",
+    "source_id": "38898",
+    "barcode": "93695169",
+    "shop": "Woolworths",
+    "category_id": "22794",
+    "weight": "125G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "440",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

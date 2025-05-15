@@ -1,0 +1,42 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/481088/smitten-kitten-food-chicken-tuna",
+    "name": "Smitten Kitten Food Chicken & Tuna 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/481088.jpg",
+    "source_id": "481088",
+    "barcode": "9300633553821",
+    "category_id": "22916",
+    "subcategory_id": "23952",
+    "subsubcategory_id": "23957",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "53",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/481086/smitten-kitten-food-chicken-mince",
+    "name": "Smitten Kitten Food Chicken Mince 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/481086.jpg",
+    "source_id": "481086",
+    "barcode": "9300633553715",
+    "category_id": "22916",
+    "subcategory_id": "23952",
+    "subsubcategory_id": "23957",
+    "shop": "Woolworths",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "40",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

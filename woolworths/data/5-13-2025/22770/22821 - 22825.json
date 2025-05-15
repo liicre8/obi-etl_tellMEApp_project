@@ -1,0 +1,42 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/726124/aunt-betty-s-sticky-date-steamy-puds",
+    "name": "Aunt Betty's Sticky Date Steamy Puds 2x95g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/726124.jpg",
+    "source_id": "726124",
+    "barcode": "9417986939032",
+    "category_id": "22770",
+    "subcategory_id": "22821",
+    "subsubcategory_id": "22825",
+    "shop": "Woolworths",
+    "weight": "2x95G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "258",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/196943/woolworths-creamed-rice",
+    "name": "Woolworths Creamed Rice 420g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/196943.jpg",
+    "source_id": "196943",
+    "barcode": "9339687207671",
+    "category_id": "22770",
+    "subcategory_id": "22821",
+    "subsubcategory_id": "22825",
+    "shop": "Woolworths",
+    "weight": "420G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "175",
+        "price_per_unit": "42",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

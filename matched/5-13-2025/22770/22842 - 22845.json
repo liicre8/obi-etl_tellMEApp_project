@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/jensens-organic-garlic-220g-5111428",
+    "name": "Jensens Organic Garlic | 220g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5111428.jpg&w=640&q=90",
+    "source_id": "5111428",
+    "barcode": "9311827001202",
+    "shop": "coles",
+    "category_id": "22845",
+    "weight": "220g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "1955",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/17156/jensens-organic-crushed-garlic",
+    "name": "Jensens Organic Crushed Garlic 220g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/017156.jpg",
+    "source_id": "17156",
+    "barcode": "9311827001202",
+    "shop": "Woolworths",
+    "category_id": "22845",
+    "weight": "220g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "20",
+        "price_unit": "10G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-finely-crushed-garlic-170g-6027101",
+    "name": "MasterFoods Finely Crushed Garlic | 170g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6027101.jpg&w=640&q=90",
+    "source_id": "6027101",
+    "barcode": "9310012648086",
+    "shop": "coles",
+    "category_id": "22845",
+    "weight": "170g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "2059",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/9096/masterfoods-finely-crushed-garlic",
+    "name": "MasterFoods Finely Crushed Garlic 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/009096.jpg",
+    "source_id": "9096",
+    "barcode": "9310012648086",
+    "shop": "Woolworths",
+    "category_id": "22845",
+    "weight": "170G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "16",
+        "price_unit": "10G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/the-food-company-chopped-garlic-375g-3219230",
+    "name": "The Food Company Chopped Garlic | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3219230.jpg&w=640&q=90",
+    "source_id": "3219230",
+    "barcode": "736697000107",
+    "shop": "coles",
+    "category_id": "22845",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1333",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/226497/the-food-company-garlic-chopped",
+    "name": "The Food Company Garlic Chopped 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/226497.jpg",
+    "source_id": "226497",
+    "barcode": "736697000107",
+    "shop": "Woolworths",
+    "category_id": "22845",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "13",
+        "price_unit": "10G"
+      }
+    ]
+  }
+]

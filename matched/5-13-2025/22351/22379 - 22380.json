@@ -1,0 +1,224 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-avocados-prepacked-5-pack-3479297",
+    "name": "Coles Avocados Prepacked | 5 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3479297.jpg&w=640&q=90",
+    "source_id": "3479297",
+    "barcode": "9300633645236",
+    "shop": "coles",
+    "category_id": "22380",
+    "weight": "5pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "VIC",
+        "price": "690",
+        "price_per_unit": "138",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "QLD",
+        "price": "690",
+        "price_per_unit": "138",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "150",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "SA",
+        "price": "750",
+        "price_per_unit": "150",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "NT",
+        "price": "750",
+        "price_per_unit": "150",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/594774/avocado-fresh",
+    "name": "Avocado Fresh 5 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/594774.jpg",
+    "source_id": "594774",
+    "barcode": "9300633645236",
+    "shop": "Woolworths",
+    "category_id": "22380",
+    "weight": "5 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "QLD",
+        "price": "590",
+        "price_per_unit": "118",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "150",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "SA",
+        "price": "590",
+        "price_per_unit": "118",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "TAS",
+        "price": "750",
+        "price_per_unit": "150",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "NT",
+        "price": "590",
+        "price_per_unit": "118",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-i'm-perfect-avocados-1kg-3627805",
+    "name": "Coles I'm Perfect Avocados | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3627805.jpg&w=640&q=90",
+    "source_id": "3627805",
+    "barcode": "9300633705473",
+    "shop": "coles",
+    "category_id": "22380",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "VIC",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "NT",
+        "price": "690",
+        "price_per_unit": "690",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/775369/the-odd-bunch-avocado-prepacked",
+    "name": "The Odd Bunch Avocado Prepacked 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/775369.jpg",
+    "source_id": "775369",
+    "barcode": "9300633705473",
+    "shop": "Woolworths",
+    "category_id": "22380",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "VIC",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "WA",
+        "price": "750",
+        "price_per_unit": "750",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "TAS",
+        "price": "650",
+        "price_per_unit": "650",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "590",
+        "price_per_unit": "590",
+        "price_unit": "1KG"
+      }
+    ]
+  }
+]

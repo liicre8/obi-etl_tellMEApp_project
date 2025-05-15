@@ -1,0 +1,122 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/52177/babylove-cosifit-nappies-size-3-6-11kg-",
+    "name": "Babylove Cosifit Nappies Size 3 (6-11kg) 40 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/052177.jpg",
+    "source_id": "52177",
+    "barcode": "9312818004424",
+    "category_id": "22015",
+    "subcategory_id": "22048",
+    "subsubcategory_id": "22052",
+    "shop": "Woolworths",
+    "weight": "40 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "45",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/106661/huggies-little-swimmers-disposable-swim-nappies-small-7-12kg-",
+    "name": "Huggies Little Swimmers Disposable Swim Nappies Small (7-12kg) 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/106661.jpg",
+    "source_id": "106661",
+    "barcode": "36000183399",
+    "category_id": "22015",
+    "subcategory_id": "22048",
+    "subsubcategory_id": "22052",
+    "shop": "Woolworths",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "142",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/16135/huggies-ultra-dry-nappies-boys-size-3-6-11kg-",
+    "name": "Huggies Ultra Dry Nappies Boys Size 3 (6-11kg) 44 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/016135.jpg",
+    "source_id": "16135",
+    "barcode": "9310088023114",
+    "category_id": "22015",
+    "subcategory_id": "22048",
+    "subsubcategory_id": "22052",
+    "shop": "Woolworths",
+    "weight": "44 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "50",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/724670/huggies-ultra-dry-nappies-boys-size-3-6-11kg-",
+    "name": "Huggies Ultra Dry Nappies Boys Size 3 (6-11kg) 90 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/724670.jpg",
+    "source_id": "724670",
+    "barcode": "9310088007169",
+    "category_id": "22015",
+    "subcategory_id": "22048",
+    "subsubcategory_id": "22052",
+    "shop": "Woolworths",
+    "weight": "90 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3900",
+        "price_per_unit": "43",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/16578/huggies-ultra-dry-nappies-girls-size-3-6-11kg-",
+    "name": "Huggies Ultra Dry Nappies Girls Size 3 (6-11kg) 44 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/016578.jpg",
+    "source_id": "16578",
+    "barcode": "9310088023121",
+    "category_id": "22015",
+    "subcategory_id": "22048",
+    "subsubcategory_id": "22052",
+    "shop": "Woolworths",
+    "weight": "44 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "50",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/724652/huggies-ultra-dry-nappies-girls-size-3-6-11kg-",
+    "name": "Huggies Ultra Dry Nappies Girls Size 3 (6-11kg) 90 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/724652.jpg",
+    "source_id": "724652",
+    "barcode": "9310088007176",
+    "category_id": "22015",
+    "subcategory_id": "22048",
+    "subsubcategory_id": "22052",
+    "shop": "Woolworths",
+    "weight": "90 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3900",
+        "price_per_unit": "43",
+        "price_unit": "1EA"
+      }
+    ]
+  }
+]

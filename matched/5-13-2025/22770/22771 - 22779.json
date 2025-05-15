@@ -1,0 +1,614 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/betty-crocker-frosting-milk-chocolate-400g-5238462",
+    "name": "Betty Crocker  ... 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5238462.jpg&w=640&q=90",
+    "source_id": "5238462",
+    "barcode": "9300695007591",
+    "shop": "coles",
+    "category_id": "22779",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "100G | WAS $6.50"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/680956/betty-crocker-chocolate-gluten-free-frosting",
+    "name": "Betty Crocker Chocolate Gluten Free Frosting 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/680956.jpg",
+    "source_id": "680956",
+    "barcode": "9300695007591",
+    "shop": "Woolworths",
+    "category_id": "22779",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/betty-crocker-frosting-vanilla-400g-5238473",
+    "name": "Betty Crocker  ... 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5238473.jpg&w=640&q=90",
+    "source_id": "5238473",
+    "barcode": "9300695007607",
+    "shop": "coles",
+    "category_id": "22779",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "100G | WAS $6.50"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/680971/betty-crocker-vanilla-gluten-free-frosting",
+    "name": "Betty Crocker Vanilla Gluten Free Frosting 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/680971.jpg",
+    "source_id": "680971",
+    "barcode": "9300695007607",
+    "shop": "Woolworths",
+    "category_id": "22779",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cadbury-baking-dark-chocolate-melts-225g-2313641",
+    "name": "Cadbury Baking Dark Chocolate Melts | 225g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2313641.jpg&w=640&q=90",
+    "source_id": "2313641",
+    "barcode": "9300617052715",
+    "shop": "coles",
+    "category_id": "22779",
+    "weight": "225g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "267",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829009/cadbury-baking-dark-chocolate-melts",
+    "name": "Cadbury Baking Dark Chocolate Melts 225g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/829009.jpg",
+    "source_id": "829009",
+    "barcode": "9300617052715",
+    "shop": "Woolworths",
+    "category_id": "22779",
+    "weight": "225G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "267",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cadbury-milk-chocolate-baking-chips-200g-2313620",
+    "name": "Cadbury Milk Chocolate Baking Chips | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2313620.jpg&w=640&q=90",
+    "source_id": "2313620",
+    "barcode": "9300617052982",
+    "shop": "coles",
+    "category_id": "22779",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829004/cadbury-baking-milk-chocolate-chips",
+    "name": "Cadbury Baking Milk Chocolate Chips 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/829004.jpg",
+    "source_id": "829004",
+    "barcode": "9300617052982",
+    "shop": "Woolworths",
+    "category_id": "22779",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cadbury-milk-chocolate-melting-buttons-225g-2313652",
+    "name": "Cadbury Milk Chocolate Melting Buttons | 225g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2313652.jpg&w=640&q=90",
+    "source_id": "2313652",
+    "barcode": "9300617052838",
+    "shop": "coles",
+    "category_id": "22779",
+    "weight": "225g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "267",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829005/cadbury-baking-milk-chocolate-melts",
+    "name": "Cadbury Baking Milk Chocolate Melts 225g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/829005.jpg",
+    "source_id": "829005",
+    "barcode": "9300617052838",
+    "shop": "Woolworths",
+    "category_id": "22779",
+    "weight": "225G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "267",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dollar-sweets-topping-100s-and-1000s-190g-6076672",
+    "name": "Dollar Sweets  ... 190g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6076672.jpg&w=640&q=90",
+    "source_id": "6076672",
+    "barcode": "9310331000442",
+    "shop": "coles",
+    "category_id": "22779",
+    "weight": "190g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "121",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/264091/dollar-sweets-100-s-1000-s",
+    "name": "Dollar Sweets 100's & 1000's 190G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/264091.jpg",
+    "source_id": "264091",
+    "barcode": "9310331000442",
+    "shop": "Woolworths",
+    "category_id": "22779",
+    "weight": "190G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "121",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-arrowroot-175g-4480054",
+    "name": "McKenzie's Arrowroot | 175g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4480054.jpg&w=640&q=90",
+    "source_id": "4480054",
+    "barcode": "9310061002020",
+    "shop": "coles",
+    "category_id": "22779",
+    "weight": "175g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "109",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/226010/mckenzie-s-arrowroot-tapioca-flour",
+    "name": "McKenzie's Arrowroot Tapioca Flour 175g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/226010.jpg",
+    "source_id": "226010",
+    "barcode": "9310061002020",
+    "shop": "Woolworths",
+    "category_id": "22779",
+    "weight": "175G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "190",
+        "price_per_unit": "1086",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-baking-powder-125g-5110298",
+    "name": "Mckenzie's Baking Powder | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5110298.jpg&w=640&q=90",
+    "source_id": "5110298",
+    "barcode": "9310061122865",
+    "shop": "coles",
+    "category_id": "22779",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "285",
+        "price_per_unit": "228",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/7932/mckenzie-s-baking-powder",
+    "name": "McKenzie's Baking Powder 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/007932.jpg",
+    "source_id": "7932",
+    "barcode": "9310061122865",
+    "shop": "Woolworths",
+    "category_id": "22779",
+    "weight": "125G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "285",
+        "price_per_unit": "228",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-rice-flour-gluten-free-375g-199206",
+    "name": "McKenzie's Rice Flour Gluten Free | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F199206.jpg&w=640&q=90",
+    "source_id": "199206",
+    "barcode": "9310061142207",
+    "shop": "coles",
+    "category_id": "22779",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "453",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94275/mckenzie-s-rice-flour",
+    "name": "McKenzie's Rice Flour 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094275.jpg",
+    "source_id": "94275",
+    "barcode": "9310061142207",
+    "shop": "Woolworths",
+    "category_id": "22779",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "453",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/queen-natural-vanilla-concentrated-extract-50ml-8532284",
+    "name": "Queen Natural Vanilla Concentrated Extract | 50mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8532284.jpg&w=640&q=90",
+    "source_id": "8532284",
+    "barcode": "9300641000386",
+    "shop": "coles",
+    "category_id": "22779",
+    "weight": "50ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "640",
+        "price_per_unit": "1280",
+        "price_unit": "100ML | WAS $7.40"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/115233/queen-natural-vanilla-concentrated-extract",
+    "name": "Queen Natural Vanilla Concentrated Extract 50ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/115233.jpg",
+    "source_id": "115233",
+    "barcode": "9300641000386",
+    "shop": "Woolworths",
+    "category_id": "22779",
+    "weight": "50mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "740",
+        "price_per_unit": "148",
+        "price_unit": "10ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/queen-vanilla-extract-150ml-3980630",
+    "name": "Queen Vanilla Extract | 150mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3980630.jpg&w=640&q=90",
+    "source_id": "3980630",
+    "barcode": "9300641004117",
+    "shop": "coles",
+    "category_id": "22779",
+    "weight": "150ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "890",
+        "price_per_unit": "593",
+        "price_unit": "100ML | WAS $10.00"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/143014/queen-natural-vanilla-extract",
+    "name": "Queen Natural Vanilla Extract 150ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/143014.jpg",
+    "source_id": "143014",
+    "barcode": "9300641004117",
+    "shop": "Woolworths",
+    "category_id": "22779",
+    "weight": "150mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "667",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/queen-organic-vanilla-bean-paste-140g-2517517",
+    "name": "Queen Organic Vanilla Bean Paste | 140g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2517517.jpg&w=640&q=90",
+    "source_id": "2517517",
+    "barcode": "9300641002632",
+    "shop": "coles",
+    "category_id": "22779",
+    "weight": "140g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1650",
+        "price_per_unit": "1179",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/786237/queen-organic-vanilla-bean-paste",
+    "name": "Queen Organic Vanilla Bean Paste 140g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/786237.jpg",
+    "source_id": "786237",
+    "barcode": "9300641002632",
+    "shop": "Woolworths",
+    "category_id": "22779",
+    "weight": "140G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "857",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/queen-organic-vanilla-bean-paste-65g-4447230",
+    "name": "Queen Organic Vanilla Bean Paste | 65g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4447230.jpg&w=640&q=90",
+    "source_id": "4447230",
+    "barcode": "9300641000997",
+    "shop": "coles",
+    "category_id": "22779",
+    "weight": "65g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1180",
+        "price_per_unit": "1815",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/225399/queen-organic-vanilla-bean-paste",
+    "name": "Queen Organic Vanilla Bean Paste 65g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/225399.jpg",
+    "source_id": "225399",
+    "barcode": "9300641000997",
+    "shop": "Woolworths",
+    "category_id": "22779",
+    "weight": "65G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1180",
+        "price_per_unit": "1815",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/queen-organic-vanilla-extract-50ml-174114",
+    "name": "Queen Organic Vanilla Extract | 50mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F174114.jpg&w=640&q=90",
+    "source_id": "174114",
+    "barcode": "93641029",
+    "shop": "coles",
+    "category_id": "22779",
+    "weight": "50ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37419/queen-organic-vanilla-extract",
+    "name": "Queen Organic Vanilla Extract 50ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/037419.jpg",
+    "source_id": "37419",
+    "barcode": "93641029",
+    "shop": "Woolworths",
+    "category_id": "22779",
+    "weight": "50mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/queen-writing-icing-multipack-colour-tubes-5-pack-105g-1965080",
+    "name": "Queen Writing Icing Multipack Colour Tubes 5 pack | 105g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1965080.jpg&w=640&q=90",
+    "source_id": "1965080",
+    "barcode": "9300641002342",
+    "shop": "coles",
+    "category_id": "22779",
+    "weight": "105g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "500",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/774154/queen-writing-icing",
+    "name": "Queen Writing Icing 5 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/774154.jpg",
+    "source_id": "774154",
+    "barcode": "9300641002342",
+    "shop": "Woolworths",
+    "category_id": "22779",
+    "weight": "5 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "500",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-wings-gluten-free-plain-flour-500g-8137836",
+    "name": "White Wings Gluten Free Plain Flour | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8137836.jpg&w=640&q=90",
+    "source_id": "8137836",
+    "barcode": "9310047220813",
+    "shop": "coles",
+    "category_id": "22779",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/142200/white-wings-gluten-free-plain-flour",
+    "name": "White Wings Gluten Free Plain Flour 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/142200.jpg",
+    "source_id": "142200",
+    "barcode": "9310047220813",
+    "shop": "Woolworths",
+    "category_id": "22779",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-wings-gluten-free-self-raising-flour-500g-8137789",
+    "name": "White Wings Gluten Free Self Raising Flour | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8137789.jpg&w=640&q=90",
+    "source_id": "8137789",
+    "barcode": "9310047220820",
+    "shop": "coles",
+    "category_id": "22779",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/141350/white-wings-gluten-free-self-raising-flour",
+    "name": "White Wings Gluten Free Self Raising Flour 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/141350.jpg",
+    "source_id": "141350",
+    "barcode": "9310047220820",
+    "shop": "Woolworths",
+    "category_id": "22779",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1000",
+        "price_unit": "1KG"
+      }
+    ]
+  }
+]

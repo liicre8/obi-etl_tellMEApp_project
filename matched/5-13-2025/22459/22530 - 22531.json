@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/selleys-fix-'n'-go-supa-glue-3ml-5393840",
+    "name": "Selleys Fix 'N' Go Supa Glue | 3mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5393840.jpg&w=640&q=90",
+    "source_id": "5393840",
+    "barcode": "9300697100252",
+    "shop": "coles",
+    "category_id": "22531",
+    "weight": "3ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "300",
+        "price_unit": "N/A"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/77476/selley-s-adhesive-fix-go-supa-glue",
+    "name": "Selley's Adhesive Fix & Go Supa Glue 3mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/077476.jpg",
+    "source_id": "77476",
+    "barcode": "9300697100252",
+    "shop": "Woolworths",
+    "category_id": "22531",
+    "weight": "3mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "10000",
+        "price_unit": "100ML"
+      }
+    ]
+  }
+]

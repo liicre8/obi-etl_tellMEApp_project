@@ -1,0 +1,506 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/bonvit-psyllium-husks-500g-9778360",
+    "name": "Bonvit Psyllium Husks | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9778360.jpg&w=640&q=90",
+    "source_id": "9778360",
+    "barcode": "9316774151000",
+    "shop": "coles",
+    "category_id": "22870",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1880",
+        "price_per_unit": "376",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/138369/bonvit-psyllium-husks",
+    "name": "Bonvit Psyllium Husks 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/138369.jpg",
+    "source_id": "138369",
+    "barcode": "9316774151000",
+    "shop": "Woolworths",
+    "category_id": "22870",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1880",
+        "price_per_unit": "376",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/buontempo-gluten-free-penne-600g-5493776",
+    "name": "Buontempo Gluten Free Penne | 600g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5493776.jpg&w=640&q=90",
+    "source_id": "5493776",
+    "barcode": "720516026072",
+    "shop": "coles",
+    "category_id": "22870",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/193723/buontempo-gluten-free-pasta-penne",
+    "name": "Buontempo Gluten Free Pasta Penne 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/193723.jpg",
+    "source_id": "193723",
+    "barcode": "720516026072",
+    "shop": "Woolworths",
+    "category_id": "22870",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "90",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/buontempo-gluten-free-spirals-600g-5493765",
+    "name": "Buontempo Gluten Free Spirals | 600g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5493765.jpg&w=640&q=90",
+    "source_id": "5493765",
+    "barcode": "720516026065",
+    "shop": "coles",
+    "category_id": "22870",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "100",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/188832/buontempo-gluten-free-pasta-spirals",
+    "name": "Buontempo Gluten Free Pasta Spirals 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/188832.jpg",
+    "source_id": "188832",
+    "barcode": "720516026065",
+    "shop": "Woolworths",
+    "category_id": "22870",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "90",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/simply-wize-gluten-free-plain-gnocchi-500g-7572986",
+    "name": "Simply Wize Gluten Free Plain Gnocchi | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7572986.jpg&w=640&q=90",
+    "source_id": "7572986",
+    "barcode": "9343317000303",
+    "shop": "coles",
+    "category_id": "22870",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "116",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/352709/simply-wize-gluten-free-gnocchi",
+    "name": "Simply Wize Gluten Free Gnocchi 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/352709.jpg",
+    "source_id": "352709",
+    "barcode": "9343317000303",
+    "shop": "Woolworths",
+    "category_id": "22870",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "100",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/slendier-edamame-bean-organic-fettuccine-200g-3609869",
+    "name": "Slendier Edamame Bean Organic Fettuccine | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3609869.jpg&w=640&q=90",
+    "source_id": "3609869",
+    "barcode": "9346976001353",
+    "shop": "coles",
+    "category_id": "22870",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "530",
+        "price_per_unit": "265",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147932/slendier-edamame-bean-fettuccine",
+    "name": "Slendier Edamame Bean Fettuccine 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/147932.jpg",
+    "source_id": "147932",
+    "barcode": "9346976001353",
+    "shop": "Woolworths",
+    "category_id": "22870",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "530",
+        "price_per_unit": "265",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/slendier-spaghetti-style-pasta-400g-9900816",
+    "name": "Slendier Spaghetti Style Pasta | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9900816.jpg&w=640&q=90",
+    "source_id": "9900816",
+    "barcode": "9346976000516",
+    "shop": "coles",
+    "category_id": "22870",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "410",
+        "price_per_unit": "103",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/830129/slendier-pasta-spaghetti-style",
+    "name": "Slendier Pasta Spaghetti Style 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/830129.jpg",
+    "source_id": "830129",
+    "barcode": "9346976000516",
+    "shop": "Woolworths",
+    "category_id": "22870",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "410",
+        "price_per_unit": "103",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/slendier-rice-style-konjac-400g-1463194",
+    "name": "Slendier Rice Style Konjac | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1463194.jpg&w=640&q=90",
+    "source_id": "1463194",
+    "barcode": "9346976000530",
+    "shop": "coles",
+    "category_id": "22870",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "410",
+        "price_per_unit": "103",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/830133/slendier-slim-rice-style-style",
+    "name": "Slendier Slim Rice Style Style 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/830133.jpg",
+    "source_id": "830133",
+    "barcode": "9346976000530",
+    "shop": "Woolworths",
+    "category_id": "22870",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "410",
+        "price_per_unit": "103",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/barilla-pasta-risoni-500g-9423808",
+    "name": "Barilla Pasta Risoni | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9423808.jpg&w=640&q=90",
+    "source_id": "9423808",
+    "barcode": "8076800315264",
+    "shop": "coles",
+    "category_id": "22870",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/88215/barilla-pasta-risoni-no-26",
+    "name": "Barilla Pasta Risoni 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/088215.jpg",
+    "source_id": "88215",
+    "barcode": "8076800315264",
+    "shop": "Woolworths",
+    "category_id": "22870",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "56",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/san-remo-pasta-elbows-no-35-500g-206221",
+    "name": "San Remo Pasta Elbows No 35 | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F206221.jpg&w=640&q=90",
+    "source_id": "206221",
+    "barcode": "9310155203838",
+    "shop": "coles",
+    "category_id": "22870",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "295",
+        "price_per_unit": "59",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/39484/san-remo-elbows-pasta-no-35",
+    "name": "San Remo Elbows Pasta No 35 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/039484.jpg",
+    "source_id": "39484",
+    "barcode": "9310155203838",
+    "shop": "Woolworths",
+    "category_id": "22870",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "295",
+        "price_per_unit": "59",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/san-remo-gluten-free-lasagna-200g-4275973",
+    "name": "San Remo Gluten Free Lasagna | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4275973.jpg&w=640&q=90",
+    "source_id": "4275973",
+    "barcode": "9310155228398",
+    "shop": "coles",
+    "category_id": "22870",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/242926/san-remo-lasagne-gluten-free",
+    "name": "San Remo Lasagne Gluten Free 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/242926.jpg",
+    "source_id": "242926",
+    "barcode": "9310155228398",
+    "shop": "Woolworths",
+    "category_id": "22870",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "175",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/san-remo-penne-rigati-pasta-no-18-500g-170838",
+    "name": "San Remo Penne Rigati Pasta No 18 | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F170838.jpg&w=640&q=90",
+    "source_id": "170838",
+    "barcode": "9310155202336",
+    "shop": "coles",
+    "category_id": "22870",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "295",
+        "price_per_unit": "59",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/35742/san-remo-penne-pasta-no-18",
+    "name": "San Remo Penne Pasta No 18 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/035742.jpg",
+    "source_id": "35742",
+    "barcode": "9310155202336",
+    "shop": "Woolworths",
+    "category_id": "22870",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "295",
+        "price_per_unit": "59",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/san-remo-penne-pasta-750g-404021",
+    "name": "San Remo Penne Pasta | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F404021.jpg&w=640&q=90",
+    "source_id": "404021",
+    "barcode": "9310155202343",
+    "shop": "coles",
+    "category_id": "22870",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "48",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94348/san-remo-penne-pasta-no-18",
+    "name": "San Remo Penne Pasta No 18 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094348.jpg",
+    "source_id": "94348",
+    "barcode": "9310155202343",
+    "shop": "Woolworths",
+    "category_id": "22870",
+    "weight": "750G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "48",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/san-remo-spaghetti-no-5-500g-206196",
+    "name": "San Remo Spaghetti No 5 | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F206196.jpg&w=640&q=90",
+    "source_id": "206196",
+    "barcode": "9310155100434",
+    "shop": "coles",
+    "category_id": "22870",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "295",
+        "price_per_unit": "59",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/43974/san-remo-spaghetti-pasta-no-5",
+    "name": "San Remo Spaghetti Pasta No 5 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/043974.jpg",
+    "source_id": "43974",
+    "barcode": "9310155100434",
+    "shop": "Woolworths",
+    "category_id": "22870",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "295",
+        "price_per_unit": "59",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/zafarelli-lisio-piccolo-pasta-no-40-500g-125550",
+    "name": "Zafarelli Lisio Piccolo Pasta No 40 | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F125550.jpg&w=640&q=90",
+    "source_id": "125550",
+    "barcode": "9310155504034",
+    "shop": "coles",
+    "category_id": "22870",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "40",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94849/zafarelli-piccolo-pasta-no-40",
+    "name": "Zafarelli Piccolo Pasta No 40 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094849.jpg",
+    "source_id": "94849",
+    "barcode": "9310155504034",
+    "shop": "Woolworths",
+    "category_id": "22870",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "40",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

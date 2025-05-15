@@ -1,0 +1,758 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/kellogg's-pop-tarts-chocotastic-8-toaster-pastries-384g-3790500",
+    "name": "Kellogg's Pop Tarts Chocotastic 8 Toaster Pastries | 384g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3790500.jpg&w=640&q=90",
+    "source_id": "3790500",
+    "barcode": "9310055103993",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "384g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "91",
+        "price_unit": "100G | WAS $7.00"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/87845/kellogg-s-pop-tarts-frosted-chocotastic-toaster-pastries",
+    "name": "Kellogg's Pop Tarts Frosted Chocotastic Toaster Pastries 384g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/087845.jpg",
+    "source_id": "87845",
+    "barcode": "9310055103993",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "384g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "560",
+        "price_per_unit": "146",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/upandgo-liquid-breakfast-strawberry-6-x-250ml-1.5l-9490656",
+    "name": "UP&GO Liquid Breakfast Strawberry 6 x 250ml | 1.5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9490656.jpg&w=640&q=90",
+    "source_id": "9490656",
+    "barcode": "9300652010213",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "1.5l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1260",
+        "price_per_unit": "840",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/189655/sanitarium-up-go-liquid-breakfast-strawberry",
+    "name": "Sanitarium Up & Go Liquid Breakfast Strawberry 250mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/189655.jpg",
+    "source_id": "189655",
+    "barcode": "9300652010213",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "250mL x 6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1260",
+        "price_per_unit": "840",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/upandgo-dairy-free-choc-ice-12-x-250ml-3l-4862436",
+    "name": "Up&go Dairy Free Choc Ice 12 x 250ml | 3L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4862436.jpg&w=640&q=90",
+    "source_id": "4862436",
+    "barcode": "9300652810011",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "3l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "583",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/118315/up-go-dairy-free-liquid-breakfast-choc-ice",
+    "name": "Up&Go Dairy Free Liquid Breakfast Choc Ice 250mL x 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/118315.jpg",
+    "source_id": "118315",
+    "barcode": "9300652810011",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "250mL x 12 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "583",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/upandgo-dairy-free-vanilla-ice-12-x-250ml-3l-4862505",
+    "name": "Up&go Dairy Free Vanilla Ice 12 x 250ml | 3L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4862505.jpg&w=640&q=90",
+    "source_id": "4862505",
+    "barcode": "9300652810028",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "3l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "583",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/119755/up-go-dairy-free-liquid-breakfast-vanilla-ice",
+    "name": "Up&Go Dairy Free Liquid Breakfast Vanilla Ice 250mL x 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/119755.jpg",
+    "source_id": "119755",
+    "barcode": "9300652810028",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "250mL x 12 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "583",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/upandgo-liquid-breakfast-banana-12-x-250ml-3l-1491338",
+    "name": "UP&GO Liquid Breakfast Banana 12 x 250ml | 3L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1491338.jpg&w=640&q=90",
+    "source_id": "1491338",
+    "barcode": "9300652803785",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "3l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "583",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/765982/up-go-liquid-breakfast-banana",
+    "name": "Up&Go Liquid Breakfast Banana 250mL x 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/765982.jpg",
+    "source_id": "765982",
+    "barcode": "9300652803785",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "250mL x 12 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "583",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/upandgo-liquid-breakfast-banana-6-x-250ml-1.5l-8047915",
+    "name": "UP&GO Liquid Breakfast Banana 6 x 250ml | 1.5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8047915.jpg&w=640&q=90",
+    "source_id": "8047915",
+    "barcode": "9300652955637",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "1.5l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1260",
+        "price_per_unit": "840",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/369908/up-go-liquid-breakfast-banana",
+    "name": "Up&Go Liquid Breakfast Banana 250mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/369908.jpg",
+    "source_id": "369908",
+    "barcode": "9300652955637",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "250mL x 6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1260",
+        "price_per_unit": "840",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/upandgo-liquid-breakfast-choc-ice-12-x-250ml-3l-8951356",
+    "name": "UP&GO Liquid Breakfast Choc Ice 12 x 250ml | 3L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8951356.jpg&w=640&q=90",
+    "source_id": "8951356",
+    "barcode": "9300652803228",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "3l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "583",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/717255/up-go-liquid-breakfast-choc-ice",
+    "name": "Up&Go Liquid Breakfast Choc Ice 250mL x 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/717255.jpg",
+    "source_id": "717255",
+    "barcode": "9300652803228",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "250mL x 12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "583",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/upandgo-liquid-breakfast-choc-ice-3-x-250ml-750ml-7144632",
+    "name": "UP&GO Liquid Breakfast Choc Ice 3 x 250ml | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7144632.jpg&w=640&q=90",
+    "source_id": "7144632",
+    "barcode": "9300652001716",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "627",
+        "price_unit": "1L | WAS $6.80"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32306/up-go-liquid-breakfast-choc-ice",
+    "name": "Up&Go Liquid Breakfast Choc Ice 250mL x 3 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/032306.jpg",
+    "source_id": "32306",
+    "barcode": "9300652001716",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "250mL x 3 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "907",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/upandgo-liquid-breakfast-choc-ice-6-x-250ml-1.5l-9490791",
+    "name": "UP&GO Liquid Breakfast Choc Ice 6 x 250ml | 1.5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9490791.jpg&w=640&q=90",
+    "source_id": "9490791",
+    "barcode": "9300652009309",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "1.5l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1260",
+        "price_per_unit": "840",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/167863/up-go-liquid-breakfast-choc-ice",
+    "name": "Up&Go Liquid Breakfast Choc Ice 250mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/167863.jpg",
+    "source_id": "167863",
+    "barcode": "9300652009309",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "250mL x 6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1260",
+        "price_per_unit": "840",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/upandgo-no-added-sugar-choc-ice-12-x-250ml-3l-3723514",
+    "name": "UP&GO No Added Sugar Choc Ice 12 x 250ml | 3L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3723514.jpg&w=640&q=90",
+    "source_id": "3723514",
+    "barcode": "9300652809619",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "3l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "583",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/77901/up-go-liquid-breakfast-no-added-sugar-choc-ice",
+    "name": "Up&Go Liquid Breakfast No Added Sugar Choc Ice 250mL x 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/077901.jpg",
+    "source_id": "77901",
+    "barcode": "9300652809619",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "250mL x 12 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "583",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/upandgo-no-added-sugar-choc-ice-3-x-250ml-750ml-3723456",
+    "name": "UP&GO No Added Sugar Choc Ice 3 x 250ml | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3723456.jpg&w=640&q=90",
+    "source_id": "3723456",
+    "barcode": "9300652809596",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "627",
+        "price_unit": "1L | WAS $6.80"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/78826/up-go-liquid-breakfast-no-added-sugar-choc-ice",
+    "name": "Up&Go Liquid Breakfast No Added Sugar Choc Ice 250mL x 3 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/078826.jpg",
+    "source_id": "78826",
+    "barcode": "9300652809596",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "250mL x 3 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "907",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/upandgo-liquid-breakfast-strawberry-12-x-250ml-3l-1491360",
+    "name": "UP&GO Liquid Breakfast Strawberry 12 x 250ml | 3L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1491360.jpg&w=640&q=90",
+    "source_id": "1491360",
+    "barcode": "9300652803778",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "3l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "583",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/765973/up-go-liquid-breakfast-strawberry",
+    "name": "Up&Go Liquid Breakfast Strawberry 250mL x 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/765973.jpg",
+    "source_id": "765973",
+    "barcode": "9300652803778",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "250mL x 12 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "583",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/upandgo-liquid-breakfast-strawberry-3-x-250ml-750ml-8037809",
+    "name": "UP&GO Liquid Breakfast Strawberry 3 x 250ml | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8037809.jpg&w=640&q=90",
+    "source_id": "8037809",
+    "barcode": "9300652003512",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "627",
+        "price_unit": "1L | WAS $6.80"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/23088/up-go-liquid-breakfast-strawberry",
+    "name": "Up&Go Liquid Breakfast Strawberry 250mL x 3 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/023088.jpg",
+    "source_id": "23088",
+    "barcode": "9300652003512",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "250mL x 3 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "907",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/upandgo-liquid-breakfast-vanilla-ice-12-x-250ml-3l-1170130",
+    "name": "UP&GO Liquid Breakfast Vanilla Ice 12 x 250ml | 3L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1170130.jpg&w=640&q=90",
+    "source_id": "1170130",
+    "barcode": "9300652803235",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "3l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "583",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/733705/up-go-liquid-breakfast-vanilla-ice",
+    "name": "Up&Go Liquid Breakfast Vanilla Ice 250mL x 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/733705.jpg",
+    "source_id": "733705",
+    "barcode": "9300652803235",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "250mL x 12 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "583",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/upandgo-liquid-breakfast-vanilla-ice-3-x-250ml-750ml-9526425",
+    "name": "UP&GO Liquid Breakfast Vanilla Ice 3 x 250ml | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9526425.jpg&w=640&q=90",
+    "source_id": "9526425",
+    "barcode": "9300652010572",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "627",
+        "price_unit": "1L | WAS $6.80"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/189701/up-go-liquid-breakfast-vanilla-ice",
+    "name": "Up&Go Liquid Breakfast Vanilla Ice 250mL x 3 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/189701.jpg",
+    "source_id": "189701",
+    "barcode": "9300652010572",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "250mL x 3 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "907",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/upandgo-liquid-breakfast-vanilla-ice-6-x-250ml-1.5l-9724815",
+    "name": "UP&GO Liquid Breakfast Vanilla Ice 6 x 250ml | 1.5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9724815.jpg&w=640&q=90",
+    "source_id": "9724815",
+    "barcode": "9300652011395",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "1.5l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1260",
+        "price_per_unit": "840",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/201407/up-go-liquid-breakfast-vanilla-ice",
+    "name": "Up&Go Liquid Breakfast Vanilla Ice 250mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/201407.jpg",
+    "source_id": "201407",
+    "barcode": "9300652011395",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "250mL x 6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1260",
+        "price_per_unit": "840",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/upandgo-no-added-sugar-vanilla-ice-12-x-250ml-3l-3723503",
+    "name": "UP&GO No Added Sugar Vanilla Ice 12 x 250ml | 3L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3723503.jpg&w=640&q=90",
+    "source_id": "3723503",
+    "barcode": "9300652809640",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "3l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "583",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/119963/up-go-no-added-sugar-liquid-breakfast-vanilla-ice",
+    "name": "Up&Go No Added Sugar Liquid Breakfast Vanilla Ice 250mL x 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/119963.jpg",
+    "source_id": "119963",
+    "barcode": "9300652809640",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "250mL x 12 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "583",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/upandgo-protein-energize-vanilla-12-x-250ml-3l-4233317",
+    "name": "UP&GO Protein Energize Vanilla 12 x 250ml | 3L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4233317.jpg&w=640&q=90",
+    "source_id": "4233317",
+    "barcode": "9300652810363",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "3l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "583",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/149568/up-go-protein-energize-breakfast-liquid-vanilla",
+    "name": "Up&Go Protein Energize Breakfast Liquid Vanilla 250mL x12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/149568.jpg",
+    "source_id": "149568",
+    "barcode": "9300652810363",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "250mL x12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "583",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/upandgo-protein-energize-choc-hit-12-x-250ml-3l-1623472",
+    "name": "UP&GO Protein Energize Choc Hit 12 x 250ml | 3L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1623472.jpg&w=640&q=90",
+    "source_id": "1623472",
+    "barcode": "9300652804201",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "3l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "583",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/768911/up-go-protein-energize-liquid-breakfast-choc",
+    "name": "Up&Go Protein Energize Liquid Breakfast Choc 250mL x 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/768911.jpg",
+    "source_id": "768911",
+    "barcode": "9300652804201",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "250mL x 12 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1750",
+        "price_per_unit": "583",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/upandgo-protein-energize-choc-hit-3-x-250ml-750ml-7813233",
+    "name": "UP&GO Protein Energize Choc Hit 3 x 250ml | 750mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7813233.jpg&w=640&q=90",
+    "source_id": "7813233",
+    "barcode": "9300652802528",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "627",
+        "price_unit": "1L | WAS $6.80"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/353338/up-go-protein-energize-liquid-breakfast-choc",
+    "name": "Up&Go Protein Energize Liquid Breakfast Choc 250mL x 3 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/353338.jpg",
+    "source_id": "353338",
+    "barcode": "9300652802528",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "250mL x 3 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "907",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/upandgo-protein-energize-iced-coffee-6-x-250ml-1.5l-1171869",
+    "name": "UP&GO Protein Energize Iced Coffee 6 x 250ml | 1.5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1171869.jpg&w=640&q=90",
+    "source_id": "1171869",
+    "barcode": "9300652803792",
+    "shop": "coles",
+    "category_id": "22787",
+    "weight": "1.5l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1260",
+        "price_per_unit": "840",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/750104/up-go-protein-energize-liquid-breakfast-iced-coffee",
+    "name": "Up&Go Protein Energize Liquid Breakfast Iced Coffee 250mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/750104.jpg",
+    "source_id": "750104",
+    "barcode": "9300652803792",
+    "shop": "Woolworths",
+    "category_id": "22787",
+    "weight": "250mL x 6 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1260",
+        "price_per_unit": "840",
+        "price_unit": "1L"
+      }
+    ]
+  }
+]

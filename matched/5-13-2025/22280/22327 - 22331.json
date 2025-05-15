@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-frozen-peas-corn-and-carrots-500g-5394650",
+    "name": "McCain Frozen Peas Corn & Carrots | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5394650.jpg&w=640&q=90",
+    "source_id": "5394650",
+    "barcode": "9310174006236",
+    "shop": "coles",
+    "category_id": "22331",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/54233/mccain-mixed-vegetables-peas-corn-carrot",
+    "name": "McCain Mixed Vegetables Peas Corn & Carrot 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/054233.jpg",
+    "source_id": "54233",
+    "barcode": "9310174006236",
+    "shop": "Woolworths",
+    "category_id": "22331",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "1KG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829999/essentials-peg",
+    "name": "Essentials Peg 60 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/829999.jpg",
+    "source_id": "829999",
+    "barcode": "9300633743130",
+    "category_id": "22459",
+    "subcategory_id": "22566",
+    "subsubcategory_id": "22572",
+    "shop": "Woolworths",
+    "weight": "60 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/189166/woolworths-essentials-laundry-basket",
+    "name": "Woolworths Essentials Laundry Basket Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/189166.jpg",
+    "source_id": "189166",
+    "barcode": "9316247127617",
+    "category_id": "22459",
+    "subcategory_id": "22566",
+    "subsubcategory_id": "22572",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  }
+]

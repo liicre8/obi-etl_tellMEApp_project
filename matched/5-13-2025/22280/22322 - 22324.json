@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/birds-eye-frozen-crunchy-crumb-fish-cakes-6-pack-300g-5146896",
+    "name": "Birds Eye Frozen Crunchy Crumb Fish Cakes 6 pack | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5146896.jpg&w=640&q=90",
+    "source_id": "5146896",
+    "barcode": "9310081412663",
+    "shop": "coles",
+    "category_id": "22324",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "2167",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/39353/birds-eye-fish-cakes-original-crumb-oven-fry",
+    "name": "Birds Eye Fish Cakes Original Crumb 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/039353.jpg",
+    "source_id": "39353",
+    "barcode": "9310081412663",
+    "shop": "Woolworths",
+    "category_id": "22324",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "2167",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/birds-eye-frozen-salmon-cakes-with-vegetables-and-herbs-6-pack-480g-4344963",
+    "name": "Birds Eye Frozen Salmon Cakes With Vegetables & Herbs 6 Pack | 480g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4344963.jpg&w=640&q=90",
+    "source_id": "4344963",
+    "barcode": "9300462019369",
+    "shop": "coles",
+    "category_id": "22324",
+    "weight": "480g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1667",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/224053/birds-eye-fish-cakes-salmon-with-vegetables-herbs",
+    "name": "Birds Eye Fish Cakes Salmon With Vegetables & Herbs 480g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/224053.jpg",
+    "source_id": "224053",
+    "barcode": "9300462019369",
+    "shop": "Woolworths",
+    "category_id": "22324",
+    "weight": "480G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "1458",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/birds-eye-frozen-fish-fingers-40-pieces-1kg-292937",
+    "name": "Birds Eye Frozen Fish Fingers 40 Pieces | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F292937.jpg&w=640&q=90",
+    "source_id": "292937",
+    "barcode": "9310081403081",
+    "shop": "coles",
+    "category_id": "22324",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/96336/birds-eye-fish-fingers-original-crumb",
+    "name": "Birds Eye Fish Fingers Original Crumb 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/096336.jpg",
+    "source_id": "96336",
+    "barcode": "9310081403081",
+    "shop": "Woolworths",
+    "category_id": "22324",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "1150",
+        "price_unit": "1KG"
+      }
+    ]
+  }
+]

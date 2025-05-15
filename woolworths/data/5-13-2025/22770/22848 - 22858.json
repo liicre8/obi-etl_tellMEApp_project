@@ -1,0 +1,122 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/53927/cadbury-lunch-bar",
+    "name": "Cadbury Lunch Bar 48g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/053927.jpg",
+    "source_id": "53927",
+    "barcode": "6001065034027",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22858",
+    "shop": "Woolworths",
+    "weight": "48G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "542",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720579/protea-foods-biltong-slices-peri-peri",
+    "name": "Protea Foods Biltong Slices Peri Peri 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/720579.jpg",
+    "source_id": "720579",
+    "barcode": "9332503000067",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22858",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720163/protea-foods-biltong-slices-traditional-south-african",
+    "name": "Protea Foods Biltong Slices Traditional South African 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/720163.jpg",
+    "source_id": "720163",
+    "barcode": "9332503000050",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22858",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "800",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720190/protea-foods-south-african-biltong-stokkies-peri-peri",
+    "name": "Protea Foods South African Biltong Stokkies Peri Peri 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/720190.jpg",
+    "source_id": "720190",
+    "barcode": "9332503000180",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22858",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1425",
+        "price_per_unit": "1425",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720180/protea-foods-south-african-biltong-stokkies-traditional",
+    "name": "Protea Foods South African Biltong Stokkies Traditional 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/720180.jpg",
+    "source_id": "720180",
+    "barcode": "9332503000173",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22858",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1425",
+        "price_per_unit": "1425",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/4707/sparletta-creme-soda",
+    "name": "Sparletta Creme Soda 300ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/004707.jpg",
+    "source_id": "4707",
+    "barcode": "5449000257536",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22858",
+    "shop": "Woolworths",
+    "weight": "300mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "100",
+        "price_unit": "100ML"
+      }
+    ]
+  }
+]

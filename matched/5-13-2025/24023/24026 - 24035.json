@@ -1,0 +1,110 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kitchen-chicken-pesto-pasta-bake-350g-6009880",
+    "name": "Coles Kitchen Chicken Pesto Pasta Bake | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6009880.jpg&w=640&q=90",
+    "source_id": "6009880",
+    "barcode": "9339687363032",
+    "shop": "coles",
+    "category_id": "24035",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "229",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/507598/woolworths-chicken-pesto-pasta-bake",
+    "name": "Woolworths Chicken Pesto Pasta Bake 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/507598.jpg",
+    "source_id": "507598",
+    "barcode": "9339687363032",
+    "shop": "Woolworths",
+    "category_id": "24035",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "229",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kitchen-chilli-con-carne-and-rice-350g-7749203",
+    "name": "Coles Kitchen Chilli Con Carne & Rice | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7749203.jpg&w=640&q=90",
+    "source_id": "7749203",
+    "barcode": "9339687338719",
+    "shop": "coles",
+    "category_id": "24035",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "229",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/281009/woolworths-chilli-con-carne-rice",
+    "name": "Woolworths Chilli Con Carne & Rice 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/281009.jpg",
+    "source_id": "281009",
+    "barcode": "9339687338719",
+    "shop": "Woolworths",
+    "category_id": "24035",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "229",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-kitchen-spinach-and-ricotta-cannelloni-350g-3771277",
+    "name": "Coles Kitchen Spinach & Ricotta Cannelloni | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3771277.jpg&w=640&q=90",
+    "source_id": "3771277",
+    "barcode": "9339687362875",
+    "shop": "coles",
+    "category_id": "24035",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "229",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/507622/woolworths-spinach-ricotta-cannelloni",
+    "name": "Woolworths Spinach & Ricotta Cannelloni 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/507622.jpg",
+    "source_id": "507622",
+    "barcode": "9339687362875",
+    "shop": "Woolworths",
+    "category_id": "24035",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "229",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

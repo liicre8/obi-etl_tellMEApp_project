@@ -1,0 +1,62 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/79303/fray-bentos-steak-kidney-pie-steak-kidney-pie",
+    "name": "Fray Bentos Steak & Kidney Pie 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/079303.jpg",
+    "source_id": "79303",
+    "barcode": "9300644022217",
+    "category_id": "22770",
+    "subcategory_id": "22796",
+    "subsubcategory_id": "22802",
+    "shop": "Woolworths",
+    "weight": "425g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "247",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/46607/podravka-beef-goulash",
+    "name": "Podravka Beef Goulash 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/046607.jpg",
+    "source_id": "46607",
+    "barcode": "9322715020069",
+    "category_id": "22770",
+    "subcategory_id": "22796",
+    "subsubcategory_id": "22802",
+    "shop": "Woolworths",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "1667",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/326635/vegeta-beef-slow-cooked-with-green-peas-potatoes",
+    "name": "Vegeta Beef Slow Cooked With Green Peas & Potatoes 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/326635.jpg",
+    "source_id": "326635",
+    "barcode": "3856020215606",
+    "category_id": "22770",
+    "subcategory_id": "22796",
+    "subsubcategory_id": "22802",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "56",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

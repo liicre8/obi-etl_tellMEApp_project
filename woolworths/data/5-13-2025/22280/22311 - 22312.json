@@ -1,0 +1,822 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/71899/ajinomoto-japanese-vegetable-gyoza-gluten-free",
+    "name": "Ajinomoto Japanese Vegetable Gyoza Gluten Free 276g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/071899.jpg",
+    "source_id": "71899",
+    "barcode": "9340746002847",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "276g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "945",
+        "price_per_unit": "342",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/129711/amoy-glutinous-rice-dumpling-with-xoi-do-bien",
+    "name": "Amoy Glutinous Rice Dumpling With Xoi Do Bien 3 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/129711.jpg",
+    "source_id": "129711",
+    "barcode": "78024000177",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "3 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "250",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/131659/amoy-radish-cake-with-dried-shrimp",
+    "name": "Amoy Radish Cake With Dried Shrimp 3 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/131659.jpg",
+    "source_id": "131659",
+    "barcode": "78024010305",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "3 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "231",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/202306/amoy-shrimp-shaomai",
+    "name": "Amoy Shrimp Shaomai 130g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/202306.jpg",
+    "source_id": "202306",
+    "barcode": "78024012590",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "130g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "346",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/177218/borg-s-pastizzis-triangles-spinach-ricotta",
+    "name": "Borg's Pastizzis Triangles Spinach & Ricotta 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/177218.jpg",
+    "source_id": "177218",
+    "barcode": "9311648008008",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "360G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "111",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/893902/cheesebuddy-gluten-free-cheese-puffs",
+    "name": "Cheesebuddy Gluten Free Cheese Puffs 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/893902.jpg",
+    "source_id": "893902",
+    "barcode": "9369999023720",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "147",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/59793/chiko-original-rolls",
+    "name": "Chiko Original Rolls 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/059793.jpg",
+    "source_id": "59793",
+    "barcode": "9310081760092",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "4 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "115",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/88267/four-n-twenty-sausage-roll-party",
+    "name": "Four'N Twenty Sausage Roll Party 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/088267.jpg",
+    "source_id": "88267",
+    "barcode": "9310114262548",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "140",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/259540/ho-mai-asian-entertainer-pack",
+    "name": "Ho Mai Asian Entertainer Pack 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/259540.jpg",
+    "source_id": "259540",
+    "barcode": "9310076667498",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/259537/ho-mai-spring-rolls-cocktail",
+    "name": "Ho Mai Spring Rolls Cocktail 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/259537.jpg",
+    "source_id": "259537",
+    "barcode": "9310076667443",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "100",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/164513/hong-kong-dim-sim-kitchen-bbq-pork-buns",
+    "name": "Hong Kong Dim Sim Kitchen Bbq Pork Buns 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/164513.jpg",
+    "source_id": "164513",
+    "barcode": "9318122383880",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "425",
+        "price_per_unit": "142",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/162544/hong-kong-dim-sim-kitchen-pork-chive-dumplings",
+    "name": "Hong Kong Dim Sim Kitchen Pork & Chive Dumplings 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/162544.jpg",
+    "source_id": "162544",
+    "barcode": "9318122381022",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "425",
+        "price_per_unit": "142",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/132635/i-mei-oriental-green-onion-pancakes",
+    "name": "I Mei Oriental Green Onion Pancakes 5 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/132635.jpg",
+    "source_id": "132635",
+    "barcode": "4710126456969",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "5 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "71",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/939206/keith-s-foods-mini-dagwood-dogs",
+    "name": "Keith's Foods Mini Dagwood Dogs 270g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/939206.jpg",
+    "source_id": "939206",
+    "barcode": "9333296010004",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "270G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "241",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/939210/keith-s-foods-mozzarella-cheese-sticks",
+    "name": "Keith's Foods Mozzarella Cheese Sticks 235g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/939210.jpg",
+    "source_id": "939210",
+    "barcode": "9333296009992",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "235G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "277",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/319382/likofu-custard-buns-8-pack",
+    "name": "Likofu Custard Buns 8 Pack 240g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/319382.jpg",
+    "source_id": "319382",
+    "barcode": "6902230150309",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "240g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "530",
+        "price_per_unit": "221",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/127814/lucky-kitchen-bbq-pork-dumplings",
+    "name": "Lucky Kitchen BBQ Pork Dumplings 750G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/127814.jpg",
+    "source_id": "127814",
+    "barcode": "9349673003767",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "750G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "133",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/387085/marathon-spring-rolls",
+    "name": "Marathon Spring Rolls 660g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/387085.jpg",
+    "source_id": "387085",
+    "barcode": "9310375000033",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "660g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "670",
+        "price_per_unit": "102",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/744148/mr-chen-s-chive-prawn-wonton",
+    "name": "Mr Chen's Chive & Prawn Wonton 240g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/744148.jpg",
+    "source_id": "744148",
+    "barcode": "9349673004658",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "240G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "271",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/106540/mr-chen-s-ginger-prawn-dumplings",
+    "name": "Mr Chen's Ginger Prawn Dumplings 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/106540.jpg",
+    "source_id": "106540",
+    "barcode": "9349673004665",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1040",
+        "price_per_unit": "231",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/710587/mr-chen-s-pork-chive-dumplings",
+    "name": "Mr Chen's Pork & Chive Dumplings 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/710587.jpg",
+    "source_id": "710587",
+    "barcode": "9349673004757",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "217",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/106480/mr-chen-s-pork-chive-dumplings",
+    "name": "Mr Chen's Pork & Chive Dumplings 550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/106480.jpg",
+    "source_id": "106480",
+    "barcode": "9349673004764",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "550G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1040",
+        "price_per_unit": "189",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/705130/mr-chen-s-prawn-hargow-dumplings",
+    "name": "Mr Chen's Prawn Hargow Dumplings 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/705130.jpg",
+    "source_id": "705130",
+    "barcode": "9349673004634",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "217",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/60274/mr-chen-s-prawn-hargow-dumplings",
+    "name": "Mr Chen's Prawn Hargow Dumplings 550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/060274.jpg",
+    "source_id": "60274",
+    "barcode": "9349673004641",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "550g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1040",
+        "price_per_unit": "189",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/107630/mr-chen-s-shanghai-soup-dumplings",
+    "name": "Mr Chen's Shanghai Soup Dumplings 240g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/107630.jpg",
+    "source_id": "107630",
+    "barcode": "9349673004740",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "240G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "271",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/60180/mr-chen-s-vegetable-gyoza",
+    "name": "Mr Chen's Vegetable Gyoza 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/060180.jpg",
+    "source_id": "60180",
+    "barcode": "9349673004719",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "600G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1040",
+        "price_per_unit": "173",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/147700/patties-party-pack-mini-pies-sausage-rolls",
+    "name": "Patties Party Pack Mini Pies & Sausage Rolls 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/147700.jpg",
+    "source_id": "147700",
+    "barcode": "9311008060103",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "180",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/55613/patties-party-pack-party-pies-sausage-rolls",
+    "name": "Patties Party Pack Party Pies & Sausage Rolls 1.25kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/055613.jpg",
+    "source_id": "55613",
+    "barcode": "9311008061117",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "1.25kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "144",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/30748/patties-sausage-roll-party",
+    "name": "Patties Sausage Roll Party 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/030748.jpg",
+    "source_id": "30748",
+    "barcode": "9311008056946",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "770",
+        "price_per_unit": "171",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/820973/sailing-boat-gua-bao-steamed-bun",
+    "name": "Sailing Boat Gua Bao Steamed Bun 320g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/820973.jpg",
+    "source_id": "820973",
+    "barcode": "9349673001305",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "320G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "530",
+        "price_per_unit": "166",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/602036/seng-hork-beef-dumplings-null",
+    "name": "Seng Hork Beef Dumplings 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/602036.jpg",
+    "source_id": "602036",
+    "barcode": "9324505000664",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "160",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/602034/seng-hork-prawn-pork-dumplings-null",
+    "name": "Seng Hork Prawn & Pork Dumplings 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/602034.jpg",
+    "source_id": "602034",
+    "barcode": "9324505000626",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "160",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/169422/spring-home-paratha-plain-roti",
+    "name": "Spring Home Paratha Plain Roti 5 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/169422.jpg",
+    "source_id": "169422",
+    "barcode": "8888003652400",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "5 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "108",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/89799/sun-circle-pork-chive-dumplings",
+    "name": "Sun Circle Pork & Chive Dumplings 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/089799.jpg",
+    "source_id": "89799",
+    "barcode": "9328111001008",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "600G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "125",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180300/tak-hing-taro-bao",
+    "name": "Tak Hing Taro Bao 6 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/180300.jpg",
+    "source_id": "180300",
+    "barcode": "9333406000239",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "6 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "127",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/821034/the-original-peking-duck-pastry",
+    "name": "The Original Peking Duck Pastry 130g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/821034.jpg",
+    "source_id": "821034",
+    "barcode": "9349673001688",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "130G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "385",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/820798/woolworths-bolognese-arancini-8-pack",
+    "name": "Woolworths Bolognese Arancini 8 Pack 240g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/820798.jpg",
+    "source_id": "820798",
+    "barcode": "9339687080403",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "240g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "242",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/575573/woolworths-garlic-chicken-bites",
+    "name": "Woolworths Garlic Chicken Bites 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/575573.jpg",
+    "source_id": "575573",
+    "barcode": "9300633635671",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "360G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "161",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/137393/woolworths-mozzarella-sticks",
+    "name": "Woolworths Mozzarella Sticks 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/137393.jpg",
+    "source_id": "137393",
+    "barcode": "9339687226580",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "193",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/621329/woolworths-party-sausage-rolls",
+    "name": "Woolworths Party Sausage Rolls 24 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/621329.jpg",
+    "source_id": "621329",
+    "barcode": "9300633675097",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "24 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "100",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/972463/zeus-spanakopita-spinach-cheese",
+    "name": "Zeus Spanakopita Spinach & Cheese 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/972463.jpg",
+    "source_id": "972463",
+    "barcode": "9309001863227",
+    "category_id": "22280",
+    "subcategory_id": "22311",
+    "subsubcategory_id": "22312",
+    "shop": "Woolworths",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "125",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

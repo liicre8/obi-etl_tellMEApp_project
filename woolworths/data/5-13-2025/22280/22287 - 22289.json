@@ -1,0 +1,22 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/263636/sara-lee-french-cream-cheesecake",
+    "name": "Sara Lee French Cream Cheesecake 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/263636.jpg",
+    "source_id": "263636",
+    "barcode": "9310135020387",
+    "category_id": "22280",
+    "subcategory_id": "22287",
+    "subsubcategory_id": "22289",
+    "shop": "Woolworths",
+    "weight": "360G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "236",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/avent-medium-flow-teat-3+-months-2-pack-4590697",
+    "name": "Avent Medium Flow Teat 3+ Months | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4590697.jpg&w=640&q=90",
+    "source_id": "4590697",
+    "barcode": "8720689009881",
+    "shop": "coles",
+    "category_id": "23827",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1195",
+        "price_per_unit": "598",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/309433/philips-avent-anti-colic-baby-bottle-teats-3-month-",
+    "name": "Philips Avent Anti Colic Baby Bottle Teats 3 Month+ 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/309433.jpg",
+    "source_id": "309433",
+    "barcode": "8720689009881",
+    "shop": "Woolworths",
+    "category_id": "23827",
+    "weight": "2 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "600",
+        "price_unit": "1EA"
+      }
+    ]
+  }
+]

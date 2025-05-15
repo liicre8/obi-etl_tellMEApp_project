@@ -1,0 +1,642 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/219990/ceres-organics-organic-sliced-beetroot-no-added-sugar",
+    "name": "Ceres Organics Organic Sliced Beetroot No Added Sugar 330g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/219990.jpg",
+    "source_id": "219990",
+    "barcode": "9421035970495",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "330g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "152",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/261309/always-fresh-capsicum-wood-roasted-piquillo-peppers",
+    "name": "Always Fresh Capsicum Wood Roasted Piquillo Peppers 285g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/261309.jpg",
+    "source_id": "261309",
+    "barcode": "9300602359270",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "285G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "1263",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/114462/always-fresh-cucumbers-baby",
+    "name": "Always Fresh Cucumbers Baby 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/114462.jpg",
+    "source_id": "114462",
+    "barcode": "9300602355692",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "350G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "365",
+        "price_per_unit": "1043",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/298956/always-fresh-cucumbers-bread-butter",
+    "name": "Always Fresh Cucumbers Bread & Butter 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/298956.jpg",
+    "source_id": "298956",
+    "barcode": "9300602358099",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "700G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "365",
+        "price_per_unit": "521",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/47513/always-fresh-cucumbers-sweet-sour",
+    "name": "Always Fresh Cucumbers Sweet & Sour 680g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/047513.jpg",
+    "source_id": "47513",
+    "barcode": "9300602354893",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "680G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "365",
+        "price_per_unit": "537",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/465084/always-fresh-kalamata-olives-pitted",
+    "name": "Always Fresh Kalamata Olives Pitted 220g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/465084.jpg",
+    "source_id": "465084",
+    "barcode": "9300602371081",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "220G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "2182",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/465079/always-fresh-kalamata-olives-sliced",
+    "name": "Always Fresh Kalamata Olives Sliced 220g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/465079.jpg",
+    "source_id": "465079",
+    "barcode": "9300602371241",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "220G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "2182",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/72424/always-fresh-olives-anchovy-stuffed",
+    "name": "Always Fresh Olives Anchovy Stuffed 235g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/072424.jpg",
+    "source_id": "72424",
+    "barcode": "93602617",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "235G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1702",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/789822/always-fresh-olives-parmesan-stuffed",
+    "name": "Always Fresh Olives Parmesan Stuffed 235g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/789822.jpg",
+    "source_id": "789822",
+    "barcode": "9300602357801",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "235G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "2553",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/9214/always-fresh-organic-kalamata-pitted-olives",
+    "name": "Always Fresh Organic Kalamata Pitted Olives 220g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/009214.jpg",
+    "source_id": "9214",
+    "barcode": "9300602370787",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "220G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "2955",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/252358/always-fresh-pitted-kalamata-olives",
+    "name": "Always Fresh Pitted Kalamata Olives 670g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/252358.jpg",
+    "source_id": "252358",
+    "barcode": "9300602359713",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "670G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "940",
+        "price_per_unit": "1403",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/465039/always-fresh-sicilian-olives-pitted",
+    "name": "Always Fresh Sicilian Olives Pitted 230g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/465039.jpg",
+    "source_id": "465039",
+    "barcode": "9300602368043",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "230G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "1739",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/176739/blue-banner-pickled-onions-chilli",
+    "name": "Blue Banner Pickled Onions Chilli 525g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/176739.jpg",
+    "source_id": "176739",
+    "barcode": "9310748076542",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "525g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "1238",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/171528/blue-banner-tasmanian-pickled-onions-no-added-sugar",
+    "name": "Blue Banner Tasmanian Pickled Onions No Added Sugar 525g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/171528.jpg",
+    "source_id": "171528",
+    "barcode": "9300660446844",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "525g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "124",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/334923/bryne-co-pickled-baby-cucumbers",
+    "name": "Bryne Co Pickled Baby Cucumbers 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/334923.jpg",
+    "source_id": "334923",
+    "barcode": "9351864001315",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "60",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/9228/fehlbergs-burger-pickles",
+    "name": "Fehlbergs Burger Pickles 490g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/009228.jpg",
+    "source_id": "9228",
+    "barcode": "9300602368227",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "490G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "653",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/691119/fehlbergs-chipotle-cucumbers",
+    "name": "Fehlbergs Chipotle Cucumbers 470g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/691119.jpg",
+    "source_id": "691119",
+    "barcode": "9300602364069",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "470G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "681",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/898033/frankie-s-fine-brine-bread-butter-pickles",
+    "name": "Frankie's Fine Brine Bread & Butter Pickles 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/898033.jpg",
+    "source_id": "898033",
+    "barcode": "9352930000614",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "240",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/896736/frankie-s-fine-brine-garlic-dill-pickles",
+    "name": "Frankie's Fine Brine Garlic Dill Pickles 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/896736.jpg",
+    "source_id": "896736",
+    "barcode": "9352930000591",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "240",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/898048/frankie-s-fine-brine-sweet-spicy-pickles",
+    "name": "Frankie's Fine Brine Sweet & Spicy Pickles 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/898048.jpg",
+    "source_id": "898048",
+    "barcode": "9352930000621",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1200",
+        "price_per_unit": "240",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/43114/rosella-white-cocktail-onions",
+    "name": "Rosella White Cocktail Onions 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/043114.jpg",
+    "source_id": "43114",
+    "barcode": "93660013",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "150G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "1667",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/471887/sandhurst-cucumbers-sandwich-stacker",
+    "name": "Sandhurst Cucumbers Sandwich Stacker 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/471887.jpg",
+    "source_id": "471887",
+    "barcode": "9313839009306",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "840",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/708283/sandhurst-olives-green-pitted",
+    "name": "Sandhurst Olives Green Pitted 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/708283.jpg",
+    "source_id": "708283",
+    "barcode": "9313839007104",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "350G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "1286",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/733305/sandhurst-sauerkraut",
+    "name": "Sandhurst Sauerkraut 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/733305.jpg",
+    "source_id": "733305",
+    "barcode": "9313839007531",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "760",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/14606/spring-gully-gherkins-round",
+    "name": "Spring Gully Gherkins Round 550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/014606.jpg",
+    "source_id": "14606",
+    "barcode": "93733045",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "550G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "909",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/35462/three-threes-gherkins-sweet-spiced",
+    "name": "Three Threes Gherkins Sweet Spiced 540g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/035462.jpg",
+    "source_id": "35462",
+    "barcode": "9310480333057",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "540G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "667",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/47554/three-threes-onions-pickled-old-style",
+    "name": "Three Threes Onions Pickled Old Style 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/047554.jpg",
+    "source_id": "47554",
+    "barcode": "9310480333194",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "920",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/504615/three-threes-pickled-onions",
+    "name": "Three Threes Pickled Onions 520g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/504615.jpg",
+    "source_id": "504615",
+    "barcode": "9310480333514",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "520G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "923",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/524432/woolworths-black-sliced-olives",
+    "name": "Woolworths Black Sliced Olives 430g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/524432.jpg",
+    "source_id": "524432",
+    "barcode": "9300633615307",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "430G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "245",
+        "price_per_unit": "57",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/262151/woolworths-dolmades-traditional-traditional",
+    "name": "Woolworths Dolmades Traditional Traditional 280g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/262151.jpg",
+    "source_id": "262151",
+    "barcode": "9300633973223",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "280G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "1179",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/524430/woolworths-green-stuffed-olives",
+    "name": "Woolworths Green Stuffed Olives 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/524430.jpg",
+    "source_id": "524430",
+    "barcode": "9300633615253",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "51",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/690365/woolworths-pitted-kalamata-olives",
+    "name": "Woolworths Pitted Kalamata Olives 345g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/690365.jpg",
+    "source_id": "690365",
+    "barcode": "9300633248536",
+    "category_id": "22770",
+    "subcategory_id": "22811",
+    "subsubcategory_id": "22817",
+    "shop": "Woolworths",
+    "weight": "345G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "870",
+        "price_unit": "1KG"
+      }
+    ]
+  }
+]

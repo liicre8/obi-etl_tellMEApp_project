@@ -1,0 +1,62 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829009/cadbury-baking-dark-chocolate-melts",
+    "name": "Cadbury Baking Dark Chocolate Melts 225g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/829009.jpg",
+    "source_id": "829009",
+    "barcode": "9300617052715",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22775",
+    "shop": "Woolworths",
+    "weight": "225G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "267",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829004/cadbury-baking-milk-chocolate-chips",
+    "name": "Cadbury Baking Milk Chocolate Chips 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/829004.jpg",
+    "source_id": "829004",
+    "barcode": "9300617052982",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22775",
+    "shop": "Woolworths",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "300",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/829005/cadbury-baking-milk-chocolate-melts",
+    "name": "Cadbury Baking Milk Chocolate Melts 225g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/829005.jpg",
+    "source_id": "829005",
+    "barcode": "9300617052838",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22775",
+    "shop": "Woolworths",
+    "weight": "225G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "267",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

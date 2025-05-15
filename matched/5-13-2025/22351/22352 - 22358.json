@@ -1,0 +1,536 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-grapes-seedless-white-paper-approx.-850g-8133391",
+    "name": "Fresh  ... approx. 850g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8133391.jpg&w=640&q=90",
+    "source_id": "8133391",
+    "barcode": "0264274000009",
+    "shop": "coles",
+    "category_id": "22358",
+    "weight": "850g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "553",
+        "price_per_unit": "650",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "VIC",
+        "price": "553",
+        "price_per_unit": "650",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "553",
+        "price_per_unit": "650",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "WA",
+        "price": "1096",
+        "price_per_unit": "1290",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "510",
+        "price_per_unit": "600",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "TAS",
+        "price": "510",
+        "price_per_unit": "600",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "553",
+        "price_per_unit": "650",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "NT",
+        "price": "510",
+        "price_per_unit": "600",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/138801/white-seedless-grapes-bag-approx-900g",
+    "name": "White Seedless Grapes Bag Approx. 900g each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/138801.jpg",
+    "source_id": "138801",
+    "barcode": "0264274000009",
+    "shop": "Woolworths",
+    "category_id": "22358",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "621",
+        "price_per_unit": "621",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "VIC",
+        "price": "621",
+        "price_per_unit": "621",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "QLD",
+        "price": "621",
+        "price_per_unit": "621",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "WA",
+        "price": "1161",
+        "price_per_unit": "1161",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "SA",
+        "price": "621",
+        "price_per_unit": "621",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "TAS",
+        "price": "621",
+        "price_per_unit": "621",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "NT",
+        "price": "621",
+        "price_per_unit": "621",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-grapes-seedless-black-paper-approx.-850g-8134441",
+    "name": "Fresh  ... approx. 850g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8134441.jpg&w=640&q=90",
+    "source_id": "8134441",
+    "barcode": "0264613000004",
+    "shop": "coles",
+    "category_id": "22358",
+    "weight": "850g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "417",
+        "price_per_unit": "490",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "VIC",
+        "price": "467",
+        "price_per_unit": "550",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "417",
+        "price_per_unit": "490",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "467",
+        "price_per_unit": "550",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "TAS",
+        "price": "425",
+        "price_per_unit": "500",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "417",
+        "price_per_unit": "490",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "NT",
+        "price": "467",
+        "price_per_unit": "550",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/405774/grape-black-seedless-grapes-bag-approx-950g",
+    "name": "Black Seedless Grapes Bag Approx. 950g each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/405774.jpg",
+    "source_id": "405774",
+    "barcode": "0264613000004",
+    "shop": "Woolworths",
+    "category_id": "22358",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "466",
+        "price_per_unit": "466",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "VIC",
+        "price": "523",
+        "price_per_unit": "523",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "QLD",
+        "price": "466",
+        "price_per_unit": "466",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "SA",
+        "price": "466",
+        "price_per_unit": "466",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "TAS",
+        "price": "523",
+        "price_per_unit": "523",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "ACT",
+        "price": "466",
+        "price_per_unit": "466",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "NT",
+        "price": "466",
+        "price_per_unit": "466",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-grapes-seedless-red-paper-approx.-850g-8133562",
+    "name": "Fresh  ... approx. 850g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8133562.jpg&w=640&q=90",
+    "source_id": "8133562",
+    "barcode": "0264595000009",
+    "shop": "coles",
+    "category_id": "22358",
+    "weight": "850g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "467",
+        "price_per_unit": "550",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "VIC",
+        "price": "383",
+        "price_per_unit": "450",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "467",
+        "price_per_unit": "550",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "WA",
+        "price": "1096",
+        "price_per_unit": "1290",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "425",
+        "price_per_unit": "500",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "TAS",
+        "price": "383",
+        "price_per_unit": "450",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "467",
+        "price_per_unit": "550",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "NT",
+        "price": "425",
+        "price_per_unit": "500",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/405838/red-seedless-grapes-bag-approx-900g",
+    "name": "Red Seedless Grapes Bag Approx. 900g each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/405838.jpg",
+    "source_id": "405838",
+    "barcode": "0264595000009",
+    "shop": "Woolworths",
+    "category_id": "22358",
+    "weight": "each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "VIC",
+        "price": "405",
+        "price_per_unit": "405",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "WA",
+        "price": "1161",
+        "price_per_unit": "1161",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "SA",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "1EA"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-unique-selection-black-grapes-400g-7543026",
+    "name": "Coles Unique S ... 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7543026.jpg&w=640&q=90",
+    "source_id": "7543026",
+    "barcode": "9300633453909",
+    "shop": "coles",
+    "category_id": "22358",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/774553/woolworths-seedless-black-grapes",
+    "name": "Woolworths Seedless Black Grapes 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/774553.jpg",
+    "source_id": "774553",
+    "barcode": "9300633453909",
+    "shop": "Woolworths",
+    "category_id": "22358",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-grower's-selection-white-grapes-400g-7543241",
+    "name": "Coles Grower's S ... 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7543241.jpg&w=640&q=90",
+    "source_id": "7543241",
+    "barcode": "9300633453886",
+    "shop": "coles",
+    "category_id": "22358",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "1625",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "650",
+        "price_per_unit": "1625",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/774548/woolworths-white-grapes",
+    "name": "Woolworths White Grapes 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/774548.jpg",
+    "source_id": "774548",
+    "barcode": "9300633453886",
+    "shop": "Woolworths",
+    "category_id": "22358",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-unique-selection-red-grapes-400g-7543343",
+    "name": "Coles Unique S ... 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7543343.jpg&w=640&q=90",
+    "source_id": "7543343",
+    "barcode": "9300633453893",
+    "shop": "coles",
+    "category_id": "22358",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "VIC",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "1500",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/774552/woolworths-red-grapes",
+    "name": "Woolworths Red Grapes 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/774552.jpg",
+    "source_id": "774552",
+    "barcode": "9300633453893",
+    "shop": "Woolworths",
+    "category_id": "22358",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "1375",
+        "price_unit": "1KG"
+      }
+    ]
+  }
+]

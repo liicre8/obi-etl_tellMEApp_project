@@ -1,0 +1,182 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/586842/birds-eye-deli-french-fries-garlic-herb-lemon",
+    "name": "Birds Eye Deli French Fries Garlic Herb & Lemon 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/586842.jpg",
+    "source_id": "586842",
+    "barcode": "9310081115977",
+    "category_id": "22280",
+    "subcategory_id": "22281",
+    "subsubcategory_id": "22282",
+    "shop": "Woolworths",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "800",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/682739/birds-eye-deli-seasoned-chips",
+    "name": "Birds Eye Deli Seasoned Chips Golden Ale Beer Batter 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/682739.jpg",
+    "source_id": "682739",
+    "barcode": "9310081105985",
+    "category_id": "22280",
+    "subcategory_id": "22281",
+    "subsubcategory_id": "22282",
+    "shop": "Woolworths",
+    "weight": "600g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "800",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/752330/birds-eye-deli-seasoned-chips-parmesan-garlic-basil",
+    "name": "Birds Eye Deli Seasoned Chips Parmesan, Garlic & Basil 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/752330.jpg",
+    "source_id": "752330",
+    "barcode": "9310081457763",
+    "category_id": "22280",
+    "subcategory_id": "22281",
+    "subsubcategory_id": "22282",
+    "shop": "Woolworths",
+    "weight": "600G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "800",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/752346/birds-eye-deli-seasoned-chips-sea-salt-rosemary",
+    "name": "Birds Eye Deli Seasoned Chips Sea Salt & Rosemary 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/752346.jpg",
+    "source_id": "752346",
+    "barcode": "9310081457756",
+    "category_id": "22280",
+    "subcategory_id": "22281",
+    "subsubcategory_id": "22282",
+    "shop": "Woolworths",
+    "weight": "600G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "800",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/180652/birds-eye-golden-crunch-crinkle-cut-chips",
+    "name": "Birds Eye Golden Crunch Crinkle Cut Chips 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/180652.jpg",
+    "source_id": "180652",
+    "barcode": "9310081128823",
+    "category_id": "22280",
+    "subcategory_id": "22281",
+    "subsubcategory_id": "22282",
+    "shop": "Woolworths",
+    "weight": "900g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "644",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/249351/mccain-beer-batter-steakhouse-chips",
+    "name": "McCain Beer Batter Steakhouse Chips 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/249351.jpg",
+    "source_id": "249351",
+    "barcode": "9310174022885",
+    "category_id": "22280",
+    "subcategory_id": "22281",
+    "subsubcategory_id": "22282",
+    "shop": "Woolworths",
+    "weight": "750G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "773",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/822845/mccain-pub-style-extra-crispy-chips",
+    "name": "McCain Pub Style Extra Crispy Chips 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/822845.jpg",
+    "source_id": "822845",
+    "barcode": "9310174173358",
+    "category_id": "22280",
+    "subcategory_id": "22281",
+    "subsubcategory_id": "22282",
+    "shop": "Woolworths",
+    "weight": "750G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "560",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/662935/mccain-superfries-crinkle-cut",
+    "name": "McCain Superfries Crinkle Cut 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/662935.jpg",
+    "source_id": "662935",
+    "barcode": "9310174157488",
+    "category_id": "22280",
+    "subcategory_id": "22281",
+    "subsubcategory_id": "22282",
+    "shop": "Woolworths",
+    "weight": "900G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/662937/mccain-superfries-shoestring",
+    "name": "McCain Superfries Shoestring 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/662937.jpg",
+    "source_id": "662937",
+    "barcode": "9310174157495",
+    "category_id": "22280",
+    "subcategory_id": "22281",
+    "subsubcategory_id": "22282",
+    "shop": "Woolworths",
+    "weight": "900G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "478",
+        "price_unit": "1KG"
+      }
+    ]
+  }
+]

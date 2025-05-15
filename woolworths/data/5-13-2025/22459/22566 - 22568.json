@@ -1,0 +1,82 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/248547/clean-iron-aid-starch-spray",
+    "name": "Clean Iron Aid Starch Spray 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/248547.jpg",
+    "source_id": "248547",
+    "barcode": "9339687316397",
+    "category_id": "22459",
+    "subcategory_id": "22566",
+    "subsubcategory_id": "22568",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "625",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6018668/comfort-tahiti-dreams-scent-booster-frangipani-papaya-guava",
+    "name": "Comfort Tahiti Dreams Scent Booster Frangipani Papaya & Guava 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6018668.jpg",
+    "source_id": "6018668",
+    "barcode": "9300830094134",
+    "category_id": "22459",
+    "subcategory_id": "22566",
+    "subsubcategory_id": "22568",
+    "shop": "Woolworths",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "980",
+        "price_per_unit": "4900",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/746886/crisp-spray-starch-spray",
+    "name": "Crisp Spray Starch 385g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/746886.jpg",
+    "source_id": "746886",
+    "barcode": "9300701846374",
+    "category_id": "22459",
+    "subcategory_id": "22566",
+    "subsubcategory_id": "22568",
+    "shop": "Woolworths",
+    "weight": "385g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "920",
+        "price_per_unit": "2390",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32224/fabulon-starch-trigger-aid-trigger-spray",
+    "name": "Fabulon Starch Trigger 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/032224.jpg",
+    "source_id": "32224",
+    "barcode": "9310045403041",
+    "category_id": "22459",
+    "subcategory_id": "22566",
+    "subsubcategory_id": "22568",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "2100",
+        "price_unit": "1L"
+      }
+    ]
+  }
+]

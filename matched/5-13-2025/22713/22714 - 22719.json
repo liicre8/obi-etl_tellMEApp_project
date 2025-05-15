@@ -1,0 +1,212 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-lamb-leg-steak-270g-3958405",
+    "name": "Coles Lamb Leg Steak | 270g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3958405.jpg&w=640&q=90",
+    "source_id": "3958405",
+    "barcode": "9339687029792",
+    "shop": "coles",
+    "category_id": "22719",
+    "weight": "270g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/675490/woolworths-lamb-leg-steak",
+    "name": "Woolworths Lamb Leg Steak 270g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/675490.jpg",
+    "source_id": "675490",
+    "barcode": "9339687029792",
+    "shop": "Woolworths",
+    "category_id": "22719",
+    "weight": "270G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "VIC",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "NT",
+        "price": "800",
+        "price_per_unit": "2963",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-graze-lamb-mince-500g-3697710",
+    "name": "Coles Graze Lamb Mince | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3697710.jpg&w=640&q=90",
+    "source_id": "3697710",
+    "barcode": "9300633637095",
+    "shop": "coles",
+    "category_id": "22719",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "VIC",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "WA",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "NT",
+        "price": "900",
+        "price_per_unit": "1800",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/582607/woolworths-lamb-mince",
+    "name": "Woolworths Lamb Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/582607.jpg",
+    "source_id": "582607",
+    "barcode": "9300633637095",
+    "shop": "Woolworths",
+    "category_id": "22719",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "QLD",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "WA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "SA",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "1KG"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "1600",
+        "price_unit": "1KG"
+      }
+    ]
+  }
+]

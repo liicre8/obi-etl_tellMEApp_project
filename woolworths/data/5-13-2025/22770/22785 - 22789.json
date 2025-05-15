@@ -1,0 +1,222 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/196422/adley-s-honey-honeycomb",
+    "name": "Adley's Honey Honeycomb 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/196422.jpg",
+    "source_id": "196422",
+    "barcode": "9327890000189",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22789",
+    "shop": "Woolworths",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1150",
+        "price_per_unit": "575",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/14039/capilano-100-pure-australian-creamed-honey-tub",
+    "name": "Capilano 100% Pure Australian Creamed Honey Tub 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/014039.jpg",
+    "source_id": "14039",
+    "barcode": "93677110",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22789",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": "176",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/954138/capilano-100-pure-australian-honey-squeeze",
+    "name": "Capilano 100% Pure Australian Honey Squeeze 340g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/954138.jpg",
+    "source_id": "954138",
+    "barcode": "9300677002385",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22789",
+    "shop": "Woolworths",
+    "weight": "340g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "194",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/262206/capilano-100-pure-australian-honey-squeeze",
+    "name": "Capilano 100% Pure Australian Honey Squeeze 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/262206.jpg",
+    "source_id": "262206",
+    "barcode": "9300677002286",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22789",
+    "shop": "Woolworths",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "860",
+        "price_per_unit": "172",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/59973/capilano-100-pure-australian-honey-yellow-box-squeeze",
+    "name": "Capilano 100% Pure Australian Honey Yellow Box Squeeze 340g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/059973.jpg",
+    "source_id": "59973",
+    "barcode": "9300677010175",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22789",
+    "shop": "Woolworths",
+    "weight": "340g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "194",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802008/capilano-100-pure-australian-honey-twist-squeeze",
+    "name": "Capilano 100% Pure Australian Honey Twist & Squeeze 220g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/802008.jpg",
+    "source_id": "802008",
+    "barcode": "9300677007724",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22789",
+    "shop": "Woolworths",
+    "weight": "220g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "214",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/342395/capilano-100-pure-australian-honey-twist-squeeze",
+    "name": "Capilano 100% Pure Australian Honey Twist & Squeeze 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/342395.jpg",
+    "source_id": "342395",
+    "barcode": "9300677006536",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22789",
+    "shop": "Woolworths",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "575",
+        "price_per_unit": "153",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/89160/cloverdale-pure-honey-squeeze",
+    "name": "Cloverdale Pure Honey Squeeze 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/089160.jpg",
+    "source_id": "89160",
+    "barcode": "9300677010663",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22789",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "118",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/89159/cloverdale-pure-honey-twist-squeeze",
+    "name": "Cloverdale Pure Honey Twist & Squeeze 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/089159.jpg",
+    "source_id": "89159",
+    "barcode": "9300677010649",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22789",
+    "shop": "Woolworths",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "117",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/894688/macro-organic-honey",
+    "name": "Macro Organic Honey 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/894688.jpg",
+    "source_id": "894688",
+    "barcode": "9300633798017",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22789",
+    "shop": "Woolworths",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "175",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/251356/woolworths-pure-honey",
+    "name": "Woolworths Pure Honey 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/251356.jpg",
+    "source_id": "251356",
+    "barcode": "9300633929855",
+    "category_id": "22770",
+    "subcategory_id": "22785",
+    "subsubcategory_id": "22789",
+    "shop": "Woolworths",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "570",
+        "price_per_unit": "143",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

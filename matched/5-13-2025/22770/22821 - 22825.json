@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/aunt-betty's-sticky-date-steamy-pud-2-pack-190g-9958237",
+    "name": "Aunt Betty's  ... 190g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9958237.jpg&w=640&q=90",
+    "source_id": "9958237",
+    "barcode": "9417986939032",
+    "shop": "coles",
+    "category_id": "22825",
+    "weight": "190g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "258",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/726124/aunt-betty-s-sticky-date-steamy-puds",
+    "name": "Aunt Betty's Sticky Date Steamy Puds 2x95g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/726124.jpg",
+    "source_id": "726124",
+    "barcode": "9417986939032",
+    "shop": "Woolworths",
+    "category_id": "22825",
+    "weight": "2x95G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "258",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

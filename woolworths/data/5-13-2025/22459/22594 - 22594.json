@@ -1,0 +1,82 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/15779/bic-4-colour-retractable-ball-pen-medium-pen",
+    "name": "BIC 4 Colour Retractable Ball Pen Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/015779.jpg",
+    "source_id": "15779",
+    "barcode": "9310025020435",
+    "category_id": "22459",
+    "subcategory_id": "22594",
+    "subsubcategory_id": "22594",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/648164/crayola-doodle-scents-scented-markers",
+    "name": "Crayola Doodle Scents Scented Markers 12 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/648164.jpg",
+    "source_id": "648164",
+    "barcode": "71662282516",
+    "category_id": "22459",
+    "subcategory_id": "22594",
+    "subsubcategory_id": "22594",
+    "shop": "Woolworths",
+    "weight": "12 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/254009/faber-castell-triangular-colour-pencils-tri-grip",
+    "name": "Faber-Castell Triangular Colour Pencils Tri Grip 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/254009.jpg",
+    "source_id": "254009",
+    "barcode": "4005401158530",
+    "category_id": "22459",
+    "subcategory_id": "22594",
+    "subsubcategory_id": "22594",
+    "shop": "Woolworths",
+    "weight": "12 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/36067/calidad-hp-printer-ink-61-xl-tri-colour",
+    "name": "Calidad Hp Printer Ink 61 Xl Tri-Colour Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/036067.jpg",
+    "source_id": "36067",
+    "barcode": "9316755823117",
+    "category_id": "22459",
+    "subcategory_id": "22594",
+    "subsubcategory_id": "22594",
+    "shop": "Woolworths",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4300",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  }
+]

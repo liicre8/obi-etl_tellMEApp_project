@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/pampas-frozen-puff-pastry-sheets-regular-1kg-125345",
+    "name": "Pampas Frozen Puff Pastry Sheets Regular | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F125345.jpg&w=640&q=90",
+    "source_id": "125345",
+    "barcode": "9310002011005",
+    "shop": "coles",
+    "category_id": "22292",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/96492/pampas-puff-pastry-6-sheets",
+    "name": "Pampas Puff Pastry 6 Sheets 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/096492.jpg",
+    "source_id": "96492",
+    "barcode": "9310002011005",
+    "shop": "Woolworths",
+    "category_id": "22292",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pampas-frozen-puff-pastry-sheets-extra-light-6-pack-1kg-9514561",
+    "name": "Pampas Frozen Puff Pastry Sheets Extra Light 6 pack | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9514561.jpg&w=640&q=90",
+    "source_id": "9514561",
+    "barcode": "9310002088502",
+    "shop": "coles",
+    "category_id": "22292",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/186550/pampas-puff-pastry-reduced-fat",
+    "name": "Pampas Puff Pastry Reduced Fat 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/186550.jpg",
+    "source_id": "186550",
+    "barcode": "9310002088502",
+    "shop": "Woolworths",
+    "category_id": "22292",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

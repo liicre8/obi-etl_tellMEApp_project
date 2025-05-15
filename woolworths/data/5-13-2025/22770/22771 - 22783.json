@@ -1,0 +1,362 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37679/csr-brown-sugar",
+    "name": "CSR Brown Sugar 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/037679.jpg",
+    "source_id": "37679",
+    "barcode": "9313010000801",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22783",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "490",
+        "price_per_unit": "49",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33142/csr-brown-sugar",
+    "name": "CSR Brown Sugar 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033142.jpg",
+    "source_id": "33142",
+    "barcode": "9313010000818",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22783",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/38022/csr-caster-sugar",
+    "name": "CSR Caster Sugar 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/038022.jpg",
+    "source_id": "38022",
+    "barcode": "9313010102543",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22783",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "28",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33144/csr-caster-sugar",
+    "name": "CSR Caster Sugar 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033144.jpg",
+    "source_id": "33144",
+    "barcode": "9313010000092",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22783",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "40",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/92491/csr-golden-syrup-squeeze",
+    "name": "CSR Golden Syrup Squeeze 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/092491.jpg",
+    "source_id": "92491",
+    "barcode": "9313010121568",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22783",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "90",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/71487/csr-icing-sugar-pure",
+    "name": "CSR Icing Sugar Pure 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/071487.jpg",
+    "source_id": "71487",
+    "barcode": "9313010000771",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22783",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/96253/csr-icing-sugar-soft-mixture",
+    "name": "CSR Icing Sugar Soft Mixture 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/096253.jpg",
+    "source_id": "96253",
+    "barcode": "9313010000764",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22783",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "50",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/71488/csr-icing-sugar-soft-mixture",
+    "name": "CSR Icing Sugar Soft Mixture 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/071488.jpg",
+    "source_id": "71488",
+    "barcode": "9313010000757",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22783",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "50",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/36630/csr-raw-sugar",
+    "name": "CSR Raw Sugar 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/036630.jpg",
+    "source_id": "36630",
+    "barcode": "9313010000689",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22783",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "32",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37391/csr-raw-sugar",
+    "name": "CSR Raw Sugar 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/037391.jpg",
+    "source_id": "37391",
+    "barcode": "9313010116816",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22783",
+    "shop": "Woolworths",
+    "weight": "2Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "25",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/68468/csr-raw-sugar",
+    "name": "CSR Raw Sugar 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/068468.jpg",
+    "source_id": "68468",
+    "barcode": "9313010002485",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22783",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "40",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33156/csr-white-sugar",
+    "name": "CSR White Sugar 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033156.jpg",
+    "source_id": "33156",
+    "barcode": "9313010101607",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22783",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "26",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720342/essentials-brown-sugar",
+    "name": "Essentials Brown Sugar 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/720342.jpg",
+    "source_id": "720342",
+    "barcode": "9300633289386",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22783",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "33",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/720343/essentials-caster-sugar",
+    "name": "Essentials Caster Sugar 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/720343.jpg",
+    "source_id": "720343",
+    "barcode": "9300633289485",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22783",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "22",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/115632/essentials-icing-sugar-mixture",
+    "name": "Essentials Icing Sugar Mixture 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/115632.jpg",
+    "source_id": "115632",
+    "barcode": "9300633372149",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22783",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "40",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/18169/essentials-raw-sugar",
+    "name": "Essentials Raw Sugar 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/018169.jpg",
+    "source_id": "18169",
+    "barcode": "9300633181697",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22783",
+    "shop": "Woolworths",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "18",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/58537/essentials-white-sugar",
+    "name": "Essentials White Sugar 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/058537.jpg",
+    "source_id": "58537",
+    "barcode": "9300633127114",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22783",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "180",
+        "price_per_unit": "18",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/142912/splenda-stevia-liquid-sweetener",
+    "name": "Splenda Stevia Liquid Sweetener 50ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/142912.jpg",
+    "source_id": "142912",
+    "barcode": "722776003770",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22783",
+    "shop": "Woolworths",
+    "weight": "50mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "1300",
+        "price_unit": "100ML"
+      }
+    ]
+  }
+]

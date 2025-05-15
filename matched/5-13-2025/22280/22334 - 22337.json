@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/cadbury-dairy-milk-freddo-party-cake-frozen-dessert-1.5l-9093430",
+    "name": "Cadbury Dairy Milk Freddo Party Cake Frozen Dessert | 1.5L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9093430.jpg&w=640&q=90",
+    "source_id": "9093430",
+    "barcode": "9347043001733",
+    "shop": "coles",
+    "category_id": "22337",
+    "weight": "1.5l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "113",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/51741/cadbury-freddo-cake",
+    "name": "Cadbury Freddo Cake 1.5l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/051741.jpg",
+    "source_id": "51741",
+    "barcode": "9347043001733",
+    "shop": "Woolworths",
+    "category_id": "22337",
+    "weight": "1.5L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "113",
+        "price_unit": "100ML"
+      }
+    ]
+  }
+]

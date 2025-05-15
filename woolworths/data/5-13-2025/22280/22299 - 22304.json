@@ -1,0 +1,122 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/809199/fry-s-plant-based-family-sausage-rolls-meat-free",
+    "name": "Fry's Plant Based Family Sausage Rolls Meat Free 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/809199.jpg",
+    "source_id": "809199",
+    "barcode": "6005207001618",
+    "category_id": "22280",
+    "subcategory_id": "22299",
+    "subsubcategory_id": "22304",
+    "shop": "Woolworths",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "710",
+        "price_per_unit": "178",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/937543/fry-s-plant-based-soy-flaxseed-schnitzels",
+    "name": "Fry's Plant Based Soy & Flaxseed Schnitzels 320g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/937543.jpg",
+    "source_id": "937543",
+    "barcode": "6005207001182",
+    "category_id": "22280",
+    "subcategory_id": "22299",
+    "subsubcategory_id": "22304",
+    "shop": "Woolworths",
+    "weight": "320g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "710",
+        "price_per_unit": "222",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/74424/linda-mccartney-s-sausages-null",
+    "name": "Linda Mccartney's Sausages 270g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/074424.jpg",
+    "source_id": "74424",
+    "barcode": "5056053305093",
+    "category_id": "22280",
+    "subcategory_id": "22299",
+    "subsubcategory_id": "22304",
+    "shop": "Woolworths",
+    "weight": "270G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "185",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/627821/linda-mccartney-s-vegetarian-burger-patties-frozen-meal",
+    "name": "Linda Mccartney's Vegetarian Burger Patties Frozen Meal 227g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/627821.jpg",
+    "source_id": "627821",
+    "barcode": "5056053302306",
+    "category_id": "22280",
+    "subcategory_id": "22299",
+    "subsubcategory_id": "22304",
+    "shop": "Woolworths",
+    "weight": "227G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "680",
+        "price_per_unit": "300",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/349163/quorn-mince-null",
+    "name": "Quorn Mince 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/349163.jpg",
+    "source_id": "349163",
+    "barcode": "5019503019698",
+    "category_id": "22280",
+    "subcategory_id": "22299",
+    "subsubcategory_id": "22304",
+    "shop": "Woolworths",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "175",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/716852/quorn-pieces-frozen",
+    "name": "Quorn Pieces Frozen 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/716852.jpg",
+    "source_id": "716852",
+    "barcode": "5019503019674",
+    "category_id": "22280",
+    "subcategory_id": "22299",
+    "subsubcategory_id": "22304",
+    "shop": "Woolworths",
+    "weight": "300G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "175",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

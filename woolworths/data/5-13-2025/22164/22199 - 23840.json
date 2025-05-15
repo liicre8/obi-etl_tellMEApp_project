@@ -1,0 +1,42 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/789357/woolworths-full-cream-milk-powder",
+    "name": "Woolworths Full Cream Milk Powder 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/789357.jpg",
+    "source_id": "789357",
+    "barcode": "9300633765705",
+    "category_id": "22164",
+    "subcategory_id": "22199",
+    "subsubcategory_id": "23840",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/789358/woolworths-skim-milk-powder",
+    "name": "Woolworths Skim Milk Powder 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/789358.jpg",
+    "source_id": "789358",
+    "barcode": "9300633765712",
+    "category_id": "22164",
+    "subcategory_id": "22199",
+    "subsubcategory_id": "23840",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "1KG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/224641/ajax-spray-wipe-glass-cleaner-trigger-spray",
+    "name": "Ajax Spray & Wipe Glass Cleaner Trigger Spray 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/224641.jpg",
+    "source_id": "224641",
+    "barcode": "9300632065158",
+    "category_id": "22459",
+    "subcategory_id": "22475",
+    "subsubcategory_id": "22490",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "70",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/712668/earth-choice-window-cleaner-window",
+    "name": "Earth Choice Window Cleaner Window 600ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/712668.jpg",
+    "source_id": "712668",
+    "barcode": "9310692133162",
+    "category_id": "22459",
+    "subcategory_id": "22475",
+    "subsubcategory_id": "22490",
+    "shop": "Woolworths",
+    "weight": "600mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "58",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/301062/saba-organics-window-glass-cleaner-tasmanian-lavender",
+    "name": "Saba Organics Window & Glass Cleaner Tasmanian Lavender 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/301062.jpg",
+    "source_id": "301062",
+    "barcode": "9353548000461",
+    "category_id": "22459",
+    "subcategory_id": "22475",
+    "subsubcategory_id": "22490",
+    "shop": "Woolworths",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "595",
+        "price_per_unit": "119",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/182991/strike-pro-glass-cleaner-spray-removes-grease-grime",
+    "name": "Strike Pro Glass Cleaner Spray Removes Grease & Grime 750ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/182991.jpg",
+    "source_id": "182991",
+    "barcode": "9339687276677",
+    "category_id": "22459",
+    "subcategory_id": "22475",
+    "subsubcategory_id": "22490",
+    "shop": "Woolworths",
+    "weight": "750ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "27",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/31775/windex-glass-cleaner-refill-refill",
+    "name": "Windex Glass Cleaner Refill Refill 750ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/031775.jpg",
+    "source_id": "31775",
+    "barcode": "9300622105079",
+    "category_id": "22459",
+    "subcategory_id": "22475",
+    "subsubcategory_id": "22490",
+    "shop": "Woolworths",
+    "weight": "750mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "64",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/27210/windex-glass-cleaner-trigger",
+    "name": "Windex Glass Cleaner Trigger 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/027210.jpg",
+    "source_id": "27210",
+    "barcode": "9300622105185",
+    "category_id": "22459",
+    "subcategory_id": "22475",
+    "subsubcategory_id": "22490",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "100",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/297323/windex-glass-cleaner-trigger-crystal-rain",
+    "name": "Windex Glass Cleaner Trigger Crystal Rain 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/297323.jpg",
+    "source_id": "297323",
+    "barcode": "9300622700885",
+    "category_id": "22459",
+    "subcategory_id": "22475",
+    "subsubcategory_id": "22490",
+    "shop": "Woolworths",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "100",
+        "price_unit": "100ML"
+      }
+    ]
+  }
+]

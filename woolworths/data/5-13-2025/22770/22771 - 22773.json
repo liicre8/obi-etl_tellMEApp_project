@@ -1,0 +1,82 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/252201/laucke-crusty-white-bread-mix",
+    "name": "Laucke Crusty White Bread Mix 2.4kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/252201.jpg",
+    "source_id": "252201",
+    "barcode": "871893000701",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22773",
+    "shop": "Woolworths",
+    "weight": "2.4Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "354",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/663708/laucke-multigrain-bread-mix",
+    "name": "Laucke Multigrain Bread Mix 2.4kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/663708.jpg",
+    "source_id": "663708",
+    "barcode": "9321885004701",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22773",
+    "shop": "Woolworths",
+    "weight": "2.4kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "354",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/673513/lighthouse-pizza-focaccia-bread-mix",
+    "name": "Lighthouse Pizza & Focaccia Bread Mix 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/673513.jpg",
+    "source_id": "673513",
+    "barcode": "9300609107553",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22773",
+    "shop": "Woolworths",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "660",
+        "price_per_unit": "660",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/81921/lion-pastry-mix",
+    "name": "Lion Pastry Mix 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/081921.jpg",
+    "source_id": "81921",
+    "barcode": "9300609110607",
+    "category_id": "22770",
+    "subcategory_id": "22771",
+    "subsubcategory_id": "22773",
+    "shop": "Woolworths",
+    "weight": "375G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "72",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

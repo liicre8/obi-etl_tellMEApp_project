@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/laucke-white-crusty-flour-bread-mix-2.4kg-5891225",
+    "name": "Laucke White Crusty Flour Bread Mix | 2.4kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5891225.jpg&w=640&q=90",
+    "source_id": "5891225",
+    "barcode": "871893000701",
+    "shop": "coles",
+    "category_id": "22773",
+    "weight": "2.4kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1090",
+        "price_per_unit": "454",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/252201/laucke-crusty-white-bread-mix",
+    "name": "Laucke Crusty White Bread Mix 2.4kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/252201.jpg",
+    "source_id": "252201",
+    "barcode": "871893000701",
+    "shop": "Woolworths",
+    "category_id": "22773",
+    "weight": "2.4Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "354",
+        "price_unit": "1KG"
+      }
+    ]
+  }
+]

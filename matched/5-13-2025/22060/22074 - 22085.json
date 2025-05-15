@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/home-chef-quiche-lorraine-200g-7829368",
+    "name": "Home Chef Quiche Lorraine | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7829368.jpg&w=640&q=90",
+    "source_id": "7829368",
+    "barcode": "9323062002708",
+    "shop": "coles",
+    "category_id": "22085",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/581054/home-chef-quiche-lorraine-chilled-meal",
+    "name": "Home Chef Quiche Lorraine Chilled Meal 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/581054.jpg",
+    "source_id": "581054",
+    "barcode": "9323062002708",
+    "shop": "Woolworths",
+    "category_id": "22085",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

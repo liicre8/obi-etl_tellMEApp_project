@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bakery-cake-madeira-lemon-315g-5592075",
+    "name": "Coles Bakery  ... 315g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5592075.jpg&w=640&q=90",
+    "source_id": "5592075",
+    "barcode": "9300633594176",
+    "shop": "coles",
+    "category_id": "",
+    "weight": "315g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "110",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/921694/woolworths-lemon-madeira-cake",
+    "name": "Woolworths Lemon Madeira Cake 315g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/921694.jpg",
+    "source_id": "921694",
+    "barcode": "9300633594176",
+    "shop": "Woolworths",
+    "category_id": "",
+    "weight": "315G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "110",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-bakery-madeira-cake-450g-5057311",
+    "name": "Coles Bakery  ... 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5057311.jpg&w=640&q=90",
+    "source_id": "5057311",
+    "barcode": "9300633594169",
+    "shop": "coles",
+    "category_id": "",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "77",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/921693/woolworths-madeira-cake",
+    "name": "Woolworths Madeira Cake 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/921693.jpg",
+    "source_id": "921693",
+    "barcode": "9300633594169",
+    "shop": "Woolworths",
+    "category_id": "",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "345",
+        "price_per_unit": "77",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

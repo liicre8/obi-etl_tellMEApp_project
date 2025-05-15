@@ -1,0 +1,992 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/birch-and-waite-dressings-creamy-caesar-250ml-7482453",
+    "name": "Birch & Waite Dressings Creamy Caesar | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7482453.jpg&w=640&q=90",
+    "source_id": "7482453",
+    "barcode": "9300786050079",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/710194/birch-waite-creamy-caesar-dressing",
+    "name": "Birch & Waite Creamy Caesar Dressing 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/710194.jpg",
+    "source_id": "710194",
+    "barcode": "9300786050079",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "240",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/birch-and-waite-dressings-greek-lemon-250ml-7483310",
+    "name": "Birch & Waite Dressings Greek Lemon | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7483310.jpg&w=640&q=90",
+    "source_id": "7483310",
+    "barcode": "9300786050109",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/710191/birch-waite-greek-lemon-dressing",
+    "name": "Birch & Waite Greek Lemon Dressing 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/710191.jpg",
+    "source_id": "710191",
+    "barcode": "9300786050109",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "240",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/birch-and-waite-dressings-green-goddess-250ml-7487402",
+    "name": "Birch & Waite Dressings Green Goddess | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7487402.jpg&w=640&q=90",
+    "source_id": "7487402",
+    "barcode": "9300786060290",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/802495/birch-waite-green-goddess-dressing-sauce",
+    "name": "Birch & Waite Green Goddess Dressing & Sauce 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/802495.jpg",
+    "source_id": "802495",
+    "barcode": "9300786060290",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "240",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/birch-and-waite-dressings-honey-and-mustard-250ml-7487526",
+    "name": "Birch & Waite Dressings Honey & Mustard | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7487526.jpg&w=640&q=90",
+    "source_id": "7487526",
+    "barcode": "9300786666010",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/289349/birch-waite-honey-mustard-dressing-sauce",
+    "name": "Birch & Waite Honey Mustard Dressing Sauce 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/289349.jpg",
+    "source_id": "289349",
+    "barcode": "9300786666010",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "240",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/birch-and-waite-dressings-greek-yogurt-250ml-7482963",
+    "name": "Birch & Waite Dressings Greek Yogurt | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7482963.jpg&w=640&q=90",
+    "source_id": "7482963",
+    "barcode": "9300786054763",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "220",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/883612/birch-waite-salad-dressing-greek-yoghurt-feta-dill",
+    "name": "Birch & Waite Salad Dressing Greek Yoghurt Feta & Dill 250ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/883612.jpg",
+    "source_id": "883612",
+    "barcode": "9300786054763",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "240",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/heinz-seriously-good-garlic-lovers-aioli-mayonniase-295ml-3076053",
+    "name": "Heinz Seriously Good Garlic Lovers Aioli Mayonniase | 295mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3076053.jpg&w=640&q=90",
+    "source_id": "3076053",
+    "barcode": "9300657021825",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "295ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "149",
+        "price_unit": "100ML | WAS $5.50"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/535642/heinz-seriously-good-flavoured-mayonnaise-garlic-lovers-aioli",
+    "name": "Heinz Seriously Good Flavoured Mayonnaise Garlic Lovers Aioli 295mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/535642.jpg",
+    "source_id": "535642",
+    "barcode": "9300657021825",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "295mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "93",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/heinz-seriously-good-garlic-aioli-mayonnaise-295ml-2060262",
+    "name": "Heinz Seriously Good Garlic Aioli Mayonnaise | 295mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2060262.jpg&w=640&q=90",
+    "source_id": "2060262",
+    "barcode": "9300657021450",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "295ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "149",
+        "price_unit": "100ML | WAS $5.50"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/706158/heinz-seriously-good-mayo-garlic-aioli-flavoured-mayonnaise",
+    "name": "Heinz Seriously Good Mayo Garlic Aioli Flavoured Mayonnaise 295mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/706158.jpg",
+    "source_id": "706158",
+    "barcode": "9300657021450",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "295mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "93",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/heinz-seriously-good-garlic-aioli-mayonnaise-500ml-2454756",
+    "name": "Heinz Seriously Good Garlic Aioli Mayonnaise | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2454756.jpg&w=640&q=90",
+    "source_id": "2454756",
+    "barcode": "9300657021870",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "130",
+        "price_unit": "100ML | WAS $8.30"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/799459/heinz-seriously-good-mayo-garlic-aioli-flavoured-mayonnaise",
+    "name": "Heinz Seriously Good Mayo Garlic Aioli Flavoured Mayonnaise 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/799459.jpg",
+    "source_id": "799459",
+    "barcode": "9300657021870",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "830",
+        "price_per_unit": "166",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/heinz-seriously-good-original-mayonnaise-295ml-2060251",
+    "name": "Heinz Seriously Good Original Mayonnaise | 295mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2060251.jpg&w=640&q=90",
+    "source_id": "2060251",
+    "barcode": "9300657021443",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "295ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "149",
+        "price_unit": "100ML | WAS $5.50"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/332185/heinz-seriously-good-mayonnaise-original-mayo",
+    "name": "Heinz Seriously Good Mayonnaise Original Mayo 295ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/332185.jpg",
+    "source_id": "332185",
+    "barcode": "9300657021443",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "295mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "93",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/heinz-seriously-good-spicy-peri-peri-mayonnaise-mayo-295ml-2777879",
+    "name": "Heinz Seriously Good Spicy Peri Peri Mayonnaise Mayo | 295mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2777879.jpg&w=640&q=90",
+    "source_id": "2777879",
+    "barcode": "9300657021696",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "295ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "149",
+        "price_unit": "100ML | WAS $5.50"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/787154/heinz-seriously-good-spicy-peri-peri-flavoured-mayonnaise",
+    "name": "Heinz Seriously Good Spicy Peri Peri Flavoured Mayonnaise 295mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/787154.jpg",
+    "source_id": "787154",
+    "barcode": "9300657021696",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "295mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "275",
+        "price_per_unit": "93",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/kewpie-mayonnaise-500g-7651539",
+    "name": "Kewpie Mayonnaise | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7651539.jpg&w=640&q=90",
+    "source_id": "7651539",
+    "barcode": "8852511011448",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "160",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/364435/kewpie-japanese-mayonnaise",
+    "name": "Kewpie Japanese Mayonnaise 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/364435.jpg",
+    "source_id": "364435",
+    "barcode": "8852511011448",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "160",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/praise-traditional-99percent-fat-free-mayo-555g-8734799",
+    "name": "Praise Traditional 99 ... 555g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8734799.jpg&w=640&q=90",
+    "source_id": "8734799",
+    "barcode": "9310047203496",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "555g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "81",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/136649/praise-99-fat-free-squeeze-mayonnaise",
+    "name": "Praise 99% Fat Free Squeeze Mayonnaise 555g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/136649.jpg",
+    "source_id": "136649",
+    "barcode": "9310047203496",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "555G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "81",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/praise-traditional-mayonnaise-490g-8734744",
+    "name": "Praise Traditional Ma ... 490g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8734744.jpg&w=640&q=90",
+    "source_id": "8734744",
+    "barcode": "9310047203489",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "490g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "92",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/136644/praise-traditional-mayonnaise-squeeze-bottle",
+    "name": "Praise Traditional Mayonnaise Squeeze Bottle 490g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/136644.jpg",
+    "source_id": "136644",
+    "barcode": "9310047203489",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "490G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "92",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/masterfoods-horseradish-cream-sauce-175g-128412",
+    "name": "MasterFoods Horseradish Cream Sauce | 175g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F128412.jpg&w=640&q=90",
+    "source_id": "128412",
+    "barcode": "93718738",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "175g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "189",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32831/masterfoods-horseradish-cream",
+    "name": "MasterFoods Horseradish Cream 175g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/032831.jpg",
+    "source_id": "32831",
+    "barcode": "93718738",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "175G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "189",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/praise-squeeze-aioli-chipotle-250ml-1423236",
+    "name": "Praise Squeeze Aioli Chipotle | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1423236.jpg&w=640&q=90",
+    "source_id": "1423236",
+    "barcode": "9310047214294",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "120",
+        "price_unit": "100ML | WAS $4.50"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/766230/praise-chipotle-aioli-mayonnaise",
+    "name": "Praise Chipotle Aioli Mayonnaise 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/766230.jpg",
+    "source_id": "766230",
+    "barcode": "9310047214294",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "180",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/praise-balsamic-dressing-330ml-6541284",
+    "name": "Praise Balsamic Dressing | 330mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6541284.jpg&w=640&q=90",
+    "source_id": "6541284",
+    "barcode": "9310047211880",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "330ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "91",
+        "price_unit": "100ML | WAS $3.60"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/312737/praise-dressings-balsamic",
+    "name": "Praise Dressings Balsamic 330ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/312737.jpg",
+    "source_id": "312737",
+    "barcode": "9310047211880",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "330mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "109",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/praise-caesar-dressing-330ml-9820943",
+    "name": "Praise Caesar Dressing | 330mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9820943.jpg&w=640&q=90",
+    "source_id": "9820943",
+    "barcode": "9310047206305",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "330ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "91",
+        "price_unit": "100ML | WAS $3.60"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/274308/praise-dressings-caesar",
+    "name": "Praise Dressings Caesar 330ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/274308.jpg",
+    "source_id": "274308",
+    "barcode": "9310047206305",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "330mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "109",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/praise-french-dressing-330ml-9820998",
+    "name": "Praise French Dressing | 330mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9820998.jpg&w=640&q=90",
+    "source_id": "9820998",
+    "barcode": "9310047206244",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "330ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "91",
+        "price_unit": "100ML | WAS $3.60"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/212347/praise-dressings-french-original",
+    "name": "Praise Dressings French Original 330ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/212347.jpg",
+    "source_id": "212347",
+    "barcode": "9310047206244",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "330mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "109",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/praise-italian-dressing-330ml-9821040",
+    "name": "Praise Italian Dressing | 330mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9821040.jpg&w=640&q=90",
+    "source_id": "9821040",
+    "barcode": "9310047206268",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "330ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "91",
+        "price_unit": "100ML | WAS $3.60"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/212343/praise-dressings-italian-original",
+    "name": "Praise Dressings Italian Original 330ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/212343.jpg",
+    "source_id": "212343",
+    "barcode": "9310047206268",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "330mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "109",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/praise-squeeze-aioli-classic-250ml-1423247",
+    "name": "Praise Squeeze Aioli Classic | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1423247.jpg&w=640&q=90",
+    "source_id": "1423247",
+    "barcode": "9310047214287",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "120",
+        "price_unit": "100ML | WAS $4.50"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/766214/praise-garlic-aioli-mayonnaise",
+    "name": "Praise Garlic Aioli Mayonnaise 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/766214.jpg",
+    "source_id": "766214",
+    "barcode": "9310047214287",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "180",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/praise-potato-salad-dressing-330ml-2762022",
+    "name": "Praise Potato Salad Dressing | 330mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2762022.jpg&w=640&q=90",
+    "source_id": "2762022",
+    "barcode": "9310047215055",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "330ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "91",
+        "price_unit": "100ML | WAS $3.60"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/494145/praise-potato-salad-dressing",
+    "name": "Praise Potato Salad Dressing 330ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/494145.jpg",
+    "source_id": "494145",
+    "barcode": "9310047215055",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "330mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "360",
+        "price_per_unit": "109",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sandw-real-whole-egg-mayonnaise-440g-6144750",
+    "name": "S&W Real Whole Egg Mayonnaise | 440g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6144750.jpg&w=640&q=90",
+    "source_id": "6144750",
+    "barcode": "9310560014883",
+    "shop": "coles",
+    "category_id": "22818",
+    "weight": "440g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "159",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/293958/s-w-mayonnaise-whole-egg",
+    "name": "S&W Mayonnaise Whole Egg 440g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/293958.jpg",
+    "source_id": "293958",
+    "barcode": "9310560014883",
+    "shop": "Woolworths",
+    "category_id": "22818",
+    "weight": "440G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "143",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

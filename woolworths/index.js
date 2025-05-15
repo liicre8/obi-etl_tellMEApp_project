@@ -347,12 +347,31 @@ const scrapeURL = async (page, request, myloc) => {
 
     // Extract values
     const price = parseFloat(product.InstorePrice || product.Price);
-    // const priceOnly = price.replace("$", "");
     const price2 = parseFloat(product.CupPrice || product.InstoreCupPrice);
     const priceInCents = parseFloat(price) * 100;
     const priceInCentsPerUnits = parseFloat(price2) * 100;
-    // Remove numbers and keep only letters
-    const unit = inputString.replace(/[0-9]/g, "");
+    
+    // Fix for the price_unit format
+    // First extract the unit (letters only) from inputString
+    let unit = inputString.replace(/[0-9]/g, "");
+    
+    // If the unit is "EA" (or any other unit), prepend "1" to it
+    if (unit === "EA" || unit === "ea") {
+      unit = "1" + unit;
+    }
+    
+    // For other units that might need numeric prefix, check if there are numbers in the inputString
+    // and if there are, extract the number and add it to the unit
+    if (unit && unit !== "1EA" && unit !== "1ea") {
+      const numMatch = inputString.match(/\d+/);
+      if (numMatch) {
+        unit = numMatch[0] + unit;
+      } else {
+        // If no numeric value found but we need one, add "1" as default
+        unit = "1" + unit;
+      }
+    }
+    
     return {
       name: product.DisplayName,
       discounted_from: product.WasPrice,
@@ -371,6 +390,7 @@ const scrapeURL = async (page, request, myloc) => {
       prices: getPrices(location, priceInCents, priceInCentsPerUnits, unit),
     };
   });
+  
   if (products.length > 0) {
     for (const data of products) {
       const q = await Product.findOne({ retailer_product_id: data.retailer_product_id });
@@ -384,7 +404,7 @@ const scrapeURL = async (page, request, myloc) => {
 
         // Compare and update prices
         for (let i = 0; i < updatedPrices.length; i++) {
-          if (data.prices > 0 && updatedPrices > 0) {
+          if (data.prices.length > 0 && updatedPrices.length > 0) {
             if (updatedPrices[i].state.toLowerCase() === data.prices[0].state.toLowerCase()) {
               // Compare location
               updatedPrices[i].price = data.prices[0].price;
@@ -397,7 +417,7 @@ const scrapeURL = async (page, request, myloc) => {
         }
 
         // If no match, push the new price data
-        if (!priceUpdated) {
+        if (!priceUpdated && data.prices.length > 0) {
           updatedPrices.push(data.prices[0]);
         }
         await Product.findByIdAndUpdate(q._id, { $set: { prices: updatedPrices } }, { new: true });

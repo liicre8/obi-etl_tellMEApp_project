@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/buzz-disposable-fly-trap-1-each-2765600",
+    "name": "Buzz Disposable Fly Trap | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2765600.jpg&w=640&q=90",
+    "source_id": "2765600",
+    "barcode": "9310522710877",
+    "shop": "coles",
+    "category_id": "22526",
+    "weight": "1each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/642426/buzz-disposable-fly-trap",
+    "name": "Buzz Disposable Fly Trap Each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/642426.jpg",
+    "source_id": "642426",
+    "barcode": "9310522710877",
+    "shop": "Woolworths",
+    "category_id": "22526",
+    "weight": "Each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "1100",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hovex-camphor-2-each-5569062",
+    "name": "Hovex Camphor | 2 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5569062.jpg&w=640&q=90",
+    "source_id": "5569062",
+    "barcode": "9300764010682",
+    "shop": "coles",
+    "category_id": "22526",
+    "weight": "2each",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/48278/hovex-insect-control-camphor",
+    "name": "Hovex Insect Control Camphor 18g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/048278.jpg",
+    "source_id": "48278",
+    "barcode": "9300764010682",
+    "shop": "Woolworths",
+    "category_id": "22526",
+    "weight": "18G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "150",
+        "price_unit": "1EA"
+      }
+    ]
+  }
+]

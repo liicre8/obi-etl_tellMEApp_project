@@ -1,0 +1,22 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/250225/interworld-bucket",
+    "name": "Interworld Bucket 9.6l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/250225.jpg",
+    "source_id": "250225",
+    "barcode": "9415829001007",
+    "category_id": "22459",
+    "subcategory_id": "22475",
+    "subsubcategory_id": "22485",
+    "shop": "Woolworths",
+    "weight": "9.6L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  }
+]

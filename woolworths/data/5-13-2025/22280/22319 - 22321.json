@@ -1,0 +1,322 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/386263/buonissimo-meat-lovers-pizza",
+    "name": "Buonissimo Meat Lovers Pizza 460g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/386263.jpg",
+    "source_id": "386263",
+    "barcode": "9353348000180",
+    "category_id": "22280",
+    "subcategory_id": "22319",
+    "subsubcategory_id": "22321",
+    "shop": "Woolworths",
+    "weight": "460g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "185",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/385211/buonissimo-pepperoni-pizza",
+    "name": "Buonissimo Pepperoni Pizza 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/385211.jpg",
+    "source_id": "385211",
+    "barcode": "9353348000173",
+    "category_id": "22280",
+    "subcategory_id": "22319",
+    "subsubcategory_id": "22321",
+    "shop": "Woolworths",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "189",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/155237/della-rosa-low-carb-high-protein-pizza-base",
+    "name": "Della Rosa Low Carb High Protein Pizza Base 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/155237.jpg",
+    "source_id": "155237",
+    "barcode": "9344378002732",
+    "category_id": "22280",
+    "subcategory_id": "22319",
+    "subsubcategory_id": "22321",
+    "shop": "Woolworths",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "180",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/663660/dr-oetker-ristorante-mozzarella-pizza-gluten-free",
+    "name": "Dr. Oetker Ristorante Mozzarella Pizza Gluten Free 370g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/663660.jpg",
+    "source_id": "663660",
+    "barcode": "4001724025603",
+    "category_id": "22280",
+    "subcategory_id": "22319",
+    "subsubcategory_id": "22321",
+    "shop": "Woolworths",
+    "weight": "370g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "270",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/296606/dr-oetker-ristorante-pizza-mozzarella",
+    "name": "Dr. Oetker Ristorante Pizza Mozzarella 355g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/296606.jpg",
+    "source_id": "296606",
+    "barcode": "4001724041023",
+    "category_id": "22280",
+    "subcategory_id": "22319",
+    "subsubcategory_id": "22321",
+    "shop": "Woolworths",
+    "weight": "355g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "254",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/705420/dr-oetker-ristorante-pizza-pepperoni",
+    "name": "Dr. Oetker Ristorante Pizza Pepperoni 310g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/705420.jpg",
+    "source_id": "705420",
+    "barcode": "9344988000074",
+    "category_id": "22280",
+    "subcategory_id": "22319",
+    "subsubcategory_id": "22321",
+    "shop": "Woolworths",
+    "weight": "310G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "290",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/728499/dr-oetker-ristorante-pizza-spinaci",
+    "name": "Dr. Oetker Ristorante Pizza Spinaci 390g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/728499.jpg",
+    "source_id": "728499",
+    "barcode": "4001724819400",
+    "category_id": "22280",
+    "subcategory_id": "22319",
+    "subsubcategory_id": "22321",
+    "shop": "Woolworths",
+    "weight": "390G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "231",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/205712/fropro-protein-pizza-peri-peri-chicken",
+    "name": "Fropro Protein Pizza Peri Peri Chicken 325g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/205712.jpg",
+    "source_id": "205712",
+    "barcode": "9350539099022",
+    "category_id": "22280",
+    "subcategory_id": "22319",
+    "subsubcategory_id": "22321",
+    "shop": "Woolworths",
+    "weight": "325g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1295",
+        "price_per_unit": "398",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/56919/la-gina-woodfired-pumpkin-mozzarella-feta-italian-pizza",
+    "name": "La Gina Woodfired Pumpkin Mozzarella & Feta Italian Pizza 405g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/056919.jpg",
+    "source_id": "56919",
+    "barcode": "9339687106264",
+    "category_id": "22280",
+    "subcategory_id": "22319",
+    "subsubcategory_id": "22321",
+    "shop": "Woolworths",
+    "weight": "405G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "185",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/918272/mccain-margherita-pizza-slices",
+    "name": "McCain Margherita Pizza Slices 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/918272.jpg",
+    "source_id": "918272",
+    "barcode": "9310174120895",
+    "category_id": "22280",
+    "subcategory_id": "22319",
+    "subsubcategory_id": "22321",
+    "shop": "Woolworths",
+    "weight": "2 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "167",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/173140/mccain-pizza-margherita",
+    "name": "McCain Pizza Margherita 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/173140.jpg",
+    "source_id": "173140",
+    "barcode": "9310174024308",
+    "category_id": "22280",
+    "subcategory_id": "22319",
+    "subsubcategory_id": "22321",
+    "shop": "Woolworths",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "170",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/139610/mccain-pizza-pocket-snacks-cheese-bacon",
+    "name": "McCain Pizza Pocket Snacks Cheese & Bacon 4 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/139610.jpg",
+    "source_id": "139610",
+    "barcode": "9310174024407",
+    "category_id": "22280",
+    "subcategory_id": "22319",
+    "subsubcategory_id": "22321",
+    "shop": "Woolworths",
+    "weight": "4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "213",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/112352/mccain-pizza-slice-snacks-cheese-bacon",
+    "name": "McCain Pizza Slice Snacks Cheese & Bacon 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/112352.jpg",
+    "source_id": "112352",
+    "barcode": "9310174024827",
+    "category_id": "22280",
+    "subcategory_id": "22319",
+    "subsubcategory_id": "22321",
+    "shop": "Woolworths",
+    "weight": "2 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "150",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/3496/mccain-pizza-slice-snacks-ham-pineapple",
+    "name": "McCain Pizza Slice Snacks Ham & Pineapple 2 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/003496.jpg",
+    "source_id": "3496",
+    "barcode": "9310174002719",
+    "category_id": "22280",
+    "subcategory_id": "22319",
+    "subsubcategory_id": "22321",
+    "shop": "Woolworths",
+    "weight": "2 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "150",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/315505/mccain-rustica-thin-crispy-australian-angus-beef-pizza",
+    "name": "McCain Rustica Thin & Crispy Australian Angus Beef Pizza 370g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/315505.jpg",
+    "source_id": "315505",
+    "barcode": "9310174113880",
+    "category_id": "22280",
+    "subcategory_id": "22319",
+    "subsubcategory_id": "22321",
+    "shop": "Woolworths",
+    "weight": "370g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": "238",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/314045/mccain-rustica-thin-crispy-salami-four-cheese-pizza",
+    "name": "McCain Rustica Thin & Crispy Salami & Four Cheese Pizza 335g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/314045.jpg",
+    "source_id": "314045",
+    "barcode": "9310174113552",
+    "category_id": "22280",
+    "subcategory_id": "22319",
+    "subsubcategory_id": "22321",
+    "shop": "Woolworths",
+    "weight": "335g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": "263",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

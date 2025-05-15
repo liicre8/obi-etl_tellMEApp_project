@@ -1,0 +1,146 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/latina-fresh-egg-fettuccine-pasta-375g-5051790",
+    "name": "Latina Fresh Egg Fettuccine Pasta | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5051790.jpg&w=640&q=90",
+    "source_id": "5051790",
+    "barcode": "93231213",
+    "shop": "coles",
+    "category_id": "22873",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "160",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/22081/latina-fresh-egg-fettuccine-pasta",
+    "name": "Latina Fresh Egg Fettuccine Pasta 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/022081.jpg",
+    "source_id": "22081",
+    "barcode": "93231213",
+    "shop": "Woolworths",
+    "category_id": "22873",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "144",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/latina-fresh-gluten-free-lasagne-sheets-280g-3758676",
+    "name": "Latina Fresh Gluten Free Lasagne Sheets | 280g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3758676.jpg&w=640&q=90",
+    "source_id": "3758676",
+    "barcode": "9312353007478",
+    "shop": "coles",
+    "category_id": "22873",
+    "weight": "280g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "875",
+        "price_per_unit": "313",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/83431/latina-fresh-gluten-free-lasagne-sheets",
+    "name": "Latina Fresh Gluten Free Lasagne Sheets 280g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/083431.jpg",
+    "source_id": "83431",
+    "barcode": "9312353007478",
+    "shop": "Woolworths",
+    "category_id": "22873",
+    "weight": "280g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "268",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/latina-gluten-free-tagliatelle-280g-5153202",
+    "name": "Latina Gluten Free Tagliatelle | 280g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5153202.jpg&w=640&q=90",
+    "source_id": "5153202",
+    "barcode": "9312353007645",
+    "shop": "coles",
+    "category_id": "22873",
+    "weight": "280g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "875",
+        "price_per_unit": "313",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/214982/latina-fresh-gluten-free-tagliatelle-pasta",
+    "name": "Latina Fresh Gluten Free Tagliatelle Pasta 280g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/214982.jpg",
+    "source_id": "214982",
+    "barcode": "9312353007645",
+    "shop": "Woolworths",
+    "category_id": "22873",
+    "weight": "280g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "268",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/latina-fresh-lasagne-sheets-8-pack-375g-5165427",
+    "name": "Latina Fresh Lasagne Sheets 8 Pack | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5165427.jpg&w=640&q=90",
+    "source_id": "5165427",
+    "barcode": "9312353000035",
+    "shop": "coles",
+    "category_id": "22873",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "160",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/5033/latina-fresh-lasagne-sheets-sheets",
+    "name": "Latina Fresh Lasagne Sheets Sheets 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/005033.jpg",
+    "source_id": "5033",
+    "barcode": "9312353000035",
+    "shop": "Woolworths",
+    "category_id": "22873",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "540",
+        "price_per_unit": "144",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/285969/bippi-chilli-olive-tapenade",
+    "name": "Bippi Chilli Olive Tapenade 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/285969.jpg",
+    "source_id": "285969",
+    "barcode": "9369998207879",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22850",
+    "shop": "Woolworths",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "520",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/305008/ritter-sport-dark-whole-hazelnuts-whole-hazelnut",
+    "name": "Ritter Sport Dark Whole Hazelnuts Whole Hazelnut 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/305008.jpg",
+    "source_id": "305008",
+    "barcode": "4000417224002",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22850",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "620",
+        "price_per_unit": "620",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/305007/ritter-sport-sport-chocolate-milk-whole-hazelnut",
+    "name": "Ritter Sport Sport Chocolate Milk Whole Hazelnut 100G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/305007.jpg",
+    "source_id": "305007",
+    "barcode": "4000417019004",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22850",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "620",
+        "price_per_unit": "620",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/175291/nestle-polo-mints",
+    "name": "Nestle Polo Mints 34g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/175291.jpg",
+    "source_id": "175291",
+    "barcode": "50189779",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22850",
+    "shop": "Woolworths",
+    "weight": "34g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "240",
+        "price_per_unit": "706",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/172449/rowntree-s-fruit-pastilles",
+    "name": "Rowntree's Fruit Pastilles 143g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/172449.jpg",
+    "source_id": "172449",
+    "barcode": "7613287228338",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22850",
+    "shop": "Woolworths",
+    "weight": "143g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "308",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/58511/storz-nougat-praline",
+    "name": "Storz Nougat Praline 75g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/058511.jpg",
+    "source_id": "58511",
+    "barcode": "4003006004849",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22850",
+    "shop": "Woolworths",
+    "weight": "75G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "560",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/208720/the-dutch-company-confectionary-coin-licorice",
+    "name": "The Dutch Company Confectionary Coin Licorice 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/208720.jpg",
+    "source_id": "208720",
+    "barcode": "9311589000260",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22850",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "410",
+        "price_per_unit": "410",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]
