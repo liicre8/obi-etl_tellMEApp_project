@@ -1,14 +1,16 @@
 node_modules
 # brightdata_proxy_ca
-# matched
+matched
 # similar
 # notMatched
 # unMatched
+UnMatchedAll
+UMforUpload
 
-# coles/data
-# woolworths/data
+coles/data
+woolworths/data
 
-# .env
+.env
 
 # todo.md
 

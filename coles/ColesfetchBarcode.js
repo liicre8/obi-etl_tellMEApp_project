@@ -1,16 +1,26 @@
 import axios from 'axios';
+import fs from 'fs';
 import Product from './models/products.js';
 import dbConnect from './db/dbConnect.js';
 import dotenv from 'dotenv';
 
 dotenv.config();
 
+const BARCODE_BACKUP_PATH = './colesGeneralBarcodeLookup.json';
+
 const axiosInstance = axios.create({
   timeout: 60000,
 });
 
-function delay(time) {
-  return new Promise((resolve) => setTimeout(resolve, time));
+// Load existing barcode backup if available
+let localBarcodeCache = {};
+if (fs.existsSync(BARCODE_BACKUP_PATH)) {
+  try {
+    localBarcodeCache = JSON.parse(fs.readFileSync(BARCODE_BACKUP_PATH, 'utf-8'));
+    console.log(`📁 Loaded ${Object.keys(localBarcodeCache).length} barcodes from colesGeneralBarcodeLookup.json`);
+  } catch (err) {
+    console.error('❌ Failed to parse colesGeneralBarcodeLookup.json:', err.message);
+  }
 }
 
 const getBarcodesFromAPI = async () => {
@@ -30,30 +40,60 @@ const getBarcodesFromAPI = async () => {
     let successCount = 0;
     let failCount = 0;
     let i = 1;
+    let updatedBackup = false;
 
     await Promise.allSettled(
       products.map(async (product) => {
-        try {
-          const { data } = await axiosInstance.get(
-            `https://barcodes.groceryscraper.mc.hzuccon.com/barcode?product=${product.coles_product_id}`
-          );
+        const productId = product.coles_product_id;
+        const localBarcode = localBarcodeCache[productId];
 
-          if (data) {
-            product.barcode = data;
-            await product.save();
-            console.log(`✅ ${i}: Barcode saved for ${product.name} (${product.coles_product_id}) -> ${data}`);
-            successCount++;
+        try {
+          let barcode;
+
+          if (localBarcode) {
+            // Use cached barcode
+            barcode = localBarcode;
+            console.log(`💾 ${i}: Used cached barcode for ${productId} -> ${barcode}`);
           } else {
-            console.log(`⚠️ ${i}: No barcode returned for ${product.coles_product_id}`);
-            failCount++;
+            // Fetch from API
+            const { data } = await axiosInstance.get(
+              `https://barcodes.groceryscraper.mc.hzuccon.com/barcode?product=${productId}`
+            );
+
+            if (!data) {
+              console.log(`⚠️ ${i}: No barcode returned for ${productId}`);
+              failCount++;
+              i++;
+              return;
+            }
+
+            barcode = data;
+            localBarcodeCache[productId] = barcode;
+            updatedBackup = true;
+            console.log(`🌐 ${i}: API barcode for ${productId} -> ${barcode}`);
           }
-        } catch (error) {
-          console.log(`❌ ${i}: Failed to fetch barcode for ${product.coles_product_id}`);
+
+          product.barcode = barcode;
+          await product.save();
+          successCount++;
+        } catch (err) {
+          console.log(`❌ ${i}: Failed to get/save barcode for ${productId} - ${err.message}`);
           failCount++;
         }
+
         i++;
       })
     );
+
+    // Write back updated barcode cache if new ones were added
+    if (updatedBackup) {
+      fs.writeFileSync(
+        BARCODE_BACKUP_PATH,
+        JSON.stringify(localBarcodeCache, null, 2),
+        'utf-8'
+      );
+      console.log(`💾 Backup updated: ${BARCODE_BACKUP_PATH}`);
+    }
 
     console.log('\n🎉 All done!');
     console.log('✅ Barcodes updated:', successCount);
@@ -66,6 +106,76 @@ const getBarcodesFromAPI = async () => {
 (async () => {
   await getBarcodesFromAPI();
 })();
+
+
+// import axios from 'axios';
+// import Product from './models/products.js';
+// import dbConnect from './db/dbConnect.js';
+// import dotenv from 'dotenv';
+
+// dotenv.config();
+
+// const axiosInstance = axios.create({
+//   timeout: 60000,
+// });
+
+// function delay(time) {
+//   return new Promise((resolve) => setTimeout(resolve, time));
+// }
+
+// const getBarcodesFromAPI = async () => {
+//   try {
+//     await dbConnect();
+
+//     const products = await Product.find({
+//       $or: [
+//         { barcode: null },
+//         { barcode: { $exists: false } },
+//         { barcode: '' },
+//       ],
+//     });
+
+//     console.log('🧮 Total products missing barcode:', products.length);
+
+//     let successCount = 0;
+//     let failCount = 0;
+//     let i = 1;
+
+//     await Promise.allSettled(
+//       products.map(async (product) => {
+//         try {
+//           const { data } = await axiosInstance.get(
+//             `https://barcodes.groceryscraper.mc.hzuccon.com/barcode?product=${product.coles_product_id}`
+//           );
+
+//           if (data) {
+//             product.barcode = data;
+//             await product.save();
+//             console.log(`✅ ${i}: Barcode saved for ${product.name} (${product.coles_product_id}) -> ${data}`);
+//             successCount++;
+//           } else {
+//             console.log(`⚠️ ${i}: No barcode returned for ${product.coles_product_id}`);
+//             failCount++;
+//           }
+//         } catch (error) {
+//           console.log(`❌ ${i}: Failed to fetch barcode for ${product.coles_product_id}`);
+//           failCount++;
+//         }
+//         i++;
+//       })
+//     );
+
+//     console.log('\n🎉 All done!');
+//     console.log('✅ Barcodes updated:', successCount);
+//     console.log('❌ Failed updates:', failCount);
+//   } catch (err) {
+//     console.error('Global error:', err.message);
+//   }
+// };
+
+// (async () => {
+//   await getBarcodesFromAPI();
+// })();
 
 
 // import axios from 'axios';
