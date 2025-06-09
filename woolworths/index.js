@@ -40,7 +40,8 @@ const userAgents = [
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
 ];
 
-const mylocation = ["nsw", "vic", "qld", "wa", "sa", "tas", "act", "nt"];
+// const mylocation = ["nsw", "vic", "qld", "wa", "sa", "tas", "act", "nt"];
+const mylocation = ["nsw"];
 
 const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
   const prices = [];
@@ -118,29 +119,26 @@ let pageReset = 0;
 let booool = false;
 const WOOLWORTHS_API_ENDPOINT = "https://www.woolworths.com.au/apis/ui/browse/category";
 const CATEGORIES = [
-  // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' },
-  // { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' },
-  // { id: '1_6E4F4E4', name: 'Dairy, Eggs & Fridge', url: '/shop/browse/dairy-eggs-fridge', location: '/shop/browse/dairy-eggs-fridge' },
-  // { id: '1_3151F6F', name: 'Deli & Chilled Meats', url: '/shop/browse/deli-chilled-meals', location: '/shop/browse/deli-chilled-meals' },
-  // { id: '1_5AF3A0A', name: 'Drinks', url: '/shop/browse/drinks', location: '/shop/browse/drinks' },
-  // { id: '1_ACA2FC2', name: 'Freezer', url: '/shop/browse/freezer', location: '/shop/browse/freezer' },
+  //[1]//{ id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' },
+  // { id: '1-5931EE89', name: 'Fruit', url: '/shop/browse/fruit-veg/fruit', location: '/shop/browse/fruit-veg/fruit' },
+  // { id: '1_AC17EDD', name: 'Vegetables', url: '/shop/browse/fruit-veg/fruit', location: '/shop/browse/fruit-veg/vegetables' },
+  // { id: '1_2684504', name: 'Salad', url: '/shop/browse/fruit-veg/salad', location: '/shop/browse/fruit-veg/salad' },
+  // { id: '1_4875273', name: 'Prepared Vegetables', url: '/shop/browse/fruit-veg/prepared-vegetables', location: '/shop/browse/fruit-veg/prepared-vegetables' },
+  // { id: '1_1F3EBCB', name: 'Organic', url: '/shop/browse/fruit-veg/organic', location: '/shop/browse/fruit-veg/organic' },
+  // { id: '1_8929F1D', name: 'Fresh Herbs, Garlic & Chillies', url: '/shop/browse/fruit-veg/fresh-herbs-garlic-chillies', location: '/shop/browse/fruit-veg/fresh-herbs-garlic-chillies' },
+  // { id: '1_94DB57C', name: 'Snacking', url: '/shop/browse/fruit-veg/snacking', location: '/shop/browse/fruit-veg/snacking' },
 
-  { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' },
-  // { id: '1_8D61DD6', name: 'Beauty', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' },
-  // { id: '1_894D0A8', name: 'Personal Care', url: '/shop/browse/personal-care', location: '/shop/browse/personal-care' },
-  // { id: '1_9851658', name: 'Health & Wellness', url: '/shop/browse/health-wellness', location: '/shop/browse/health-wellness' },
-  { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
-  // { id: '1_2432B58', name: 'Household', url: '/shop/browse/cleaning-maintenance', location: '/shop/browse/cleaning-maintenance' },
-
-  //{ id: '1_39FD49C', name: 'Pantry', url: '/shop/browse/pantry', location: '/shop/browse/pantry' },
-  // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' },
-  // { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' },
-  // { id: '1_717445A', name: 'Snacks & Confectionery', url: '/shop/browse/snacks-confectionery', location: '/shop/browse/snacks-confectionery' },
-  // { id: '1_9E92C35', name: 'Back to School', url: '/shop/browse/back-to-school', location: '/shop/browse/back-to-school' },
-  // { id: '1_8E4DA6F', name: 'Beer, Wine & Spirits', url: '/shop/browse/beer-wine-spirits', location: '/shop/browse/beer-wine-spirits' },
+  //[1]//{ id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
+  // { id: '1_2B67965', name: 'Poultry', url: '/shop/browse/poultry-meat-seafood/poultry', location: '/shop/browse/poultry-meat-seafood/poultry' },
+  // { id: '1_CED9B86', name: 'Meat', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
+  // { id: '1_D610306', name: 'Seafood', url: '/shop/browse/poultry-meat-seafood/seafood', location: '/shop/browse/poultry-meat-seafood/seafood' },
+  { id: '1_3643AAB', name: 'Mince', url: '/shop/browse/poultry-meat-seafood/mince', location: '/shop/browse/poultry-meat-seafood/mince' },
+  { id: '1_F3CEF67', name: 'BBQ Meat', url: '/shop/browse/poultry-meat-seafood/bbq-meat', location: '/shop/browse/poultry-meat-seafood/bbq-meat' },
+  { id: '1_073D435', name: 'Organic Meat & Poultry', url: '/shop/browse/poultry-meat-seafood/organic-meat-poultry', location: '/shop/browse/poultry-meat-seafood/organic-meat-poultry' },
+ 
 ];
 const WOOLWORTHS_URL = "https://www.woolworths.com.au";
-const SPEED_LIMIT = 20;
+const SPEED_LIMIT = 30000;
 
 function delay(time) {
   return new Promise((resolve) => setTimeout(resolve, time));
@@ -353,7 +351,7 @@ const scrapeURL = async (page, request, myloc) => {
     
     // Fix for the price_unit format
     // First extract the unit (letters only) from inputString
-    let unit = inputString.replace(/[0-9]/g, "");
+    let  unit = inputString.trim().toUpperCase();
     
     // If the unit is "EA" (or any other unit), prepend "1" to it
     if (unit === "EA" || unit === "ea") {

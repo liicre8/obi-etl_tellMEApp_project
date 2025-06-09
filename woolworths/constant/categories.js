@@ -195,7 +195,7 @@ const categories = [
                     { extensionCategory: "Block Cheese", subId: "22090", childId: "22091" },
                     { extensionCategory: "Sliced Cheese", subId: "22090", childId: "22099" },
                     { extensionCategory: "Grated Cheese", subId: "22090", childId: "22096" },
-                    { extensionCategory: "Entertaining Cheese", subId: "22090", childId: "22094" },
+                    { extensionCategory: "Entertaining Cheese", catId: "24023", subId: "24025", childId: "24032" },
                     { extensionCategory: "Soft Cheese", subId: "22090", childId: "22101" },
                     { extensionCategory: "Snacking Cheese", subId: "22090", childId: "22100" },
                     { extensionCategory: "Cooking Cheese", subId: "22090", childId: "22093" },
@@ -225,6 +225,8 @@ const categories = [
                     { extensionCategory: "High Protein Yoghurt", subId: "22158", childId: "22161" },
                     { extensionCategory: "Plant Based Yoghurt", subId: "22158", childId: "22161" },
                     { extensionCategory: "Kefir", subId: "22158", childId: "22161" },
+
+                    // No Proper Schema
                     // { extensionCategory: "Lactose Free", subId: "22158", childId: "22161" },
                     // { extensionCategory: "Probiotic & Gut Health Yoghurt", subId: "22158", childId: "22161" },
                 ]
@@ -232,14 +234,9 @@ const categories = [
             {
                 subCategory: "Cream, Custard & Desserts",
                 childItems: [
-                    // For pantry
-                    // { extensionCategory: "Cream", catId: '22770', subId: "22821", childId: "22983" },
-                    // { extensionCategory: "Custard", catId: '22770', subId: "22821", childId: "22983" },
-                    // { extensionCategory: "Desserts", catId: '22770', subId: "22821", childId: "22983" },
-
+                    { extensionCategory: "Desserts", catId: '22770', subId: "22821", childId: "22983" },
                     { extensionCategory: "Cream", subId: "22102", childId: "22103" },
                     { extensionCategory: "Custard", subId: "22102", childId: "22105" },
-                    // { extensionCategory: "Desserts", subId: "", childId: "" },
                 ]
             },
             {
@@ -419,15 +416,9 @@ const categories = [
                     { extensionCategory: "Powdered Milk", subId: "22199", childId: "23840" },
                     { extensionCategory: "Oat & Rice Milk", subId: "22199", childId: "23843" },
                     { extensionCategory: "Lactose Free Milk", subId: "22199", childId: "23841" },
-                    { extensionCategory: "Long Life Milk", subId: "22199", childId: "22136" },
+                    { extensionCategory: "Long Life Milk", catId:"22089", subId: "22132", childId: "22136" },
                 ]
             },
-            // {
-            //     subCategory: "Home Brew",
-            //     childItems: [
-            //         { extensionCategory: "Home Brew", subId: "", childId: "" },
-            //     ]
-            // },
             {
                 subCategory: "Low & Non Alcoholic Drinks",
                 childItems: [
@@ -437,14 +428,20 @@ const categories = [
                     { extensionCategory: "Low & Non Alcoholic Home Brew", subId: "22213", childId: "22214" },
                 ]
             },
-            {
-                subCategory: "Hampers & Gifting",
-                childItems: [
-                    // { extensionCategory: "Liquor Hampers", subId: "", childId: "" },
-                    { extensionCategory: "No & Very Low Alcohol Hampers", subId: "22213", childId: "22214" },
-                    // { extensionCategory: "Drinks Gift Sets", subId: "", childId: "" },
-                ]
-            },
+            // {
+            //     subCategory: "Home Brew",
+            //     childItems: [
+            //         { extensionCategory: "Home Brew", subId: "", childId: "" },
+            //     ]
+            // },
+            // {
+            //     subCategory: "Hampers & Gifting",
+            //     childItems: [
+            //         // { extensionCategory: "Liquor Hampers", subId: "", childId: "" },
+            //         { extensionCategory: "No & Very Low Alcohol Hampers", subId: "22213", childId: "22214" },
+            //         // { extensionCategory: "Drinks Gift Sets", subId: "", childId: "" },
+            //     ]
+            // },
         ]
     },
 
@@ -463,12 +460,6 @@ const categories = [
                     { extensionCategory: "Plant Based Meals", subId: "22299", childId: "22304" },
                 ]
             },
-            // {
-            //     subCategory: "Frozen Gluten Free",
-            //     childItems: [
-            //         { extensionCategory: "Gluten Free", subId: "", childId: "" },
-            //     ]
-            // },
             {
                 subCategory: "Chips & Wedges",
                 childItems: [
@@ -549,6 +540,12 @@ const categories = [
                     { extensionCategory: "Pies & Sausage Rolls", subId: "22316", childId: "22318" },
                 ]
             },
+            // {
+            //     subCategory: "Frozen Gluten Free",
+            //     childItems: [
+            //         { extensionCategory: "Gluten Free", subId: "", childId: "" },
+            //     ]
+            // },
         ]
     },
 
@@ -667,7 +664,7 @@ const categories = [
                     { extensionCategory: "Gluten Free", catId: '22770', subId: "22832", childId: "22838" },
                     { extensionCategory: "Vegan", catId: '22770', subId: "24007", childId: "22840" },
                     { extensionCategory: "Dairy Free", catId: '22770', subId: "22832", childId: "22840" },
-                    { extensionCategory: "Breakfast & Spreads", catId: '22770', subId: "22785", childId: "22786" },
+
                     { extensionCategory: "Sweet & Savoury Snacks", catId: '22770', subId: "22889", childId: "22890" },
                     { extensionCategory: "Confectionery", catId: '22770', subId: "22889", childId: "22894" },
                     { extensionCategory: "Dried Fruit, Nuts & Seeds",  catId: '22770', subId: "22771", childId: "22776" },
@@ -697,10 +694,10 @@ const categories = [
             {
                 subCategory: "Diet & Sports Nutrition",
                 childItems: [
-                    { extensionCategory: "Sports Nutrition Powders", subId: "24007", childId: "" },
-                    // { extensionCategory: "Weight Management", subId: "24007", childId: "" },
-                    // { extensionCategory: "Ready To Drink", subId: "24007", childId: "" },
-                    // { extensionCategory: "Protein Bars & Snacks", subId: "24007", childId: "" },
+                    { extensionCategory: "Protein Bars & Snacks", catId:"22770", subId: "22832", childId: "22840" },
+                    { extensionCategory: "Ready To Drink", catId:"22770", subId: "22832", childId: "22840" },
+                    { extensionCategory: "Sports Nutrition Powders", subId: "24007", childId: "24007" },
+                    { extensionCategory: "Weight Management", subId: "24007", childId: "24007" },
                 ]
             },
             {
@@ -715,8 +712,11 @@ const categories = [
                     { extensionCategory: "Foot Care", subId: "22440", childId: "23893" },
                     { extensionCategory: "Cotton Wool & Cotton Buds", subId: "22414", childId: "22418" },
                     { extensionCategory: "Nicotine Replacement", subId: "22414", childId: "22422" },
+                    { extensionCategory: "Digestive Health", subId: "22414", childId: "23917" },
+                    
+                    // No Schema or Taxonomy
                     // { extensionCategory: "Test Kits & Face Masks", subId: "", childId: "" },
-                    // { extensionCategory: "Digestive Health", subId: "", childId: "" },
+                    
                     // { extensionCategory: "Eye, Ear & Mouth Care", subId: "", childId: "" },
                 ]
             },
@@ -746,9 +746,9 @@ const categories = [
                 subCategory: "Skincare & Body",
                 childItems: [
                     { extensionCategory: "Cleansers & Toners", subId: "23883", childId: "23887" },
-                    { extensionCategory: "Serums", subId: "23883", childId: "23889" },
+                    { extensionCategory: "Serums", subId: "23883", childId: "23888" },
                     { extensionCategory: "Face Moisturiser", subId: "23883", childId: "23886" },
-                    { extensionCategory: "Face Masks & Patches", subId: "23883", childId: "23886" },
+                    { extensionCategory: "Face Masks & Patches", subId: "23883", childId: "23888" },
                     { extensionCategory: "Lip Care", subId: "23883", childId: "23890" },
                     { extensionCategory: "Body Moisturiser", subId: "23883", childId: "23885" },
                     { extensionCategory: "Fragrance", subId: "23883", childId: "23885" },
@@ -798,25 +798,26 @@ const categories = [
         id: "22394",
         subCategories: [
             {
-                subCategory: "Shower, Bath & Body",
+                subCategory: "Womens Hair Removal",
                 childItems: [
-                    { extensionCategory: "Soap", catId:"22015", subId: '22016', childId: '23821' },
-                    { extensionCategory: "Body Wash", catId:"22015", subId: '22016', childId: '23821' },
-                    { extensionCategory: "Handwash & Hand Sanitisers", catId:"22015", subId: '22016', childId: '23821' },
-                    { extensionCategory: "Bubble Bath & Salts", catId:"22015", subId: '22016', childId: '23821' },
-                    { extensionCategory: "Shower & Bath Accessories", catId:"22015", subId: '22016', childId: '23821' },
-                    { extensionCategory: "Female Deodorants", catId:"22015", subId: '22016', childId: '23821' },
-                    { extensionCategory: "Female Body Sprays", catId:"22015", subId: '22016', childId: '23821' },
-                    { extensionCategory: "Cotton Wool & Cotton Buds", catId:"22015", subId: '22016', childId: '23821' },
-                    { extensionCategory: "Wipes & Tissues", catId:"22015", subId: '22016', childId: '23821' },
+                    { extensionCategory: "Women's Blades & Razors", subId: '23864', childId: '23898' },
+                    { extensionCategory: "Waxes & Creams", subId: '23864', childId: '23898' },
                 ]
             },
             {
-                subCategory: "Shampoo & Conditioner",
+                subCategory: "Shower, Bath & Body",
                 childItems: [
-                    { extensionCategory: "Shampoo & Conditioner", subId: "22423", childId: "23904" },
-                    { extensionCategory: "Anti Dandruff Shampoo", subId: "22423", childId: "23904" },
-                    { extensionCategory: "Kids Shampoo & Conditioner", subId: "22423", childId: "23904" },
+                    { extensionCategory: "Soap", subId: '23883', childId: '23887' },
+                    { extensionCategory: "Body Wash", subId: '23883', childId: '23887' },
+                    { extensionCategory: "Handwash & Hand Sanitisers", subId: '22440', childId: '23893' },
+                    { extensionCategory: "Bubble Bath & Salts", subId: '23883', childId: '23887' },
+                    { extensionCategory: "Female Deodorants", subId: '22440', childId: '23920' },
+                    { extensionCategory: "Female Body Sprays", subId: '22440', childId: '23920' },
+                    { extensionCategory: "Cotton Wool & Cotton Buds", subId: '22016', childId: '23821' },
+                    { extensionCategory: "Wipes & Tissues", subId: '22440', childId: '23896' },
+                    
+                    //// No Proper Schema
+                    //{ extensionCategory: "Shower & Bath Accessories", subId: '22016', childId: '23821' },
                 ]
             },
             {
@@ -830,12 +831,22 @@ const categories = [
                 ]
             },
             {
+                subCategory: "Hair Care",
+                childItems: [
+                    { extensionCategory: "Shampoo & Conditioner", subId: "22423", childId: "23904" },
+                    { extensionCategory: "Hair Treatments", subId: "22423", childId: "23904" },
+                    { extensionCategory: "Hair Colour", subId: "22423", childId: "23903" },
+                    { extensionCategory: "Styling Products", subId: "22423", childId: "23905" },
+                    { extensionCategory: "Hair Accessories & Brushes", subId: "22423", childId: "23906" },
+                ]
+            },
+            {
                 subCategory: "Men's Care",
                 childItems: [
                     { extensionCategory: "Men's Blades & Razors", subId: "23864", childId: "23898" },
                     { extensionCategory: "Men's Shave Gels & Foams", subId: "23864", childId: "23901" },
                     { extensionCategory: "Men's Aftershave", subId: "23864", childId: "23898" },
-                    { extensionCategory: "Men's Skin", subId: "23883", childId: "23885" },
+                    { extensionCategory: "Men's Skin", subId: "23883", childId: "23887" },
                     { extensionCategory: "Men's Body Sprays", subId: "23883", childId: "23885" },
                     { extensionCategory: "Men's Deodorants", subId: "22440", childId: "23921" },
                     { extensionCategory: "Men's Shower Gels", subId: "23864", childId: "23901" },
@@ -845,8 +856,8 @@ const categories = [
             {
                 subCategory: "Period & Continence Care",
                 childItems: [
-                    { extensionCategory: "Pads & Pants", subId: "22440", childId: "23922" },
-                    { extensionCategory: "Tampons", subId: "22440", childId: "23922" },
+                    { extensionCategory: "Pads & Pants", subId: "23908", childId: "23908" },
+                    { extensionCategory: "Tampons", subId: "23908", childId: "23908" },
                     { extensionCategory: "Liners", subId: "22440", childId: "23922" },
                     { extensionCategory: "Period Underwear & Reusables", subId: "22440", childId: "23922" },
                     { extensionCategory: "Maternity Pads", subId: "22440", childId: "23922" },
@@ -998,7 +1009,7 @@ const categories = [
                 subCategory: "Kitchenware & Storage",
                 childItems: [
                     { extensionCategory: "Lunch Boxes & Drink Bottles", subId: "22552", childId: "22560" },
-                    { extensionCategory: "Food Storage Containers", subId: "22552", childId: "22564" },
+                    { extensionCategory: "Food Storage Containers", subId: "22552", childId: "22560" },
                     { extensionCategory: "Kitchen Utensils", subId: "22552", childId: "23928" },
                     { extensionCategory: "Pots & Pans", subId: "22552", childId: "22553" },
                     { extensionCategory: "Bakeware & Oven Trays", subId: "22552", childId: "22553" },
@@ -1020,7 +1031,8 @@ const categories = [
                 subCategory: "Home Decor & Furniture",
                 childItems: [
                     { extensionCategory: "Candles & Home Fragrance", subId: "22579", childId: "22580" },
-            
+                    
+                    // No Schema or Taxonomy
                     // { extensionCategory: "Cushions & Covers", subId: "", childId: "" },
                     // { extensionCategory: "Blankets & Throws", subId: "", childId: "" },
                     // { extensionCategory: "Living Room Storage", subId: "", childId: "" },
@@ -1055,6 +1067,7 @@ const categories = [
                     { extensionCategory: "Boys & Girls Underwear", subId: "24061", childId: "24064" },
                     { extensionCategory: "Boys & Girls Socks", subId: "24061", childId: "24062" },
 
+                    // No Schema or Taxonomy
                     // { extensionCategory: "Footwear & Shoe Care", subId: "", childId: "" },
                     // { extensionCategory: "Umbrellas", subId: "", childId: "" },
                     // { extensionCategory: "Sewing", subId: "", childId: "" },
@@ -1106,7 +1119,7 @@ const categories = [
                     { extensionCategory: "Travel Accessories", catId: '22394', subId: "22414", childId: "23917" },
                 ]
             },
-                  // {
+            // {
             //     subCategory: "Kitchen Appliances",
             //     childItems: [
             //         { extensionCategory: "Blenders & Food Processors", subId: "", childId: "" },
@@ -1131,7 +1144,6 @@ const categories = [
             //         { extensionCategory: "Mattresses & Toppers", subId: "", childId: "" },
             //     ]
             // },
-
         ]
     },
 
@@ -1146,7 +1158,7 @@ const categories = [
                 subCategory: "Breakfast & Spreads",
                 childItems: [
                     { extensionCategory: "Breakfast Cereal", subId: "22785", childId: "22786" },
-                    { extensionCategory: "Muesli & Oats", subId: "22785", childId: "22791" },
+                    { extensionCategory: "Muesli & Oats", subId: "22785", childId: "22786" },
                     { extensionCategory: "Breakfast Snacks & Drinks", subId: "22785", childId: "22787" },
                     { extensionCategory: "Jam", subId: "22785", childId: "22790" },
                     { extensionCategory: "Honey", subId: "22785", childId: "22789" },
@@ -1166,7 +1178,7 @@ const categories = [
                     { extensionCategory: "Coffee Beans", subId: "22908", childId: "22910" },
                     { extensionCategory: "Ground Coffee", subId: "22908", childId: "22913" },
                     { extensionCategory: "Coffee Capsules", subId: "22908", childId: "22911" },
-                    // { extensionCategory: "Instant & Flavoured Coffee", subId: "", childId: "" },
+                    { extensionCategory: "Instant & Flavoured Coffee", catId: '22170', subId: "22175", childId: "22175" },
                 ]
             },
             {
@@ -1176,8 +1188,8 @@ const categories = [
                     { extensionCategory: "Soy Milk", catId:"22089", subId: "22132", childId: "22139" },
                     { extensionCategory: "Oat & Rice Milk", catId:"22089", subId: "22132", childId: "22139" },
                     { extensionCategory: "Long Life Milk", catId:"22089", subId: "22132", childId: "22136" },
-                    // { extensionCategory: "Condensed & Evaporated Milk", subId: "22132", childId: "" },
-                    // { extensionCategory: "Powdered Milk", subId: "22132", childId: "" },
+                    { extensionCategory: "Condensed & Evaporated Milk", catId: "22164", subId: "22199", childId: "22838" },
+                    { extensionCategory: "Powdered Milk", catId:'22164', subId: "22199", childId: "23840" },
                 ]
             },
             {
@@ -1223,7 +1235,7 @@ const categories = [
                 subCategory: "Canned Food & Instant Meals",
                 childItems: [
                     { extensionCategory: "Instant Meals & Sides", subId: "22796", childId: "22809" },
-                    { extensionCategory: "Instant Noodles", subId: "22796", childId: "22810" },
+                    { extensionCategory: "Instant Noodles", subId: "22796", childId: "22809" },
                     { extensionCategory: "Baked Beans & Spaghetti", subId: "22796", childId: "22797" },
                     { extensionCategory: "Canned Soup & Soup Ingredients", subId: "22796", childId: "22804" },
                     { extensionCategory: "Canned Tuna", subId: "22796", childId: "22806" },
@@ -1283,13 +1295,19 @@ const categories = [
                     { extensionCategory: "Ready to Freeze Ice Blocks", subId: "22821", childId: "22826" },
                 ]
             },
-            // {
-            //     subCategory: "Oil & Vinegar",
-            //     childItems: [
-            //         { extensionCategory: "Oil", subId: "22878", childId: "22879" },
-            //         { extensionCategory: "Vinegar", subId: "22878", childId: "22879" }
-            //     ]
-            // },
+            {
+                subCategory: "Oil & Vinegar",
+                childItems: [
+                    { extensionCategory: "Oil", subId: "22878", childId: "22879" },
+                    { extensionCategory: "Vinegar", subId: "22878", childId: "22879" }
+                ]
+            },
+            {
+                subCategory: "Muesli Bars & Snack Bars",
+                childItems: [
+                    { extensionCategory: "Muesli Bars & Snack Bars", subId: "22889", childId: "22902" }, 
+                ]
+            },
         ]
     },
     //////////////////////////////////////Snacks & Confectionery
@@ -1313,17 +1331,17 @@ const categories = [
                 childItems: [
                     { extensionCategory: "Biscuits & Cookies", subId: "22889", childId: "22890" },
                     { extensionCategory: "Crackers", subId: "22889", childId: "22898" },
-                    // { extensionCategory: "Rice Cakes & Crispbread", subId: "", childId: "" },
+                    { extensionCategory: "Rice Cakes & Crispbread", subId: "22889", childId: "22898" },
                 ]
             },
             {
                 subCategory: 'Snacks',
                 childItems: [
                     { extensionCategory: "Muesli Bars & Snack Bars", subId: "22889", childId: "22902" },
-                    { extensionCategory: "Nuts, Dried Fruit & Snack Pots", subId: "", childId: "" },
+                    { extensionCategory: "Nuts, Dried Fruit & Snack Pots", subId: "22785", childId: "22787" },
                     { extensionCategory: "Lunch Box Snacks", subId: "22889", childId: "22901" },
                     { extensionCategory: "Gluten Free Snacks", subId: "22889", childId: "22899" },
-                    // { extensionCategory: "Pretzels & Jerky", subId: "", childId: "" },
+                    { extensionCategory: "Pretzels & Jerky", subId: "22785", childId: "22787" },
                     // { extensionCategory: "Popcorn", subId: "", childId: "" },
                 ]
             },
@@ -1344,14 +1362,6 @@ const categories = [
                     { extensionCategory: "Corn Chips & Salsa", subId: "22889", childId: "22897" }
                 ]
             },
-            // {
-            //     subCategory: 'Easter Chocolates & Treats',
-            //     childItems: [
-            //         { extensionCategory: "Easter Bunnies", subId: "", childId: "" },
-            //         { extensionCategory: "Easter Eggs", subId: "", childId: "" },
-            //         { extensionCategory: "Easter Chocolate Gifting", subId: "", childId: "" },
-            //     ]
-            // }
         ]
     }, 
 

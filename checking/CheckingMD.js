@@ -5,8 +5,9 @@ const categories = require('../constant/categories');
 require('dotenv').config();
 
 // Config
-const yesterdayDate = '5-6-2025';
+const yesterdayDate = '6-6-2025';
 const todayDate = process.env.FOLDER_DATE;
+
 
 if (!todayDate) {
   console.error('❌ Error: FOLDER_DATE environment variable is not set.');

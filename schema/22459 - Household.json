@@ -1,0 +1,313 @@
+[
+    {
+    "name": "Household",
+    "id": "22459",
+    "children": [
+      {
+        "name": "Bathroom",
+        "id": "22462",
+        "children": [
+          {
+            "name": "Toilet Cleaners",
+            "id": "22466",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Cleaning Goods",
+        "id": "22475",
+        "children": [
+          {
+            "name": "Air Fresheners",
+            "id": "22476",
+            "children": []
+          },
+          {
+            "name": "Bathroom Cleaners",
+            "id": "22477",
+            "children": []
+          },
+          {
+            "name": "Disinfectant & Bleach",
+            "id": "22479",
+            "children": []
+          },
+          {
+            "name": "Drain Cleaners & Solvents",
+            "id": "22480",
+            "children": []
+          },
+          {
+            "name": "Fabric, Metal & Furniture Care",
+            "id": "22481",
+            "children": []
+          },
+          {
+            "name": "Floor/Carpet Cleaners",
+            "id": "22482",
+            "children": []
+          },
+          {
+            "name": "Gloves",
+            "id": "22483",
+            "children": []
+          },
+          {
+            "name": "Kitchen Cleaners",
+            "id": "22484",
+            "children": []
+          },
+          {
+            "name": "Mops, Buckets & Brooms",
+            "id": "22485",
+            "children": []
+          },
+          {
+            "name": "Mould & Moisture Treatments",
+            "id": "22486",
+            "children": []
+          },
+          {
+            "name": "Multipurpose Cleaners",
+            "id": "22487",
+            "children": []
+          },
+          {
+            "name": "Sponges, Cloths & Wipes",
+            "id": "22489",
+            "children": []
+          },
+          {
+            "name": "Window & Glass Cleaners",
+            "id": "22490",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Clothing Accessories",
+        "id": "24061",
+        "children": [
+          {
+            "name": "Hosiery",
+            "id": "24061",
+            "children": []
+          },
+          {
+            "name": "Socks",
+            "id": "24062",
+            "children": []
+          },
+          {
+            "name": "Underwear",
+            "id": "24064",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Garden & Outdoors",
+        "id": "22519",
+        "children": [
+          {
+            "name": "Automotive",
+            "id": "22520",
+            "children": []
+          },
+          {
+            "name": "Garden Decor & Accessories",
+            "id": "22523",
+            "children": []
+          },
+          {
+            "name": "Gloves, Tools & Watering",
+            "id": "22525",
+            "children": []
+          },
+          {
+            "name": "Insecticide & Weed Control",
+            "id": "22526",
+            "children": []
+          },
+          {
+            "name": "Lawn Care & Plant Food",
+            "id": "22527",
+            "children": []
+          },
+          {
+            "name": "Potting Mix & Fertilisers",
+            "id": "22528",
+            "children": []
+          },
+          {
+            "name": "Seeds & Plants",
+            "id": "22529",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Hardware",
+        "id": "22530",
+        "children": [
+          {
+            "name": "Adhesives, Glues & Tapes",
+            "id": "22531",
+            "children": []
+          },
+          {
+            "name": "Hooks & Fasteners",
+            "id": "22534",
+            "children": []
+          },
+          {
+            "name": "Tools & Accessories",
+            "id": "22536",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Homewares",
+        "id": "22537",
+        "children": [
+          {
+            "name": "Water Filtration",
+            "id": "23979",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kitchen",
+        "id": "22552",
+        "children": [
+          {
+            "name": "Cling Wrap, Foil & Baking Paper",
+            "id": "22553",
+            "children": []
+          },
+          {
+            "name": "Dishwashing",
+            "id": "22555",
+            "children": []
+          },
+          {
+            "name": "Garbage Bags",
+            "id": "22557",
+            "children": []
+          },
+          {
+            "name": "Gloves",
+            "id": "23928",
+            "children": []
+          },
+          {
+            "name": "Lunch Boxes & Drink Bottles",
+            "id": "22560",
+            "children": []
+          },
+          {
+            "name": "Sandwich & Freezer Bags",
+            "id": "22564",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Laundry",
+        "id": "22566",
+        "children": [
+          {
+            "name": "Fabric Softener",
+            "id": "22567",
+            "children": []
+          },
+          {
+            "name": "Ironing & Accessories",
+            "id": "22568",
+            "children": []
+          },
+          {
+            "name": "Laundry Liquid",
+            "id": "22569",
+            "children": []
+          },
+          {
+            "name": "Laundry Powder",
+            "id": "22570",
+            "children": []
+          },
+          {
+            "name": "Pegs, Baskets & Hangers",
+            "id": "22572",
+            "children": []
+          },
+          {
+            "name": "Stain Removal",
+            "id": "22573",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Parties & Entertaining",
+        "id": "22579",
+        "children": [
+          {
+            "name": "Candles",
+            "id": "22580",
+            "children": []
+          },
+          {
+            "name": "Decorations",
+            "id": "22581",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Pest Control",
+        "id": "22586",
+        "children": [
+          {
+            "name": "Crawling Insects",
+            "id": "22587",
+            "children": []
+          },
+          {
+            "name": "Flying Insects",
+            "id": "22588",
+            "children": []
+          },
+          {
+            "name": "Garden Pests",
+            "id": "22589",
+            "children": []
+          },
+          {
+            "name": "Insect Repellent",
+            "id": "22590",
+            "children": []
+          },
+          {
+            "name": "Mosquitoes",
+            "id": "22591",
+            "children": []
+          },
+          {
+            "name": "Rodents",
+            "id": "22593",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Stationery & Media",
+        "id": "22594",
+        "children": []
+      }
+    ]
+  }
+]
