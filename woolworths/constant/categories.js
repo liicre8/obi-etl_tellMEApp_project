@@ -77,7 +77,48 @@ const categories = [
                     { extensionCategory: "Monitors", subId: "22016", childId: "23822" },
                 ]
             },
+            {
+                subCategory: "Pregnancy Care & Family Planning",
+                childItems: [
+                    { extensionCategory: "Pregnancy Tests", catId:"22394", subId: "22440", childId: "23895" },
+                    { extensionCategory: "Vitamins", catId:"22394", subId: "22450", childId: "23916" },
+                    // { extensionCategory: "After Pregnancy Care", subId: "24060", childId: "" },
+                ]
+            },
+            
+            // No Barcodes
             // {
+            //     subCategory: "Baby Furniture",
+            //     childItems: [
+            //         { extensionCategory: "High Chairs", subId: "", childId: "" },
+            //         { extensionCategory: "Cots & Bassinets", subId: "", childId: "" },
+            //         { extensionCategory: "Mattresses", subId: "", childId: "" },
+            //     ]
+            // },
+            // {
+            //     subCategory: "Toys & Playtime",
+            //     childItems: [
+            //         { extensionCategory: "Interactive Toys", subId: "22016", childId: "23823" },
+            //         { extensionCategory: "Play Mats & Activity Gyms", subId: "22016", childId: "23823" },
+            //         { extensionCategory: "Activity Centres & Walkers", subId: "22016", childId: "23823" },
+            //         { extensionCategory: "Playpens & Playsets", subId: "22016", childId: "23823" },
+            //         { extensionCategory: "Rockers & Bouncers", subId: "22016", childId: "23823" },
+            //         { extensionCategory: "Books", subId: "22016", childId: "23823" },
+            //         { extensionCategory: "Soft Plush Toys", subId: "22016", childId: "23823" },
+            //         { extensionCategory: "Education & Learning", subId: "22016", childId: "23823" },
+            //         { extensionCategory: "Trikes, Cars & Rockers", subId: "22016", childId: "23823" },
+            //     ]
+            // },
+            // {
+            //     subCategory: "Baby Travel & Accessories",
+            //     childItems: [
+            //         { extensionCategory: "Carriers", subId: "22016", childId: "23822" },
+            //         { extensionCategory: "Car Seats", subId: "22016", childId: "23822" },
+            //         { extensionCategory: "Prams", subId: "22016", childId: "23822" },
+            //         { extensionCategory: "Strollers", subId: "22016", childId: "23822" },
+            //     ]
+            // },
+                // {
             //     subCategory: "Nursery & Sleeping",
             //     childItems: [
             //         { extensionCategory: "Manchester & Bedding", subId: "", childId: "" },
@@ -89,53 +130,14 @@ const categories = [
             //         { extensionCategory: "Sleeping Bags", subId: "", childId: "" },
             //     ]
             // },
-            {
-                subCategory: "Baby & Toddler Clothing",
-                childItems: [
-                    { extensionCategory: "Newborn", subId: "22016", childId: "22018" },
-                    { extensionCategory: "Specialty", subId: "22016", childId: "22018" },
-                    { extensionCategory: "Toddler", subId: "22016", childId: "22018" },
-                ]
-            },
-            {
-                subCategory: "Pregnancy Care & Family Planning",
-                childItems: [
-                    { extensionCategory: "Pregnancy Tests", catId:"22394", subId: "22440", childId: "23895" },
-                    { extensionCategory: "Vitamins", catId:"22394", subId: "22450", childId: "23916" },
-                    // { extensionCategory: "After Pregnancy Care", subId: "24060", childId: "" },
-                ]
-            },
             // {
-            //     subCategory: "Baby Furniture",
+            //     subCategory: "Baby & Toddler Clothing",
             //     childItems: [
-            //         { extensionCategory: "High Chairs", subId: "", childId: "" },
-            //         { extensionCategory: "Cots & Bassinets", subId: "", childId: "" },
-            //         { extensionCategory: "Mattresses", subId: "", childId: "" },
+            //         { extensionCategory: "Newborn", subId: "22016", childId: "22018" },
+            //         { extensionCategory: "Accessories", subId: "22016", childId: "22018" },
+            //         { extensionCategory: "Toddler", subId: "22016", childId: "22018" },
             //     ]
             // },
-            {
-                subCategory: "Toys & Playtime",
-                childItems: [
-                    { extensionCategory: "Books", subId: "22016", childId: "23823" },
-                    { extensionCategory: "Soft Plush Toys", subId: "22016", childId: "23823" },
-                    { extensionCategory: "Education & Learning", subId: "22016", childId: "23823" },
-                    { extensionCategory: "Interactive Toys", subId: "22016", childId: "23823" },
-                    { extensionCategory: "Play Mats & Activity Gyms", subId: "22016", childId: "23823" },
-                    { extensionCategory: "Activity Centres & Walkers", subId: "22016", childId: "23823" },
-                    { extensionCategory: "Trikes, Cars & Rockers", subId: "22016", childId: "23823" },
-                    { extensionCategory: "Playpens & Playsets", subId: "22016", childId: "23823" },
-                    { extensionCategory: "Rockers & Bouncers", subId: "22016", childId: "23823" },
-                ]
-            },
-            {
-                subCategory: "Baby Travel & Accessories",
-                childItems: [
-                    { extensionCategory: "Carriers", subId: "22016", childId: "23822" },
-                    { extensionCategory: "Car Seats", subId: "22016", childId: "23822" },
-                    { extensionCategory: "Prams", subId: "22016", childId: "23822" },
-                    { extensionCategory: "Strollers", subId: "22016", childId: "23822" },
-                ]
-            },
         ]
     },
 
@@ -225,10 +227,8 @@ const categories = [
                     { extensionCategory: "High Protein Yoghurt", subId: "22158", childId: "22161" },
                     { extensionCategory: "Plant Based Yoghurt", subId: "22158", childId: "22161" },
                     { extensionCategory: "Kefir", subId: "22158", childId: "22161" },
-
-                    // No Proper Schema
-                    // { extensionCategory: "Lactose Free", subId: "22158", childId: "22161" },
-                    // { extensionCategory: "Probiotic & Gut Health Yoghurt", subId: "22158", childId: "22161" },
+                    { extensionCategory: "Lactose Free", subId: "22158", childId: "22161" },
+                    { extensionCategory: "Probiotic & Gut Health Yoghurt", subId: "22158", childId: "22161" },
                 ]
             },
             {
@@ -289,10 +289,10 @@ const categories = [
         ]
     },
 
-    //Deli & chilled Meals//
+    //Deli//
     //////////////////////////////////////Deli & chilled Meals
     {
-        category: "Deli & Chilled Meals",
+        category: "Deli",
         id: "24023",
         subCategories: [
             {
@@ -311,27 +311,7 @@ const categories = [
                     { extensionCategory: "Gourmet Cheese", subId: "24025", childId: "24032" },
                     { extensionCategory: "Platters", subId: "24025", childId: "24034" },
                 ]
-            },
-            {
-                subCategory: "Ready to Eat Meals",
-                childItems: [
-                    { extensionCategory: "Chilled Pizza & Garlic Bread", subId: "24026", childId: "24041" },
-                    { extensionCategory: "Chilled Quiches & Pies", subId: "24026", childId: "24037"},
-                    { extensionCategory: "Chilled Soup", subId: "24026", childId: "24038" },
-                    { extensionCategory: "Entertaining & Sides", subId: "24026", childId: "24043" },
-                    { extensionCategory: "Family Meals", subId: "24026", childId: "24036" },
-                    { extensionCategory: "Fresh Pasta & Sauces", subId: "24026", childId: "24040" },
-                    { extensionCategory: "Packaged Salads", subId: "24026", childId: "24042" },
-                    { extensionCategory: "Single Serve", subId: "24026", childId: "24035" },
-                ]
-            },
-            {
-                subCategory: "Vegetarian & Vegan",
-                childItems: [
-                    { extensionCategory: "Vegan", subId: "24027", childId: "24044" },
-                    { extensionCategory: "Vegetarian", subId: "24027", childId: "24045" },
-                ]
-            },
+            }
         ]
     },
 
@@ -428,6 +408,7 @@ const categories = [
                     { extensionCategory: "Low & Non Alcoholic Home Brew", subId: "22213", childId: "22214" },
                 ]
             },
+            // No Proper Schema
             // {
             //     subCategory: "Home Brew",
             //     childItems: [
@@ -540,12 +521,12 @@ const categories = [
                     { extensionCategory: "Pies & Sausage Rolls", subId: "22316", childId: "22318" },
                 ]
             },
-            // {
-            //     subCategory: "Frozen Gluten Free",
-            //     childItems: [
-            //         { extensionCategory: "Gluten Free", subId: "", childId: "" },
-            //     ]
-            // },
+            {
+                subCategory: "Frozen Gluten Free",
+                childItems: [
+                    { extensionCategory: "Gluten Free", subId: "22299", childId: "22300" },
+                ]
+            },
         ]
     },
 
@@ -1028,26 +1009,6 @@ const categories = [
                 ]
             },
             {
-                subCategory: "Home Decor & Furniture",
-                childItems: [
-                    { extensionCategory: "Candles & Home Fragrance", subId: "22579", childId: "22580" },
-                    
-                    // No Schema or Taxonomy
-                    // { extensionCategory: "Cushions & Covers", subId: "", childId: "" },
-                    // { extensionCategory: "Blankets & Throws", subId: "", childId: "" },
-                    // { extensionCategory: "Living Room Storage", subId: "", childId: "" },
-                    // { extensionCategory: "Storage", subId: "", childId: "" },
-                    // { extensionCategory: "Indoor Lighting", subId: "", childId: "" },
-                    // { extensionCategory: "Kitchen & Dining", subId: "", childId: "" },
-                    // { extensionCategory: "Bedroom", subId: "", childId: "" },
-                    // { extensionCategory: "Kids Furniture", subId: "", childId: "" },
-                    // { extensionCategory: "Curtains & Blinds", subId: "", childId: "" },
-                    // { extensionCategory: "Photo Frames & Albums", subId: "", childId: "" },
-                    // { extensionCategory: "Mirrors, Clocks & Wall Art", subId: "", childId: "" },
-                    // { extensionCategory: "Rugs & Doormats", subId: "", childId: "" }
-                ]
-            },
-            {
                 subCategory: "Bathroom Towels & Accessories",
                 childItems: [
                     { extensionCategory: "Bath Towels & Mats", subId: "22462", childId: "22466" },
@@ -1119,6 +1080,27 @@ const categories = [
                     { extensionCategory: "Travel Accessories", catId: '22394', subId: "22414", childId: "23917" },
                 ]
             },
+            
+            // No Barcode
+            // {
+            //     subCategory: "Home Decor & Furniture",
+            //     childItems: [
+            //         { extensionCategory: "Candles & Home Fragrance", subId: "22579", childId: "22580" },
+            //         // No Schema or Taxonomy
+            //         { extensionCategory: "Cushions & Covers", subId: "", childId: "" },
+            //         { extensionCategory: "Blankets & Throws", subId: "", childId: "" },
+            //         { extensionCategory: "Living Room Storage", subId: "", childId: "" },
+            //         { extensionCategory: "Storage", subId: "", childId: "" },
+            //         { extensionCategory: "Indoor Lighting", subId: "", childId: "" },
+            //         { extensionCategory: "Kitchen & Dining", subId: "", childId: "" },
+            //         { extensionCategory: "Bedroom", subId: "", childId: "" },
+            //         { extensionCategory: "Kids Furniture", subId: "", childId: "" },
+            //         { extensionCategory: "Curtains & Blinds", subId: "", childId: "" },
+            //         { extensionCategory: "Photo Frames & Albums", subId: "", childId: "" },
+            //         { extensionCategory: "Mirrors, Clocks & Wall Art", subId: "", childId: "" },
+            //         { extensionCategory: "Rugs & Doormats", subId: "", childId: "" }
+            //     ]
+            // },
             // {
             //     subCategory: "Kitchen Appliances",
             //     childItems: [
@@ -1178,7 +1160,7 @@ const categories = [
                     { extensionCategory: "Coffee Beans", subId: "22908", childId: "22910" },
                     { extensionCategory: "Ground Coffee", subId: "22908", childId: "22913" },
                     { extensionCategory: "Coffee Capsules", subId: "22908", childId: "22911" },
-                    { extensionCategory: "Instant & Flavoured Coffee", catId: '22170', subId: "22175", childId: "22175" },
+                    { extensionCategory: "Instant & Flavoured Coffee", catId: '22164', subId: "22170", childId: "22175" },
                 ]
             },
             {

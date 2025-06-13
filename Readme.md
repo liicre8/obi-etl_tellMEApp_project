@@ -126,6 +126,8 @@ node coles/readMatchedJSON
 If all matches are valid:
 ```bash
 node coles/readMatchedJSON
+```
+```bash
 node coles/parseMatchedJSON
 ```
 
@@ -190,7 +192,19 @@ node 03pushUnmatchedToAPI-C
 node 04pushUnmatchedToAPI-W
 ```
 
-If any fail, check `failedUploads-UMC.json` or `failedUploads-UMW.json` in `/src`.
+To check the Price changes, check `checking/` found `CheckingMD.js` and `CheckingUMD.js` change/set the date:
+```bash
+const yesterdayDate = '';
+```
+And run:
+
+```bash
+#For Matched
+node checking/CheckingMD 
+#For Unmatched
+node checking/CheckingUMD 
+```
+After that check csv how many prices changes found in `audit` in `matched` &  `unmatched`folder.
 
 ## ✅ Summary: Daily Order of Operations
 

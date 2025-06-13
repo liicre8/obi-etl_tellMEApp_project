@@ -35,10 +35,10 @@ const locations = [
     //     subLucation: "Coles Canberra Civic"
     // },
     // nt
-    {
-        location: "Casuarina, NT 0810",
-        subLucation: "Coles Casuarina - Drive-through"
-    },
+    // {
+    //     location: "Casuarina, NT 0810",
+    //     subLucation: "Coles Casuarina - Drive-through"
+    // },
 ]
 
 export default locations;

@@ -40,8 +40,8 @@ const userAgents = [
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
 ];
 
-// const mylocation = ["nsw", "vic", "qld", "wa", "sa", "tas", "act", "nt"];
-const mylocation = ["nsw"];
+const mylocation = ["nsw", "vic", "qld", "wa", "sa", "tas", "act", "nt"];
+// const mylocation = ["nsw"];
 
 const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
   const prices = [];
@@ -119,7 +119,137 @@ let pageReset = 0;
 let booool = false;
 const WOOLWORTHS_API_ENDPOINT = "https://www.woolworths.com.au/apis/ui/browse/category";
 const CATEGORIES = [
-  //[1]//{ id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' },
+  //[1]// { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' },
+  // { id: '1_9834884', name: 'Nappies', url: '/shop/browse/baby/nappies', location: '/shop/browse/baby/nappies' },
+  // { id: '1_67E0CDB', name: 'Wipes & Changing', url: '/shop/browse/baby/wipes-changing', location: '/shop/browse/baby/wipes-changing' },
+  // { id: '1_CDCF6CF', name: 'Baby Food', url: '/shop/browse/baby/baby-food', location: '/shop/browse/baby/baby-food' },
+  // { id: '1_261C240', name: 'Baby Formula & Toddler Milk', url: '/shop/browse/baby/baby-formula-toddler-milk', location: '/shop/browse/baby/baby-formula-toddler-milk' },
+  // { id: '1_EA73E9D', name: 'Bath & Skincare', url: '/shop/browse/baby/bath-skincare', location: '/shop/browse/baby/bath-skincare' },
+  // { id: '1_F711B70', name: 'Bottles & Baby Feeding', url: '/shop/browse/baby/bottles-baby-feeding', location: '/shop/browse/baby/bottles-baby-feeding' },
+  // { id: '1_6C80D4E', name: 'Health & Safety', url: '/shop/browse/baby/health-safety', location: '/shop/browse/baby/health-safety' },
+  // { id: '1_07A6F29', name: 'Pregnancy Care & Family Planning', url: '/shop/browse/baby/pregnancy-care-family-planning', location: '/shop/browse/baby/pregnancy-care-family-planning' },
+  
+  
+  //[2]// { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' },
+  // { id: '1_5402F90', name: 'In-Store Bakery', url: '/shop/browse/bakery/in-store-bakery', location: '/shop/browse/bakery/in-store-bakery' },
+  // { id: '1_62B7AA0', name: 'Packaged Bread & Bakery', url: '/shop/browse/bakery/packaged-bread-bakery', location: '/shop/browse/bakery/packaged-bread-bakery' },
+
+
+  //[3]// { id: '1_6E4F4E4', name: 'Dairy, Eggs & Fridge', url: '/shop/browse/dairy-eggs-fridge', location: '/shop/browse/dairy-eggs-fridge' },
+  // { id: '1_B7EF010', name: 'Cheese', url: '/shop/browse/dairy-eggs-fridge/cheese', location: '/shop/browse/dairy-eggs-fridge/cheese' },
+  // { id: '1_223D9D6', name: 'Milk', url: '/shop/browse/dairy-eggs-fridge/milk', location: '/shop/browse/dairy-eggs-fridge/milk' },
+  // { id: '1_AC76873', name: 'Yoghurt', url: '/shop/browse/dairy-eggs-fridge/yoghurt', location: '/shop/browse/dairy-eggs-fridge/yoghurt' },
+  // { id: '1_91794DD', name: 'Cream, Custard & Desserts', url: '/shop/browse/dairy-eggs-fridge/cream-custard-desserts', location: '/shop/browse/dairy-eggs-fridge/cream-custard-desserts' },
+  // { id: '1_85274A0', name: 'Eggs, Butter & Margarine', url: '/shop/browse/dairy-eggs-fridge/eggs-butter-margarine', location: '/shop/browse/dairy-eggs-fridge/eggs-butter-margarine' },
+  // { id: '1_D2B0685', name: 'Dips & Pate', url: '/shop/browse/dairy-eggs-fridge/dips-pate', location: '/shop/browse/dairy-eggs-fridge/dips-pate' },
+  // { id: '1_D3D428B', name: 'Fresh Pasta & Sauces', url: '/shop/browse/dairy-eggs-fridge/fresh-pasta-sauces', location: '/shop/browse/dairy-eggs-fridge/fresh-pasta-sauces' },
+  // { id: '1_00ED79B', name: 'Vegetarian & Vegan', url: '/shop/browse/dairy-eggs-fridge/vegetarian-vegan', location: '/shop/browse/dairy-eggs-fridge/vegetarian-vegan' },
+  // { id: '1_914C9DE', name: 'International Foods', url: '/shop/browse/dairy-eggs-fridge/international-foods', location: '/shop/browse/dairy-eggs-fridge/international-foods' },
+  
+
+  //[4]// { id: '1_3151F6F', name: 'Deli', url: '/shop/browse/deli', location: '/shop/browse/deli' },
+  // { id: '1_696F07C', name: 'Deli Meats', url: '/shop/browse/deli-chilled-meals/deli-meats', location: '/shop/browse/deli-chilled-meals/deli-meats' },
+  // { id: '1_CA60E21', name: 'Deli Specialties', url: '/shop/browse/deli-chilled-meals/deli-specialties', location: '/shop/browse/deli-chilled-meals/deli-specialties' },
+
+  //[5]// { id: '1_5AF3A0A', name: 'Drinks', url: '/shop/browse/drinks', location: '/shop/browse/drinks' },
+  // { id: '1_C078A81', name: 'Chilled Drinks', url: '/shop/browse/drinks/chilled-drinkss', location: '/shop/browse/drinks/chilled-drinks' },
+  // { id: '1_C693949', name: 'Soft Drinks', url: '/shop/browse/drinks/soft-drinks', location: '/shop/browse/drinks/soft-drinks' },
+  // { id: '1_9ACE8BE', name: 'Cordials, Juices & Iced Teas', url: '/shop/browse/drinks/cordials-juices-iced-teas', location: '/shop/browse/drinks/cordials-juices-iced-teas' },
+  // { id: '1_EF54199', name: 'Water', url: '/shop/browse/drinks/water', location: '/shop/browse/drinks/water' },
+  // { id: '1_B3C6B0A', name: 'Sports & Energy Drinks', url: '/shop/browse/drinks/sports-energy-drinks', location: '/shop/browse/drinks/sports-energy-drinks' },
+  // { id: '1_341A912', name: 'Tea', url: '/shop/browse/drinks/tea', location: '/shop/browse/drinks/tea' },
+  // { id: '1_3DB16DE', name: 'Coffee', url: '/shop/browse/drinks/coffee', location: '/shop/browse/drinks/coffee' },
+  // { id: '1_F4FDD26', name: 'Flavoured Milk', url: '/shop/browse/drinks/flavoured-milk', location: '/shop/browse/drinks/flavoured-milk' },
+  // { id: '1_159A4FB', name: 'Long Life Milk', url: '/shop/browse/drinks/long-life-milk', location: '/shop/browse/drinks/long-life-milk' },
+  // { id: '1_C82527E', name: 'Low & Non Alcoholic Drinks', url: '/shop/browse/drinks/low-non-alcoholic-drinks', location: '/shop/browse/drinks/low-non-alcoholic-drinks' },
+  
+  //[6]// { id: '1_ACA2FC2', name: 'Freezer', url: '/shop/browse/freezer', location: '/shop/browse/freezer' },
+  // { id: '1_5CE3A44', name: 'Frozen Meals', url: '/shop/browse/freezer/frozen-meals', location: '/shop/browse/freezer/frozen-meals' },
+  // { id: '1_22C1314', name: 'Chips & Wedges', url: '/shop/browse/freezer/chips-wedges', location: '/shop/browse/freezer/chips-wedges' },
+  // { id: '1_B0FFC5D', name: 'Frozen Seafood', url: '/shop/browse/freezer/frozen-seafood', location: '/shop/browse/freezer/frozen-seafood' },
+  // { id: '1_7BE3AEA', name: 'Frozen Meat', url: '/shop/browse/freezer/frozen-meat', location: '/shop/browse/freezer/frozen-meat' },
+  // { id: '1_7732C14', name: 'Frozen Pizzas', url: '/shop/browse/freezer/frozen-pizzas', location: '/shop/browse/freezer/frozen-pizzas' },
+  // { id: '1_A96D7F8', name: 'Frozen Vegetables', url: '/shop/browse/freezer/frozen-vegetables', location: '/shop/browse/freezer/frozen-vegetables' },
+  // { id: '1_4B53D5A', name: 'Frozen Fruit', url: '/shop/browse/freezer/frozen-fruit', location: '/shop/browse/freezer/frozen-fruit' },
+  // { id: '1_D04DE47', name: 'Ice Cream', url: '/shop/browse/freezer/ice-cream', location: '/shop/browse/freezer/ice-cream' },
+  // { id: '1_80CCBDB', name: 'Frozen Desserts', url: '/shop/browse/freezer/frozen-desserts', location: '/shop/browse/freezer/frozen-desserts' },
+  // { id: '1_BEADFEA', name: 'Frozen Party Food', url: '/shop/browse/freezer/frozen-party-food', location: '/shop/browse/freezer/frozen-party-food' },
+  // { id: '1_45977FE', name: 'Frozen Pies & Sausage Rolls', url: '/shop/browse/freezer/frozen-pies-sausage-rolls', location: '/shop/browse/freezer/frozen-pies-sausage-rolls' },
+  // { id: '1_3382FC2', name: 'Frozen Gluten Free', url: '/shop/browse/freezer/frozen-gluten-free', location: '/shop/browse/freezer/frozen-gluten-free' },
+
+  //[7]// { id: '1_8D61DD6', name: 'Beauty', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' },
+  // { id: '1_4DEA168', name: 'Cosmetics', url: '/shop/browse/beauty/cosmetics', location: '/shop/browse/beauty/cosmetics' },
+  // { id: '1_5F369A0', name: 'Beauty Tools & Nails', url: '/shop/browse/beauty/beauty-tools-nails', location: '/shop/browse/beauty/beauty-tools-nails' },
+  // { id: '1_9FE5A96', name: 'Skincare & Body', url: '/shop/browse/beauty/skincare-body', location: '/shop/browse/beauty/skincare-body' },
+  // { id: '1_9F80E70', name: 'Hair Care', url: '/shop/browse/beauty/hair-care', location: '/shop/browse/beauty/hair-care' },
+  // { id: '1_20B7910', name: 'Hair Colour', url: '/shop/browse/beauty/hair-colour', location: '/shop/browse/beauty/hair-colour' },
+  
+  //[8]// { id: '1_894D0A8', name: 'Personal Care', url: '/shop/browse/personal-care', location: '/shop/browse/personal-care' },
+  // { id: '1_4290CA1', name: 'Womens Hair Removal', url: '/shop/browse/personal-care/women-s-hair-removal', location: '/shop/browse/personal-care/women-s-hair-removal' },
+  // { id: '1_8B886DE', name: 'Shower, Bath & Body', url: '/shop/browse/personal-care/shower-bath-body', location: '/shop/browse/personal-care/shower-bath-body' },
+  // { id: '1_098A313', name: 'Hair Care', url: '/shop/browse/personal-care/hair-care', location: '/shop/browse/personal-care/hair-care' },
+  // { id: '1_6DCE3C5', name: 'Oral Care', url: '/shop/browse/personal-care/oral-care', location: '/shop/browse/personal-care/oral-care' },
+  // { id: '1_DCFD79C', name: 'Mens Care', url: '/shop/browse/personal-care/men-s-care', location: '/shop/browse/personal-care/men-s-care' },
+  // { id: '1_A6EDC50', name: 'Period & Continence Care', url: '/shop/browse/personal-care/period-continence-care', location: '/shop/browse/personal-care/period-continence-care' },
+  // { id: '1_990EF76', name: 'Sun Protection', url: '/shop/browse/personal-care/sun-protection', location: '/shop/browse/personal-care/sun-protection' },
+  // { id: '1_D771F24', name: 'Travel Toiletries & Minis', url: '/shop/browse/personal-care/travel-toiletries-minis', location: '/shop/browse/personal-care/travel-toiletries-minis' },
+  
+  //[9]// { id: '1_9851658', name: 'Health & Wellness', url: '/shop/browse/health-wellness', location: '/shop/browse/health-wellness' },
+  // { id: '1_855EAED', name: 'Health Foods', url: '/shop/browse/health-wellness/health-foods', location: '/shop/browse/health-wellness/health-foods' },
+  // { id: '1_67B032F', name: 'Vitamins', url: '/shop/browse/health-wellness/vitamins', location: '/shop/browse/health-wellness/vitamins' },
+  // { id: '1_18B863A', name: 'Diet & Sports Nutrition', url: '/shop/browse/health-wellness/diet-sports-nutrition', location: '/shop/browse/health-wellness/diet-sports-nutrition' },
+  // { id: '1_329A89C', name: 'First Aid & Medicinal', url: '/shop/browse/health-wellness/first-aid-medicinal', location: '/shop/browse/health-wellness/first-aid-medicinal' },      
+  
+  //[10]// { id: '1_2432B58', name: 'Cleaning & Maintenance', url: '/shop/browse/cleaning-maintenance', location: '/shop/browse/cleaning-maintenance'}
+  // { id: '1_2F587AA', name: 'Laundry', url: '/shop/browse/cleaning-maintenance/laundry', location: '/shop/browse/cleaning-maintenance/laundry' },
+  // { id: '1_A2E3843', name: 'Kitchen', url: '/shop/browse/cleaning-maintenance/kitchen', location: '/shop/browse/cleaning-maintenance/kitchen' },
+  // { id: '1_691F830', name: 'Toilet Paper, Tissues & Paper Towels', url: '/shop/browse/cleaning-maintenance/toilet-paper-tissues-paper-towels', location: '/shop/browse/cleaning-maintenance/toilet-paper-tissues-paper-towels' },
+  // { id: '1_6174AF3', name: 'Cleaning Goods', url: '/shop/browse/cleaning-maintenance/cleaning-goods', location: '/shop/browse/cleaning-maintenance/cleaning-goods' },
+  // { id: '1_AF39A7A', name: 'Pest Control', url: '/shop/browse/cleaning-maintenance/pest-control', location: '/shop/browse/cleaning-maintenance/pest-control' },
+  // { id: '1_F364D22', name: 'Garden & Outdoors', url: '/shop/browse/cleaning-maintenance/garden-outdoors', location: '/shop/browse/cleaning-maintenance/garden-outdoors' },
+  // { id: '1_8AF7215', name: 'Hardware', url: '/shop/browse/cleaning-maintenance/hardware', location: '/shop/browse/cleaning-maintenance/hardware' },
+  
+  //[11]// { id: '1_39FD49C', name: 'Pantry', url: '/shop/browse/pantry', location: '/shop/browse/pantry' },
+  // { id: '1_C7A623D', name: 'Breakfast & Spreads', url: '/shop/browse/pantry/breakfast-spreads', location: '/shop/browse/pantry/breakfast-spreads' },
+  // { id: '1_8A702B7', name: 'Tea & Coffee', url: '/shop/browse/pantry/tea-coffee', location: '/shop/browse/pantry/tea-coffee' },
+  // { id: '1_0B44952', name: 'Long Life Milk', url: '/shop/browse/pantry/long-life-milk', location: '/shop/browse/pantry/long-life-milk' },
+  // { id: '1_8458E3A', name: 'Baking', url: '/shop/browse/pantry/baking', location: '/shop/browse/pantry/baking' },
+  // { id: '1_F779C5C', name: 'Herbs & Spices', url: '/shop/browse/pantry/herbs-spices', location: '/shop/browse/pantry/herbs-spices' },
+  // { id: '1_F43CC25', name: 'Condiments', url: '/shop/browse/pantry/condiments', location: '/shop/browse/pantry/condiments' },
+  // { id: '1_23C59D3', name: 'Canned Food & Instant Meals', url: '/shop/browse/pantry/canned-food-instant-meals', location: '/shop/browse/pantry/canned-food-instant-meals' },
+  // { id: '1_B5F8608', name: 'Pasta, Rice & Grains', url: '/shop/browse/pantry/pasta-rice-grains', location: '/shop/browse/pantry/pasta-rice-grains' },
+  // { id: '1_83608CE', name: 'Cooking Sauces & Recipe Bases', url: '/shop/browse/pantry/cooking-sauces-recipe-bases', location: '/shop/browse/pantry/cooking-sauces-recipe-bases' },
+  // { id: '1_53601CD', name: 'International Foods', url: '/shop/browse/pantry/international-foods', location: '/shop/browse/pantry/international-foods' },
+  // { id: '1_69A326C', name: 'Desserts', url: '/shop/browse/pantry/desserts', location: '/shop/browse/pantry/desserts' },
+  // { id: '1_EEEE0B7', name: 'Muesli Bars & Snack Bars', url: '/shop/browse/pantry/muesli-bars-snack-bars', location: '/shop/browse/pantry/muesli-bars-snack-bars' },
+  // { id: '1_E216643', name: 'Oil & Vinegar', url: '/shop/browse/pantry/oil-vinegar', location: '/shop/browse/pantry/oil-vinegar' },
+  
+  //[12]// { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' },
+  // { id: '1_1969229', name: 'Cat & Kitten', url: '/shop/browse/pet/cat-kitten', location: '/shop/browse/pet/cat-kitten' },
+  // { id: '1_EF205FA', name: 'Dog & Puppy', url: '/shop/browse/pet/dog-puppy', location: '/shop/browse/pet/dog-puppy' },
+  // { id: '1_C7C6294', name: 'Birds, Fish & Small Pets', url: '/shop/browse/pet/birds-fish-small-pets', location: '/shop/browse/pet/birds-fish-small-pets' },
+
+  // [13]// { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' },
+  // { id: '1_889CCA1', name: 'Dining & Entertaining', url: '/shop/browse/home-lifestyle/dining-entertaining', location: '/shop/browse/home-lifestyle/dining-entertaining' },
+  // { id: '1_792C364', name: 'Party Supplies', url: '/shop/browse/home-lifestyle/party-supplies', location: '/shop/browse/home-lifestyle/party-supplies' },
+  // { id: '1_6D2541E', name: 'Kitchenware & Storage', url: '/shop/browse/home-lifestyle/kitchenware-storage', location: '/shop/browse/home-lifestyle/kitchenware-storage' },
+  
+  
+  // { id: '1_3D142C0', name: 'Clothing & Accessories', url: '/shop/browse/home-lifestyle/clothing-accessories', location: '/shop/browse/home-lifestyle/clothing-accessories' },
+  // { id: '1_CAAEDBB', name: 'Stationery & Office Supplies', url: '/shop/browse/home-lifestyle/stationery-office-supplies', location: '/shop/browse/home-lifestyle/stationery-office-supplies' },
+   
+  //[14]// { id: '1_717445A', name: 'Snacks & Confectionery', url: '/shop/browse/snacks-confectionery', location: '/shop/browse/snacks-confectionery' },
+  // { id: '1_B3139DF', name: 'Confectionery', url: '/shop/browse/snacks-confectionery/confectionery', location: '/shop/browse/snacks-confectionery/confectionery' },
+  // { id: '1_12FABCA', name: 'Gum, Mints & Lozenges', url: '/shop/browse/snacks-confectionery/gum-mints-lozenges', location: '/shop/browse/snacks-confectionery/gum-mints-lozenges' },
+  // { id: '1_3F5B6B6', name: 'Chips', url: '/shop/browse/snacks-confectionery/chips', location: '/shop/browse/snacks-confectionery/chips' },
+  // { id: '1_99CAF0C', name: 'Snacks', url: '/shop/browse/snacks-confectionery/snacks', location: '/shop/browse/snacks-confectionery/snacks' },
+  // { id: '1_3F5B6B6', name: 'Chips', url: '/shop/browse/snacks-confectionery/chips', location: '/shop/browse/snacks-confectionery/chips' },
+  // { id: '1_99CAF0C', name: 'Snacks', url: '/shop/browse/snacks-confectionery/snacks', location: '/shop/browse/snacks-confectionery/snacks' },
+  // { id: '1_6F15A6A', name: 'Biscuits & Crackers', url: '/shop/browse/snacks-confectionery/biscuits-crackers', location: '/shop/browse/snacks-confectionery/biscuits-crackers' },
+
+  
+  // Scraping All Locations
+  // { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' },
   // { id: '1-5931EE89', name: 'Fruit', url: '/shop/browse/fruit-veg/fruit', location: '/shop/browse/fruit-veg/fruit' },
   // { id: '1_AC17EDD', name: 'Vegetables', url: '/shop/browse/fruit-veg/fruit', location: '/shop/browse/fruit-veg/vegetables' },
   // { id: '1_2684504', name: 'Salad', url: '/shop/browse/fruit-veg/salad', location: '/shop/browse/fruit-veg/salad' },
@@ -128,7 +258,7 @@ const CATEGORIES = [
   // { id: '1_8929F1D', name: 'Fresh Herbs, Garlic & Chillies', url: '/shop/browse/fruit-veg/fresh-herbs-garlic-chillies', location: '/shop/browse/fruit-veg/fresh-herbs-garlic-chillies' },
   // { id: '1_94DB57C', name: 'Snacking', url: '/shop/browse/fruit-veg/snacking', location: '/shop/browse/fruit-veg/snacking' },
 
-  //[1]//{ id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
+  // { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
   // { id: '1_2B67965', name: 'Poultry', url: '/shop/browse/poultry-meat-seafood/poultry', location: '/shop/browse/poultry-meat-seafood/poultry' },
   // { id: '1_CED9B86', name: 'Meat', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
   // { id: '1_D610306', name: 'Seafood', url: '/shop/browse/poultry-meat-seafood/seafood', location: '/shop/browse/poultry-meat-seafood/seafood' },
@@ -136,9 +266,11 @@ const CATEGORIES = [
   { id: '1_F3CEF67', name: 'BBQ Meat', url: '/shop/browse/poultry-meat-seafood/bbq-meat', location: '/shop/browse/poultry-meat-seafood/bbq-meat' },
   { id: '1_073D435', name: 'Organic Meat & Poultry', url: '/shop/browse/poultry-meat-seafood/organic-meat-poultry', location: '/shop/browse/poultry-meat-seafood/organic-meat-poultry' },
  
+
+  
 ];
 const WOOLWORTHS_URL = "https://www.woolworths.com.au";
-const SPEED_LIMIT = 30000;
+const SPEED_LIMIT = 200;
 
 function delay(time) {
   return new Promise((resolve) => setTimeout(resolve, time));
@@ -270,7 +402,7 @@ const scrapeCategory = async (page, category, myloc, p, browser) => {
 
   for (let i = 1; i <= numPages; i++) {
     console.log("pageResetvalue", pageReset);
-    if (pageReset > 15) {
+    if (pageReset > 3) {
       const loadedCookies = JSON.parse(fs.readFileSync("./woolworths/cookies.json", "utf-8"));
       await page.setCookie(...loadedCookies);
       await safeNavigate(page, "https://www.woolworths.com.au");
@@ -349,24 +481,26 @@ const scrapeURL = async (page, request, myloc) => {
     const priceInCents = parseFloat(price) * 100;
     const priceInCentsPerUnits = parseFloat(price2) * 100;
     
-    // Fix for the price_unit format
-    // First extract the unit (letters only) from inputString
-    let  unit = inputString.trim().toUpperCase();
+    // FIXED: Better unit processing logic
+    let unit = "";
     
-    // If the unit is "EA" (or any other unit), prepend "1" to it
-    if (unit === "EA" || unit === "ea") {
-      unit = "1" + unit;
-    }
-    
-    // For other units that might need numeric prefix, check if there are numbers in the inputString
-    // and if there are, extract the number and add it to the unit
-    if (unit && unit !== "1EA" && unit !== "1ea") {
-      const numMatch = inputString.match(/\d+/);
-      if (numMatch) {
-        unit = numMatch[0] + unit;
+    if (inputString.trim()) {
+      const trimmedInput = inputString.trim();
+      
+      // Handle "EA" case specifically
+      if (trimmedInput.toUpperCase() === "EA") {
+        unit = "1EA";
       } else {
-        // If no numeric value found but we need one, add "1" as default
-        unit = "1" + unit;
+        // For other cases, use the original string as is
+        // Don't add extra numbers if they already exist
+        unit = trimmedInput.toUpperCase();
+        
+        // Only add "1" prefix for units that don't already have numbers
+        // and are not already prefixed
+        const hasNumbers = /\d/.test(unit);
+        if (!hasNumbers && unit !== "EA") {
+          unit = "1" + unit;
+        }
       }
     }
     
@@ -378,10 +512,9 @@ const scrapeURL = async (page, request, myloc) => {
       source_url: `https://www.woolworths.com.au/shop/productdetails/${product.Stockcode}/${product.UrlFriendlyName}`,
       retailer_product_id: product.Stockcode,
       barcode: product.Barcode,
-      name: product.DisplayName,
       realName: product.name,
       isNew: product.IsNew,
-      weight: product.PackageSize, //CupMeasure,
+      weight: product.PackageSize,
       category: product.AdditionalAttributes.piesdepartmentnamesjson,
       subCategory: product.AdditionalAttributes.piescategorynamesjson,
       extensionCategory: product.AdditionalAttributes.piessubcategorynamesjson,
@@ -389,22 +522,25 @@ const scrapeURL = async (page, request, myloc) => {
     };
   });
   
+  // Rest of the function remains the same...
   if (products.length > 0) {
     for (const data of products) {
       const q = await Product.findOne({ retailer_product_id: data.retailer_product_id });
       if (!q) {
-        // console.log('Product not found. Creating new product:', { ...data });
-        const createdProduct = await Product.create({ ...data });
-        // console.log('Created product:', createdProduct);
+
+        try {
+            const createdProduct = await Product.create({ ...data });
+        } catch (err) {
+           console.error("Failed to create product:", data.name, "Reason:", err.message);
+        }
+
       } else {
         const updatedPrices = [...q.prices];
         let priceUpdated = false;
 
-        // Compare and update prices
         for (let i = 0; i < updatedPrices.length; i++) {
           if (data.prices.length > 0 && updatedPrices.length > 0) {
             if (updatedPrices[i].state.toLowerCase() === data.prices[0].state.toLowerCase()) {
-              // Compare location
               updatedPrices[i].price = data.prices[0].price;
               updatedPrices[i].price_per_unit = data.prices[0].price_per_unit;
               updatedPrices[i].price_unit = data.prices[0].price_unit;
@@ -414,7 +550,6 @@ const scrapeURL = async (page, request, myloc) => {
           }
         }
 
-        // If no match, push the new price data
         if (!priceUpdated && data.prices.length > 0) {
           updatedPrices.push(data.prices[0]);
         }

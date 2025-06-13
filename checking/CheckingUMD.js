@@ -4,9 +4,9 @@ const path = require('path');
 require('dotenv').config();
 
 // Dates
-const yesterdayDate = '5-22-2025';
-// const todayDate = process.env.FOLDER_DATE; 
-const todayDate = '5-27-2025';
+const yesterdayDate = '6-12-2025';
+const todayDate = process.env.FOLDER_DATE; 
+
 const now = new Date();
 const auditFolderName = `${now.getMonth() + 1}-${now.getDate()}-${now.getFullYear()}`;
 const basePath = path.join(__dirname, '..');

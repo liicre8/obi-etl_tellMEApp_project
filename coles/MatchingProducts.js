@@ -112,7 +112,7 @@ jsonArray1.forEach((item1) => {
         }
 
         // If the match is better than the previous one, update best match
-        if (nameSimilarity >= 85 && weightSimilarity >= 90 && nameSimilarity > bestScore) {
+        if (nameSimilarity >= 95 && weightSimilarity >= 90 && nameSimilarity > bestScore) {
             bestScore = nameSimilarity;
             bestMatch = { item2, nameSimilarity, weightSimilarity };
         }

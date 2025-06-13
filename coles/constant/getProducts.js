@@ -285,13 +285,7 @@ const categories = [
           { subId: '22074', childId: '22088', extensionCategory: 'Wholegrain & Seeded Wraps', url: 'https:www.coles.com.au/browse/bakery/packaged-flat-bread-wraps-and-pizza-bases/wholegrain-seeded-wraps' },
           { subId: '22074', childId: '22088', extensionCategory: 'Wholemeal Wraps', url: 'https:www.coles.com.au/browse/bakery/packaged-flat-bread-wraps-and-pizza-bases/wholemeal-wraps' },
         ],
-      },
-      {
-        subCategory: 'Vegan Range',
-        childItems: [
-          { subId: '22060', childId: '22074', extensionCategory: 'All Vegan Range', url: 'https://www.coles.com.au/browse/bakery/vegan-range/all-vegan-range' },
-        ],
-      },
+      }
     ],
   },
   //////////////////////////////////////////////////////DAIRY, EGGS, & FRIDGE id: 22089
@@ -387,9 +381,7 @@ const categories = [
         childItems: [
           { subId: '22132', childId: '22133', extensionCategory: 'Flavoured Milk', url: 'https:www.coles.com.au/browse/dairy-eggs-fridge/milk/flavoured-milk' },
           { subId: '22132', childId: '22134', extensionCategory: 'Full Cream Milk', url: 'https:www.coles.com.au/browse/dairy-eggs-fridge/milk/full-cream-milk' },
-          
-          // { subId: '22132', childId: '22139', extensionCategory: 'Probiotic Milk', url: 'https:www.coles.com.au/browse/dairy-eggs-fridge/milk/probiotic-milk' },
-          
+          { subId: '22132', childId: '22139', extensionCategory: 'Probiotic Milk', url: 'https:www.coles.com.au/browse/dairy-eggs-fridge/milk/probiotic-milk' },
           { subId: '22132', childId: '22138', extensionCategory: 'Skim & Low Fat Milk', url: 'https:www.coles.com.au/browse/dairy-eggs-fridge/milk/skim-low-fat-milk' },
           { subId: '22132', childId: '22139', extensionCategory: 'Soy & Almond Milk', url: 'https:www.coles.com.au/browse/dairy-eggs-fridge/milk/soy-almond-milk' },
           { subId: '22132', childId: '22139', extensionCategory: 'Specialty Milk', url: 'https:www.coles.com.au/browse/dairy-eggs-fridge/milk/specialty-milk' },
@@ -444,9 +436,9 @@ const categories = [
       {
         subCategory: 'Yoghurt',
         childItems: [
-          // { subId: '22158', childId: '22161', extensionCategory: 'Dairy Free', url: 'https://www.coles.com.au/browse/dairy-eggs-fridge/yoghurt/dairy-free' },
-          // { subId: '22158', childId: '22161', extensionCategory: 'Multipacks', url: 'https:www.coles.com.au/browse/dairy-eggs-fridge/milk/full-cream-milk' },
-          // { subId: '22158', childId: '22161', extensionCategory: 'Single Serve', url: 'https://www.coles.com.au/browse/dairy-eggs-fridge/yoghurt/single-serve' },
+          { subId: '22158', childId: '22161', extensionCategory: 'Dairy Free', url: 'https://www.coles.com.au/browse/dairy-eggs-fridge/yoghurt/dairy-free' },
+          { subId: '22158', childId: '22161', extensionCategory: 'Multipacks', url: 'https:www.coles.com.au/browse/dairy-eggs-fridge/milk/full-cream-milk' },
+          { subId: '22158', childId: '22161', extensionCategory: 'Single Serve', url: 'https://www.coles.com.au/browse/dairy-eggs-fridge/yoghurt/single-serve' },
           { subId: '22158', childId: '22159', extensionCategory: 'Pouch', url: 'https://www.coles.com.au/browse/dairy-eggs-fridge/yoghurt/pouch' },
           { subId: '22158', childId: '22161', extensionCategory: 'Yoghurt Tubs', url: 'https://www.coles.com.au/browse/dairy-eggs-fridge/yoghurt/yoghurt-tubs' },
           ],
@@ -770,11 +762,10 @@ const categories = [
           { subId: '22299', childId: '22300', extensionCategory: 'Frozen Indian Foods', url: 'https://www.coles.com.au/browse/frozen/frozen-world-food/frozen-indian-foods' },
         ],
       },
-      // No Proper Category
-      // {
-      //   subCategory: 'Frozen Gluten Free',
-      //   childItems: [{ subId: '22287', childId: '22288', extensionCategory: 'All Gluten Free', url: 'https:www.coles.com.au/browse/frozen/frozen-gluten-free/all-gluten-free' }],
-      // },
+      {
+        subCategory: 'Frozen Gluten Free',
+        childItems: [{ subId: '22299', childId: '22300', extensionCategory: 'All Gluten Free', url: 'https:www.coles.com.au/browse/frozen/frozen-gluten-free/all-gluten-free' }],
+      },
     ],
   },
   /////////////////////////////////////////////////////FRUIT & VEGETABLES id: 22351
@@ -1004,8 +995,6 @@ const categories = [
           { subId: '22440', childId: '23894', extensionCategory: 'Sexual Health', url: 'https://www.coles.com.au/browse/health-beauty/personal-care/sexual-health' },
           { subId: '22440', childId: '23893', extensionCategory: 'Footcare', url: 'https://www.coles.com.au/browse/health-beauty/personal-care/footcare' },
           { subId: '22440', childId: '23921', extensionCategory: 'Mens Deodorants', url: 'https://www.coles.com.au/browse/health-beauty/personal-care/mens-deodorants' },
-          { subId: '22440', childId: '23895', extensionCategory: 'Pregnancy Tests', url: 'https://www.coles.com.au/browse/health-beauty/personal-care/pregnancy-tests' },
-          { subId: '22440', childId: '23894', extensionCategory: 'Sexual Health', url: 'https://www.coles.com.au/browse/health-beauty/personal-care/sexual-health' },
           { subId: '22440', childId: '23920', extensionCategory: 'Womens Deodorants', url: 'https://www.coles.com.au/browse/health-beauty/personal-care/womens-deodorants' },
         ],
       },
@@ -1014,8 +1003,8 @@ const categories = [
         childItems: [
           { subId: '23864', childId: '23898', extensionCategory: 'After Shave Care', url: 'https:www.coles.com.au/browse/health-beauty/shaving-hair-removal/after-shave-care' },
           { subId: '23864', childId: '23901', extensionCategory: 'Shave Gel & Foam', url: 'https:www.coles.com.au/browse/health-beauty/shaving-hair-removal/shave-gel-foam' },
-          // No Proper Category { subId: '23864', childId: '', extensionCategory: 'Razors & Blades', url: 'https:www.coles.com.au/browse/health-beauty/shaving-hair-removal/razors-blades' },
-          // No Proper Category { subId: '23864', childId: '', extensionCategory: 'Wax, Cream & Bleach', url: 'https:www.coles.com.au/browse/health-beauty/shaving-hair-removal/wax-cream-bleach' },
+          { subId: '23864', childId: '23898', extensionCategory: 'Razors & Blades', url: 'https:www.coles.com.au/browse/health-beauty/shaving-hair-removal/razors-blades' },
+          { subId: '23864', childId: '23901', extensionCategory: 'Wax, Cream & Bleach', url: 'https:www.coles.com.au/browse/health-beauty/shaving-hair-removal/wax-cream-bleach' },
         ],
       },
       {
@@ -1338,8 +1327,8 @@ const categories = [
           { subId: '22908', childId: '22911', extensionCategory: 'Capsules', url: 'https:www.coles.com.au/browse/pantry/coffee/capsules' },
           { subId: '22908', childId: '22910', extensionCategory: 'Coffee Beans', url: 'https:www.coles.com.au/browse/pantry/coffee/coffee-beans' },
           { subId: '22908', childId: '22913', extensionCategory: 'Ground Coffee', url: 'https:www.coles.com.au/browse/pantry/coffee/ground-coffee' },
-          { catId: '22170', subId: '22175', childId: '22175', extensionCategory: 'Instant Coffee', url: 'https:www.coles.com.au/browse/pantry/coffee/instant-coffee' },
-          { catId: '22170', subId: '22175', childId: '22175', extensionCategory: 'Coffee Mixes', url: 'https:www.coles.com.au/browse/pantry/coffee/coffee-mixes' },
+          { catId: '22164', subId: '22170', childId: '22175', extensionCategory: 'Instant Coffee', url: 'https:www.coles.com.au/browse/pantry/coffee/instant-coffee' },
+          { catId: '22164', subId: '22170', childId: '22175', extensionCategory: 'Coffee Mixes', url: 'https:www.coles.com.au/browse/pantry/coffee/coffee-mixes' },
 
           // No Proper Category
           // { subId: '22908', childId: '22911', extensionCategory: 'Coffee Accessories', url: 'https:www.coles.com.au/browse/pantry/coffee/coffee-accessories' },

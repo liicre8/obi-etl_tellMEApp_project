@@ -5,7 +5,7 @@ const categories = require('../constant/categories');
 require('dotenv').config();
 
 // Config
-const yesterdayDate = '6-6-2025';
+const yesterdayDate = '6-12-2025';
 const todayDate = process.env.FOLDER_DATE;
 
 
