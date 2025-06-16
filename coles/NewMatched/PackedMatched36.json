@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-italian-diced-tomatoes-800g-6238990",
+    "name": "Coles Italian Diced Tomatoes | 800g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6238990.jpg&w=640&q=90",
+    "source_id": "6238990",
+    "barcode": "9300633920074",
+    "shop": "coles",
+    "category_id": "22807",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "250",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/236393/woolworths-diced-italian-tomatoes",
+    "name": "Woolworths Diced Italian Tomatoes 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/236393.jpg",
+    "source_id": "236393",
+    "barcode": "9300633920074",
+    "shop": "Woolworths",
+    "category_id": "22805",
+    "weight": "800g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "250",
+        "price_unit": "1KG"
+      }
+    ]
+  }
+]

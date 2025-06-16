@@ -1,0 +1,362 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/original-source-shower-gel-vanilla-and-raspberry-250ml-1303289",
+    "name": "Original Source Shower Gel Vanilla & Raspberry | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1303289.jpg&w=640&q=90",
+    "source_id": "1303289",
+    "barcode": "5000101077005",
+    "shop": "coles",
+    "category_id": "23885",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/760929/original-source-body-wash-creamy-vanilla-raspberry-shower-gel",
+    "name": "Original Source Body Wash Creamy Vanilla & Raspberry Shower Gel 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/760929.jpg",
+    "source_id": "760929",
+    "barcode": "5000101077005",
+    "shop": "Woolworths",
+    "category_id": "23887",
+    "weight": "250mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fodmapped-lamb-and-vegetable-soup-500g-1755611",
+    "name": "Fodmapped Lamb & Vegetable Soup | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1755611.jpg&w=640&q=90",
+    "source_id": "1755611",
+    "barcode": "9345625001119",
+    "shop": "coles",
+    "category_id": "22835",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "620",
+        "price_per_unit": "124",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/647690/fodmapped-for-you-lamb-vegetable-soup",
+    "name": "Fodmapped For You Lamb & Vegetable Soup 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/647690.jpg",
+    "source_id": "647690",
+    "barcode": "9345625001119",
+    "shop": "Woolworths",
+    "category_id": "22835",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "890",
+        "price_per_unit": "178",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/impulse-illusions-body-spray-75ml-2007849",
+    "name": "Impulse Illusions Body Spray | 75mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2007849.jpg&w=640&q=90",
+    "source_id": "2007849",
+    "barcode": "9300830021857",
+    "shop": "coles",
+    "category_id": "23920",
+    "weight": "75ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "400",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/789424/impulse-body-spray-aerosol-deodorant-illusions",
+    "name": "Impulse Body Spray Aerosol Deodorant Illusions 75ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/789424.jpg",
+    "source_id": "789424",
+    "barcode": "9300830021857",
+    "shop": "Woolworths",
+    "category_id": "23920",
+    "weight": "75mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "400",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-pink-fine-himalayan-salt-1kg-3021040",
+    "name": "Coles Pink Fine Himalayan Salt | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3021040.jpg&w=640&q=90",
+    "source_id": "3021040",
+    "barcode": "9300633584481",
+    "shop": "coles",
+    "category_id": "22847",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "4",
+        "price_unit": "10G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/476442/woolworths-himalayan-pink-fine-table-salt",
+    "name": "Woolworths Himalayan Pink Fine Table Salt 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/476442.jpg",
+    "source_id": "476442",
+    "barcode": "9300633584481",
+    "shop": "Woolworths",
+    "category_id": "22847",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "4",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-spf-50+-sunscreen-ultra-tube-100ml-3256860",
+    "name": "Coles SPF 50+ Sunscreen Ultra Tube | 100mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3256860.jpg&w=640&q=90",
+    "source_id": "3256860",
+    "barcode": "9300633755454",
+    "shop": "coles",
+    "category_id": "23892",
+    "weight": "100ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/840782/woolworths-spf-50-everyday-sunscreen-tube",
+    "name": "Woolworths SPF 50+ Everyday Sunscreen Tube 100mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/840782.jpg",
+    "source_id": "840782",
+    "barcode": "9300633755454",
+    "shop": "Woolworths",
+    "category_id": "23892",
+    "weight": "100mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/avalanche-caramel-99percent-sugar-free-coffee-sachets-10-pack-3631904",
+    "name": "Avalanche Caramel 99% Sugar Free Coffee Sachets | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3631904.jpg&w=640&q=90",
+    "source_id": "3631904",
+    "barcode": "9421906776270",
+    "shop": "coles",
+    "category_id": "22175",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "375",
+        "price_per_unit": "38",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/216876/avalanche-99-sugar-free-hot-chocolate-salted-caramel",
+    "name": "Avalanche 99% Sugar Free Hot Chocolate Salted Caramel 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/216876.jpg",
+    "source_id": "216876",
+    "barcode": "9421906776270",
+    "shop": "Woolworths",
+    "category_id": "22189",
+    "weight": "10 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "440",
+        "price_per_unit": "44",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/abc-sweet-soy-sauce-620ml-5252565",
+    "name": "ABC Sweet Soy Sauce | 620mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5252565.jpg&w=640&q=90",
+    "source_id": "5252565",
+    "barcode": "9310432300052",
+    "shop": "coles",
+    "category_id": "22849",
+    "weight": "620ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "640",
+        "price_per_unit": "103",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/40327/abc-sweet-soy-sauce-kecap-manis",
+    "name": "ABC Sweet Soy Sauce Kecap Manis 620ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/040327.jpg",
+    "source_id": "40327",
+    "barcode": "9310432300052",
+    "shop": "Woolworths",
+    "category_id": "22849",
+    "weight": "620mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "640",
+        "price_per_unit": "103",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mum-dry-anti-perspirant-active-all-day-roll-on-deodorant-50ml-5316704",
+    "name": "Mum Dry Anti-Perspirant Active All Day Roll On Deodorant | 50mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5316704.jpg&w=640&q=90",
+    "source_id": "5316704",
+    "barcode": "4013162034529",
+    "shop": "coles",
+    "category_id": "23920",
+    "weight": "50ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "680",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/48667/mum-dry-anti-perspirant-deodorant-dry-active-all-day",
+    "name": "Mum Dry Anti Perspirant Deodorant Dry Active All Day 50ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/048667.jpg",
+    "source_id": "48667",
+    "barcode": "4013162034529",
+    "shop": "Woolworths",
+    "category_id": "23920",
+    "weight": "50mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/muscle-nation-protein-water-mango-passionfruit-300g-5933744",
+    "name": "Muscle Nation Protein Water Mango Passionfruit | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5933744.jpg&w=640&q=90",
+    "source_id": "5933744",
+    "barcode": "9359054000261",
+    "shop": "coles",
+    "category_id": "22840",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2800",
+        "price_per_unit": "933",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/915503/muscle-nation-protein-water-powder-collagen-whey-mango-passionfruit",
+    "name": "Muscle Nation Protein Water Powder Collagen & Whey Mango Passionfruit 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/915503.jpg",
+    "source_id": "915503",
+    "barcode": "9359054000261",
+    "shop": "Woolworths",
+    "category_id": "24007",
+    "weight": "300g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2450",
+        "price_per_unit": "817",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/old-el-paso-spice-mix-burrito-40g-6048848",
+    "name": "Old El Paso Spice Mix Burrito | 40g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6048848.jpg&w=640&q=90",
+    "source_id": "6048848",
+    "barcode": "9300695002329",
+    "shop": "coles",
+    "category_id": "22855",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "675",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/98778/old-el-paso-burrito-spice-mix-burrito-spice-mix",
+    "name": "Old El Paso Burrito Spice Mix Burrito Spice Mix 40g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/098778.jpg",
+    "source_id": "98778",
+    "barcode": "9300695002329",
+    "shop": "Woolworths",
+    "category_id": "22855",
+    "weight": "40g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

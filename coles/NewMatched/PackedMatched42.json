@@ -1,0 +1,74 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/easy-off-bam-power-oven-heavy-duty-cleaner-325g-4810716",
+    "name": "Easy Off Bam Power Oven Heavy Duty Cleaner | 325g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4810716.jpg&w=640&q=90",
+    "source_id": "4810716",
+    "barcode": "9300701462734",
+    "shop": "coles",
+    "category_id": "22484",
+    "weight": "325g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "169",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/233881/easy-off-bam-oven-bbq-heavy-duty-cleaner-spray",
+    "name": "Easy Off Bam Oven & BBQ Heavy Duty Cleaner Spray 325g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/233881.jpg",
+    "source_id": "233881",
+    "barcode": "9300701462734",
+    "shop": "Woolworths",
+    "category_id": "22484",
+    "weight": "325g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "580",
+        "price_per_unit": "178",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-australian-full-cream-long-life-milk-1l-7667368",
+    "name": "Coles Australian Full Cream Long Life Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7667368.jpg&w=640&q=90",
+    "source_id": "7667368",
+    "barcode": "9300633386689",
+    "shop": "coles",
+    "category_id": "22136",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/748595/woolworths-full-cream-long-life-milk-uht",
+    "name": "Woolworths Full Cream Long Life Milk UHT 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/748595.jpg",
+    "source_id": "748595",
+    "barcode": "9300633386689",
+    "shop": "Woolworths",
+    "category_id": "22136",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "160",
+        "price_per_unit": "160",
+        "price_unit": "L"
+      }
+    ]
+  }
+]

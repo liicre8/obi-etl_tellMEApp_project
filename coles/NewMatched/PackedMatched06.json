@@ -1,240 +1,2334 @@
 [
   {
-    "source_url": "https://www.coles.com.au/product/eno-fruit-salt-lemon-heartburn-and-acid-indigestion-relief-powder-200g-185110",
-    "name": "Eno Fruit Salt Lemon Heartburn & Acid indigestion relief powder | 200g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F185110.jpg&w=640&q=90",
-    "source_id": "185110",
-    "barcode": "93542609",
-    "category_id": "22394",
-    "subcategory_id": "22414",
-    "subsubcategory_id": "22417",
+    "source_url": "https://www.coles.com.au/product/buttercup-country-split-bread-wholemeal-450g-1047",
+    "name": "Buttercup Country Split Bread Wholemeal | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1047.jpg&w=640&q=90",
+    "source_id": "1047",
+    "barcode": "9310283117618",
     "shop": "coles",
-    "weight": "200g",
+    "category_id": "22083",
+    "weight": "450g",
     "prices": [
       {
         "state": "NSW",
-        "price": "1300",
-        "price_per_unit": "650",
-        "price_unit": "100G"
+        "price": "420",
+        "price_per_unit": "93",
+        "price_unit": "g"
       }
     ]
   },
   {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/44307/eno-fruit-salt-lemon-heartburn-acid-indigestion-relief-powder",
-    "name": "Eno Fruit, Salt Lemon Heartburn & Acid Indigestion Relief Powder 200g",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/044307.jpg",
-    "source_id": "44307",
-    "barcode": "93542609",
-    "category_id": "22394",
-    "subcategory_id": "22414",
-    "subsubcategory_id": "23917",
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/77136/buttercup-country-split-wholemeal-bread",
+    "name": "Buttercup Country Split Wholemeal Bread 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/077136.jpg",
+    "source_id": "77136",
+    "barcode": "9310283117618",
     "shop": "Woolworths",
-    "weight": "200g",
+    "category_id": "22083",
+    "weight": "450G",
     "prices": [
       {
         "state": "NSW",
-        "price": "1300",
-        "price_per_unit": "650",
+        "price": "420",
+        "price_per_unit": "93",
         "price_unit": "G"
       }
     ]
   },
   {
-    "source_url": "https://www.coles.com.au/product/imodium-diarrhoea-relief-capsules-8-pack-1218292",
-    "name": "Imodium Diarrhoea Relief Capsules | 8 pack",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1218292.jpg&w=640&q=90",
-    "source_id": "1218292",
-    "barcode": "9300607130126",
-    "category_id": "22394",
-    "subcategory_id": "22414",
-    "subsubcategory_id": "22417",
+    "source_url": "https://www.coles.com.au/product/solo-thirst-crusher-original-lemon-soft-drink-bottle-1.25l-147494",
+    "name": "Solo Thirst Crusher Original Lemon Soft Drink Bottle | 1.25L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F147494.jpg&w=640&q=90",
+    "source_id": "147494",
+    "barcode": "9300617006992",
     "shop": "coles",
-    "weight": "8pack",
+    "category_id": "22218",
+    "weight": "1.25l",
     "prices": [
       {
         "state": "NSW",
-        "price": "1200",
-        "price_per_unit": "150",
-        "price_unit": "1EA"
+        "price": "350",
+        "price_per_unit": "280",
+        "price_unit": ".l"
       }
     ]
   },
   {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/755602/imodium-diarrhoea-relief-capsules-2mg-capsules",
-    "name": "Imodium Diarrhoea Relief Capsules 8 pack",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/755602.jpg",
-    "source_id": "755602",
-    "barcode": "9300607130126",
-    "category_id": "22394",
-    "subcategory_id": "22414",
-    "subsubcategory_id": "23917",
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/32673/solo-thirst-crusher-original-lemon-soft-drink-bottle",
+    "name": "Solo Thirst Crusher Original Lemon Soft Drink Bottle 1.25l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/032673.jpg",
+    "source_id": "32673",
+    "barcode": "9300617006992",
     "shop": "Woolworths",
-    "weight": "8 pack",
+    "category_id": "22218",
+    "weight": "1.25L",
     "prices": [
       {
         "state": "NSW",
-        "price": "960",
-        "price_per_unit": "120",
+        "price": "180",
+        "price_per_unit": "144",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fairy-cooking-margarine-250g-189279",
+    "name": "Fairy Cooking Margarine | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F189279.jpg&w=640&q=90",
+    "source_id": "189279",
+    "barcode": "93101028",
+    "shop": "coles",
+    "category_id": "22113",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "104",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/48007/fairy-cooking-margarine",
+    "name": "Fairy Cooking Margarine 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/048007.jpg",
+    "source_id": "48007",
+    "barcode": "93101028",
+    "shop": "Woolworths",
+    "category_id": "22113",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "104",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/flora-margarine-spread-original-500g-189406",
+    "name": "Flora Margarine Spread Original | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F189406.jpg&w=640&q=90",
+    "source_id": "189406",
+    "barcode": "9310003002002",
+    "shop": "coles",
+    "category_id": "22113",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "105",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/48019/flora-margarine-spread-original",
+    "name": "Flora Margarine Spread Original 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/048019.jpg",
+    "source_id": "48019",
+    "barcode": "9310003002002",
+    "shop": "Woolworths",
+    "category_id": "22113",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/flora-margarine-spread-original-1kg-222363",
+    "name": "Flora Margarine Spread Original | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F222363.jpg&w=640&q=90",
+    "source_id": "222363",
+    "barcode": "9310003002019",
+    "shop": "coles",
+    "category_id": "22113",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "695",
+        "price_per_unit": "70",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/48293/flora-margarine-spread-original",
+    "name": "Flora Margarine Spread Original 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/048293.jpg",
+    "source_id": "48293",
+    "barcode": "9310003002019",
+    "shop": "Woolworths",
+    "category_id": "22113",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "895",
+        "price_per_unit": "90",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/twinings-earl-grey-loose-leaf-tea-125g-344575",
+    "name": "Twinings Earl Grey Loose Leaf Tea | 125g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F344575.jpg&w=640&q=90",
+    "source_id": "344575",
+    "barcode": "70177060732",
+    "shop": "coles",
+    "category_id": "22228",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "520",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/41859/twinings-earl-grey-loose-leaf-tea-loose-leaf-tea",
+    "name": "Twinings Earl Grey Loose Leaf Tea 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/041859.jpg",
+    "source_id": "41859",
+    "barcode": "70177060732",
+    "shop": "Woolworths",
+    "category_id": "22228",
+    "weight": "125g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sprite-lemonade-soft-drink-bottle-1.25l-401657",
+    "name": "Sprite Lemonade Soft Drink Bottle | 1.25L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F401657.jpg&w=640&q=90",
+    "source_id": "401657",
+    "barcode": "9300675008013",
+    "shop": "coles",
+    "category_id": "22218",
+    "weight": "1.25l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "160",
+        "price_unit": ".l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/95325/sprite-lemonade-soft-drink-bottle",
+    "name": "Sprite Lemonade Soft Drink Bottle 1.25l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/095325.jpg",
+    "source_id": "95325",
+    "barcode": "9300675008013",
+    "shop": "Woolworths",
+    "category_id": "22218",
+    "weight": "1.25L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "320",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lavazza-delizioso-a-modo-mio-coffee-pods-16-pack-1774194",
+    "name": "Lavazza Delizioso A Modo Mio Coffee Pods | 16 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1774194.jpg&w=640&q=90",
+    "source_id": "1774194",
+    "barcode": "8000070086012",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "16pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "84",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/554677/lavazza-delizioso-a-modo-mio-coffee-pods",
+    "name": "Lavazza Delizioso a Modo Mio Coffee Pods 16 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/554677.jpg",
+    "source_id": "554677",
+    "barcode": "8000070086012",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "16 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "84",
         "price_unit": "EA"
       }
     ]
   },
   {
-    "source_url": "https://www.coles.com.au/product/waterwipes-fragrance-free-sensitive-skin-180-baby-wipes-180-pack-3155863",
-    "name": "WaterWipes Fragrance Free Sensitive Skin 180 Baby Wipes | 180 pack",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3155863.jpg&w=640&q=90",
-    "source_id": "3155863",
-    "barcode": "5099514001486",
-    "category_id": "22015",
-    "subcategory_id": "22048",
-    "subsubcategory_id": "22059",
+    "source_url": "https://www.coles.com.au/product/golden-circle-cordial-lemon-cordial-2l-2107515",
+    "name": "Golden Circle Cordial Lemon Cordial | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2107515.jpg&w=640&q=90",
+    "source_id": "2107515",
+    "barcode": "9310179188166",
     "shop": "coles",
-    "weight": "180pack",
+    "category_id": "22178",
+    "weight": "2l",
     "prices": [
       {
         "state": "NSW",
-        "price": "2000",
-        "price_per_unit": "1111",
-        "price_unit": "100EA"
+        "price": "440",
+        "price_per_unit": "220",
+        "price_unit": "l"
       }
     ]
   },
   {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/698624/waterwipes-fragrance-free-sensitive-skin-baby-wipes",
-    "name": "Waterwipes Fragrance Free Sensitive Skin Baby Wipes 180 pack",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/698624.jpg",
-    "source_id": "698624",
-    "barcode": "5099514001486",
-    "category_id": "22015",
-    "subcategory_id": "22048",
-    "subsubcategory_id": "22059",
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/688560/golden-circle-cordials-lemon-cordial",
+    "name": "Golden Circle Cordials Lemon Cordial 2l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/688560.jpg",
+    "source_id": "688560",
+    "barcode": "9310179188166",
     "shop": "Woolworths",
-    "weight": "180 pack",
+    "category_id": "22178",
+    "weight": "2L",
     "prices": [
       {
         "state": "NSW",
-        "price": "2000",
-        "price_per_unit": "1111",
-        "price_unit": "EA"
+        "price": "440",
+        "price_per_unit": "220",
+        "price_unit": "L"
       }
     ]
   },
   {
-    "source_url": "https://www.coles.com.au/product/hydralyte-effervescent-tablets-lemon-lime-10-pack-3415669",
-    "name": "Hydralyte Effervescent Tablets Lemon Lime | 10 pack",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3415669.jpg&w=640&q=90",
-    "source_id": "3415669",
-    "barcode": "9317039001634",
-    "category_id": "22394",
-    "subcategory_id": "22414",
-    "subsubcategory_id": "23917",
+    "source_url": "https://www.coles.com.au/product/jarrah-salted-caramel-latte-instant-coffee-250g-2244491",
+    "name": "Jarrah Salted Caramel Latte Instant Coffee | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2244491.jpg&w=640&q=90",
+    "source_id": "2244491",
+    "barcode": "7612100066041",
     "shop": "coles",
+    "category_id": "22175",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "340",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/800489/jarrah-salted-caramel-latte-instant-coffee",
+    "name": "Jarrah Salted Caramel Latte Instant Coffee 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/800489.jpg",
+    "source_id": "800489",
+    "barcode": "7612100066041",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nad's-for-men-hair-removal-cream-200ml-2277945",
+    "name": "Nad's For Men Hair Removal Cream | 200mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2277945.jpg&w=640&q=90",
+    "source_id": "2277945",
+    "barcode": "638995002947",
+    "shop": "coles",
+    "category_id": "23898",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "550",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/248104/nad-s-hair-removal-cream-for-men",
+    "name": "Nad's Hair Removal Cream For Men 200ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/248104.jpg",
+    "source_id": "248104",
+    "barcode": "638995002947",
+    "shop": "Woolworths",
+    "category_id": "23901",
+    "weight": "200ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "550",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "550",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hans-twiggy-sticks-mild-500g-2517845",
+    "name": "Hans Twiggy Sticks Mild | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2517845.jpg&w=640&q=90",
+    "source_id": "2517845",
+    "barcode": "9310568462167",
+    "shop": "coles",
+    "category_id": "24028",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "2200",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6008517/hans-twiggy-sticks-mild",
+    "name": "Hans Twiggy Sticks Mild 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6008517.jpg",
+    "source_id": "6008517",
+    "barcode": "9310568462167",
+    "shop": "Woolworths",
+    "category_id": "24030",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "2200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/yoplait-petit-miam-vanilla-yoghurt-pouch-70g-2744734",
+    "name": "Yoplait Petit Miam Vanilla Yoghurt Pouch | 70g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2744734.jpg&w=640&q=90",
+    "source_id": "2744734",
+    "barcode": "9300658411564",
+    "shop": "coles",
+    "category_id": "22161",
+    "weight": "70g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "157",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6002679/yoplait-petit-miam-vanilla-yoghurt-pouch",
+    "name": "Yoplait Petit Miam Vanilla Yoghurt Pouch 70g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6002679.jpg",
+    "source_id": "6002679",
+    "barcode": "9300658411564",
+    "shop": "Woolworths",
+    "category_id": "22159",
+    "weight": "70g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "110",
+        "price_per_unit": "157",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/claratyne-allergy-hayfever-relief-antihistamine-tablets-10-pack-2861738",
+    "name": "Claratyne Allergy Hayfever Relief Antihistamine Tablets | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2861738.jpg&w=640&q=90",
+    "source_id": "2861738",
+    "barcode": "4057599003567",
+    "shop": "coles",
+    "category_id": "22417",
     "weight": "10pack",
     "prices": [
       {
         "state": "NSW",
-        "price": "870",
-        "price_per_unit": "87",
-        "price_unit": "1EA"
+        "price": "1425",
+        "price_per_unit": "143",
+        "price_unit": "pack"
       }
     ]
   },
   {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/80829/hydralyte-lemon-lime-effervescent-tablets",
-    "name": "Hydralyte Lemon Lime Effervescent Tablets 10 pack",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/080829.jpg",
-    "source_id": "80829",
-    "barcode": "9317039001634",
-    "category_id": "22394",
-    "subcategory_id": "22414",
-    "subsubcategory_id": "23917",
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/600461/claratyne-hayfever-allergy-relief-antihistamine-tablets",
+    "name": "Claratyne Hayfever Allergy Relief Antihistamine Tablets 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/600461.jpg",
+    "source_id": "600461",
+    "barcode": "4057599003567",
     "shop": "Woolworths",
+    "category_id": "22417",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1425",
+        "price_per_unit": "143",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/zyrtec-rapid-acting-hayfever-allergy-relief-antihistamine-mini-tablets-10-pack-3057875",
+    "name": "Zyrtec Rapid Acting Hayfever Allergy Relief Antihistamine Mini Tablets | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3057875.jpg&w=640&q=90",
+    "source_id": "3057875",
+    "barcode": "9300607490190",
+    "shop": "coles",
+    "category_id": "22417",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "140",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/662547/zyrtec-rapid-acting-hayfever-allergy-relief-antihistamine-tablets",
+    "name": "Zyrtec Rapid Acting Hayfever Allergy Relief Antihistamine Tablets 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/662547.jpg",
+    "source_id": "662547",
+    "barcode": "9300607490190",
+    "shop": "Woolworths",
+    "category_id": "22417",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "140",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/twining's-vanilla-chai-tea-bags-80-pack-3708645",
+    "name": "Twining's Vanilla Chai Tea Bags | 80 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3708645.jpg&w=640&q=90",
+    "source_id": "3708645",
+    "barcode": "70177227166",
+    "shop": "coles",
+    "category_id": "23944",
+    "weight": "80pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1350",
+        "price_per_unit": "17",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/94179/twinings-chai-vanilla-tea-bags-bags",
+    "name": "Twinings Chai Vanilla Tea Bags 80 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/094179.jpg",
+    "source_id": "94179",
+    "barcode": "70177227166",
+    "shop": "Woolworths",
+    "category_id": "22228",
+    "weight": "80 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "675",
+        "price_per_unit": "8",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bic-hybrid-flex-5-razor-3-pack-3822855",
+    "name": "Bic Hybrid Flex 5 Razor | 3 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3822855.jpg&w=640&q=90",
+    "source_id": "3822855",
+    "barcode": "70330741812",
+    "shop": "coles",
+    "category_id": "23898",
+    "weight": "3pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "735",
+        "price_per_unit": "245",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/80391/bic-flex-5-hybrid-razor",
+    "name": "BIC Flex 5 Hybrid Razor 3 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/080391.jpg",
+    "source_id": "80391",
+    "barcode": "70330741812",
+    "shop": "Woolworths",
+    "category_id": "23898",
+    "weight": "3 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": null,
+        "price_unit": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fussy-cat-grain-free-crunchers-adult-cat-treats-chicken-100g-4239437",
+    "name": "Fussy Cat Grain Free Crunchers Adult Cat Treats Chicken | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4239437.jpg&w=640&q=90",
+    "source_id": "4239437",
+    "barcode": "9310085001412",
+    "shop": "coles",
+    "category_id": "23954",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/693072/fussy-cat-grain-free-crunchers-adult-cat-treats-chicken",
+    "name": "Fussy Cat Grain Free Crunchers Adult Cat Treats Chicken 100G",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/693072.jpg",
+    "source_id": "693072",
+    "barcode": "9310085001412",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "380",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "380",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/fussy-cat-grain-free-crunchers-adult-cat-treats-with-kangaroo-100g-4239823",
+    "name": "Fussy Cat Grain Free Crunchers Adult Cat Treats With Kangaroo | 100g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4239823.jpg&w=640&q=90",
+    "source_id": "4239823",
+    "barcode": "9310085001405",
+    "shop": "coles",
+    "category_id": "23954",
+    "weight": "100g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "390",
+        "price_per_unit": "390",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/842615/fussy-cat-grain-free-crunchers-adult-cat-treats-with-kangaroo",
+    "name": "Fussy Cat Grain Free Crunchers Adult Cat Treats With Kangaroo 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/842615.jpg",
+    "source_id": "842615",
+    "barcode": "9310085001405",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "380",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "380",
+        "price_per_unit": "380",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/don-hot-hungarian-salami-200g-4253303",
+    "name": "Don Hot Hungarian Salami | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4253303.jpg&w=640&q=90",
+    "source_id": "4253303",
+    "barcode": "93389358",
+    "shop": "coles",
+    "category_id": "24028",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "4250",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/64118/don-salami-hungarian-hot",
+    "name": "Don Salami Hungarian Hot 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/064118.jpg",
+    "source_id": "64118",
+    "barcode": "93389358",
+    "shop": "Woolworths",
+    "category_id": "24028",
+    "weight": "200G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "890",
+        "price_per_unit": "4450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nescafe-coffee-sachets-cappuccino-skim-26-pack-4406095",
+    "name": "Nescafe Coffee Sachets Cappuccino Skim | 26 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4406095.jpg&w=640&q=90",
+    "source_id": "4406095",
+    "barcode": "9300605113282",
+    "shop": "coles",
+    "category_id": "22175",
+    "weight": "26pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "42",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/549626/nescafe-cappuccino-skim-coffee-sachets",
+    "name": "Nescafe Cappuccino Skim Coffee Sachets 26 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/549626.jpg",
+    "source_id": "549626",
+    "barcode": "9300605113282",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "26 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "42",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lipton-peach-iced-tea-sachets-20-pack-4651408",
+    "name": "Lipton Peach Iced Tea Sachets | 20 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4651408.jpg&w=640&q=90",
+    "source_id": "4651408",
+    "barcode": "8720608617753",
+    "shop": "coles",
+    "category_id": "22228",
+    "weight": "20pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "350",
+        "price_per_unit": "18",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/116549/lipton-peach-iced-tea-sachets",
+    "name": "Lipton Peach Iced Tea Sachets 20 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/116549.jpg",
+    "source_id": "116549",
+    "barcode": "8720608617753",
+    "shop": "Woolworths",
+    "category_id": "22228",
+    "weight": "20 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "35",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/flora-margarine-spread-buttery-500g-4827810",
+    "name": "Flora Margarine Spread Buttery | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4827810.jpg&w=640&q=90",
+    "source_id": "4827810",
+    "barcode": "9310003236124",
+    "shop": "coles",
+    "category_id": "22113",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "105",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/247153/flora-margarine-spread-buttery",
+    "name": "Flora Margarine Spread Buttery 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/247153.jpg",
+    "source_id": "247153",
+    "barcode": "9310003236124",
+    "shop": "Woolworths",
+    "category_id": "22113",
+    "weight": "500G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "525",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nescafe-decaf-cappuccino-coffee-sachets-10-pack-4976956",
+    "name": "Nescafe Decaf Cappuccino Coffee Sachets | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4976956.jpg&w=640&q=90",
+    "source_id": "4976956",
+    "barcode": "9300605157477",
+    "shop": "coles",
+    "category_id": "22175",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "43",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/22780/nescafe-cappuccino-decaf-coffee-sachets",
+    "name": "Nescafe Cappuccino Decaf Coffee Sachets 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/022780.jpg",
+    "source_id": "22780",
+    "barcode": "9300605157477",
+    "shop": "Woolworths",
+    "category_id": "22175",
     "weight": "10 pack",
     "prices": [
       {
         "state": "NSW",
-        "price": "870",
-        "price_per_unit": "87",
+        "price": "800",
+        "price_per_unit": "80",
         "price_unit": "EA"
       }
     ]
   },
   {
-    "source_url": "https://www.coles.com.au/product/hydralyte-effervescent-tablets-orange-40-pack-3733609",
-    "name": "Hydralyte Effervescent Tablets Orange | 40 pack",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3733609.jpg&w=640&q=90",
-    "source_id": "3733609",
-    "barcode": "9317039001092",
-    "category_id": "22394",
-    "subcategory_id": "22414",
-    "subsubcategory_id": "23917",
+    "source_url": "https://www.coles.com.au/product/nanna's-frozen-blackberry-and-apple-pies-4-pack-450g-5006547",
+    "name": "Nanna's Frozen Blackberry & Apple Pies 4 pack | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5006547.jpg&w=640&q=90",
+    "source_id": "5006547",
+    "barcode": "9310081410980",
     "shop": "coles",
+    "category_id": "22290",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "111",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/37552/nanna-s-frozen-blackberry-apple-pies-apple-blackberry-pie",
+    "name": "Nanna's Frozen Blackberry & Apple Pies 450g 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/037552.jpg",
+    "source_id": "37552",
+    "barcode": "9310081410980",
+    "shop": "Woolworths",
+    "category_id": "22290",
+    "weight": "450g 4 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "111",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/jarlsberg-original-cheese-block-250g-5170008",
+    "name": "Jarlsberg Original Cheese Block | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5170008.jpg&w=640&q=90",
+    "source_id": "5170008",
+    "barcode": "9310631628438",
+    "shop": "coles",
+    "category_id": "22093",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "3400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/930992/jarlsberg-original-cheese-block",
+    "name": "Jarlsberg Original Cheese Block 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/930992.jpg",
+    "source_id": "930992",
+    "barcode": "9310631628438",
+    "shop": "Woolworths",
+    "category_id": "22091",
+    "weight": "250G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "4200",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/farmers-union-greek-style-natural-yoghurt-1kg-5266865",
+    "name": "Farmers Union Greek Style Natural Yoghurt | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5266865.jpg&w=640&q=90",
+    "source_id": "5266865",
+    "barcode": "9300658228537",
+    "shop": "coles",
+    "category_id": "22161",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/31547/farmers-union-greek-style-natural-yoghurt",
+    "name": "Farmers Union Greek Style Natural Yoghurt 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/031547.jpg",
+    "source_id": "31547",
+    "barcode": "9300658228537",
+    "shop": "Woolworths",
+    "category_id": "22161",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/lurpak-butter-spreadable-slightly-salted-250g-5393910",
+    "name": "Lurpak Butter Spreadable Slightly Salted | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5393910.jpg&w=640&q=90",
+    "source_id": "5393910",
+    "barcode": "5740900401099",
+    "shop": "coles",
+    "category_id": "22113",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "240",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/223865/lurpak-butter-spreadable-slightly-salted",
+    "name": "Lurpak Butter Spreadable Slightly Salted 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/223865.jpg",
+    "source_id": "223865",
+    "barcode": "5740900401099",
+    "shop": "Woolworths",
+    "category_id": "22113",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "240",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/tiger-extra-strength-red-balm-18g-5400298",
+    "name": "Tiger Extra Strength Red Balm | 18g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5400298.jpg&w=640&q=90",
+    "source_id": "5400298",
+    "barcode": "8888650404087",
+    "shop": "coles",
+    "category_id": "22421",
+    "weight": "18g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "5000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/4781/tiger-balm-red-extra-strength",
+    "name": "Tiger Balm Red Extra Strength 18g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/004781.jpg",
+    "source_id": "4781",
+    "barcode": "8888650404087",
+    "shop": "Woolworths",
+    "category_id": "22421",
+    "weight": "18G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "4167",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "750",
+        "price_per_unit": "4167",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/castello-double-cream-brie-150g-5429766",
+    "name": "Castello Double Cream Brie | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5429766.jpg&w=640&q=90",
+    "source_id": "5429766",
+    "barcode": "5740200017013",
+    "shop": "coles",
+    "category_id": "22094",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "5334",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/48920/castello-brie-double-cream",
+    "name": "Castello Brie Double Cream 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/048920.jpg",
+    "source_id": "48920",
+    "barcode": "5740200017013",
+    "shop": "Woolworths",
+    "category_id": "22094",
+    "weight": "150G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "5333",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/jarrah-french-vanilla-latte-instant-coffee-250g-5436900",
+    "name": "Jarrah French Vanilla Latte Instant Coffee | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5436900.jpg&w=640&q=90",
+    "source_id": "5436900",
+    "barcode": "7612100156506",
+    "shop": "coles",
+    "category_id": "22175",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "340",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/254495/jarrah-french-vanilla-latte-instant-coffee",
+    "name": "Jarrah French Vanilla Latte Instant Coffee 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/254495.jpg",
+    "source_id": "254495",
+    "barcode": "7612100156506",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "280",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/oak-iced-coffee-flavoured-milk-600ml-5467200",
+    "name": "Oak Iced Coffee Flavoured Milk | 600mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5467200.jpg&w=640&q=90",
+    "source_id": "5467200",
+    "barcode": "9310295083598",
+    "shop": "coles",
+    "category_id": "22133",
+    "weight": "600ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "500",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/68971/oak-iced-coffee-flavoured-milk",
+    "name": "OAK Iced Coffee Flavoured Milk 600mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/068971.jpg",
+    "source_id": "68971",
+    "barcode": "9310295083598",
+    "shop": "Woolworths",
+    "category_id": "22133",
+    "weight": "600mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "395",
+        "price_per_unit": "658",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/yoplait-strawberry-yoghurt-1kg-5586017",
+    "name": "Yoplait Strawberry Yoghurt | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5586017.jpg&w=640&q=90",
+    "source_id": "5586017",
+    "barcode": "9300658405464",
+    "shop": "coles",
+    "category_id": "22161",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "475",
+        "price_per_unit": "48",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/253791/yoplait-strawberry-yoghurt",
+    "name": "Yoplait Strawberry Yoghurt 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/253791.jpg",
+    "source_id": "253791",
+    "barcode": "9300658405464",
+    "shop": "Woolworths",
+    "category_id": "22161",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "475",
+        "price_per_unit": "48",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nescafe-strong-cappuccino-coffee-sachets-10-pack-5694097",
+    "name": "Nescafe Strong Cappuccino Coffee Sachets | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5694097.jpg&w=640&q=90",
+    "source_id": "5694097",
+    "barcode": "9300605156852",
+    "shop": "coles",
+    "category_id": "22175",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "43",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/259079/nescafe-cappuccino-strong-coffee-sachets",
+    "name": "Nescafe Cappuccino Strong Coffee Sachets 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/259079.jpg",
+    "source_id": "259079",
+    "barcode": "9300605156852",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "10 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "80",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/yoplait-mango-yoghurt-1kg-5892512",
+    "name": "Yoplait Mango Yoghurt | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5892512.jpg&w=640&q=90",
+    "source_id": "5892512",
+    "barcode": "9300658405389",
+    "shop": "coles",
+    "category_id": "22161",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "475",
+        "price_per_unit": "48",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/253784/yoplait-mango-yoghurt",
+    "name": "Yoplait Mango Yoghurt 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/253784.jpg",
+    "source_id": "253784",
+    "barcode": "9300658405389",
+    "shop": "Woolworths",
+    "category_id": "22161",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "475",
+        "price_per_unit": "48",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mother-original-energy-drink-can-500ml-6526906",
+    "name": "Mother Original Energy Drink Can | 500mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6526906.jpg&w=640&q=90",
+    "source_id": "6526906",
+    "barcode": "1220000060005",
+    "shop": "coles",
+    "category_id": "22222",
+    "weight": "500ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "ml"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/315125/mother-energy-drink-original-can",
+    "name": "Mother Energy Drink Original Can 500ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/315125.jpg",
+    "source_id": "315125",
+    "barcode": "1220000060005",
+    "shop": "Woolworths",
+    "category_id": "22222",
+    "weight": "500mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "330",
+        "price_per_unit": "660",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/swisse-ultiboost-prostate-tablets-50-pack-6940472",
+    "name": "Swisse Ultiboost Prostate Tablets | 50 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6940472.jpg&w=640&q=90",
+    "source_id": "6940472",
+    "barcode": "9311770587600",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2650",
+        "price_per_unit": "5300",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/321652/swisse-ultiboost-prostate-tablets",
+    "name": "Swisse Ultiboost Prostate Tablets 50 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/321652.jpg",
+    "source_id": "321652",
+    "barcode": "9311770587600",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "50 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5300",
+        "price_per_unit": "10600",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NSW",
+        "price": "5300",
+        "price_per_unit": "10600",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pasta-italia-ricotta-and-spinach-ravioli-400g-7033926",
+    "name": "Pasta Italia Ricotta & Spinach Ravioli | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7033926.jpg&w=640&q=90",
+    "source_id": "7033926",
+    "barcode": "9340859001010",
+    "shop": "coles",
+    "category_id": "22300",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "175",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/142437/pasta-italia-spinach-ricotta-ravioli-null",
+    "name": "Pasta Italia Spinach & Ricotta Ravioli 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/142437.jpg",
+    "source_id": "142437",
+    "barcode": "9340859001010",
+    "shop": "Woolworths",
+    "category_id": "22300",
+    "weight": "400G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/westgold-salted-butter-400g-7075278",
+    "name": "Westgold Salted Butter | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7075278.jpg&w=640&q=90",
+    "source_id": "7075278",
+    "barcode": "9421016151028",
+    "shop": "coles",
+    "category_id": "22113",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/504592/westgold-butter-salted-salted",
+    "name": "Westgold Butter Salted 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/504592.jpg",
+    "source_id": "504592",
+    "barcode": "9421016151028",
+    "shop": "Woolworths",
+    "category_id": "22113",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/westgold-unsalted-butter-400g-7085056",
+    "name": "Westgold Unsalted Butter | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7085056.jpg&w=640&q=90",
+    "source_id": "7085056",
+    "barcode": "9421016151035",
+    "shop": "coles",
+    "category_id": "22113",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/504590/westgold-butter-unsalted-unsalted",
+    "name": "Westgold Butter Unsalted 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/504590.jpg",
+    "source_id": "504590",
+    "barcode": "9421016151035",
+    "shop": "Woolworths",
+    "category_id": "22113",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "163",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pauls-double-thick-custard-rich-chocolate-900g-7146230",
+    "name": "Pauls Double Thick Custard Rich Chocolate | 900g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7146230.jpg&w=640&q=90",
+    "source_id": "7146230",
+    "barcode": "9310036039631",
+    "shop": "coles",
+    "category_id": "22105",
+    "weight": "900g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "72",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/344082/pauls-double-thick-custard-rich-chocolate",
+    "name": "Pauls Double Thick Custard Rich Chocolate 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/344082.jpg",
+    "source_id": "344082",
+    "barcode": "9310036039631",
+    "shop": "Woolworths",
+    "category_id": "22105",
+    "weight": "900g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "72",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pauls-double-thick-custard-french-vanilla-900g-7146241",
+    "name": "Pauls Double Thick Custard French Vanilla | 900g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7146241.jpg&w=640&q=90",
+    "source_id": "7146241",
+    "barcode": "9310036022992",
+    "shop": "coles",
+    "category_id": "22105",
+    "weight": "900g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "72",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/331450/pauls-double-thick-custard-french-vanilla",
+    "name": "Pauls Double Thick Custard French Vanilla 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/331450.jpg",
+    "source_id": "331450",
+    "barcode": "9310036022992",
+    "shop": "Woolworths",
+    "category_id": "22105",
+    "weight": "900g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "72",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pedigree-adult-dry-dog-food-with-real-beef-8kg-7410598",
+    "name": "Pedigree Adult Dry Dog Food with Real Beef | 8kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7410598.jpg&w=640&q=90",
+    "source_id": "7410598",
+    "barcode": "9310022157509",
+    "shop": "coles",
+    "category_id": "22939",
+    "weight": "8kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2380",
+        "price_per_unit": "30",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/65367/pedigree-adult-dry-dog-food-with-real-beef",
+    "name": "Pedigree Adult Dry Dog Food with Real Beef 8kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/065367.jpg",
+    "source_id": "65367",
+    "barcode": "9310022157509",
+    "shop": "Woolworths",
+    "category_id": "22939",
+    "weight": "8kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3400",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "3400",
+        "price_per_unit": "43",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pauls-plus-protein-yoghurt-vanilla-700g-7657422",
+    "name": "Pauls Plus Protein Yoghurt Vanilla | 700g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7657422.jpg&w=640&q=90",
+    "source_id": "7657422",
+    "barcode": "9310036079149",
+    "shop": "coles",
+    "category_id": "22161",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/507629/pauls-plus-protein-vanilla-yoghurt",
+    "name": "Pauls Plus Protein Vanilla Yoghurt 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/507629.jpg",
+    "source_id": "507629",
+    "barcode": "9310036079149",
+    "shop": "Woolworths",
+    "category_id": "22161",
+    "weight": "700g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pauls-plus-protein-yoghurt-strawberry-160g-7657477",
+    "name": "Pauls Plus Protein Yoghurt Strawberry | 160g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7657477.jpg&w=640&q=90",
+    "source_id": "7657477",
+    "barcode": "9310036079286",
+    "shop": "coles",
+    "category_id": "22161",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "181",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/503421/pauls-plus-protein-strawberry-yoghurt",
+    "name": "Pauls Plus Protein Strawberry Yoghurt 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/503421.jpg",
+    "source_id": "503421",
+    "barcode": "9310036079286",
+    "shop": "Woolworths",
+    "category_id": "22161",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "144",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pauls-plus-protein-yoghurt-blueberry-160g-7657488",
+    "name": "Pauls Plus Protein Yoghurt Blueberry | 160g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7657488.jpg&w=640&q=90",
+    "source_id": "7657488",
+    "barcode": "9310036079293",
+    "shop": "coles",
+    "category_id": "22161",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "181",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/502387/pauls-plus-protein-blueberry-yoghurt",
+    "name": "Pauls Plus Protein Blueberry Yoghurt 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/502387.jpg",
+    "source_id": "502387",
+    "barcode": "9310036079293",
+    "shop": "Woolworths",
+    "category_id": "22161",
+    "weight": "160g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "144",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nestle-milo-40percent-less-sugar-added-energy-dairy-snack-150gram-7657637",
+    "name": "Nestle Milo 40% Less Sugar Added Energy Dairy Snack | 150GRAM",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7657637.jpg&w=640&q=90",
+    "source_id": "7657637",
+    "barcode": "9310036075837",
+    "shop": "coles",
+    "category_id": "22161",
+    "weight": "150gram",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "167",
+        "price_unit": "gram"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6004871/nestle-milo-energy-dairy-snack-40-less-added-sugar",
+    "name": "Nestle Milo Energy Dairy Snack 40% Less Added Sugar 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6004871.jpg",
+    "source_id": "6004871",
+    "barcode": "9310036075837",
+    "shop": "Woolworths",
+    "category_id": "22159",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "230",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/felix-party-mix-seafood-cat-treats-60g-7752398",
+    "name": "Felix Party Mix Seafood Cat Treats | 60g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7752398.jpg&w=640&q=90",
+    "source_id": "7752398",
+    "barcode": "8850125070943",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "60g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/532349/felix-party-mix-cat-treats-seafood",
+    "name": "Felix Party Mix Cat Treats Seafood 60g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/532349.jpg",
+    "source_id": "532349",
+    "barcode": "8850125070943",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "60g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "375",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "375",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/felix-party-mix-classic-cat-treats-60g-7752412",
+    "name": "Felix Party Mix Classic Cat Treats | 60g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7752412.jpg&w=640&q=90",
+    "source_id": "7752412",
+    "barcode": "8850125070875",
+    "shop": "coles",
+    "category_id": "23957",
+    "weight": "60g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/532340/felix-party-mix-cat-treats-classic",
+    "name": "Felix Party Mix Cat Treats Classic 60g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/532340.jpg",
+    "source_id": "532340",
+    "barcode": "8850125070875",
+    "shop": "Woolworths",
+    "category_id": "23957",
+    "weight": "60g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "375",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "225",
+        "price_per_unit": "375",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pedigree-adult-dry-dog-food-with-real-beef-3kg-7976078",
+    "name": "Pedigree Adult Dry Dog Food with Real Beef | 3kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7976078.jpg&w=640&q=90",
+    "source_id": "7976078",
+    "barcode": "9310022161308",
+    "shop": "coles",
+    "category_id": "22939",
+    "weight": "3kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "50",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/98751/pedigree-adult-dry-dog-food-with-real-beef",
+    "name": "Pedigree Adult Dry Dog Food with Real Beef 3kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/098751.jpg",
+    "source_id": "98751",
+    "barcode": "9310022161308",
+    "shop": "Woolworths",
+    "category_id": "22939",
+    "weight": "3kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "990",
+        "price_per_unit": "33",
+        "price_unit": "G"
+      },
+      {
+        "state": "NSW",
+        "price": "990",
+        "price_per_unit": "33",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/yumis-veggie-mexican-bites-200g-8071895",
+    "name": "Yumis Veggie Mexican Bites | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8071895.jpg&w=640&q=90",
+    "source_id": "8071895",
+    "barcode": "9317444004428",
+    "shop": "coles",
+    "category_id": "22156",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "520",
+        "price_per_unit": "260",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6000027/yumi-s-mexican-veggie-bites",
+    "name": "Yumi's Mexican Veggie Bites 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6000027.jpg",
+    "source_id": "6000027",
+    "barcode": "9317444004428",
+    "shop": "Woolworths",
+    "category_id": "22155",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "3250",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/primo-reserve-chicken-schnitzel-130g-8135863",
+    "name": "Primo Reserve Chicken Schnitzel | 130g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8135863.jpg&w=640&q=90",
+    "source_id": "8135863",
+    "barcode": "9311594016072",
+    "shop": "coles",
+    "category_id": "24028",
+    "weight": "130g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "3462",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/913842/primo-reserve-chicken-schnitzel",
+    "name": "Primo Reserve Chicken Schnitzel 130g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/913842.jpg",
+    "source_id": "913842",
+    "barcode": "9311594016072",
+    "shop": "Woolworths",
+    "category_id": "24029",
+    "weight": "130g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "4615",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/heinz-steam-fresh-carrots-corn-and-broccoli-frozen-vegetables-450g-8140229",
+    "name": "Heinz Steam Fresh Carrots Corn & Broccoli Frozen Vegetables | 450g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8140229.jpg&w=640&q=90",
+    "source_id": "8140229",
+    "barcode": "9300657782504",
+    "shop": "coles",
+    "category_id": "22333",
+    "weight": "450g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/211190/heinz-steam-fresh-vegetables-frozen-veg-carrots-corn-broccoli",
+    "name": "Heinz Steam Fresh Vegetables Frozen Veg Carrots, Corn & Broccoli 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/211190.jpg",
+    "source_id": "211190",
+    "barcode": "9300657782504",
+    "shop": "Woolworths",
+    "category_id": "22333",
+    "weight": "450G",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "889",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-broccoli-500g-8161557",
+    "name": "Mccain Broccoli | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8161557.jpg&w=640&q=90",
+    "source_id": "8161557",
+    "barcode": "9310174006441",
+    "shop": "coles",
+    "category_id": "22332",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/71351/mccain-broccoli",
+    "name": "McCain Broccoli 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/071351.jpg",
+    "source_id": "71351",
+    "barcode": "9310174006441",
+    "shop": "Woolworths",
+    "category_id": "22332",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "900",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blackmores-bio-c-1000mg-vitamin-c-immune-tablets-62-pack-8297402",
+    "name": "Blackmores Bio C 1000mg Vitamin C Immune Tablets | 62 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8297402.jpg&w=640&q=90",
+    "source_id": "8297402",
+    "barcode": "93558594",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "62pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "3548",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6571/blackmores-bio-c-1000mg-vitamin-c-immune-support-tablets",
+    "name": "Blackmores Bio c 1000mg Vitamin c Immune Support Tablets 62 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/006571.jpg",
+    "source_id": "6571",
+    "barcode": "93558594",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "62 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "3548",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/on-the-menu-beef-ravioli-400g-8423482",
+    "name": "On The Menu Beef Ravioli | 400g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8423482.jpg&w=640&q=90",
+    "source_id": "8423482",
+    "barcode": "9356335003867",
+    "shop": "coles",
+    "category_id": "22300",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "105",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/601554/on-the-menu-beef-ravioli",
+    "name": "On The Menu Beef Ravioli 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/601554.jpg",
+    "source_id": "601554",
+    "barcode": "9356335003867",
+    "shop": "Woolworths",
+    "category_id": "22300",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "150",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/yoplait-vanilla-yoghurt-1kg-8716913",
+    "name": "Yoplait Vanilla Yoghurt | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8716913.jpg&w=640&q=90",
+    "source_id": "8716913",
+    "barcode": "9300658405488",
+    "shop": "coles",
+    "category_id": "22161",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "475",
+        "price_per_unit": "48",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/253798/yoplait-vanilla-yoghurt",
+    "name": "Yoplait Vanilla Yoghurt 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/253798.jpg",
+    "source_id": "253798",
+    "barcode": "9300658405488",
+    "shop": "Woolworths",
+    "category_id": "22161",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "475",
+        "price_per_unit": "48",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nicorette-quit-smoking-extra-strength-nicotine-gum-classic-75-pack-8791078",
+    "name": "Nicorette Quit Smoking Extra Strength Nicotine Gum Classic | 75 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8791078.jpg&w=640&q=90",
+    "source_id": "8791078",
+    "barcode": "9300607011388",
+    "shop": "coles",
+    "category_id": "22422",
+    "weight": "75pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2500",
+        "price_per_unit": "33",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/800066/nicorette-quit-smoking-extra-strength-nicotine-gum-freshfruit",
+    "name": "Nicorette Quit Smoking Extra Strength Nicotine Gum Freshfruit 75 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/800066.jpg",
+    "source_id": "800066",
+    "barcode": "9300607011388",
+    "shop": "Woolworths",
+    "category_id": "22422",
+    "weight": "75 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3150",
+        "price_per_unit": "4200",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NSW",
+        "price": "3150",
+        "price_per_unit": "4200",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/just-rooibos-african-tea-bags-40-pack-9161122",
+    "name": "Just Rooibos African Tea Bags | 40 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9161122.jpg&w=640&q=90",
+    "source_id": "9161122",
+    "barcode": "6009636040002",
+    "shop": "coles",
+    "category_id": "23946",
     "weight": "40pack",
     "prices": [
       {
         "state": "NSW",
-        "price": "2440",
-        "price_per_unit": "61",
-        "price_unit": "1EA"
+        "price": "700",
+        "price_per_unit": "18",
+        "price_unit": "pack"
       }
     ]
   },
   {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/82558/hydralyte-orange-effervescent-tablets",
-    "name": "Hydralyte Orange Effervescent Tablets 40 pack",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/082558.jpg",
-    "source_id": "82558",
-    "barcode": "9317039001092",
-    "category_id": "22394",
-    "subcategory_id": "22414",
-    "subsubcategory_id": "23917",
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/114407/just-rooibos-african-tea-bags",
+    "name": "Just Rooibos African Tea Bags 40 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/114407.jpg",
+    "source_id": "114407",
+    "barcode": "6009636040002",
     "shop": "Woolworths",
-    "weight": "40 pack",
+    "category_id": "22228",
+    "weight": "40 Pack",
     "prices": [
       {
         "state": "NSW",
-        "price": "1700",
-        "price_per_unit": "43",
+        "price": "700",
+        "price_per_unit": "18",
         "price_unit": "EA"
       }
     ]
   },
   {
-    "source_url": "https://www.coles.com.au/product/imodium-zapid-diarrhoea-relief-dissolving-tablets-6-pack-9540641",
-    "name": "Imodium Zapid Diarrhoea Relief Dissolving Tablets | 6 pack",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9540641.jpg&w=640&q=90",
-    "source_id": "9540641",
-    "barcode": "9300607130065",
-    "category_id": "22394",
-    "subcategory_id": "22414",
-    "subsubcategory_id": "22417",
+    "source_url": "https://www.coles.com.au/product/peters-drumstick-saucy-dulce-de-leche-cones-4-pack-475ml-9207992",
+    "name": "Peters Drumstick Saucy Dulce De Leche Cones 4 Pack | 475mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9207992.jpg&w=640&q=90",
+    "source_id": "9207992",
+    "barcode": "9347043002778",
     "shop": "coles",
-    "weight": "6pack",
+    "category_id": "22339",
+    "weight": "475ml",
     "prices": [
       {
         "state": "NSW",
-        "price": "1300",
-        "price_per_unit": "217",
-        "price_unit": "1EA"
+        "price": "475",
+        "price_per_unit": "100",
+        "price_unit": "ml"
       }
     ]
   },
   {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/726555/imodium-zapid-diarrhoea-relief-dissolving-tablets",
-    "name": "Imodium Zapid Diarrhoea Relief Dissolving Tablets 6 pack",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/726555.jpg",
-    "source_id": "726555",
-    "barcode": "9300607130065",
-    "category_id": "22394",
-    "subcategory_id": "22414",
-    "subsubcategory_id": "23917",
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6008628/peters-drumstick-saucy-dulce-de-leche-4-pack",
+    "name": "Peters Drumstick Saucy Dulce De Leche 4 Pack 475mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6008628.jpg",
+    "source_id": "6008628",
+    "barcode": "9347043002778",
     "shop": "Woolworths",
-    "weight": "6 pack",
+    "category_id": "22339",
+    "weight": "475mL",
     "prices": [
       {
         "state": "NSW",
-        "price": "1300",
-        "price_per_unit": "217",
+        "price": "950",
+        "price_per_unit": "200",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bulla-creamy-classics-choc-chip-ice-cream-tub-2l-9486397",
+    "name": "Bulla Creamy Classics Choc Chip Ice Cream Tub | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9486397.jpg&w=640&q=90",
+    "source_id": "9486397",
+    "barcode": "9310161001497",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "55",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/191048/bulla-creamy-classics-ice-cream-rich-choc-chip",
+    "name": "Bulla Creamy Classics Ice Cream Rich Choc Chip 2l Tub",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/191048.jpg",
+    "source_id": "191048",
+    "barcode": "9310161001497",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "2L Tub",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "55",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bulla-creamy-classics-cookies-and-cream-ice-cream-tub-2l-9486411",
+    "name": "Bulla Creamy Classics Cookies & Cream Ice Cream Tub | 2L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9486411.jpg&w=640&q=90",
+    "source_id": "9486411",
+    "barcode": "9310161001480",
+    "shop": "coles",
+    "category_id": "22340",
+    "weight": "2l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "55",
+        "price_unit": "l"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/191046/bulla-creamy-classics-ice-cream-cookies-cream",
+    "name": "Bulla Creamy Classics Ice Cream Cookies & Cream 2l Tub",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/191046.jpg",
+    "source_id": "191046",
+    "barcode": "9310161001480",
+    "shop": "Woolworths",
+    "category_id": "22340",
+    "weight": "2L Tub",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "55",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nescafe-cappuccino-coffee-sachets-10-pack-9577540",
+    "name": "Nescafe Cappuccino Coffee Sachets | 10 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9577540.jpg&w=640&q=90",
+    "source_id": "9577540",
+    "barcode": "9300605157460",
+    "shop": "coles",
+    "category_id": "22175",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "430",
+        "price_per_unit": "43",
+        "price_unit": "pack"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/195108/nescafe-cappuccino-coffee-sachets",
+    "name": "Nescafe Cappuccino Coffee Sachets 10 Pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/195108.jpg",
+    "source_id": "195108",
+    "barcode": "9300605157460",
+    "shop": "Woolworths",
+    "category_id": "22175",
+    "weight": "10 Pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "80",
         "price_unit": "EA"
       }
     ]

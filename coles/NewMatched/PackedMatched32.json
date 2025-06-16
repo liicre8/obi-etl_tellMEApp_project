@@ -1,0 +1,38 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/blistex-lip-balm-spf15-intensive-repair-7g-7220333",
+    "name": "Blistex Lip Balm SPF15 Intensive Repair | 7g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7220333.jpg&w=640&q=90",
+    "source_id": "7220333",
+    "barcode": "9313501311737",
+    "shop": "coles",
+    "category_id": "23890",
+    "weight": "7g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "7143",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6010949/blistex-intensive-repair-lip-balm",
+    "name": "Blistex Intensive Repair Lip Balm 7g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6010949.jpg",
+    "source_id": "6010949",
+    "barcode": "9313501311737",
+    "shop": "Woolworths",
+    "category_id": "23890",
+    "weight": "7g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "600",
+        "price_per_unit": "8571",
+        "price_unit": "100G"
+      }
+    ]
+  }
+]

@@ -1,0 +1,830 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/jalna-pot-set-fat-free-natural-yoghurt-1kg-455827",
+    "name": "Jalna Pot Set Fat Free Natural Yoghurt | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F455827.jpg&w=640&q=90",
+    "source_id": "455827",
+    "barcode": "9310354180008",
+    "shop": "coles",
+    "category_id": "22161",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "830",
+        "price_per_unit": "83",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/43053/jalna-pot-set-fat-free-yoghurt",
+    "name": "Jalna Pot Set Fat Free Yoghurt 1Kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/043053.jpg",
+    "source_id": "43053",
+    "barcode": "9310354180008",
+    "shop": "Woolworths",
+    "category_id": "22161",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/movicol-lemon-lime-sachets-30-pack-1755462",
+    "name": "Movicol Lemon Lime Sachets | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1755462.jpg&w=640&q=90",
+    "source_id": "1755462",
+    "barcode": "5012748111059",
+    "shop": "coles",
+    "category_id": "22417",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1600",
+        "price_per_unit": "53",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/885152/movicol-laxative-lemon-lime-sachets",
+    "name": "Movicol Laxative Lemon Lime Sachets 30 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/885152.jpg",
+    "source_id": "885152",
+    "barcode": "5012748111059",
+    "shop": "Woolworths",
+    "category_id": "23917",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2300",
+        "price_per_unit": "7667",
+        "price_unit": "100EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-so-good-almond-vanilla-long-life-milk-1l-1760101",
+    "name": "Sanitarium So Good Almond Vanilla Long Life Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1760101.jpg&w=640&q=90",
+    "source_id": "1760101",
+    "barcode": "9300652804607",
+    "shop": "coles",
+    "category_id": "22136",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/781141/sanitarium-so-good-almond-vanilla-long-life-milk-uht",
+    "name": "Sanitarium So Good Almond Vanilla Long Life Milk UHT 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/781141.jpg",
+    "source_id": "781141",
+    "barcode": "9300652804607",
+    "shop": "Woolworths",
+    "category_id": "22136",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "320",
+        "price_per_unit": "320",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/farmers-union-greek-style-natural-yoghurt-pouch-130g-3087071",
+    "name": "Farmers Union Greek Style Natural Yoghurt Pouch | 130g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3087071.jpg&w=640&q=90",
+    "source_id": "3087071",
+    "barcode": "9300658408021",
+    "shop": "coles",
+    "category_id": "22159",
+    "weight": "130g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "169",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/663179/farmers-union-greek-style-yogurt-pouch-natural",
+    "name": "Farmers Union Greek Style Yogurt Pouch Natural 130g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/663179.jpg",
+    "source_id": "663179",
+    "barcode": "9300658408021",
+    "shop": "Woolworths",
+    "category_id": "22161",
+    "weight": "130g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "169",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/moccona-barista-reserve-dark-roast-espresso-coffee-capsule-10-pack-3193410",
+    "name": "Moccona Barista Reserve Dark Roast Espresso Coffee Capsule | 10 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3193410.jpg&w=640&q=90",
+    "source_id": "3193410",
+    "barcode": "8711000370018",
+    "shop": "coles",
+    "category_id": "22172",
+    "weight": "10pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "720",
+        "price_per_unit": "72",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/687785/moccona-barista-reserve-coffee-pods-dark-roast-espresso",
+    "name": "Moccona Barista Reserve Coffee Pods Dark Roast Espresso 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/687785.jpg",
+    "source_id": "687785",
+    "barcode": "8711000370018",
+    "shop": "Woolworths",
+    "category_id": "22172",
+    "weight": "10 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "720",
+        "price_per_unit": "72",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/surf-life-saving-sunscreen-zinc-stick-spf-50+-tinted-12g-3816740",
+    "name": "Surf Life Saving Sunscreen Zinc Stick SPF 50+ Tinted | 12g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3816740.jpg&w=640&q=90",
+    "source_id": "3816740",
+    "barcode": "9344021002614",
+    "shop": "coles",
+    "category_id": "23892",
+    "weight": "12g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "8333",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/105014/surf-life-saving-tinted-zinc-stick-spf-50-",
+    "name": "Surf Life Saving Tinted Zinc Stick SPF 50+ 12g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/105014.jpg",
+    "source_id": "105014",
+    "barcode": "9344021002614",
+    "shop": "Woolworths",
+    "category_id": "23892",
+    "weight": "12g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "800",
+        "price_per_unit": "667",
+        "price_unit": "10G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hydralyte-effervescent-tablets-lemon-lime-40-pack-4150923",
+    "name": "Hydralyte Effervescent Tablets Lemon Lime | 40 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4150923.jpg&w=640&q=90",
+    "source_id": "4150923",
+    "barcode": "9317039001627",
+    "shop": "coles",
+    "category_id": "23917",
+    "weight": "40pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2440",
+        "price_per_unit": "61",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/136534/hydralyte-effervescent-lemon-lime",
+    "name": "Hydralyte Effervescent Lemon/ Lime 40 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/136534.jpg",
+    "source_id": "136534",
+    "barcode": "9317039001627",
+    "shop": "Woolworths",
+    "category_id": "23917",
+    "weight": "40 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2440",
+        "price_per_unit": "61",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sanitarium-so-good-long-life-no-added-sugar-oat-milk-1l-4204352",
+    "name": "Sanitarium So Good Long Life No Added Sugar Oat Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4204352.jpg&w=640&q=90",
+    "source_id": "4204352",
+    "barcode": "9300652809985",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "200",
+        "price_per_unit": "200",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/120207/sanitarium-so-good-oat-no-added-sugar-long-life-milk-uht",
+    "name": "Sanitarium So Good Oat No Added Sugar Long Life Milk UHT 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/120207.jpg",
+    "source_id": "120207",
+    "barcode": "9300652809985",
+    "shop": "Woolworths",
+    "category_id": "22136",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "280",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nature's-way-high-strength-iron-+vit-c-and-b12-tablets-30-pack-4207984",
+    "name": "Nature's Way High Strength Iron +Vit C & B12 Tablets | 30 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4207984.jpg&w=640&q=90",
+    "source_id": "4207984",
+    "barcode": "9314807076863",
+    "shop": "coles",
+    "category_id": "23916",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "700",
+        "price_per_unit": "2333",
+        "price_unit": "100EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/149296/nature-s-way-high-strength-iron-vitamin-c-b12-tablets",
+    "name": "Nature's Way High Strength Iron + Vitamin C & B12 Tablets 30 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/149296.jpg",
+    "source_id": "149296",
+    "barcode": "9314807076863",
+    "shop": "Woolworths",
+    "category_id": "23916",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "4667",
+        "price_unit": "100EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/passage-foods-passage-to-india-tikka-masala-simmer-sauce-pouch-375g-4699030",
+    "name": "Passage Foods Passage To India Tikka Masala  ... 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4699030.jpg&w=640&q=90",
+    "source_id": "4699030",
+    "barcode": "9325763000083",
+    "shop": "coles",
+    "category_id": "22851",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "630",
+        "price_per_unit": "168",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/186116/passage-to-india-simmer-sauce-tikka-masala",
+    "name": "Passage To India Simmer Sauce Tikka Masala 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/186116.jpg",
+    "source_id": "186116",
+    "barcode": "9325763000083",
+    "shop": "Woolworths",
+    "category_id": "22851",
+    "weight": "375g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "315",
+        "price_per_unit": "84",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/rimmel-multi-tasker-concealer-fair-10ml-4819460",
+    "name": "Rimmel Multi Tasker Concealer Fair | 10mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4819460.jpg&w=640&q=90",
+    "source_id": "4819460",
+    "barcode": "3616307088282",
+    "shop": "coles",
+    "category_id": "23852",
+    "weight": "10ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "10ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6025908/rimmel-multi-tasker-concealer-fair",
+    "name": "Rimmel Multi Tasker Concealer Fair 10mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6025908.jpg",
+    "source_id": "6025908",
+    "barcode": "3616307088282",
+    "shop": "Woolworths",
+    "category_id": "23851",
+    "weight": "10mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "10ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/clearblue-digital-early-detection-pregnancy-test-2-pack-4994652",
+    "name": "Clearblue Digital Early Detection Pregnancy Test | 2 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F4%2F4994652.jpg&w=640&q=90",
+    "source_id": "4994652",
+    "barcode": "4987176009517",
+    "shop": "coles",
+    "category_id": "23895",
+    "weight": "2pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6009022/clearblue-digital-pregnancy-test-ultra-early",
+    "name": "Clearblue Digital Pregnancy Test Ultra Early 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6009022.jpg",
+    "source_id": "6009022",
+    "barcode": "4987176009517",
+    "shop": "Woolworths",
+    "category_id": "23895",
+    "weight": "2 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/laxettes-laxative-tablets-with-senna-50-pack-5136000",
+    "name": "Laxettes Laxative Tablets With Senna | 50 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5136000.jpg&w=640&q=90",
+    "source_id": "5136000",
+    "barcode": "9310263012551",
+    "shop": "coles",
+    "category_id": "22417",
+    "weight": "50pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "460",
+        "price_per_unit": "9",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/8756/laxettes-senna-laxative-tablets",
+    "name": "Laxettes Senna Laxative Tablets 50 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/008756.jpg",
+    "source_id": "8756",
+    "barcode": "9310263012551",
+    "shop": "Woolworths",
+    "category_id": "23917",
+    "weight": "50 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "470",
+        "price_per_unit": "940",
+        "price_unit": "100EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/revlon-colorstay-combinationoily-longwear-makeup-sand-beige-30ml-5203741",
+    "name": "Revlon Colorstay Combination/Oily Longwear Makeup Sand Beige | 30mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5203741.jpg&w=640&q=90",
+    "source_id": "5203741",
+    "barcode": "9370700048888",
+    "shop": "coles",
+    "category_id": "23852",
+    "weight": "30ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "800",
+        "price_unit": "10ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/244908/revlon-colorstay-longwear-makeup-combination-oily-medium-beige",
+    "name": "Revlon Colorstay Longwear Makeup Combination/Oily- Medium Beige 30mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/244908.jpg",
+    "source_id": "244908",
+    "barcode": "9370700048888",
+    "shop": "Woolworths",
+    "category_id": "23851",
+    "weight": "30mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "800",
+        "price_unit": "10ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/revlon-colorstay-combinationoily-longwear-makeup-natural-beige-30ml-5203800",
+    "name": "Revlon Colorstay Combination/Oily Longwear Makeup Natural Beige | 30mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5203800.jpg&w=640&q=90",
+    "source_id": "5203800",
+    "barcode": "9370700048888",
+    "shop": "coles",
+    "category_id": "23852",
+    "weight": "30ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "800",
+        "price_unit": "10ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/244908/revlon-colorstay-longwear-makeup-combination-oily-medium-beige",
+    "name": "Revlon Colorstay Longwear Makeup Combination/Oily- Medium Beige 30mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/244908.jpg",
+    "source_id": "244908",
+    "barcode": "9370700048888",
+    "shop": "Woolworths",
+    "category_id": "23851",
+    "weight": "30mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "800",
+        "price_unit": "10ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/raid-max-antibacterial-fast-kill-crawling-insect-killer-350g-5400040",
+    "name": "Raid Max Antibacterial Fast Kill Crawling Insect Killer | 350g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5400040.jpg&w=640&q=90",
+    "source_id": "5400040",
+    "barcode": "9300622007090",
+    "shop": "coles",
+    "category_id": "22587",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "429",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/239779/raid-max-antibacterial-fast-kill-crawling-insect-killer-spray",
+    "name": "Raid Max Antibacterial Fast Kill Crawling Insect Killer Spray 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/239779.jpg",
+    "source_id": "239779",
+    "barcode": "9300622007090",
+    "shop": "Woolworths",
+    "category_id": "22587",
+    "weight": "350g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "429",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/soothers-blackcurrant-flavour-throat-lozenges-30-pack-5516011",
+    "name": "Soothers Blackcurrant Flavour Throat Lozenges | 30 Pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5516011.jpg&w=640&q=90",
+    "source_id": "5516011",
+    "barcode": "9300684270920",
+    "shop": "coles",
+    "category_id": "22417",
+    "weight": "30pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "22",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/66427/nestle-soothers-throat-lozenges-blackcurrant",
+    "name": "Nestle Soothers Throat Lozenges Blackcurrant 30 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/066427.jpg",
+    "source_id": "66427",
+    "barcode": "9300684270920",
+    "shop": "Woolworths",
+    "category_id": "23988",
+    "weight": "30 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "22",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/de-gas-helps-to-relieve-stomach-wind-bloating-and-gas-24-pack-5521714",
+    "name": "De Gas helps to relieve stomach wind bloating & gas | 24 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5521714.jpg&w=640&q=90",
+    "source_id": "5521714",
+    "barcode": "9310488800001",
+    "shop": "coles",
+    "category_id": "22417",
+    "weight": "24pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "38",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/40581/de-gas-helps-to-relieve-stomach-wind-bloating-gas",
+    "name": "De-Gas Helps To Relieve Stomach Wind Bloating & Gas 24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/040581.jpg",
+    "source_id": "40581",
+    "barcode": "9310488800001",
+    "shop": "Woolworths",
+    "category_id": "23917",
+    "weight": "24 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "900",
+        "price_per_unit": "38",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/hydralyte-ice-block-lemonade-16-pack-6404104",
+    "name": "Hydralyte Ice Block Lemonade | 16 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6404104.jpg&w=640&q=90",
+    "source_id": "6404104",
+    "barcode": "9317039000972",
+    "shop": "coles",
+    "category_id": "23917",
+    "weight": "16pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1565",
+        "price_per_unit": "98",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/801247/hydralyte-electrolyte-ice-block-lemonade",
+    "name": "Hydralyte Electrolyte Ice Block Lemonade 16 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/801247.jpg",
+    "source_id": "801247",
+    "barcode": "9317039000972",
+    "shop": "Woolworths",
+    "category_id": "23917",
+    "weight": "16 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "88",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/maybelline-superstay-24h-skin-tint-48-30ml-6450509",
+    "name": "Maybelline Superstay 24H Skin Tint 48 | 30mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6450509.jpg&w=640&q=90",
+    "source_id": "6450509",
+    "barcode": "9344329253442",
+    "shop": "coles",
+    "category_id": "23852",
+    "weight": "30ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3800",
+        "price_per_unit": "1267",
+        "price_unit": "10ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/399754/maybelline-superstay-skin-tint-48-foundation",
+    "name": "Maybelline Superstay Skin Tint 48 Foundation 30mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/399754.jpg",
+    "source_id": "399754",
+    "barcode": "9344329253442",
+    "shop": "Woolworths",
+    "category_id": "23851",
+    "weight": "30mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1900",
+        "price_per_unit": "633",
+        "price_unit": "10ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/pureharvest-organic-long-life-oat-milk-1l-6684146",
+    "name": "Pureharvest Organic Long Life Oat Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6684146.jpg&w=640&q=90",
+    "source_id": "6684146",
+    "barcode": "9312231222023",
+    "shop": "coles",
+    "category_id": "22139",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/86298/pureharvest-organic-oat-long-life-milk-uht",
+    "name": "Pureharvest Organic Oat Long Life Milk UHT 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/086298.jpg",
+    "source_id": "86298",
+    "barcode": "9312231222023",
+    "shop": "Woolworths",
+    "category_id": "22136",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/jalna-pot-set-creamy-vanilla-yoghurt-1kg-8724423",
+    "name": "Jalna Pot Set Creamy Vanilla Yoghurt | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F8%2F8724423.jpg&w=640&q=90",
+    "source_id": "8724423",
+    "barcode": "9310354890006",
+    "shop": "coles",
+    "category_id": "22161",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "830",
+        "price_per_unit": "83",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/178437/jalna-pot-set-premium-vanilla-yoghurt",
+    "name": "Jalna Pot Set Premium Vanilla Yoghurt 1Kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/178437.jpg",
+    "source_id": "178437",
+    "barcode": "9310354890006",
+    "shop": "Woolworths",
+    "category_id": "22161",
+    "weight": "1Kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "650",
+        "price_per_unit": "65",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/blue-banner-pickled-onions-brown-chilli-525g-9442880",
+    "name": "Blue Banner Pickled Onions Brown Chilli | 525g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9442880.jpg&w=640&q=90",
+    "source_id": "9442880",
+    "barcode": "9310748076542",
+    "shop": "coles",
+    "category_id": "22812",
+    "weight": "525g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1048",
+        "price_unit": "1KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/176739/blue-banner-pickled-onions-chilli",
+    "name": "Blue Banner Pickled Onions Chilli 525g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/176739.jpg",
+    "source_id": "176739",
+    "barcode": "9310748076542",
+    "shop": "Woolworths",
+    "category_id": "22817",
+    "weight": "525g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "550",
+        "price_per_unit": "1048",
+        "price_unit": "1KG"
+      }
+    ]
+  }
+]

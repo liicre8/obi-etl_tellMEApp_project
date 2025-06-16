@@ -46,6 +46,7 @@ const mylocation = ["nsw", "vic", "qld", "wa", "sa", "tas", "act", "nt"];
 const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
   const prices = [];
   if (priceInCents) {
+    // Town Hall - 2000
     if (location === "nsw") {
       prices.push({
         state: "nsw".toUpperCase(),
@@ -54,6 +55,7 @@ const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
         price_unit: unit ? unit : "",
       });
     }
+    // QV - 3000
     if (location === "vic") {
       prices.push({
         state: "vic".toUpperCase(),
@@ -62,6 +64,7 @@ const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
         price_unit: unit ? unit : "",
       });
     }
+    // Stafford - 4053
     if (location === "qld") {
       prices.push({
         state: "qld".toUpperCase(),
@@ -70,6 +73,7 @@ const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
         price_unit: unit ? unit : "",
       });
     }
+    // Highgate - 6000
     if (location === "wa") {
       prices.push({
         state: "wa".toUpperCase(),
@@ -78,6 +82,7 @@ const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
         price_unit: unit ? unit : "",
       });
     }
+    // Unley - 5061
     if (location === "sa") {
       prices.push({
         state: "sa".toUpperCase(),
@@ -86,6 +91,7 @@ const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
         price_unit: unit ? unit : "",
       });
     }
+    // Sandy Bay - 7005
     if (location === "tas") {
       prices.push({
         state: "tas".toUpperCase(),
@@ -94,6 +100,7 @@ const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
         price_unit: unit ? unit : "",
       });
     }
+    // Canberra Airport - 2609
     if (location === "act") {
       prices.push({
         state: "act".toUpperCase(),
@@ -102,6 +109,7 @@ const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
         price_unit: unit ? unit : "",
       });
     }
+    // Casuarina -0810
     if (location === "nt") {
       prices.push({
         state: "nt".toUpperCase(),
@@ -129,11 +137,9 @@ const CATEGORIES = [
   // { id: '1_6C80D4E', name: 'Health & Safety', url: '/shop/browse/baby/health-safety', location: '/shop/browse/baby/health-safety' },
   // { id: '1_07A6F29', name: 'Pregnancy Care & Family Planning', url: '/shop/browse/baby/pregnancy-care-family-planning', location: '/shop/browse/baby/pregnancy-care-family-planning' },
   
-  
   //[2]// { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' },
   // { id: '1_5402F90', name: 'In-Store Bakery', url: '/shop/browse/bakery/in-store-bakery', location: '/shop/browse/bakery/in-store-bakery' },
   // { id: '1_62B7AA0', name: 'Packaged Bread & Bakery', url: '/shop/browse/bakery/packaged-bread-bakery', location: '/shop/browse/bakery/packaged-bread-bakery' },
-
 
   //[3]// { id: '1_6E4F4E4', name: 'Dairy, Eggs & Fridge', url: '/shop/browse/dairy-eggs-fridge', location: '/shop/browse/dairy-eggs-fridge' },
   // { id: '1_B7EF010', name: 'Cheese', url: '/shop/browse/dairy-eggs-fridge/cheese', location: '/shop/browse/dairy-eggs-fridge/cheese' },
@@ -146,7 +152,6 @@ const CATEGORIES = [
   // { id: '1_00ED79B', name: 'Vegetarian & Vegan', url: '/shop/browse/dairy-eggs-fridge/vegetarian-vegan', location: '/shop/browse/dairy-eggs-fridge/vegetarian-vegan' },
   // { id: '1_914C9DE', name: 'International Foods', url: '/shop/browse/dairy-eggs-fridge/international-foods', location: '/shop/browse/dairy-eggs-fridge/international-foods' },
   
-
   //[4]// { id: '1_3151F6F', name: 'Deli', url: '/shop/browse/deli', location: '/shop/browse/deli' },
   // { id: '1_696F07C', name: 'Deli Meats', url: '/shop/browse/deli-chilled-meals/deli-meats', location: '/shop/browse/deli-chilled-meals/deli-meats' },
   // { id: '1_CA60E21', name: 'Deli Specialties', url: '/shop/browse/deli-chilled-meals/deli-specialties', location: '/shop/browse/deli-chilled-meals/deli-specialties' },
@@ -233,8 +238,6 @@ const CATEGORIES = [
   // { id: '1_889CCA1', name: 'Dining & Entertaining', url: '/shop/browse/home-lifestyle/dining-entertaining', location: '/shop/browse/home-lifestyle/dining-entertaining' },
   // { id: '1_792C364', name: 'Party Supplies', url: '/shop/browse/home-lifestyle/party-supplies', location: '/shop/browse/home-lifestyle/party-supplies' },
   // { id: '1_6D2541E', name: 'Kitchenware & Storage', url: '/shop/browse/home-lifestyle/kitchenware-storage', location: '/shop/browse/home-lifestyle/kitchenware-storage' },
-  
-  
   // { id: '1_3D142C0', name: 'Clothing & Accessories', url: '/shop/browse/home-lifestyle/clothing-accessories', location: '/shop/browse/home-lifestyle/clothing-accessories' },
   // { id: '1_CAAEDBB', name: 'Stationery & Office Supplies', url: '/shop/browse/home-lifestyle/stationery-office-supplies', location: '/shop/browse/home-lifestyle/stationery-office-supplies' },
    
@@ -249,7 +252,7 @@ const CATEGORIES = [
 
   
   // Scraping All Locations
-  // { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' },
+  //[1]// { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' },
   // { id: '1-5931EE89', name: 'Fruit', url: '/shop/browse/fruit-veg/fruit', location: '/shop/browse/fruit-veg/fruit' },
   // { id: '1_AC17EDD', name: 'Vegetables', url: '/shop/browse/fruit-veg/fruit', location: '/shop/browse/fruit-veg/vegetables' },
   // { id: '1_2684504', name: 'Salad', url: '/shop/browse/fruit-veg/salad', location: '/shop/browse/fruit-veg/salad' },
@@ -258,16 +261,14 @@ const CATEGORIES = [
   // { id: '1_8929F1D', name: 'Fresh Herbs, Garlic & Chillies', url: '/shop/browse/fruit-veg/fresh-herbs-garlic-chillies', location: '/shop/browse/fruit-veg/fresh-herbs-garlic-chillies' },
   // { id: '1_94DB57C', name: 'Snacking', url: '/shop/browse/fruit-veg/snacking', location: '/shop/browse/fruit-veg/snacking' },
 
-  // { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
+  //[2]// { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
   // { id: '1_2B67965', name: 'Poultry', url: '/shop/browse/poultry-meat-seafood/poultry', location: '/shop/browse/poultry-meat-seafood/poultry' },
   // { id: '1_CED9B86', name: 'Meat', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
-  // { id: '1_D610306', name: 'Seafood', url: '/shop/browse/poultry-meat-seafood/seafood', location: '/shop/browse/poultry-meat-seafood/seafood' },
+  { id: '1_D610306', name: 'Seafood', url: '/shop/browse/poultry-meat-seafood/seafood', location: '/shop/browse/poultry-meat-seafood/seafood' },
   { id: '1_3643AAB', name: 'Mince', url: '/shop/browse/poultry-meat-seafood/mince', location: '/shop/browse/poultry-meat-seafood/mince' },
   { id: '1_F3CEF67', name: 'BBQ Meat', url: '/shop/browse/poultry-meat-seafood/bbq-meat', location: '/shop/browse/poultry-meat-seafood/bbq-meat' },
   { id: '1_073D435', name: 'Organic Meat & Poultry', url: '/shop/browse/poultry-meat-seafood/organic-meat-poultry', location: '/shop/browse/poultry-meat-seafood/organic-meat-poultry' },
  
-
-  
 ];
 const WOOLWORTHS_URL = "https://www.woolworths.com.au";
 const SPEED_LIMIT = 200;

@@ -260,8 +260,8 @@ const WOOLWORTHS_API_ENDPOINT = "https://www.woolworths.com.au/apis/ui/browse/ca
 const CATEGORIES = [
 
   { id: '1_D16A085', name: 'Newborn', url: '/shop/browse/baby/baby-toddler-clothing/newborn', location: '/shop/browse/baby/baby-toddler-clothing/newborn' },
-  { id: '1_F1C089F', name: 'Toddler', url: '/shop/browse/baby/baby-toddler-clothing/toddler', location: '/shop/browse/baby/baby-toddler-clothing/toddler' },
-  { id: '1_D791FDB', name: 'Accessories', url: '/shop/browse/baby/baby-toddler-clothing/accessories', location: '/shop/browse/baby/baby-toddler-clothing/accessories' },
+  // { id: '1_F1C089F', name: 'Toddler', url: '/shop/browse/baby/baby-toddler-clothing/toddler', location: '/shop/browse/baby/baby-toddler-clothing/toddler' },
+  // { id: '1_D791FDB', name: 'Accessories', url: '/shop/browse/baby/baby-toddler-clothing/accessories', location: '/shop/browse/baby/baby-toddler-clothing/accessories' },
 
   
   // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby', formatObject: "{\"name\":\"Baby\"}" },

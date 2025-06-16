@@ -1,0 +1,362 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/devondale-full-cream-long-life-milk-1l-301721",
+    "name": "Devondale Full Cream Long Life Milk | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F301721.jpg&w=640&q=90",
+    "source_id": "301721",
+    "barcode": "9300639500041",
+    "shop": "coles",
+    "category_id": "22136",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "1L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33557/devondale-100-pure-full-cream-long-life-milk-uht",
+    "name": "Devondale 100% Pure Full Cream Long Life Milk UHT 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/033557.jpg",
+    "source_id": "33557",
+    "barcode": "9300639500041",
+    "shop": "Woolworths",
+    "category_id": "22136",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "220",
+        "price_per_unit": "220",
+        "price_unit": "L"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/morning-sun-natural-apricot-and-almond-muesli-650g-376980",
+    "name": "Morning Sun Natural Apricot & Almond Muesli | 650g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F376980.jpg&w=640&q=90",
+    "source_id": "376980",
+    "barcode": "9300605118034",
+    "shop": "coles",
+    "category_id": "22791",
+    "weight": "650g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "69",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/336408/morning-sun-apricot-almond-breakfast-cereal",
+    "name": "Morning Sun Apricot & Almond Breakfast Cereal 650g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/336408.jpg",
+    "source_id": "336408",
+    "barcode": "9300605118034",
+    "shop": "Woolworths",
+    "category_id": "22791",
+    "weight": "650g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "450",
+        "price_per_unit": "69",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/elastoplast-sensitive-hypoallergenic-transparent-spots-24-pack-1218260",
+    "name": "Elastoplast Sensitive Hypoallergenic Transparent Spots | 24 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F1%2F1218260.jpg&w=640&q=90",
+    "source_id": "1218260",
+    "barcode": "4005802318380",
+    "shop": "coles",
+    "category_id": "22416",
+    "weight": "24pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "17",
+        "price_unit": "1EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6009161/elastoplast-hypoallergenic-clear-spots-24",
+    "name": "Elastoplast Hypoallergenic Clear Spots 24 24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6009161.jpg",
+    "source_id": "6009161",
+    "barcode": "4005802318380",
+    "shop": "Woolworths",
+    "category_id": "22416",
+    "weight": "24 pack",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "17",
+        "price_unit": "EA"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/meiji-hello-panda-chocolate-biscuits-50g-2020563",
+    "name": "Meiji Hello Panda Chocolate Biscuits | 50g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2020563.jpg&w=640&q=90",
+    "source_id": "2020563",
+    "barcode": "8888077102023",
+    "shop": "coles",
+    "category_id": "22849",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "420",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/329808/meiji-biscuit-hello-panda-snacks-chocolate",
+    "name": "Meiji Biscuit Hello Panda Snacks Chocolate 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/329808.jpg",
+    "source_id": "329808",
+    "barcode": "8888077102023",
+    "shop": "Woolworths",
+    "category_id": "22849",
+    "weight": "50g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/massel-salt-reduced-liquid-chicken-stock-1l-5000303",
+    "name": "Massel Salt Reduced Liquid Chicken Stock | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5000303.jpg&w=640&q=90",
+    "source_id": "5000303",
+    "barcode": "810206005088",
+    "shop": "coles",
+    "category_id": "22885",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "335",
+        "price_per_unit": "34",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/505351/massel-plant-based-chicken-style-liquid-stock-salt-reduced",
+    "name": "Massel Plant Based Chicken Style Liquid Stock Salt Reduced 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/505351.jpg",
+    "source_id": "505351",
+    "barcode": "810206005088",
+    "shop": "Woolworths",
+    "category_id": "22885",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "420",
+        "price_per_unit": "42",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/health-basics-dermaplus-body-wash-1l-5103306",
+    "name": "Health Basics Dermaplus Body Wash | 1L",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5103306.jpg&w=640&q=90",
+    "source_id": "5103306",
+    "barcode": "9400571740595",
+    "shop": "coles",
+    "category_id": "23885",
+    "weight": "1l",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "130",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/237850/health-basics-body-wash-dermatology-plus",
+    "name": "Health Basics Body Wash Dermatology Plus 1l",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/237850.jpg",
+    "source_id": "237850",
+    "barcode": "9400571740595",
+    "shop": "Woolworths",
+    "category_id": "23821",
+    "weight": "1L",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1300",
+        "price_per_unit": "130",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mum-dry-antiperspirant-cool-pink-all-day-roll-on-deodorant-50ml-5316680",
+    "name": "Mum Dry Antiperspirant Cool Pink All Day Roll On Deodorant | 50mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5316680.jpg&w=640&q=90",
+    "source_id": "5316680",
+    "barcode": "4013162034505",
+    "shop": "coles",
+    "category_id": "23920",
+    "weight": "50ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "680",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/48664/mum-anti-perspirant-deodorant-dry-cool-pink-all-day",
+    "name": "Mum Anti Perspirant Deodorant Dry Cool Pink All Day 50ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/048664.jpg",
+    "source_id": "48664",
+    "barcode": "4013162034505",
+    "shop": "Woolworths",
+    "category_id": "23821",
+    "weight": "50mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/maggi-gluten-free-side-dishes-potato-bake-cheese-and-bacon-21g-5548153",
+    "name": "Maggi Gluten Free Side Dishes Potato Bake Cheese And Bacon | 21g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5548153.jpg&w=640&q=90",
+    "source_id": "5548153",
+    "barcode": "9300605112827",
+    "shop": "coles",
+    "category_id": "22883",
+    "weight": "21g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "185",
+        "price_per_unit": "881",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/579736/maggi-side-dishes-cheese-bacon-potato-bake",
+    "name": "Maggi Side Dishes Cheese & Bacon Potato Bake 21g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/579736.jpg",
+    "source_id": "579736",
+    "barcode": "9300605112827",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "21g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "185",
+        "price_per_unit": "881",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/maggi-gluten-free-side-dishes-potato-bake-cheese-and-garlic-23g-5548200",
+    "name": "Maggi Gluten Free Side Dishes Potato Bake Cheese And Garlic | 23g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5548200.jpg&w=640&q=90",
+    "source_id": "5548200",
+    "barcode": "9300605112834",
+    "shop": "coles",
+    "category_id": "22883",
+    "weight": "23g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "185",
+        "price_per_unit": "804",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/579719/maggi-side-dishes-creamy-cheese-and-garlic-potato-bake",
+    "name": "Maggi Side Dishes Creamy Cheese And Garlic Potato Bake 24g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/579719.jpg",
+    "source_id": "579719",
+    "barcode": "9300605112834",
+    "shop": "Woolworths",
+    "category_id": "22883",
+    "weight": "24g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "185",
+        "price_per_unit": "771",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mingle-taco-recipe-base-30g-7381220",
+    "name": "Mingle Taco Recipe Base | 30g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7381220.jpg&w=640&q=90",
+    "source_id": "7381220",
+    "barcode": "9350465006019",
+    "shop": "coles",
+    "category_id": "22855",
+    "weight": "30g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "260",
+        "price_per_unit": "867",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/68721/mingle-taco-mexican-fiesta-recipe-base",
+    "name": "Mingle Taco Mexican Fiesta Recipe Base 30g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/068721.jpg",
+    "source_id": "68721",
+    "barcode": "9350465006019",
+    "shop": "Woolworths",
+    "category_id": "22844",
+    "weight": "30g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "205",
+        "price_per_unit": "68",
+        "price_unit": "G"
+      }
+    ]
+  }
+]

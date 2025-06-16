@@ -28,7 +28,7 @@ const categories = [
           { subId: '22048', childId: '22055', extensionCategory: 'Night Pants', url: 'https:www.coles.com.au/browse/baby/nappies-nappy-pants/night-pants' },
           { subId: '22048', childId: '22058', extensionCategory: 'Swimmers', url: 'https:www.coles.com.au/browse/baby/nappies-nappy-pants/swimmers' },
 
-          // { subId: '22048', childId: '22054', extensionCategory: 'Reusable Nappies', url: 'https://www.coles.com.au/browse/baby/nappies-nappy-pants/reusable-nappies' },
+          //Not Exist { subId: '22048', childId: '22054', extensionCategory: 'Reusable Nappies', url: 'https://www.coles.com.au/browse/baby/nappies-nappy-pants/reusable-nappies' },
         ],
       },
       {
@@ -191,7 +191,7 @@ const categories = [
           { subId: '22074', childId: '22076', extensionCategory: 'Packaged Cake & Sweet Treats', url: 'https:www.coles.com.au/browse/bakery/gluten-free-range/packaged-cake-sweet-treats' },        
           { subId: '22074', childId: '22088', extensionCategory: 'Packaged Wraps, Flat Bread and Pizza Bases', url: 'https:www.coles.com.au/browse/bakery/gluten-free-range/packaged-wraps-flat-bread-and-pizza-bases' },
           
-          // { subId: '22074', childId: '22079', extensionCategory: 'Gluten Free Hot Cross Buns', url: 'https:www.coles.com.au/browse/bakery/gluten-free-range/gluten-free-hot-cross-buns' },
+          //Not exist { subId: '22074', childId: '22079', extensionCategory: 'Gluten Free Hot Cross Buns', url: 'https:www.coles.com.au/browse/bakery/gluten-free-range/gluten-free-hot-cross-buns' },
         ],
       },
       {
@@ -251,7 +251,7 @@ const categories = [
           { subId: '22074', childId: '22077', extensionCategory: 'Pikelets, Pancakes and Crepes', url: 'https:www.coles.com.au/browse/bakery/packaged-breakfast-snacks/pikelets-pancakes-and-crepes' },
           { subId: '22074', childId: '22077', extensionCategory: 'Waffles', url: 'https:www.coles.com.au/browse/bakery/packaged-breakfast-snacks/waffles' },
           
-          // { subId: '22074', childId: '22079', extensionCategory: 'Gluten Free Packaged Snacks', url: 'https:www.coles.com.au/browse/bakery/packaged-breakfast-snacks/gluten-free-packaged-snacks' },
+          //Not exist { subId: '22074', childId: '22079', extensionCategory: 'Gluten Free Packaged Snacks', url: 'https:www.coles.com.au/browse/bakery/packaged-breakfast-snacks/gluten-free-packaged-snacks' },
         ],
       },
       {
@@ -338,6 +338,7 @@ const categories = [
         childItems: [
           { subId: '22108', childId: '22109', extensionCategory: 'Dips', url: 'https:www.coles.com.au/browse/dairy-eggs-fridge/dips-pate/dips' },
           { subId: '22108', childId: '22111', extensionCategory: 'Paste', url: 'https:www.coles.com.au/browse/dairy-eggs-fridge/dips-pate/paste' },
+          { subId: '22108', childId: '22111', extensionCategory: 'Pate', url: 'https:www.coles.com.au/browse/dairy-eggs-fridge/dips-pate/pate' },
         ],
       },
       {
@@ -795,16 +796,14 @@ const categories = [
           { subId: '22352', childId: '22353', extensionCategory: 'Pears', url: 'https:www.coles.com.au/browse/fruit-vegetables/fruit/pears' },
           { subId: '22352', childId: '22362', extensionCategory: 'Pineapples', url: 'https:www.coles.com.au/browse/fruit-vegetables/fruit/pineapples' },
           { subId: '22352', childId: '22364', extensionCategory: 'Tropical & Exotic Fruit', url: 'https:www.coles.com.au/browse/fruit-vegetables/fruit/tropical-exotic-fruit' },
-          
-          // Removed 
-          // { subId: '22352', childId: '22364', extensionCategory: 'Peaches & Nectarines', url: 'https:www.coles.com.au/browse/fruit-vegetables/fruit/peaches-nectarines' },
-          // { subId: '22352', childId: '22364', extensionCategory: 'Plums & Apricots', url: 'https:www.coles.com.au/browse/fruit-vegetables/fruit/plums-apricots' },
-          
+          { subId: '22352', childId: '22364', extensionCategory: 'Peaches & Nectarines', url: 'https:www.coles.com.au/browse/fruit-vegetables/fruit/peaches-nectarines' },
+          { subId: '22352', childId: '22364', extensionCategory: 'Plums & Apricots', url: 'https:www.coles.com.au/browse/fruit-vegetables/fruit/plums-apricots' },
         ],
       },
       {
         subCategory: 'Vegetables',
         childItems: [
+          { subId: '22379', childId: '22391', extensionCategory: 'Asian Greens', url: 'https:www.coles.com.au/browse/fruit-vegetables/vegetables/asian-greens' },
           { subId: '22379', childId: '22388', extensionCategory: 'Asparagus, Fennel & Artichokes', url: 'https:www.coles.com.au/browse/fruit-vegetables/vegetables/asparagus-fennel-artichokes' },
           { subId: '22379', childId: '22383', extensionCategory: 'Beetroot', url: 'https:www.coles.com.au/browse/fruit-vegetables/vegetables/beetroot' },
           { subId: '22379', childId: '22391', extensionCategory: 'Bok Choy & Asian Greens', url: 'https:www.coles.com.au/browse/fruit-vegetables/vegetables/bok-choy-asian-greens' },
@@ -820,7 +819,7 @@ const categories = [
           { subId: '22379', childId: '22376', extensionCategory: 'Lettuce', url: 'https:www.coles.com.au/browse/fruit-vegetables/vegetables/lettuce' },
           { subId: '22379', childId: '22390', extensionCategory: 'Mashed & Cut Vegetables', url: 'https:www.coles.com.au/browse/fruit-vegetables/vegetables/mashed-cut-vegetables' },
           { subId: '22379', childId: '22382', extensionCategory: 'Mushrooms', url: 'https:www.coles.com.au/browse/fruit-vegetables/vegetables/mushrooms' },
-          { subId: '22379', childId: '22386', extensionCategory: 'Onion & Leeks', url: 'https:www.coles.com.au/browse/fruit-vegetables/vegetables/onion-leeks' },
+          { subId: '22379', childId: '22383', extensionCategory: 'Onion & Leeks', url: 'https:www.coles.com.au/browse/fruit-vegetables/vegetables/onion-leeks' },
           { subId: '22368', childId: '23987', extensionCategory: 'Organic Vegetables', url: 'https:www.coles.com.au/browse/fruit-vegetables/vegetables/organic-vegetables' },
           { subId: '22379', childId: '22388', extensionCategory: 'Peas, Beans & Okra', url: 'https:www.coles.com.au/browse/fruit-vegetables/vegetables/peas-beans-okra' },
           { subId: '22379', childId: '22389', extensionCategory: 'Potatoes', url: 'https:www.coles.com.au/browse/fruit-vegetables/vegetables/potatoes' },
@@ -835,17 +834,15 @@ const categories = [
       {
         subCategory: 'Nuts & Dried Fruit',
         childItems: [
-          // No Proper Category Client Schema
-          // { subId: '22352', childId: '', extensionCategory: 'Almonds', url: 'https:www.coles.com.au/browse/fruit-vegetables/nuts-dried-fruit/almonds' },
-          // { subId: '22352', childId: '', extensionCategory: 'Cashews', url: 'https:www.coles.com.au/browse/fruit-vegetables/nuts-dried-fruit/cashews' },
-          // { subId: '22352', childId: '', extensionCategory: 'Mixed Fruit & Nuts', url: 'https:www.coles.com.au/browse/fruit-vegetables/nuts-dried-fruit/mixed-fruit-nuts' },
-          // { subId: '22352', childId: '', extensionCategory: 'Other Nuts', url: 'https:www.coles.com.au/browse/fruit-vegetables/nuts-dried-fruit/other-nuts' },
-          // { subId: '22352', childId: '', extensionCategory: 'Peanuts', url: 'https:www.coles.com.au/browse/fruit-vegetables/nuts-dried-fruit/peanuts' },
-          // { subId: '22352', childId: '', extensionCategory: 'Pistachio', url: 'https:www.coles.com.au/browse/fruit-vegetables/nuts-dried-fruit/pistachio' },
-          // { subId: '22352', childId: '', extensionCategory: 'Pretzels & Party Mixes', url: 'https:www.coles.com.au/browse/fruit-vegetables/nuts-dried-fruit/pretzels-party-mixes' },
-          
+          { catId: '22770', subId: '22771', childId: '22781', extensionCategory: 'Almonds', url: 'https:www.coles.com.au/browse/fruit-vegetables/nuts-dried-fruit/almonds' },
+          { catId: '22770', subId: '22771', childId: '22781', extensionCategory: 'Cashews', url: 'https:www.coles.com.au/browse/fruit-vegetables/nuts-dried-fruit/cashews' },
+          { catId: '22770', subId: '22771', childId: '22781', extensionCategory: 'Mixed Fruit & Nuts', url: 'https:www.coles.com.au/browse/fruit-vegetables/nuts-dried-fruit/mixed-fruit-nuts' },
+          { catId: '22770', subId: '22771', childId: '22781', extensionCategory: 'Other Nuts', url: 'https:www.coles.com.au/browse/fruit-vegetables/nuts-dried-fruit/other-nuts' },
+          { catId: '22770', subId: '22771', childId: '22781', extensionCategory: 'Peanuts', url: 'https:www.coles.com.au/browse/fruit-vegetables/nuts-dried-fruit/peanuts' },
+          { catId: '22770', subId: '22771', childId: '22781', extensionCategory: 'Pistachio', url: 'https:www.coles.com.au/browse/fruit-vegetables/nuts-dried-fruit/pistachio' },
+          { catId: '22770', subId: '22771', childId: '22781', extensionCategory: 'Pretzels & Party Mixes', url: 'https:www.coles.com.au/browse/fruit-vegetables/nuts-dried-fruit/pretzels-party-mixes' },
+          { catId: '22770', subId: '22771', childId: '22781', extensionCategory: 'Dried Fruit', url: 'https:www.coles.com.au/browse/fruit-vegetables/nuts-dried-fruit/dried-fruit' },
           { subId: '22352', childId: '22355', extensionCategory: 'Dates', url: 'https:www.coles.com.au/browse/fruit-vegetables/nuts-dried-fruit/dates' },
-          { subId: '22352', childId: '22355', extensionCategory: 'Dried Fruit', url: 'https:www.coles.com.au/browse/fruit-vegetables/nuts-dried-fruit/dried-fruit' },
         ],
       },
       {
@@ -862,7 +859,7 @@ const categories = [
           { subId: '22372', childId: '22376', extensionCategory: 'Lettuce & Mixed Leaf', url: 'https:www.coles.com.au/browse/fruit-vegetables/packaged-salad/lettuce-mixed-leaf' },
           { subId: '22372', childId: '22375', extensionCategory: 'Salad Bowls', url: 'https:www.coles.com.au/browse/fruit-vegetables/packaged-salad/salad-bowls' },
           { subId: '22372', childId: '22375', extensionCategory: 'Salads Dressed', url: 'https:www.coles.com.au/browse/fruit-vegetables/packaged-salad/salads-dressed' },
-          { catId:"22770", subId: '22811', childId: '22818', extensionCategory: 'Sauces & Salad Dressing', url: 'https:www.coles.com.au/browse/fruit-vegetables/packaged-salad/sauces-salad-dressing' },
+          { catId: '22770', subId: '22811', childId: '22818', extensionCategory: 'Sauces & Salad Dressing', url: 'https:www.coles.com.au/browse/fruit-vegetables/packaged-salad/sauces-salad-dressing' },
           { subId: '22372', childId: '22376', extensionCategory: 'Slaws & Salad Kits', url: 'https:www.coles.com.au/browse/fruit-vegetables/packaged-salad/slaws-salad-kits' },
         ],
       },
@@ -887,13 +884,13 @@ const categories = [
       {
         subCategory: 'Scoop & Weigh',
         childItems: [
-          { catId:"22770", subId: '22771', childId: '22781', extensionCategory: 'Almond', url: 'https:www.coles.com.au/browse/fruit-vegetables/scoop-weigh/almond' },
-          { catId:"22770", subId: '22771', childId: '22781', extensionCategory: 'Cashew', url: 'https:www.coles.com.au/browse/fruit-vegetables/scoop-weigh/cashew' },
-          { catId:"22770", subId: '22771', childId: '22776', extensionCategory: 'Dry Fruits', url: 'https:www.coles.com.au/browse/fruit-vegetables/scoop-weigh/dry-fruits' },
-          { catId:"22770", subId: '22771', childId: '22781', extensionCategory: 'Macadamia, Hazelnuts & Pecans', url: 'https:www.coles.com.au/browse/fruit-vegetables/scoop-weigh/macadamia-hazelnuts-pecans' },
-          { catId:"22770", subId: '22771', childId: '22781', extensionCategory: 'Mixed Scoop & Weigh', url: 'https:www.coles.com.au/browse/fruit-vegetables/scoop-weigh/mixed-scoop-weigh' },
-          { catId:"22770", subId: '22771', childId: '22781', extensionCategory: 'Other Scoop & Weigh', url: 'https:www.coles.com.au/browse/fruit-vegetables/scoop-weigh/other-scoop-weigh' },
-          { catId:"22770", subId: '22771', childId: '22781', extensionCategory: 'Walnuts, Pistachio & Peanut', url: 'https:www.coles.com.au/browse/fruit-vegetables/scoop-weigh/walnuts-pistachio-peanut' },
+          { catId: '22770', subId: '22771', childId: '22781', extensionCategory: 'Almond', url: 'https:www.coles.com.au/browse/fruit-vegetables/scoop-weigh/almond' },
+          { catId: '22770', subId: '22771', childId: '22781', extensionCategory: 'Cashew', url: 'https:www.coles.com.au/browse/fruit-vegetables/scoop-weigh/cashew' },
+          { catId: '22770', subId: '22771', childId: '22776', extensionCategory: 'Dry Fruits', url: 'https:www.coles.com.au/browse/fruit-vegetables/scoop-weigh/dry-fruits' },
+          { catId: '22770', subId: '22771', childId: '22781', extensionCategory: 'Macadamia, Hazelnuts & Pecans', url: 'https:www.coles.com.au/browse/fruit-vegetables/scoop-weigh/macadamia-hazelnuts-pecans' },
+          { catId: '22770', subId: '22771', childId: '22781', extensionCategory: 'Mixed Scoop & Weigh', url: 'https:www.coles.com.au/browse/fruit-vegetables/scoop-weigh/mixed-scoop-weigh' },
+          { catId: '22770', subId: '22771', childId: '22781', extensionCategory: 'Other Scoop & Weigh', url: 'https:www.coles.com.au/browse/fruit-vegetables/scoop-weigh/other-scoop-weigh' },
+          { catId: '22770', subId: '22771', childId: '22781', extensionCategory: 'Walnuts, Pistachio & Peanut', url: 'https:www.coles.com.au/browse/fruit-vegetables/scoop-weigh/walnuts-pistachio-peanut' },
         ],
       },
     ],
@@ -1277,7 +1274,7 @@ const categories = [
           { subId: '22771', childId: '22774', extensionCategory: 'Cake & Bread Mixes', url: 'https:www.coles.com.au/browse/pantry/baking/cake-bread-mixes' },
           { subId: '22771', childId: '22780', extensionCategory: 'Cake Decorating', url: 'https:www.coles.com.au/browse/pantry/baking/cake-decorating' },
           { subId: '22771', childId: '22775', extensionCategory: 'Cooking Chocolate & Cocoa', url: 'https:www.coles.com.au/browse/pantry/baking/cooking-chocolate-cocoa' },
-          { subId: '22771', childId: '22776', extensionCategory: 'Dried Fruits & Fillings', url: 'https:www.coles.com.au/browse/pantry/baking/dried-fruits-fillings' },
+          { subId: '22771', childId: '22781', extensionCategory: 'Dried Fruits & Fillings', url: 'https:www.coles.com.au/browse/pantry/baking/dried-fruits-fillings' },
           { subId: '22771', childId: '22777', extensionCategory: 'Essence & Food Colouring', url: 'https:www.coles.com.au/browse/pantry/baking/essence-food-colouring' },
           { subId: '22771', childId: '22778', extensionCategory: 'Flour', url: 'https:www.coles.com.au/browse/pantry/baking/flour' },
           { subId: '22771', childId: '22781', extensionCategory: 'Nuts for Baking', url: 'https:www.coles.com.au/browse/pantry/baking/nuts-for-baking' },
@@ -1316,9 +1313,7 @@ const categories = [
           { subId: '22796', childId: '22809', extensionCategory: 'Instant Meals & Sides', url: 'https:www.coles.com.au/browse/pantry/canned-food-soups-noodles/instant-meals-sides' },
           { subId: '22796', childId: '22809', extensionCategory: 'Noodles', url: 'https:www.coles.com.au/browse/pantry/canned-food-soups-noodles/noodles' },
           { subId: '22796', childId: '22804', extensionCategory: 'Soups', url: 'https:www.coles.com.au/browse/pantry/canned-food-soups-noodles/soups' },
-          
-          //No Proper Category
-          // { subId: '22199', childId: '22838', extensionCategory: 'Condensed & Evaporated Milk', url: 'https:www.coles.com.au/browse/pantry/canned-food-soups-noodles/condensed-evaporated-milk' },
+          { catId: "22164", subId: "22199", childId: "22838", extensionCategory: 'Condensed & Evaporated Milk', url: 'https:www.coles.com.au/browse/pantry/canned-food-soups-noodles/condensed-evaporated-milk' },
         ],
       },
       {
@@ -1383,9 +1378,7 @@ const categories = [
           { subId: '22848', childId: '22855', extensionCategory: 'Mexican', url: 'https:www.coles.com.au/browse/pantry/international-foods/mexican' },
           { subId: '22848', childId: '22858', extensionCategory: 'South African', url: 'https:www.coles.com.au/browse/pantry/international-foods/south-african' },
           { subId: '22848', childId: '22859', extensionCategory: 'Uk', url: 'https:www.coles.com.au/browse/pantry/international-foods/uk' },
-          
-          // Removed
-          // { subId: '22848', childId: '22856', extensionCategory: 'Middle Eastern', url: 'https:www.coles.com.au/browse/pantry/international-foods/middle-eastern' },
+          { subId: '22848', childId: '22856', extensionCategory: 'Middle Eastern', url: 'https:www.coles.com.au/browse/pantry/international-foods/middle-eastern' },
     
           // No Proper Category
           // { subId: '', childId: '', extensionCategory: 'New Zealand', url: 'https:www.coles.com.au/browse/pantry/international-foods/new-zealand' }, 
@@ -1424,11 +1417,10 @@ const categories = [
           { subId: '22832', childId: '23986', extensionCategory: 'Pasta', url: 'https:www.coles.com.au/browse/pantry/pasta-rice-legumes-grains/pasta' },
           { subId: '22832', childId: '22870', extensionCategory: 'Pasta', url: 'https:www.coles.com.au/browse/pantry/pasta-rice-legumes-grains/pasta' },
           { subId: '22832', childId: '22873', extensionCategory: 'Pasta', url: 'https:www.coles.com.au/browse/pantry/pasta-rice-legumes-grains/pasta' },
+          { subId: '22832', childId: '22871', extensionCategory: 'Pasta Meals', url: 'https://www.coles.com.au/browse/pantry/pasta-rice-legumes-grains/pasta-meals' },
           { subId: '22868', childId: '22875', extensionCategory: 'Polenta & Other Grains', url: 'https:www.coles.com.au/browse/pantry/pasta-rice-legumes-grains/polenta-other-grains' },
           { subId: '22868', childId: '22876', extensionCategory: 'Rice', url: 'https:www.coles.com.au/browse/pantry/pasta-rice-legumes-grains/rice' },
-          
-          // No Proper Category
-          // { subId: '22832', childId: '22835', extensionCategory: 'Fresh Pasta', url: 'https:www.coles.com.au/browse/pantry/pasta-rice-legumes-grains/fresh-pasta' },
+          { subId: '22832', childId: '22835', extensionCategory: 'Fresh Pasta', url: 'https:www.coles.com.au/browse/pantry/pasta-rice-legumes-grains/fresh-pasta' },
         ],
       },
       {
@@ -1544,10 +1536,8 @@ const categories = [
           { subId: '22714', childId: '22716', extensionCategory: 'Burgers & Rissoles', url: 'https:www.coles.com.au/browse/meat-seafood/bbq-sausages-burgers/burgers-rissoles' },
           { subId: '22714', childId: '23935', extensionCategory: 'Kebabs', url: 'https://www.coles.com.au/browse/meat-seafood/bbq-sausages-burgers/kebabs' },
           { subId: '22714', childId: '22716', extensionCategory: 'Sausages', url: 'https:www.coles.com.au/browse/meat-seafood/bbq-sausages-burgers/sausages' },
-        
-          // No Proper Category
-          // { subId: '', childId: '', extensionCategory: 'Meatballs', url: 'https:www.coles.com.au/browse/meat-seafood/bbq-sausages-burgers/meatballs' },
-          // { subId: '', childId: '', extensionCategory: 'Sausage Mince', url: 'https:www.coles.com.au/browse/meat-seafood/bbq-sausages-burgers/sausage-mince' },
+          { subId: '22714', childId: '22716', extensionCategory: 'Sausage Mince', url: 'https:www.coles.com.au/browse/meat-seafood/bbq-sausages-burgers/sausage-mince' },
+          { subId: '22714', childId: '22716', extensionCategory: 'Meatballs', url: 'https:www.coles.com.au/browse/meat-seafood/bbq-sausages-burgers/meatballs' },
         ],
       },
       {
@@ -1586,9 +1576,7 @@ const categories = [
           { subId: '24024', childId: '22719', extensionCategory: 'Organic Lamb', url: 'https:www.coles.com.au/browse/meat-seafood/organic-meat/organic-lamb' },
           { subId: '24059', childId: '24059', extensionCategory: 'Organic Poultry', url: 'https:www.coles.com.au/browse/meat-seafood/organic-meat/organic-poultry' },
           { subId: '22714', childId: '22716', extensionCategory: 'Organic Sausages & Meatballs', url: 'https:www.coles.com.au/browse/meat-seafood/organic-meat/organic-sausages-meatballs' },
-        
-          // No Proper Category
-          // { subId: '', childId: '', extensionCategory: 'Organic Beef', url: 'https:www.coles.com.au/browse/meat-seafood/organic-meat/organic-beef' },
+          { subId: '24059', childId: '24059', extensionCategory: 'Organic Beef', url: 'https:www.coles.com.au/browse/meat-seafood/organic-meat/organic-beef' },
         ],
       },
       {
@@ -1633,34 +1621,32 @@ const categories = [
           { subId: '22758', childId: '22761', extensionCategory: 'Smoked and Cured Fish', url: 'https:www.coles.com.au/browse/meat-seafood/seafood/smoked-and-cured-fish' },
         ],
       },
-      // No Proper Category
-      // {
-      //   subCategory: 'Beef & Veal',
-      //   childItems: [
-      //     { subId: '', childId: '', extensionCategory: 'Beef & Veal Mince', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/beef-veal-mince' },
-      //     { subId: '', childId: '', extensionCategory: 'Beef Bones & Offal', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/beef-bones-offal' },
-      //     { subId: '', childId: '', extensionCategory: 'Beef Roasts', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/beef-roasts' },
-      //     { subId: '', childId: '', extensionCategory: 'Beef Steaks', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/beef-steaks' },
-      //     { subId: '', childId: '', extensionCategory: 'Crumbed Beef', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/crumbed-beef' },
-      //     { subId: '', childId: '', extensionCategory: 'Graze Beef', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/graze-beef' },
-      //     { subId: '', childId: '', extensionCategory: 'Slow Cook & Casserole Beef', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/slow-cook-casserole-beef' },
-      //     { subId: '', childId: '', extensionCategory: 'Stir Fry & Diced Beef', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/stir-fry-diced-beef' },
-      //     { subId: '', childId: '', extensionCategory: 'Veal', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/veal' },
-      //   ],
-      // },
-      // No Proper Category
-      // {
-      //   subCategory: 'Mince',
-      //   childItems: [
-      //     { subId: '', childId: '', extensionCategory: 'Beef & Veal Mince', url: 'https:www.coles.com.au/browse/meat-seafood/mince/beef-veal-mince' },
-      //     { subId: '', childId: '22717', extensionCategory: 'Chicken & Turkey Mince', url: 'https:www.coles.com.au/browse/meat-seafood/mince/chicken-turkey-mince' },
-      //     { catId: '', subId: '', childId: '24029', extensionCategory: 'Kangaroo & Wallaby Mince', url: 'https:www.coles.com.au/browse/meat-seafood/mince/kangaroo-wallaby-mince' },
-      //     { subId: '', childId: '', extensionCategory: 'Lamb Mince', url: 'https:www.coles.com.au/browse/meat-seafood/mince/lamb-mince' },
-      //     { subId: '', childId: '', extensionCategory: 'Pork Mince', url: 'https:www.coles.com.au/browse/meat-seafood/mince/pork-mince' },
-      //     { catId: '', subId: '', childId: '', extensionCategory: 'Sausage Mince', url: 'https:www.coles.com.au/browse/meat-seafood/mince/sausage-mince' },
-      //   ],
-      // },
-      // No Proper Category
+      {
+        subCategory: 'Beef & Veal',
+        childItems: [
+          { subId: '24059', childId: '24059', extensionCategory: 'Beef & Veal Mince', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/beef-veal-mince' },
+          { subId: '24059', childId: '24059', extensionCategory: 'Beef Bones & Offal', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/beef-bones-offal' },
+          { subId: '24059', childId: '24059', extensionCategory: 'Beef Roasts', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/beef-roasts' },
+          { subId: '24059', childId: '24059', extensionCategory: 'Beef Steaks', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/beef-steaks' },
+          { subId: '24059', childId: '24059', extensionCategory: 'Crumbed Beef', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/crumbed-beef' },
+          { subId: '24059', childId: '24059', extensionCategory: 'Graze Beef', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/graze-beef' },
+          { subId: '24059', childId: '24059', extensionCategory: 'Slow Cook & Casserole Beef', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/slow-cook-casserole-beef' },
+          { subId: '24059', childId: '24059', extensionCategory: 'Stir Fry & Diced Beef', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/stir-fry-diced-beef' },
+          { subId: '24059', childId: '24059', extensionCategory: 'Veal', url: 'https:www.coles.com.au/browse/meat-seafood/beef-veal/veal' },
+        ],
+      },
+      {
+        subCategory: 'Mince',
+        childItems: [
+          { subId: '24059', childId: '24059', extensionCategory: 'Beef & Veal Mince', url: 'https:www.coles.com.au/browse/meat-seafood/mince/beef-veal-mince' },
+          { subId: '24059', childId: '24059', extensionCategory: 'Chicken & Turkey Mince', url: 'https:www.coles.com.au/browse/meat-seafood/mince/chicken-turkey-mince' },
+          { subId: '22714', childId: '22719', extensionCategory: 'Lamb Mince', url: 'https:www.coles.com.au/browse/meat-seafood/mince/lamb-mince' },
+          { subId: '22714', childId: '22720', extensionCategory: 'Pork Mince', url: 'https:www.coles.com.au/browse/meat-seafood/mince/pork-mince' },
+          { subId: '22714', childId: '22716', extensionCategory: 'Sausage Mince', url: 'https:www.coles.com.au/browse/meat-seafood/mince/sausage-mince' },
+          //No Proper Schema { catId: '', subId: '', childId: '24029', extensionCategory: 'Kangaroo & Wallaby Mince', url: 'https:www.coles.com.au/browse/meat-seafood/mince/kangaroo-wallaby-mince' },
+        ],
+      },
+      // No Proper Category Kangaroo
       // {
       //   subCategory: 'Game',
       //   childItems: [
