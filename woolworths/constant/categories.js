@@ -408,21 +408,6 @@ const categories = [
                     { extensionCategory: "Low & Non Alcoholic Home Brew", subId: "22213", childId: "22214" },
                 ]
             },
-            // No Proper Schema
-            // {
-            //     subCategory: "Home Brew",
-            //     childItems: [
-            //         { extensionCategory: "Home Brew", subId: "", childId: "" },
-            //     ]
-            // },
-            // {
-            //     subCategory: "Hampers & Gifting",
-            //     childItems: [
-            //         // { extensionCategory: "Liquor Hampers", subId: "", childId: "" },
-            //         { extensionCategory: "No & Very Low Alcohol Hampers", subId: "22213", childId: "22214" },
-            //         // { extensionCategory: "Drinks Gift Sets", subId: "", childId: "" },
-            //     ]
-            // },
         ]
     },
 
@@ -460,9 +445,9 @@ const categories = [
             {
                 subCategory: "Frozen Meat",
                 childItems: [
-                    { extensionCategory: "Beef & Pork", catId:"22713", subId: "24059", childId: "24059" },
+                    { extensionCategory: "Beef & Pork", subId: "22305", childId: "22307" },
                     { extensionCategory: "Chicken Pieces & Nuggets", subId: "22305", childId: "22307" },
-                    { extensionCategory: "Whole Birds & Roasts", subId: "22305", childId: "22307" },
+                    { extensionCategory: "Whole Birds & Roasts", subId: "22305", childId: "22310" },
                 ]
             },
             {
@@ -692,11 +677,8 @@ const categories = [
                     { extensionCategory: "Cotton Wool & Cotton Buds", subId: "22414", childId: "22418" },
                     { extensionCategory: "Nicotine Replacement", subId: "22414", childId: "22422" },
                     { extensionCategory: "Digestive Health", subId: "22414", childId: "23917" },
-                    
-                    // No Schema or Taxonomy
-                    // { extensionCategory: "Test Kits & Face Masks", subId: "", childId: "" },
-                    
-                    // { extensionCategory: "Eye, Ear & Mouth Care", subId: "", childId: "" },
+                    { extensionCategory: "Test Kits & Face Masks", subId: "22414", childId: "22417" },
+                    { extensionCategory: "Eye, Ear & Mouth Care", subId: "22414", childId: "23917" },
                 ]
             },
         ]
@@ -1024,10 +1006,8 @@ const categories = [
                     { extensionCategory: "Men's Clothing & Underwear", subId: "24061", childId: "24064" },
                     { extensionCategory: "Men's Socks", subId: "24061", childId: "24062" },
                     { extensionCategory: "Boys & Girls Underwear", subId: "24061", childId: "24064" },
-                    { extensionCategory: "Boys & Girls Socks", subId: "24061", childId: "24062" },
-
-                    // No Schema or Taxonomy
-                    // { extensionCategory: "Footwear & Shoe Care", subId: "", childId: "" },
+                    { extensionCategory: "Boys & Girls Socks", subId: "24061", childId: "24062" },   
+                    { extensionCategory: "Footwear & Shoe Care", subId: "24061", childId: "24062" },
                     // { extensionCategory: "Umbrellas", subId: "", childId: "" },
                     // { extensionCategory: "Sewing", subId: "", childId: "" },
                 ]
@@ -1045,41 +1025,43 @@ const categories = [
                     { extensionCategory: "Office Furniture", subId: "22594", childId: "22594" },
                 ]
             },
-            {
-                subCategory: "Toys & Games",
-                childItems: [
-                    { extensionCategory: "Toys", subId: "22594", childId: "22594" },
-                    { extensionCategory: "Board Games & Puzzles", subId: "22594", childId: "22594" },
-                    { extensionCategory: "Dolls & Action Figures", subId: "22594", childId: "22594" },
-                    { extensionCategory: "Sport & Outdoor Toys", subId: "22594", childId: "22594" },
-                    { extensionCategory: "Toy Cars & Trucks", subId: "22594", childId: "22594" },
-                    { extensionCategory: "Model Building & Construction", subId: "22594", childId: "22594" },
-                    { extensionCategory: "Educational & Early Learning", subId: "22594", childId: "22594" },
-                    { extensionCategory: "Electronic Toys", subId: "22594", childId: "22594" },
-                    { extensionCategory: "Arts & Craft", subId: "22594", childId: "22594" },
-                    { extensionCategory: "Dress Up & Costumes", subId: "22594", childId: "22594" },
-                ]
-            },
-            {
-                subCategory: "Books & Magazines",
-                childItems: [
-                    { extensionCategory: "Magazines", subId: "22594", childId: "22594" },
-                    { extensionCategory: "Children's", subId: "22594", childId: "22594" },
-                    { extensionCategory: "Teens & Young Adults", subId: "22594", childId: "22594" },
-                    { extensionCategory: "Fiction & Literature", subId: "22594", childId: "22594" },
-                    { extensionCategory: "Non-Fiction", subId: "22594", childId: "22594" },
-                ]
-            },
-            {
-                subCategory: "Luggage & Travel",
-                childItems: [
-                    { extensionCategory: "Suitcases", catId: '22394', subId: "22414", childId: "23917" },
-                    { extensionCategory: "Travel Bags", catId: '22394', subId: "22414", childId: "23917" },
-                    { extensionCategory: "Travel Accessories", catId: '22394', subId: "22414", childId: "23917" },
-                ]
-            },
-            
-            // No Barcode
+            // No Barcodes Products
+            // {
+            //     subCategory: "Toys & Games",
+            //     childItems: [
+            //         { extensionCategory: "Toys", subId: "22594", childId: "22594" },
+            //         { extensionCategory: "Board Games & Puzzles", subId: "22594", childId: "22594" },
+            //         { extensionCategory: "Dolls & Action Figures", subId: "22594", childId: "22594" },
+            //         { extensionCategory: "Sport & Outdoor Toys", subId: "22594", childId: "22594" },
+            //         { extensionCategory: "Toy Cars & Trucks", subId: "22594", childId: "22594" },
+            //         { extensionCategory: "Model Building & Construction", subId: "22594", childId: "22594" },
+            //         { extensionCategory: "Educational & Early Learning", subId: "22594", childId: "22594" },
+            //         { extensionCategory: "Electronic Toys", subId: "22594", childId: "22594" },
+            //         { extensionCategory: "Arts & Craft", subId: "22594", childId: "22594" },
+            //         { extensionCategory: "Dress Up & Costumes", subId: "22594", childId: "22594" },
+            //     ]
+            // },
+            // No Barcodes Products
+            // {
+            //     subCategory: "Books & Magazines",
+            //     childItems: [
+            //         { extensionCategory: "Magazines", subId: "22594", childId: "22594" },
+            //         { extensionCategory: "Children's", subId: "22594", childId: "22594" },
+            //         { extensionCategory: "Teens & Young Adults", subId: "22594", childId: "22594" },
+            //         { extensionCategory: "Fiction & Literature", subId: "22594", childId: "22594" },
+            //         { extensionCategory: "Non-Fiction", subId: "22594", childId: "22594" },
+            //     ]
+            // },
+            // No Barcode Products
+            // {
+            //     subCategory: "Luggage & Travel",
+            //     childItems: [
+            //         { extensionCategory: "Suitcases", catId: '22394', subId: "22414", childId: "23917" },
+            //         { extensionCategory: "Travel Bags", catId: '22394', subId: "22414", childId: "23917" },
+            //         { extensionCategory: "Travel Accessories", catId: '22394', subId: "22414", childId: "23917" },
+            //     ]
+            // },
+            // No Barcode Products
             // {
             //     subCategory: "Home Decor & Furniture",
             //     childItems: [
@@ -1099,6 +1081,7 @@ const categories = [
             //         { extensionCategory: "Rugs & Doormats", subId: "", childId: "" }
             //     ]
             // },
+            // No Barcode Products
             // {
             //     subCategory: "Kitchen Appliances",
             //     childItems: [
@@ -1111,6 +1094,7 @@ const categories = [
             //         { extensionCategory: "Refrigerators", subId: "", childId: "" },
             //     ]
             // },
+            // No Barcode Products
             // {
             //     subCategory: "Manchester & Bedding",
             //     childItems: [
@@ -1322,7 +1306,7 @@ const categories = [
                     { extensionCategory: "Lunch Box Snacks", subId: "22889", childId: "22901" },
                     { extensionCategory: "Gluten Free Snacks", subId: "22889", childId: "22899" },
                     { extensionCategory: "Pretzels & Jerky", subId: "22785", childId: "22787" },
-                    // { extensionCategory: "Popcorn", subId: "", childId: "" },
+                    { extensionCategory: "Popcorn", subId: "22889", childId: "22902" },
                 ]
             },
             {

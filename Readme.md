@@ -64,6 +64,7 @@ node coles/index1
 ## C. Process Process Data
 
 ### ✅ 1. Setup Barcodes (After Coles Scraping)
+Coles store products doesn't have barcodes.
 Match Coles product data with existing barcode data from DB/API.
 ```bash
 node coles/ColesfetchBarcode
@@ -73,6 +74,8 @@ node coles/ColesfetchBarcode
 This creates cleaned product lists in the `data/` folder:
 ```bash
 node woolworths/getProducts
+```
+```bash
 node coles/getProducts
 ```
 
@@ -87,16 +90,17 @@ Delete old data:
 rm coles/0ColesAll.json
 rm coles/0WoolworthsAll.json
 rm coles/colesOutput.json
+rm coles/matched
 ```
 
 #### 2. Pack Unmatched Products
 ```bash
 node coles/getAllUnmatched
-
+```
+```bash
 # Run this command, it will create 0ColesAll.json and 0WoolworthsAll.json
 node coles/packUnmatched
 ```
-
 #### 3. Set Matching Threshold
 In `coles/MatchingProducts.js`, set:
 ```js

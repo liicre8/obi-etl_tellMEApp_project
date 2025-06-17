@@ -159,6 +159,7 @@ const categories = [
       },
     ],
   },
+
   /////////////////////////////////////////////////////BAKERY id: 22060
   {
     category: 'Bakery',
@@ -288,6 +289,7 @@ const categories = [
       }
     ],
   },
+
   //////////////////////////////////////////////////////DAIRY, EGGS, & FRIDGE id: 22089
   {
     category: 'Dairy, Eggs & Fridge',
@@ -446,6 +448,7 @@ const categories = [
       },
     ],
   },
+
   //////////////////////////////////////////////////////DELI id: 24023
   {
     category: 'Deli',
@@ -532,6 +535,7 @@ const categories = [
       },
     ],
   }, 
+
   //////////////////////////////////////////////////////DRINKS id: 22164
   {
     category: 'Drinks',
@@ -540,7 +544,6 @@ const categories = [
       {
         subCategory: 'Coffee Drinks',
         childItems: [
-          //Not Included // { subId: '22170', childId: '22170', extensionCategory: 'Accessories Coffee', url: 'https://www.coles.com.au/browse/drinks/coffee-drinks/accessories-coffee' },
           { subId: '22170', childId: '22171', extensionCategory: 'Beans Coffee', url: 'https:www.coles.com.au/browse/drinks/coffee-drinks/beans-coffee' },
           { subId: '22170', childId: '22172', extensionCategory: 'Coffee Capsules', url: 'https:www.coles.com.au/browse/drinks/coffee-drinks/coffee-capsules' },
           { subId: '22170', childId: '22174', extensionCategory: 'Coffee Ground', url: 'https:www.coles.com.au/browse/drinks/coffee-drinks/coffee-ground' },
@@ -649,6 +652,7 @@ const categories = [
       },
     ],
   },
+
   /////////////////////////////////////////////////////FROZEN OR FREEZER id: 22280
   {
     category: 'Frozen',
@@ -675,11 +679,8 @@ const categories = [
           { subId: '22299', childId: '22300', extensionCategory: 'Burgers', url: 'https:www.coles.com.au/browse/frozen/frozen-chicken-beef-pork/burgers' },
           { subId: '22305', childId: '22307', extensionCategory: 'Chicken Pieces & Nuggets', url: 'https:www.coles.com.au/browse/frozen/frozen-chicken-beef-pork/chicken-pieces-nuggets' },
           { subId: '22305', childId: '22307', extensionCategory: 'Chicken Wing & Nibbles', url: 'https:www.coles.com.au/browse/frozen/frozen-chicken-beef-pork/chicken-wing-nibbles' },
-          
-          // No Proper Schema
-          // { subId: '22305', childId: '22310', extensionCategory: 'Frozen Turkey', url: 'https:www.coles.com.au/browse/frozen/frozen-chicken-beef-pork/frozen-turkey' },
-          // { catId: '22713', subId: '24058', childId: '', extensionCategory: 'Beef & Pork', url: 'https:www.coles.com.au/browse/frozen/frozen-chicken-beef-pork/beef-pork' },
-         
+          { subId: '22305', childId: '22310', extensionCategory: 'Frozen Turkey', url: 'https:www.coles.com.au/browse/frozen/frozen-chicken-beef-pork/frozen-turkey' },
+          { subId: '22305', childId: '22307', extensionCategory: 'Beef & Pork', url: 'https:www.coles.com.au/browse/frozen/frozen-chicken-beef-pork/beef-pork' },
         ],
       },
       {
@@ -769,6 +770,7 @@ const categories = [
       },
     ],
   },
+
   /////////////////////////////////////////////////////FRUIT & VEGETABLES id: 22351
   {
     category: 'Fruit & Vegetables',
@@ -895,6 +897,7 @@ const categories = [
       },
     ],
   },
+
   /////////////////////////////////////////////////////HEALTH & BEAUTY id: 22394
   {
     category: 'Health & Beauty',
@@ -910,9 +913,7 @@ const categories = [
           { subId: '22440', childId: '23922', extensionCategory: 'Male Pants', url: 'https:www.coles.com.au/browse/health-beauty/continence-care/male-pants' },
           { subId: '22440', childId: '23922', extensionCategory: 'Mens Pouches & Shields', url: 'https:www.coles.com.au/browse/health-beauty/continence-care/mens-pouches-shields' },
           { subId: '22440', childId: '23922', extensionCategory: 'Pants', url: 'https:www.coles.com.au/browse/health-beauty/continence-care/pants' },
-          
-          // Removed Categories
-          // { subId: '22440', childId: '23922', extensionCategory: 'Male Washable Underwear', url: 'https:www.coles.com.au/browse/health-beauty/continence-care/male-washable-underwear' },
+          { subId: '22440', childId: '23922', extensionCategory: 'Male Washable Underwear', url: 'https:www.coles.com.au/browse/health-beauty/continence-care/male-washable-underwear' },
          
         ],
       },
@@ -1037,11 +1038,10 @@ const categories = [
           { subId: '23883', childId: '23892', extensionCategory: 'Sun Care', url: 'https:www.coles.com.au/browse/health-beauty/sun-protection/sun-care' },
         ],
       },
-      // No Proper Category Schema
-      // {
-      //   subCategory: 'Travel Packs and Minis',
-      //   childItems: [{ subId: '22414', childId: '23917', extensionCategory: 'Travel Packs and Accessories', url: 'https:www.coles.com.au/browse/health-beauty/travel-packs-and-minis/travel-packs-and-accessories' }],
-      // },
+      {
+        subCategory: 'Travel Packs and Minis',
+        childItems: [{ subId: '22414', childId: '23917', extensionCategory: 'Travel Packs and Accessories', url: 'https:www.coles.com.au/browse/health-beauty/travel-packs-and-minis/travel-packs-and-accessories' }],
+      },
       {
         subCategory: 'Vitamins & Supplements',
         childItems: [
@@ -1064,7 +1064,8 @@ const categories = [
       },
     ],
   },
-   ////////////////////////////////////////////////////HOUSEHOLD id: 22459
+
+  ////////////////////////////////////////////////////HOUSEHOLD id: 22459
   {
     category: 'Household',
     id: '22459',
@@ -1104,9 +1105,7 @@ const categories = [
           { subId: '24061', childId: '24061', extensionCategory: `Women's Hosiery`, url: 'https:www.coles.com.au/browse/household/clothing-accessories/womens-hosiery' },
           { subId: '24061', childId: '24062', extensionCategory: `Women's Socks`, url: 'https:www.coles.com.au/browse/household/clothing-accessories/womens-socks' },
           { subId: '24061', childId: '24064', extensionCategory: `Women's Underwear`, url: 'https:www.coles.com.au/browse/household/clothing-accessories/womens-underwear' },
-        
-          // No Proper Schema or Taxonomy
-          // { subId: '24061', childId: '24064', extensionCategory: `Shoe Care and Footwear`, url: 'https://www.coles.com.au/browse/household/clothing-accessories/shoe-care-and-footwear' },
+          { subId: '24061', childId: '24062', extensionCategory: `Shoe Care and Footwear`, url: 'https://www.coles.com.au/browse/household/clothing-accessories/shoe-care-and-footwear' },
         
         ],
       },
@@ -1226,14 +1225,15 @@ const categories = [
           { subId: '22462', childId: '22466', extensionCategory: 'Toilet Tissues', url: 'https:www.coles.com.au/browse/household/toilet-paper-tissues-paper-towels/toilet-tissues' },
         ],
       },
-      {
-        subCategory: 'Craft, Toys & Games',
-        childItems: [
-          { catId: '22015', subId: '22016', childId: '23823', extensionCategory: 'Baby Toys', url: 'https:www.coles.com.au/browse/household/craft-toys-games/baby-toys' },
-          // { subId: '22594', childId: '', extensionCategory: 'Games & Hobbies', url: 'https:www.coles.com.au/browse/household/craft-toys-games/games-hobbies' },
-          // { subId: '22594', childId: '', extensionCategory: 'Toys', url: 'https:www.coles.com.au/browse/household/craft-toys-games/toys' },
-        ],
-      },
+      // No Barcode Products in Wools
+      // {
+      //   subCategory: 'Craft, Toys & Games',
+      //   childItems: [
+      //     { catId: '22015', subId: '22016', childId: '23823', extensionCategory: 'Baby Toys', url: 'https:www.coles.com.au/browse/household/craft-toys-games/baby-toys' },
+      //     // { subId: '22594', childId: '', extensionCategory: 'Games & Hobbies', url: 'https:www.coles.com.au/browse/household/craft-toys-games/games-hobbies' },
+      //     // { subId: '22594', childId: '', extensionCategory: 'Toys', url: 'https:www.coles.com.au/browse/household/craft-toys-games/toys' },
+      //   ],
+      // },
       // {
       //   subCategory: 'Tech Accessories',
       //   childItems: [{ subId: '', childId: '', extensionCategory: 'All Accessories', url: 'https:www.coles.com.au/browse/household/tech-accessories/all-accessories' }],
@@ -1470,6 +1470,7 @@ const categories = [
       },
     ],
   },
+
   ////////////////////////////////////////////////////PET id: 22916
   {
     category: 'Pet',
@@ -1526,6 +1527,8 @@ const categories = [
       },
     ],
   },
+
+  ////////////////////////////////////////////////////POULTRY, MEAT & SEAFOOD id: 22713
   {
     category: 'Poultry, Meat & Seafood',
     id: '22713',
@@ -1666,66 +1669,67 @@ const categories = [
       {
         subCategory: 'Biscuits & Cookies',
         childItems: [
-          { catId:"22770", subId: '22889', childId: '22890', extensionCategory: 'Chocolate Biscuits', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/biscuits-cookies/chocolate-biscuits' },
-          { catId:"22770", subId: '22889', childId: '22890', extensionCategory: 'Cream & Plain Biscuits', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/biscuits-cookies/cream-plain-biscuits' },
-          { catId:"22770", subId: '22889', childId: '22890', extensionCategory: 'Multipack Biscuits', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/biscuits-cookies/multipack-biscuits' },
+          { catId: '22770', subId: '22889', childId: '22890', extensionCategory: 'Chocolate Biscuits', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/biscuits-cookies/chocolate-biscuits' },
+          { catId: '22770', subId: '22889', childId: '22890', extensionCategory: 'Cream & Plain Biscuits', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/biscuits-cookies/cream-plain-biscuits' },
+          { catId: '22770', subId: '22889', childId: '22890', extensionCategory: 'Multipack Biscuits', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/biscuits-cookies/multipack-biscuits' },
         ],
       },
       {
         subCategory: 'Chips',
         childItems: [
-          { catId:"22770", subId: '22889', childId: '22891', extensionCategory: 'Chips Multi Pack', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/chips/chips-multi-pack'},
-          { catId:"22770", subId: '22889', childId: '22892', extensionCategory: 'Chips Sharing', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/chips/chips-sharing'},
-          { catId:"22770", subId: '22889', childId: '22893', extensionCategory: 'Chips Single Pack', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/chips/chips-single-pack'},
-          { catId:"22770", subId: '22889', childId: '22897', extensionCategory: 'Corn Chips & Salsa', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/chips/corn-chips-salsa'},
+          { catId: '22770', subId: '22889', childId: '22891', extensionCategory: 'Chips Multi Pack', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/chips/chips-multi-pack'},
+          { catId: '22770', subId: '22889', childId: '22892', extensionCategory: 'Chips Sharing', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/chips/chips-sharing'},
+          { catId: '22770', subId: '22889', childId: '22893', extensionCategory: 'Chips Single Pack', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/chips/chips-single-pack'},
+          { catId: '22770', subId: '22889', childId: '22897', extensionCategory: 'Corn Chips & Salsa', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/chips/corn-chips-salsa'},
         ],
       },
       {
         subCategory: 'Chocolates',
         childItems: [
-          { catId:"22770", subId: '22889', childId: '23969', extensionCategory: 'Boxed Chocolate & Gifts', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/chocolates/boxed-chocolate-gifts' },
-          { catId:"22770", subId: '22889', childId: '22894', extensionCategory: 'Chocolate Bars', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/chocolates/chocolate-bars' },
-          { catId:"22770", subId: '22889', childId: '22896', extensionCategory: 'Chocolate Bites', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/chocolates/chocolate-bites' },
-          { catId:"22770", subId: '22889', childId: '22895', extensionCategory: 'Chocolate Blocks', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/chocolates/chocolate-blocks' },
-          { catId:"22770", subId: '22889', childId: '22896', extensionCategory: 'Chocolate Multipacks', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/chocolates/chocolate-multipacks' },
-          { catId:"22770", subId: '22889', childId: '23969', extensionCategory: 'Seasonal Chocolates', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/chocolates/seasonal-chocolates' },
+          { catId: '22770', subId: '22889', childId: '23969', extensionCategory: 'Boxed Chocolate & Gifts', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/chocolates/boxed-chocolate-gifts' },
+          { catId: '22770', subId: '22889', childId: '22894', extensionCategory: 'Chocolate Bars', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/chocolates/chocolate-bars' },
+          { catId: '22770', subId: '22889', childId: '22896', extensionCategory: 'Chocolate Bites', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/chocolates/chocolate-bites' },
+          { catId: '22770', subId: '22889', childId: '22895', extensionCategory: 'Chocolate Blocks', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/chocolates/chocolate-blocks' },
+          { catId: '22770', subId: '22889', childId: '22896', extensionCategory: 'Chocolate Multipacks', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/chocolates/chocolate-multipacks' },
+          { catId: '22770', subId: '22889', childId: '23969', extensionCategory: 'Seasonal Chocolates', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/chocolates/seasonal-chocolates' },
         ],
       },
       {
         subCategory: 'Crackers & Rice Cakes',
         childItems: [
-          { catId:"22770", subId: '22889', childId: '22898', extensionCategory: 'Crackers & Crispbreads', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/crackers-rice-cakes/crackers-crispbreads' },
-          { catId:"22770", subId: '22889', childId: '22898', extensionCategory: 'Flavoured Snacks', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/crackers-rice-cakes/flavoured-snacks' },
-          { catId:"22770", subId: '22889', childId: '22898', extensionCategory: 'Multipack Crackers', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/crackers-rice-cakes/multipack-crackers' },
-          { catId:"22770", subId: '22889', childId: '22899', extensionCategory: 'Rice & Corn Snacks', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/crackers-rice-cakes/rice-corn-snacks' },
+          { catId: '22770', subId: '22889', childId: '22898', extensionCategory: 'Crackers & Crispbreads', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/crackers-rice-cakes/crackers-crispbreads' },
+          { catId: '22770', subId: '22889', childId: '22898', extensionCategory: 'Flavoured Snacks', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/crackers-rice-cakes/flavoured-snacks' },
+          { catId: '22770', subId: '22889', childId: '22898', extensionCategory: 'Multipack Crackers', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/crackers-rice-cakes/multipack-crackers' },
+          { catId: '22770', subId: '22889', childId: '22899', extensionCategory: 'Rice & Corn Snacks', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/crackers-rice-cakes/rice-corn-snacks' },
         ],
       },
       {
         subCategory: 'Gum, Mints & Lozenges',
         childItems: [
-          { catId:"22770", subId: '22889', childId: '23988', extensionCategory: 'Gum', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/gum-mints-lozenges/gum' },
-          { catId:"22770", subId: '22889', childId: '23988', extensionCategory: 'Medicated Lozenges', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/gum-mints-lozenges/medicated-lozenges' },
-          { catId:"22770", subId: '22889', childId: '23988', extensionCategory: 'Mints', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/gum-mints-lozenges/mints' },
+          { catId: '22770', subId: '22889', childId: '23988', extensionCategory: 'Gum', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/gum-mints-lozenges/gum' },
+          { catId: '22770', subId: '22889', childId: '23988', extensionCategory: 'Medicated Lozenges', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/gum-mints-lozenges/medicated-lozenges' },
+          { catId: '22770', subId: '22889', childId: '23988', extensionCategory: 'Mints', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/gum-mints-lozenges/mints' },
         ],
       },
       {
         subCategory: 'Lollies & Licorice',
         childItems: [
-          { catId:"22770", subId: '22889', childId: '23970', extensionCategory: 'Licorice', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/lollies-licorice/licorice' },
-          { catId:"22770", subId: '22889', childId: '23970', extensionCategory: 'Lollies', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/lollies-licorice/lollies' },
+          { catId: '22770', subId: '22889', childId: '23970', extensionCategory: 'Licorice', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/lollies-licorice/licorice' },
+          { catId:'22770', subId: '22889', childId: '23970', extensionCategory: 'Lollies', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/lollies-licorice/lollies' },
         ],
       },
       {
         subCategory: 'Snacks',
         childItems: [
-          { catId:"22770", subId: '22889', childId: '22902', extensionCategory: 'Muesli Bars & Fruit Snacks', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/snacks/muesli-bars-fruit-snacks' },
-          { catId:"22770", subId: '22889', childId: '22901', extensionCategory: 'Nuts & Trail Mix', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/snacks/nuts-trail-mix' },
-          { catId:"22770", subId: '22889', childId: '22901', extensionCategory: 'Popcorn', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/snacks/popcorn' },
-          { catId:"22770", subId: '22889', childId: '22901', extensionCategory: 'Pretzels & Other Snacks', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/snacks/pretzels-other-snacks' },
+          { catId: '22770', subId: '22889', childId: '22902', extensionCategory: 'Muesli Bars & Fruit Snacks', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/snacks/muesli-bars-fruit-snacks' },
+          { catId: '22770', subId: '22889', childId: '22901', extensionCategory: 'Nuts & Trail Mix', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/snacks/nuts-trail-mix' },
+          { catId: '22770', subId: '22889', childId: '22901', extensionCategory: 'Popcorn', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/snacks/popcorn' },
+          { catId: '22770', subId: '22889', childId: '22902', extensionCategory: 'Pretzels & Other Snacks', url: 'https://www.coles.com.au/browse/chips-chocolates-snacks/snacks/pretzels-other-snacks' },
         ],
       },
     ],
   },
+
   ////////////////////////////////////////////////////LIQUORLAND id: 22164
   {
     category: 'Liquorland',
@@ -1741,6 +1745,7 @@ const categories = [
       },
     ],
   },
+  
   ///////////////////////////////////////////////////////DIETARY & WORLD FOODS
   {
     category: 'Dietary & World Foods',
@@ -1769,21 +1774,6 @@ const categories = [
       },
     ]
   },
-
-  // Removed Parent Category
-  ////////////////////////////////////////////////////BACK TO SCHOOL id: 22459
-  // {
-  //   category: 'Back to School',
-  //   id: `22459`,
-  //   subCategories: [
-  //     {
-  //       subCategory: 'School Accessories & Lunchboxes',
-  //       childItems: [
-  //         { catID:'22459', subId: '22594', childId: '22594', extensionCategory: 'Stationery & Technology', url: 'https://www.coles.com.au/browse/back-to-school/school-accessories-lunchboxes/stationery-technology' },
-  //       ],
-  //     },
-  //   ],
-  // },
 ];
 
 export default categories;

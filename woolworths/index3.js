@@ -258,11 +258,6 @@ let booool = false;
 const WOOLWORTHS_API_ENDPOINT = "https://www.woolworths.com.au/apis/ui/browse/category";
 
 const CATEGORIES = [
-
-  { id: '1_D16A085', name: 'Newborn', url: '/shop/browse/baby/baby-toddler-clothing/newborn', location: '/shop/browse/baby/baby-toddler-clothing/newborn' },
-  // { id: '1_F1C089F', name: 'Toddler', url: '/shop/browse/baby/baby-toddler-clothing/toddler', location: '/shop/browse/baby/baby-toddler-clothing/toddler' },
-  // { id: '1_D791FDB', name: 'Accessories', url: '/shop/browse/baby/baby-toddler-clothing/accessories', location: '/shop/browse/baby/baby-toddler-clothing/accessories' },
-
   
   // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby', formatObject: "{\"name\":\"Baby\"}" },
   // { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery', formatObject: "{\"name\":\"Bakery\"}" },
@@ -300,7 +295,7 @@ const CATEGORIES = [
   // { id: '1_B4EC5B3', name: 'Prams', url: '/shop/browse/baby/baby-travel-accessories/prams', location: '/shop/browse/baby/baby-travel-accessories/prams' },
   // { id: '1_F5D7F6D', name: 'Strollers', url: '/shop/browse/baby/baby-travel-accessories/strollers', location: '/shop/browse/baby/baby-travel-accessories/strollers' },
   
-  // No barcodes and prices
+  // No barcodes and prices 
   //Test// { id: '1_E07A831', name: 'Baby & Toddler Clothing', url: '/shop/browse/baby/baby-toddler-clothing', location: '/shop/browse/baby/baby-toddler-clothing' },
   // { id: '1_D16A085', name: 'Newborn', url: '/shop/browse/baby/baby-toddler-clothing/newborn', location: '/shop/browse/baby/baby-toddler-clothing/newborn' },
   // { id: '1_F1C089F', name: 'Toddler', url: '/shop/browse/baby/baby-toddler-clothing/toddler', location: '/shop/browse/baby/baby-toddler-clothing/toddler' },

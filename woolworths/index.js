@@ -40,8 +40,8 @@ const userAgents = [
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
 ];
 
-const mylocation = ["nsw", "vic", "qld", "wa", "sa", "tas", "act", "nt"];
-// const mylocation = ["nsw"];
+// const mylocation = ["nsw", "vic", "qld", "wa", "sa", "tas", "act", "nt"];
+const mylocation = ["nt"];
 
 const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
   const prices = [];
@@ -208,6 +208,7 @@ const CATEGORIES = [
   //[10]// { id: '1_2432B58', name: 'Cleaning & Maintenance', url: '/shop/browse/cleaning-maintenance', location: '/shop/browse/cleaning-maintenance'}
   // { id: '1_2F587AA', name: 'Laundry', url: '/shop/browse/cleaning-maintenance/laundry', location: '/shop/browse/cleaning-maintenance/laundry' },
   // { id: '1_A2E3843', name: 'Kitchen', url: '/shop/browse/cleaning-maintenance/kitchen', location: '/shop/browse/cleaning-maintenance/kitchen' },
+  // { id: '1_651A7A8', name: 'Water Filtration', url: '/shop/browse/cleaning-maintenance/kitchen/water-filtration', location: '/shop/browse/cleaning-maintenance/kitchen/water-filtration' },
   // { id: '1_691F830', name: 'Toilet Paper, Tissues & Paper Towels', url: '/shop/browse/cleaning-maintenance/toilet-paper-tissues-paper-towels', location: '/shop/browse/cleaning-maintenance/toilet-paper-tissues-paper-towels' },
   // { id: '1_6174AF3', name: 'Cleaning Goods', url: '/shop/browse/cleaning-maintenance/cleaning-goods', location: '/shop/browse/cleaning-maintenance/cleaning-goods' },
   // { id: '1_AF39A7A', name: 'Pest Control', url: '/shop/browse/cleaning-maintenance/pest-control', location: '/shop/browse/cleaning-maintenance/pest-control' },
@@ -251,7 +252,7 @@ const CATEGORIES = [
   // { id: '1_6F15A6A', name: 'Biscuits & Crackers', url: '/shop/browse/snacks-confectionery/biscuits-crackers', location: '/shop/browse/snacks-confectionery/biscuits-crackers' },
 
   
-  // Scraping All Locations
+  // Scraping Products in All Locations
   //[1]// { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' },
   // { id: '1-5931EE89', name: 'Fruit', url: '/shop/browse/fruit-veg/fruit', location: '/shop/browse/fruit-veg/fruit' },
   // { id: '1_AC17EDD', name: 'Vegetables', url: '/shop/browse/fruit-veg/fruit', location: '/shop/browse/fruit-veg/vegetables' },
@@ -271,7 +272,7 @@ const CATEGORIES = [
  
 ];
 const WOOLWORTHS_URL = "https://www.woolworths.com.au";
-const SPEED_LIMIT = 200;
+const SPEED_LIMIT = 20;
 
 function delay(time) {
   return new Promise((resolve) => setTimeout(resolve, time));
@@ -310,7 +311,7 @@ function delay(time) {
         await delay(3000);
         await page.reload();
       }
-      await delay(20000);
+      await delay(5000);
       console.log("2");
     }
     await handleSteps(page, mylocation[i], "https://www.woolworths.com.au");
