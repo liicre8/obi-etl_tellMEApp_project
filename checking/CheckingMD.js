@@ -5,9 +5,8 @@ const categories = require('../constant/categories');
 require('dotenv').config();
 
 // Config
-const yesterdayDate = '6-18-2025';
+const yesterdayDate = '6-19-2025';
 const todayDate = process.env.FOLDER_DATE;
-
 
 if (!todayDate) {
   console.error('❌ Error: FOLDER_DATE environment variable is not set.');
@@ -103,21 +102,37 @@ function compareAndAudit(category) {
 // Run comparisons
 categories.forEach(compareAndAudit);
 
-// CSV export (manual method)
+// CSV export with proper escaping function
+function escapeCSVValue(value) {
+  if (value === null || value === undefined) {
+    return '';
+  }
+  
+  const stringValue = String(value);
+  
+  // If the value contains comma, double quote, or newline, wrap in quotes and escape internal quotes
+  if (stringValue.includes(',') || stringValue.includes('"') || stringValue.includes('\n') || stringValue.includes('\r')) {
+    return `"${stringValue.replace(/"/g, '""')}"`;
+  }
+  
+  return stringValue;
+}
+
+// Fixed CSV headers (no duplicates)
 const csvHeaders = [
-  'barcode',
-  'name',
-  'shop',
-  'category_id',
-  'source_id',
-  'state',
-  'old_price',
-  'new_price',
-  'old_price_per_unit',
-  'new_price_per_unit',
-  'weight',
-  'source_url',
-  'image_url'
+  'Barcode',
+  'Name',
+  'Shop',
+  'Category_id', 
+  'Source_id',
+  'State',
+  'Old_price',
+  'New_price',
+  'Old_per_unit',
+  'New_price_per_unit',
+  'Weight',
+  'Source_url',
+  'Image_url'
 ];
 
 const auditRows = [];
@@ -130,7 +145,8 @@ Object.values(auditData).forEach(product => {
     const state = todayPrice.state;
     const yPriceEntry = yesterdayPrices.find(p => p.state === state);
 
-    const row = [
+    // Build row with proper data mapping
+    const rowData = [
       product.barcode,
       product.name,
       product.shop,
@@ -146,25 +162,31 @@ Object.values(auditData).forEach(product => {
       product.image_url
     ];
 
-    // Escape CSV values
-    const safeRow = row.map(value =>
-      typeof value === 'string' && (value.includes(',') || value.includes('"'))
-        ? `"${value.replace(/"/g, '""')}"`
-        : value
-    );
-
+    // Escape all values properly
+    const safeRow = rowData.map(escapeCSVValue);
     auditRows.push(safeRow.join(','));
   });
 });
 
+// Generate CSV content with BOM for Excel compatibility
 const csvContent = [csvHeaders.join(','), ...auditRows].join('\n');
 const csvOutputFile = path.join(auditOutputPath, 'price_changes.csv');
-fs.writeFileSync(csvOutputFile, csvContent, 'utf-8');
+
+// Write CSV file with UTF-8 BOM for Excel compatibility
+const BOM = '\uFEFF';
+fs.writeFileSync(csvOutputFile, BOM + csvContent, 'utf-8');
 
 console.log(`✅ Price change CSV saved to: ${csvOutputFile}`);
+console.log(`📊 Total price changes recorded: ${auditRows.length}`);
 
-
-
+// Optional: Log first few rows for debugging
+if (auditRows.length > 0) {
+  console.log('\n📋 Sample data (first 3 rows):');
+  console.log('Headers:', csvHeaders.join(','));
+  auditRows.slice(0, 3).forEach((row, index) => {
+    console.log(`Row ${index + 1}:`, row);
+  });
+}
 
 
 //File: src/matched/5-6-2025/ by ID Category

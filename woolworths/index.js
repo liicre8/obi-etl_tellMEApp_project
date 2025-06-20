@@ -40,8 +40,8 @@ const userAgents = [
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
 ];
 
-const mylocation = ["nsw", "vic", "qld", "wa", "sa", "tas", "act", "nt"];
-// const mylocation = ["nsw"];
+// const mylocation = ["nsw", "vic", "qld", "wa", "sa", "tas", "act", "nt"];
+const mylocation = ["nt"];
 
 const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
   const prices = [];
@@ -127,6 +127,7 @@ let pageReset = 0;
 let booool = false;
 const WOOLWORTHS_API_ENDPOINT = "https://www.woolworths.com.au/apis/ui/browse/category";
 const CATEGORIES = [
+  //[1]// { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' },
   // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' },
   // { id: '1_9834884', name: 'Nappies', url: '/shop/browse/baby/nappies', location: '/shop/browse/baby/nappies' },
   // { id: '1_67E0CDB', name: 'Wipes & Changing', url: '/shop/browse/baby/wipes-changing', location: '/shop/browse/baby/wipes-changing' },
@@ -266,12 +267,12 @@ const CATEGORIES = [
   // { id: '1_2B67965', name: 'Poultry', url: '/shop/browse/poultry-meat-seafood/poultry', location: '/shop/browse/poultry-meat-seafood/poultry' },
   // { id: '1_CED9B86', name: 'Meat', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
   // { id: '1_D610306', name: 'Seafood', url: '/shop/browse/poultry-meat-seafood/seafood', location: '/shop/browse/poultry-meat-seafood/seafood' },
-  { id: '1_3643AAB', name: 'Mince', url: '/shop/browse/poultry-meat-seafood/mince', location: '/shop/browse/poultry-meat-seafood/mince' },
-  { id: '1_F3CEF67', name: 'BBQ Meat', url: '/shop/browse/poultry-meat-seafood/bbq-meat', location: '/shop/browse/poultry-meat-seafood/bbq-meat' },
+  // { id: '1_3643AAB', name: 'Mince', url: '/shop/browse/poultry-meat-seafood/mince', location: '/shop/browse/poultry-meat-seafood/mince' },
+  // { id: '1_F3CEF67', name: 'BBQ Meat', url: '/shop/browse/poultry-meat-seafood/bbq-meat', location: '/shop/browse/poultry-meat-seafood/bbq-meat' },
   { id: '1_073D435', name: 'Organic Meat & Poultry', url: '/shop/browse/poultry-meat-seafood/organic-meat-poultry', location: '/shop/browse/poultry-meat-seafood/organic-meat-poultry' },
 ];
 const WOOLWORTHS_URL = "https://www.woolworths.com.au";
-const SPEED_LIMIT = 20;
+const SPEED_LIMIT = 20000;
 
 function delay(time) {
   return new Promise((resolve) => setTimeout(resolve, time));
