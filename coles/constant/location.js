@@ -14,7 +14,7 @@ const locations = [
     //     location: "Kedron, QLD 4031",
     //     subLucation: "Coles Kedron"
     // },
-    //// wa
+    // // wa
     // {
     //     location: "Perth, WA 6000",
     //     subLucation: "Coles North Perth"
@@ -32,9 +32,9 @@ const locations = [
     // // act
     // {
     //     location: "Acton, ACT 2601",
-    //     subLucation: "Coles Canberra Civic"
+    //     subLucation: "Coles Dickson"
     // },
-    // nt
+    // // nt
     // {
     //     location: "Casuarina, NT 0810",
     //     subLucation: "Coles Casuarina - Drive-through"
