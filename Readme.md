@@ -97,17 +97,23 @@ rm coles/matched
 ```bash
 node coles/getAllUnmatched
 ```
+
+#### 3. Fetch fresh unmatched products
+```bash
+node transformUnmatched
+```
+
 ```bash
 # Run this command, it will create 0ColesAll.json and 0WoolworthsAll.json
 node coles/packUnmatched
 ```
-#### 3. Set Matching Threshold
+#### 4. Set Matching Threshold
 In `coles/MatchingProducts.js`, set:
 ```js
 nameSimilarity >= '95%'
 ```
 
-#### 4. Run Matching Script
+#### 5. Run Matching Script
 ```bash
 # Run the matching process it will save data to in path: coles/matched
 node coles/MatchingProducts
