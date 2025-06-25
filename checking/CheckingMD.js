@@ -5,7 +5,7 @@ const categories = require('../constant/categories');
 require('dotenv').config();
 
 // Config
-const yesterdayDate = '6-19-2025';
+const yesterdayDate = '6-24-2025';
 const todayDate = process.env.FOLDER_DATE;
 
 if (!todayDate) {
@@ -170,7 +170,7 @@ Object.values(auditData).forEach(product => {
 
 // Generate CSV content with BOM for Excel compatibility
 const csvContent = [csvHeaders.join(','), ...auditRows].join('\n');
-const csvOutputFile = path.join(auditOutputPath, 'price_changes.csv');
+const csvOutputFile = path.join(auditOutputPath, 'price_changes_matched.csv');
 
 // Write CSV file with UTF-8 BOM for Excel compatibility
 const BOM = '\uFEFF';

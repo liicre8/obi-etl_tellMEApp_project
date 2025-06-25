@@ -4,7 +4,7 @@ const path = require('path');
 require('dotenv').config();
 
 // Dates
-const yesterdayDate = '6-19-2025';
+const yesterdayDate = '6-24-2025';
 const todayDate = process.env.FOLDER_DATE; 
 
 if (!todayDate) {
@@ -164,7 +164,7 @@ function compareUnmatched(shop) {
 
     // Create CSV content with UTF-8 BOM for Excel compatibility
     const csvContent = [csvHeaders.join(','), ...changedRows].join('\n');
-    const csvFileName = shop === 'coles' ? 'coles_price_changes.csv' : 'woolworths_price_changes.csv';
+    const csvFileName = shop === 'coles' ? 'coles_unmatched_pc.csv' : 'woolworths_unmatched_pc.csv';
     const outputPath = path.join(unmatchedAuditPath, csvFileName);
 
     // Write with BOM for Excel compatibility
