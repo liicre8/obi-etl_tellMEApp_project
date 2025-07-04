@@ -477,7 +477,7 @@ const categories = [
                 childItems: [
                     { extensionCategory: "Ice Cream Tubs", subId: "22334", childId: "22340" },
                     { extensionCategory: "Ice Cream Sticks & Cones", subId: "22334", childId: "22339" },
-                    { extensionCategory: "Premium Ice Cream", subId: "22334", childId: "22341" },
+                    { extensionCategory: "Premium Ice Cream", subId: "22334", childId: "22340" },
                     { extensionCategory: "Frozen Yoghurt", subId: "22334", childId: "23848" },
                     { extensionCategory: "Gelato & Sorbet", subId: "22334", childId: "22336" },
                     { extensionCategory: "Ice Cream Cakes", subId: "22334", childId: "22337" },
@@ -1342,9 +1342,9 @@ const categories = [
                     { extensionCategory: "Chilled Cat Food", subId: "23952", childId: "23954" },
                     { extensionCategory: "Trays & Cans Cat Food", subId: "23952", childId: "23954" },
                     { extensionCategory: "Kitten Food..", subId: "23952", childId: "23957" },
+                    { extensionCategory: "Cat Treats & Milk", subId: "23952", childId: "23957" },
                     // { extensionCategory: "Cat Healthcare", subId: "", childId: "" },
                     // { extensionCategory: "Cat Litter", subId: "", childId: "" },
-                    //{ extensionCategory: "Cat Treats & Milk", subId: "", childId: "" },
                     //{ extensionCategory: "Cat Grooming, Accessories & Toys", subId: "", childId: "" },
                 ]
             },

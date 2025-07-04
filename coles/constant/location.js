@@ -1,5 +1,5 @@
 const locations = [
-    // // vic
+    // // // vic
     // {
     //     location: "Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145",
     //     subLucation: "Chadstone Shopping Centre, 1341 Dandenong Rd"
@@ -29,7 +29,7 @@ const locations = [
     //     location: "Hobart, TAS 7000",
     //     subLucation: "Coles Sandy Bay"
     // },
-    // // act
+    // act
     // {
     //     location: "Acton, ACT 2601",
     //     subLucation: "Coles Dickson"

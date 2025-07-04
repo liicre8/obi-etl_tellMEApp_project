@@ -48,7 +48,7 @@ node coles/index2
 * **CATEGORIES**: Limit to 50, only:
    * `Fruit & Vegetables`
    * `Poultry, Meat & Seafood`
-* **Locations**: Set **all** in `coles/constant/location.js`
+* **Locations**: Set **each** in `coles/constant/location.js`
 
 **👁 CAPTCHA Handling:**
 ```bash
@@ -98,22 +98,17 @@ rm coles/matched
 node coles/getAllUnmatched
 ```
 
-#### 3. Fetch fresh unmatched products
-```bash
-node transformUnmatched
-```
-
 ```bash
 # Run this command, it will create 0ColesAll.json and 0WoolworthsAll.json
 node coles/packUnmatched
 ```
-#### 4. Set Matching Threshold
+#### 3. Set Matching Threshold
 In `coles/MatchingProducts.js`, set:
 ```js
 nameSimilarity >= '95%'
 ```
 
-#### 5. Run Matching Script
+#### 4. Run Matching Script
 ```bash
 # Run the matching process it will save data to in path: coles/matched
 node coles/MatchingProducts
@@ -128,8 +123,7 @@ node coles/MatchingProducts
 
 If not 100% matched:
 ```bash
-node coles/readMatchedJSON
-# → Check PackedMatched.json manually
+# → Check coles/matched folder manually
 # → Remove incorrect matches based on Coles/Woolworths URLs
 ```
 
