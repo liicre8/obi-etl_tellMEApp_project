@@ -4,7 +4,7 @@ const path = require('path');
 require('dotenv').config();
 
 // Dates
-const yesterdayDate = '7-3-2025';
+const yesterdayDate = '7-4-2025';
 const todayDate = process.env.FOLDER_DATE; 
 
 if (!todayDate) {
