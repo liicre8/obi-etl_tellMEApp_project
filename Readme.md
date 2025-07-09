@@ -166,7 +166,11 @@ node coles/updateBarcodes
 ```bash
 node 01MatchedP-Barcode
 ```
-### ✅ 3. Push Matched to External API
+### ✅ 3. Cleaned Match Products
+```bash
+node transformMatched
+```
+### ✅ 4. Push Matched to External API
 ```bash
 node 02pushMatchedToAPI
 ```
@@ -180,6 +184,9 @@ Path: src/UnMatchedAll/*
 
 # Fetch fresh unmatched products
 node coles/getAllUnmatched
+```
+
+```bash
 node transformUnmatched
 ```
 
@@ -193,6 +200,9 @@ Set `startIndex = 0` in:
 Then:
 ```bash
 node 03pushUnmatchedToAPI-C
+```
+
+```bash
 node 04pushUnmatchedToAPI-W
 ```
 

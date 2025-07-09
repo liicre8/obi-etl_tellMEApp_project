@@ -5,7 +5,7 @@ const categories = require('../constant/categories');
 require('dotenv').config();
 
 // Config
-const yesterdayDate = '7-4-2025';
+const yesterdayDate = '7-8-2025';
 const todayDate = process.env.FOLDER_DATE;
 
 if (!todayDate) {
@@ -177,7 +177,7 @@ const BOM = '\uFEFF';
 fs.writeFileSync(csvOutputFile, BOM + csvContent, 'utf-8');
 
 console.log(`✅ Price change CSV saved to: ${csvOutputFile}`);
-console.log(`📊 Total price changes recorded: ${auditRows.length}`);
+console.log(`📊 Matched total price changes recorded: ${auditRows.length}`);
 
 // Optional: Log first few rows for debugging
 if (auditRows.length > 0) {

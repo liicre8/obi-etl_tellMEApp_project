@@ -2,10 +2,8 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 import categories from './woolworths/constant/categories.js';
-import catetestgories from './woolworths/constant/categories.js';
 import fs from 'fs';
 import path from 'path';
-import axios from 'axios';
 import { fileURLToPath } from "url";
 const MYCATEGORIES = JSON.parse(fs.readFileSync(`constant/categories.json`, 'utf8'));
 

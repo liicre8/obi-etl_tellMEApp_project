@@ -264,12 +264,12 @@ const CATEGORIES = [
   // { id: '1_94DB57C', name: 'Snacking', url: '/shop/browse/fruit-veg/snacking', location: '/shop/browse/fruit-veg/snacking' },
 
   //[2]// { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
-  { id: '1_2B67965', name: 'Poultry', url: '/shop/browse/poultry-meat-seafood/poultry', location: '/shop/browse/poultry-meat-seafood/poultry' },
-  { id: '1_CED9B86', name: 'Meat', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
-  { id: '1_D610306', name: 'Seafood', url: '/shop/browse/poultry-meat-seafood/seafood', location: '/shop/browse/poultry-meat-seafood/seafood' },
-  { id: '1_3643AAB', name: 'Mince', url: '/shop/browse/poultry-meat-seafood/mince', location: '/shop/browse/poultry-meat-seafood/mince' },
-  { id: '1_F3CEF67', name: 'BBQ Meat', url: '/shop/browse/poultry-meat-seafood/bbq-meat', location: '/shop/browse/poultry-meat-seafood/bbq-meat' },
-  { id: '1_073D435', name: 'Organic Meat & Poultry', url: '/shop/browse/poultry-meat-seafood/organic-meat-poultry', location: '/shop/browse/poultry-meat-seafood/organic-meat-poultry' },
+  // { id: '1_2B67965', name: 'Poultry', url: '/shop/browse/poultry-meat-seafood/poultry', location: '/shop/browse/poultry-meat-seafood/poultry' },
+  // { id: '1_CED9B86', name: 'Meat', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
+  // { id: '1_D610306', name: 'Seafood', url: '/shop/browse/poultry-meat-seafood/seafood', location: '/shop/browse/poultry-meat-seafood/seafood' },
+  // { id: '1_3643AAB', name: 'Mince', url: '/shop/browse/poultry-meat-seafood/mince', location: '/shop/browse/poultry-meat-seafood/mince' },
+  // { id: '1_F3CEF67', name: 'BBQ Meat', url: '/shop/browse/poultry-meat-seafood/bbq-meat', location: '/shop/browse/poultry-meat-seafood/bbq-meat' },
+  // { id: '1_073D435', name: 'Organic Meat & Poultry', url: '/shop/browse/poultry-meat-seafood/organic-meat-poultry', location: '/shop/browse/poultry-meat-seafood/organic-meat-poultry' },
 ];
 const WOOLWORTHS_URL = "https://www.woolworths.com.au";
 const SPEED_LIMIT = 20;

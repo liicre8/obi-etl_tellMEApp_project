@@ -1404,7 +1404,7 @@ const categories = [
                 childItems: [
                     { extensionCategory: "Lamb", subId: "22714", childId: "22719" },
                     { extensionCategory: "Pork", subId: "22714", childId: "22720" },
-                    { extensionCategory: "Game", subId: "22714", childId: "22720" },
+                    { extensionCategory: "Game", subId: "24059", childId: "24059" },
                     { extensionCategory: "Burgers & Sausages", subId: "22714", childId: "22716" },
                     { extensionCategory: "Deli Meat", catId: "24023", subId: "24024", childId: "24028" },
                     { extensionCategory: "Gluten Free Meat", subId: "24059", childId: "24059" },
@@ -1427,11 +1427,6 @@ const categories = [
                     { extensionCategory: "Oysters, Mussels & Scallops", subId: "22758", childId: "22764" },
                     { extensionCategory: "Oysters, Mussels & Scallops", subId: "22758", childId: "22765" },
                     { extensionCategory: "Sauce & Condiments", catId: "22770", subId: "22811", childId: "22812" },
-
-                    // { extensionCategory: "Frozen Prepacked Seafood", subId: "22758", childId: "22760" },
-                    // { extensionCategory: "Prawns", subId: "22714", childId: "22721" },
-                    // { extensionCategory: "Salmon & Other Fish", subId: "22713", childId: "23984" },
-                    // { extensionCategory: "Salmon & Other Fish", subId: "22714", childId: "22718" },
                 ]
             },
             {
