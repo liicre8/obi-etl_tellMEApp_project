@@ -1,40 +1,120 @@
 [
   {
-    "source_url": "https://www.coles.com.au/product/head-and-shoulders-smooth-and-silky-conditioner-850ml-7462944",
-    "name": "Head & Shoulders Smooth & Silky Conditioner | 850mL",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F7%2F7462944.jpg&w=640&q=90",
-    "source_id": "7462944",
-    "barcode": "4987176174536",
-    "category_id": "22394",
-    "subcategory_id": "22423",
-    "subsubcategory_id": "23904",
+    "source_url": "https://www.coles.com.au/product/ayam-100percent-natural-coconut-cream-400ml-3753559",
+    "name": "Ayam 100% Natural Coconut Cream | 400mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3753559.jpg&w=640&q=90",
+    "source_id": "3753559",
+    "barcode": "9556041603942",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22849",
     "shop": "coles",
-    "weight": "850ml",
+    "weight": "400ml",
     "prices": [
       {
         "state": "NSW",
-        "price": "2600",
-        "price_per_unit": "306",
+        "price": "500",
+        "price_per_unit": "125",
         "price_unit": "100ML"
       }
     ]
   },
   {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/263710/head-shoulders-smooth-silky-conditioner",
-    "name": "Head & Shoulders Smooth & Silky Conditioner 850mL",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/263710.jpg",
-    "source_id": "263710",
-    "barcode": "4987176174536",
-    "category_id": "22394",
-    "subcategory_id": "22423",
-    "subsubcategory_id": "23904",
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/489140/ayam-100-natural-coconut-cream",
+    "name": "Ayam 100% Natural Coconut Cream 400mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/489140.jpg",
+    "source_id": "489140",
+    "barcode": "9556041603942",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22849",
     "shop": "Woolworths",
-    "weight": "850mL",
+    "weight": "400mL",
     "prices": [
       {
         "state": "NSW",
-        "price": "2600",
-        "price_per_unit": "306",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ayam-100percent-natural-coconut-milk-400ml-3753560",
+    "name": "Ayam 100% Natural Coconut Milk | 400mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3753560.jpg&w=640&q=90",
+    "source_id": "3753560",
+    "barcode": "9556041604734",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22849",
+    "shop": "coles",
+    "weight": "400ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/489128/ayam-100-natural-coconut-milk",
+    "name": "Ayam 100% Natural Coconut Milk 400mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/489128.jpg",
+    "source_id": "489128",
+    "barcode": "9556041604734",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22849",
+    "shop": "Woolworths",
+    "weight": "400mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "500",
+        "price_per_unit": "125",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/ayam-100-percent-natural-coconut-milk-270ml-6165003",
+    "name": "Ayam 100 % Natural Coconut Milk | 270mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6165003.jpg&w=640&q=90",
+    "source_id": "6165003",
+    "barcode": "9311627010183",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22849",
+    "shop": "coles",
+    "weight": "270ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "148",
+        "price_unit": "100ML"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/57198/ayam-100-natural-coconut-milk",
+    "name": "Ayam 100% Natural Coconut Milk 270mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/057198.jpg",
+    "source_id": "57198",
+    "barcode": "9311627010183",
+    "category_id": "22770",
+    "subcategory_id": "22848",
+    "subsubcategory_id": "22849",
+    "shop": "Woolworths",
+    "weight": "270mL",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "148",
         "price_unit": "100ML"
       }
     ]
