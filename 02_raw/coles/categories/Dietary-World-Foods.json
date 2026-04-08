@@ -1,0 +1,515 @@
+{
+  "id": "674112512",
+  "level": 1,
+  "originalName": "Dietary & World Foods",
+  "seoToken": "dietary-world-foods",
+  "subType": "CORE",
+  "catalogGroupView": [
+    {
+      "id": "674113139",
+      "level": 2,
+      "originalName": "World Foods",
+      "seoToken": "world-foods",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "675102473",
+          "level": 3,
+          "originalName": "Chinese",
+          "seoToken": "chinese",
+          "subType": "CORE"
+        },
+        {
+          "id": "675104352",
+          "level": 3,
+          "originalName": "Japanese",
+          "seoToken": "japanese",
+          "subType": "CORE"
+        },
+        {
+          "id": "675108470",
+          "level": 3,
+          "originalName": "Thai",
+          "seoToken": "thai",
+          "subType": "CORE"
+        },
+        {
+          "id": "675104741",
+          "level": 3,
+          "originalName": "Korean",
+          "seoToken": "korean",
+          "subType": "CORE"
+        },
+        {
+          "id": "675109170",
+          "level": 3,
+          "originalName": "Vietnamese",
+          "seoToken": "vietnamese",
+          "subType": "CORE"
+        },
+        {
+          "id": "679714926",
+          "level": 3,
+          "originalName": "Indonesia",
+          "seoToken": "indonesia",
+          "subType": "CORE"
+        },
+        {
+          "id": "675105506",
+          "level": 3,
+          "originalName": "Malaysian",
+          "seoToken": "malaysian",
+          "subType": "CORE"
+        },
+        {
+          "id": "675106796",
+          "level": 3,
+          "originalName": "Philippines",
+          "seoToken": "philippines",
+          "subType": "CORE"
+        },
+        {
+          "id": "675103733",
+          "level": 3,
+          "originalName": "Indian",
+          "seoToken": "indian",
+          "subType": "CORE"
+        },
+        {
+          "id": "675105516",
+          "level": 3,
+          "originalName": "Mexican",
+          "seoToken": "mexican",
+          "subType": "CORE"
+        },
+        {
+          "id": "675103734",
+          "level": 3,
+          "originalName": "Italian",
+          "seoToken": "italian",
+          "subType": "CORE"
+        },
+        {
+          "id": "679713797",
+          "level": 3,
+          "originalName": "Greek",
+          "seoToken": "greek",
+          "subType": "CORE"
+        },
+        {
+          "id": "675097934",
+          "level": 3,
+          "originalName": "British",
+          "seoToken": "british",
+          "subType": "CORE"
+        },
+        {
+          "id": "675106555",
+          "level": 3,
+          "originalName": "New Zealand",
+          "seoToken": "new-zealand",
+          "subType": "CORE"
+        },
+        {
+          "id": "675107170",
+          "level": 3,
+          "originalName": "South African",
+          "seoToken": "south-african",
+          "subType": "CORE"
+        },
+        {
+          "id": "675109168",
+          "level": 3,
+          "originalName": "USA",
+          "seoToken": "usa",
+          "subType": "CORE"
+        },
+        {
+          "id": "675102931",
+          "level": 3,
+          "originalName": "European",
+          "seoToken": "european",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "674114623",
+      "level": 2,
+      "originalName": "Free From",
+      "seoToken": "free-from",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "675024732",
+          "level": 3,
+          "originalName": "Gluten Free",
+          "seoToken": "gluten-free",
+          "subType": "CORE"
+        },
+        {
+          "id": "675006051",
+          "level": 3,
+          "originalName": "Dairy & Lactose Free",
+          "seoToken": "dairy-lactose-free",
+          "subType": "CORE"
+        },
+        {
+          "id": "675024784",
+          "level": 3,
+          "originalName": "Sugar Free",
+          "seoToken": "sugar-free",
+          "subType": "CORE"
+        },
+        {
+          "id": "675010715",
+          "level": 3,
+          "originalName": "Fodmap Friendly",
+          "seoToken": "fodmap-friendly",
+          "subType": "CORE"
+        },
+        {
+          "id": "675024758",
+          "level": 3,
+          "originalName": "Peanut Free",
+          "seoToken": "peanut-free",
+          "subType": "CORE"
+        },
+        {
+          "id": "675024750",
+          "level": 3,
+          "originalName": "Nut Free",
+          "seoToken": "nut-free",
+          "subType": "CORE"
+        },
+        {
+          "id": "675007331",
+          "level": 3,
+          "originalName": "Egg Free",
+          "seoToken": "egg-free",
+          "subType": "CORE"
+        },
+        {
+          "id": "675024759",
+          "level": 3,
+          "originalName": "Soy Free",
+          "seoToken": "soy-free",
+          "subType": "CORE"
+        },
+        {
+          "id": "675010570",
+          "level": 3,
+          "originalName": "Fat Free",
+          "seoToken": "fat-free",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "674135800",
+      "level": 2,
+      "originalName": "Organic",
+      "seoToken": "organic",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "675065753",
+          "level": 3,
+          "originalName": "Fruit & Veg",
+          "seoToken": "fruit-veg",
+          "subType": "CORE"
+        },
+        {
+          "id": "675069139",
+          "level": 3,
+          "originalName": "Nuts & Seeds",
+          "seoToken": "nuts-seeds",
+          "subType": "CORE"
+        },
+        {
+          "id": "675068803",
+          "level": 3,
+          "originalName": "Meat, Dairy & Eggs",
+          "seoToken": "meat-dairy-eggs",
+          "subType": "CORE"
+        },
+        {
+          "id": "675069508",
+          "level": 3,
+          "originalName": "Pantry Essentials",
+          "seoToken": "pantry-essentials",
+          "subType": "CORE"
+        },
+        {
+          "id": "675068242",
+          "level": 3,
+          "originalName": "Drinks",
+          "seoToken": "drinks",
+          "subType": "CORE"
+        },
+        {
+          "id": "675068435",
+          "level": 3,
+          "originalName": "Frozen",
+          "seoToken": "frozen",
+          "subType": "CORE"
+        },
+        {
+          "id": "675068241",
+          "level": 3,
+          "originalName": "Baby",
+          "seoToken": "baby",
+          "subType": "CORE"
+        },
+        {
+          "id": "675069570",
+          "level": 3,
+          "originalName": "Snacking",
+          "seoToken": "snacking",
+          "subType": "CORE"
+        },
+        {
+          "id": "675068436",
+          "level": 3,
+          "originalName": "Liquor",
+          "seoToken": "liquor",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "674136793",
+      "level": 2,
+      "originalName": "Vegan & Vegetarian",
+      "seoToken": "vegan-vegetarian",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "675083144",
+          "level": 3,
+          "originalName": "Veggie Sausages & Burgers",
+          "seoToken": "veggie-sausages-burgers",
+          "subType": "CORE"
+        },
+        {
+          "id": "675082822",
+          "level": 3,
+          "originalName": "Veggie Chicken & Meat",
+          "seoToken": "veggie-chicken-meat",
+          "subType": "CORE"
+        },
+        {
+          "id": "675076165",
+          "level": 3,
+          "originalName": "Falafels, Soy & Tofu",
+          "seoToken": "falafels-soy-tofu",
+          "subType": "CORE"
+        },
+        {
+          "id": "675075238",
+          "level": 3,
+          "originalName": "Cheese & Dairy",
+          "seoToken": "cheese-dairy",
+          "subType": "CORE"
+        },
+        {
+          "id": "675081613",
+          "level": 3,
+          "originalName": "Snacking",
+          "seoToken": "snacking",
+          "subType": "CORE"
+        },
+        {
+          "id": "675080037",
+          "level": 3,
+          "originalName": "Pantry",
+          "seoToken": "pantry",
+          "subType": "CORE"
+        },
+        {
+          "id": "675073922",
+          "level": 3,
+          "originalName": "Bakery",
+          "seoToken": "bakery",
+          "subType": "CORE"
+        },
+        {
+          "id": "675077296",
+          "level": 3,
+          "originalName": "Frozen",
+          "seoToken": "frozen",
+          "subType": "CORE"
+        },
+        {
+          "id": "675075656",
+          "level": 3,
+          "originalName": "Drinks",
+          "seoToken": "drinks",
+          "subType": "CORE"
+        },
+        {
+          "id": "675078092",
+          "level": 3,
+          "originalName": "Health & Beauty",
+          "seoToken": "health-beauty",
+          "subType": "CORE"
+        },
+        {
+          "id": "675078682",
+          "level": 3,
+          "originalName": "Liquor",
+          "seoToken": "liquor",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "674136101",
+      "level": 2,
+      "originalName": "Sports Nutrition",
+      "seoToken": "sports-nutrition",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "675072653",
+          "level": 3,
+          "originalName": "Protein Powders",
+          "seoToken": "protein-powders",
+          "subType": "CORE"
+        },
+        {
+          "id": "675072210",
+          "level": 3,
+          "originalName": "Protein Bars & Snacks",
+          "seoToken": "protein-bars-snacks",
+          "subType": "CORE"
+        },
+        {
+          "id": "675073004",
+          "level": 3,
+          "originalName": "Protein Drinks & Shakes",
+          "seoToken": "protein-drinks-shakes",
+          "subType": "CORE"
+        },
+        {
+          "id": "675071005",
+          "level": 3,
+          "originalName": "Energy, Sports Drinks & Supplements",
+          "seoToken": "energy-sports-drinks-supplements",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "674135563",
+      "level": 2,
+      "originalName": "Health Foods & Diet",
+      "seoToken": "health-foods-diet",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "675041421",
+          "level": 3,
+          "originalName": "Chia Seeds And Quinoa",
+          "seoToken": "chia-seeds-and-quinoa",
+          "subType": "CORE"
+        },
+        {
+          "id": "675044379",
+          "level": 3,
+          "originalName": "Super Foods & Functional Foods",
+          "seoToken": "super-foods-functional-foods",
+          "subType": "CORE"
+        },
+        {
+          "id": "675043217",
+          "level": 3,
+          "originalName": "Healthy Snacks",
+          "seoToken": "healthy-snacks",
+          "subType": "CORE"
+        },
+        {
+          "id": "675043270",
+          "level": 3,
+          "originalName": "Low GI",
+          "seoToken": "low-gi",
+          "subType": "CORE"
+        },
+        {
+          "id": "675045539",
+          "level": 3,
+          "originalName": "Weight Management",
+          "seoToken": "weight-management",
+          "subType": "CORE"
+        },
+        {
+          "id": "675041452",
+          "level": 3,
+          "originalName": "Collagen",
+          "seoToken": "collagen",
+          "subType": "CORE"
+        },
+        {
+          "id": "675042643",
+          "level": 3,
+          "originalName": "Gut Health",
+          "seoToken": "gut-health",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "674135567",
+      "level": 2,
+      "originalName": "Kosher",
+      "seoToken": "kosher",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "675048062",
+          "level": 3,
+          "originalName": "Cupboard Essentials",
+          "seoToken": "cupboard-essentials",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "674135336",
+      "level": 2,
+      "originalName": "Halal",
+      "seoToken": "halal",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "675040491",
+          "level": 3,
+          "originalName": "Cheese, Yoghurt & Dairy",
+          "seoToken": "cheese-yoghurt-dairy",
+          "subType": "CORE"
+        },
+        {
+          "id": "675041078",
+          "level": 3,
+          "originalName": "Pantry",
+          "seoToken": "pantry",
+          "subType": "CORE"
+        },
+        {
+          "id": "675040518",
+          "level": 3,
+          "originalName": "Frozen",
+          "seoToken": "frozen",
+          "subType": "CORE"
+        },
+        {
+          "id": "675040493",
+          "level": 3,
+          "originalName": "Drinks",
+          "seoToken": "drinks",
+          "subType": "CORE"
+        }
+      ]
+    }
+  ]
+}

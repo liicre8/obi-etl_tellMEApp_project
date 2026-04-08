@@ -1,0 +1,24 @@
+When you pull down the JSON from Coles’ Next-data endpoint you’ll see that each product’s imageUris entry only contains a relative path:
+
+json
+Copy
+Edit
+"imageUris": [
+  {
+    "altText": "",
+    "type": "default",
+    "uri": "/6/6797481.jpg"
+  }
+]
+To get the actual picture you have two options:
+
+1. Hit the CDN directly
+All of Coles’ product images live on their CDN at https://cdn.productimages.coles.com.au/productimages. So you can simply do:
+
+js
+Copy
+Edit
+const rel = product.imageUris[0].uri;                // e.g. "/6/6797481.jpg"
+const imageUrl = `https://cdn.productimages.coles.com.au/productimages${rel}`;
+// → "https://cdn.productimages.coles.com.au/productimages/6/6797481.jpg"
+You can then fetch or download imageUrl however you like (axios, node-fetch, etc.).

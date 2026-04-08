@@ -1,0 +1,108 @@
+{
+  "id": "772566492",
+  "level": 1,
+  "originalName": "Big Pack Value",
+  "seoToken": "big-pack-value",
+  "subType": "CORE",
+  "catalogGroupView": [
+    {
+      "id": "881686540",
+      "level": 2,
+      "originalName": "Bulk Baby",
+      "seoToken": "bulk-baby",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "881686749",
+          "level": 3,
+          "originalName": "Bulk Nappies",
+          "seoToken": "bulk-nappies",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "881689333",
+      "level": 2,
+      "originalName": "Bulk Clothing",
+      "seoToken": "bulk-clothing",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "881690470",
+          "level": 3,
+          "originalName": "Bulk Socks",
+          "seoToken": "bulk-socks",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "772566978",
+      "level": 2,
+      "originalName": "Bulk Household",
+      "seoToken": "bulk-household",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "772572819",
+          "level": 3,
+          "originalName": "Bulk Cleaning",
+          "seoToken": "bulk-cleaning",
+          "subType": "CORE"
+        },
+        {
+          "id": "881698819",
+          "level": 3,
+          "originalName": "Bulk Kitchen",
+          "seoToken": "bulk-kitchen",
+          "subType": "CORE"
+        },
+        {
+          "id": "881700400",
+          "level": 3,
+          "originalName": "Bulk Pet",
+          "seoToken": "bulk-pet",
+          "subType": "CORE"
+        },
+        {
+          "id": "881704479",
+          "level": 3,
+          "originalName": "Bulk Stationery",
+          "seoToken": "bulk-stationery",
+          "subType": "CORE"
+        },
+        {
+          "id": "881707267",
+          "level": 3,
+          "originalName": "Bulk Storage",
+          "seoToken": "bulk-storage",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "848243654",
+      "level": 2,
+      "originalName": "Bulk Pantry",
+      "seoToken": "bulk-pantry",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "881694527",
+          "level": 3,
+          "originalName": "Bulk Sauces",
+          "seoToken": "bulk-sauces",
+          "subType": "CORE"
+        },
+        {
+          "id": "881695377",
+          "level": 3,
+          "originalName": "Bulk Snacks",
+          "seoToken": "bulk-snacks",
+          "subType": "CORE"
+        }
+      ]
+    }
+  ]
+}

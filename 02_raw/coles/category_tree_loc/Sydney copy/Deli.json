@@ -1,0 +1,564 @@
+{
+  "initStoreId": "0728",
+  "catalogGroupView": {
+    "id": "8892715",
+    "name": "Deli",
+    "level": 1,
+    "originalName": "Deli",
+    "productCount": 463,
+    "seoToken": "deli",
+    "subType": "CORE",
+    "catalogGroupView": [
+      {
+        "id": "8892717",
+        "level": 2,
+        "name": "Deli Meats",
+        "originalName": "Deli Meats",
+        "productCount": 47,
+        "seoToken": "deli-meats",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8900600",
+            "level": 3,
+            "name": "Beef & Lamb",
+            "originalName": "Beef & Lamb",
+            "productCount": 3,
+            "seoToken": "beef-lamb",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8900601",
+            "level": 3,
+            "name": "Chicken & Turkey",
+            "originalName": "Chicken & Turkey",
+            "productCount": 5,
+            "seoToken": "chicken-turkey",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892718",
+            "level": 3,
+            "name": "Deli Bacon",
+            "originalName": "Deli Bacon",
+            "productCount": 5,
+            "seoToken": "deli-bacon",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8900602",
+            "level": 3,
+            "name": "Ham",
+            "originalName": "Ham",
+            "productCount": 12,
+            "seoToken": "ham",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892720",
+            "level": 3,
+            "name": "Kabana, Pancetta & Mortadella",
+            "originalName": "Kabana, Pancetta & Mortadella",
+            "productCount": 6,
+            "seoToken": "kabana-pancetta-mortadella",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8900603",
+            "level": 3,
+            "name": "Other Sliced Meats",
+            "originalName": "Other Sliced Meats",
+            "productCount": 3,
+            "seoToken": "other-sliced-meats",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892721",
+            "level": 3,
+            "name": "Salami",
+            "originalName": "Salami",
+            "productCount": 9,
+            "seoToken": "salami",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892719",
+            "level": 3,
+            "name": "Sausages, Frankfurts & Kransky",
+            "originalName": "Sausages, Frankfurts & Kransky",
+            "productCount": 4,
+            "seoToken": "sausages-frankfurts-kransky",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8901800",
+        "level": 2,
+        "name": "Deli Packaged Meat",
+        "originalName": "Deli Packaged Meat",
+        "productCount": 77,
+        "seoToken": "deli-packaged-meat",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "648187292",
+            "level": 3,
+            "name": "Frankfurts & Kransky Packaged",
+            "originalName": "Frankfurts & Kransky Packaged",
+            "productCount": 5,
+            "seoToken": "frankfurts-kransky-packaged",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8901801",
+            "level": 3,
+            "name": "Meat Packaged",
+            "originalName": "Meat Packaged",
+            "productCount": 11,
+            "seoToken": "meat-packaged",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "650188021",
+            "level": 3,
+            "name": "Packaged Bacon",
+            "originalName": "Packaged Bacon",
+            "productCount": 16,
+            "seoToken": "packaged-bacon",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8901802",
+            "level": 3,
+            "name": "Packaged Ham",
+            "originalName": "Packaged Ham",
+            "productCount": 20,
+            "seoToken": "packaged-ham",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8901804",
+            "level": 3,
+            "name": "Salami & Kabana Packaged",
+            "originalName": "Salami & Kabana Packaged",
+            "productCount": 25,
+            "seoToken": "salami-kabana-packaged",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8892728",
+        "level": 2,
+        "name": "Deli Poultry",
+        "originalName": "Deli Poultry",
+        "productCount": 12,
+        "seoToken": "deli-poultry",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8892730",
+            "level": 3,
+            "name": "Breast & Thigh Fillets",
+            "originalName": "Breast & Thigh Fillets",
+            "productCount": 2,
+            "seoToken": "breast-thigh-fillets",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892732",
+            "level": 3,
+            "name": "Diced & Tenders",
+            "originalName": "Diced & Tenders",
+            "productCount": 2,
+            "seoToken": "diced-tenders",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892729",
+            "level": 3,
+            "name": "Kebabs, Nibbles & Crumbed",
+            "originalName": "Kebabs, Nibbles & Crumbed",
+            "productCount": 6,
+            "seoToken": "kebabs-nibbles-crumbed",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892731",
+            "level": 3,
+            "name": "Wings & Drumsticks",
+            "originalName": "Wings & Drumsticks",
+            "productCount": 2,
+            "seoToken": "wings-drumsticks",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8892733",
+        "level": 2,
+        "name": "Deli Seafood",
+        "originalName": "Deli Seafood",
+        "productCount": 43,
+        "seoToken": "deli-seafood",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8892734",
+            "level": 3,
+            "name": "Fish",
+            "originalName": "Fish",
+            "productCount": 10,
+            "seoToken": "fish",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892738",
+            "level": 3,
+            "name": "Marinara Mix",
+            "originalName": "Marinara Mix",
+            "productCount": 2,
+            "seoToken": "marinara-mix",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892735",
+            "level": 3,
+            "name": "Prawn & Crustaceans",
+            "originalName": "Prawn & Crustaceans",
+            "productCount": 8,
+            "seoToken": "prawn-crustaceans",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "648146295",
+            "level": 3,
+            "name": "Prepackaged Seafood",
+            "originalName": "Prepackaged Seafood",
+            "productCount": 23,
+            "seoToken": "prepackaged-seafood",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "641076560",
+        "level": 2,
+        "name": "Entertaining",
+        "originalName": "Entertaining",
+        "productCount": 42,
+        "seoToken": "entertaining",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "641091778",
+            "level": 3,
+            "name": "Antipasto",
+            "originalName": "Antipasto",
+            "productCount": 3,
+            "seoToken": "antipasto",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "641092413",
+            "level": 3,
+            "name": "Crackers, Dips & Pate",
+            "originalName": "Crackers, Dips & Pate",
+            "productCount": 23,
+            "seoToken": "crackers-dips-pate",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "641094777",
+            "level": 3,
+            "name": "Olives",
+            "originalName": "Olives",
+            "productCount": 4,
+            "seoToken": "olives",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "641099933",
+            "level": 3,
+            "name": "Prepacked Olives & Antipasto",
+            "originalName": "Prepacked Olives & Antipasto",
+            "productCount": 13,
+            "seoToken": "prepacked-olives-antipasto",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8892750",
+        "level": 2,
+        "name": "Gourmet Cheese",
+        "originalName": "Gourmet Cheese",
+        "productCount": 182,
+        "seoToken": "gourmet-cheese",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8892753",
+            "level": 3,
+            "name": "Brie & Camembert",
+            "originalName": "Brie & Camembert",
+            "productCount": 53,
+            "seoToken": "brie-camembert",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892751",
+            "level": 3,
+            "name": "Cheddar",
+            "originalName": "Cheddar",
+            "productCount": 54,
+            "seoToken": "cheddar",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892754",
+            "level": 3,
+            "name": "Deli Blue Cheese",
+            "originalName": "Deli Blue Cheese",
+            "productCount": 16,
+            "seoToken": "deli-blue-cheese",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892755",
+            "level": 3,
+            "name": "Fetta, Haloumi & Other",
+            "originalName": "Fetta, Haloumi & Other",
+            "productCount": 22,
+            "seoToken": "fetta-haloumi-other",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "641099959",
+            "level": 3,
+            "name": "Fruit & Flavoured Cheese",
+            "originalName": "Fruit & Flavoured Cheese",
+            "productCount": 11,
+            "seoToken": "fruit-flavoured-cheese",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892752",
+            "level": 3,
+            "name": "Goats Cheese",
+            "originalName": "Goats Cheese",
+            "productCount": 13,
+            "seoToken": "goats-cheese",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892803",
+            "level": 3,
+            "name": "Hard Cheese",
+            "originalName": "Hard Cheese",
+            "productCount": 13,
+            "seoToken": "hard-cheese",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "799610115",
+        "level": 2,
+        "name": "NEW Ready Meals & Soups",
+        "originalName": "NEW Ready Meals & Soups",
+        "productCount": 33,
+        "seoToken": "new-ready-meals-soups",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "799615152",
+            "level": 3,
+            "name": "Easy Meals",
+            "originalName": "Easy Meals",
+            "productCount": 6,
+            "seoToken": "easy-meals",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "799616064",
+            "level": 3,
+            "name": "Ready Meal",
+            "originalName": "Ready Meal",
+            "productCount": 18,
+            "seoToken": "ready-meal",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "799616877",
+            "level": 3,
+            "name": "Seasonal Soups",
+            "originalName": "Seasonal Soups",
+            "productCount": 9,
+            "seoToken": "seasonal-soups",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "849217995",
+        "level": 2,
+        "name": "NEW Sliced Meats",
+        "originalName": "NEW Sliced Meats",
+        "productCount": 9,
+        "seoToken": "new-sliced-meats",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "849218142",
+            "level": 3,
+            "name": "New Salami, Prosciutto & Soppressa",
+            "originalName": "New Salami, Prosciutto & Soppressa",
+            "productCount": 3,
+            "seoToken": "new-salami-prosciutto-soppressa",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "849218145",
+            "level": 3,
+            "name": "New Sliced Ham, Pork & Bacon",
+            "originalName": "New Sliced Ham, Pork & Bacon",
+            "productCount": 2,
+            "seoToken": "new-sliced-ham-pork-bacon",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "849218190",
+            "level": 3,
+            "name": "New Sliced Meats",
+            "originalName": "New Sliced Meats",
+            "productCount": 2,
+            "seoToken": "new-sliced-meats",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "849218306",
+            "level": 3,
+            "name": "New Sliced Poultry",
+            "originalName": "New Sliced Poultry",
+            "productCount": 2,
+            "seoToken": "new-sliced-poultry",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8900400",
+        "level": 2,
+        "name": "Pre-Made Platters",
+        "originalName": "Pre-Made Platters",
+        "productCount": 9,
+        "seoToken": "pre-made-platters",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8900611",
+            "level": 3,
+            "name": "Deli Platter",
+            "originalName": "Deli Platter",
+            "productCount": 9,
+            "seoToken": "deli-platter",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "641077584",
+        "level": 2,
+        "name": "Ready to Eat",
+        "originalName": "Ready To Eat",
+        "productCount": 14,
+        "seoToken": "ready-to-eat",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "641101380",
+            "level": 3,
+            "name": "Chilled Quiches & Pies",
+            "originalName": "Chilled Quiches & Pies",
+            "productCount": 11,
+            "seoToken": "chilled-quiches-pies",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "641101409",
+            "level": 3,
+            "name": "Heat & Eat",
+            "originalName": "Heat & Eat",
+            "productCount": 3,
+            "seoToken": "heat-eat",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "641102330",
+            "level": 3,
+            "name": "Hot Food",
+            "originalName": "Hot Food",
+            "productCount": 3,
+            "seoToken": "hot-food",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      }
+    ]
+  }
+}

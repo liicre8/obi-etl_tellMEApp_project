@@ -1,0 +1,668 @@
+{
+  "initStoreId": "0728",
+  "catalogGroupView": {
+    "id": "674112512",
+    "name": "Dietary & World Foods",
+    "level": 1,
+    "originalName": "Dietary & World Foods",
+    "productCount": 2838,
+    "seoToken": "dietary-world-foods",
+    "subType": "CORE",
+    "catalogGroupView": [
+      {
+        "id": "674113139",
+        "level": 2,
+        "name": "World Foods",
+        "originalName": "World Foods",
+        "productCount": 668,
+        "seoToken": "world-foods",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "675102473",
+            "level": 3,
+            "name": "Chinese",
+            "originalName": "Chinese",
+            "productCount": 110,
+            "seoToken": "chinese",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675104352",
+            "level": 3,
+            "name": "Japanese",
+            "originalName": "Japanese",
+            "productCount": 93,
+            "seoToken": "japanese",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675108470",
+            "level": 3,
+            "name": "Thai",
+            "originalName": "Thai",
+            "productCount": 93,
+            "seoToken": "thai",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675104741",
+            "level": 3,
+            "name": "Korean",
+            "originalName": "Korean",
+            "productCount": 36,
+            "seoToken": "korean",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675109170",
+            "level": 3,
+            "name": "Vietnamese",
+            "originalName": "Vietnamese",
+            "productCount": 11,
+            "seoToken": "vietnamese",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "679714926",
+            "level": 3,
+            "name": "Indonesia",
+            "originalName": "Indonesia",
+            "productCount": 10,
+            "seoToken": "indonesia",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675105506",
+            "level": 3,
+            "name": "Malaysian",
+            "originalName": "Malaysian",
+            "productCount": 41,
+            "seoToken": "malaysian",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675106796",
+            "level": 3,
+            "name": "Philippines",
+            "originalName": "Philippines",
+            "productCount": 3,
+            "seoToken": "philippines",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675103733",
+            "level": 3,
+            "name": "Indian",
+            "originalName": "Indian",
+            "productCount": 64,
+            "seoToken": "indian",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675105516",
+            "level": 3,
+            "name": "Mexican",
+            "originalName": "Mexican",
+            "productCount": 72,
+            "seoToken": "mexican",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675103734",
+            "level": 3,
+            "name": "Italian",
+            "originalName": "Italian",
+            "productCount": 100,
+            "seoToken": "italian",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675097934",
+            "level": 3,
+            "name": "British",
+            "originalName": "British",
+            "productCount": 28,
+            "seoToken": "british",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675106555",
+            "level": 3,
+            "name": "New Zealand",
+            "originalName": "New Zealand",
+            "productCount": 4,
+            "seoToken": "new-zealand",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675109168",
+            "level": 3,
+            "name": "USA",
+            "originalName": "USA",
+            "productCount": 3,
+            "seoToken": "usa",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "674114623",
+        "level": 2,
+        "name": "Free From",
+        "originalName": "Free From",
+        "productCount": 458,
+        "seoToken": "free-from",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "675024732",
+            "level": 3,
+            "name": "Gluten Free",
+            "originalName": "Gluten Free",
+            "productCount": 174,
+            "seoToken": "gluten-free",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675006051",
+            "level": 3,
+            "name": "Dairy & Lactose Free",
+            "originalName": "Dairy & Lactose Free",
+            "productCount": 70,
+            "seoToken": "dairy-lactose-free",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675024784",
+            "level": 3,
+            "name": "Sugar Free",
+            "originalName": "Sugar Free",
+            "productCount": 72,
+            "seoToken": "sugar-free",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675010715",
+            "level": 3,
+            "name": "Fodmap Friendly",
+            "originalName": "Fodmap Friendly",
+            "productCount": 28,
+            "seoToken": "fodmap-friendly",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675024758",
+            "level": 3,
+            "name": "Peanut Free",
+            "originalName": "Peanut Free",
+            "productCount": 23,
+            "seoToken": "peanut-free",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675024750",
+            "level": 3,
+            "name": "Nut Free",
+            "originalName": "Nut Free",
+            "productCount": 32,
+            "seoToken": "nut-free",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675007331",
+            "level": 3,
+            "name": "Egg Free",
+            "originalName": "Egg Free",
+            "productCount": 54,
+            "seoToken": "egg-free",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675024759",
+            "level": 3,
+            "name": "Soy Free",
+            "originalName": "Soy Free",
+            "productCount": 77,
+            "seoToken": "soy-free",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675010570",
+            "level": 3,
+            "name": "Fat Free",
+            "originalName": "Fat Free",
+            "productCount": 12,
+            "seoToken": "fat-free",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "674135800",
+        "level": 2,
+        "name": "Organic",
+        "originalName": "Organic",
+        "productCount": 285,
+        "seoToken": "organic",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "675065753",
+            "level": 3,
+            "name": "Fruit & Veg",
+            "originalName": "Fruit & Veg",
+            "productCount": 38,
+            "seoToken": "fruit-veg",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675068803",
+            "level": 3,
+            "name": "Meat, Dairy & Eggs",
+            "originalName": "Meat, Dairy & Eggs",
+            "productCount": 29,
+            "seoToken": "meat-dairy-eggs",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675069508",
+            "level": 3,
+            "name": "Pantry Essentials",
+            "originalName": "Pantry Essentials",
+            "productCount": 82,
+            "seoToken": "pantry-essentials",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675068242",
+            "level": 3,
+            "name": "Drinks",
+            "originalName": "Drinks",
+            "productCount": 32,
+            "seoToken": "drinks",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675068435",
+            "level": 3,
+            "name": "Frozen",
+            "originalName": "Frozen",
+            "productCount": 18,
+            "seoToken": "frozen",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675068241",
+            "level": 3,
+            "name": "Baby",
+            "originalName": "Baby",
+            "productCount": 47,
+            "seoToken": "baby",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675069570",
+            "level": 3,
+            "name": "Snacking",
+            "originalName": "Snacking",
+            "productCount": 9,
+            "seoToken": "snacking",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675068436",
+            "level": 3,
+            "name": "Liquor",
+            "originalName": "Liquor",
+            "productCount": 30,
+            "seoToken": "liquor",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "674136793",
+        "level": 2,
+        "name": "Vegan & Vegetarian",
+        "originalName": "Vegan & Vegetarian",
+        "productCount": 775,
+        "seoToken": "vegan-vegetarian",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "675083144",
+            "level": 3,
+            "name": "Veggie Sausages & Burgers",
+            "originalName": "Veggie Sausages & Burgers",
+            "productCount": 10,
+            "seoToken": "veggie-sausages-burgers",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675082822",
+            "level": 3,
+            "name": "Veggie Chicken & Meat",
+            "originalName": "Veggie Chicken & Meat",
+            "productCount": 11,
+            "seoToken": "veggie-chicken-meat",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675076165",
+            "level": 3,
+            "name": "Falafels, Soy & Tofu",
+            "originalName": "Falafels, Soy & Tofu",
+            "productCount": 80,
+            "seoToken": "falafels-soy-tofu",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675075238",
+            "level": 3,
+            "name": "Cheese & Dairy",
+            "originalName": "Cheese & Dairy",
+            "productCount": 10,
+            "seoToken": "cheese-dairy",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675081613",
+            "level": 3,
+            "name": "Snacking",
+            "originalName": "Snacking",
+            "productCount": 13,
+            "seoToken": "snacking",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675080037",
+            "level": 3,
+            "name": "Pantry",
+            "originalName": "Pantry",
+            "productCount": 9,
+            "seoToken": "pantry",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675073922",
+            "level": 3,
+            "name": "Bakery",
+            "originalName": "Bakery",
+            "productCount": 258,
+            "seoToken": "bakery",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675077296",
+            "level": 3,
+            "name": "Frozen",
+            "originalName": "Frozen",
+            "productCount": 137,
+            "seoToken": "frozen",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675075656",
+            "level": 3,
+            "name": "Drinks",
+            "originalName": "Drinks",
+            "productCount": 9,
+            "seoToken": "drinks",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675078092",
+            "level": 3,
+            "name": "Health & Beauty",
+            "originalName": "Health & Beauty",
+            "productCount": 4,
+            "seoToken": "health-beauty",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675078682",
+            "level": 3,
+            "name": "Liquor",
+            "originalName": "Liquor",
+            "productCount": 237,
+            "seoToken": "liquor",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "674136101",
+        "level": 2,
+        "name": "Sports Nutrition",
+        "originalName": "Sports Nutrition",
+        "productCount": 306,
+        "seoToken": "sports-nutrition",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "675072653",
+            "level": 3,
+            "name": "Protein Powders",
+            "originalName": "Protein Powders",
+            "productCount": 64,
+            "seoToken": "protein-powders",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675072210",
+            "level": 3,
+            "name": "Protein Bars & Snacks",
+            "originalName": "Protein Bars & Snacks",
+            "productCount": 175,
+            "seoToken": "protein-bars-snacks",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675073004",
+            "level": 3,
+            "name": "Protein Drinks & Shakes",
+            "originalName": "Protein Drinks & Shakes",
+            "productCount": 33,
+            "seoToken": "protein-drinks-shakes",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675071005",
+            "level": 3,
+            "name": "Energy, Sports Drinks & Supplements",
+            "originalName": "Energy, Sports Drinks & Supplements",
+            "productCount": 54,
+            "seoToken": "energy-sports-drinks-supplements",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "674135563",
+        "level": 2,
+        "name": "Health Foods & Diet",
+        "originalName": "Health Foods & Diet",
+        "productCount": 559,
+        "seoToken": "health-foods-diet",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "675041421",
+            "level": 3,
+            "name": "Chia Seeds and Quinoa",
+            "originalName": "Chia Seeds And Quinoa",
+            "productCount": 45,
+            "seoToken": "chia-seeds-and-quinoa",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675044379",
+            "level": 3,
+            "name": "Super Foods & Functional Foods",
+            "originalName": "Super Foods & Functional Foods",
+            "productCount": 64,
+            "seoToken": "super-foods-functional-foods",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675043217",
+            "level": 3,
+            "name": "Healthy Snacks",
+            "originalName": "Healthy Snacks",
+            "productCount": 286,
+            "seoToken": "healthy-snacks",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675043270",
+            "level": 3,
+            "name": "Low GI",
+            "originalName": "Low GI",
+            "productCount": 59,
+            "seoToken": "low-gi",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675045539",
+            "level": 3,
+            "name": "Weight Management",
+            "originalName": "Weight Management",
+            "productCount": 105,
+            "seoToken": "weight-management",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675041452",
+            "level": 3,
+            "name": "Collagen",
+            "originalName": "Collagen",
+            "productCount": 25,
+            "seoToken": "collagen",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675042643",
+            "level": 3,
+            "name": "Gut Health",
+            "originalName": "Gut Health",
+            "productCount": 9,
+            "seoToken": "gut-health",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "674135336",
+        "level": 2,
+        "name": "Halal",
+        "originalName": "Halal",
+        "productCount": 392,
+        "seoToken": "halal",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "675040491",
+            "level": 3,
+            "name": "Cheese, Yoghurt & Dairy",
+            "originalName": "Cheese, Yoghurt & Dairy",
+            "productCount": 133,
+            "seoToken": "cheese-yoghurt-dairy",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675041078",
+            "level": 3,
+            "name": "Pantry",
+            "originalName": "Pantry",
+            "productCount": 215,
+            "seoToken": "pantry",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675040518",
+            "level": 3,
+            "name": "Frozen",
+            "originalName": "Frozen",
+            "productCount": 35,
+            "seoToken": "frozen",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "675040493",
+            "level": 3,
+            "name": "Drinks",
+            "originalName": "Drinks",
+            "productCount": 30,
+            "seoToken": "drinks",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      }
+    ]
+  }
+}

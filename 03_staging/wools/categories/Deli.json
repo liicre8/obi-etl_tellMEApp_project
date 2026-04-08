@@ -1,0 +1,83 @@
+{
+  "NodeId": "1_3151F6F",
+  "Description": "Deli",
+  "NodeLevel": 1,
+  "ParentNodeId": "1-4A3B264C",
+  "UrlFriendlyName": "deli",
+  "Children": [
+    {
+      "NodeId": "1_696F07C",
+      "Description": "Deli Meats",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_3151F6F",
+      "UrlFriendlyName": "deli-meats",
+      "Children": [
+        {
+          "NodeId": "1_499FEB0",
+          "Description": "Packaged Ham, Bacon & Salami",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_696F07C",
+          "UrlFriendlyName": "packaged-ham-bacon-salami",
+          "Children": []
+        },
+        {
+          "NodeId": "1_C7F23A0",
+          "Description": "Sliced & Shaved Deli Meat",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_696F07C",
+          "UrlFriendlyName": "sliced-shaved-deli-meat",
+          "Children": []
+        },
+        {
+          "NodeId": "1_8CB5C97",
+          "Description": "Sausages & Frankfurts",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_696F07C",
+          "UrlFriendlyName": "sausages-frankfurts",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_CA60E21",
+      "Description": "Deli Specialties",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_3151F6F",
+      "UrlFriendlyName": "deli-specialties",
+      "Children": [
+        {
+          "NodeId": "1_84C9140",
+          "Description": "Dips & Pâté",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_CA60E21",
+          "UrlFriendlyName": "dips-p-t-",
+          "Children": []
+        },
+        {
+          "NodeId": "1_5CFEE6E",
+          "Description": "Gourmet Cheese",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_CA60E21",
+          "UrlFriendlyName": "gourmet-cheese",
+          "Children": []
+        },
+        {
+          "NodeId": "1_F97E58C",
+          "Description": "Antipasto",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_CA60E21",
+          "UrlFriendlyName": "antipasto",
+          "Children": []
+        },
+        {
+          "NodeId": "1_B891B2E",
+          "Description": "Platters",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_CA60E21",
+          "UrlFriendlyName": "platters",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

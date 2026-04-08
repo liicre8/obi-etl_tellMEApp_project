@@ -1,0 +1,7 @@
+Naming Suggestions:
+-Version Purpose-	        -Folder Name Example-	            -Notes-
+Old/deprecated logic	            v1_legacy/	        Makes it clear it's not maintained
+New version, improved API	  v2_api_rewrite/	Name reflects key improvement
+Experimental version	          v3_experiment/	Optional if testing new patterns
+Production-ready version	  latest/ or v3/	Clear and preferred for stable code
+Shared configs/utils	         common/ or shared/	For things reused across versions

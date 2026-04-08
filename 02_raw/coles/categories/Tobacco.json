@@ -1,0 +1,53 @@
+{
+  "id": "17490",
+  "level": 1,
+  "originalName": "Tobacco",
+  "seoToken": "tobacco",
+  "subType": "CORE",
+  "catalogGroupView": [
+    {
+      "id": "17390",
+      "level": 2,
+      "originalName": "Tobacco, Cigarettes & Cigars",
+      "seoToken": "tobacco-cigarettes-cigars",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "17336",
+          "level": 3,
+          "originalName": "Cigarettes",
+          "seoToken": "cigarettes",
+          "subType": "CORE"
+        },
+        {
+          "id": "17359",
+          "level": 3,
+          "originalName": "Cigars",
+          "seoToken": "cigars",
+          "subType": "CORE"
+        },
+        {
+          "id": "8903801",
+          "level": 3,
+          "originalName": "Lighters",
+          "seoToken": "lighters",
+          "subType": "CORE"
+        },
+        {
+          "id": "17372",
+          "level": 3,
+          "originalName": "Loose Tobacco",
+          "seoToken": "loose-tobacco",
+          "subType": "CORE"
+        },
+        {
+          "id": "17346",
+          "level": 3,
+          "originalName": "Papers & Filters",
+          "seoToken": "papers-filters",
+          "subType": "CORE"
+        }
+      ]
+    }
+  ]
+}

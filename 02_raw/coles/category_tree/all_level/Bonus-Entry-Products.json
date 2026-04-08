@@ -1,0 +1,491 @@
+{
+  "id": "853791606",
+  "level": 1,
+  "originalName": "Bonus Entry Products",
+  "seoToken": "bonus-entry-products",
+  "subType": "CORE",
+  "catalogGroupView": [
+    {
+      "id": "853795130",
+      "level": 2,
+      "originalName": "Activia",
+      "seoToken": "activia",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "853795139",
+          "level": 3,
+          "originalName": "Frozen Dessert",
+          "seoToken": "frozen-dessert",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862635343",
+      "level": 2,
+      "originalName": "Carmans",
+      "seoToken": "carmans",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862635345",
+          "level": 3,
+          "originalName": "Cereal",
+          "seoToken": "cereal",
+          "subType": "CORE"
+        },
+        {
+          "id": "862635346",
+          "level": 3,
+          "originalName": "Healthy Food & Snacks",
+          "seoToken": "healthy-food-snacks",
+          "subType": "CORE"
+        },
+        {
+          "id": "862635348",
+          "level": 3,
+          "originalName": "Nutritional Snacks",
+          "seoToken": "nutritional-snacks",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862635350",
+      "level": 2,
+      "originalName": "Cold Power",
+      "seoToken": "cold-power",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862635352",
+          "level": 3,
+          "originalName": "Laundry Needs",
+          "seoToken": "laundry-needs",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862635353",
+      "level": 2,
+      "originalName": "Colgate",
+      "seoToken": "colgate",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862635371",
+          "level": 3,
+          "originalName": "Dental Accessories",
+          "seoToken": "dental-accessories",
+          "subType": "CORE"
+        },
+        {
+          "id": "862635466",
+          "level": 3,
+          "originalName": "Mouthwash",
+          "seoToken": "mouthwash",
+          "subType": "CORE"
+        },
+        {
+          "id": "862635467",
+          "level": 3,
+          "originalName": "Toothbrush",
+          "seoToken": "toothbrush",
+          "subType": "CORE"
+        },
+        {
+          "id": "862635503",
+          "level": 3,
+          "originalName": "Toothpaste",
+          "seoToken": "toothpaste",
+          "subType": "CORE"
+        },
+        {
+          "id": "862635504",
+          "level": 3,
+          "originalName": "Trial & Travel",
+          "seoToken": "trial-travel",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862635543",
+      "level": 2,
+      "originalName": "Cucina Matese",
+      "seoToken": "cucina-matese",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862635572",
+          "level": 3,
+          "originalName": "Canned Veg & Flour",
+          "seoToken": "canned-veg-flour",
+          "subType": "CORE"
+        },
+        {
+          "id": "862635573",
+          "level": 3,
+          "originalName": "Pasta & Rice",
+          "seoToken": "pasta-rice",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862635724",
+      "level": 2,
+      "originalName": "Dare",
+      "seoToken": "dare",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862635726",
+          "level": 3,
+          "originalName": "Flavoured Milk",
+          "seoToken": "flavoured-milk",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862635734",
+      "level": 2,
+      "originalName": "Darrell Lea",
+      "seoToken": "darrell-lea",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862635738",
+          "level": 3,
+          "originalName": "Chocolates & Licorice",
+          "seoToken": "chocolates-licorice",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862636186",
+      "level": 2,
+      "originalName": "Dettol",
+      "seoToken": "dettol",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862636272",
+          "level": 3,
+          "originalName": "Cleaning Goods",
+          "seoToken": "cleaning-goods",
+          "subType": "CORE"
+        },
+        {
+          "id": "862636411",
+          "level": 3,
+          "originalName": "First Aid",
+          "seoToken": "first-aid",
+          "subType": "CORE"
+        },
+        {
+          "id": "862636412",
+          "level": 3,
+          "originalName": "Laundry",
+          "seoToken": "laundry",
+          "subType": "CORE"
+        },
+        {
+          "id": "862636479",
+          "level": 3,
+          "originalName": "Soaps & Body Wash",
+          "seoToken": "soaps-body-wash",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862636509",
+      "level": 2,
+      "originalName": "Drumstick",
+      "seoToken": "drumstick",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862636706",
+          "level": 3,
+          "originalName": "Icecream",
+          "seoToken": "icecream",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862637241",
+      "level": 2,
+      "originalName": "Dynamo",
+      "seoToken": "dynamo",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862637242",
+          "level": 3,
+          "originalName": "Laundry Liquid & Capsules",
+          "seoToken": "laundry-liquid-capsules",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862645480",
+      "level": 2,
+      "originalName": "Fairy",
+      "seoToken": "fairy",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862645580",
+          "level": 3,
+          "originalName": "Dishwashing Needs",
+          "seoToken": "dishwashing-needs",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862645583",
+      "level": 2,
+      "originalName": "Fanta",
+      "seoToken": "fanta",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862645601",
+          "level": 3,
+          "originalName": "Soft Drinks",
+          "seoToken": "soft-drinks",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862645651",
+      "level": 2,
+      "originalName": "Felix",
+      "seoToken": "felix",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862645652",
+          "level": 3,
+          "originalName": "Cat Foods & Treats",
+          "seoToken": "cat-foods-treats",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862645689",
+      "level": 2,
+      "originalName": "Harvest Snaps",
+      "seoToken": "harvest-snaps",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862645789",
+          "level": 3,
+          "originalName": "Snacks",
+          "seoToken": "snacks",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862645791",
+      "level": 2,
+      "originalName": "Masterfoods",
+      "seoToken": "masterfoods",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862645794",
+          "level": 3,
+          "originalName": "Herbs & Spices",
+          "seoToken": "herbs-spices",
+          "subType": "CORE"
+        },
+        {
+          "id": "862645857",
+          "level": 3,
+          "originalName": "Meal Bases & Sauces",
+          "seoToken": "meal-bases-sauces",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862645858",
+      "level": 2,
+      "originalName": "McCain",
+      "seoToken": "mccain",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862645859",
+          "level": 3,
+          "originalName": "Convenience Meal",
+          "seoToken": "convenience-meal",
+          "subType": "CORE"
+        },
+        {
+          "id": "862645861",
+          "level": 3,
+          "originalName": "Frozen Snacks",
+          "seoToken": "frozen-snacks",
+          "subType": "CORE"
+        },
+        {
+          "id": "862645864",
+          "level": 3,
+          "originalName": "Frozen Vegetables",
+          "seoToken": "frozen-vegetables",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862645865",
+      "level": 2,
+      "originalName": "Moccona",
+      "seoToken": "moccona",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862645866",
+          "level": 3,
+          "originalName": "Coffee Capsules & Instant",
+          "seoToken": "coffee-capsules-instant",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862645868",
+      "level": 2,
+      "originalName": "Pantene",
+      "seoToken": "pantene",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862645869",
+          "level": 3,
+          "originalName": "Hair Care",
+          "seoToken": "hair-care",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862645872",
+      "level": 2,
+      "originalName": "Primo",
+      "seoToken": "primo",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862645873",
+          "level": 3,
+          "originalName": "Cheese Snacks",
+          "seoToken": "cheese-snacks",
+          "subType": "CORE"
+        },
+        {
+          "id": "862645874",
+          "level": 3,
+          "originalName": "Deli & Seafood",
+          "seoToken": "deli-seafood",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862645877",
+      "level": 2,
+      "originalName": "Sprite",
+      "seoToken": "sprite",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862645878",
+          "level": 3,
+          "originalName": "Beverages",
+          "seoToken": "beverages",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862645902",
+      "level": 2,
+      "originalName": "Supercoat",
+      "seoToken": "supercoat",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862646016",
+          "level": 3,
+          "originalName": "Dry Dog Food",
+          "seoToken": "dry-dog-food",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862646148",
+      "level": 2,
+      "originalName": "Vanish",
+      "seoToken": "vanish",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862646260",
+          "level": 3,
+          "originalName": "Stain Treatment & Removal",
+          "seoToken": "stain-treatment-removal",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862646261",
+      "level": 2,
+      "originalName": "Weet Bix",
+      "seoToken": "weet-bix",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862646318",
+          "level": 3,
+          "originalName": "Cereal",
+          "seoToken": "cereal",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "862646372",
+      "level": 2,
+      "originalName": "Yopro",
+      "seoToken": "yopro",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "862646373",
+          "level": 3,
+          "originalName": "Yoghurt",
+          "seoToken": "yoghurt",
+          "subType": "CORE"
+        }
+      ]
+    }
+  ]
+}

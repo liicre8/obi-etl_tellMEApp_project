@@ -1,0 +1,586 @@
+{
+  "initStoreId": "0728",
+  "catalogGroupView": {
+    "id": "15603",
+    "name": "Baby",
+    "level": 1,
+    "originalName": "Baby",
+    "productCount": 398,
+    "seoToken": "baby",
+    "subType": "CORE",
+    "catalogGroupView": [
+      {
+        "id": "8904002",
+        "level": 2,
+        "name": "Nappies & Nappy Pants",
+        "originalName": "Nappies & Nappy Pants",
+        "productCount": 65,
+        "seoToken": "nappies-nappy-pants",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8904009",
+            "level": 3,
+            "name": "Bed Mats",
+            "originalName": "Bed Mats",
+            "productCount": 1,
+            "seoToken": "bed-mats",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904011",
+            "level": 3,
+            "name": "Eco Friendly Nappies",
+            "originalName": "Eco Friendly Nappies",
+            "productCount": 1,
+            "seoToken": "eco-friendly-nappies",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904012",
+            "level": 3,
+            "name": "Nappies",
+            "originalName": "Nappies",
+            "productCount": 28,
+            "seoToken": "nappies",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904013",
+            "level": 3,
+            "name": "Nappy Pants",
+            "originalName": "Nappy Pants",
+            "productCount": 28,
+            "seoToken": "nappy-pants",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904014",
+            "level": 3,
+            "name": "Night Pants",
+            "originalName": "Night Pants",
+            "productCount": 7,
+            "seoToken": "night-pants",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904016",
+            "level": 3,
+            "name": "Swimmers",
+            "originalName": "Swimmers",
+            "productCount": 1,
+            "seoToken": "swimmers",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8904203",
+        "level": 2,
+        "name": "Baby Wipes",
+        "originalName": "Baby Wipes",
+        "productCount": 25,
+        "seoToken": "baby-wipes",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8904214",
+            "level": 3,
+            "name": "Extra Large Pack",
+            "originalName": "Extra Large Pack",
+            "productCount": 4,
+            "seoToken": "extra-large-pack",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904213",
+            "level": 3,
+            "name": "Large Pack",
+            "originalName": "Large Pack",
+            "productCount": 6,
+            "seoToken": "large-pack",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904212",
+            "level": 3,
+            "name": "Medium Pack",
+            "originalName": "Medium Pack",
+            "productCount": 11,
+            "seoToken": "medium-pack",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904401",
+            "level": 3,
+            "name": "Refill Pack",
+            "originalName": "Refill Pack",
+            "productCount": 2,
+            "seoToken": "refill-pack",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904211",
+            "level": 3,
+            "name": "Small Pack",
+            "originalName": "Small Pack",
+            "productCount": 2,
+            "seoToken": "small-pack",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8904001",
+        "level": 2,
+        "name": "Baby Formula",
+        "originalName": "Baby Formula",
+        "productCount": 66,
+        "seoToken": "baby-formula",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8904004",
+            "level": 3,
+            "name": "A2 Formula",
+            "originalName": "A2 Formula",
+            "productCount": 6,
+            "seoToken": "a2-formula",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904005",
+            "level": 3,
+            "name": "Cow Formula",
+            "originalName": "Cow Formula",
+            "productCount": 33,
+            "seoToken": "cow-formula",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904006",
+            "level": 3,
+            "name": "Goat Formula",
+            "originalName": "Goat Formula",
+            "productCount": 8,
+            "seoToken": "goat-formula",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904007",
+            "level": 3,
+            "name": "Organic Formula",
+            "originalName": "Organic Formula",
+            "productCount": 6,
+            "seoToken": "organic-formula",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904008",
+            "level": 3,
+            "name": "Specialty Formula",
+            "originalName": "Specialty Formula",
+            "productCount": 13,
+            "seoToken": "specialty-formula",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8904208",
+        "level": 2,
+        "name": "Baby Feeding",
+        "originalName": "Baby Feeding",
+        "productCount": 4,
+        "seoToken": "baby-feeding",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8904237",
+            "level": 3,
+            "name": "Nursing Care",
+            "originalName": "Nursing Care",
+            "productCount": 4,
+            "seoToken": "nursing-care",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8904206",
+        "level": 2,
+        "name": "Baby Accessories",
+        "originalName": "Baby Accessories",
+        "productCount": 7,
+        "seoToken": "baby-accessories",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8904224",
+            "level": 3,
+            "name": "Baby Grooming & Oral Care",
+            "originalName": "Baby Grooming & Oral Care",
+            "productCount": 2,
+            "seoToken": "baby-grooming-oral-care",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904229",
+            "level": 3,
+            "name": "Baby Health & Safety",
+            "originalName": "Baby Health & Safety",
+            "productCount": 1,
+            "seoToken": "baby-health-safety",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904225",
+            "level": 3,
+            "name": "Nappy Change Accessories",
+            "originalName": "Nappy Change Accessories",
+            "productCount": 4,
+            "seoToken": "nappy-change-accessories",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8904003",
+        "level": 2,
+        "name": "Baby & Toddler Food",
+        "originalName": "Baby & Toddler Food",
+        "productCount": 117,
+        "seoToken": "baby-toddler-food",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8904018",
+            "level": 3,
+            "name": "Baby & Toddler Snacks",
+            "originalName": "Baby & Toddler Snacks",
+            "productCount": 41,
+            "seoToken": "baby-toddler-snacks",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904021",
+            "level": 3,
+            "name": "Baby Cereals",
+            "originalName": "Baby Cereals",
+            "productCount": 2,
+            "seoToken": "baby-cereals",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904019",
+            "level": 3,
+            "name": "Baby Food Jars",
+            "originalName": "Baby Food Jars",
+            "productCount": 4,
+            "seoToken": "baby-food-jars",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904017",
+            "level": 3,
+            "name": "Baby Food Pouches",
+            "originalName": "Baby Food Pouches",
+            "productCount": 70,
+            "seoToken": "baby-food-pouches",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904023",
+            "level": 3,
+            "name": "Baby Pasta",
+            "originalName": "Baby Pasta",
+            "productCount": 2,
+            "seoToken": "baby-pasta",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904022",
+            "level": 3,
+            "name": "Baby Rusks",
+            "originalName": "Baby Rusks",
+            "productCount": 3,
+            "seoToken": "baby-rusks",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8904209",
+        "level": 2,
+        "name": "Baby Meal Time",
+        "originalName": "Baby Meal Time",
+        "productCount": 7,
+        "seoToken": "baby-meal-time",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8904238",
+            "level": 3,
+            "name": "Baby Plates & Bowls",
+            "originalName": "Baby Plates & Bowls",
+            "productCount": 7,
+            "seoToken": "baby-plates-bowls",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8904207",
+        "level": 2,
+        "name": "Bottles & Feeding",
+        "originalName": "Bottles & Feeding",
+        "productCount": 29,
+        "seoToken": "bottles-feeding",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8904233",
+            "level": 3,
+            "name": "Baby Bottles",
+            "originalName": "Baby Bottles",
+            "productCount": 8,
+            "seoToken": "baby-bottles",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904234",
+            "level": 3,
+            "name": "Baby Cups",
+            "originalName": "Baby Cups",
+            "productCount": 10,
+            "seoToken": "baby-cups",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904235",
+            "level": 3,
+            "name": "Baby Teats",
+            "originalName": "Baby Teats",
+            "productCount": 3,
+            "seoToken": "baby-teats",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904232",
+            "level": 3,
+            "name": "Bottle Accessories",
+            "originalName": "Bottle Accessories",
+            "productCount": 4,
+            "seoToken": "bottle-accessories",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904236",
+            "level": 3,
+            "name": "Bottle Cleaning",
+            "originalName": "Bottle Cleaning",
+            "productCount": 2,
+            "seoToken": "bottle-cleaning",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904231",
+            "level": 3,
+            "name": "Bottle Feeding",
+            "originalName": "Bottle Feeding",
+            "productCount": 2,
+            "seoToken": "bottle-feeding",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8904204",
+        "level": 2,
+        "name": "Bath & Skincare",
+        "originalName": "Bath & Skincare",
+        "productCount": 52,
+        "seoToken": "bath-skincare",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8904215",
+            "level": 3,
+            "name": "Baby Bath",
+            "originalName": "Baby Bath",
+            "productCount": 6,
+            "seoToken": "baby-bath",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904216",
+            "level": 3,
+            "name": "Baby Cotton Buds",
+            "originalName": "Baby Cotton Buds",
+            "productCount": 2,
+            "seoToken": "baby-cotton-buds",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904218",
+            "level": 3,
+            "name": "Baby Hair & Body Wash",
+            "originalName": "Baby Hair & Body Wash",
+            "productCount": 12,
+            "seoToken": "baby-hair-body-wash",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904217",
+            "level": 3,
+            "name": "Baby Hair Care",
+            "originalName": "Baby Hair Care",
+            "productCount": 2,
+            "seoToken": "baby-hair-care",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904223",
+            "level": 3,
+            "name": "Baby Medicinal",
+            "originalName": "Baby Medicinal",
+            "productCount": 8,
+            "seoToken": "baby-medicinal",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904222",
+            "level": 3,
+            "name": "Baby Moisturiser",
+            "originalName": "Baby Moisturiser",
+            "productCount": 8,
+            "seoToken": "baby-moisturiser",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904221",
+            "level": 3,
+            "name": "Baby Oil",
+            "originalName": "Baby Oil",
+            "productCount": 4,
+            "seoToken": "baby-oil",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904220",
+            "level": 3,
+            "name": "Baby Powder",
+            "originalName": "Baby Powder",
+            "productCount": 4,
+            "seoToken": "baby-powder",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8904219",
+            "level": 3,
+            "name": "Nappy Rash Treatment",
+            "originalName": "Nappy Rash Treatment",
+            "productCount": 6,
+            "seoToken": "nappy-rash-treatment",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8904210",
+        "level": 2,
+        "name": "Dummies & Teething",
+        "originalName": "Dummies & Teething",
+        "productCount": 17,
+        "seoToken": "dummies-teething",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8904239",
+            "level": 3,
+            "name": "Soothers & Teethers",
+            "originalName": "Soothers & Teethers",
+            "productCount": 17,
+            "seoToken": "soothers-teethers",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "551677541",
+        "level": 2,
+        "name": "Postpartum Care",
+        "originalName": "Postpartum Care",
+        "productCount": 10,
+        "seoToken": "postpartum-care",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "551677570",
+            "level": 3,
+            "name": "Postpartum Underwear",
+            "originalName": "Postpartum Underwear",
+            "productCount": 10,
+            "seoToken": "postpartum-underwear",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      }
+    ]
+  }
+}

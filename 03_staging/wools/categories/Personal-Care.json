@@ -1,0 +1,417 @@
+{
+  "NodeId": "1_894D0A8",
+  "Description": "Personal Care",
+  "NodeLevel": 1,
+  "ParentNodeId": "1-4A3B264C",
+  "UrlFriendlyName": "personal-care",
+  "Children": [
+    {
+      "NodeId": "1_8B886DE",
+      "Description": "Shower, Bath & Body",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_894D0A8",
+      "UrlFriendlyName": "shower-bath-body",
+      "Children": [
+        {
+          "NodeId": "1_E08A7EE",
+          "Description": "Soap",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_8B886DE",
+          "UrlFriendlyName": "soap",
+          "Children": []
+        },
+        {
+          "NodeId": "1_3A8B51C",
+          "Description": "Body Wash",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_8B886DE",
+          "UrlFriendlyName": "body-wash",
+          "Children": []
+        },
+        {
+          "NodeId": "1_D0642D8",
+          "Description": "Handwash & Hand Sanitisers",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_8B886DE",
+          "UrlFriendlyName": "handwash-hand-sanitisers",
+          "Children": []
+        },
+        {
+          "NodeId": "1_3945456",
+          "Description": "Bubble Bath & Salts",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_8B886DE",
+          "UrlFriendlyName": "bubble-bath-salts",
+          "Children": []
+        },
+        {
+          "NodeId": "1_CD4E9A8",
+          "Description": "Shower & Bath Accessories",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_8B886DE",
+          "UrlFriendlyName": "shower-bath-accessories",
+          "Children": []
+        },
+        {
+          "NodeId": "1_11BCF5C",
+          "Description": "Female Deodorants",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_8B886DE",
+          "UrlFriendlyName": "female-deodorants",
+          "Children": []
+        },
+        {
+          "NodeId": "1_688D6E9",
+          "Description": "Female Body Sprays",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_8B886DE",
+          "UrlFriendlyName": "female-body-sprays",
+          "Children": []
+        },
+        {
+          "NodeId": "1_7906A87",
+          "Description": "Cotton Wool & Cotton Buds",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_8B886DE",
+          "UrlFriendlyName": "cotton-wool-cotton-buds",
+          "Children": []
+        },
+        {
+          "NodeId": "1_0D84146",
+          "Description": "Wipes & Tissues",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_8B886DE",
+          "UrlFriendlyName": "wipes-tissues",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_098A313",
+      "Description": "Hair Care",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_894D0A8",
+      "UrlFriendlyName": "hair-care",
+      "Children": [
+        {
+          "NodeId": "1_D19C64C",
+          "Description": "Shampoo & Conditioner",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_098A313",
+          "UrlFriendlyName": "shampoo-conditioner",
+          "Children": []
+        },
+        {
+          "NodeId": "1_C2D0D06",
+          "Description": "Hair Treatments",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_098A313",
+          "UrlFriendlyName": "hair-treatments",
+          "Children": []
+        },
+        {
+          "NodeId": "1_D0D59C5",
+          "Description": "Hair Colour",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_098A313",
+          "UrlFriendlyName": "hair-colour",
+          "Children": []
+        },
+        {
+          "NodeId": "1_FE94C3A",
+          "Description": "Styling Products",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_098A313",
+          "UrlFriendlyName": "styling-products",
+          "Children": []
+        },
+        {
+          "NodeId": "1_2C8E582",
+          "Description": "Hair Accessories & Brushes",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_098A313",
+          "UrlFriendlyName": "hair-accessories-brushes",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_6DCE3C5",
+      "Description": "Oral Care",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_894D0A8",
+      "UrlFriendlyName": "oral-care",
+      "Children": [
+        {
+          "NodeId": "1_3022EED",
+          "Description": "Floss & Mouthwash",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_6DCE3C5",
+          "UrlFriendlyName": "floss-mouthwash",
+          "Children": []
+        },
+        {
+          "NodeId": "1_F1ECC3C",
+          "Description": "Toothbrushes",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_6DCE3C5",
+          "UrlFriendlyName": "toothbrushes",
+          "Children": []
+        },
+        {
+          "NodeId": "1_BF70D80",
+          "Description": "Toothpaste",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_6DCE3C5",
+          "UrlFriendlyName": "toothpaste",
+          "Children": []
+        },
+        {
+          "NodeId": "1_07269D8",
+          "Description": "Teeth Whitening",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_6DCE3C5",
+          "UrlFriendlyName": "teeth-whitening",
+          "Children": []
+        },
+        {
+          "NodeId": "1_9086150",
+          "Description": "Denture Care",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_6DCE3C5",
+          "UrlFriendlyName": "denture-care",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_DCFD79C",
+      "Description": "Men's Care",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_894D0A8",
+      "UrlFriendlyName": "men-s-care",
+      "Children": [
+        {
+          "NodeId": "1_A4F25F0",
+          "Description": "Men's Blades & Razors",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DCFD79C",
+          "UrlFriendlyName": "men-s-blades-razors",
+          "Children": []
+        },
+        {
+          "NodeId": "1_167BFDC",
+          "Description": "Men's Shave Gels & Foams",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DCFD79C",
+          "UrlFriendlyName": "men-s-shave-gels-foams",
+          "Children": []
+        },
+        {
+          "NodeId": "1_2E1D447",
+          "Description": "Men's Aftershave",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DCFD79C",
+          "UrlFriendlyName": "men-s-aftershave",
+          "Children": []
+        },
+        {
+          "NodeId": "1_A85D6A7",
+          "Description": "Men's Skin",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DCFD79C",
+          "UrlFriendlyName": "men-s-skin",
+          "Children": []
+        },
+        {
+          "NodeId": "1_47AD394",
+          "Description": "Men's Body Sprays",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DCFD79C",
+          "UrlFriendlyName": "men-s-body-sprays",
+          "Children": []
+        },
+        {
+          "NodeId": "1_12F01E6",
+          "Description": "Men's Deodorants",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DCFD79C",
+          "UrlFriendlyName": "men-s-deodorants",
+          "Children": []
+        },
+        {
+          "NodeId": "1_944477A",
+          "Description": "Men's Shower Gels",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DCFD79C",
+          "UrlFriendlyName": "men-s-shower-gels",
+          "Children": []
+        },
+        {
+          "NodeId": "1_15C654F",
+          "Description": "Men's Hair Care",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DCFD79C",
+          "UrlFriendlyName": "men-s-hair-care",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_A6EDC50",
+      "Description": "Period & Continence Care",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_894D0A8",
+      "UrlFriendlyName": "period-continence-care",
+      "Children": [
+        {
+          "NodeId": "1_F4790A6",
+          "Description": "Pads & Pants",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A6EDC50",
+          "UrlFriendlyName": "pads-pants",
+          "Children": []
+        },
+        {
+          "NodeId": "1_34B5140",
+          "Description": "Tampons",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A6EDC50",
+          "UrlFriendlyName": "tampons",
+          "Children": []
+        },
+        {
+          "NodeId": "1_52F4744",
+          "Description": "Liners",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A6EDC50",
+          "UrlFriendlyName": "liners",
+          "Children": []
+        },
+        {
+          "NodeId": "1_2A3AD5D",
+          "Description": "Period Underwear & Reusables",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A6EDC50",
+          "UrlFriendlyName": "period-underwear-reusables",
+          "Children": []
+        },
+        {
+          "NodeId": "1_473280B",
+          "Description": "Maternity Pads",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A6EDC50",
+          "UrlFriendlyName": "maternity-pads",
+          "Children": []
+        },
+        {
+          "NodeId": "1_41968B7",
+          "Description": "Intimate Hygiene",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A6EDC50",
+          "UrlFriendlyName": "intimate-hygiene",
+          "Children": []
+        },
+        {
+          "NodeId": "1_535B1B2",
+          "Description": "Continence Pants",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A6EDC50",
+          "UrlFriendlyName": "continence-pants",
+          "Children": []
+        },
+        {
+          "NodeId": "1_EB45535",
+          "Description": "Continence Pads",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A6EDC50",
+          "UrlFriendlyName": "continence-pads",
+          "Children": []
+        },
+        {
+          "NodeId": "1_A5A6B06",
+          "Description": "Continence Liners",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A6EDC50",
+          "UrlFriendlyName": "continence-liners",
+          "Children": []
+        },
+        {
+          "NodeId": "1_20AC46F",
+          "Description": "Continence Underwear & Reusables",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A6EDC50",
+          "UrlFriendlyName": "continence-underwear-reusables",
+          "Children": []
+        },
+        {
+          "NodeId": "1_CAE5162",
+          "Description": "Continence Mens",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A6EDC50",
+          "UrlFriendlyName": "continence-mens",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_4290CA1",
+      "Description": "Women's Hair Removal",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_894D0A8",
+      "UrlFriendlyName": "women-s-hair-removal",
+      "Children": [
+        {
+          "NodeId": "1_1CFF3FF",
+          "Description": "Women's Blades & Razors",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_4290CA1",
+          "UrlFriendlyName": "women-s-blades-razors",
+          "Children": []
+        },
+        {
+          "NodeId": "1_5FC9A16",
+          "Description": "Waxes & Creams",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_4290CA1",
+          "UrlFriendlyName": "waxes-creams",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_990EF76",
+      "Description": "Sun Protection",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_894D0A8",
+      "UrlFriendlyName": "sun-protection",
+      "Children": [
+        {
+          "NodeId": "1_574979C",
+          "Description": "Sun Care",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_990EF76",
+          "UrlFriendlyName": "sun-care",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_D771F24",
+      "Description": "Travel Toiletries & Minis",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_894D0A8",
+      "UrlFriendlyName": "travel-toiletries-minis",
+      "Children": [
+        {
+          "NodeId": "1_1C82483",
+          "Description": "Travel Toiletries & Minis",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_D771F24",
+          "UrlFriendlyName": "travel-toiletries-minis",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

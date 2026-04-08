@@ -1,0 +1,167 @@
+{
+  "id": "674112512",
+  "level": 1,
+  "originalName": "Dietary & World Foods",
+  "seoToken": "dietary-world-foods",
+  "subType": "CORE",
+  "catalogGroupView": [
+    {
+      "id": "674113139",
+      "level": 2,
+      "originalName": "World Foods",
+      "seoToken": "world-foods",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "675102473",
+          "level": 3,
+          "originalName": "Chinese",
+          "seoToken": "chinese",
+          "subType": "CORE"
+        },
+        {
+          "id": "675104352",
+          "level": 3,
+          "originalName": "Japanese",
+          "seoToken": "japanese",
+          "subType": "CORE"
+        },
+        {
+          "id": "675108470",
+          "level": 3,
+          "originalName": "Thai",
+          "seoToken": "thai",
+          "subType": "CORE"
+        },
+        {
+          "id": "675104741",
+          "level": 3,
+          "originalName": "Korean",
+          "seoToken": "korean",
+          "subType": "CORE"
+        },
+        {
+          "id": "675109170",
+          "level": 3,
+          "originalName": "Vietnamese",
+          "seoToken": "vietnamese",
+          "subType": "CORE"
+        },
+        {
+          "id": "679714926",
+          "level": 3,
+          "originalName": "Indonesia",
+          "seoToken": "indonesia",
+          "subType": "CORE"
+        },
+        {
+          "id": "675105506",
+          "level": 3,
+          "originalName": "Malaysian",
+          "seoToken": "malaysian",
+          "subType": "CORE"
+        },
+        {
+          "id": "675106796",
+          "level": 3,
+          "originalName": "Philippines",
+          "seoToken": "philippines",
+          "subType": "CORE"
+        },
+        {
+          "id": "675103733",
+          "level": 3,
+          "originalName": "Indian",
+          "seoToken": "indian",
+          "subType": "CORE"
+        },
+        {
+          "id": "675105516",
+          "level": 3,
+          "originalName": "Mexican",
+          "seoToken": "mexican",
+          "subType": "CORE"
+        },
+        {
+          "id": "675103734",
+          "level": 3,
+          "originalName": "Italian",
+          "seoToken": "italian",
+          "subType": "CORE"
+        },
+        {
+          "id": "679713797",
+          "level": 3,
+          "originalName": "Greek",
+          "seoToken": "greek",
+          "subType": "CORE"
+        },
+        {
+          "id": "675097934",
+          "level": 3,
+          "originalName": "British",
+          "seoToken": "british",
+          "subType": "CORE"
+        },
+        {
+          "id": "675106555",
+          "level": 3,
+          "originalName": "New Zealand",
+          "seoToken": "new-zealand",
+          "subType": "CORE"
+        },
+        {
+          "id": "675107170",
+          "level": 3,
+          "originalName": "South African",
+          "seoToken": "south-african",
+          "subType": "CORE"
+        },
+        {
+          "id": "675102931",
+          "level": 3,
+          "originalName": "European",
+          "seoToken": "european",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "674136101",
+      "level": 2,
+      "originalName": "Sports Nutrition",
+      "seoToken": "sports-nutrition",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "675072653",
+          "level": 3,
+          "originalName": "Protein Powders",
+          "seoToken": "protein-powders",
+          "subType": "CORE"
+        },
+        {
+          "id": "675072210",
+          "level": 3,
+          "originalName": "Protein Bars & Snacks",
+          "seoToken": "protein-bars-snacks",
+          "subType": "CORE"
+        },
+        {
+          "id": "675073004",
+          "level": 3,
+          "originalName": "Protein Drinks & Shakes",
+          "seoToken": "protein-drinks-shakes",
+          "subType": "CORE"
+        },
+        {
+          "id": "675071005",
+          "level": 3,
+          "originalName": "Energy, Sports Drinks & Supplements",
+          "seoToken": "energy-sports-drinks-supplements",
+          "subType": "CORE"
+        }
+      ]
+    }
+  ]
+}

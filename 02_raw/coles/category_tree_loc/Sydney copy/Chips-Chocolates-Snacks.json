@@ -1,0 +1,358 @@
+{
+  "initStoreId": "0728",
+  "catalogGroupView": {
+    "id": "8916201",
+    "name": "Chips, Chocolates & Snacks",
+    "level": 1,
+    "originalName": "Chips, Chocolates & Snacks",
+    "productCount": 1328,
+    "seoToken": "chips-chocolates-snacks",
+    "subType": "CORE",
+    "catalogGroupView": [
+      {
+        "id": "657638318",
+        "level": 2,
+        "name": "Biscuits & Cookies",
+        "originalName": "Biscuits & Cookies",
+        "productCount": 168,
+        "seoToken": "biscuits-cookies",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "657638597",
+            "level": 3,
+            "name": "Chocolate Biscuits",
+            "originalName": "Chocolate Biscuits",
+            "productCount": 39,
+            "seoToken": "chocolate-biscuits",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "657639557",
+            "level": 3,
+            "name": "Cream & Plain Biscuits",
+            "originalName": "Cream & Plain Biscuits",
+            "productCount": 108,
+            "seoToken": "cream-plain-biscuits",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "657639941",
+            "level": 3,
+            "name": "Multipack Biscuits",
+            "originalName": "Multipack Biscuits",
+            "productCount": 21,
+            "seoToken": "multipack-biscuits",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8916207",
+        "level": 2,
+        "name": "Chips",
+        "originalName": "Chips",
+        "productCount": 144,
+        "seoToken": "chips",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "657634750",
+            "level": 3,
+            "name": "Chips Multi Pack",
+            "originalName": "Chips Multi Pack",
+            "productCount": 11,
+            "seoToken": "chips-multi-pack",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "657634677",
+            "level": 3,
+            "name": "Chips Sharing",
+            "originalName": "Chips Sharing",
+            "productCount": 102,
+            "seoToken": "chips-sharing",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "657634683",
+            "level": 3,
+            "name": "Chips Single Pack",
+            "originalName": "Chips Single Pack",
+            "productCount": 5,
+            "seoToken": "chips-single-pack",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8916214",
+            "level": 3,
+            "name": "Corn Chips & Salsa",
+            "originalName": "Corn Chips & Salsa",
+            "productCount": 26,
+            "seoToken": "corn-chips-salsa",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "657635263",
+        "level": 2,
+        "name": "Chocolates",
+        "originalName": "Chocolates",
+        "productCount": 362,
+        "seoToken": "chocolates",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "657635266",
+            "level": 3,
+            "name": "Boxed Chocolate & Gifts",
+            "originalName": "Boxed Chocolate & gifts",
+            "productCount": 48,
+            "seoToken": "boxed-chocolate-gifts",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "657636243",
+            "level": 3,
+            "name": "Chocolate Bars",
+            "originalName": "Chocolate Bars",
+            "productCount": 83,
+            "seoToken": "chocolate-bars",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "657635878",
+            "level": 3,
+            "name": "Chocolate Bites",
+            "originalName": "Chocolate Bites",
+            "productCount": 47,
+            "seoToken": "chocolate-bites",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "657635638",
+            "level": 3,
+            "name": "Chocolate Blocks",
+            "originalName": "Chocolate Blocks",
+            "productCount": 146,
+            "seoToken": "chocolate-blocks",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "657636626",
+            "level": 3,
+            "name": "Chocolate Multipacks",
+            "originalName": "Chocolate Multipacks",
+            "productCount": 33,
+            "seoToken": "chocolate-multipacks",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "658193432",
+            "level": 3,
+            "name": "Seasonal Chocolates",
+            "originalName": "Seasonal Chocolates",
+            "productCount": 5,
+            "seoToken": "seasonal-chocolates",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "657640625",
+        "level": 2,
+        "name": "Crackers & Rice Cakes",
+        "originalName": "Crackers & Rice Cakes",
+        "productCount": 195,
+        "seoToken": "crackers-rice-cakes",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "657641318",
+            "level": 3,
+            "name": "Crackers & Crispbreads",
+            "originalName": "Crackers & Crispbreads",
+            "productCount": 93,
+            "seoToken": "crackers-crispbreads",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "657641776",
+            "level": 3,
+            "name": "Flavoured Snacks",
+            "originalName": "Flavoured Snacks",
+            "productCount": 35,
+            "seoToken": "flavoured-snacks",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "657642016",
+            "level": 3,
+            "name": "Multipack Crackers",
+            "originalName": "Multipack Crackers",
+            "productCount": 14,
+            "seoToken": "multipack-crackers",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "657641039",
+            "level": 3,
+            "name": "Rice & Corn Snacks",
+            "originalName": "Rice & Corn Snacks",
+            "productCount": 53,
+            "seoToken": "rice-corn-snacks",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8916203",
+        "level": 2,
+        "name": "Gum, Mints & Lozenges",
+        "originalName": "Gum, Mints & Lozenges",
+        "productCount": 82,
+        "seoToken": "gum-mints-lozenges",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8916221",
+            "level": 3,
+            "name": "Gum",
+            "originalName": "Gum",
+            "productCount": 41,
+            "seoToken": "gum",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8916224",
+            "level": 3,
+            "name": "Medicated Lozenges",
+            "originalName": "Medicated Lozenges",
+            "productCount": 16,
+            "seoToken": "medicated-lozenges",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8916222",
+            "level": 3,
+            "name": "Mints",
+            "originalName": "Mints",
+            "productCount": 25,
+            "seoToken": "mints",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "657637130",
+        "level": 2,
+        "name": "Lollies & Licorice",
+        "originalName": "Lollies & Licorice",
+        "productCount": 124,
+        "seoToken": "lollies-licorice",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "657637845",
+            "level": 3,
+            "name": "Licorice",
+            "originalName": "Licorice",
+            "productCount": 14,
+            "seoToken": "licorice",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "657637611",
+            "level": 3,
+            "name": "Lollies",
+            "originalName": "Lollies",
+            "productCount": 110,
+            "seoToken": "lollies",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8916204",
+        "level": 2,
+        "name": "Snacks",
+        "originalName": "Snacks",
+        "productCount": 263,
+        "seoToken": "snacks",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8916227",
+            "level": 3,
+            "name": "Muesli Bars & Fruit Snacks",
+            "originalName": "Muesli Bars & Fruit Snacks",
+            "productCount": 152,
+            "seoToken": "muesli-bars-fruit-snacks",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8916226",
+            "level": 3,
+            "name": "Nuts & Trail Mix",
+            "originalName": "Nuts & Trail Mix",
+            "productCount": 54,
+            "seoToken": "nuts-trail-mix",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8916225",
+            "level": 3,
+            "name": "Popcorn",
+            "originalName": "Popcorn",
+            "productCount": 44,
+            "seoToken": "popcorn",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8916223",
+            "level": 3,
+            "name": "Pretzels & Other Snacks",
+            "originalName": "Pretzels & Other Snacks",
+            "productCount": 13,
+            "seoToken": "pretzels-other-snacks",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      }
+    ]
+  }
+}

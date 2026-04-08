@@ -1,0 +1,176 @@
+[
+  { "tmId": "24023", 
+    "level": 1,
+    "name": "Deli & Chilled Meats", 
+    "children": [
+      { "tmId": "24024", "level": 2, "name": "Deli Meats", 
+        "children": [
+          { "tmId": "24046", "level": 3, "name": "Deli Poultry", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_D5A2236", 
+                "ParentNode": "Poultry",
+                "aisleId": "1_7BEDDBF",
+                "aisle": "Deli Chicken",
+                "url": "https://www.woolworths.com.au/shop/browse/poultry-meat-seafood/poultry/deli-chicken" 
+              }
+            ]
+          },
+          { "tmId": "24028", "level": 3, "name": "Packaged Ham, Bacon & Salami",  
+            "children": [
+              {
+                "NodeIdLevel1": "1_D5A2236", 
+                "ParentNode": "Meat",
+                "aisleId": "1_B8AF396",
+                "aisle": "Deli Meat",
+                "url": "https://www.woolworths.com.au/shop/browse/poultry-meat-seafood/meat/deli-meat" 
+              },
+              {
+                "NodeIdLevel1": "1_3151F6F", 
+                "ParentNode": "Deli Meats",
+                "aisleId": "1_499FEB0",
+                "aisle": "Packaged Ham, Bacon & Salami",
+                "url": "https://www.woolworths.com.au/shop/browse/deli/deli-meats/packaged-ham-bacon-salami" 
+              }
+            ]
+          },
+          { "tmId": "24030", "level": 3, "name": "Sausages & Frankfurts", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_3151F6F", 
+                "ParentNode": "Deli Meats",
+                "aisleId": "1_8CB5C97",
+                "aisle": "Sausages & Frankfurts",
+                "url": "https://www.woolworths.com.au/shop/browse/deli/deli-meats/sausages-frankfurts" 
+              }
+            ]
+          },
+          { "tmId": "24029", "level": 3, "name": "Sliced & Shaved Deli Meat", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_3151F6F", 
+                "ParentNode": "Deli Meats",
+                "aisleId": "1_C7F23A0",
+                "aisle": "Sliced & Shaved Deli Meat",
+                "url": "https://www.woolworths.com.au/shop/browse/deli/deli-meats/sliced-shaved-deli-meat" 
+              }
+            ]
+          } 
+        ]
+      },
+      { "tmId": "24025", "level": 2, "name": "Deli Specialties",
+        "children": [
+          { "tmId": "24033", "level": 3, "name": "Antipasto", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_3151F6F", 
+                "ParentNode": "Deli Specialties",
+                "aisleId": "1_F97E58C",
+                "aisle": "Antipasto",
+                "url": "https://www.woolworths.com.au/shop/browse/deli/deli-specialties/antipasto" 
+              }
+            ]
+          },
+          { "tmId": "24031", "level": 3, "name": "Dips & Pate", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_3151F6F", 
+                "ParentNode": "Deli Specialties",
+                "aisleId": "1_84C9140",
+                "aisle": "Dips & Pâté",
+                "url": "https://www.woolworths.com.au/shop/browse/deli/deli-specialties/dips-p-t-" 
+              }
+
+            ]
+          },
+          { "tmId": "24032", "level": 3, "name": "Gourmet Cheese",  
+            "children": [
+              {
+                "NodeIdLevel1": "1_3151F6F", 
+                "ParentNode": "Deli Specialties",
+                "aisleId": "1_5CFEE6E",
+                "aisle": "Gourmet Cheese",
+                "url": "https://www.woolworths.com.au/shop/browse/deli/deli-specialties/gourmet-cheese" 
+              }
+            ]
+          },  
+          { "tmId": "24034", "level": 3, "name": "Platters", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_3151F6F", 
+                "ParentNode": "Deli Specialties",
+                "aisleId": "1_B891B2E",
+                "aisle": "Platters",
+                "url": "https://www.woolworths.com.au/shop/browse/deli/deli-specialties/platters" 
+              }
+            ]
+          }  
+        ]
+      },
+      { "tmId": "24055", "level": 2, "name": "Deli-Seafood", 
+        "children": [
+         
+        ]
+      },
+      { "tmId": "24026", "level": 2, "name": "Ready to Eat Meals", 
+        "children": [
+          { "tmId": "24041", "level": 3, "name": "Chilled Pizza & Garlic Bread",  
+            "children": [
+
+            ]
+          },  
+          { "tmId": "24037", "level": 3, "name": "Chilled Quiches & Pies", 
+            "children": [
+             
+            ]
+          },
+          { "tmId": "24038", "level": 3, "name": "Chilled Soup", 
+            "children": [
+
+            ]
+          },
+          { "tmId": "24043", "level": 3, "name": "Entertaining & Sides", 
+            "children": [
+
+            ]
+          },
+          { "tmId": "24036", "level": 3, "name": "Family Meals", 
+            "children": [
+              
+            ]
+          },
+          { "tmId": "24040", "level": 3, "name": "Fresh Pasta & Sauces", 
+            "children": [
+
+            ]
+          },
+          { "tmId": "24042", "level": 3, "name": "Packaged Salads", 
+            "children": [
+
+            ]
+          },
+          { "tmId": "24035", "level": 3, "name": "Single Serve",
+            "children": [
+
+            ]
+          } 
+        ]
+      },
+      { "tmId": "24027", "level": 2, "name": "Vegetarian & Vegan", 
+        
+        "children": [
+          { "tmId": "24044", "level": 3, "name": "Vegan", 
+            "children": [
+
+            ]
+          },  
+          { "tmId": "24045", "level": 3, "name": "Vegetarian", 
+            "children": [
+
+            ]
+          }  
+        ]
+      }
+    ]
+  }
+]

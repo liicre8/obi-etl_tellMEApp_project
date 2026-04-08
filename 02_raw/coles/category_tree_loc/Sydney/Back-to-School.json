@@ -1,0 +1,276 @@
+{
+  "initStoreId": "0728",
+  "catalogGroupView": {
+    "id": "8904801",
+    "level": 1,
+    "name": "Back to School",
+    "originalName": "Back To School",
+    "productCount": 967,
+    "seoToken": "back-to-school",
+    "type": "CATALOG",
+    "subType": "SEASONAL",
+    "catalogGroupView": [
+      {
+        "id": "8908402",
+        "level": 2,
+        "name": "School Breakfast",
+        "originalName": "School Breakfast",
+        "productCount": 105,
+        "seoToken": "school-breakfast",
+        "type": "CATALOG",
+        "subType": "SEASONAL",
+        "catalogGroupView": [
+          {
+            "id": "8908416",
+            "level": 3,
+            "name": "Easy Breakfast",
+            "originalName": "Easy Breakfast",
+            "productCount": 70,
+            "seoToken": "easy-breakfast",
+            "type": "CATALOG",
+            "subType": "SEASONAL"
+          },
+          {
+            "id": "8908420",
+            "level": 3,
+            "name": "Breakfast On the Go",
+            "originalName": "Breakfast On The Go",
+            "productCount": 37,
+            "seoToken": "breakfast-on-the-go",
+            "type": "CATALOG",
+            "subType": "SEASONAL"
+          }
+        ]
+      },
+      {
+        "id": "8908403",
+        "level": 2,
+        "name": "School Lunches",
+        "originalName": "School Lunches",
+        "productCount": 216,
+        "seoToken": "school-lunches",
+        "type": "CATALOG",
+        "subType": "SEASONAL",
+        "catalogGroupView": [
+          {
+            "id": "8908425",
+            "level": 3,
+            "name": "Sandwich & Wrap Essentials",
+            "originalName": "Sandwich & Wrap Essentials",
+            "productCount": 121,
+            "seoToken": "sandwich-wrap-essentials",
+            "type": "CATALOG",
+            "subType": "SEASONAL"
+          },
+          {
+            "id": "8916400",
+            "level": 3,
+            "name": "Easy Lunches",
+            "originalName": "Easy Lunches",
+            "productCount": 70,
+            "seoToken": "easy-lunches",
+            "type": "CATALOG",
+            "subType": "SEASONAL"
+          },
+          {
+            "id": "8910002",
+            "level": 3,
+            "name": "Lunchbox Drinks",
+            "originalName": "Lunchbox Drinks",
+            "productCount": 30,
+            "seoToken": "lunchbox-drinks",
+            "type": "CATALOG",
+            "subType": "SEASONAL"
+          }
+        ]
+      },
+      {
+        "id": "701890311",
+        "level": 2,
+        "name": "Lunchbox Snacks",
+        "originalName": "Lunchbox Snacks",
+        "productCount": 372,
+        "seoToken": "lunchbox-snacks",
+        "type": "CATALOG",
+        "subType": "SEASONAL",
+        "catalogGroupView": [
+          {
+            "id": "701890341",
+            "level": 3,
+            "name": "Healthier Snacks",
+            "originalName": "Healthier Snacks",
+            "productCount": 79,
+            "seoToken": "healthier-snacks",
+            "type": "CATALOG",
+            "subType": "SEASONAL"
+          },
+          {
+            "id": "701890342",
+            "level": 3,
+            "name": "Fruit, Nuts & Vegetable Snacks",
+            "originalName": "Fruit, Nuts & Vegetable Snacks",
+            "productCount": 68,
+            "seoToken": "fruit-nuts-vegetable-snacks",
+            "type": "CATALOG",
+            "subType": "SEASONAL"
+          },
+          {
+            "id": "701890351",
+            "level": 3,
+            "name": "Cheese, Crackers & Dips",
+            "originalName": "Cheese, Crackers & Dips",
+            "productCount": 47,
+            "seoToken": "cheese-crackers-dips",
+            "type": "CATALOG",
+            "subType": "SEASONAL"
+          },
+          {
+            "id": "701890359",
+            "level": 3,
+            "name": "Muesli Bars",
+            "originalName": "Muesli Bars",
+            "productCount": 44,
+            "seoToken": "muesli-bars",
+            "type": "CATALOG",
+            "subType": "SEASONAL"
+          },
+          {
+            "id": "701890360",
+            "level": 3,
+            "name": "Yoghurt",
+            "originalName": "Yoghurt",
+            "productCount": 58,
+            "seoToken": "yoghurt",
+            "type": "CATALOG",
+            "subType": "SEASONAL"
+          },
+          {
+            "id": "701890368",
+            "level": 3,
+            "name": "Chips, Chocolate & Biscuits",
+            "originalName": "Chips, Chocolate & Biscuits",
+            "productCount": 62,
+            "seoToken": "chips-chocolate-biscuits",
+            "type": "CATALOG",
+            "subType": "SEASONAL"
+          },
+          {
+            "id": "701890463",
+            "level": 3,
+            "name": "Bakery Snacks",
+            "originalName": "Bakery Snacks",
+            "productCount": 35,
+            "seoToken": "bakery-snacks",
+            "type": "CATALOG",
+            "subType": "SEASONAL"
+          }
+        ]
+      },
+      {
+        "id": "8908404",
+        "level": 2,
+        "name": "School Accessories & Lunchboxes",
+        "originalName": "School Accessories & Lunchboxes",
+        "productCount": 170,
+        "seoToken": "school-accessories-lunchboxes",
+        "type": "CATALOG",
+        "subType": "SEASONAL",
+        "catalogGroupView": [
+          {
+            "id": "8916402",
+            "level": 3,
+            "name": "Lunchboxes, Bottles & Sandwich Bags",
+            "originalName": "Lunchboxes, Bottles & Sandwich Bags",
+            "productCount": 71,
+            "seoToken": "lunchboxes-bottles-sandwich-bags",
+            "type": "CATALOG",
+            "subType": "SEASONAL"
+          },
+          {
+            "id": "8908431",
+            "level": 3,
+            "name": "Stationery & Technology",
+            "originalName": "Stationery & Technology",
+            "productCount": 48,
+            "seoToken": "stationery-technology",
+            "type": "CATALOG",
+            "subType": "SEASONAL"
+          },
+          {
+            "id": "8916401",
+            "level": 3,
+            "name": "School Necessities & Suncare",
+            "originalName": "School Necessities & Suncare",
+            "productCount": 51,
+            "seoToken": "school-necessities-suncare",
+            "type": "CATALOG",
+            "subType": "SEASONAL"
+          }
+        ]
+      },
+      {
+        "id": "8910000",
+        "level": 2,
+        "name": "Easy School Night Dinners",
+        "originalName": "Easy School Night Dinners",
+        "productCount": 155,
+        "seoToken": "easy-school-night-dinners",
+        "type": "CATALOG",
+        "subType": "SEASONAL",
+        "catalogGroupView": [
+          {
+            "id": "8914200",
+            "level": 3,
+            "name": "Kits & Meal Bases",
+            "originalName": "Kits & Meal Bases",
+            "productCount": 35,
+            "seoToken": "kits-meal-bases",
+            "type": "CATALOG",
+            "subType": "SEASONAL"
+          },
+          {
+            "id": "8914201",
+            "level": 3,
+            "name": "Pre-Marinated Meats & Ready Meals",
+            "originalName": "Pre-Marinated Meats & Ready Meals",
+            "productCount": 29,
+            "seoToken": "pre-marinated-meats-ready-meals",
+            "type": "CATALOG",
+            "subType": "SEASONAL"
+          },
+          {
+            "id": "8914202",
+            "level": 3,
+            "name": "Pizza, Pasta & Sauces",
+            "originalName": "Pizza, Pasta & Sauces",
+            "productCount": 46,
+            "seoToken": "pizza-pasta-sauces",
+            "type": "CATALOG",
+            "subType": "SEASONAL"
+          },
+          {
+            "id": "8914203",
+            "level": 3,
+            "name": "Frozen Foods",
+            "originalName": "Frozen Foods",
+            "productCount": 26,
+            "seoToken": "frozen-foods",
+            "type": "CATALOG",
+            "subType": "SEASONAL"
+          },
+          {
+            "id": "8914204",
+            "level": 3,
+            "name": "Salad Kits & Sides",
+            "originalName": "Salad Kits & Sides",
+            "productCount": 28,
+            "seoToken": "salad-kits-sides",
+            "type": "CATALOG",
+            "subType": "SEASONAL"
+          }
+        ]
+      }
+    ],
+    "image": "https://www.coles.com.au/content/dam/coles/shop-categories/back-to-school.png"
+  }
+}

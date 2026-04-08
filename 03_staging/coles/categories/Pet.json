@@ -1,0 +1,168 @@
+{
+  "id": "16427",
+  "level": 1,
+  "originalName": "Pet",
+  "seoToken": "pet",
+  "subType": "CORE",
+  "catalogGroupView": [
+    {
+      "id": "78415",
+      "level": 2,
+      "originalName": "Dog & Puppy",
+      "seoToken": "dog-puppy",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "69444",
+          "level": 3,
+          "originalName": "Chilled Dog Food",
+          "seoToken": "chilled-dog-food",
+          "subType": "CORE"
+        },
+        {
+          "id": "66328",
+          "level": 3,
+          "originalName": "Dog Treats & Milk",
+          "seoToken": "dog-treats-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "69116",
+          "level": 3,
+          "originalName": "Dry Dog Food",
+          "seoToken": "dry-dog-food",
+          "subType": "CORE"
+        },
+        {
+          "id": "8888801",
+          "level": 3,
+          "originalName": "Puppy Food, Treats & Milk",
+          "seoToken": "puppy-food-treats-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "66369",
+          "level": 3,
+          "originalName": "Trays & Cans Dog Food",
+          "seoToken": "trays-cans-dog-food",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "74581",
+      "level": 2,
+      "originalName": "Cat & Kitten",
+      "seoToken": "cat-kitten",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "67889",
+          "level": 3,
+          "originalName": "Cat Treats & Milk",
+          "seoToken": "cat-treats-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "69777",
+          "level": 3,
+          "originalName": "Chilled Cat Food",
+          "seoToken": "chilled-cat-food",
+          "subType": "CORE"
+        },
+        {
+          "id": "68746",
+          "level": 3,
+          "originalName": "Dry Cat Food",
+          "seoToken": "dry-cat-food",
+          "subType": "CORE"
+        },
+        {
+          "id": "8888800",
+          "level": 3,
+          "originalName": "Kitten Food, Treats & Milk",
+          "seoToken": "kitten-food-treats-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "68523",
+          "level": 3,
+          "originalName": "Trays & Cans Cat Food",
+          "seoToken": "trays-cans-cat-food",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "71122",
+      "level": 2,
+      "originalName": "Fish Food & Accessories",
+      "seoToken": "fish-food-accessories",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "62899",
+          "level": 3,
+          "originalName": "Fish Food",
+          "seoToken": "fish-food",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "79211",
+      "level": 2,
+      "originalName": "Birds",
+      "seoToken": "birds",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "66778",
+          "level": 3,
+          "originalName": "Bird Food",
+          "seoToken": "bird-food",
+          "subType": "CORE"
+        },
+        {
+          "id": "69332",
+          "level": 3,
+          "originalName": "Bird Treats",
+          "seoToken": "bird-treats",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "70036",
+      "level": 2,
+      "originalName": "Small Pets",
+      "seoToken": "small-pets",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "69742",
+          "level": 3,
+          "originalName": "Small Pets Food",
+          "seoToken": "small-pets-food",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8900201",
+      "level": 2,
+      "originalName": "Pet Scoop & Weigh",
+      "seoToken": "pet-scoop-weigh",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8900202",
+          "level": 3,
+          "originalName": "Scoop & Weigh Treats",
+          "seoToken": "scoop-weigh-treats",
+          "subType": "CORE"
+        }
+      ]
+    }
+  ]
+}

@@ -1,17 +1,21 @@
-# node_modules
-# brightdata_proxy_ca
-matched
-# similar
-# notMatched
-# unMatched
-UnMatchedAll
-UMforUpload
+# Node dependencies
+node_modules/
 
-coles/data
-woolworths/data
+# Output data
+data/
 
+# Environment variables
 .env
 
-# todo.md
+# System files
+.DS_Store
+Thumbs.db
 
-# pricing
+# Logs
+*.log
+
+# VS Code settings (optional)
+.vscode/
+
+# Ignore Prettier config
+.prettierrc

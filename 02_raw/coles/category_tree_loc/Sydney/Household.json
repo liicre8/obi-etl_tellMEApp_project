@@ -1,0 +1,1308 @@
+{
+  "initStoreId": "0728",
+  "catalogGroupView": {
+    "id": "14003",
+    "level": 1,
+    "name": "Household",
+    "originalName": "Household",
+    "productCount": 1786,
+    "seoToken": "household",
+    "type": "CATALOG",
+    "subType": "CORE",
+    "catalogGroupView": [
+      {
+        "id": "8898633",
+        "level": 2,
+        "name": "Air Fresheners & Home Fragrance",
+        "originalName": "Air Fresheners & Home Fragrance",
+        "productCount": 114,
+        "seoToken": "air-fresheners-home-fragrance",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8898634",
+            "level": 3,
+            "name": "All Airfreshners",
+            "originalName": "All Airfreshners",
+            "productCount": 114,
+            "seoToken": "all-airfreshners",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "15005",
+        "level": 2,
+        "name": "Charity Donations",
+        "originalName": "Charity Donations",
+        "productCount": 4,
+        "seoToken": "charity-donations",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "15006",
+            "level": 3,
+            "name": "Donations",
+            "originalName": "Donations",
+            "productCount": 4,
+            "seoToken": "donations",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "13228",
+        "level": 2,
+        "name": "Cleaning Goods",
+        "originalName": "Cleaning Goods",
+        "productCount": 260,
+        "seoToken": "cleaning-goods",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "12840",
+            "level": 3,
+            "name": "Bathroom Cleaners",
+            "originalName": "Bathroom Cleaners",
+            "productCount": 15,
+            "seoToken": "bathroom-cleaners",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12841",
+            "level": 3,
+            "name": "Bleach",
+            "originalName": "Bleach",
+            "productCount": 9,
+            "seoToken": "bleach",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8898616",
+            "level": 3,
+            "name": "Cleaning Accessories",
+            "originalName": "Cleaning Accessories",
+            "productCount": 9,
+            "seoToken": "cleaning-accessories",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13229",
+            "level": 3,
+            "name": "Cleaning Gloves",
+            "originalName": "Cleaning Gloves",
+            "productCount": 31,
+            "seoToken": "cleaning-gloves",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12842",
+            "level": 3,
+            "name": "Drain & Solvents",
+            "originalName": "Drain & Solvents",
+            "productCount": 9,
+            "seoToken": "drain-solvents",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12844",
+            "level": 3,
+            "name": "Fabric, Metal & Furniture",
+            "originalName": "Fabric, Metal & Furniture",
+            "productCount": 8,
+            "seoToken": "fabric-metal-furniture",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12843",
+            "level": 3,
+            "name": "Floor & Carpet Cleaners",
+            "originalName": "Floor & Carpet Cleaners",
+            "productCount": 20,
+            "seoToken": "floor-carpet-cleaners",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12845",
+            "level": 3,
+            "name": "Kitchen Cleaners",
+            "originalName": "Kitchen Cleaners",
+            "productCount": 12,
+            "seoToken": "kitchen-cleaners",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "25315",
+            "level": 3,
+            "name": "Mops, Buckets & Brooms",
+            "originalName": "Mops, Buckets & Brooms",
+            "productCount": 37,
+            "seoToken": "mops-buckets-brooms",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12847",
+            "level": 3,
+            "name": "Mould Killers & Disinfectants",
+            "originalName": "Mould Killers & Disinfectants",
+            "productCount": 16,
+            "seoToken": "mould-killers-disinfectants",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12848",
+            "level": 3,
+            "name": "Multipurpose Cleaners",
+            "originalName": "Multipurpose Cleaners",
+            "productCount": 41,
+            "seoToken": "multipurpose-cleaners",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "25613",
+            "level": 3,
+            "name": "Paper Towels, Sponges and Brushes",
+            "originalName": "Paper Towels, Sponges And Brushes",
+            "productCount": 1,
+            "seoToken": "paper-towels-sponges-and-brushes",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12849",
+            "level": 3,
+            "name": "Sponges, Cloths & Wipes",
+            "originalName": "Sponges, Cloths & Wipes",
+            "productCount": 36,
+            "seoToken": "sponges-cloths-wipes",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8898615",
+            "level": 3,
+            "name": "Toilet Cleaning",
+            "originalName": "Toilet Cleaning",
+            "productCount": 40,
+            "seoToken": "toilet-cleaning",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12850",
+            "level": 3,
+            "name": "Windows & Glass",
+            "originalName": "Windows & Glass",
+            "productCount": 7,
+            "seoToken": "windows-glass",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8888200",
+        "level": 2,
+        "name": "Clothing & Accessories",
+        "originalName": "Clothing & Accessories",
+        "productCount": 140,
+        "seoToken": "clothing-accessories",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8888202",
+            "level": 3,
+            "name": "Children's Socks",
+            "originalName": "Children's Socks",
+            "productCount": 11,
+            "seoToken": "childrens-socks",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8888205",
+            "level": 3,
+            "name": "Men's Socks",
+            "originalName": "Men's Socks",
+            "productCount": 14,
+            "seoToken": "mens-socks",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8888206",
+            "level": 3,
+            "name": "Men's Underwear",
+            "originalName": "Men's Underwear",
+            "productCount": 8,
+            "seoToken": "mens-underwear",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8888207",
+            "level": 3,
+            "name": "Seasonal Accessories",
+            "originalName": "Seasonal Accessories",
+            "productCount": 12,
+            "seoToken": "seasonal-accessories",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8888208",
+            "level": 3,
+            "name": "Shoe Care and Footwear",
+            "originalName": "Shoe Care And Footwear",
+            "productCount": 30,
+            "seoToken": "shoe-care-and-footwear",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8888204",
+            "level": 3,
+            "name": "Women's Hosiery",
+            "originalName": "Women's Hosiery",
+            "productCount": 47,
+            "seoToken": "womens-hosiery",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8888209",
+            "level": 3,
+            "name": "Women's Socks",
+            "originalName": "Women's Socks",
+            "productCount": 10,
+            "seoToken": "womens-socks",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8888210",
+            "level": 3,
+            "name": "Women's Underwear",
+            "originalName": "Women's Underwear",
+            "productCount": 8,
+            "seoToken": "womens-underwear",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8893414",
+        "level": 2,
+        "name": "Craft, Toys & Games",
+        "originalName": "Craft, Toys & Games",
+        "productCount": 8,
+        "seoToken": "craft-toys-games",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8893417",
+            "level": 3,
+            "name": "Baby Toys",
+            "originalName": "Baby Toys",
+            "productCount": 8,
+            "seoToken": "baby-toys",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8893404",
+        "level": 2,
+        "name": "DIY & Car",
+        "originalName": "DIY & Car",
+        "productCount": 32,
+        "seoToken": "diy-car",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8893408",
+            "level": 3,
+            "name": "Adhesives, Glues & Tapes",
+            "originalName": "Adhesives, Glues & Tapes",
+            "productCount": 7,
+            "seoToken": "adhesives-glues-tapes",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8893406",
+            "level": 3,
+            "name": "Car Care",
+            "originalName": "Car Care",
+            "productCount": 11,
+            "seoToken": "car-care",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8893407",
+            "level": 3,
+            "name": "Car Oil & Coolants",
+            "originalName": "Car Oil & Coolants",
+            "productCount": 1,
+            "seoToken": "car-oil-coolants",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8893410",
+            "level": 3,
+            "name": "Home Maintenance",
+            "originalName": "Home Maintenance",
+            "productCount": 4,
+            "seoToken": "home-maintenance",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8893409",
+            "level": 3,
+            "name": "Hooks & Fasteners",
+            "originalName": "Hooks & Fasteners",
+            "productCount": 7,
+            "seoToken": "hooks-fasteners",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8893411",
+            "level": 3,
+            "name": "Security",
+            "originalName": "Security",
+            "productCount": 1,
+            "seoToken": "security",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8893413",
+            "level": 3,
+            "name": "Tools & Accessories",
+            "originalName": "Tools & Accessories",
+            "productCount": 1,
+            "seoToken": "tools-accessories",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "12938",
+        "level": 2,
+        "name": "Dishwashing",
+        "originalName": "Dishwashing",
+        "productCount": 134,
+        "seoToken": "dishwashing",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "25614",
+            "level": 3,
+            "name": "All Paper Towels",
+            "originalName": "All Paper Towels",
+            "productCount": 6,
+            "seoToken": "all-paper-towels",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12939",
+            "level": 3,
+            "name": "Dishwasher Additives",
+            "originalName": "Dishwasher Additives",
+            "productCount": 12,
+            "seoToken": "dishwasher-additives",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12940",
+            "level": 3,
+            "name": "Dishwasher Tablets, Powder & Gel",
+            "originalName": "Dishwasher Tablets, Powder & Gel",
+            "productCount": 43,
+            "seoToken": "dishwasher-tablets-powder-gel",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12941",
+            "level": 3,
+            "name": "Dishwashing Liquid",
+            "originalName": "Dishwashing Liquid",
+            "productCount": 31,
+            "seoToken": "dishwashing-liquid",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8898619",
+            "level": 3,
+            "name": "Gloves",
+            "originalName": "Gloves",
+            "productCount": 28,
+            "seoToken": "gloves",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8898602",
+            "level": 3,
+            "name": "Sponges & Scourers",
+            "originalName": "Sponges & Scourers",
+            "productCount": 26,
+            "seoToken": "sponges-scourers",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "12387",
+        "level": 2,
+        "name": "Electrical",
+        "originalName": "Electrical",
+        "productCount": 151,
+        "seoToken": "electrical",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "12313",
+            "level": 3,
+            "name": "Batteries",
+            "originalName": "Batteries",
+            "productCount": 79,
+            "seoToken": "batteries",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12388",
+            "level": 3,
+            "name": "Extension Cords & Adapters",
+            "originalName": "Extension Cords & Adapters",
+            "productCount": 9,
+            "seoToken": "extension-cords-adapters",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12291",
+            "level": 3,
+            "name": "Lighting",
+            "originalName": "Lighting",
+            "productCount": 36,
+            "seoToken": "lighting",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12350",
+            "level": 3,
+            "name": "Phone Accessories & Earphones",
+            "originalName": "Phone Accessories & Earphones",
+            "productCount": 22,
+            "seoToken": "phone-accessories-earphones",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12369",
+            "level": 3,
+            "name": "Torches",
+            "originalName": "Torches",
+            "productCount": 5,
+            "seoToken": "torches",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "12255",
+        "level": 2,
+        "name": "Food Storage",
+        "originalName": "Food Storage",
+        "productCount": 31,
+        "seoToken": "food-storage",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "12203",
+            "level": 3,
+            "name": "Containers & Tubs",
+            "originalName": "Containers & Tubs",
+            "productCount": 13,
+            "seoToken": "containers-tubs",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12225",
+            "level": 3,
+            "name": "Freezer Bags & Sandwich",
+            "originalName": "Freezer Bags & Sandwich",
+            "productCount": 13,
+            "seoToken": "freezer-bags-sandwich",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12256",
+            "level": 3,
+            "name": "Plastic Wrap & Bags",
+            "originalName": "Plastic Wrap & Bags",
+            "productCount": 13,
+            "seoToken": "plastic-wrap-bags",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "13514",
+        "level": 2,
+        "name": "Garden",
+        "originalName": "Garden",
+        "productCount": 4,
+        "seoToken": "garden",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "13434",
+            "level": 3,
+            "name": "Lawncare & Plant Food",
+            "originalName": "Lawncare & Plant Food",
+            "productCount": 1,
+            "seoToken": "lawncare-plant-food",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13453",
+            "level": 3,
+            "name": "Seeds & Plants",
+            "originalName": "Seeds & Plants",
+            "productCount": 3,
+            "seoToken": "seeds-plants",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8897600",
+        "level": 2,
+        "name": "Gifting",
+        "originalName": "Gifting",
+        "productCount": 4,
+        "seoToken": "gifting",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8897601",
+            "level": 3,
+            "name": "Gifts",
+            "originalName": "Gifts",
+            "productCount": 4,
+            "seoToken": "gifts",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "12113",
+        "level": 2,
+        "name": "Homewares",
+        "originalName": "Homewares",
+        "productCount": 95,
+        "seoToken": "homewares",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "11949",
+            "level": 3,
+            "name": "Appliances",
+            "originalName": "Appliances",
+            "productCount": 7,
+            "seoToken": "appliances",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "11956",
+            "level": 3,
+            "name": "Cutlery & Servingware",
+            "originalName": "Cutlery & Servingware",
+            "productCount": 19,
+            "seoToken": "cutlery-servingware",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "11972",
+            "level": 3,
+            "name": "Glassware",
+            "originalName": "Glassware",
+            "productCount": 10,
+            "seoToken": "glassware",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12048",
+            "level": 3,
+            "name": "Home Storage",
+            "originalName": "Home Storage",
+            "productCount": 8,
+            "seoToken": "home-storage",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "11976",
+            "level": 3,
+            "name": "Mugs & Cups",
+            "originalName": "Mugs & Cups",
+            "productCount": 15,
+            "seoToken": "mugs-cups",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12004",
+            "level": 3,
+            "name": "Plates & Bowls",
+            "originalName": "Plates & Bowls",
+            "productCount": 19,
+            "seoToken": "plates-bowls",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8894607",
+            "level": 3,
+            "name": "Seasonal Decorations & Accessories",
+            "originalName": "Seasonal Decorations & Accessories",
+            "productCount": 2,
+            "seoToken": "seasonal-decorations-accessories",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12124",
+            "level": 3,
+            "name": "Sewing",
+            "originalName": "Sewing",
+            "productCount": 13,
+            "seoToken": "sewing",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12104",
+            "level": 3,
+            "name": "Tea Towels & Aprons",
+            "originalName": "Tea Towels & Aprons",
+            "productCount": 5,
+            "seoToken": "tea-towels-aprons",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "25005",
+            "level": 3,
+            "name": "Textiles & Accessories",
+            "originalName": "Textiles & Accessories",
+            "productCount": 2,
+            "seoToken": "textiles-accessories",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12011",
+            "level": 3,
+            "name": "Water Filtration",
+            "originalName": "Water Filtration",
+            "productCount": 5,
+            "seoToken": "water-filtration",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "12164",
+        "level": 2,
+        "name": "Kitchen",
+        "originalName": "Kitchen",
+        "productCount": 257,
+        "seoToken": "kitchen",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "12119",
+            "level": 3,
+            "name": "Baking Tins & Trays",
+            "originalName": "Baking Tins & Trays",
+            "productCount": 13,
+            "seoToken": "baking-tins-trays",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12165",
+            "level": 3,
+            "name": "Foil, Baking Paper & Oven Bags",
+            "originalName": "Foil, Baking Paper & Oven Bags",
+            "productCount": 21,
+            "seoToken": "foil-baking-paper-oven-bags",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8898618",
+            "level": 3,
+            "name": "Food Tubs & Containers",
+            "originalName": "Food Tubs & Containers",
+            "productCount": 95,
+            "seoToken": "food-tubs-containers",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8898600",
+            "level": 3,
+            "name": "Kitchen Tidy & Garbage Bags",
+            "originalName": "Kitchen Tidy & Garbage Bags",
+            "productCount": 28,
+            "seoToken": "kitchen-tidy-garbage-bags",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8898601",
+            "level": 3,
+            "name": "Plastic Wraps & Bags",
+            "originalName": "Plastic Wraps & Bags",
+            "productCount": 46,
+            "seoToken": "plastic-wraps-bags",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12155",
+            "level": 3,
+            "name": "Pots & Saucepans",
+            "originalName": "Pots & Saucepans",
+            "productCount": 7,
+            "seoToken": "pots-saucepans",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8898617",
+            "level": 3,
+            "name": "Sandwich & Freezer Bags",
+            "originalName": "Sandwich & Freezer Bags",
+            "productCount": 33,
+            "seoToken": "sandwich-freezer-bags",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12123",
+            "level": 3,
+            "name": "Utensils & Gadgets",
+            "originalName": "Utensils & Gadgets",
+            "productCount": 62,
+            "seoToken": "utensils-gadgets",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "13095",
+        "level": 2,
+        "name": "Laundry",
+        "originalName": "Laundry",
+        "productCount": 155,
+        "seoToken": "laundry",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "12984",
+            "level": 3,
+            "name": "Fabric Softener",
+            "originalName": "Fabric Softener",
+            "productCount": 23,
+            "seoToken": "fabric-softener",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13037",
+            "level": 3,
+            "name": "Ironing Aids",
+            "originalName": "Ironing Aids",
+            "productCount": 9,
+            "seoToken": "ironing-aids",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13296",
+            "level": 3,
+            "name": "Laundry Accessories",
+            "originalName": "Laundry Accessories",
+            "productCount": 23,
+            "seoToken": "laundry-accessories",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "12971",
+            "level": 3,
+            "name": "Laundry Liquid",
+            "originalName": "Laundry Liquid",
+            "productCount": 47,
+            "seoToken": "laundry-liquid",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13009",
+            "level": 3,
+            "name": "Laundry Powder",
+            "originalName": "Laundry Powder",
+            "productCount": 13,
+            "seoToken": "laundry-powder",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13096",
+            "level": 3,
+            "name": "Pegs, Baskets & Hangers",
+            "originalName": "Pegs, Baskets & Hangers",
+            "productCount": 5,
+            "seoToken": "pegs-baskets-hangers",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13065",
+            "level": 3,
+            "name": "Stain Removal & Pre-Wash",
+            "originalName": "Stain Removal & Pre-Wash",
+            "productCount": 73,
+            "seoToken": "stain-removal-pre-wash",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8898206",
+        "level": 2,
+        "name": "Mobile & Tech Accessories",
+        "originalName": "Mobile & Tech Accessories",
+        "productCount": 27,
+        "seoToken": "mobile-tech-accessories",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8898207",
+            "level": 3,
+            "name": "Phones",
+            "originalName": "Phones",
+            "productCount": 27,
+            "seoToken": "phones",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "13835",
+        "level": 2,
+        "name": "Outdoors",
+        "originalName": "Outdoors",
+        "productCount": 107,
+        "seoToken": "outdoors",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "12766",
+            "level": 3,
+            "name": "Automotive",
+            "originalName": "Automotive",
+            "productCount": 2,
+            "seoToken": "automotive",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13649",
+            "level": 3,
+            "name": "Bbq",
+            "originalName": "Bbq",
+            "productCount": 71,
+            "seoToken": "bbq",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13710",
+            "level": 3,
+            "name": "Camping & Fishing",
+            "originalName": "Camping & Fishing",
+            "productCount": 16,
+            "seoToken": "camping-fishing",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13836",
+            "level": 3,
+            "name": "Matches & Lighters",
+            "originalName": "Matches & Lighters",
+            "productCount": 14,
+            "seoToken": "matches-lighters",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13735",
+            "level": 3,
+            "name": "Pool",
+            "originalName": "Pool",
+            "productCount": 3,
+            "seoToken": "pool",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13829",
+            "level": 3,
+            "name": "Sports",
+            "originalName": "Sports",
+            "productCount": 11,
+            "seoToken": "sports",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "13945",
+        "level": 2,
+        "name": "Party Supplies",
+        "originalName": "Party Supplies",
+        "productCount": 158,
+        "seoToken": "party-supplies",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "13853",
+            "level": 3,
+            "name": "Candles",
+            "originalName": "Candles",
+            "productCount": 31,
+            "seoToken": "candles",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13939",
+            "level": 3,
+            "name": "Cups & Glasses",
+            "originalName": "Cups & Glasses",
+            "productCount": 4,
+            "seoToken": "cups-glasses",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13906",
+            "level": 3,
+            "name": "Decorations",
+            "originalName": "Decorations",
+            "productCount": 58,
+            "seoToken": "decorations",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13932",
+            "level": 3,
+            "name": "Disposable Plates & Bowls",
+            "originalName": "Disposable Plates & Bowls",
+            "productCount": 12,
+            "seoToken": "disposable-plates-bowls",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13869",
+            "level": 3,
+            "name": "Gift Wrap & Bags",
+            "originalName": "Gift Wrap & Bags",
+            "productCount": 19,
+            "seoToken": "gift-wrap-bags",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13925",
+            "level": 3,
+            "name": "Paper & Plastic Cutlery",
+            "originalName": "Paper & Plastic Cutlery",
+            "productCount": 29,
+            "seoToken": "paper-plastic-cutlery",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13946",
+            "level": 3,
+            "name": "Serviettes & Tablecloths",
+            "originalName": "Serviettes & Tablecloths",
+            "productCount": 8,
+            "seoToken": "serviettes-tablecloths",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "13970",
+        "level": 2,
+        "name": "Pest Control",
+        "originalName": "Pest Control",
+        "productCount": 63,
+        "seoToken": "pest-control",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "13971",
+            "level": 3,
+            "name": "Crawling Insects",
+            "originalName": "Crawling Insects",
+            "productCount": 20,
+            "seoToken": "crawling-insects",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13972",
+            "level": 3,
+            "name": "Flying Insects",
+            "originalName": "Flying Insects",
+            "productCount": 27,
+            "seoToken": "flying-insects",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13974",
+            "level": 3,
+            "name": "Garden Pests",
+            "originalName": "Garden Pests",
+            "productCount": 8,
+            "seoToken": "garden-pests",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13973",
+            "level": 3,
+            "name": "Mosquitos",
+            "originalName": "Mosquitos",
+            "productCount": 4,
+            "seoToken": "mosquitos",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "13975",
+            "level": 3,
+            "name": "Rodents",
+            "originalName": "Rodents",
+            "productCount": 5,
+            "seoToken": "rodents",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8910800",
+        "level": 2,
+        "name": "Reusable Shopping Bags",
+        "originalName": "Reusable Shopping Bags",
+        "productCount": 14,
+        "seoToken": "reusable-shopping-bags",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8910801",
+            "level": 3,
+            "name": "Chiller Bags & Bags",
+            "originalName": "Chiller Bags & Bags",
+            "productCount": 14,
+            "seoToken": "chiller-bags-bags",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8887600",
+        "level": 2,
+        "name": "Stationery & Media",
+        "originalName": "Stationery & Media",
+        "productCount": 172,
+        "seoToken": "stationery-media",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8887602",
+            "level": 3,
+            "name": "Magazines",
+            "originalName": "Magazines",
+            "productCount": 32,
+            "seoToken": "magazines",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8887603",
+            "level": 3,
+            "name": "Media",
+            "originalName": "Media",
+            "productCount": 31,
+            "seoToken": "media",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8887604",
+            "level": 3,
+            "name": "Stationery",
+            "originalName": "Stationery",
+            "productCount": 101,
+            "seoToken": "stationery",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8887605",
+            "level": 3,
+            "name": "Toys & Game",
+            "originalName": "Toys & Game",
+            "productCount": 8,
+            "seoToken": "toys-game",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8891801",
+        "level": 2,
+        "name": "Toilet Paper, Tissues & Paper Towels",
+        "originalName": "Toilet Paper, Tissues & Paper Towels",
+        "productCount": 55,
+        "seoToken": "toilet-paper-tissues-paper-towels",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8891805",
+            "level": 3,
+            "name": "Facial Tissues",
+            "originalName": "Facial Tissues",
+            "productCount": 21,
+            "seoToken": "facial-tissues",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "620264051",
+            "level": 3,
+            "name": "Flushable Wipes",
+            "originalName": "Flushable Wipes",
+            "productCount": 2,
+            "seoToken": "flushable-wipes",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8898614",
+            "level": 3,
+            "name": "Paper Towel",
+            "originalName": "Paper Towel",
+            "productCount": 15,
+            "seoToken": "paper-towel",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8891810",
+            "level": 3,
+            "name": "Toilet Tissues",
+            "originalName": "Toilet Tissues",
+            "productCount": 19,
+            "seoToken": "toilet-tissues",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      }
+    ],
+    "image": "https://www.coles.com.au/content/dam/coles/shop-categories/household.png"
+  }
+}

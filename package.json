@@ -1,21 +1,55 @@
 {
+  "name": "retail-data-pipeline",
+  "version": "1.0.0",
+  "description": "“Browser Retail Scraper” data pipeline",
+  "type": "module",
+  "scripts": {
+    "start": "npm run all",
+    "ingest": "bash 08_scripts/run_ingest.sh",
+    "stage": "bash 08_scripts/run_staging.sh",
+    "refine": "bash 08_scripts/run_refined.sh",
+    "all": "npm run ingest && npm run stage && npm run refine",
+    "get:buildid": "node 01_ingestion/engines/coles/fetch_build_id.js",
+    "get:coles-tree": "node 01_ingestion/engines/coles/fetch_all_tree.js",
+    "get:wools-tree": "node 01_ingestion/engines/wools/fetch_all_tree.js",
+    "get:tree-nsw": "node 01_ingestion/engines/coles/fetch_tree_nsw.js",
+    "get:tree-7oc": "node 01_ingestion/engines/coles/fetch_tree_7oc.js",
+    "get:cookies": "node 08_scripts/coles/get_cookies.js",
+    "test": "pytest 09_tests/pytest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilsdp/project_burn.git"
+  },
+  "keywords": [
+    "data-pipeline",
+    "scraper",
+    "coles",
+    "woolworths"
+  ],
+  "author": "wls.c",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilsdp/project_burn/issues"
+  },
+  "homepage": "https://github.com/wilsdp/project_burn#readme",
   "dependencies": {
-    "axios": "^1.8.3",
+    "axios": "^1.9.0",
     "axios-retry": "^4.5.0",
-    "chalk": "^5.4.1",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0",
     "csv-writer": "^1.6.0",
-    "dotenv": "^16.4.7",
-    "express": "^4.21.2",
+    "dayjs": "^1.11.13",
+    "dotenv": "^16.5.0",
     "fast-fuzzy": "^1.12.0",
-    "fs": "^0.0.1-security",
-    "http": "^0.0.1-security",
-    "https": "^1.0.0",
-    "mongoose": "^8.13.1",
-    "net": "^1.0.2",
-    "puppeteer": "^24.10.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.14.2",
+    "puppeteer": "^24.8.2",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
-    "scandir": "^0.1.2",
-    "xlsx": "^0.18.5"
+    "scandir": "^0.1.2"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3"
   }
 }

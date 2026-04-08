@@ -1,0 +1,254 @@
+{
+  "id": "8916201",
+  "level": 1,
+  "originalName": "Chips, Chocolates & Snacks",
+  "seoToken": "chips-chocolates-snacks",
+  "subType": "CORE",
+  "catalogGroupView": [
+    {
+      "id": "657638318",
+      "level": 2,
+      "originalName": "Biscuits & Cookies",
+      "seoToken": "biscuits-cookies",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "657638597",
+          "level": 3,
+          "originalName": "Chocolate Biscuits",
+          "seoToken": "chocolate-biscuits",
+          "subType": "CORE"
+        },
+        {
+          "id": "657639557",
+          "level": 3,
+          "originalName": "Cream & Plain Biscuits",
+          "seoToken": "cream-plain-biscuits",
+          "subType": "CORE"
+        },
+        {
+          "id": "657639941",
+          "level": 3,
+          "originalName": "Multipack Biscuits",
+          "seoToken": "multipack-biscuits",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8916207",
+      "level": 2,
+      "originalName": "Chips",
+      "seoToken": "chips",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "657634750",
+          "level": 3,
+          "originalName": "Chips Multi Pack",
+          "seoToken": "chips-multi-pack",
+          "subType": "CORE"
+        },
+        {
+          "id": "657634677",
+          "level": 3,
+          "originalName": "Chips Sharing",
+          "seoToken": "chips-sharing",
+          "subType": "CORE"
+        },
+        {
+          "id": "657634683",
+          "level": 3,
+          "originalName": "Chips Single Pack",
+          "seoToken": "chips-single-pack",
+          "subType": "CORE"
+        },
+        {
+          "id": "8916214",
+          "level": 3,
+          "originalName": "Corn Chips & Salsa",
+          "seoToken": "corn-chips-salsa",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "657635263",
+      "level": 2,
+      "originalName": "Chocolates",
+      "seoToken": "chocolates",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "657635266",
+          "level": 3,
+          "originalName": "Boxed Chocolate & gifts",
+          "seoToken": "boxed-chocolate-gifts",
+          "subType": "CORE"
+        },
+        {
+          "id": "657636243",
+          "level": 3,
+          "originalName": "Chocolate Bars",
+          "seoToken": "chocolate-bars",
+          "subType": "CORE"
+        },
+        {
+          "id": "657635878",
+          "level": 3,
+          "originalName": "Chocolate Bites",
+          "seoToken": "chocolate-bites",
+          "subType": "CORE"
+        },
+        {
+          "id": "657635638",
+          "level": 3,
+          "originalName": "Chocolate Blocks",
+          "seoToken": "chocolate-blocks",
+          "subType": "CORE"
+        },
+        {
+          "id": "657636626",
+          "level": 3,
+          "originalName": "Chocolate Multipacks",
+          "seoToken": "chocolate-multipacks",
+          "subType": "CORE"
+        },
+        {
+          "id": "658193432",
+          "level": 3,
+          "originalName": "Seasonal Chocolates",
+          "seoToken": "seasonal-chocolates",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "657640625",
+      "level": 2,
+      "originalName": "Crackers & Rice Cakes",
+      "seoToken": "crackers-rice-cakes",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "657641318",
+          "level": 3,
+          "originalName": "Crackers & Crispbreads",
+          "seoToken": "crackers-crispbreads",
+          "subType": "CORE"
+        },
+        {
+          "id": "657641776",
+          "level": 3,
+          "originalName": "Flavoured Snacks",
+          "seoToken": "flavoured-snacks",
+          "subType": "CORE"
+        },
+        {
+          "id": "657642016",
+          "level": 3,
+          "originalName": "Multipack Crackers",
+          "seoToken": "multipack-crackers",
+          "subType": "CORE"
+        },
+        {
+          "id": "657641039",
+          "level": 3,
+          "originalName": "Rice & Corn Snacks",
+          "seoToken": "rice-corn-snacks",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8916203",
+      "level": 2,
+      "originalName": "Gum, Mints & Lozenges",
+      "seoToken": "gum-mints-lozenges",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8916221",
+          "level": 3,
+          "originalName": "Gum",
+          "seoToken": "gum",
+          "subType": "CORE"
+        },
+        {
+          "id": "8916224",
+          "level": 3,
+          "originalName": "Medicated Lozenges",
+          "seoToken": "medicated-lozenges",
+          "subType": "CORE"
+        },
+        {
+          "id": "8916222",
+          "level": 3,
+          "originalName": "Mints",
+          "seoToken": "mints",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "657637130",
+      "level": 2,
+      "originalName": "Lollies & Licorice",
+      "seoToken": "lollies-licorice",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "657637845",
+          "level": 3,
+          "originalName": "Licorice",
+          "seoToken": "licorice",
+          "subType": "CORE"
+        },
+        {
+          "id": "657637611",
+          "level": 3,
+          "originalName": "Lollies",
+          "seoToken": "lollies",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8916204",
+      "level": 2,
+      "originalName": "Snacks",
+      "seoToken": "snacks",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8916227",
+          "level": 3,
+          "originalName": "Muesli Bars & Fruit Snacks",
+          "seoToken": "muesli-bars-fruit-snacks",
+          "subType": "CORE"
+        },
+        {
+          "id": "8916226",
+          "level": 3,
+          "originalName": "Nuts & Trail Mix",
+          "seoToken": "nuts-trail-mix",
+          "subType": "CORE"
+        },
+        {
+          "id": "8916225",
+          "level": 3,
+          "originalName": "Popcorn",
+          "seoToken": "popcorn",
+          "subType": "CORE"
+        },
+        {
+          "id": "8916223",
+          "level": 3,
+          "originalName": "Pretzels & Other Snacks",
+          "seoToken": "pretzels-other-snacks",
+          "subType": "CORE"
+        }
+      ]
+    }
+  ]
+}

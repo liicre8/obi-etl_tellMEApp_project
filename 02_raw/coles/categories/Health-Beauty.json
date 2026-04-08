@@ -1,0 +1,905 @@
+{
+  "id": "15083",
+  "level": 1,
+  "originalName": "Health & Beauty",
+  "seoToken": "health-beauty",
+  "subType": "CORE",
+  "catalogGroupView": [
+    {
+      "id": "8907425",
+      "level": 2,
+      "originalName": "Vitamins & Supplements",
+      "seoToken": "vitamins-supplements",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "835060756",
+          "level": 3,
+          "originalName": "Tablets & Capsules",
+          "seoToken": "tablets-capsules",
+          "subType": "CORE"
+        },
+        {
+          "id": "835060758",
+          "level": 3,
+          "originalName": "Gummies",
+          "seoToken": "gummies",
+          "subType": "CORE"
+        },
+        {
+          "id": "835060837",
+          "level": 3,
+          "originalName": "Chewables",
+          "seoToken": "chewables",
+          "subType": "CORE"
+        },
+        {
+          "id": "835060838",
+          "level": 3,
+          "originalName": "Effervescents",
+          "seoToken": "effervescents",
+          "subType": "CORE"
+        },
+        {
+          "id": "835060845",
+          "level": 3,
+          "originalName": "Powders",
+          "seoToken": "powders",
+          "subType": "CORE"
+        },
+        {
+          "id": "835060957",
+          "level": 3,
+          "originalName": "Liquids",
+          "seoToken": "liquids",
+          "subType": "CORE"
+        },
+        {
+          "id": "835061361",
+          "level": 3,
+          "originalName": "Multivitamins",
+          "seoToken": "multivitamins",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907435",
+          "level": 3,
+          "originalName": "Fish & Omega",
+          "seoToken": "fish-omega",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907437",
+          "level": 3,
+          "originalName": "Immunity",
+          "seoToken": "immunity",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907428",
+          "level": 3,
+          "originalName": "Bone And Joint Health",
+          "seoToken": "bone-and-joint-health",
+          "subType": "CORE"
+        },
+        {
+          "id": "835061367",
+          "level": 3,
+          "originalName": "Muscle Support",
+          "seoToken": "muscle-support",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907438",
+          "level": 3,
+          "originalName": "Kid's Health",
+          "seoToken": "kids-health",
+          "subType": "CORE"
+        },
+        {
+          "id": "835061595",
+          "level": 3,
+          "originalName": "Womens Health",
+          "seoToken": "womens-health",
+          "subType": "CORE"
+        },
+        {
+          "id": "835061702",
+          "level": 3,
+          "originalName": "Mens Health",
+          "seoToken": "mens-health",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907434",
+          "level": 3,
+          "originalName": "Pregnancy & Family Planning ",
+          "seoToken": "pregnancy-family-planning",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907432",
+          "level": 3,
+          "originalName": "Energy Support",
+          "seoToken": "energy-support",
+          "subType": "CORE"
+        },
+        {
+          "id": "835061824",
+          "level": 3,
+          "originalName": "Superfoods",
+          "seoToken": "superfoods",
+          "subType": "CORE"
+        },
+        {
+          "id": "835062643",
+          "level": 3,
+          "originalName": "Digestive",
+          "seoToken": "digestive",
+          "subType": "CORE"
+        },
+        {
+          "id": "835066284",
+          "level": 3,
+          "originalName": "Diet",
+          "seoToken": "diet",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907431",
+          "level": 3,
+          "originalName": "Detox",
+          "seoToken": "detox",
+          "subType": "CORE"
+        },
+        {
+          "id": "835066699",
+          "level": 3,
+          "originalName": "Beauty",
+          "seoToken": "beauty",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907444",
+          "level": 3,
+          "originalName": "Sleep Support",
+          "seoToken": "sleep-support",
+          "subType": "CORE"
+        },
+        {
+          "id": "835067019",
+          "level": 3,
+          "originalName": "Stress & Anxiety",
+          "seoToken": "stress-anxiety",
+          "subType": "CORE"
+        },
+        {
+          "id": "835068750",
+          "level": 3,
+          "originalName": "Heart & Blood",
+          "seoToken": "heart-blood",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907429",
+          "level": 3,
+          "originalName": "Brain Health",
+          "seoToken": "brain-health",
+          "subType": "CORE"
+        },
+        {
+          "id": "835068835",
+          "level": 3,
+          "originalName": "Eye & Lung Support",
+          "seoToken": "eye-lung-support",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8907419",
+      "level": 2,
+      "originalName": "Continence Care",
+      "seoToken": "continence-care",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8907806",
+          "level": 3,
+          "originalName": "Continence Pads",
+          "seoToken": "continence-pads",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907800",
+          "level": 3,
+          "originalName": "Female Washable Underwear",
+          "seoToken": "female-washable-underwear",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907801",
+          "level": 3,
+          "originalName": "Liners",
+          "seoToken": "liners",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907802",
+          "level": 3,
+          "originalName": "Male Pads",
+          "seoToken": "male-pads",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907803",
+          "level": 3,
+          "originalName": "Male Pants",
+          "seoToken": "male-pants",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907804",
+          "level": 3,
+          "originalName": "Male Washable Underwear",
+          "seoToken": "male-washable-underwear",
+          "subType": "CORE"
+        },
+        {
+          "id": "8908000",
+          "level": 3,
+          "originalName": "Mens Pouches & Shields",
+          "seoToken": "mens-pouches-shields",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907807",
+          "level": 3,
+          "originalName": "Pants",
+          "seoToken": "pants",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "14267",
+      "level": 2,
+      "originalName": "Cosmetics",
+      "seoToken": "cosmetics",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "14220",
+          "level": 3,
+          "originalName": "Blush",
+          "seoToken": "blush",
+          "subType": "CORE"
+        },
+        {
+          "id": "600141953",
+          "level": 3,
+          "originalName": "Brows",
+          "seoToken": "brows",
+          "subType": "CORE"
+        },
+        {
+          "id": "95867",
+          "level": 3,
+          "originalName": "Brushes and Tools",
+          "seoToken": "brushes-and-tools",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907400",
+          "level": 3,
+          "originalName": "Concealer & Foundation",
+          "seoToken": "concealer-foundation",
+          "subType": "CORE"
+        },
+        {
+          "id": "14231",
+          "level": 3,
+          "originalName": "Eye Liner, Eye Shadow & Mascara",
+          "seoToken": "eye-liner-eye-shadow-mascara",
+          "subType": "CORE"
+        },
+        {
+          "id": "600142161",
+          "level": 3,
+          "originalName": "Lashes",
+          "seoToken": "lashes",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907401",
+          "level": 3,
+          "originalName": "Lips",
+          "seoToken": "lips",
+          "subType": "CORE"
+        },
+        {
+          "id": "14268",
+          "level": 3,
+          "originalName": "Nails",
+          "seoToken": "nails",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "14345",
+      "level": 2,
+      "originalName": "Dental Care",
+      "seoToken": "dental-care",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "14292",
+          "level": 3,
+          "originalName": "Dental Floss & Tape",
+          "seoToken": "dental-floss-tape",
+          "subType": "CORE"
+        },
+        {
+          "id": "601089270",
+          "level": 3,
+          "originalName": "Dental Whitening",
+          "seoToken": "dental-whitening",
+          "subType": "CORE"
+        },
+        {
+          "id": "14346",
+          "level": 3,
+          "originalName": "Denture Care",
+          "seoToken": "denture-care",
+          "subType": "CORE"
+        },
+        {
+          "id": "601089186",
+          "level": 3,
+          "originalName": "Electric Toothbushes and Refills",
+          "seoToken": "electric-toothbushes-and-refills",
+          "subType": "CORE"
+        },
+        {
+          "id": "601089040",
+          "level": 3,
+          "originalName": "Kids Dental",
+          "seoToken": "kids-dental",
+          "subType": "CORE"
+        },
+        {
+          "id": "14333",
+          "level": 3,
+          "originalName": "Mouthwash",
+          "seoToken": "mouthwash",
+          "subType": "CORE"
+        },
+        {
+          "id": "601089297",
+          "level": 3,
+          "originalName": "Sensitive Toothpaste",
+          "seoToken": "sensitive-toothpaste",
+          "subType": "CORE"
+        },
+        {
+          "id": "14320",
+          "level": 3,
+          "originalName": "Toothbrushes",
+          "seoToken": "toothbrushes",
+          "subType": "CORE"
+        },
+        {
+          "id": "14279",
+          "level": 3,
+          "originalName": "Toothpaste",
+          "seoToken": "toothpaste",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "857158261",
+      "level": 2,
+      "originalName": "Deodorants",
+      "seoToken": "deodorants",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "857159134",
+          "level": 3,
+          "originalName": "Body Mist and Spray",
+          "seoToken": "body-mist-and-spray",
+          "subType": "CORE"
+        },
+        {
+          "id": "857159603",
+          "level": 3,
+          "originalName": "Mens Deodorant",
+          "seoToken": "mens-deodorant",
+          "subType": "CORE"
+        },
+        {
+          "id": "857159873",
+          "level": 3,
+          "originalName": "Roll On Deodorant",
+          "seoToken": "roll-on-deodorant",
+          "subType": "CORE"
+        },
+        {
+          "id": "857160098",
+          "level": 3,
+          "originalName": "Unisex Deodorant",
+          "seoToken": "unisex-deodorant",
+          "subType": "CORE"
+        },
+        {
+          "id": "857160240",
+          "level": 3,
+          "originalName": "Whole Body Deodorant",
+          "seoToken": "whole-body-deodorant",
+          "subType": "CORE"
+        },
+        {
+          "id": "857160329",
+          "level": 3,
+          "originalName": "Womens Deodorant",
+          "seoToken": "womens-deodorant",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8907402",
+      "level": 2,
+      "originalName": "First Aid & Medicinal",
+      "seoToken": "first-aid-medicinal",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8907403",
+          "level": 3,
+          "originalName": "Antacid & Indigestion",
+          "seoToken": "antacid-indigestion",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907404",
+          "level": 3,
+          "originalName": "Antiseptic",
+          "seoToken": "antiseptic",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907405",
+          "level": 3,
+          "originalName": "Bandages & Strapping",
+          "seoToken": "bandages-strapping",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907406",
+          "level": 3,
+          "originalName": "Bandaids",
+          "seoToken": "bandaids",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907407",
+          "level": 3,
+          "originalName": "Cold, Flu And Allergy",
+          "seoToken": "cold-flu-and-allergy",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907410",
+          "level": 3,
+          "originalName": "Cotton Wool & Cotton Buds",
+          "seoToken": "cotton-wool-cotton-buds",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907409",
+          "level": 3,
+          "originalName": "Eye & Ear Care",
+          "seoToken": "eye-ear-care",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907413",
+          "level": 3,
+          "originalName": "Masks & Tests",
+          "seoToken": "masks-tests",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907411",
+          "level": 3,
+          "originalName": "Medicinal Oils & Ointments",
+          "seoToken": "medicinal-oils-ointments",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907601",
+          "level": 3,
+          "originalName": "Other First Aid & Medicinal",
+          "seoToken": "other-first-aid-medicinal",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907414",
+          "level": 3,
+          "originalName": "Pain Relief",
+          "seoToken": "pain-relief",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907415",
+          "level": 3,
+          "originalName": "Quit Smoking",
+          "seoToken": "quit-smoking",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "14459",
+      "level": 2,
+      "originalName": "Hair Care",
+      "seoToken": "hair-care",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "14447",
+          "level": 3,
+          "originalName": "Colouring",
+          "seoToken": "colouring",
+          "subType": "CORE"
+        },
+        {
+          "id": "620287513",
+          "level": 3,
+          "originalName": "Dandruff",
+          "seoToken": "dandruff",
+          "subType": "CORE"
+        },
+        {
+          "id": "620287260",
+          "level": 3,
+          "originalName": "Dry Shampoo",
+          "seoToken": "dry-shampoo",
+          "subType": "CORE"
+        },
+        {
+          "id": "14413",
+          "level": 3,
+          "originalName": "Gel, Mousse & Styling",
+          "seoToken": "gel-mousse-styling",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907416",
+          "level": 3,
+          "originalName": "Hair Brushes, Combs & Accessories",
+          "seoToken": "hair-brushes-combs-accessories",
+          "subType": "CORE"
+        },
+        {
+          "id": "620287739",
+          "level": 3,
+          "originalName": "Kids Hair Care",
+          "seoToken": "kids-hair-care",
+          "subType": "CORE"
+        },
+        {
+          "id": "620288014",
+          "level": 3,
+          "originalName": "Lice Treatment",
+          "seoToken": "lice-treatment",
+          "subType": "CORE"
+        },
+        {
+          "id": "620288353",
+          "level": 3,
+          "originalName": "Mens Hair Care",
+          "seoToken": "mens-hair-care",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907417",
+          "level": 3,
+          "originalName": "Shampoo & Conditioner",
+          "seoToken": "shampoo-conditioner",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907418",
+          "level": 3,
+          "originalName": "Treatments",
+          "seoToken": "treatments",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892806",
+      "level": 2,
+      "originalName": "Period Care",
+      "seoToken": "period-care",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892812",
+          "level": 3,
+          "originalName": "Accessories",
+          "seoToken": "accessories",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892808",
+          "level": 3,
+          "originalName": "Liners",
+          "seoToken": "liners",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892809",
+          "level": 3,
+          "originalName": "Pads",
+          "seoToken": "pads",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892807",
+          "level": 3,
+          "originalName": "Reusables",
+          "seoToken": "reusables",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892810",
+          "level": 3,
+          "originalName": "Tampons",
+          "seoToken": "tampons",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "14214",
+      "level": 2,
+      "originalName": "Personal Care",
+      "seoToken": "personal-care",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "14150",
+          "level": 3,
+          "originalName": "Footcare",
+          "seoToken": "footcare",
+          "subType": "CORE"
+        },
+        {
+          "id": "14196",
+          "level": 3,
+          "originalName": "Pregnancy Tests",
+          "seoToken": "pregnancy-tests",
+          "subType": "CORE"
+        },
+        {
+          "id": "14192",
+          "level": 3,
+          "originalName": "Sexual Health",
+          "seoToken": "sexual-health",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "15084",
+      "level": 2,
+      "originalName": "Shaving & Hair Removal",
+      "seoToken": "shaving-hair-removal",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "15086",
+          "level": 3,
+          "originalName": "After Shave Care",
+          "seoToken": "after-shave-care",
+          "subType": "CORE"
+        },
+        {
+          "id": "15068",
+          "level": 3,
+          "originalName": "Razors & Blades",
+          "seoToken": "razors-blades",
+          "subType": "CORE"
+        },
+        {
+          "id": "15075",
+          "level": 3,
+          "originalName": "Shave Gel & Foam",
+          "seoToken": "shave-gel-foam",
+          "subType": "CORE"
+        },
+        {
+          "id": "15082",
+          "level": 3,
+          "originalName": "Wax, Cream & Bleach",
+          "seoToken": "wax-cream-bleach",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "14598",
+      "level": 2,
+      "originalName": "Shower & Bath Care",
+      "seoToken": "shower-bath-care",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "14600",
+          "level": 3,
+          "originalName": "Bath Accessories",
+          "seoToken": "bath-accessories",
+          "subType": "CORE"
+        },
+        {
+          "id": "51248",
+          "level": 3,
+          "originalName": "Body Lotion",
+          "seoToken": "body-lotion",
+          "subType": "CORE"
+        },
+        {
+          "id": "14596",
+          "level": 3,
+          "originalName": "Body Wash",
+          "seoToken": "body-wash",
+          "subType": "CORE"
+        },
+        {
+          "id": "14546",
+          "level": 3,
+          "originalName": "Bubble Bath & Salts",
+          "seoToken": "bubble-bath-salts",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907423",
+          "level": 3,
+          "originalName": "Hand Santiser",
+          "seoToken": "hand-santiser",
+          "subType": "CORE"
+        },
+        {
+          "id": "620291502",
+          "level": 3,
+          "originalName": "Mens Body Wash",
+          "seoToken": "mens-body-wash",
+          "subType": "CORE"
+        },
+        {
+          "id": "14568",
+          "level": 3,
+          "originalName": "Soap & Hand Wash",
+          "seoToken": "soap-hand-wash",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "14533",
+      "level": 2,
+      "originalName": "Skin Care",
+      "seoToken": "skin-care",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "14501",
+          "level": 3,
+          "originalName": "Body Moisturiser",
+          "seoToken": "body-moisturiser",
+          "subType": "CORE"
+        },
+        {
+          "id": "14527",
+          "level": 3,
+          "originalName": "Cleansers & Skincare Wipes",
+          "seoToken": "cleansers-skincare-wipes",
+          "subType": "CORE"
+        },
+        {
+          "id": "826420899",
+          "level": 3,
+          "originalName": "Face Masks & Patches",
+          "seoToken": "face-masks-patches",
+          "subType": "CORE"
+        },
+        {
+          "id": "14494",
+          "level": 3,
+          "originalName": "Face Moisturiser",
+          "seoToken": "face-moisturiser",
+          "subType": "CORE"
+        },
+        {
+          "id": "14505",
+          "level": 3,
+          "originalName": "Hand Moisturiser",
+          "seoToken": "hand-moisturiser",
+          "subType": "CORE"
+        },
+        {
+          "id": "14531",
+          "level": 3,
+          "originalName": "Lip Care",
+          "seoToken": "lip-care",
+          "subType": "CORE"
+        },
+        {
+          "id": "620289585",
+          "level": 3,
+          "originalName": "Mens Skin",
+          "seoToken": "mens-skin",
+          "subType": "CORE"
+        },
+        {
+          "id": "14487",
+          "level": 3,
+          "originalName": "Self-Tanning",
+          "seoToken": "self-tanning",
+          "subType": "CORE"
+        },
+        {
+          "id": "826420892",
+          "level": 3,
+          "originalName": "Serums",
+          "seoToken": "serums",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8907420",
+      "level": 2,
+      "originalName": "Sun Protection",
+      "seoToken": "sun-protection",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8907422",
+          "level": 3,
+          "originalName": "After Sun",
+          "seoToken": "after-sun",
+          "subType": "CORE"
+        },
+        {
+          "id": "8907421",
+          "level": 3,
+          "originalName": "Sun Care",
+          "seoToken": "sun-care",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8907426",
+      "level": 2,
+      "originalName": "Travel Packs And Minis",
+      "seoToken": "travel-packs-and-minis",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8907427",
+          "level": 3,
+          "originalName": "Travel Packs And Accessories",
+          "seoToken": "travel-packs-and-accessories",
+          "subType": "CORE"
+        }
+      ]
+    }
+  ]
+}

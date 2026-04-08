@@ -1,0 +1,57 @@
+{
+  "new_level_1": [],
+  "new_level_2": {
+    "Cleaning & Maintenance": [
+      {
+        "name": "Spring Gardening - while stocks last",
+        "aisles": [
+          {
+            "NodeIdLevel1": "1_2432B58",
+            "ParentNode": "Spring Gardening - while stocks last",
+            "aisleId": "1_50AA74C",
+            "aisle": "Spring Gardening - while stocks last",
+            "url": "https://www.woolworths.com.au/shop/browse/cleaning-maintenance/spring-gardening-while-stocks-last/spring-gardening-while-stocks-last"
+          }
+        ]
+      }
+    ]
+  },
+  "new_level_3": {
+    "Baby": {
+      "Nappies": [
+        {
+          "NodeIdLevel1": "1_717A94B",
+          "ParentNode": "Nappies",
+          "aisleId": "1_1F746C9",
+          "aisle": "Nappy Pants",
+          "url": "https://www.woolworths.com.au/shop/browse/baby/nappies/nappy-pants"
+        },
+        {
+          "NodeIdLevel1": "1_717A94B",
+          "ParentNode": "Nappies",
+          "aisleId": "1_F9EAD17",
+          "aisle": "Newborn Nappies (3-5kg)",
+          "url": "https://www.woolworths.com.au/shop/browse/baby/nappies/newborn-nappies-3-5kg-"
+        },
+        {
+          "NodeIdLevel1": "1_717A94B",
+          "ParentNode": "Nappies",
+          "aisleId": "1_A2145BC",
+          "aisle": "Nappies 3-6 Months (5-7kg)",
+          "url": "https://www.woolworths.com.au/shop/browse/baby/nappies/nappies-3-6-months-5-7kg-"
+        }
+      ]
+    },
+    "Pantry": {
+      "International Foods": [
+        {
+          "NodeIdLevel1": "1_39FD49C",
+          "ParentNode": "International Foods",
+          "aisleId": "1_12DF54B",
+          "aisle": "Greek",
+          "url": "https://www.woolworths.com.au/shop/browse/pantry/international-foods/greek"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,868 @@
+[
+  { "tmId": "22394", 
+    "level": 1,
+    "name": "Health & Beauty", 
+    "children": [
+      { "tmId": "22400", "level": 2, "name": "Cosmetics", 
+        "children": [
+          { "tmId": "23853", "level": 3, "name": "Cosmetics Other", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_8D61DD6",
+                "ParentNode": "Beauty Tools & Nails",
+                "aisleId": "1_7B45984",
+                "aisle": "Cosmetic Tools & Accessories",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/beauty-tools-nails/cosmetic-tools-accessories"
+              }
+            ] 
+          },
+          { "tmId": "23851", "level": 3, "name": "Eyes", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_8D61DD6",
+                "ParentNode": "Cosmetics",
+                "aisleId": "1_BA73588",
+                "aisle": "Complexion",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/cosmetics/complexion"
+              }
+            ] 
+          },
+          { "tmId": "23852", "level": 3, "name": "Face", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_8D61DD6",
+                "ParentNode": "Cosmetics",
+                "aisleId": "1_8EFE4AF",
+                "aisle": "Cheeks",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/cosmetics/cheeks"
+              }
+            ] 
+          },
+          { "tmId": "22402", "level": 3, "name": "Lips", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_8D61DD6",
+                "ParentNode": "Cosmetics",
+                "aisleId": "1_F34CF8B",
+                "aisle": "Lip",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/cosmetics/lip"
+              },
+              {
+                "NodeIdLevel1": "1_8D61DD6",
+                "ParentNode": "Cosmetics",
+                "aisleId": "1_F34CF8B",
+                "aisle": "Lips",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/cosmetics/lips"
+              }
+            ] 
+          },
+          { "tmId": "22403", "level": 3, "name": "Nails",  
+            "children": [
+              {
+                "NodeIdLevel1": "1_8D61DD6",
+                "ParentNode": "Beauty Tools & Nails",
+                "aisleId": "1_F39D173",
+                "aisle": "Nails",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/beauty-tools-nails/nails"
+              }
+            ] 
+          } 
+        ]
+      },
+      { "tmId": "22404", "level": 2, "name": "Dental Care", 
+        "children": [
+          { "tmId": "22406", "level": 3, "name": "Denture Care",  
+            "children": [
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Oral Care",
+                "aisleId": "1_9086150",
+                "aisle": "Denture Care",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/oral-care/denture-care"
+              }
+            ] 
+          },
+          { "tmId": "23817", "level": 3, "name": "Floss & Mouthwash", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Oral Care",
+                "aisleId": "1_3022EED",
+                "aisle": "Floss & Mouthwash",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/oral-care/floss-mouthwash"
+              }
+            ]
+          },
+          { "tmId": "23854", "level": 3, "name": "Teeth Whitening",  
+            "children": [
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Oral Care",
+                "aisleId": "1_07269D8",
+                "aisle": "Teeth Whitening",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/oral-care/teeth-whitening"
+              }
+            ] 
+          },
+          { "tmId": "23818", "level": 3, "name": "Toothbrushes", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Oral Care",
+                "aisleId": "1_F1ECC3C",
+                "aisle": "Toothbrushes",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/oral-care/toothbrushes"
+              }
+            ] 
+          },
+          { "tmId": "23855", "level": 3, "name": "Toothpaste", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Oral Care",
+                "aisleId": "1_BF70D80",
+                "aisle": "Toothpaste",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/oral-care/toothpaste"
+              }
+            ] 
+          }
+        ]
+      },
+      { "tmId": "22414", "level": 2, "name": "First Aid & Medicinal",
+        "children": [
+          { "tmId": "22415", "level": 3, "name": "Antiseptic", 
+            "children": [
+              
+            ] 
+          },
+          { "tmId": "22416", "level": 3, "name": "Bandaids & Bandages", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_9851658",
+                "ParentNode": "First Aid & Medicinal",
+                "aisleId": "1_8316A31",
+                "aisle": "First Aid & Bandages",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/first-aid-medicinal/first-aid-bandages"
+              }
+            ] 
+          },
+          { "tmId": "22417", "level": 3, "name": "Cold, Flu & Allergies",
+            "children": [
+              {
+                "NodeIdLevel1": "1_9851658",
+                "ParentNode": "First Aid & Medicinal",
+                "aisleId": "1_ECF9E04",
+                "aisle": "Cold, Flu & Allergies",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/first-aid-medicinal/cold-flu-allergies"
+              },
+              {
+                "NodeIdLevel1": "1_9851658",
+                "ParentNode": "Vitamins",
+                "aisleId": "1_4FB2C36",
+                "aisle": "Cold, Flu & Allergies",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/vitamins/cold-flu-allergies"
+              },
+              {
+                "NodeIdLevel1": "1_9851658",
+                "ParentNode": "First Aid & Medicinal",
+                "aisleId": "1_35BD313",
+                "aisle": "Test Kits & Face Masks",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/first-aid-medicinal/test-kits-face-masks"
+              }
+            ] 
+          },
+          { "tmId": "22418", "level": 3, "name": "Cotton Wool & Cotton Buds", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_9851658", 
+                "ParentNode": "First Aid & Medicinal",
+                "aisleId": "1_0E4063F",
+                "aisle": "Cotton Wool & Cotton Buds",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/first-aid-medicinal/cotton-wool-cotton-buds"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8", 
+                "ParentNode": "Shower, Bath & Body",
+                "aisleId": "1_7906A87",
+                "aisle": "Cotton Wool & Cotton Buds",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/shower-bath-body/cotton-wool-cotton-buds"
+              }
+            ] 
+          },
+          { "tmId": "22421", "level": 3, "name": "Medicinal Oils & Ointments",  
+            "children": [
+              {
+                "NodeIdLevel1": "1_9851658", 
+                "ParentNode": "First Aid & Medicinal",
+                "aisleId": "1_4C3EFD2",
+                "aisle": "Pain Relief",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/first-aid-medicinal/pain-relief"
+              },
+               {
+                "NodeIdLevel1": "1_9851658", 
+                "ParentNode": "First Aid & Medicinal",
+                "aisleId": "1_B84B78B",
+                "aisle": "Natural Remedies & Oils",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/first-aid-medicinal/natural-remedies-oils"
+              }
+            ] 
+          },
+          { "tmId": "22422", "level": 3, "name": "Quit Smoking",  
+            "children": [
+              {
+                "NodeIdLevel1": "1_9851658", 
+                "ParentNode": "First Aid & Medicinal",
+                "aisleId": "1_480D6BE",
+                "aisle": "Nicotine Replacement",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/first-aid-medicinal/nicotine-replacement"
+              }
+            ] 
+          },
+          { "tmId": "23917", "level": 3, "name": "Travel Health Care", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_9851658", 
+                "ParentNode": "First Aid & Medicinal",
+                "aisleId": "1_747FDEE",
+                "aisle": "Digestive Health",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/first-aid-medicinal/digestive-health"
+              },
+              {
+                "NodeIdLevel1": "1_9851658", 
+                "ParentNode": "First Aid & Medicinal",
+                "aisleId": "1_7DEAD43",
+                "aisle": "Eye, Ear & Mouth Care",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/first-aid-medicinal/eye-ear-mouth-care"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8", 
+                "ParentNode": "Travel Toiletries & Minis",
+                "aisleId": "1_1C82483",
+                "aisle": "Travel Toiletries & Minis",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/travel-toiletries-minis/travel-toiletries-minis"
+              }
+            ] 
+          }
+        ]
+      },
+      { "tmId": "22423", "level": 2, "name": "Hair Care", 
+        "children": [
+          { "tmId": "23903", "level": 3, "name": "Colouring", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_8D61DD6", 
+                "ParentNode": "Hair Colour",
+                "aisleId": "1_157624A",
+                "aisle": "Permanent",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/hair-colour/permanent"
+              },
+              {
+                "NodeIdLevel1": "1_8D61DD6",
+                "ParentNode": "Hair Colour",
+                "aisleId": "1_E616FF2",
+                "aisle": "Semi Permanent",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/hair-colour/semi-permanent"
+              },
+              {
+                "NodeIdLevel1": "1_8D61DD6",
+                "ParentNode": "Hair Colour",
+                "aisleId": "1_B058540",
+                "aisle": "Touch Up",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/hair-colour/touch-up"
+              },
+              {
+                "NodeIdLevel1": "1_8D61DD6",
+                "ParentNode": "Hair Colour",
+                "aisleId": "1_019D001",
+                "aisle": "Colour Remover",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/hair-colour/colour-remover"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Hair Care",
+                "aisleId": "1_D0D59C5",
+                "aisle": "Hair Colour",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/hair-care/hair-colour"
+              }
+            ] 
+          },
+          { "tmId": "23906", "level": 3, "name": "Hair Accessories & Brushes", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Hair Care",
+                "aisleId": "1_2C8E582",
+                "aisle": "Hair Accessories & Brushes",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/hair-care/hair-accessories-brushes"
+              }
+            ] 
+          },
+          { "tmId": "23924", "level": 3, "name": "Mens Hair Care", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Men's Care",
+                "aisleId": "1_15C654F",
+                "aisle": "Men's Hair Care",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/men-s-care/men-s-hair-care"
+              }
+            ] 
+          },
+          { "tmId": "23904", "level": 3, "name": "Shampoo & Conditioner", 
+            "children": [
+               {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Hair Care",
+                "aisleId": "1_C2D0D06",
+                "aisle": "Hair Treatments",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/hair-care/hair-treatments"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Hair Care",
+                "aisleId": "1_D19C64C",
+                "aisle": "Shampoo & Conditioner",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/hair-care/shampoo-conditioner"
+              },
+              {
+                "NodeIdLevel1": "1_8D61DD6",
+                "ParentNode": "Hair Care",
+                "aisleId": "1_20DA3FE",
+                "aisle": "Hair Treatments",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/hair-care/hair-treatments"
+              }
+            ] 
+          },
+          { "tmId": "23905", "level": 3, "name": "Styling Products", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_8D61DD6",
+                "ParentNode": "Hair Care",
+                "aisleId": "1_1E49B69",
+                "aisle": "Styling Products",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/hair-care/styling-products"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Hair Care",
+                "aisleId": "1_FE94C3A",
+                "aisle": "Styling Products",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/hair-care/styling-products"
+              }
+            ] 
+          }
+        ]
+      },
+      { "tmId": "24007", "level": 2, "name": "Health Foods", 
+        "children": [
+          {
+            "NodeIdLevel1": "1_9851658", 
+            "ParentNode": "Diet & Sports Nutrition",
+            "aisleId": "1_59F13C8",
+            "aisle": "Sports Nutrition Powders",
+            "url": "https://www.woolworths.com.au/shop/browse/health-wellness/diet-sports-nutrition/sports-nutrition-powders"
+          },
+          {
+            "NodeIdLevel1": "1_9851658", 
+            "ParentNode": "Diet & Sports Nutrition",
+            "aisleId": "1_61E4642",
+            "aisle": "Weight Management",
+            "url": "https://www.woolworths.com.au/shop/browse/health-wellness/diet-sports-nutrition/sports-nutrition-powders"
+          }
+        ]
+      },
+      { "tmId": "23908", "level": 2, "name": "Period Care", 
+        "children": [
+          {
+            "NodeIdLevel1": "1_894D0A8",
+            "ParentNode": "Period & Continence Care",
+            "aisleId": "1_F4790A6",
+            "aisle": "Pads & Pants",
+            "url": "https://www.woolworths.com.au/shop/browse/personal-care/period-continence-care/pads-pants"
+          },
+          {
+            "NodeIdLevel1": "1_894D0A8",
+            "ParentNode": "Period & Continence Care",
+            "aisleId": "1_34B5140",
+            "aisle": "Tampons",
+            "url": "https://www.woolworths.com.au/shop/browse/personal-care/period-continence-care/tampons"
+          }
+        ]
+      },
+      { "tmId": "22440", "level": 2, "name": "Personal Care & Hygiene", 
+        "children": [
+          { "tmId": "23922", "level": 3, "name": "Continence Care", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_717A94B", 
+                "ParentNode": "Pregnancy Care & Family Planning",
+                "aisleId": "1_218CDE6",
+                "aisle": "After Pregnancy Care",
+                "url": "https://www.woolworths.com.au/shop/browse/baby/pregnancy-care-family-planning/after-pregnancy-care"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Period & Continence Care",
+                "aisleId": "1_52F4744",
+                "aisle": "Liners",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/period-continence-care/liners"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Period & Continence Care",
+                "aisleId": "1_2A3AD5D",
+                "aisle": "Period Underwear & Reusables",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/period-continence-care/period-underwear-reusables"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Period & Continence Care",
+                "aisleId": "1_473280B",
+                "aisle": "Maternity Pads",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/period-continence-care/maternity-pads"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Period & Continence Care",
+                "aisleId": "1_41968B7",
+                "aisle": "Intimate Hygiene",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/period-continence-care/intimate-hygiene"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Period & Continence Care",
+                "aisleId": "1_535B1B2",
+                "aisle": "Continence Pants",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/period-continence-care/continence-pants"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Period & Continence Care",
+                "aisleId": "1_EB45535",
+                "aisle": "Continence Pads",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/period-continence-care/continence-pads"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Period & Continence Care",
+                "aisleId": "1_A5A6B06",
+                "aisle": "Continence Liners",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/period-continence-care/continence-liners"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Period & Continence Care",
+                "aisleId": "1_20AC46F",
+                "aisle": "Continence Underwear & Reusables",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/period-continence-care/continence-underwear-reusables"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Period & Continence Care",
+                "aisleId": "1_CAE5162",
+                "aisle": "Continence Mens",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/period-continence-care/continence-mens"
+              }
+            ]
+          },
+          { "tmId": "23894", "level": 3, "name": "Contraception & Sexual Health", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_9851658",
+                "ParentNode": "First Aid & Medicinal",
+                "aisleId": "1_1DACCD5",
+                "aisle": "Intimate Wellness",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/first-aid-medicinal/intimate-wellness"
+              }
+            ]
+          },
+          { "tmId": "23920", "level": 3, "name": "Female Deodorants & Body Sprays",
+            "children": [
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Shower, Bath & Body",
+                "aisleId": "1_11BCF5C",
+                "aisle": "Female Deodorants",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/shower-bath-body/female-deodorants"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Shower, Bath & Body",
+                "aisleId": "1_688D6E9",
+                "aisle": "Female Body Sprays",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/shower-bath-body/female-body-sprays"
+              }
+            ] 
+          },
+          { "tmId": "23893", "level": 3, "name": "Hand & Footcare", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Shower, Bath & Body",
+                "aisleId": "1_D0642D8",
+                "aisle": "Handwash & Hand Sanitisers",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/shower-bath-body/handwash-hand-sanitisers"
+              },
+              {
+                "NodeIdLevel1": "1_9851658",
+                "ParentNode": "Health & Wellness",
+                "aisleId": "1_ECDD659",
+                "aisle": "Foot Care",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/first-aid-medicinal/foot-care"
+              }
+            ] 
+          },
+          { "tmId": "23921", "level": 3, "name": "Male Deodorants & Body Sprays", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_9851658",
+                "ParentNode": "Men's Care",
+                "aisleId": "1_12F01E6",
+                "aisle": "Men's Deodorants",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/men-s-care/men-s-deodorants"
+              }
+            ] 
+          },
+          { "tmId": "23895", "level": 3, "name": "Pregnancy Tests", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_9851658",
+                "ParentNode": "First Aid & Medicinal",
+                "aisleId": "1_BB5CBC3",
+                "aisle": "Pregnancy Tests",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/first-aid-medicinal/pregnancy-tests"
+              },
+              {
+                "NodeIdLevel1": "1_717A94B", 
+                "ParentNode": "Pregnancy Care & Family Planning",
+                "aisleId": "1_AA803A7",
+                "aisle": "Pregnancy Tests",
+                "url": "https://www.woolworths.com.au/shop/browse/baby/pregnancy-care-family-planning/pregnancy-tests"
+              }
+            ] 
+          },
+          { "tmId": "23896", "level": 3, "name": "Wipes & Tissues", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_894D0A8", 
+                "ParentNode": "Shower, Bath & Body",
+                "aisleId": "1_0D84146",
+                "aisle": "Wipes & Tissues",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/shower-bath-body/wipes-tissues"
+              }
+            ] 
+          }
+        ]
+      },
+      { "tmId": "23864", "level": 2, "name": "Shaving & Hair Removal", 
+        
+        "children": [
+          { "tmId": "23898", "level": 3, "name": "After Shave Care",  
+            "children": [
+              {
+                "NodeIdLevel1": "1_894D0A8", 
+                "ParentNode": "Womens Hair Removal",
+                "aisleId": "1_1CFF3FF",
+                "aisle": "Women's Blades & Razors",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/women-s-hair-removal/women-s-blades-razors"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8", 
+                "ParentNode": "Womens Hair Removal",
+                "aisleId": "1_5FC9A16",
+                "aisle": "Waxes & Creams",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/women-s-hair-removal/waxes-creams"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8", 
+                "ParentNode": "Men's Care",
+                "aisleId": "1_A4F25F0",
+                "aisle": "Men's Blades & Razors",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/men-s-care/men-s-blades-razors"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8", 
+                "ParentNode": "Men's Care",
+                "aisleId": "1_2E1D447",
+                "aisle": "Men's Aftershave",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/men-s-care/men-s-aftershave"
+              }
+            ] 
+          },
+          { "tmId": "23901", "level": 3, "name": "Shave Gel & Foam",  
+            "children": [
+              {
+                "NodeIdLevel1": "1_894D0A8", 
+                "ParentNode": "Men's Care",
+                "aisleId": "1_167BFDC",
+                "aisle": "Men's Shave Gels & Foams",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/men-s-care/men-s-shave-gels-foams"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8", 
+                "ParentNode": "Men's Care",
+                "aisleId": "1_944477A",
+                "aisle": "Men's Shower Gels",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/men-s-care/men-s-shower-gels"
+              }
+            ] 
+          }
+        ]
+      },
+      { "tmId": "23883", "level": 2, "name": "Skin Care", 
+        "children": [
+          { "tmId": "23885", "level": 3, "name": "Body Moisturiser", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_8D61DD6", 
+                "ParentNode": "Skincare & Body",
+                "aisleId": "1_5A3F8DE",
+                "aisle": "Body Moisturiser",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/skincare-body/body-moisturiser"
+              },
+              {
+                "NodeIdLevel1": "1_8D61DD6", 
+                "ParentNode": "Skincare & Body",
+                "aisleId": "1_ADFB7C5",
+                "aisle": "Fragrance",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/skincare-body/fragrance"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8", 
+                "ParentNode": "Men's Care",
+                "aisleId": "1_47AD394",
+                "aisle": "Men's Body Sprays",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/men-s-care/men-s-body-sprays"
+              }
+            ] 
+          },
+          { "tmId": "23888", "level": 3, "name": "Face Masks & Treatments", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_8D61DD6", 
+                "ParentNode": "Skincare & Body",
+                "aisleId": "1_74AF627",
+                "aisle": "Serums",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/skincare-body/serums"
+              },
+              {
+                "NodeIdLevel1": "1_8D61DD6", 
+                "ParentNode": "Skincare & Body",
+                "aisleId": "1_52E0195",
+                "aisle": "Face Masks & Patches",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/skincare-body/face-masks-patches"
+              }
+            ] 
+          },
+          { "tmId": "23886", "level": 3, "name": "Face Moisturiser", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_8D61DD6", 
+                "ParentNode": "Skincare & Body",
+                "aisleId": "1_B7496DD",
+                "aisle": "Face Moisturiser",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/skincare-body/face-moisturisers"
+              }
+            ] 
+          },
+          { "tmId": "23887", "level": 3, "name": "Facial Cleansers, Toners & Scrubs", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_894D0A8", 
+                "ParentNode": "Shower, Bath & Body",
+                "aisleId": "1_3945456",
+                "aisle": "Bubble Bath & Salts",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/shower-bath-body/bubble-bath-salts"
+              },
+              {
+                "NodeIdLevel1": "1_8D61DD6", 
+                "ParentNode": "Shower, Bath & Body",
+                "aisleId": "1_B7496DD",
+                "aisle": "Cleansers & Toners",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/skincare-body/face-moisturisers"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8", 
+                "ParentNode": "Shower, Bath & Body",
+                "aisleId": "1_E08A7EE",
+                "aisle": "Soap",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/shower-bath-body/soap"
+              },
+              { 
+                "NodeIdLevel1": "1_894D0A8",
+                "ParentNode": "Shower, Bath & Body",
+                "aisleId": "1_3A8B51C",
+                "aisle": "Body Wash",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/shower-bath-body/body-wash"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8", 
+                "ParentNode": "Shower, Bath & Body",
+                "aisleId": "1_CD4E9A8",
+                "aisle": "Shower & Bath Accessories",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/shower-bath-body/shower-bath-accessories"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8", 
+                "ParentNode": "Men's Care",
+                "aisleId": "1_A85D6A7",
+                "aisle": "Men's Skin",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/men-s-care/men-s-skin"
+              }
+            ] 
+          },
+          { "tmId": "23889",  "level": 3, "name": "Hand Moisturiser", 
+            "children": [
+              
+
+            ] 
+          },
+          { "tmId": "23890", "level": 3, "name": "Lip Care", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_8D61DD6", 
+                "ParentNode": "Skincare & Body",
+                "aisleId": "1_DC84694",
+                "aisle": "Lip Care",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/skincare-body/lip-care"
+              }
+            ] 
+          },
+          { "tmId": "23891", "level": 3, "name": "Self-Tanning", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_8D61DD6", 
+                "ParentNode": "Skincare & Body",
+                "aisleId": "1_3BE9911",
+                "aisle": "Self Tanning",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/skincare-body/self-tanning"
+              }
+            ] 
+          },
+          { "tmId": "23892", "level": 3, "name": "Sun Protection", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_8D61DD6", 
+                "ParentNode": "Skincare & Body",
+                "aisleId": "1_CCA3533",
+                "aisle": "Sun Protection",
+                "url": "https://www.woolworths.com.au/shop/browse/beauty/skincare-body/sun-protection"
+              },
+              {
+                "NodeIdLevel1": "1_894D0A8", 
+                "ParentNode": "Sun Protection",
+                "aisleId": "1_574979C",
+                "aisle": "Sun Care",
+                "url": "https://www.woolworths.com.au/shop/browse/personal-care/sun-protection/sun-care"
+              }
+            ] 
+          }
+        ]
+      },
+      { "tmId": "22450", "level": 2, "name": "Vitamins", 
+        "children": [
+          { "tmId": "23870", "level": 3, "name": "Brain & Heart Health", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_9851658",
+                "ParentNode": "Vitamins",
+                "aisleId": "1_B3EA43D",
+                "aisle": "Brain & Heart",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/vitamins/brain-heart"
+              }
+            ] 
+          },
+          { "tmId": "23872", "level": 3, "name": "Detox & Digestion", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_9851658",
+                "ParentNode": "Vitamins",
+                "aisleId": "1_EDC3615",
+                "aisle": "Digestion & Probiotics",
+                "url": "https://ww,w.woolworths.com.au/shop/browse/health-wellness/vitamins/digestion-probiotics"
+              }
+            ] 
+          },
+          { "tmId": "22453", "level": 3, "name": "Hair, Skin & Nails", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_9851658",
+                "ParentNode": "Vitamins",
+                "aisleId": "1_B7440AB",
+                "aisle": "Hair, Skin & Nails",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/vitamins/hair-skin-nails"
+              }
+            ] 
+          },
+          { "tmId": "23916", "level": 3, "name": "Others", 
+            "children": [
+              {
+                "NodeIdLevel1": "1_717A94B", 
+                "ParentNode": "Pregnancy Care & Family Planning",
+                "aisleId": "1_14C2578",
+                "aisle": "Vitamins",
+                "url": "https://www.woolworths.com.au/shop/browse/baby/pregnancy-care-family-planning/vitamins"
+              },
+              {
+                "NodeIdLevel1": "1_9851658",
+                "ParentNode": "Vitamins",
+                "aisleId": "1_4A8A86B",
+                "aisle": "Children's Health",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/vitamins/children-s-health"
+              },
+              {
+                "NodeIdLevel1": "1_9851658",
+                "ParentNode": "Vitamins",
+                "aisleId": "1_4BEA9D2",
+                "aisle": "Women's Health",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/vitamins/women-s-health"
+              },
+              {
+                "NodeIdLevel1": "1_9851658",
+                "ParentNode": "Vitamins",
+                "aisleId": "1_B9388C2",
+                "aisle": "Men's Health",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/vitamins/men-s-health"
+              },
+              {
+                "NodeIdLevel1": "1_9851658",
+                "ParentNode": "Vitamins",
+                "aisleId": "1_0960755",
+                "aisle": "Pregnancy & Family Planning",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/vitamins/pregnancy-family-planning"
+              },
+              {
+                "NodeIdLevel1": "1_9851658",
+                "ParentNode": "Vitamins",
+                "aisleId": "1_D0B1FED",
+                "aisle": "Multi Vitamins",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/vitamins/multi-vitamins"
+              },
+              {
+                "NodeIdLevel1": "1_9851658",
+                "ParentNode": "Vitamins",
+                "aisleId": "1_DEE6F6E",
+                "aisle": "Fatigue, Stress & Sleep",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/vitamins/fatigue-stress-sleep"
+              },
+              {
+                "NodeIdLevel1": "1_9851658",
+                "ParentNode": "Vitamins",
+                "aisleId": "1_5FF8641",
+                "aisle": "Bones, Joints & Muscle Health",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/vitamins/bones-joints-muscle-health"
+              },
+              {
+                "NodeIdLevel1": "1_9851658",
+                "ParentNode": "Vitamins",
+                "aisleId": "1_D24B072",
+                "aisle": "Omega-3",
+                "url": "https://www.woolworths.com.au/shop/browse/health-wellness/vitamins/omega-3"
+              } 
+            ] 
+          }
+        ]
+      }
+    ]
+  }
+]

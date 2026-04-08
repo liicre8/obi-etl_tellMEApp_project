@@ -1,0 +1,194 @@
+{
+  "id": "8904801",
+  "level": 1,
+  "originalName": "Back To School",
+  "seoToken": "back-to-school",
+  "subType": "SEASONAL",
+  "catalogGroupView": [
+    {
+      "id": "8908402",
+      "level": 2,
+      "originalName": "School Breakfast",
+      "seoToken": "school-breakfast",
+      "subType": "SEASONAL",
+      "catalogGroupView": [
+        {
+          "id": "8908416",
+          "level": 3,
+          "originalName": "Easy Breakfast",
+          "seoToken": "easy-breakfast",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8908420",
+          "level": 3,
+          "originalName": "Breakfast On The Go",
+          "seoToken": "breakfast-on-the-go",
+          "subType": "SEASONAL"
+        }
+      ]
+    },
+    {
+      "id": "8908403",
+      "level": 2,
+      "originalName": "School Lunches",
+      "seoToken": "school-lunches",
+      "subType": "SEASONAL",
+      "catalogGroupView": [
+        {
+          "id": "8908425",
+          "level": 3,
+          "originalName": "Sandwich & Wrap Essentials",
+          "seoToken": "sandwich-wrap-essentials",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8916400",
+          "level": 3,
+          "originalName": "Easy Lunches",
+          "seoToken": "easy-lunches",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8910002",
+          "level": 3,
+          "originalName": "Lunchbox Drinks",
+          "seoToken": "lunchbox-drinks",
+          "subType": "SEASONAL"
+        }
+      ]
+    },
+    {
+      "id": "701890311",
+      "level": 2,
+      "originalName": "Lunchbox Snacks",
+      "seoToken": "lunchbox-snacks",
+      "subType": "SEASONAL",
+      "catalogGroupView": [
+        {
+          "id": "701890341",
+          "level": 3,
+          "originalName": "Healthier Snacks",
+          "seoToken": "healthier-snacks",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "701890342",
+          "level": 3,
+          "originalName": "Fruit, Nuts & Vegetable Snacks",
+          "seoToken": "fruit-nuts-vegetable-snacks",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "701890351",
+          "level": 3,
+          "originalName": "Cheese, Crackers & Dips",
+          "seoToken": "cheese-crackers-dips",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "701890359",
+          "level": 3,
+          "originalName": "Muesli Bars",
+          "seoToken": "muesli-bars",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "701890360",
+          "level": 3,
+          "originalName": "Yoghurt",
+          "seoToken": "yoghurt",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "701890368",
+          "level": 3,
+          "originalName": "Chips, Chocolate & Biscuits",
+          "seoToken": "chips-chocolate-biscuits",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "701890463",
+          "level": 3,
+          "originalName": "Bakery Snacks",
+          "seoToken": "bakery-snacks",
+          "subType": "SEASONAL"
+        }
+      ]
+    },
+    {
+      "id": "8908404",
+      "level": 2,
+      "originalName": "School Accessories & Lunchboxes",
+      "seoToken": "school-accessories-lunchboxes",
+      "subType": "SEASONAL",
+      "catalogGroupView": [
+        {
+          "id": "8916402",
+          "level": 3,
+          "originalName": "Lunchboxes, Bottles & Sandwich Bags",
+          "seoToken": "lunchboxes-bottles-sandwich-bags",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8908431",
+          "level": 3,
+          "originalName": "Stationery & Technology",
+          "seoToken": "stationery-technology",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8916401",
+          "level": 3,
+          "originalName": "School Necessities & Suncare",
+          "seoToken": "school-necessities-suncare",
+          "subType": "SEASONAL"
+        }
+      ]
+    },
+    {
+      "id": "8910000",
+      "level": 2,
+      "originalName": "Easy School Night Dinners",
+      "seoToken": "easy-school-night-dinners",
+      "subType": "SEASONAL",
+      "catalogGroupView": [
+        {
+          "id": "8914200",
+          "level": 3,
+          "originalName": "Kits & Meal Bases",
+          "seoToken": "kits-meal-bases",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8914201",
+          "level": 3,
+          "originalName": "Pre-Marinated Meats & Ready Meals",
+          "seoToken": "pre-marinated-meats-ready-meals",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8914202",
+          "level": 3,
+          "originalName": "Pizza, Pasta & Sauces",
+          "seoToken": "pizza-pasta-sauces",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8914203",
+          "level": 3,
+          "originalName": "Frozen Foods",
+          "seoToken": "frozen-foods",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8914204",
+          "level": 3,
+          "originalName": "Salad Kits & Sides",
+          "seoToken": "salad-kits-sides",
+          "subType": "SEASONAL"
+        }
+      ]
+    }
+  ]
+}

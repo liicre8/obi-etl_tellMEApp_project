@@ -1,0 +1,558 @@
+{
+  "id": "85946",
+  "level": 1,
+  "originalName": "Liquorland",
+  "seoToken": "liquorland",
+  "subType": "CORE",
+  "catalogGroupView": [
+    {
+      "id": "89715",
+      "level": 2,
+      "originalName": "Beer",
+      "seoToken": "beer",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8905803",
+          "level": 3,
+          "originalName": "Australian Beer",
+          "seoToken": "australian-beer",
+          "subType": "CORE"
+        },
+        {
+          "id": "89744",
+          "level": 3,
+          "originalName": "Ciders",
+          "seoToken": "ciders",
+          "subType": "CORE"
+        },
+        {
+          "id": "8898632",
+          "level": 3,
+          "originalName": "Craft Beer",
+          "seoToken": "craft-beer",
+          "subType": "CORE"
+        },
+        {
+          "id": "8898631",
+          "level": 3,
+          "originalName": "Full-Strength",
+          "seoToken": "full-strength",
+          "subType": "CORE"
+        },
+        {
+          "id": "8898630",
+          "level": 3,
+          "originalName": "Imported",
+          "seoToken": "imported",
+          "subType": "CORE"
+        },
+        {
+          "id": "8898629",
+          "level": 3,
+          "originalName": "Low & No Alcohol",
+          "seoToken": "low-no-alcohol",
+          "subType": "CORE"
+        },
+        {
+          "id": "8898628",
+          "level": 3,
+          "originalName": "Mid-Strength",
+          "seoToken": "mid-strength",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8905602",
+      "level": 2,
+      "originalName": "Cask & Fortified Wine",
+      "seoToken": "cask-fortified-wine",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8905607",
+          "level": 3,
+          "originalName": "Cask Red Wine",
+          "seoToken": "cask-red-wine",
+          "subType": "CORE"
+        },
+        {
+          "id": "8905608",
+          "level": 3,
+          "originalName": "Cask White Wine",
+          "seoToken": "cask-white-wine",
+          "subType": "CORE"
+        },
+        {
+          "id": "8905609",
+          "level": 3,
+          "originalName": "Muscat, Port & Sherry",
+          "seoToken": "muscat-port-sherry",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8898625",
+      "level": 2,
+      "originalName": "Champagne & Sparkling",
+      "seoToken": "champagne-sparkling",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8898627",
+          "level": 3,
+          "originalName": "Champagne",
+          "seoToken": "champagne",
+          "subType": "CORE"
+        },
+        {
+          "id": "8899800",
+          "level": 3,
+          "originalName": "Prosecco",
+          "seoToken": "prosecco",
+          "subType": "CORE"
+        },
+        {
+          "id": "8898626",
+          "level": 3,
+          "originalName": "Sparkling",
+          "seoToken": "sparkling",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8905600",
+      "level": 2,
+      "originalName": "Cider",
+      "seoToken": "cider",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8905801",
+          "level": 3,
+          "originalName": "Apple Cider",
+          "seoToken": "apple-cider",
+          "subType": "CORE"
+        },
+        {
+          "id": "8905603",
+          "level": 3,
+          "originalName": "Other Flavoured Cider Varieties",
+          "seoToken": "other-flavoured-cider-varieties",
+          "subType": "CORE"
+        },
+        {
+          "id": "8905604",
+          "level": 3,
+          "originalName": "Pear Cider",
+          "seoToken": "pear-cider",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "654514009",
+      "level": 2,
+      "originalName": "Low Carb & Low Sugar",
+      "seoToken": "low-carb-low-sugar",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "654514050",
+          "level": 3,
+          "originalName": "Beer",
+          "seoToken": "beer",
+          "subType": "CORE"
+        },
+        {
+          "id": "654514779",
+          "level": 3,
+          "originalName": "Premixed Drinks",
+          "seoToken": "premixed-drinks",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "654513958",
+      "level": 2,
+      "originalName": "Low-Mid Strength",
+      "seoToken": "low-mid-strength",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "654513972",
+          "level": 3,
+          "originalName": "Beer",
+          "seoToken": "beer",
+          "subType": "CORE"
+        },
+        {
+          "id": "654514001",
+          "level": 3,
+          "originalName": "Wine",
+          "seoToken": "wine",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "682220075",
+      "level": 2,
+      "originalName": "Non Alcoholic",
+      "seoToken": "non-alcoholic",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "682267639",
+          "level": 3,
+          "originalName": "Beer",
+          "seoToken": "beer",
+          "subType": "CORE"
+        },
+        {
+          "id": "682267916",
+          "level": 3,
+          "originalName": "Spirits & Premixed Drinks",
+          "seoToken": "spirits-premixed-drinks",
+          "subType": "CORE"
+        },
+        {
+          "id": "682268173",
+          "level": 3,
+          "originalName": "Wine",
+          "seoToken": "wine",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "87941",
+      "level": 2,
+      "originalName": "Premixed Drinks",
+      "seoToken": "premixed-drinks",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8898635",
+          "level": 3,
+          "originalName": "Bourbon Premix",
+          "seoToken": "bourbon-premix",
+          "subType": "CORE"
+        },
+        {
+          "id": "8899806",
+          "level": 3,
+          "originalName": "Gin Premix",
+          "seoToken": "gin-premix",
+          "subType": "CORE"
+        },
+        {
+          "id": "8898638",
+          "level": 3,
+          "originalName": "Other Premix Varieties",
+          "seoToken": "other-premix-varieties",
+          "subType": "CORE"
+        },
+        {
+          "id": "8898639",
+          "level": 3,
+          "originalName": "Rum Premix",
+          "seoToken": "rum-premix",
+          "subType": "CORE"
+        },
+        {
+          "id": "8905610",
+          "level": 3,
+          "originalName": "Seltzers",
+          "seoToken": "seltzers",
+          "subType": "CORE"
+        },
+        {
+          "id": "8898640",
+          "level": 3,
+          "originalName": "Vodka Premix",
+          "seoToken": "vodka-premix",
+          "subType": "CORE"
+        },
+        {
+          "id": "8905804",
+          "level": 3,
+          "originalName": "Whisky Premix",
+          "seoToken": "whisky-premix",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "87938",
+      "level": 2,
+      "originalName": "Red Wine",
+      "seoToken": "red-wine",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "89748",
+          "level": 3,
+          "originalName": "Cabernet Sauvignon & Blends",
+          "seoToken": "cabernet-sauvignon-blends",
+          "subType": "CORE"
+        },
+        {
+          "id": "89746",
+          "level": 3,
+          "originalName": "Cask Red Wine",
+          "seoToken": "cask-red-wine",
+          "subType": "CORE"
+        },
+        {
+          "id": "89747",
+          "level": 3,
+          "originalName": "Fortified Wines",
+          "seoToken": "fortified-wines",
+          "subType": "CORE"
+        },
+        {
+          "id": "8906001",
+          "level": 3,
+          "originalName": "Grenache",
+          "seoToken": "grenache",
+          "subType": "CORE"
+        },
+        {
+          "id": "89749",
+          "level": 3,
+          "originalName": "Merlot",
+          "seoToken": "merlot",
+          "subType": "CORE"
+        },
+        {
+          "id": "89753",
+          "level": 3,
+          "originalName": "Other Red Wine Varieties",
+          "seoToken": "other-red-wine-varieties",
+          "subType": "CORE"
+        },
+        {
+          "id": "89750",
+          "level": 3,
+          "originalName": "Pinot Noir",
+          "seoToken": "pinot-noir",
+          "subType": "CORE"
+        },
+        {
+          "id": "8906002",
+          "level": 3,
+          "originalName": "Red Blends",
+          "seoToken": "red-blends",
+          "subType": "CORE"
+        },
+        {
+          "id": "89752",
+          "level": 3,
+          "originalName": "Shiraz & Blends",
+          "seoToken": "shiraz-blends",
+          "subType": "CORE"
+        },
+        {
+          "id": "8898624",
+          "level": 3,
+          "originalName": "Tempranillo",
+          "seoToken": "tempranillo",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8899807",
+      "level": 2,
+      "originalName": "Rose",
+      "seoToken": "rose",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8899808",
+          "level": 3,
+          "originalName": "All Rose",
+          "seoToken": "all-rose",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "87940",
+      "level": 2,
+      "originalName": "Spirits",
+      "seoToken": "spirits",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8905805",
+          "level": 3,
+          "originalName": "American & Canadian Whiskey",
+          "seoToken": "american-canadian-whiskey",
+          "subType": "CORE"
+        },
+        {
+          "id": "8898623",
+          "level": 3,
+          "originalName": "Aperitif, Vermouth And Digestives",
+          "seoToken": "aperitif-vermouth-and-digestives",
+          "subType": "CORE"
+        },
+        {
+          "id": "89767",
+          "level": 3,
+          "originalName": "Bourbon",
+          "seoToken": "bourbon",
+          "subType": "CORE"
+        },
+        {
+          "id": "8898622",
+          "level": 3,
+          "originalName": "Brandy & Cognac",
+          "seoToken": "brandy-cognac",
+          "subType": "CORE"
+        },
+        {
+          "id": "89768",
+          "level": 3,
+          "originalName": "Gin",
+          "seoToken": "gin",
+          "subType": "CORE"
+        },
+        {
+          "id": "89765",
+          "level": 3,
+          "originalName": "Liqueurs",
+          "seoToken": "liqueurs",
+          "subType": "CORE"
+        },
+        {
+          "id": "8905806",
+          "level": 3,
+          "originalName": "Other Spirits Varieties",
+          "seoToken": "other-spirits-varieties",
+          "subType": "CORE"
+        },
+        {
+          "id": "8906006",
+          "level": 3,
+          "originalName": "Rum",
+          "seoToken": "rum",
+          "subType": "CORE"
+        },
+        {
+          "id": "8899804",
+          "level": 3,
+          "originalName": "Rum dark",
+          "seoToken": "rum-dark",
+          "subType": "CORE"
+        },
+        {
+          "id": "8899802",
+          "level": 3,
+          "originalName": "Single malt whiskey",
+          "seoToken": "single-malt-whiskey",
+          "subType": "CORE"
+        },
+        {
+          "id": "8898621",
+          "level": 3,
+          "originalName": "Tequila",
+          "seoToken": "tequila",
+          "subType": "CORE"
+        },
+        {
+          "id": "89771",
+          "level": 3,
+          "originalName": "Vodka",
+          "seoToken": "vodka",
+          "subType": "CORE"
+        },
+        {
+          "id": "8899803",
+          "level": 3,
+          "originalName": "Whisky",
+          "seoToken": "whisky",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "87939",
+      "level": 2,
+      "originalName": "White Wine",
+      "seoToken": "white-wine",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "89755",
+          "level": 3,
+          "originalName": "Cask White Wines",
+          "seoToken": "cask-white-wines",
+          "subType": "CORE"
+        },
+        {
+          "id": "89757",
+          "level": 3,
+          "originalName": "Chardonnay",
+          "seoToken": "chardonnay",
+          "subType": "CORE"
+        },
+        {
+          "id": "8906005",
+          "level": 3,
+          "originalName": "Moscato & Sweet White Wine",
+          "seoToken": "moscato-sweet-white-wine",
+          "subType": "CORE"
+        },
+        {
+          "id": "89761",
+          "level": 3,
+          "originalName": "Other White Wine Varieties",
+          "seoToken": "other-white-wine-varieties",
+          "subType": "CORE"
+        },
+        {
+          "id": "89758",
+          "level": 3,
+          "originalName": "Pinot Gris & Grigio",
+          "seoToken": "pinot-gris-grigio",
+          "subType": "CORE"
+        },
+        {
+          "id": "89759",
+          "level": 3,
+          "originalName": "Riesling",
+          "seoToken": "riesling",
+          "subType": "CORE"
+        },
+        {
+          "id": "89760",
+          "level": 3,
+          "originalName": "Sauvignon Blanc",
+          "seoToken": "sauvignon-blanc",
+          "subType": "CORE"
+        },
+        {
+          "id": "87554",
+          "level": 3,
+          "originalName": "Semillon & Blends",
+          "seoToken": "semillon-blends",
+          "subType": "CORE"
+        },
+        {
+          "id": "8906050",
+          "level": 3,
+          "originalName": "Semillon Sauvignon Blanc",
+          "seoToken": "semillon-sauvignon-blanc",
+          "subType": "CORE"
+        }
+      ]
+    }
+  ]
+}

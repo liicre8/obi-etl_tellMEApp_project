@@ -1,0 +1,921 @@
+{
+  "NodeId": "1_DEA3ED5",
+  "Description": "Home & Lifestyle",
+  "NodeLevel": 1,
+  "ParentNodeId": "1-4A3B264C",
+  "UrlFriendlyName": "home-lifestyle",
+  "Children": [
+    {
+      "NodeId": "1_889CCA1",
+      "Description": "Dining & Entertaining",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_DEA3ED5",
+      "UrlFriendlyName": "dining-entertaining",
+      "Children": [
+        {
+          "NodeId": "1_4B2D560",
+          "Description": "Glassware & Bar Accessories",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_889CCA1",
+          "UrlFriendlyName": "glassware-bar-accessories",
+          "Children": []
+        },
+        {
+          "NodeId": "1_79A4074",
+          "Description": "Dinnerware & Crockery",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_889CCA1",
+          "UrlFriendlyName": "dinnerware-crockery",
+          "Children": []
+        },
+        {
+          "NodeId": "1_FF005F0",
+          "Description": "Cutlery",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_889CCA1",
+          "UrlFriendlyName": "cutlery",
+          "Children": []
+        },
+        {
+          "NodeId": "1_99095B5",
+          "Description": "Serveware",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_889CCA1",
+          "UrlFriendlyName": "serveware",
+          "Children": []
+        },
+        {
+          "NodeId": "1_517A91C",
+          "Description": "Table Linen & Placemats",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_889CCA1",
+          "UrlFriendlyName": "table-linen-placemats",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_792C364",
+      "Description": "Party Supplies",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_DEA3ED5",
+      "UrlFriendlyName": "party-supplies",
+      "Children": [
+        {
+          "NodeId": "1_D236658",
+          "Description": "Party Tableware",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_792C364",
+          "UrlFriendlyName": "party-tableware",
+          "Children": []
+        },
+        {
+          "NodeId": "1_4050D11",
+          "Description": "Candles",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_792C364",
+          "UrlFriendlyName": "candles",
+          "Children": []
+        },
+        {
+          "NodeId": "1_DF16E0B",
+          "Description": "Gift Wrap, Bags & Cards",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_792C364",
+          "UrlFriendlyName": "gift-wrap-bags-cards",
+          "Children": []
+        },
+        {
+          "NodeId": "1_DD8382F",
+          "Description": "Decorations",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_792C364",
+          "UrlFriendlyName": "decorations",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_6D2541E",
+      "Description": "Kitchenware & Storage",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_DEA3ED5",
+      "UrlFriendlyName": "kitchenware-storage",
+      "Children": [
+        {
+          "NodeId": "1_BB35A8F",
+          "Description": "Lunch Boxes & Drink Bottles",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_6D2541E",
+          "UrlFriendlyName": "lunch-boxes-drink-bottles",
+          "Children": []
+        },
+        {
+          "NodeId": "1_6A38EBC",
+          "Description": "Food Storage Containers",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_6D2541E",
+          "UrlFriendlyName": "food-storage-containers",
+          "Children": []
+        },
+        {
+          "NodeId": "1_3DF971E",
+          "Description": "Kitchen Utensils",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_6D2541E",
+          "UrlFriendlyName": "kitchen-utensils",
+          "Children": []
+        },
+        {
+          "NodeId": "1_E6AF2EB",
+          "Description": "Pots & Pans",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_6D2541E",
+          "UrlFriendlyName": "pots-pans",
+          "Children": []
+        },
+        {
+          "NodeId": "1_4779675",
+          "Description": "Bakeware & Oven Trays",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_6D2541E",
+          "UrlFriendlyName": "bakeware-oven-trays",
+          "Children": []
+        },
+        {
+          "NodeId": "1_DCBF642",
+          "Description": "Chopping Boards",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_6D2541E",
+          "UrlFriendlyName": "chopping-boards",
+          "Children": []
+        },
+        {
+          "NodeId": "1_CE62A07",
+          "Description": "Knives",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_6D2541E",
+          "UrlFriendlyName": "knives",
+          "Children": []
+        },
+        {
+          "NodeId": "1_5E957E1",
+          "Description": "Kitchen Organisation",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_6D2541E",
+          "UrlFriendlyName": "kitchen-organisation",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_A348882",
+      "Description": "Kitchen Appliances",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_DEA3ED5",
+      "UrlFriendlyName": "kitchen-appliances",
+      "Children": [
+        {
+          "NodeId": "1_163E2E6",
+          "Description": "Blenders & Food Processors",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A348882",
+          "UrlFriendlyName": "blenders-food-processors",
+          "Children": []
+        },
+        {
+          "NodeId": "1_10254F6",
+          "Description": "Air Fryers & Cookers",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A348882",
+          "UrlFriendlyName": "air-fryers-cookers",
+          "Children": []
+        },
+        {
+          "NodeId": "1_E621F61",
+          "Description": "Coffee Machines & Milk Frothers",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A348882",
+          "UrlFriendlyName": "coffee-machines-milk-frothers",
+          "Children": []
+        },
+        {
+          "NodeId": "1_B858AAB",
+          "Description": "Kettles & Water Purifiers",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A348882",
+          "UrlFriendlyName": "kettles-water-purifiers",
+          "Children": []
+        },
+        {
+          "NodeId": "1_A18E1A1",
+          "Description": "Toaster & Sandwich Presses",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A348882",
+          "UrlFriendlyName": "toaster-sandwich-presses",
+          "Children": []
+        },
+        {
+          "NodeId": "1_ABB663D",
+          "Description": "Snack & Ice-Cream Makers",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A348882",
+          "UrlFriendlyName": "snack-ice-cream-makers",
+          "Children": []
+        },
+        {
+          "NodeId": "1_BBE2BC7",
+          "Description": "Refrigerators",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A348882",
+          "UrlFriendlyName": "refrigerators",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_DB03E11",
+      "Description": "Home Appliances",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_DEA3ED5",
+      "UrlFriendlyName": "home-appliances",
+      "Children": [
+        {
+          "NodeId": "1_2BB11DE",
+          "Description": "Heating & Cooling",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DB03E11",
+          "UrlFriendlyName": "heating-cooling",
+          "Children": []
+        },
+        {
+          "NodeId": "1_7BB326F",
+          "Description": "Ironing & Laundry",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DB03E11",
+          "UrlFriendlyName": "ironing-laundry",
+          "Children": []
+        },
+        {
+          "NodeId": "1_4EF2693",
+          "Description": "Vacuums & Floor Cleaners",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DB03E11",
+          "UrlFriendlyName": "vacuums-floor-cleaners",
+          "Children": []
+        },
+        {
+          "NodeId": "1_0035C79",
+          "Description": "Air Dehumidifiers",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DB03E11",
+          "UrlFriendlyName": "air-dehumidifiers",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_DC2126B",
+      "Description": "Home Decor & Furniture",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_DEA3ED5",
+      "UrlFriendlyName": "home-decor-furniture",
+      "Children": [
+        {
+          "NodeId": "1_042F261",
+          "Description": "Candles & Home Fragrance",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DC2126B",
+          "UrlFriendlyName": "candles-home-fragrance",
+          "Children": []
+        },
+        {
+          "NodeId": "1_BDDAB74",
+          "Description": "Cushions & Covers",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DC2126B",
+          "UrlFriendlyName": "cushions-covers",
+          "Children": []
+        },
+        {
+          "NodeId": "1_16F30FB",
+          "Description": "Blankets & Throws",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DC2126B",
+          "UrlFriendlyName": "blankets-throws",
+          "Children": []
+        },
+        {
+          "NodeId": "1_486FB58",
+          "Description": "Living Room",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DC2126B",
+          "UrlFriendlyName": "living-room",
+          "Children": []
+        },
+        {
+          "NodeId": "1_D452C7F",
+          "Description": "Storage",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DC2126B",
+          "UrlFriendlyName": "storage",
+          "Children": []
+        },
+        {
+          "NodeId": "1_90DB5EC",
+          "Description": "Indoor Lighting",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DC2126B",
+          "UrlFriendlyName": "indoor-lighting",
+          "Children": []
+        },
+        {
+          "NodeId": "1_261BB53",
+          "Description": "Kitchen & Dining",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DC2126B",
+          "UrlFriendlyName": "kitchen-dining",
+          "Children": []
+        },
+        {
+          "NodeId": "1_F3EFA6D",
+          "Description": "Bedroom",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DC2126B",
+          "UrlFriendlyName": "bedroom",
+          "Children": []
+        },
+        {
+          "NodeId": "1_6BA659F",
+          "Description": "Kids Furniture",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DC2126B",
+          "UrlFriendlyName": "kids-furniture",
+          "Children": []
+        },
+        {
+          "NodeId": "1_356975B",
+          "Description": "Curtains & Blinds",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DC2126B",
+          "UrlFriendlyName": "curtains-blinds",
+          "Children": []
+        },
+        {
+          "NodeId": "1_D5B5965",
+          "Description": "Photo Frames & Albums",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DC2126B",
+          "UrlFriendlyName": "photo-frames-albums",
+          "Children": []
+        },
+        {
+          "NodeId": "1_8CB31BB",
+          "Description": "Mirrors, Clocks & Wall Art",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DC2126B",
+          "UrlFriendlyName": "mirrors-clocks-wall-art",
+          "Children": []
+        },
+        {
+          "NodeId": "1_4E140F7",
+          "Description": "Rugs & Doormats",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_DC2126B",
+          "UrlFriendlyName": "rugs-doormats",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_A16EACA",
+      "Description": "Manchester & Bedding",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_DEA3ED5",
+      "UrlFriendlyName": "manchester-bedding",
+      "Children": [
+        {
+          "NodeId": "1_2E7061F",
+          "Description": "Bedding Sets",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A16EACA",
+          "UrlFriendlyName": "bedding-sets",
+          "Children": []
+        },
+        {
+          "NodeId": "1_42AD16D",
+          "Description": "Fitted Sheets",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A16EACA",
+          "UrlFriendlyName": "fitted-sheets",
+          "Children": []
+        },
+        {
+          "NodeId": "1_AAA34DB",
+          "Description": "Doonas & Comforters",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A16EACA",
+          "UrlFriendlyName": "doonas-comforters",
+          "Children": []
+        },
+        {
+          "NodeId": "1_D7EA520",
+          "Description": "Pillows & Pillowcases",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A16EACA",
+          "UrlFriendlyName": "pillows-pillowcases",
+          "Children": []
+        },
+        {
+          "NodeId": "1_14767C5",
+          "Description": "Blankets & Throws",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A16EACA",
+          "UrlFriendlyName": "blankets-throws",
+          "Children": []
+        },
+        {
+          "NodeId": "1_916A731",
+          "Description": "Electric Blankets",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A16EACA",
+          "UrlFriendlyName": "electric-blankets",
+          "Children": []
+        },
+        {
+          "NodeId": "1_DAE8EA1",
+          "Description": "Mattresses & Toppers",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_A16EACA",
+          "UrlFriendlyName": "mattresses-toppers",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_821B14C",
+      "Description": "Bathroom Towels & Accessories",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_DEA3ED5",
+      "UrlFriendlyName": "bathroom-towels-accessories",
+      "Children": [
+        {
+          "NodeId": "1_CF0BCBC",
+          "Description": "Bath Towels & Mats",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_821B14C",
+          "UrlFriendlyName": "bath-towels-mats",
+          "Children": []
+        },
+        {
+          "NodeId": "1_B68A44F",
+          "Description": "Bathroom Accessories",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_821B14C",
+          "UrlFriendlyName": "bathroom-accessories",
+          "Children": []
+        },
+        {
+          "NodeId": "1_B6E3FD5",
+          "Description": "Bathrobes",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_821B14C",
+          "UrlFriendlyName": "bathrobes",
+          "Children": []
+        },
+        {
+          "NodeId": "1_458422A",
+          "Description": "Beach Towels",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_821B14C",
+          "UrlFriendlyName": "beach-towels",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_3D142C0",
+      "Description": "Clothing & Accessories",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_DEA3ED5",
+      "UrlFriendlyName": "clothing-accessories",
+      "Children": [
+        {
+          "NodeId": "1_BC7F2FA",
+          "Description": "Women's Clothing & Underwear",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_3D142C0",
+          "UrlFriendlyName": "women-s-clothing-underwear",
+          "Children": []
+        },
+        {
+          "NodeId": "1_DC90AAE",
+          "Description": "Women's Socks",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_3D142C0",
+          "UrlFriendlyName": "women-s-socks",
+          "Children": []
+        },
+        {
+          "NodeId": "1_8BCD6AE",
+          "Description": "Hosiery",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_3D142C0",
+          "UrlFriendlyName": "hosiery",
+          "Children": []
+        },
+        {
+          "NodeId": "1_0F2D96C",
+          "Description": "Men's Clothing & Underwear",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_3D142C0",
+          "UrlFriendlyName": "men-s-clothing-underwear",
+          "Children": []
+        },
+        {
+          "NodeId": "1_F90EA55",
+          "Description": "Men's Socks",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_3D142C0",
+          "UrlFriendlyName": "men-s-socks",
+          "Children": []
+        },
+        {
+          "NodeId": "1_590E5BE",
+          "Description": "Boys & Girls Underwear",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_3D142C0",
+          "UrlFriendlyName": "boys-girls-underwear",
+          "Children": []
+        },
+        {
+          "NodeId": "1_774EF84",
+          "Description": "Boys & Girls Socks",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_3D142C0",
+          "UrlFriendlyName": "boys-girls-socks",
+          "Children": []
+        },
+        {
+          "NodeId": "1_AFC05BA",
+          "Description": "Footwear & Shoe Care",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_3D142C0",
+          "UrlFriendlyName": "footwear-shoe-care",
+          "Children": []
+        },
+        {
+          "NodeId": "1_1E7F255",
+          "Description": "Umbrellas",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_3D142C0",
+          "UrlFriendlyName": "umbrellas",
+          "Children": []
+        },
+        {
+          "NodeId": "1_CCC9866",
+          "Description": "Sewing",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_3D142C0",
+          "UrlFriendlyName": "sewing",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_CAAEDBB",
+      "Description": "Stationery & Office Supplies",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_DEA3ED5",
+      "UrlFriendlyName": "stationery-office-supplies",
+      "Children": [
+        {
+          "NodeId": "1_B90F080",
+          "Description": "Stationery",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_CAAEDBB",
+          "UrlFriendlyName": "stationery",
+          "Children": []
+        },
+        {
+          "NodeId": "1_B29A4BD",
+          "Description": "Exercise Books & Paper Goods",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_CAAEDBB",
+          "UrlFriendlyName": "exercise-books-paper-goods",
+          "Children": []
+        },
+        {
+          "NodeId": "1_6777198",
+          "Description": "Writing Instruments",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_CAAEDBB",
+          "UrlFriendlyName": "writing-instruments",
+          "Children": []
+        },
+        {
+          "NodeId": "1_C659D98",
+          "Description": "Binders & Folders",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_CAAEDBB",
+          "UrlFriendlyName": "binders-folders",
+          "Children": []
+        },
+        {
+          "NodeId": "1_1A64CC2",
+          "Description": "Printers & Ink",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_CAAEDBB",
+          "UrlFriendlyName": "printers-ink",
+          "Children": []
+        },
+        {
+          "NodeId": "1_E7281E9",
+          "Description": "Arts & Craft",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_CAAEDBB",
+          "UrlFriendlyName": "arts-craft",
+          "Children": []
+        },
+        {
+          "NodeId": "1_18FCF83",
+          "Description": "Office Essentials",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_CAAEDBB",
+          "UrlFriendlyName": "office-essentials",
+          "Children": []
+        },
+        {
+          "NodeId": "1_E4379A8",
+          "Description": "Office Furniture",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_CAAEDBB",
+          "UrlFriendlyName": "office-furniture",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_BD834F5",
+      "Description": "Toys & Games",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_DEA3ED5",
+      "UrlFriendlyName": "toys-games",
+      "Children": [
+        {
+          "NodeId": "1_EDC71DD",
+          "Description": "Toys",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_BD834F5",
+          "UrlFriendlyName": "toys",
+          "Children": []
+        },
+        {
+          "NodeId": "1_8122752",
+          "Description": "Board Games & Puzzles",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_BD834F5",
+          "UrlFriendlyName": "board-games-puzzles",
+          "Children": []
+        },
+        {
+          "NodeId": "1_10FAD5B",
+          "Description": "Dolls & Action Figures",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_BD834F5",
+          "UrlFriendlyName": "dolls-action-figures",
+          "Children": []
+        },
+        {
+          "NodeId": "1_CAE016C",
+          "Description": "Sport & Outdoor Toys",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_BD834F5",
+          "UrlFriendlyName": "sport-outdoor-toys",
+          "Children": []
+        },
+        {
+          "NodeId": "1_BA3D2F5",
+          "Description": "Toy Cars & Trucks",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_BD834F5",
+          "UrlFriendlyName": "toy-cars-trucks",
+          "Children": []
+        },
+        {
+          "NodeId": "1_D0526DB",
+          "Description": "Model Building & Construction",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_BD834F5",
+          "UrlFriendlyName": "model-building-construction",
+          "Children": []
+        },
+        {
+          "NodeId": "1_3DED854",
+          "Description": "Educational & Early Learning",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_BD834F5",
+          "UrlFriendlyName": "educational-early-learning",
+          "Children": []
+        },
+        {
+          "NodeId": "1_57AF7E7",
+          "Description": "Electronic Toys",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_BD834F5",
+          "UrlFriendlyName": "electronic-toys",
+          "Children": []
+        },
+        {
+          "NodeId": "1_5D95D1A",
+          "Description": "Arts & Craft",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_BD834F5",
+          "UrlFriendlyName": "arts-craft",
+          "Children": []
+        },
+        {
+          "NodeId": "1_5407BCB",
+          "Description": "Dress Up & Costumes",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_BD834F5",
+          "UrlFriendlyName": "dress-up-costumes",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_0D0883E",
+      "Description": "Books & Magazines",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_DEA3ED5",
+      "UrlFriendlyName": "books-magazines",
+      "Children": [
+        {
+          "NodeId": "1_E7F32AA",
+          "Description": "Magazines",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_0D0883E",
+          "UrlFriendlyName": "magazines",
+          "Children": []
+        },
+        {
+          "NodeId": "1_66A4946",
+          "Description": "Children's",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_0D0883E",
+          "UrlFriendlyName": "children-s",
+          "Children": []
+        },
+        {
+          "NodeId": "1_43CF01C",
+          "Description": "Teens & Young Adults",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_0D0883E",
+          "UrlFriendlyName": "teens-young-adults",
+          "Children": []
+        },
+        {
+          "NodeId": "1_E2B21AA",
+          "Description": "Fiction & Literature",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_0D0883E",
+          "UrlFriendlyName": "fiction-literature",
+          "Children": []
+        },
+        {
+          "NodeId": "1_91C12B9",
+          "Description": "Non-Fiction",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_0D0883E",
+          "UrlFriendlyName": "non-fiction",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_003F162",
+      "Description": "Luggage & Travel",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_DEA3ED5",
+      "UrlFriendlyName": "luggage-travel",
+      "Children": [
+        {
+          "NodeId": "1_6987371",
+          "Description": "Suitcases",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_003F162",
+          "UrlFriendlyName": "suitcases",
+          "Children": []
+        },
+        {
+          "NodeId": "1_4637DC0",
+          "Description": "Travel Bags",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_003F162",
+          "UrlFriendlyName": "travel-bags",
+          "Children": []
+        },
+        {
+          "NodeId": "1_213AE3B",
+          "Description": "Travel Accessories",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_003F162",
+          "UrlFriendlyName": "travel-accessories",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_88E5B9D",
+      "Description": "Reusable Shopping Bags",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_DEA3ED5",
+      "UrlFriendlyName": "reusable-shopping-bags",
+      "Children": [
+        {
+          "NodeId": "1_0BA5B89",
+          "Description": "Bags",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_88E5B9D",
+          "UrlFriendlyName": "bags",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_9741CCD",
+      "Description": "Outdoor Living",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_DEA3ED5",
+      "UrlFriendlyName": "outdoor-living",
+      "Children": [
+        {
+          "NodeId": "1_1AFC7D8",
+          "Description": "Barbecues & Accessories",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_9741CCD",
+          "UrlFriendlyName": "barbecues-accessories",
+          "Children": []
+        },
+        {
+          "NodeId": "1_FC1EBB3",
+          "Description": "Picnicware",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_9741CCD",
+          "UrlFriendlyName": "picnicware",
+          "Children": []
+        },
+        {
+          "NodeId": "1_17C9606",
+          "Description": "Lighting",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_9741CCD",
+          "UrlFriendlyName": "lighting",
+          "Children": []
+        },
+        {
+          "NodeId": "1_D2B785A",
+          "Description": "Outdoor Structures & Shades",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_9741CCD",
+          "UrlFriendlyName": "outdoor-structures-shades",
+          "Children": []
+        },
+        {
+          "NodeId": "1_6E2AA61",
+          "Description": "Furniture & Heating",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_9741CCD",
+          "UrlFriendlyName": "furniture-heating",
+          "Children": []
+        },
+        {
+          "NodeId": "1_C9914A8",
+          "Description": "Pools, Spas & Saunas",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_9741CCD",
+          "UrlFriendlyName": "pools-spas-saunas",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_F510C0F",
+      "Description": "Everyday Market",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_DEA3ED5",
+      "UrlFriendlyName": "everyday-market",
+      "Children": [
+        {
+          "NodeId": "1_DB26DC6",
+          "Description": "Everyday Market Electronics",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_F510C0F",
+          "UrlFriendlyName": "everyday-market-electronics",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

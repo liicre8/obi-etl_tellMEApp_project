@@ -1,0 +1,78 @@
+{
+  "initStoreId": "0728",
+  "catalogGroupView": {
+    "id": "17490",
+    "level": 1,
+    "name": "Tobacco",
+    "originalName": "Tobacco",
+    "productCount": 294,
+    "seoToken": "tobacco",
+    "type": "CATALOG",
+    "subType": "CORE",
+    "catalogGroupView": [
+      {
+        "id": "17390",
+        "level": 2,
+        "name": "Tobacco, Cigarettes & Cigars",
+        "originalName": "Tobacco, Cigarettes & Cigars",
+        "productCount": 294,
+        "seoToken": "tobacco-cigarettes-cigars",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "17336",
+            "level": 3,
+            "name": "Cigarettes",
+            "originalName": "Cigarettes",
+            "productCount": 220,
+            "seoToken": "cigarettes",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "17359",
+            "level": 3,
+            "name": "Cigars",
+            "originalName": "Cigars",
+            "productCount": 11,
+            "seoToken": "cigars",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8903801",
+            "level": 3,
+            "name": "Lighters",
+            "originalName": "Lighters",
+            "productCount": 5,
+            "seoToken": "lighters",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "17372",
+            "level": 3,
+            "name": "Loose Tobacco",
+            "originalName": "Loose Tobacco",
+            "productCount": 35,
+            "seoToken": "loose-tobacco",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "17346",
+            "level": 3,
+            "name": "Papers & Filters",
+            "originalName": "Papers & Filters",
+            "productCount": 23,
+            "seoToken": "papers-filters",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      }
+    ],
+    "image": "https://www.coles.com.au/content/dam/coles/shop-categories/tobacco.png"
+  }
+}

@@ -1,0 +1,62 @@
+📝 GitHub Push to Private Repo (HTTPS + Token) – Notes
+✅ 1. Configure Git to Use Credential Manager
+Run this once:
+
+bash
+Copy
+Edit
+git config --global credential.helper manager-core
+This ensures Git will prompt for your GitHub username and token once only, then securely store it.
+
+✅ 2. Generate a Personal Access Token (PAT)
+Go to: https://github.com/settings/tokens
+
+Click "Generate new token (classic)"
+
+Set expiration (e.g., 90 days)
+
+Check the permission box:
+
+✅ repo (Full control of private repositories)
+
+Click Generate token
+
+🔐 Copy the token immediately (you won’t see it again)
+
+✅ 3. Add or Update the Remote
+If no remote exists:
+bash
+Copy
+Edit
+git remote add origin https://wilsdp@github.com/wilsdp/project-B.git
+Then set the URL with token:
+bash
+Copy
+Edit
+git remote set-url origin https://wilsdp:YOUR_TOKEN@github.com/wilsdp/project-B.git
+⚠️ Replace YOUR_TOKEN with your actual token
+
+✅ 4. Push Your Code
+Run:
+
+bash
+Copy
+Edit
+git push -u origin main
+Git will prompt:
+
+Username → wilsdp
+
+Password → paste your GitHub token
+
+Your token is now saved securely (thanks to step 1), and you won't need to enter it again.
+
+✅ 5. Confirm Remote (Optional)
+To verify:
+
+bash
+Copy
+Edit
+git remote -v
+You should see the correct remote set with your GitHub URL.
+

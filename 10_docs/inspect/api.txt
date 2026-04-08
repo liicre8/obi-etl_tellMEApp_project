@@ -1,0 +1,82 @@
+1. Get BUILDID by scraping the elements of coles - document.querySelector('#__NEXT_DATA__');
+   save in file as buildID as buidID.js inside on the file will like this
+   const colesBID = 20250429.8-1543111029197f4364d65065029367d7dc8bfc06;
+   const woolsBID =
+
+   module.exports = {
+    colesBID,
+    woolsBID,
+   };
+
+
+   in buildIDTracker.js another file as tracker on this Build ID of coles and wools store with a stamp of date when is this was collect or scrape
+const buildIdTracks= { 
+    Coles: [
+        "2025-05-02T15:30:11.103Z - 20250429.8-1543111029197f4364d65065029367d7dc8bfc06", 
+        
+    ],
+    Woolworths: [
+        "2025-05-01T14:11:42.887Z - 20250428.3-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", 
+       
+    ]
+  };
+  
+  module.exports = buildIdTracks;
+
+#this one is done https://prnt.sc/L6Fvr6bfzOPE
+2. Checking the Parent Categories
+
+3. Fetching the Parent Categories 
+npm run get:coles:parents
+  
+4. Checking the Categories using this link
+https://www.coles.com.au/_next/data/20250411.2-b318118d33147185028c8ee132c277f8598774fc/en/browse.json
+
+- this 20250411.2-b318118d33147185028c8ee132c277f8598774fc coming from the buidID.js
+
+
+
+
+
+
+For Categories Schema
+
+old: https://www.coles.com.au/_next/data/20250502.1-9a66a480c4037714755ad60ea851648c89b0fd7c/en/browse.json
+
+new: https://www.coles.com.au/_next/data/20250429.8-1543111029197f4364d65065029367d7dc8bfc06/en/browse.json
+
+
+Extension Category:
+https://www.coles.com.au/_next/data/20250411.2-b318118d33147185028c8ee132c277f8598774fc/en/browse/pet.json?slug=pet
+
+new: https://www.coles.com.au/_next/data/20250429.8-1543111029197f4364d65065029367d7dc8bfc06/en/browse/pet.json?slug=pet
+
+ChildID Category
+https://www.coles.com.au/_next/data/20250411.2-b318118d33147185028c8ee132c277f8598774fc/en/browse/pet/birds/bird-treats.json?slug=pet&slug=birds&slug=bird-treats
+
+
+<script id="__NEXT_DATA__" type="application/json">
+{
+  "buildId":"20250411.2-b318118d33147185028c8ee132c277f8598774fc",
+  ...
+}
+</script>
+
+
+
+
+
+https://www.coles.com.au/_next/data/20250429.8-1543111029197f4364d65065029367d7dc8bfc06/en/browse/pantry.json?slug=pantry
+
+
+
+
+
+WOOLS
+https://www.woolworths.com.au/apis/ui/browse/category
+
+
+https://www.woolworths.com.au/apis/ui/products/693170,270580,803943,4378,97237,33593,6000252,89121,957684,46795,46645,236288
+
+
+https://www.woolworths.com.au/shop/__embedded/browse/bakery

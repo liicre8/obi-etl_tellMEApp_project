@@ -1,0 +1,398 @@
+{
+  "NodeId": "1_8AD6702",
+  "Description": "Meal Occasions",
+  "NodeLevel": 1,
+  "ParentNodeId": "1-4A3B264C",
+  "UrlFriendlyName": "meal-occasions",
+  "Children": [
+    {
+      "NodeId": "1_9B67F16",
+      "Description": "Pre-prepared",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_8AD6702",
+      "UrlFriendlyName": "pre-prepared",
+      "Children": [
+        {
+          "NodeId": "1_6A9DD2F",
+          "Description": "Crumbed",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_9B67F16",
+          "UrlFriendlyName": "crumbed",
+          "Children": []
+        },
+        {
+          "NodeId": "1_6D35602",
+          "Description": "Burgers, Rissoles & Meatballs",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_9B67F16",
+          "UrlFriendlyName": "burgers-rissoles-meatballs",
+          "Children": []
+        },
+        {
+          "NodeId": "1_2E9949F",
+          "Description": "Sausages",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_9B67F16",
+          "UrlFriendlyName": "sausages",
+          "Children": []
+        },
+        {
+          "NodeId": "1_50C4FF0",
+          "Description": "Marinated Protein",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_9B67F16",
+          "UrlFriendlyName": "marinated-protein",
+          "Children": []
+        },
+        {
+          "NodeId": "1_652039E",
+          "Description": "Roasts",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_9B67F16",
+          "UrlFriendlyName": "roasts",
+          "Children": []
+        },
+        {
+          "NodeId": "1_A4ACBF9",
+          "Description": "Washed & Cut Veg",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_9B67F16",
+          "UrlFriendlyName": "washed-cut-veg",
+          "Children": []
+        },
+        {
+          "NodeId": "1_B75002A",
+          "Description": "Salad Kits & Bags",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_9B67F16",
+          "UrlFriendlyName": "salad-kits-bags",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_694080F",
+      "Description": "Ready to Cook",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_8AD6702",
+      "UrlFriendlyName": "ready-to-cook",
+      "Children": [
+        {
+          "NodeId": "1_2215F31",
+          "Description": "BBQ Ready",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_694080F",
+          "UrlFriendlyName": "bbq-ready",
+          "Children": []
+        },
+        {
+          "NodeId": "1_546150A",
+          "Description": "Cook Range",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_694080F",
+          "UrlFriendlyName": "cook-range",
+          "Children": []
+        },
+        {
+          "NodeId": "1_3D6E237",
+          "Description": "Trays & Bakes",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_694080F",
+          "UrlFriendlyName": "trays-bakes",
+          "Children": []
+        },
+        {
+          "NodeId": "1_CC8DFFB",
+          "Description": "Wok & Pan",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_694080F",
+          "UrlFriendlyName": "wok-pan",
+          "Children": []
+        },
+        {
+          "NodeId": "1_7C5B573",
+          "Description": "Pizza",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_694080F",
+          "UrlFriendlyName": "pizza",
+          "Children": []
+        },
+        {
+          "NodeId": "1_21B4E14",
+          "Description": "Fresh Pasta & Sauces",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_694080F",
+          "UrlFriendlyName": "fresh-pasta-sauces",
+          "Children": []
+        },
+        {
+          "NodeId": "1_F906262",
+          "Description": "Starters & Sides",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_694080F",
+          "UrlFriendlyName": "starters-sides",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_C97F586",
+      "Description": "Ready to Eat",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_8AD6702",
+      "UrlFriendlyName": "ready-to-eat",
+      "Children": [
+        {
+          "NodeId": "1_CEC98D7",
+          "Description": "Fresh Soups",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_C97F586",
+          "UrlFriendlyName": "fresh-soups",
+          "Children": []
+        },
+        {
+          "NodeId": "1_884D977",
+          "Description": "Air Fryer Ready",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_C97F586",
+          "UrlFriendlyName": "air-fryer-ready",
+          "Children": []
+        },
+        {
+          "NodeId": "1_7E285F6",
+          "Description": "Microwave Ready",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_C97F586",
+          "UrlFriendlyName": "microwave-ready",
+          "Children": []
+        },
+        {
+          "NodeId": "1_33DC10A",
+          "Description": "Oven Ready",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_C97F586",
+          "UrlFriendlyName": "oven-ready",
+          "Children": []
+        },
+        {
+          "NodeId": "1_756E29D",
+          "Description": "Italian",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_C97F586",
+          "UrlFriendlyName": "italian",
+          "Children": []
+        },
+        {
+          "NodeId": "1_B58F78E",
+          "Description": "Asian",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_C97F586",
+          "UrlFriendlyName": "asian",
+          "Children": []
+        },
+        {
+          "NodeId": "1_A624D56",
+          "Description": "Indian",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_C97F586",
+          "UrlFriendlyName": "indian",
+          "Children": []
+        },
+        {
+          "NodeId": "1_F22CCC0",
+          "Description": "Classics & More Cuisines",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_C97F586",
+          "UrlFriendlyName": "classics-more-cuisines",
+          "Children": []
+        },
+        {
+          "NodeId": "1_BB94A3A",
+          "Description": "Vegan & Vegetarian",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_C97F586",
+          "UrlFriendlyName": "vegan-vegetarian",
+          "Children": []
+        },
+        {
+          "NodeId": "1_E1154FB",
+          "Description": "Health Meal Options",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_C97F586",
+          "UrlFriendlyName": "health-meal-options",
+          "Children": []
+        },
+        {
+          "NodeId": "1_CF718A5",
+          "Description": "High Protein",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_C97F586",
+          "UrlFriendlyName": "high-protein",
+          "Children": []
+        },
+        {
+          "NodeId": "1_6C1B2B7",
+          "Description": "Quiches & Pies",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_C97F586",
+          "UrlFriendlyName": "quiches-pies",
+          "Children": []
+        },
+        {
+          "NodeId": "1_A33A249",
+          "Description": "Prepared Salads & Bowls",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_C97F586",
+          "UrlFriendlyName": "prepared-salads-bowls",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_441EB4C",
+      "Description": "Breakfast",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_8AD6702",
+      "UrlFriendlyName": "breakfast",
+      "Children": [
+        {
+          "NodeId": "1_B5CEF39",
+          "Description": "Breakfast Bars & Drinks",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_441EB4C",
+          "UrlFriendlyName": "breakfast-bars-drinks",
+          "Children": []
+        },
+        {
+          "NodeId": "1_7CEF916",
+          "Description": "Muesli, Porridge & Oats",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_441EB4C",
+          "UrlFriendlyName": "muesli-porridge-oats",
+          "Children": []
+        },
+        {
+          "NodeId": "1_A632AF3",
+          "Description": "Smoothies & Juices",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_441EB4C",
+          "UrlFriendlyName": "smoothies-juices",
+          "Children": []
+        },
+        {
+          "NodeId": "1_7E710B8",
+          "Description": "Health Shots & Drinks",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_441EB4C",
+          "UrlFriendlyName": "health-shots-drinks",
+          "Children": []
+        },
+        {
+          "NodeId": "1_D518B86",
+          "Description": "Breads & Bagels",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_441EB4C",
+          "UrlFriendlyName": "breads-bagels",
+          "Children": []
+        },
+        {
+          "NodeId": "1_7C55232",
+          "Description": "Muffins & Pastries",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_441EB4C",
+          "UrlFriendlyName": "muffins-pastries",
+          "Children": []
+        },
+        {
+          "NodeId": "1_878DD2A",
+          "Description": "Pancakes",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_441EB4C",
+          "UrlFriendlyName": "pancakes",
+          "Children": []
+        },
+        {
+          "NodeId": "1_36C2D68",
+          "Description": "Breakfast Protein",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_441EB4C",
+          "UrlFriendlyName": "breakfast-protein",
+          "Children": []
+        },
+        {
+          "NodeId": "1_92D2F9F",
+          "Description": "Ricotta, Cottage & Cream Cheese",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_441EB4C",
+          "UrlFriendlyName": "ricotta-cottage-cream-cheese",
+          "Children": []
+        },
+        {
+          "NodeId": "1_BCB2625",
+          "Description": "Yoghurt Pots & Pouches",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_441EB4C",
+          "UrlFriendlyName": "yoghurt-pots-pouches",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_9212B67",
+      "Description": "Desserts",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_8AD6702",
+      "UrlFriendlyName": "desserts",
+      "Children": [
+        {
+          "NodeId": "1_73EBB60",
+          "Description": "Cakes",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_9212B67",
+          "UrlFriendlyName": "cakes",
+          "Children": []
+        },
+        {
+          "NodeId": "1_A37EEA3",
+          "Description": "Donuts & Cookies",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_9212B67",
+          "UrlFriendlyName": "donuts-cookies",
+          "Children": []
+        },
+        {
+          "NodeId": "1_4BC3AE1",
+          "Description": "Pies & Tarts",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_9212B67",
+          "UrlFriendlyName": "pies-tarts",
+          "Children": []
+        },
+        {
+          "NodeId": "1_680D549",
+          "Description": "Creams, Custards & Puddings",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_9212B67",
+          "UrlFriendlyName": "creams-custards-puddings",
+          "Children": []
+        },
+        {
+          "NodeId": "1_605434A",
+          "Description": "Ice Cream & Toppings",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_9212B67",
+          "UrlFriendlyName": "ice-cream-toppings",
+          "Children": []
+        },
+        {
+          "NodeId": "1_79D3830",
+          "Description": "Frozen Desserts",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_9212B67",
+          "UrlFriendlyName": "frozen-desserts",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

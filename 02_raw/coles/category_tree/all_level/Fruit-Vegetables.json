@@ -1,0 +1,636 @@
+{
+  "id": "2100",
+  "level": 1,
+  "originalName": "Fruit & Vegetables",
+  "seoToken": "fruit-vegetables",
+  "subType": "CORE",
+  "catalogGroupView": [
+    {
+      "id": "1302",
+      "level": 2,
+      "originalName": "Fruit",
+      "seoToken": "fruit",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "1310",
+          "level": 3,
+          "originalName": "Apples",
+          "seoToken": "apples",
+          "subType": "CORE"
+        },
+        {
+          "id": "8891811",
+          "level": 3,
+          "originalName": "Avocados",
+          "seoToken": "avocados",
+          "subType": "CORE"
+        },
+        {
+          "id": "1700",
+          "level": 3,
+          "originalName": "Bananas",
+          "seoToken": "bananas",
+          "subType": "CORE"
+        },
+        {
+          "id": "1701",
+          "level": 3,
+          "originalName": "Berries & Cherries",
+          "seoToken": "berries-cherries",
+          "subType": "CORE"
+        },
+        {
+          "id": "1720",
+          "level": 3,
+          "originalName": "Coconuts",
+          "seoToken": "coconuts",
+          "subType": "CORE"
+        },
+        {
+          "id": "1722",
+          "level": 3,
+          "originalName": "Cut Fruit",
+          "seoToken": "cut-fruit",
+          "subType": "CORE"
+        },
+        {
+          "id": "3107",
+          "level": 3,
+          "originalName": "Grapefruit",
+          "seoToken": "grapefruit",
+          "subType": "CORE"
+        },
+        {
+          "id": "1702",
+          "level": 3,
+          "originalName": "Grapes",
+          "seoToken": "grapes",
+          "subType": "CORE"
+        },
+        {
+          "id": "1708",
+          "level": 3,
+          "originalName": "Kiwi Fruit",
+          "seoToken": "kiwi-fruit",
+          "subType": "CORE"
+        },
+        {
+          "id": "3109",
+          "level": 3,
+          "originalName": "Lemons & Limes",
+          "seoToken": "lemons-limes",
+          "subType": "CORE"
+        },
+        {
+          "id": "3108",
+          "level": 3,
+          "originalName": "Mandarins",
+          "seoToken": "mandarins",
+          "subType": "CORE"
+        },
+        {
+          "id": "1707",
+          "level": 3,
+          "originalName": "Melons",
+          "seoToken": "melons",
+          "subType": "CORE"
+        },
+        {
+          "id": "1703",
+          "level": 3,
+          "originalName": "Oranges",
+          "seoToken": "oranges",
+          "subType": "CORE"
+        },
+        {
+          "id": "1309",
+          "level": 3,
+          "originalName": "Organic Fruit",
+          "seoToken": "organic-fruit",
+          "subType": "CORE"
+        },
+        {
+          "id": "1705",
+          "level": 3,
+          "originalName": "Passionfruit",
+          "seoToken": "passionfruit",
+          "subType": "CORE"
+        },
+        {
+          "id": "1311",
+          "level": 3,
+          "originalName": "Pears",
+          "seoToken": "pears",
+          "subType": "CORE"
+        },
+        {
+          "id": "1704",
+          "level": 3,
+          "originalName": "Pineapples",
+          "seoToken": "pineapples",
+          "subType": "CORE"
+        },
+        {
+          "id": "1721",
+          "level": 3,
+          "originalName": "Tropical & Exotic Fruit",
+          "seoToken": "tropical-exotic-fruit",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "1303",
+      "level": 2,
+      "originalName": "Vegetables",
+      "seoToken": "vegetables",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "897984",
+          "level": 3,
+          "originalName": "Asian Greens",
+          "seoToken": "asian-greens",
+          "subType": "CORE"
+        },
+        {
+          "id": "789146",
+          "level": 3,
+          "originalName": "Asparagus, Fennel & Artichokes",
+          "seoToken": "asparagus-fennel-artichokes",
+          "subType": "CORE"
+        },
+        {
+          "id": "879456",
+          "level": 3,
+          "originalName": "Beetroot",
+          "seoToken": "beetroot",
+          "subType": "CORE"
+        },
+        {
+          "id": "549876",
+          "level": 3,
+          "originalName": "Broccoli & Cauliflower",
+          "seoToken": "broccoli-cauliflower",
+          "subType": "CORE"
+        },
+        {
+          "id": "789464",
+          "level": 3,
+          "originalName": "Cabbage, Kale & Brussel Sprouts",
+          "seoToken": "cabbage-kale-brussel-sprouts",
+          "subType": "CORE"
+        },
+        {
+          "id": "478946",
+          "level": 3,
+          "originalName": "Capsicum",
+          "seoToken": "capsicum",
+          "subType": "CORE"
+        },
+        {
+          "id": "541654",
+          "level": 3,
+          "originalName": "Carrots & Parsnips",
+          "seoToken": "carrots-parsnips",
+          "subType": "CORE"
+        },
+        {
+          "id": "7594946",
+          "level": 3,
+          "originalName": "Celery",
+          "seoToken": "celery",
+          "subType": "CORE"
+        },
+        {
+          "id": "35546754",
+          "level": 3,
+          "originalName": "Corn",
+          "seoToken": "corn",
+          "subType": "CORE"
+        },
+        {
+          "id": "564657",
+          "level": 3,
+          "originalName": "Cucumber",
+          "seoToken": "cucumber",
+          "subType": "CORE"
+        },
+        {
+          "id": "57916",
+          "level": 3,
+          "originalName": "Eggplant",
+          "seoToken": "eggplant",
+          "subType": "CORE"
+        },
+        {
+          "id": "579846",
+          "level": 3,
+          "originalName": "Garlic & Ginger",
+          "seoToken": "garlic-ginger",
+          "subType": "CORE"
+        },
+        {
+          "id": "1313",
+          "level": 3,
+          "originalName": "Lettuce",
+          "seoToken": "lettuce",
+          "subType": "CORE"
+        },
+        {
+          "id": "881346",
+          "level": 3,
+          "originalName": "Mashed & Cut Vegetables",
+          "seoToken": "mashed-cut-vegetables",
+          "subType": "CORE"
+        },
+        {
+          "id": "545641",
+          "level": 3,
+          "originalName": "Mushrooms",
+          "seoToken": "mushrooms",
+          "subType": "CORE"
+        },
+        {
+          "id": "646512",
+          "level": 3,
+          "originalName": "Onion & Leeks",
+          "seoToken": "onion-leeks",
+          "subType": "CORE"
+        },
+        {
+          "id": "879564",
+          "level": 3,
+          "originalName": "Organic Vegetables",
+          "seoToken": "organic-vegetables",
+          "subType": "CORE"
+        },
+        {
+          "id": "637948",
+          "level": 3,
+          "originalName": "Peas & Beans",
+          "seoToken": "peas-beans",
+          "subType": "CORE"
+        },
+        {
+          "id": "545475",
+          "level": 3,
+          "originalName": "Potatoes",
+          "seoToken": "potatoes",
+          "subType": "CORE"
+        },
+        {
+          "id": "454676",
+          "level": 3,
+          "originalName": "Pumpkin",
+          "seoToken": "pumpkin",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892200",
+          "level": 3,
+          "originalName": "Rhubarb",
+          "seoToken": "rhubarb",
+          "subType": "CORE"
+        },
+        {
+          "id": "4897465",
+          "level": 3,
+          "originalName": "Spinach & Silverbeet",
+          "seoToken": "spinach-silverbeet",
+          "subType": "CORE"
+        },
+        {
+          "id": "465794",
+          "level": 3,
+          "originalName": "Tomatoes",
+          "seoToken": "tomatoes",
+          "subType": "CORE"
+        },
+        {
+          "id": "576791",
+          "level": 3,
+          "originalName": "Turnips & Root Vegetables",
+          "seoToken": "turnips-root-vegetables",
+          "subType": "CORE"
+        },
+        {
+          "id": "215676",
+          "level": 3,
+          "originalName": "Zucchini & Squash",
+          "seoToken": "zucchini-squash",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "699689408",
+      "level": 2,
+      "originalName": "Best of Winter",
+      "seoToken": "best-of-winter",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "699689418",
+          "level": 3,
+          "originalName": "Fruit",
+          "seoToken": "fruit",
+          "subType": "CORE"
+        },
+        {
+          "id": "699689507",
+          "level": 3,
+          "originalName": "Vegetables",
+          "seoToken": "vegetables",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "1723",
+      "level": 2,
+      "originalName": "Nuts & Dried Fruit",
+      "seoToken": "nuts-dried-fruit",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892404",
+          "level": 3,
+          "originalName": "Almonds",
+          "seoToken": "almonds",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892406",
+          "level": 3,
+          "originalName": "Cashews",
+          "seoToken": "cashews",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892411",
+          "level": 3,
+          "originalName": "Dates",
+          "seoToken": "dates",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892412",
+          "level": 3,
+          "originalName": "Dried Fruit",
+          "seoToken": "dried-fruit",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892409",
+          "level": 3,
+          "originalName": "Mixed Fruit & Nuts",
+          "seoToken": "mixed-fruit-nuts",
+          "subType": "CORE"
+        },
+        {
+          "id": "1312",
+          "level": 3,
+          "originalName": "Nuts",
+          "seoToken": "nuts",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892410",
+          "level": 3,
+          "originalName": "Other Nuts",
+          "seoToken": "other-nuts",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892407",
+          "level": 3,
+          "originalName": "Peanuts",
+          "seoToken": "peanuts",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892408",
+          "level": 3,
+          "originalName": "Pistachio",
+          "seoToken": "pistachio",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892413",
+          "level": 3,
+          "originalName": "Pretzels & Party Mixes",
+          "seoToken": "pretzels-party-mixes",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892201",
+      "level": 2,
+      "originalName": "Organic Fruits & Vegetables",
+      "seoToken": "organic-fruits-vegetables",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892202",
+          "level": 3,
+          "originalName": "Organic Fruits",
+          "seoToken": "organic-fruits",
+          "subType": "CORE"
+        },
+        {
+          "id": "772636655",
+          "level": 3,
+          "originalName": "Organic Salad Mix",
+          "seoToken": "organic-salad-mix",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892203",
+          "level": 3,
+          "originalName": "Organic Vegetables",
+          "seoToken": "organic-vegetables",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8893800",
+      "level": 2,
+      "originalName": "Packaged Salad",
+      "seoToken": "packaged-salad",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8893803",
+          "level": 3,
+          "originalName": "Lettuce & Mixed Leaf",
+          "seoToken": "lettuce-mixed-leaf",
+          "subType": "CORE"
+        },
+        {
+          "id": "8905200",
+          "level": 3,
+          "originalName": "Salad Bowls",
+          "seoToken": "salad-bowls",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893802",
+          "level": 3,
+          "originalName": "Salads Dressed",
+          "seoToken": "salads-dressed",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893805",
+          "level": 3,
+          "originalName": "Sauces & Salad Dressing",
+          "seoToken": "sauces-salad-dressing",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893801",
+          "level": 3,
+          "originalName": "Slaws & Salad Kits",
+          "seoToken": "slaws-salad-kits",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8894601",
+      "level": 2,
+      "originalName": "Prepared Vegetable",
+      "seoToken": "prepared-vegetable",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8914801",
+          "level": 3,
+          "originalName": "Airfryer",
+          "seoToken": "airfryer",
+          "subType": "CORE"
+        },
+        {
+          "id": "8894602",
+          "level": 3,
+          "originalName": "Carb Clever Veggies",
+          "seoToken": "carb-clever-veggies",
+          "subType": "CORE"
+        },
+        {
+          "id": "8894603",
+          "level": 3,
+          "originalName": "Ready To Steam & Roast",
+          "seoToken": "ready-to-steam-roast",
+          "subType": "CORE"
+        },
+        {
+          "id": "8894604",
+          "level": 3,
+          "originalName": "Stir-Fry Veggie & Sauce",
+          "seoToken": "stir-fry-veggie-sauce",
+          "subType": "CORE"
+        },
+        {
+          "id": "8894605",
+          "level": 3,
+          "originalName": "Trimmed & Cut Veggies",
+          "seoToken": "trimmed-cut-veggies",
+          "subType": "CORE"
+        },
+        {
+          "id": "8914800",
+          "level": 3,
+          "originalName": "Veggie Powder",
+          "seoToken": "veggie-powder",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "1304",
+      "level": 2,
+      "originalName": "Salad & Herbs",
+      "seoToken": "salad-herbs",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "74564",
+          "level": 3,
+          "originalName": "Herbs & Chillies",
+          "seoToken": "herbs-chillies",
+          "subType": "CORE"
+        },
+        {
+          "id": "89495",
+          "level": 3,
+          "originalName": "Sprouts",
+          "seoToken": "sprouts",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892415",
+      "level": 2,
+      "originalName": "Scoop & Weigh",
+      "seoToken": "scoop-weigh",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892416",
+          "level": 3,
+          "originalName": "Almond",
+          "seoToken": "almond",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892417",
+          "level": 3,
+          "originalName": "Cashew",
+          "seoToken": "cashew",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892418",
+          "level": 3,
+          "originalName": "Dry Fruits",
+          "seoToken": "dry-fruits",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892419",
+          "level": 3,
+          "originalName": "Macadamia, Hazelnuts & Pecans",
+          "seoToken": "macadamia-hazelnuts-pecans",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892420",
+          "level": 3,
+          "originalName": "Mixed Scoop & Weigh",
+          "seoToken": "mixed-scoop-weigh",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892422",
+          "level": 3,
+          "originalName": "Other Scoop & Weigh",
+          "seoToken": "other-scoop-weigh",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892421",
+          "level": 3,
+          "originalName": "Walnuts, Pistachio & Peanut",
+          "seoToken": "walnuts-pistachio-peanut",
+          "subType": "CORE"
+        }
+      ]
+    }
+  ]
+}

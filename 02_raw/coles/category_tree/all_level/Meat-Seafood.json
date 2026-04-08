@@ -1,0 +1,577 @@
+{
+  "id": "7238",
+  "level": 1,
+  "originalName": "Meat & Seafood",
+  "seoToken": "meat-seafood",
+  "subType": "CORE",
+  "catalogGroupView": [
+    {
+      "id": "8892656",
+      "level": 2,
+      "originalName": "Bbq, Sausages & Burgers",
+      "seoToken": "bbq-sausages-burgers",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892658",
+          "level": 3,
+          "originalName": "Burgers & Rissoles",
+          "seoToken": "burgers-rissoles",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892659",
+          "level": 3,
+          "originalName": "Kebabs",
+          "seoToken": "kebabs",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892660",
+          "level": 3,
+          "originalName": "Meatballs",
+          "seoToken": "meatballs",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892661",
+          "level": 3,
+          "originalName": "Sausage Mince",
+          "seoToken": "sausage-mince",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892662",
+          "level": 3,
+          "originalName": "Sausages",
+          "seoToken": "sausages",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892621",
+      "level": 2,
+      "originalName": "Beef & Veal",
+      "seoToken": "beef-veal",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892622",
+          "level": 3,
+          "originalName": "Beef & Veal Mince",
+          "seoToken": "beef-veal-mince",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892623",
+          "level": 3,
+          "originalName": "Beef Bones & Offal",
+          "seoToken": "beef-bones-offal",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892624",
+          "level": 3,
+          "originalName": "Beef Roasts",
+          "seoToken": "beef-roasts",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892625",
+          "level": 3,
+          "originalName": "Beef Steaks",
+          "seoToken": "beef-steaks",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892626",
+          "level": 3,
+          "originalName": "Crumbed Beef",
+          "seoToken": "crumbed-beef",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892627",
+          "level": 3,
+          "originalName": "Graze Beef",
+          "seoToken": "graze-beef",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892629",
+          "level": 3,
+          "originalName": "Slow Cook & Casserole Beef",
+          "seoToken": "slow-cook-casserole-beef",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892630",
+          "level": 3,
+          "originalName": "Stir Fry & Diced Beef",
+          "seoToken": "stir-fry-diced-beef",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892631",
+          "level": 3,
+          "originalName": "Veal",
+          "seoToken": "veal",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892679",
+      "level": 2,
+      "originalName": "Coles Made Easy Range",
+      "seoToken": "coles-made-easy-range",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892680",
+          "level": 3,
+          "originalName": "Easy Meals",
+          "seoToken": "easy-meals",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892681",
+          "level": 3,
+          "originalName": "Grill",
+          "seoToken": "grill",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892682",
+          "level": 3,
+          "originalName": "Pastry",
+          "seoToken": "pastry",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892683",
+          "level": 3,
+          "originalName": "Slow Cook",
+          "seoToken": "slow-cook",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892689",
+      "level": 2,
+      "originalName": "Game",
+      "seoToken": "game",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892690",
+          "level": 3,
+          "originalName": "Kangaroo",
+          "seoToken": "kangaroo",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892691",
+          "level": 3,
+          "originalName": "Other Game",
+          "seoToken": "other-game",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892632",
+      "level": 2,
+      "originalName": "Ham",
+      "seoToken": "ham",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892636",
+          "level": 3,
+          "originalName": "Ham Portions",
+          "seoToken": "ham-portions",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892637",
+          "level": 3,
+          "originalName": "Ham Shoulder & Steaks",
+          "seoToken": "ham-shoulder-steaks",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892638",
+      "level": 2,
+      "originalName": "Lamb",
+      "seoToken": "lamb",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892642",
+          "level": 3,
+          "originalName": "Diced Lamb",
+          "seoToken": "diced-lamb",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892639",
+          "level": 3,
+          "originalName": "Graze Grass-Fed Lamb",
+          "seoToken": "graze-grass-fed-lamb",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892640",
+          "level": 3,
+          "originalName": "Lamb Chops",
+          "seoToken": "lamb-chops",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892641",
+          "level": 3,
+          "originalName": "Lamb Cutlets",
+          "seoToken": "lamb-cutlets",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892643",
+          "level": 3,
+          "originalName": "Lamb Offal",
+          "seoToken": "lamb-offal",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892644",
+          "level": 3,
+          "originalName": "Lamb Roasts",
+          "seoToken": "lamb-roasts",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892645",
+          "level": 3,
+          "originalName": "Lamb Shanks",
+          "seoToken": "lamb-shanks",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892646",
+          "level": 3,
+          "originalName": "Lamb Steak",
+          "seoToken": "lamb-steak",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892664",
+      "level": 2,
+      "originalName": "Mince",
+      "seoToken": "mince",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892665",
+          "level": 3,
+          "originalName": "Beef & Veal Mince",
+          "seoToken": "beef-veal-mince",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892666",
+          "level": 3,
+          "originalName": "Chicken & Turkey Mince",
+          "seoToken": "chicken-turkey-mince",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892667",
+          "level": 3,
+          "originalName": "Kangaroo & Wallaby Mince",
+          "seoToken": "kangaroo-wallaby-mince",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892668",
+          "level": 3,
+          "originalName": "Lamb Mince",
+          "seoToken": "lamb-mince",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892669",
+          "level": 3,
+          "originalName": "Pork Mince",
+          "seoToken": "pork-mince",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892670",
+          "level": 3,
+          "originalName": "Sausage Mince",
+          "seoToken": "sausage-mince",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892684",
+      "level": 2,
+      "originalName": "Organic Meat",
+      "seoToken": "organic-meat",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892685",
+          "level": 3,
+          "originalName": "Organic Beef",
+          "seoToken": "organic-beef",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892686",
+          "level": 3,
+          "originalName": "Organic Lamb",
+          "seoToken": "organic-lamb",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892687",
+          "level": 3,
+          "originalName": "Organic Poultry",
+          "seoToken": "organic-poultry",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892688",
+          "level": 3,
+          "originalName": "Organic Sausages & Meatballs",
+          "seoToken": "organic-sausages-meatballs",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892647",
+      "level": 2,
+      "originalName": "Pork",
+      "seoToken": "pork",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892649",
+          "level": 3,
+          "originalName": "Free Range Pork",
+          "seoToken": "free-range-pork",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892650",
+          "level": 3,
+          "originalName": "Pork Chops",
+          "seoToken": "pork-chops",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892651",
+          "level": 3,
+          "originalName": "Pork Marinade",
+          "seoToken": "pork-marinade",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892652",
+          "level": 3,
+          "originalName": "Pork Mince",
+          "seoToken": "pork-mince",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892653",
+          "level": 3,
+          "originalName": "Pork Ribs",
+          "seoToken": "pork-ribs",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892654",
+          "level": 3,
+          "originalName": "Pork Roasts",
+          "seoToken": "pork-roasts",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892655",
+          "level": 3,
+          "originalName": "Pork Steaks",
+          "seoToken": "pork-steaks",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892602",
+      "level": 2,
+      "originalName": "Poultry",
+      "seoToken": "poultry",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892603",
+          "level": 3,
+          "originalName": "Breast Fillets",
+          "seoToken": "breast-fillets",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892604",
+          "level": 3,
+          "originalName": "Chicken Offal",
+          "seoToken": "chicken-offal",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892606",
+          "level": 3,
+          "originalName": "Chicken Wings",
+          "seoToken": "chicken-wings",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892607",
+          "level": 3,
+          "originalName": "Crumbed Chicken",
+          "seoToken": "crumbed-chicken",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892608",
+          "level": 3,
+          "originalName": "Diced, Stir-Fry & Tenders",
+          "seoToken": "diced-stir-fry-tenders",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892609",
+          "level": 3,
+          "originalName": "Drumsticks & Maryland",
+          "seoToken": "drumsticks-maryland",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892616",
+          "level": 3,
+          "originalName": "Duck",
+          "seoToken": "duck",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892611",
+          "level": 3,
+          "originalName": "Free Range Chicken",
+          "seoToken": "free-range-chicken",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892612",
+          "level": 3,
+          "originalName": "Kebabs & Bites",
+          "seoToken": "kebabs-bites",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892804",
+          "level": 3,
+          "originalName": "Marinated & Roast Chicken",
+          "seoToken": "marinated-roast-chicken",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892620",
+          "level": 3,
+          "originalName": "Poultry Deli",
+          "seoToken": "poultry-deli",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892614",
+          "level": 3,
+          "originalName": "Thigh Fillets",
+          "seoToken": "thigh-fillets",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892618",
+          "level": 3,
+          "originalName": "Turkey",
+          "seoToken": "turkey",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892615",
+          "level": 3,
+          "originalName": "Whole Chicken",
+          "seoToken": "whole-chicken",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892671",
+      "level": 2,
+      "originalName": "Seafood",
+      "seoToken": "seafood",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892672",
+          "level": 3,
+          "originalName": "Deli Crab & Lobster",
+          "seoToken": "deli-crab-lobster",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892673",
+          "level": 3,
+          "originalName": "Deli Fish",
+          "seoToken": "deli-fish",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892674",
+          "level": 3,
+          "originalName": "Deli Marinara Mix And Other Seafood",
+          "seoToken": "deli-marinara-mix-and-other-seafood",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892676",
+          "level": 3,
+          "originalName": "Deli Prawns",
+          "seoToken": "deli-prawns",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892677",
+          "level": 3,
+          "originalName": "Prepacked Seafood",
+          "seoToken": "prepacked-seafood",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892678",
+          "level": 3,
+          "originalName": "Smoked And Cured Fish",
+          "seoToken": "smoked-and-cured-fish",
+          "subType": "CORE"
+        }
+      ]
+    }
+  ]
+}

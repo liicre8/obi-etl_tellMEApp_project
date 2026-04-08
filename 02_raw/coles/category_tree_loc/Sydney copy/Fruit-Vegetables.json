@@ -1,0 +1,874 @@
+{
+  "initStoreId": "0728",
+  "catalogGroupView": {
+    "id": "2100",
+    "level": 1,
+    "name": "Fruit & Vegetables",
+    "originalName": "Fruit & Vegetables",
+    "productCount": 540,
+    "seoToken": "fruit-vegetables",
+    "type": "CATALOG",
+    "subType": "CORE",
+    "catalogGroupView": [
+      {
+        "id": "1302",
+        "level": 2,
+        "name": "Fruit",
+        "originalName": "Fruit",
+        "productCount": 94,
+        "seoToken": "fruit",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "1310",
+            "level": 3,
+            "name": "Apples",
+            "originalName": "Apples",
+            "productCount": 17,
+            "seoToken": "apples",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8891811",
+            "level": 3,
+            "name": "Avocados",
+            "originalName": "Avocados",
+            "productCount": 4,
+            "seoToken": "avocados",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "1700",
+            "level": 3,
+            "name": "Bananas",
+            "originalName": "Bananas",
+            "productCount": 6,
+            "seoToken": "bananas",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "1701",
+            "level": 3,
+            "name": "Berries & Cherries",
+            "originalName": "Berries & Cherries",
+            "productCount": 7,
+            "seoToken": "berries-cherries",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "1720",
+            "level": 3,
+            "name": "Coconuts",
+            "originalName": "Coconuts",
+            "productCount": 2,
+            "seoToken": "coconuts",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "1722",
+            "level": 3,
+            "name": "Cut Fruit",
+            "originalName": "Cut Fruit",
+            "productCount": 4,
+            "seoToken": "cut-fruit",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "3107",
+            "level": 3,
+            "name": "Grapefruit",
+            "originalName": "Grapefruit",
+            "productCount": 1,
+            "seoToken": "grapefruit",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "1702",
+            "level": 3,
+            "name": "Grapes",
+            "originalName": "Grapes",
+            "productCount": 3,
+            "seoToken": "grapes",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "1708",
+            "level": 3,
+            "name": "Kiwi Fruit",
+            "originalName": "Kiwi Fruit",
+            "productCount": 4,
+            "seoToken": "kiwi-fruit",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "3109",
+            "level": 3,
+            "name": "Lemons & Limes",
+            "originalName": "Lemons & Limes",
+            "productCount": 7,
+            "seoToken": "lemons-limes",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "3108",
+            "level": 3,
+            "name": "Mandarins",
+            "originalName": "Mandarins",
+            "productCount": 6,
+            "seoToken": "mandarins",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "1707",
+            "level": 3,
+            "name": "Melons",
+            "originalName": "Melons",
+            "productCount": 6,
+            "seoToken": "melons",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "1703",
+            "level": 3,
+            "name": "Oranges",
+            "originalName": "Oranges",
+            "productCount": 6,
+            "seoToken": "oranges",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "1309",
+            "level": 3,
+            "name": "Organic Fruit",
+            "originalName": "Organic Fruit",
+            "productCount": 6,
+            "seoToken": "organic-fruit",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "1705",
+            "level": 3,
+            "name": "Passionfruit",
+            "originalName": "Passionfruit",
+            "productCount": 2,
+            "seoToken": "passionfruit",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "1311",
+            "level": 3,
+            "name": "Pears",
+            "originalName": "Pears",
+            "productCount": 9,
+            "seoToken": "pears",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "1704",
+            "level": 3,
+            "name": "Pineapples",
+            "originalName": "Pineapples",
+            "productCount": 3,
+            "seoToken": "pineapples",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "1721",
+            "level": 3,
+            "name": "Tropical & Exotic Fruit",
+            "originalName": "Tropical & Exotic Fruit",
+            "productCount": 7,
+            "seoToken": "tropical-exotic-fruit",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": "Vegetables",
+        "originalName": "Vegetables",
+        "productCount": 185,
+        "seoToken": "vegetables",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "897984",
+            "level": 3,
+            "name": "Asian Greens",
+            "originalName": "Asian Greens",
+            "productCount": 6,
+            "seoToken": "asian-greens",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "789146",
+            "level": 3,
+            "name": "Asparagus, Fennel & Artichokes",
+            "originalName": "Asparagus, Fennel & Artichokes",
+            "productCount": 2,
+            "seoToken": "asparagus-fennel-artichokes",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "879456",
+            "level": 3,
+            "name": "Beetroot",
+            "originalName": "Beetroot",
+            "productCount": 5,
+            "seoToken": "beetroot",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "549876",
+            "level": 3,
+            "name": "Broccoli & Cauliflower",
+            "originalName": "Broccoli & Cauliflower",
+            "productCount": 6,
+            "seoToken": "broccoli-cauliflower",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "789464",
+            "level": 3,
+            "name": "Cabbage, Kale & Brussel Sprouts",
+            "originalName": "Cabbage, Kale & Brussel Sprouts",
+            "productCount": 18,
+            "seoToken": "cabbage-kale-brussel-sprouts",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "478946",
+            "level": 3,
+            "name": "Capsicum",
+            "originalName": "Capsicum",
+            "productCount": 8,
+            "seoToken": "capsicum",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "541654",
+            "level": 3,
+            "name": "Carrots & Parsnips",
+            "originalName": "Carrots & Parsnips",
+            "productCount": 7,
+            "seoToken": "carrots-parsnips",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "7594946",
+            "level": 3,
+            "name": "Celery",
+            "originalName": "Celery",
+            "productCount": 3,
+            "seoToken": "celery",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "35546754",
+            "level": 3,
+            "name": "Corn",
+            "originalName": "Corn",
+            "productCount": 4,
+            "seoToken": "corn",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "564657",
+            "level": 3,
+            "name": "Cucumber",
+            "originalName": "Cucumber",
+            "productCount": 4,
+            "seoToken": "cucumber",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "57916",
+            "level": 3,
+            "name": "Eggplant",
+            "originalName": "Eggplant",
+            "productCount": 2,
+            "seoToken": "eggplant",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "579846",
+            "level": 3,
+            "name": "Garlic & Ginger",
+            "originalName": "Garlic & Ginger",
+            "productCount": 8,
+            "seoToken": "garlic-ginger",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "1313",
+            "level": 3,
+            "name": "Lettuce",
+            "originalName": "Lettuce",
+            "productCount": 8,
+            "seoToken": "lettuce",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "881346",
+            "level": 3,
+            "name": "Mashed & Cut Vegetables",
+            "originalName": "Mashed & Cut Vegetables",
+            "productCount": 9,
+            "seoToken": "mashed-cut-vegetables",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "545641",
+            "level": 3,
+            "name": "Mushrooms",
+            "originalName": "Mushrooms",
+            "productCount": 22,
+            "seoToken": "mushrooms",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "646512",
+            "level": 3,
+            "name": "Onion & Leeks",
+            "originalName": "Onion & Leeks",
+            "productCount": 10,
+            "seoToken": "onion-leeks",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "879564",
+            "level": 3,
+            "name": "Organic Vegetables",
+            "originalName": "Organic Vegetables",
+            "productCount": 23,
+            "seoToken": "organic-vegetables",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "637948",
+            "level": 3,
+            "name": "Peas & Beans",
+            "originalName": "Peas & Beans",
+            "productCount": 6,
+            "seoToken": "peas-beans",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "545475",
+            "level": 3,
+            "name": "Potatoes",
+            "originalName": "Potatoes",
+            "productCount": 18,
+            "seoToken": "potatoes",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "454676",
+            "level": 3,
+            "name": "Pumpkin",
+            "originalName": "Pumpkin",
+            "productCount": 5,
+            "seoToken": "pumpkin",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "4897465",
+            "level": 3,
+            "name": "Spinach & Silverbeet",
+            "originalName": "Spinach & Silverbeet",
+            "productCount": 3,
+            "seoToken": "spinach-silverbeet",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "465794",
+            "level": 3,
+            "name": "Tomatoes",
+            "originalName": "Tomatoes",
+            "productCount": 17,
+            "seoToken": "tomatoes",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "576791",
+            "level": 3,
+            "name": "Turnips & Root Vegetables",
+            "originalName": "Turnips & Root Vegetables",
+            "productCount": 5,
+            "seoToken": "turnips-root-vegetables",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "215676",
+            "level": 3,
+            "name": "Zucchini & Squash",
+            "originalName": "Zucchini & Squash",
+            "productCount": 3,
+            "seoToken": "zucchini-squash",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "699689408",
+        "level": 2,
+        "name": "Best Of Winter",
+        "originalName": "Best of Winter",
+        "productCount": 45,
+        "seoToken": "best-of-winter",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "699689418",
+            "level": 3,
+            "name": "Fruit",
+            "originalName": "Fruit",
+            "productCount": 7,
+            "seoToken": "fruit",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "699689507",
+            "level": 3,
+            "name": "Vegetables",
+            "originalName": "Vegetables",
+            "productCount": 38,
+            "seoToken": "vegetables",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "1723",
+        "level": 2,
+        "name": "Nuts & Dried Fruit",
+        "originalName": "Nuts & Dried Fruit",
+        "productCount": 58,
+        "seoToken": "nuts-dried-fruit",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8892404",
+            "level": 3,
+            "name": "Almonds",
+            "originalName": "Almonds",
+            "productCount": 9,
+            "seoToken": "almonds",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892406",
+            "level": 3,
+            "name": "Cashews",
+            "originalName": "Cashews",
+            "productCount": 12,
+            "seoToken": "cashews",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892411",
+            "level": 3,
+            "name": "Dates",
+            "originalName": "Dates",
+            "productCount": 4,
+            "seoToken": "dates",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892412",
+            "level": 3,
+            "name": "Dried Fruit",
+            "originalName": "Dried Fruit",
+            "productCount": 5,
+            "seoToken": "dried-fruit",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892409",
+            "level": 3,
+            "name": "Mixed Fruit & Nuts",
+            "originalName": "Mixed Fruit & Nuts",
+            "productCount": 4,
+            "seoToken": "mixed-fruit-nuts",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892410",
+            "level": 3,
+            "name": "Other Nuts",
+            "originalName": "Other Nuts",
+            "productCount": 18,
+            "seoToken": "other-nuts",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892407",
+            "level": 3,
+            "name": "Peanuts",
+            "originalName": "Peanuts",
+            "productCount": 2,
+            "seoToken": "peanuts",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892408",
+            "level": 3,
+            "name": "Pistachio",
+            "originalName": "Pistachio",
+            "productCount": 4,
+            "seoToken": "pistachio",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892413",
+            "level": 3,
+            "name": "Pretzels & Party Mixes",
+            "originalName": "Pretzels & Party Mixes",
+            "productCount": 13,
+            "seoToken": "pretzels-party-mixes",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8892201",
+        "level": 2,
+        "name": "Organic Fruits & Vegetables",
+        "originalName": "Organic Fruits & Vegetables",
+        "productCount": 29,
+        "seoToken": "organic-fruits-vegetables",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8892202",
+            "level": 3,
+            "name": "Organic Fruits",
+            "originalName": "Organic Fruits",
+            "productCount": 6,
+            "seoToken": "organic-fruits",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "772636655",
+            "level": 3,
+            "name": "Organic Salad Mix",
+            "originalName": "Organic Salad Mix",
+            "productCount": 5,
+            "seoToken": "organic-salad-mix",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892203",
+            "level": 3,
+            "name": "Organic Vegetables",
+            "originalName": "Organic Vegetables",
+            "productCount": 23,
+            "seoToken": "organic-vegetables",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8893800",
+        "level": 2,
+        "name": "Packaged Salad",
+        "originalName": "Packaged Salad",
+        "productCount": 79,
+        "seoToken": "packaged-salad",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8893803",
+            "level": 3,
+            "name": "Lettuce & Mixed Leaf",
+            "originalName": "Lettuce & Mixed Leaf",
+            "productCount": 21,
+            "seoToken": "lettuce-mixed-leaf",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8905200",
+            "level": 3,
+            "name": "Salad Bowls",
+            "originalName": "Salad Bowls",
+            "productCount": 12,
+            "seoToken": "salad-bowls",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8893802",
+            "level": 3,
+            "name": "Salads Dressed",
+            "originalName": "Salads Dressed",
+            "productCount": 19,
+            "seoToken": "salads-dressed",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8893805",
+            "level": 3,
+            "name": "Sauces & Salad Dressing",
+            "originalName": "Sauces & Salad Dressing",
+            "productCount": 7,
+            "seoToken": "sauces-salad-dressing",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8893801",
+            "level": 3,
+            "name": "Slaws & Salad Kits",
+            "originalName": "Slaws & Salad Kits",
+            "productCount": 22,
+            "seoToken": "slaws-salad-kits",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8894601",
+        "level": 2,
+        "name": "Prepared Vegetable",
+        "originalName": "Prepared Vegetable",
+        "productCount": 22,
+        "seoToken": "prepared-vegetable",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8914801",
+            "level": 3,
+            "name": "Airfryer",
+            "originalName": "Airfryer",
+            "productCount": 2,
+            "seoToken": "airfryer",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8894602",
+            "level": 3,
+            "name": "Carb Clever Veggies",
+            "originalName": "Carb Clever Veggies",
+            "productCount": 1,
+            "seoToken": "carb-clever-veggies",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8894603",
+            "level": 3,
+            "name": "Ready to Steam & Roast",
+            "originalName": "Ready To Steam & Roast",
+            "productCount": 10,
+            "seoToken": "ready-to-steam-roast",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8894604",
+            "level": 3,
+            "name": "Stir-Fry Veggie & Sauce",
+            "originalName": "Stir-Fry Veggie & Sauce",
+            "productCount": 4,
+            "seoToken": "stir-fry-veggie-sauce",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8894605",
+            "level": 3,
+            "name": "Trimmed & Cut Veggies",
+            "originalName": "Trimmed & Cut Veggies",
+            "productCount": 5,
+            "seoToken": "trimmed-cut-veggies",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "1304",
+        "level": 2,
+        "name": "Salad & Herbs",
+        "originalName": "Salad & Herbs",
+        "productCount": 53,
+        "seoToken": "salad-herbs",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "74564",
+            "level": 3,
+            "name": "Herbs & Chillies",
+            "originalName": "Herbs & Chillies",
+            "productCount": 50,
+            "seoToken": "herbs-chillies",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "89495",
+            "level": 3,
+            "name": "Sprouts",
+            "originalName": "Sprouts",
+            "productCount": 3,
+            "seoToken": "sprouts",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      },
+      {
+        "id": "8892415",
+        "level": 2,
+        "name": "Scoop & Weigh",
+        "originalName": "Scoop & Weigh",
+        "productCount": 75,
+        "seoToken": "scoop-weigh",
+        "type": "CATALOG",
+        "subType": "CORE",
+        "catalogGroupView": [
+          {
+            "id": "8892416",
+            "level": 3,
+            "name": "Almond",
+            "originalName": "Almond",
+            "productCount": 4,
+            "seoToken": "almond",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892417",
+            "level": 3,
+            "name": "Cashew",
+            "originalName": "Cashew",
+            "productCount": 7,
+            "seoToken": "cashew",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892418",
+            "level": 3,
+            "name": "Dry Fruits",
+            "originalName": "Dry Fruits",
+            "productCount": 12,
+            "seoToken": "dry-fruits",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892419",
+            "level": 3,
+            "name": "Macadamia, Hazelnuts & Pecans",
+            "originalName": "Macadamia, Hazelnuts & Pecans",
+            "productCount": 1,
+            "seoToken": "macadamia-hazelnuts-pecans",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892420",
+            "level": 3,
+            "name": "Mixed Scoop & Weigh",
+            "originalName": "Mixed Scoop & Weigh",
+            "productCount": 51,
+            "seoToken": "mixed-scoop-weigh",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892422",
+            "level": 3,
+            "name": "Other Scoop & Weigh",
+            "originalName": "Other Scoop & Weigh",
+            "productCount": 6,
+            "seoToken": "other-scoop-weigh",
+            "type": "CATALOG",
+            "subType": "CORE"
+          },
+          {
+            "id": "8892421",
+            "level": 3,
+            "name": "Walnuts, Pistachio & Peanut",
+            "originalName": "Walnuts, Pistachio & Peanut",
+            "productCount": 4,
+            "seoToken": "walnuts-pistachio-peanut",
+            "type": "CATALOG",
+            "subType": "CORE"
+          }
+        ]
+      }
+    ],
+    "image": "https://www.coles.com.au/content/dam/coles/shop-categories/fruit-vegetables.png"
+  }
+}

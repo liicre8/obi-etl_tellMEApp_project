@@ -1,0 +1,588 @@
+{
+  "id": "8892906",
+  "level": 1,
+  "originalName": "Bakery",
+  "seoToken": "bakery",
+  "subType": "CORE",
+  "catalogGroupView": [
+    {
+      "id": "676681137",
+      "level": 2,
+      "originalName": "Bakery New",
+      "seoToken": "bakery-new",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "676681782",
+          "level": 3,
+          "originalName": "New Bakery Packaged",
+          "seoToken": "new-bakery-packaged",
+          "subType": "CORE"
+        },
+        {
+          "id": "676682912",
+          "level": 3,
+          "originalName": "New Instore Bread and Cake",
+          "seoToken": "new-instore-bread-and-cake",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892915",
+      "level": 2,
+      "originalName": "Chilled Cakes & Desserts",
+      "seoToken": "chilled-cakes-desserts",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892978",
+          "level": 3,
+          "originalName": "2 Pack & Individual Serve Desserts",
+          "seoToken": "2-pack-individual-serve-desserts",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892980",
+          "level": 3,
+          "originalName": "Birthday & Celebration Cakes",
+          "seoToken": "birthday-celebration-cakes",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892977",
+          "level": 3,
+          "originalName": "Cheesecakes",
+          "seoToken": "cheesecakes",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892979",
+          "level": 3,
+          "originalName": "Cream Cakes",
+          "seoToken": "cream-cakes",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892982",
+          "level": 3,
+          "originalName": "Pavlova & Meringue",
+          "seoToken": "pavlova-meringue",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892983",
+          "level": 3,
+          "originalName": "Tarts & Pies",
+          "seoToken": "tarts-pies",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8893208",
+      "level": 2,
+      "originalName": "Christmas Bakery",
+      "seoToken": "christmas-bakery",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8893209",
+          "level": 3,
+          "originalName": "Fruit Mince Pies",
+          "seoToken": "fruit-mince-pies",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893213",
+          "level": 3,
+          "originalName": "Puddings",
+          "seoToken": "puddings",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892918",
+      "level": 2,
+      "originalName": "Gluten Free Range",
+      "seoToken": "gluten-free-range",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8893002",
+          "level": 3,
+          "originalName": "All Packaged Bread",
+          "seoToken": "all-packaged-bread",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893000",
+          "level": 3,
+          "originalName": "Packaged Breakfast Snack",
+          "seoToken": "packaged-breakfast-snack",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893402",
+          "level": 3,
+          "originalName": "Packaged Buns & Bread Rolls",
+          "seoToken": "packaged-buns-bread-rolls",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892998",
+          "level": 3,
+          "originalName": "Packaged Cake & Sweet Treats",
+          "seoToken": "packaged-cake-sweet-treats",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893001",
+          "level": 3,
+          "originalName": "Packaged Wraps,  Flat Bread And Pizza Bases",
+          "seoToken": "packaged-wraps-flat-bread-and-pizza-bases",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892907",
+      "level": 2,
+      "originalName": "Instore Bakery Breads And Rolls",
+      "seoToken": "instore-bakery-breads-and-rolls",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8893200",
+          "level": 3,
+          "originalName": "Artisan Style Breads By Laurent",
+          "seoToken": "artisan-style-breads-by-laurent",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892923",
+          "level": 3,
+          "originalName": "Baguettes",
+          "seoToken": "baguettes",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893201",
+          "level": 3,
+          "originalName": "Bread Loaves",
+          "seoToken": "bread-loaves",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893203",
+          "level": 3,
+          "originalName": "Bread Rolls",
+          "seoToken": "bread-rolls",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892924",
+          "level": 3,
+          "originalName": "Flat Bread",
+          "seoToken": "flat-bread",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893202",
+          "level": 3,
+          "originalName": "Healthier Breads",
+          "seoToken": "healthier-breads",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892908",
+      "level": 2,
+      "originalName": "Instore Bakery Savoury Treats",
+      "seoToken": "instore-bakery-savoury-treats",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8893204",
+          "level": 3,
+          "originalName": "Cheese Rolls, Tear & Share & Pizza Rolls",
+          "seoToken": "cheese-rolls-tear-share-pizza-rolls",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892913",
+      "level": 2,
+      "originalName": "Instore Bakery Sweet Treats",
+      "seoToken": "instore-bakery-sweet-treats",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892963",
+          "level": 3,
+          "originalName": "Cookies",
+          "seoToken": "cookies",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892964",
+          "level": 3,
+          "originalName": "Donuts",
+          "seoToken": "donuts",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892966",
+          "level": 3,
+          "originalName": "Pastries & Danishes",
+          "seoToken": "pastries-danishes",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892962",
+          "level": 3,
+          "originalName": "Scones",
+          "seoToken": "scones",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892910",
+      "level": 2,
+      "originalName": "Packaged Bread Rolls And Buns",
+      "seoToken": "packaged-bread-rolls-and-buns",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892936",
+          "level": 3,
+          "originalName": "Brioche",
+          "seoToken": "brioche",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892935",
+          "level": 3,
+          "originalName": "Burger Buns And Hot Dog Rolls",
+          "seoToken": "burger-buns-and-hot-dog-rolls",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892941",
+          "level": 3,
+          "originalName": "Gluten Free Rolls & Buns",
+          "seoToken": "gluten-free-rolls-buns",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892937",
+          "level": 3,
+          "originalName": "Thins",
+          "seoToken": "thins",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892909",
+      "level": 2,
+      "originalName": "Packaged Breads",
+      "seoToken": "packaged-breads",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892933",
+          "level": 3,
+          "originalName": "Digestive Health & Speciality Bread",
+          "seoToken": "digestive-health-speciality-bread",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892934",
+          "level": 3,
+          "originalName": "Gluten Free Packaged Bread",
+          "seoToken": "gluten-free-packaged-bread",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892932",
+          "level": 3,
+          "originalName": "Multigrain & Seeded Bread",
+          "seoToken": "multigrain-seeded-bread",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892931",
+          "level": 3,
+          "originalName": "Rye Bread",
+          "seoToken": "rye-bread",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892929",
+          "level": 3,
+          "originalName": "White Bread",
+          "seoToken": "white-bread",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892930",
+          "level": 3,
+          "originalName": "Wholemeal Bread",
+          "seoToken": "wholemeal-bread",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892914",
+      "level": 2,
+      "originalName": "Packaged Breakfast Snacks",
+      "seoToken": "packaged-breakfast-snacks",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892971",
+          "level": 3,
+          "originalName": "Bagels",
+          "seoToken": "bagels",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892974",
+          "level": 3,
+          "originalName": "Croissants & Pastries",
+          "seoToken": "croissants-pastries",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892968",
+          "level": 3,
+          "originalName": "Crumpet",
+          "seoToken": "crumpet",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892970",
+          "level": 3,
+          "originalName": "English Muffins",
+          "seoToken": "english-muffins",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892969",
+          "level": 3,
+          "originalName": "Fruit Bread",
+          "seoToken": "fruit-bread",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892973",
+          "level": 3,
+          "originalName": "Pikelets, Pancakes And Crepes",
+          "seoToken": "pikelets-pancakes-and-crepes",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892972",
+          "level": 3,
+          "originalName": "Waffles",
+          "seoToken": "waffles",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892916",
+      "level": 2,
+      "originalName": "Packaged Cakes & Sweet Treats",
+      "seoToken": "packaged-cakes-sweet-treats",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8893207",
+          "level": 3,
+          "originalName": "Cookies & Biscuits",
+          "seoToken": "cookies-biscuits",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892992",
+          "level": 3,
+          "originalName": "Cupcakes",
+          "seoToken": "cupcakes",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893004",
+          "level": 3,
+          "originalName": "Fruit Cakes",
+          "seoToken": "fruit-cakes",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892997",
+          "level": 3,
+          "originalName": "Gluten Free Cakes & Treats",
+          "seoToken": "gluten-free-cakes-treats",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892991",
+          "level": 3,
+          "originalName": "Lamingtons",
+          "seoToken": "lamingtons",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892988",
+          "level": 3,
+          "originalName": "Loaf Cakes",
+          "seoToken": "loaf-cakes",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892995",
+          "level": 3,
+          "originalName": "Meringues & Pavlovas",
+          "seoToken": "meringues-pavlovas",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892989",
+          "level": 3,
+          "originalName": "Muffins & Muffin Bars",
+          "seoToken": "muffins-muffin-bars",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892996",
+          "level": 3,
+          "originalName": "Pastry Shells",
+          "seoToken": "pastry-shells",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892994",
+          "level": 3,
+          "originalName": "Slices & Bites",
+          "seoToken": "slices-bites",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892986",
+          "level": 3,
+          "originalName": "Sponge & Mud Cakes",
+          "seoToken": "sponge-mud-cakes",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892990",
+          "level": 3,
+          "originalName": "Sponge Rolls & Cake Bars",
+          "seoToken": "sponge-rolls-cake-bars",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892993",
+          "level": 3,
+          "originalName": "Sweet Brioche",
+          "seoToken": "sweet-brioche",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892987",
+          "level": 3,
+          "originalName": "Tea Cakes",
+          "seoToken": "tea-cakes",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8892911",
+      "level": 2,
+      "originalName": "Packaged Flat Bread, Wraps And Pizza Bases",
+      "seoToken": "packaged-flat-bread-wraps-and-pizza-bases",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8892945",
+          "level": 3,
+          "originalName": "Flavoured Wraps",
+          "seoToken": "flavoured-wraps",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892955",
+          "level": 3,
+          "originalName": "Naan Bread And Gyros",
+          "seoToken": "naan-bread-and-gyros",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892954",
+          "level": 3,
+          "originalName": "Other Flat Breads",
+          "seoToken": "other-flat-breads",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892957",
+          "level": 3,
+          "originalName": "Pizza Bases",
+          "seoToken": "pizza-bases",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892956",
+          "level": 3,
+          "originalName": "Turkish And Ciabatta",
+          "seoToken": "turkish-and-ciabatta",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892942",
+          "level": 3,
+          "originalName": "White Wraps",
+          "seoToken": "white-wraps",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892944",
+          "level": 3,
+          "originalName": "Wholegrain & Seeded Wraps",
+          "seoToken": "wholegrain-seeded-wraps",
+          "subType": "CORE"
+        },
+        {
+          "id": "8892943",
+          "level": 3,
+          "originalName": "Wholemeal Wraps",
+          "seoToken": "wholemeal-wraps",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8897800",
+      "level": 2,
+      "originalName": "Vegan Range",
+      "seoToken": "vegan-range",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8897801",
+          "level": 3,
+          "originalName": "All Vegan Range",
+          "seoToken": "all-vegan-range",
+          "subType": "CORE"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "85946",
+  "level": 1,
+  "originalName": "Liquorland",
+  "seoToken": "liquorland",
+  "subType": "CORE",
+  "catalogGroupView": [
+    {
+      "id": "682220075",
+      "level": 2,
+      "originalName": "Non Alcoholic",
+      "seoToken": "non-alcoholic",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "682267639",
+          "level": 3,
+          "originalName": "Beer",
+          "seoToken": "beer",
+          "subType": "CORE"
+        },
+        {
+          "id": "682267916",
+          "level": 3,
+          "originalName": "Spirits & Premixed Drinks",
+          "seoToken": "spirits-premixed-drinks",
+          "subType": "CORE"
+        },
+        {
+          "id": "682268173",
+          "level": 3,
+          "originalName": "Wine",
+          "seoToken": "wine",
+          "subType": "CORE"
+        }
+      ]
+    }
+  ]
+}

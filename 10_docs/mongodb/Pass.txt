@@ -1,0 +1,139 @@
+(1)
+MONGODB_USER=icodev_li4
+MONGODB_PASSWORD=8KNfnUZETJHfAlYS
+
+Compass: scrapehub.l1gnde6.mongodb.net
+
+$ mongodb+srv://${USER}:${PASSWORD}@${HOST}/${DBNAME}?retryWrites=true&w=majority&appName=ScrapeHub
+
+(2)
+MONGODB_USER=team-x
+MONGODB_PASSWORD=GtLiifSKi5@WKmw
+
+HOST: wils-01.ib7x0d8.mongodb.net
+
+$ mongodb+srv://{USER}:${PASSWORD}@${HOST}/${DBNAME}?retryWrites=true&w=majority&appName=WILS-01
+
+
+Link: https://tell-me-backend-stage.appelloproject.xyz/docs#/default/import_products_import_products_post
+
+[
+  {
+    "name": "string",
+    "imageUrl": "https://example.com/",
+    "sourceUrl": "https://example.com/",
+    "sourceId": "string",
+    "barcode": "string",
+    "categoryId": "string",
+    "shop": "COLES",
+    "weight": "string",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": 1,
+        "pricePerUnit": 0,
+        "unit": "string"
+      }
+    ]
+  }
+]
+
+
+
+
+
+
+
+(2) In scraping data should we used directly the API schema or better to make differen 
+
+This the original schema of API tell-me-backend-stage.
+
+the categoryId here is only for leve 2 and Level 3 to be input which base on Complete Category Hierachy Spreadsheet, none for level 1,
+
+
+[
+  {
+    "name": "string",
+    "imageUrl": "https://example.com/",
+    "sourceUrl": "https://example.com/",
+    "sourceId": "string",
+    "barcode": "string",
+    "categoryId": "string",
+    "shop": "COLES",
+    "weight": "string",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": 1,
+        "pricePerUnit": 0,
+        "unit": "string"
+      }
+    ]
+  }
+]
+
+example data:
+ {
+   "name": "Bertocchi Gold Long Rindless Premium Bacon 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6000087.jpg",
+
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/6000087/bertocchi-gold-long-rindless-premium-bacon",
+  
+    "source_id": "6000087",
+    "barcode": "9310591503288",
+    "shop": "Woolworths",
+    "category_id": "24028",
+    "weight": "400g",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1100",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "1100",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1100",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1100",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1100",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1100",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1100",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1100",
+        "price_per_unit": "2750",
+        "price_unit": "KG"
+      }
+    ]
+  },
+
+

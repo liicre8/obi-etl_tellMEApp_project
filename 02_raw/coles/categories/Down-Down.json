@@ -1,0 +1,442 @@
+{
+  "id": "8906007",
+  "level": 1,
+  "originalName": "Down Down",
+  "seoToken": "down-down",
+  "subType": "SEASONAL",
+  "catalogGroupView": [
+    {
+      "id": "8906008",
+      "level": 2,
+      "originalName": "Beverages",
+      "seoToken": "beverages",
+      "subType": "SEASONAL",
+      "catalogGroupView": [
+        {
+          "id": "8906017",
+          "level": 3,
+          "originalName": "Coffee & Tea",
+          "seoToken": "coffee-tea",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906018",
+          "level": 3,
+          "originalName": "Milk & Milk Additives",
+          "seoToken": "milk-milk-additives",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906019",
+          "level": 3,
+          "originalName": "Soft Drink & Energy Drinks",
+          "seoToken": "soft-drink-energy-drinks",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906020",
+          "level": 3,
+          "originalName": "Water & Juices",
+          "seoToken": "water-juices",
+          "subType": "SEASONAL"
+        }
+      ]
+    },
+    {
+      "id": "8906009",
+      "level": 2,
+      "originalName": "Bread & Bakery",
+      "seoToken": "bread-bakery",
+      "subType": "SEASONAL",
+      "catalogGroupView": [
+        {
+          "id": "8906021",
+          "level": 3,
+          "originalName": "Breads, Rolls & Flatbread",
+          "seoToken": "breads-rolls-flatbread",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906022",
+          "level": 3,
+          "originalName": "Cakes & Snacks",
+          "seoToken": "cakes-snacks",
+          "subType": "SEASONAL"
+        }
+      ]
+    },
+    {
+      "id": "8906010",
+      "level": 2,
+      "originalName": "Cleaning",
+      "seoToken": "cleaning",
+      "subType": "SEASONAL",
+      "catalogGroupView": [
+        {
+          "id": "8906023",
+          "level": 3,
+          "originalName": "Dishwashing Needs",
+          "seoToken": "dishwashing-needs",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906024",
+          "level": 3,
+          "originalName": "General Cleaning",
+          "seoToken": "general-cleaning",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906025",
+          "level": 3,
+          "originalName": "Kitchen Needs",
+          "seoToken": "kitchen-needs",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906026",
+          "level": 3,
+          "originalName": "Laundry Needs",
+          "seoToken": "laundry-needs",
+          "subType": "SEASONAL"
+        }
+      ]
+    },
+    {
+      "id": "8906011",
+      "level": 2,
+      "originalName": "Dairy, Chilled & Frozen",
+      "seoToken": "dairy-chilled-frozen",
+      "subType": "SEASONAL",
+      "catalogGroupView": [
+        {
+          "id": "8906027",
+          "level": 3,
+          "originalName": "Cheese & Desserts",
+          "seoToken": "cheese-desserts",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8915865",
+          "level": 3,
+          "originalName": "Chilled Meals",
+          "seoToken": "chilled-meals",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906028",
+          "level": 3,
+          "originalName": "Freezer",
+          "seoToken": "freezer",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8915867",
+          "level": 3,
+          "originalName": "Frozen Desserts",
+          "seoToken": "frozen-desserts",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8914400",
+          "level": 3,
+          "originalName": "Ready Made Meals",
+          "seoToken": "ready-made-meals",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8912014",
+          "level": 3,
+          "originalName": "Spreads & Dips",
+          "seoToken": "spreads-dips",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906030",
+          "level": 3,
+          "originalName": "Vegan & Vegetarian",
+          "seoToken": "vegan-vegetarian",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8912013",
+          "level": 3,
+          "originalName": "Yoghurt",
+          "seoToken": "yoghurt",
+          "subType": "SEASONAL"
+        }
+      ]
+    },
+    {
+      "id": "8912010",
+      "level": 2,
+      "originalName": "Fruits, Veggies & Nuts",
+      "seoToken": "fruits-veggies-nuts",
+      "subType": "SEASONAL",
+      "catalogGroupView": [
+        {
+          "id": "8915870",
+          "level": 3,
+          "originalName": "Fruits",
+          "seoToken": "fruits",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8914600",
+          "level": 3,
+          "originalName": "Veggies",
+          "seoToken": "veggies",
+          "subType": "SEASONAL"
+        }
+      ]
+    },
+    {
+      "id": "8906012",
+      "level": 2,
+      "originalName": "Home & Pets",
+      "seoToken": "home-pets",
+      "subType": "SEASONAL",
+      "catalogGroupView": [
+        {
+          "id": "8912015",
+          "level": 3,
+          "originalName": "Aircare",
+          "seoToken": "aircare",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906800",
+          "level": 3,
+          "originalName": "General Needs",
+          "seoToken": "general-needs",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906033",
+          "level": 3,
+          "originalName": "Pet Food & Accessories",
+          "seoToken": "pet-food-accessories",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8912018",
+          "level": 3,
+          "originalName": "Toilet Paper & Tissues",
+          "seoToken": "toilet-paper-tissues",
+          "subType": "SEASONAL"
+        }
+      ]
+    },
+    {
+      "id": "8906013",
+      "level": 2,
+      "originalName": "Meat, Seafood & Deli",
+      "seoToken": "meat-seafood-deli",
+      "subType": "SEASONAL",
+      "catalogGroupView": [
+        {
+          "id": "8906203",
+          "level": 3,
+          "originalName": "Deli Cheese & Platters",
+          "seoToken": "deli-cheese-platters",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8912020",
+          "level": 3,
+          "originalName": "Easy  Meals",
+          "seoToken": "easy-meals",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8912022",
+          "level": 3,
+          "originalName": "Fish &  Seafood",
+          "seoToken": "fish-seafood",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906035",
+          "level": 3,
+          "originalName": "Meat",
+          "seoToken": "meat",
+          "subType": "SEASONAL"
+        }
+      ]
+    },
+    {
+      "id": "8906014",
+      "level": 2,
+      "originalName": "Pantry Items",
+      "seoToken": "pantry-items",
+      "subType": "SEASONAL",
+      "catalogGroupView": [
+        {
+          "id": "8906037",
+          "level": 3,
+          "originalName": "Baking & Sugar",
+          "seoToken": "baking-sugar",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906038",
+          "level": 3,
+          "originalName": "Canned & Pickled Foods",
+          "seoToken": "canned-pickled-foods",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906039",
+          "level": 3,
+          "originalName": "Cereals & Spreads",
+          "seoToken": "cereals-spreads",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906040",
+          "level": 3,
+          "originalName": "Healthier Foods",
+          "seoToken": "healthier-foods",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "841558409",
+          "level": 3,
+          "originalName": "Meals",
+          "seoToken": "meals",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906041",
+          "level": 3,
+          "originalName": "Pasta & Rice",
+          "seoToken": "pasta-rice",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8915872",
+          "level": 3,
+          "originalName": "Salt, Herbs & Spices",
+          "seoToken": "salt-herbs-spices",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906042",
+          "level": 3,
+          "originalName": "Sauces & Dressings",
+          "seoToken": "sauces-dressings",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906201",
+          "level": 3,
+          "originalName": "Soup & Noodles",
+          "seoToken": "soup-noodles",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906043",
+          "level": 3,
+          "originalName": "World Foods",
+          "seoToken": "world-foods",
+          "subType": "SEASONAL"
+        }
+      ]
+    },
+    {
+      "id": "8906015",
+      "level": 2,
+      "originalName": "Personal & Baby Care",
+      "seoToken": "personal-baby-care",
+      "subType": "SEASONAL",
+      "catalogGroupView": [
+        {
+          "id": "8912024",
+          "level": 3,
+          "originalName": "Baby Care",
+          "seoToken": "baby-care",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8912025",
+          "level": 3,
+          "originalName": "Baby Formula And Food",
+          "seoToken": "baby-formula-and-food",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906044",
+          "level": 3,
+          "originalName": "Baby Nappies",
+          "seoToken": "baby-nappies",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906045",
+          "level": 3,
+          "originalName": "Hair & Skin Care",
+          "seoToken": "hair-skin-care",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906046",
+          "level": 3,
+          "originalName": "Medicinal Care",
+          "seoToken": "medicinal-care",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906047",
+          "level": 3,
+          "originalName": "Oral Care",
+          "seoToken": "oral-care",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8912026",
+          "level": 3,
+          "originalName": "Period Products",
+          "seoToken": "period-products",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8912027",
+          "level": 3,
+          "originalName": "Vitamins & Other",
+          "seoToken": "vitamins-other",
+          "subType": "SEASONAL"
+        }
+      ]
+    },
+    {
+      "id": "8906016",
+      "level": 2,
+      "originalName": "Snacking",
+      "seoToken": "snacking",
+      "subType": "SEASONAL",
+      "catalogGroupView": [
+        {
+          "id": "8906202",
+          "level": 3,
+          "originalName": "Biscuits & Crackers",
+          "seoToken": "biscuits-crackers",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906048",
+          "level": 3,
+          "originalName": "Desserts & Chocolate",
+          "seoToken": "desserts-chocolate",
+          "subType": "SEASONAL"
+        },
+        {
+          "id": "8906049",
+          "level": 3,
+          "originalName": "Snack Foods",
+          "seoToken": "snack-foods",
+          "subType": "SEASONAL"
+        }
+      ]
+    }
+  ]
+}

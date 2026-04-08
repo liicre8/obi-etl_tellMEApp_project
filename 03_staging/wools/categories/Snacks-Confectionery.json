@@ -1,0 +1,230 @@
+{
+  "NodeId": "1_717445A",
+  "Description": "Snacks & Confectionery",
+  "NodeLevel": 1,
+  "ParentNodeId": "1-4A3B264C",
+  "UrlFriendlyName": "snacks-confectionery",
+  "Children": [
+    {
+      "NodeId": "1_B3139DF",
+      "Description": "Confectionery",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_717445A",
+      "UrlFriendlyName": "confectionery",
+      "Children": [
+        {
+          "NodeId": "1_F935730",
+          "Description": "Chocolate Bars",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_B3139DF",
+          "UrlFriendlyName": "chocolate-bars",
+          "Children": []
+        },
+        {
+          "NodeId": "1_4328D96",
+          "Description": "Chocolate Blocks",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_B3139DF",
+          "UrlFriendlyName": "chocolate-blocks",
+          "Children": []
+        },
+        {
+          "NodeId": "1_0D18764",
+          "Description": "Chocolate Bites",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_B3139DF",
+          "UrlFriendlyName": "chocolate-bites",
+          "Children": []
+        },
+        {
+          "NodeId": "1_29D60F6",
+          "Description": "Chocolate Share Packs",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_B3139DF",
+          "UrlFriendlyName": "chocolate-share-packs",
+          "Children": []
+        },
+        {
+          "NodeId": "1_E0CA738",
+          "Description": "Chocolate Boxes & Gifts",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_B3139DF",
+          "UrlFriendlyName": "chocolate-boxes-gifts",
+          "Children": []
+        },
+        {
+          "NodeId": "1_B2412F6",
+          "Description": "Sweets, Lollies & Licorice",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_B3139DF",
+          "UrlFriendlyName": "sweets-lollies-licorice",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_12FABCA",
+      "Description": "Gum, Mints & Lozenges",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_717445A",
+      "UrlFriendlyName": "gum-mints-lozenges",
+      "Children": [
+        {
+          "NodeId": "1_99037F3",
+          "Description": "Gum",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_12FABCA",
+          "UrlFriendlyName": "gum",
+          "Children": []
+        },
+        {
+          "NodeId": "1_4843174",
+          "Description": "Mints",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_12FABCA",
+          "UrlFriendlyName": "mints",
+          "Children": []
+        },
+        {
+          "NodeId": "1_92118C4",
+          "Description": "Lozenges",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_12FABCA",
+          "UrlFriendlyName": "lozenges",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_3F5B6B6",
+      "Description": "Chips",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_717445A",
+      "UrlFriendlyName": "chips",
+      "Children": [
+        {
+          "NodeId": "1_6AA9A77",
+          "Description": "Chips Single Pack",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_3F5B6B6",
+          "UrlFriendlyName": "chips-single-pack",
+          "Children": []
+        },
+        {
+          "NodeId": "1_8B28A07",
+          "Description": "Chips Sharing",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_3F5B6B6",
+          "UrlFriendlyName": "chips-sharing",
+          "Children": []
+        },
+        {
+          "NodeId": "1_BAD46F7",
+          "Description": "Chips Multi-Pack",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_3F5B6B6",
+          "UrlFriendlyName": "chips-multi-pack",
+          "Children": []
+        },
+        {
+          "NodeId": "1_0D8A82D",
+          "Description": "Corn Chips & Salsa",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_3F5B6B6",
+          "UrlFriendlyName": "corn-chips-salsa",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_99CAF0C",
+      "Description": "Snacks",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_717445A",
+      "UrlFriendlyName": "snacks",
+      "Children": [
+        {
+          "NodeId": "1_351AB2F",
+          "Description": "Pretzels & Jerky",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_99CAF0C",
+          "UrlFriendlyName": "pretzels-jerky",
+          "Children": []
+        },
+        {
+          "NodeId": "1_C3A0887",
+          "Description": "Popcorn",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_99CAF0C",
+          "UrlFriendlyName": "popcorn",
+          "Children": []
+        },
+        {
+          "NodeId": "1_31D983C",
+          "Description": "Muesli Bars & Snack Bars",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_99CAF0C",
+          "UrlFriendlyName": "muesli-bars-snack-bars",
+          "Children": []
+        },
+        {
+          "NodeId": "1_E1C68C2",
+          "Description": "Nuts, Dried Fruit & Snack Pots",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_99CAF0C",
+          "UrlFriendlyName": "nuts-dried-fruit-snack-pots",
+          "Children": []
+        },
+        {
+          "NodeId": "1_11C8515",
+          "Description": "Lunch Box Snacks",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_99CAF0C",
+          "UrlFriendlyName": "lunch-box-snacks",
+          "Children": []
+        },
+        {
+          "NodeId": "1_4E09CEA",
+          "Description": "Gluten Free Snacks",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_99CAF0C",
+          "UrlFriendlyName": "gluten-free-snacks",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "NodeId": "1_6F15A6A",
+      "Description": "Biscuits & Crackers",
+      "NodeLevel": 2,
+      "ParentNodeId": "1_717445A",
+      "UrlFriendlyName": "biscuits-crackers",
+      "Children": [
+        {
+          "NodeId": "1_9793AC4",
+          "Description": "Biscuits & Cookies",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_6F15A6A",
+          "UrlFriendlyName": "biscuits-cookies",
+          "Children": []
+        },
+        {
+          "NodeId": "1_283D49E",
+          "Description": "Rice Cakes & Crispbread",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_6F15A6A",
+          "UrlFriendlyName": "rice-cakes-crispbread",
+          "Children": []
+        },
+        {
+          "NodeId": "1_01F6C43",
+          "Description": "Crackers",
+          "NodeLevel": 3,
+          "ParentNodeId": "1_6F15A6A",
+          "UrlFriendlyName": "crackers",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "id": "11456",
+  "level": 1,
+  "originalName": "Drinks",
+  "seoToken": "drinks",
+  "subType": "CORE",
+  "catalogGroupView": [
+    {
+      "id": "98628",
+      "level": 2,
+      "originalName": "Coffee Drinks",
+      "seoToken": "coffee-drinks",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "98656",
+          "level": 3,
+          "originalName": "Beans Coffee",
+          "seoToken": "beans-coffee",
+          "subType": "CORE"
+        },
+        {
+          "id": "98658",
+          "level": 3,
+          "originalName": "Coffee Capsules",
+          "seoToken": "coffee-capsules",
+          "subType": "CORE"
+        },
+        {
+          "id": "98654",
+          "level": 3,
+          "originalName": "Coffee Ground",
+          "seoToken": "coffee-ground",
+          "subType": "CORE"
+        },
+        {
+          "id": "98655",
+          "level": 3,
+          "originalName": "Coffee Instant",
+          "seoToken": "coffee-instant",
+          "subType": "CORE"
+        },
+        {
+          "id": "98657",
+          "level": 3,
+          "originalName": "Mixes Coffee",
+          "seoToken": "mixes-coffee",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8893454",
+      "level": 2,
+      "originalName": "Cold Drinks",
+      "seoToken": "cold-drinks",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8893457",
+          "level": 3,
+          "originalName": "Cold Soft Drinks",
+          "seoToken": "cold-soft-drinks",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893456",
+          "level": 3,
+          "originalName": "Cold Water",
+          "seoToken": "cold-water",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893458",
+          "level": 3,
+          "originalName": "Other Cold Drinks",
+          "seoToken": "other-cold-drinks",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "98622",
+      "level": 2,
+      "originalName": "Cordials",
+      "seoToken": "cordials",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "98634",
+          "level": 3,
+          "originalName": "All Cordials",
+          "seoToken": "all-cordials",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8893442",
+      "level": 2,
+      "originalName": "Energy Drinks",
+      "seoToken": "energy-drinks",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8893445",
+          "level": 3,
+          "originalName": "Bottles",
+          "seoToken": "bottles",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893444",
+          "level": 3,
+          "originalName": "Multipack Cans",
+          "seoToken": "multipack-cans",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893443",
+          "level": 3,
+          "originalName": "Single Cans",
+          "seoToken": "single-cans",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "98626",
+      "level": 2,
+      "originalName": "Flavoured Milk",
+      "seoToken": "flavoured-milk",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "98645",
+          "level": 3,
+          "originalName": "Drinking Chocolate",
+          "seoToken": "drinking-chocolate",
+          "subType": "CORE"
+        },
+        {
+          "id": "98644",
+          "level": 3,
+          "originalName": "Drinks & Powders",
+          "seoToken": "drinks-powders",
+          "subType": "CORE"
+        },
+        {
+          "id": "98646",
+          "level": 3,
+          "originalName": "Kids Milk",
+          "seoToken": "kids-milk",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8893452",
+      "level": 2,
+      "originalName": "Iced Tea",
+      "seoToken": "iced-tea",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8893453",
+          "level": 3,
+          "originalName": "Single & Multi Serve",
+          "seoToken": "single-multi-serve",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "98624",
+      "level": 2,
+      "originalName": "Juice",
+      "seoToken": "juice",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8893451",
+          "level": 3,
+          "originalName": "Canned Juices",
+          "seoToken": "canned-juices",
+          "subType": "CORE"
+        },
+        {
+          "id": "98640",
+          "level": 3,
+          "originalName": "Chilled Juice",
+          "seoToken": "chilled-juice",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893447",
+          "level": 3,
+          "originalName": "Glass Juice Bottles",
+          "seoToken": "glass-juice-bottles",
+          "subType": "CORE"
+        },
+        {
+          "id": "98639",
+          "level": 3,
+          "originalName": "Juices",
+          "seoToken": "juices",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893450",
+          "level": 3,
+          "originalName": "Multi Pack Juice",
+          "seoToken": "multi-pack-juice",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893449",
+          "level": 3,
+          "originalName": "Packs & Pouches",
+          "seoToken": "packs-pouches",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893448",
+          "level": 3,
+          "originalName": "Plastic Juice Bottles",
+          "seoToken": "plastic-juice-bottles",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "98629",
+      "level": 2,
+      "originalName": "Long-Life Milk",
+      "seoToken": "long-life-milk",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "98662",
+          "level": 3,
+          "originalName": "Almond & Other Nut Milk",
+          "seoToken": "almond-other-nut-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "98667",
+          "level": 3,
+          "originalName": "Lactose Free Milk",
+          "seoToken": "lactose-free-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "98661",
+          "level": 3,
+          "originalName": "Long Life Flavoured Milk",
+          "seoToken": "long-life-flavoured-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "98660",
+          "level": 3,
+          "originalName": "Long Life Milk",
+          "seoToken": "long-life-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "98666",
+          "level": 3,
+          "originalName": "Oat Milk",
+          "seoToken": "oat-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "98665",
+          "level": 3,
+          "originalName": "Powdered Milk",
+          "seoToken": "powdered-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "98664",
+          "level": 3,
+          "originalName": "Soy Milk",
+          "seoToken": "soy-milk",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "98630",
+      "level": 2,
+      "originalName": "Non-Alcoholic",
+      "seoToken": "non-alcoholic",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "98669",
+          "level": 3,
+          "originalName": "Non-Alcoholic Drinks",
+          "seoToken": "non-alcoholic-drinks",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "98621",
+      "level": 2,
+      "originalName": "Soft Drinks",
+      "seoToken": "soft-drinks",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "98633",
+          "level": 3,
+          "originalName": "Energy Drink",
+          "seoToken": "energy-drink",
+          "subType": "CORE"
+        },
+        {
+          "id": "98631",
+          "level": 3,
+          "originalName": "Kombucha & Other Drinks",
+          "seoToken": "kombucha-other-drinks",
+          "subType": "CORE"
+        },
+        {
+          "id": "98632",
+          "level": 3,
+          "originalName": "Mixers",
+          "seoToken": "mixers",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893441",
+          "level": 3,
+          "originalName": "Soft Drink Bottles",
+          "seoToken": "soft-drink-bottles",
+          "subType": "CORE"
+        },
+        {
+          "id": "8893440",
+          "level": 3,
+          "originalName": "Soft Drink Cans",
+          "seoToken": "soft-drink-cans",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "98625",
+      "level": 2,
+      "originalName": "Sports Drinks",
+      "seoToken": "sports-drinks",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "98643",
+          "level": 3,
+          "originalName": "All Iced Tea",
+          "seoToken": "all-iced-tea",
+          "subType": "CORE"
+        },
+        {
+          "id": "98642",
+          "level": 3,
+          "originalName": "Sport Drink Powders",
+          "seoToken": "sport-drink-powders",
+          "subType": "CORE"
+        },
+        {
+          "id": "98641",
+          "level": 3,
+          "originalName": "Sports Drink",
+          "seoToken": "sports-drink",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "98627",
+      "level": 2,
+      "originalName": "Tea Drinks",
+      "seoToken": "tea-drinks",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "98647",
+          "level": 3,
+          "originalName": "Tea Black",
+          "seoToken": "tea-black",
+          "subType": "CORE"
+        },
+        {
+          "id": "8902603",
+          "level": 3,
+          "originalName": "Tea Bubble",
+          "seoToken": "tea-bubble",
+          "subType": "CORE"
+        },
+        {
+          "id": "98650",
+          "level": 3,
+          "originalName": "Tea Chai",
+          "seoToken": "tea-chai",
+          "subType": "CORE"
+        },
+        {
+          "id": "98648",
+          "level": 3,
+          "originalName": "Tea Green",
+          "seoToken": "tea-green",
+          "subType": "CORE"
+        },
+        {
+          "id": "98652",
+          "level": 3,
+          "originalName": "Tea Herbal",
+          "seoToken": "tea-herbal",
+          "subType": "CORE"
+        },
+        {
+          "id": "98653",
+          "level": 3,
+          "originalName": "Tea Loose Leaf",
+          "seoToken": "tea-loose-leaf",
+          "subType": "CORE"
+        },
+        {
+          "id": "98651",
+          "level": 3,
+          "originalName": "Tea Organic",
+          "seoToken": "tea-organic",
+          "subType": "CORE"
+        },
+        {
+          "id": "98649",
+          "level": 3,
+          "originalName": "Tea White",
+          "seoToken": "tea-white",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "98623",
+      "level": 2,
+      "originalName": "Water",
+      "seoToken": "water",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "98638",
+          "level": 3,
+          "originalName": "Flavoured Water",
+          "seoToken": "flavoured-water",
+          "subType": "CORE"
+        },
+        {
+          "id": "98636",
+          "level": 3,
+          "originalName": "Mineral Water",
+          "seoToken": "mineral-water",
+          "subType": "CORE"
+        },
+        {
+          "id": "98637",
+          "level": 3,
+          "originalName": "Sparkling Water",
+          "seoToken": "sparkling-water",
+          "subType": "CORE"
+        },
+        {
+          "id": "98635",
+          "level": 3,
+          "originalName": "Still Water",
+          "seoToken": "still-water",
+          "subType": "CORE"
+        }
+      ]
+    }
+  ]
+}

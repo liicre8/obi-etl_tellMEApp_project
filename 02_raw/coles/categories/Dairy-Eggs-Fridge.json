@@ -1,0 +1,708 @@
+{
+  "id": "1300",
+  "level": 1,
+  "originalName": "Dairy, Eggs & Fridge",
+  "seoToken": "dairy-eggs-fridge",
+  "subType": "CORE",
+  "catalogGroupView": [
+    {
+      "id": "8915800",
+      "level": 2,
+      "originalName": "Butter & Margarine",
+      "seoToken": "butter-margarine",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8915808",
+          "level": 3,
+          "originalName": "Alternative Spreads",
+          "seoToken": "alternative-spreads",
+          "subType": "CORE"
+        },
+        {
+          "id": "8915807",
+          "level": 3,
+          "originalName": "Blends",
+          "seoToken": "blends",
+          "subType": "CORE"
+        },
+        {
+          "id": "8915806",
+          "level": 3,
+          "originalName": "Butter",
+          "seoToken": "butter",
+          "subType": "CORE"
+        },
+        {
+          "id": "8915805",
+          "level": 3,
+          "originalName": "Margarine",
+          "seoToken": "margarine",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8882200",
+      "level": 2,
+      "originalName": "Cheese",
+      "seoToken": "cheese",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8882201",
+          "level": 3,
+          "originalName": "Block Cheese",
+          "seoToken": "block-cheese",
+          "subType": "CORE"
+        },
+        {
+          "id": "8882202",
+          "level": 3,
+          "originalName": "Blue Cheese",
+          "seoToken": "blue-cheese",
+          "subType": "CORE"
+        },
+        {
+          "id": "8882203",
+          "level": 3,
+          "originalName": "Brie & Soft Cheese",
+          "seoToken": "brie-soft-cheese",
+          "subType": "CORE"
+        },
+        {
+          "id": "8882204",
+          "level": 3,
+          "originalName": "Cheddar & Tasty Cheese",
+          "seoToken": "cheddar-tasty-cheese",
+          "subType": "CORE"
+        },
+        {
+          "id": "8882205",
+          "level": 3,
+          "originalName": "Cheese Snacks",
+          "seoToken": "cheese-snacks",
+          "subType": "CORE"
+        },
+        {
+          "id": "8882206",
+          "level": 3,
+          "originalName": "Cream Cheese & Spreads",
+          "seoToken": "cream-cheese-spreads",
+          "subType": "CORE"
+        },
+        {
+          "id": "8882207",
+          "level": 3,
+          "originalName": "Feta Cheese",
+          "seoToken": "feta-cheese",
+          "subType": "CORE"
+        },
+        {
+          "id": "8882208",
+          "level": 3,
+          "originalName": "Firm Cheese",
+          "seoToken": "firm-cheese",
+          "subType": "CORE"
+        },
+        {
+          "id": "8915809",
+          "level": 3,
+          "originalName": "Gourmet Cheese",
+          "seoToken": "gourmet-cheese",
+          "subType": "CORE"
+        },
+        {
+          "id": "8882210",
+          "level": 3,
+          "originalName": "Grated Cheese",
+          "seoToken": "grated-cheese",
+          "subType": "CORE"
+        },
+        {
+          "id": "8882212",
+          "level": 3,
+          "originalName": "Pates & Platters",
+          "seoToken": "pates-platters",
+          "subType": "CORE"
+        },
+        {
+          "id": "8882213",
+          "level": 3,
+          "originalName": "Sliced Cheese",
+          "seoToken": "sliced-cheese",
+          "subType": "CORE"
+        },
+        {
+          "id": "8882209",
+          "level": 3,
+          "originalName": "Specialty & Entertaining Cheese",
+          "seoToken": "specialty-entertaining-cheese",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "693421331",
+      "level": 2,
+      "originalName": "Chilled Juice",
+      "seoToken": "chilled-juice",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "693421910",
+          "level": 3,
+          "originalName": "Fresh Juice",
+          "seoToken": "fresh-juice",
+          "subType": "CORE"
+        },
+        {
+          "id": "693421893",
+          "level": 3,
+          "originalName": "Juice Drinks",
+          "seoToken": "juice-drinks",
+          "subType": "CORE"
+        },
+        {
+          "id": "693422410",
+          "level": 3,
+          "originalName": "Kombucha & Coconut Water",
+          "seoToken": "kombucha-coconut-water",
+          "subType": "CORE"
+        },
+        {
+          "id": "693421495",
+          "level": 3,
+          "originalName": "On the Go",
+          "seoToken": "on-the-go",
+          "subType": "CORE"
+        },
+        {
+          "id": "693422411",
+          "level": 3,
+          "originalName": "Reconstituted Juice",
+          "seoToken": "reconstituted-juice",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8915801",
+      "level": 2,
+      "originalName": "Cream & Custard",
+      "seoToken": "cream-custard",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8915810",
+          "level": 3,
+          "originalName": "Cream",
+          "seoToken": "cream",
+          "subType": "CORE"
+        },
+        {
+          "id": "8915811",
+          "level": 3,
+          "originalName": "Custards",
+          "seoToken": "custards",
+          "subType": "CORE"
+        },
+        {
+          "id": "8915812",
+          "level": 3,
+          "originalName": "Sour Cream",
+          "seoToken": "sour-cream",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8915802",
+      "level": 2,
+      "originalName": "Dairy Desserts",
+      "seoToken": "dairy-desserts",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8915813",
+          "level": 3,
+          "originalName": "Chilled Dairy Desserts",
+          "seoToken": "chilled-dairy-desserts",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8911600",
+      "level": 2,
+      "originalName": "Dairy World Foods",
+      "seoToken": "dairy-world-foods",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8911603",
+          "level": 3,
+          "originalName": "Asian Foods",
+          "seoToken": "asian-foods",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8915803",
+      "level": 2,
+      "originalName": "Dips & Pate",
+      "seoToken": "dips-pate",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8915814",
+          "level": 3,
+          "originalName": "Dips",
+          "seoToken": "dips",
+          "subType": "CORE"
+        },
+        {
+          "id": "8915816",
+          "level": 3,
+          "originalName": "Paste",
+          "seoToken": "paste",
+          "subType": "CORE"
+        },
+        {
+          "id": "8915815",
+          "level": 3,
+          "originalName": "Pate",
+          "seoToken": "pate",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "246656",
+      "level": 2,
+      "originalName": "Eggs",
+      "seoToken": "eggs",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8882000",
+          "level": 3,
+          "originalName": "Barn Eggs",
+          "seoToken": "barn-eggs",
+          "subType": "CORE"
+        },
+        {
+          "id": "8882002",
+          "level": 3,
+          "originalName": "Free Range Eggs",
+          "seoToken": "free-range-eggs",
+          "subType": "CORE"
+        },
+        {
+          "id": "8882003",
+          "level": 3,
+          "originalName": "Specialty Eggs",
+          "seoToken": "specialty-eggs",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "777844",
+      "level": 2,
+      "originalName": "Fresh Pasta & Sauces",
+      "seoToken": "fresh-pasta-sauces",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "421112",
+          "level": 3,
+          "originalName": "Fresh Pasta & Noodles",
+          "seoToken": "fresh-pasta-noodles",
+          "subType": "CORE"
+        },
+        {
+          "id": "621674",
+          "level": 3,
+          "originalName": "Pasta Sauces",
+          "seoToken": "pasta-sauces",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "756654",
+      "level": 2,
+      "originalName": "Garlic Bread & Pastry Sheets",
+      "seoToken": "garlic-bread-pastry-sheets",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "2156111",
+          "level": 3,
+          "originalName": "Chilled Garlic & Specialty Breads",
+          "seoToken": "chilled-garlic-specialty-breads",
+          "subType": "CORE"
+        },
+        {
+          "id": "3213222",
+          "level": 3,
+          "originalName": "Chilled Pastry & Dough",
+          "seoToken": "chilled-pastry-dough",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8895200",
+      "level": 2,
+      "originalName": "Long Life-Milk",
+      "seoToken": "long-life-milk",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8895203",
+          "level": 3,
+          "originalName": "Almond & Other Nut Milk",
+          "seoToken": "almond-other-nut-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "8895208",
+          "level": 3,
+          "originalName": "Lactose Free-Milk",
+          "seoToken": "lactose-free-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "8895202",
+          "level": 3,
+          "originalName": "Long-Life Flavoured Milk",
+          "seoToken": "long-life-flavoured-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "8895201",
+          "level": 3,
+          "originalName": "Long-Life-Milk",
+          "seoToken": "long-life-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "8895207",
+          "level": 3,
+          "originalName": "Oat Milk",
+          "seoToken": "oat-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "8895206",
+          "level": 3,
+          "originalName": "Powdered Long Life Milk",
+          "seoToken": "powdered-long-life-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "8895205",
+          "level": 3,
+          "originalName": "Soy Milk",
+          "seoToken": "soy-milk",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8881800",
+      "level": 2,
+      "originalName": "Milk",
+      "seoToken": "milk",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8881804",
+          "level": 3,
+          "originalName": "Flavoured Milk",
+          "seoToken": "flavoured-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "8881801",
+          "level": 3,
+          "originalName": "Full Cream Milk",
+          "seoToken": "full-cream-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "8881808",
+          "level": 3,
+          "originalName": "Probiotic Milk",
+          "seoToken": "probiotic-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "8881802",
+          "level": 3,
+          "originalName": "Skim & Low Fat Milk",
+          "seoToken": "skim-low-fat-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "8881807",
+          "level": 3,
+          "originalName": "Soy & Almond Milk",
+          "seoToken": "soy-almond-milk",
+          "subType": "CORE"
+        },
+        {
+          "id": "8881805",
+          "level": 3,
+          "originalName": "Specialty Milk",
+          "seoToken": "specialty-milk",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "799618770",
+      "level": 2,
+      "originalName": "NEW Ready Meals & Soups",
+      "seoToken": "new-ready-meals-soups",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "799619172",
+          "level": 3,
+          "originalName": "Easy Meals",
+          "seoToken": "easy-meals",
+          "subType": "CORE"
+        },
+        {
+          "id": "799619331",
+          "level": 3,
+          "originalName": "Ready Meal",
+          "seoToken": "ready-meal",
+          "subType": "CORE"
+        },
+        {
+          "id": "799619377",
+          "level": 3,
+          "originalName": "Seasonal Soups",
+          "seoToken": "seasonal-soups",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "79555",
+      "level": 2,
+      "originalName": "Packaged Deli Meats",
+      "seoToken": "packaged-deli-meats",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "795553",
+          "level": 3,
+          "originalName": "Packaged Bacon",
+          "seoToken": "packaged-bacon",
+          "subType": "CORE"
+        },
+        {
+          "id": "795551",
+          "level": 3,
+          "originalName": "Packaged Deli Meat",
+          "seoToken": "packaged-deli-meat",
+          "subType": "CORE"
+        },
+        {
+          "id": "795552",
+          "level": 3,
+          "originalName": "Packaged Frankfurts",
+          "seoToken": "packaged-frankfurts",
+          "subType": "CORE"
+        },
+        {
+          "id": "795554",
+          "level": 3,
+          "originalName": "Packaged Salami & Kabana",
+          "seoToken": "packaged-salami-kabana",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "477564",
+      "level": 2,
+      "originalName": "Ready To Eat Meals",
+      "seoToken": "ready-to-eat-meals",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8904816",
+          "level": 3,
+          "originalName": "Grab & Go Snacks",
+          "seoToken": "grab-go-snacks",
+          "subType": "CORE"
+        },
+        {
+          "id": "124351",
+          "level": 3,
+          "originalName": "Hot Snacks & Sides",
+          "seoToken": "hot-snacks-sides",
+          "subType": "CORE"
+        },
+        {
+          "id": "679997",
+          "level": 3,
+          "originalName": "Indian Food & Meals",
+          "seoToken": "indian-food-meals",
+          "subType": "CORE"
+        },
+        {
+          "id": "15213",
+          "level": 3,
+          "originalName": "Italian Meals & Pasta",
+          "seoToken": "italian-meals-pasta",
+          "subType": "CORE"
+        },
+        {
+          "id": "124555",
+          "level": 3,
+          "originalName": "Other Ready Meals",
+          "seoToken": "other-ready-meals",
+          "subType": "CORE"
+        },
+        {
+          "id": "15214",
+          "level": 3,
+          "originalName": "Pies & Pastries",
+          "seoToken": "pies-pastries",
+          "subType": "CORE"
+        },
+        {
+          "id": "546777",
+          "level": 3,
+          "originalName": "Pizzas",
+          "seoToken": "pizzas",
+          "subType": "CORE"
+        },
+        {
+          "id": "654654",
+          "level": 3,
+          "originalName": "Soups & Stews",
+          "seoToken": "soups-stews",
+          "subType": "CORE"
+        },
+        {
+          "id": "12443",
+          "level": 3,
+          "originalName": "Thai Meals",
+          "seoToken": "thai-meals",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "4778877",
+      "level": 2,
+      "originalName": "Vegetarian & Vegan",
+      "seoToken": "vegetarian-vegan",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "654223",
+          "level": 3,
+          "originalName": "Falafels",
+          "seoToken": "falafels",
+          "subType": "CORE"
+        },
+        {
+          "id": "4454454",
+          "level": 3,
+          "originalName": "Soy",
+          "seoToken": "soy",
+          "subType": "CORE"
+        },
+        {
+          "id": "6774666",
+          "level": 3,
+          "originalName": "Tofu",
+          "seoToken": "tofu",
+          "subType": "CORE"
+        },
+        {
+          "id": "8909600",
+          "level": 3,
+          "originalName": "Vegan Cheese",
+          "seoToken": "vegan-cheese",
+          "subType": "CORE"
+        },
+        {
+          "id": "8894401",
+          "level": 3,
+          "originalName": "Vegetarian Snacking",
+          "seoToken": "vegetarian-snacking",
+          "subType": "CORE"
+        },
+        {
+          "id": "878734",
+          "level": 3,
+          "originalName": "Veggie Burgers & Sausages",
+          "seoToken": "veggie-burgers-sausages",
+          "subType": "CORE"
+        },
+        {
+          "id": "8912200",
+          "level": 3,
+          "originalName": "Veggie Meat & Chicken",
+          "seoToken": "veggie-meat-chicken",
+          "subType": "CORE"
+        }
+      ]
+    },
+    {
+      "id": "8915804",
+      "level": 2,
+      "originalName": "Yoghurt",
+      "seoToken": "yoghurt",
+      "subType": "CORE",
+      "catalogGroupView": [
+        {
+          "id": "8915819",
+          "level": 3,
+          "originalName": "Dairy Free",
+          "seoToken": "dairy-free",
+          "subType": "CORE"
+        },
+        {
+          "id": "8915821",
+          "level": 3,
+          "originalName": "Multipacks",
+          "seoToken": "multipacks",
+          "subType": "CORE"
+        },
+        {
+          "id": "8915820",
+          "level": 3,
+          "originalName": "Pouch",
+          "seoToken": "pouch",
+          "subType": "CORE"
+        },
+        {
+          "id": "8915822",
+          "level": 3,
+          "originalName": "Single Serve",
+          "seoToken": "single-serve",
+          "subType": "CORE"
+        },
+        {
+          "id": "8915817",
+          "level": 3,
+          "originalName": "Yoghurt Tubs",
+          "seoToken": "yoghurt-tubs",
+          "subType": "CORE"
+        }
+      ]
+    }
+  ]
+}
