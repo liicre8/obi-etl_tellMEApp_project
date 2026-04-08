@@ -1,120 +1,170 @@
 [
+
+  
+  
   {
-    "source_url": "https://www.coles.com.au/product/ayam-100percent-natural-coconut-cream-400ml-3753559",
-    "name": "Ayam 100% Natural Coconut Cream | 400mL",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3753559.jpg&w=640&q=90",
-    "source_id": "3753559",
-    "barcode": "9556041603942",
-    "category_id": "22770",
-    "subcategory_id": "22848",
-    "subsubcategory_id": "22849",
+    "source_url": "https://www.coles.com.au/product/maybelline-instant-age-rewind-eraser-dark-circles-medium-6ml-2856013",
+    "name": "Maybelline Instant Age Rewind Eraser Dark Circles Medium | 6mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F2%2F2856013.jpg&w=640&q=90",
+    "source_id": "2856013",
+    "barcode": "9344329130675",
+    "category_id": "22394",
+    "subcategory_id": "22400",
+    "subsubcategory_id": "22402",
     "shop": "coles",
-    "weight": "400ml",
+    "weight": "6ml",
     "prices": [
       {
         "state": "NSW",
-        "price": "500",
-        "price_per_unit": "125",
-        "price_unit": "100ML"
+        "price": "1150",
+        "price_per_unit": "1917",
+        "price_unit": "10ML"
       }
     ]
   },
   {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/489140/ayam-100-natural-coconut-cream",
-    "name": "Ayam 100% Natural Coconut Cream 400mL",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/489140.jpg",
-    "source_id": "489140",
-    "barcode": "9556041603942",
-    "category_id": "22770",
-    "subcategory_id": "22848",
-    "subsubcategory_id": "22849",
+    "_id": "68a490665c0c3ee77d71dc84",
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/716191/maybelline-instant-age-rewind-dark-circle-concealer-medium",
+    "name": "Maybelline Instant Age Rewind Dark Circle Concealer - Medium 6ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/716191.jpg",
+    "source_id": "716191",
+    "barcode": "9344329130675",
+    "category_id": "22394",
+    "subcategory_id": "22400",
+    "subsubcategory_id": "23851",
     "shop": "Woolworths",
-    "weight": "400mL",
+    "weight": "6mL",
     "prices": [
       {
         "state": "NSW",
-        "price": "500",
-        "price_per_unit": "125",
-        "price_unit": "100ML"
+        "price": "1150",
+        "price_per_unit": "1917",
+        "price_unit": "10ML"
       }
     ]
   },
   {
-    "source_url": "https://www.coles.com.au/product/ayam-100percent-natural-coconut-milk-400ml-3753560",
-    "name": "Ayam 100% Natural Coconut Milk | 400mL",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3753560.jpg&w=640&q=90",
-    "source_id": "3753560",
-    "barcode": "9556041604734",
-    "category_id": "22770",
-    "subcategory_id": "22848",
-    "subsubcategory_id": "22849",
+    "source_url": "https://www.coles.com.au/product/my-dog-with-gourmet-beef-and-roast-vegetable-flavour-dry-dog-food-1.5kg-3014442",
+    "name": "My Dog With Gourmet Beef And Roast Vegetable Flavour Dry Dog Food | 1.5kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F3%2F3014442.jpg&w=640&q=90",
+    "source_id": "3014442",
+    "barcode": "9334214042084",
+    "category_id": "22916",
+    "subcategory_id": "23373",
+    "subsubcategory_id": "22939",
     "shop": "coles",
-    "weight": "400ml",
+    "weight": "1.5kg",
     "prices": [
       {
         "state": "NSW",
-        "price": "500",
-        "price_per_unit": "125",
-        "price_unit": "100ML"
+        "price": "1400",
+        "price_per_unit": "93",
+        "price_unit": "100G"
       }
     ]
   },
   {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/489128/ayam-100-natural-coconut-milk",
-    "name": "Ayam 100% Natural Coconut Milk 400mL",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/489128.jpg",
-    "source_id": "489128",
-    "barcode": "9556041604734",
-    "category_id": "22770",
-    "subcategory_id": "22848",
-    "subsubcategory_id": "22849",
+    "_id": "68a4a4f8ec8650efa9aecd34",
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/659624/my-dog-gourmet-beef-with-roast-vegetables-flavours-dry-food",
+    "name": "My Dog Gourmet Beef With Roast Vegetables Flavours Dry Food 1.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/659624.jpg",
+    "source_id": "659624",
+    "barcode": "9334214042084",
+    "category_id": "22916",
+    "subcategory_id": "23373",
+    "subsubcategory_id": "22959",
     "shop": "Woolworths",
-    "weight": "400mL",
+    "weight": "1.5kg",
     "prices": [
       {
         "state": "NSW",
-        "price": "500",
-        "price_per_unit": "125",
-        "price_unit": "100ML"
+        "price": "1400",
+        "price_per_unit": "93",
+        "price_unit": "100G"
       }
     ]
   },
+
+  
   {
-    "source_url": "https://www.coles.com.au/product/ayam-100-percent-natural-coconut-milk-270ml-6165003",
-    "name": "Ayam 100 % Natural Coconut Milk | 270mL",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F6%2F6165003.jpg&w=640&q=90",
-    "source_id": "6165003",
-    "barcode": "9311627010183",
-    "category_id": "22770",
-    "subcategory_id": "22848",
-    "subsubcategory_id": "22849",
+    "source_url": "https://www.coles.com.au/product/supercoat-adult-small-breed-with-chicken-dry-dog-food-2.8kg-5486770",
+    "name": "Supercoat Adult Small Breed With Chicken Dry Dog Food | 2.8kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F5%2F5486770.jpg&w=640&q=90",
+    "source_id": "5486770",
+    "barcode": "9300605147409",
+    "category_id": "22916",
+    "subcategory_id": "23373",
+    "subsubcategory_id": "22939",
     "shop": "coles",
-    "weight": "270ml",
+    "weight": "2.8kg",
     "prices": [
       {
         "state": "NSW",
-        "price": "400",
-        "price_per_unit": "148",
+        "price": "1800",
+        "price_per_unit": "64",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  {
+    "_id": "68a4a4feec8650efa9aece31",
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/272151/supercoat-small-breed-chicken-dry-dog-food",
+    "name": "Supercoat Small Breed Chicken Dry Dog Food 2.8kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/272151.jpg",
+    "source_id": "272151",
+    "barcode": "9300605147409",
+    "category_id": "22916",
+    "subcategory_id": "23373",
+    "subsubcategory_id": "22959",
+    "shop": "Woolworths",
+    "weight": "2.8kg",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1800",
+        "price_per_unit": "64",
+        "price_unit": "100G"
+      }
+    ]
+  },
+  
+  {
+    "source_url": "https://www.coles.com.au/product/garnier-brightening-vitamin-c-cream-cleanser-250ml-9029577",
+    "name": "Garnier Brightening Vitamin C Cream Cleanser | 250mL",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fcdn.productimages.coles.com.au%2Fproductimages%2F9%2F9029577.jpg&w=640&q=90",
+    "source_id": "9029577",
+    "barcode": "3600542586061",
+    "category_id": "22394",
+    "subcategory_id": "23883",
+    "subsubcategory_id": "23887",
+    "shop": "coles",
+    "weight": "250ml",
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1050",
+        "price_per_unit": "420",
         "price_unit": "100ML"
       }
     ]
   },
   {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/57198/ayam-100-natural-coconut-milk",
-    "name": "Ayam 100% Natural Coconut Milk 270mL",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/057198.jpg",
-    "source_id": "57198",
-    "barcode": "9311627010183",
-    "category_id": "22770",
-    "subcategory_id": "22848",
-    "subsubcategory_id": "22849",
+    "_id": "68a490915c0c3ee77d71e30b",
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/907757/garnier-skin-active-brightening-cream-cleanser-vitamin-c",
+    "name": "Garnier Skin Active Brightening Cream Cleanser Vitamin C 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/907757.jpg",
+    "source_id": "907757",
+    "barcode": "3600542586061",
+    "category_id": "22394",
+    "subcategory_id": "23883",
+    "subsubcategory_id": "23887",
     "shop": "Woolworths",
-    "weight": "270mL",
+    "weight": "250mL",
     "prices": [
       {
         "state": "NSW",
-        "price": "400",
-        "price_per_unit": "148",
+        "price": "2100",
+        "price_per_unit": "840",
         "price_unit": "100ML"
       }
     ]

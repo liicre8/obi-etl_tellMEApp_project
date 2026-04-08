@@ -1,3 +1,4 @@
+
 const categories = [
     //Baby//
     //////////////////////////////////////Baby
@@ -15,15 +16,15 @@ const categories = [
                     { extensionCategory: "Nappies 12-18 Months (9-12kg)", subId: "22048", childId: "22049" },
                     { extensionCategory: "Nappies 18 Months+ (10kg+)", subId: "22048", childId: "22050" },
                     { extensionCategory: "Swimming Nappies", subId: "22048", childId: "22058" },
-                    // { extensionCategory: "Nighttime Nappies", subId: "22048", childId: "" },
-                    // { extensionCategory: "Reusable Nappies", subId: "22048", childId: "" },
+                    { extensionCategory: "Nighttime Nappies", subId: "22048", childId: "22054" },
+                    { extensionCategory: "Reusable Nappies", subId: "22048", childId: "22054" },
                 ]
             },
             {
                 subCategory: "Wipes & Changing",
                 childItems: [
                     { extensionCategory: "Wipes", subId: "22048", childId: "22059" },
-                    // { extensionCategory: "Change Tables & Accessories", subId: "", childId: "" },
+                    { extensionCategory: "Change Tables & Accessories", subId: "22048", childId: "22059" },
                 ]
             },
             {
@@ -82,7 +83,30 @@ const categories = [
                 childItems: [
                     { extensionCategory: "Pregnancy Tests", catId:"22394", subId: "22440", childId: "23895" },
                     { extensionCategory: "Vitamins", catId:"22394", subId: "22450", childId: "23916" },
-                    // { extensionCategory: "After Pregnancy Care", subId: "24060", childId: "" },
+                    { extensionCategory: "After Pregnancy Care", catId: "22394", subId: "22440", childId: "23922" },
+                ]
+            },
+
+            {
+                subCategory: "Toys & Playtime",
+                childItems: [
+                    { extensionCategory: "Interactive Toys", subId: "22016", childId: "23823" },
+                    { extensionCategory: "Play Mats & Activity Gyms", subId: "22016", childId: "23823" },
+                    { extensionCategory: "Activity Centres & Walkers", subId: "22016", childId: "23823" },
+                    { extensionCategory: "Playpens & Playsets", subId: "22016", childId: "23823" },
+                    { extensionCategory: "Rockers & Bouncers", subId: "22016", childId: "23823" },
+                    { extensionCategory: "Books", subId: "22016", childId: "23823" },
+                    { extensionCategory: "Soft Plush Toys", subId: "22016", childId: "23823" },
+                    { extensionCategory: "Education & Learning", subId: "22016", childId: "23823" },
+                    { extensionCategory: "Trikes, Cars & Rockers", subId: "22016", childId: "23823" },
+                ]
+            },
+            {
+                subCategory: "Baby & Toddler Clothing",
+                childItems: [
+                    { extensionCategory: "Newborn", subId: "22016", childId: "22018" },
+                    { extensionCategory: "Accessories", subId: "22016", childId: "22018" },
+                    { extensionCategory: "Toddler", subId: "22016", childId: "22018" },
                 ]
             },
             
@@ -95,27 +119,14 @@ const categories = [
             //         { extensionCategory: "Mattresses", subId: "", childId: "" },
             //     ]
             // },
-            // {
-            //     subCategory: "Toys & Playtime",
-            //     childItems: [
-            //         { extensionCategory: "Interactive Toys", subId: "22016", childId: "23823" },
-            //         { extensionCategory: "Play Mats & Activity Gyms", subId: "22016", childId: "23823" },
-            //         { extensionCategory: "Activity Centres & Walkers", subId: "22016", childId: "23823" },
-            //         { extensionCategory: "Playpens & Playsets", subId: "22016", childId: "23823" },
-            //         { extensionCategory: "Rockers & Bouncers", subId: "22016", childId: "23823" },
-            //         { extensionCategory: "Books", subId: "22016", childId: "23823" },
-            //         { extensionCategory: "Soft Plush Toys", subId: "22016", childId: "23823" },
-            //         { extensionCategory: "Education & Learning", subId: "22016", childId: "23823" },
-            //         { extensionCategory: "Trikes, Cars & Rockers", subId: "22016", childId: "23823" },
-            //     ]
-            // },
+           
             // {
             //     subCategory: "Baby Travel & Accessories",
             //     childItems: [
-            //         { extensionCategory: "Carriers", subId: "22016", childId: "23822" },
-            //         { extensionCategory: "Car Seats", subId: "22016", childId: "23822" },
-            //         { extensionCategory: "Prams", subId: "22016", childId: "23822" },
-            //         { extensionCategory: "Strollers", subId: "22016", childId: "23822" },
+            //         { extensionCategory: "Carriers", subId: "", childId: "" },
+            //         { extensionCategory: "Car Seats", subId: "", childId: "" },
+            //         { extensionCategory: "Prams", subId: "", childId: "" },
+            //         { extensionCategory: "Strollers", subId: "", childId: "" },
             //     ]
             // },
                 // {
@@ -130,14 +141,7 @@ const categories = [
             //         { extensionCategory: "Sleeping Bags", subId: "", childId: "" },
             //     ]
             // },
-            // {
-            //     subCategory: "Baby & Toddler Clothing",
-            //     childItems: [
-            //         { extensionCategory: "Newborn", subId: "22016", childId: "22018" },
-            //         { extensionCategory: "Accessories", subId: "22016", childId: "22018" },
-            //         { extensionCategory: "Toddler", subId: "22016", childId: "22018" },
-            //     ]
-            // },
+          
         ]
     },
 
@@ -155,8 +159,8 @@ const categories = [
                     { extensionCategory: "Bread Rolls", subId: "22062", childId: "22065" },
                     { extensionCategory: "Donuts & Cookies", subId: "22062", childId: "22066" },
                     { extensionCategory: "Pastries & Desserts", subId: "22062", childId: "22068" },
-                    { extensionCategory: "Muffins & Scones", subId: "", childId: "" },
-                    { extensionCategory: "Bakery Cakes", subId: "", childId: "" },
+                    { extensionCategory: "Muffins & Scones", subId: "22074", childId: "22081" },
+                    { extensionCategory: "Bakery Cakes", subId: "22074", childId: "22076" },
                 ]
             },
             {
@@ -197,7 +201,7 @@ const categories = [
                     { extensionCategory: "Block Cheese", subId: "22090", childId: "22091" },
                     { extensionCategory: "Sliced Cheese", subId: "22090", childId: "22099" },
                     { extensionCategory: "Grated Cheese", subId: "22090", childId: "22096" },
-                    { extensionCategory: "Entertaining Cheese", catId: "24023", subId: "24025", childId: "24032" },
+                    { extensionCategory: "Entertaining Cheese", subId: "22090", childId: "22094" },
                     { extensionCategory: "Soft Cheese", subId: "22090", childId: "22101" },
                     { extensionCategory: "Snacking Cheese", subId: "22090", childId: "22100" },
                     { extensionCategory: "Cooking Cheese", subId: "22090", childId: "22093" },
@@ -225,10 +229,10 @@ const categories = [
                     { extensionCategory: "Thick & Creamy Yoghurt", subId: "22158", childId: "22161" },
                     { extensionCategory: "Kids Yoghurt", subId: "22158", childId: "22159" },
                     { extensionCategory: "High Protein Yoghurt", subId: "22158", childId: "22161" },
-                    { extensionCategory: "Plant Based Yoghurt", subId: "22158", childId: "22161" },
+                    { extensionCategory: "Plant Based Yoghurt", subId: "22158", childId: "23990" },
                     { extensionCategory: "Kefir", subId: "22158", childId: "22161" },
-                    { extensionCategory: "Lactose Free", subId: "22158", childId: "22161" },
-                    { extensionCategory: "Probiotic & Gut Health Yoghurt", subId: "22158", childId: "22161" },
+                    { extensionCategory: "Lactose Free", subId: "22158", childId: "23990" },
+                    { extensionCategory: "Probiotic & Gut Health Yoghurt", subId: "22158", childId: "23991" },
                 ]
             },
             {
@@ -307,7 +311,7 @@ const categories = [
                 subCategory: "Deli Specialties",
                 childItems: [
                     { extensionCategory: "Antipasto", subId: "24025", childId: "24033" },
-                    { extensionCategory: "Dips & Pate", subId: "24025", childId: "24031" },
+                    { extensionCategory: "Dips & Pâté", subId: "24025", childId: "24031" },
                     { extensionCategory: "Gourmet Cheese", subId: "24025", childId: "24032" },
                     { extensionCategory: "Platters", subId: "24025", childId: "24034" },
                 ]
@@ -397,8 +401,15 @@ const categories = [
                     { extensionCategory: "Oat & Rice Milk", subId: "22199", childId: "23843" },
                     { extensionCategory: "Lactose Free Milk", subId: "22199", childId: "23841" },
                     { extensionCategory: "Long Life Milk", catId:"22089", subId: "22132", childId: "22136" },
+                    { extensionCategory: "Condensed & Evaporated Milk", catId:"22089", subId: "22132", childId: "22136" },
                 ]
             },
+            // {
+            //     subCategory: "Home Brew",
+            //     childItems: [
+            //         { extensionCategory: "Homebrew", subId: "", childId: "" },
+            //     ]
+            // },
             {
                 subCategory: "Low & Non Alcoholic Drinks",
                 childItems: [
@@ -509,7 +520,7 @@ const categories = [
             {
                 subCategory: "Frozen Gluten Free",
                 childItems: [
-                    { extensionCategory: "Gluten Free", subId: "22299", childId: "22300" },
+                    { extensionCategory: "Gluten Free", subId: "22327", childId: "22331" },
                 ]
             },
         ]
@@ -541,7 +552,7 @@ const categories = [
             {
                 subCategory: "Vegetables",
                 childItems: [
-                    { extensionCategory: "Organic Vegetables", subId: "22379", childId: "22381" },
+                    { extensionCategory: "Organic Vegetables", subId: "22379", childId: "23987" },
                     { extensionCategory: "Prepacked Vegetables", subId: "22379", childId: "22390" },
                     { extensionCategory: "Potatoes & Pumpkins", subId: "22379", childId: "22389" },
                     { extensionCategory: "Carrots, Onions & Root Veg", subId: "22379", childId: "22383" },
@@ -559,7 +570,6 @@ const categories = [
                     { extensionCategory: "Sprouts", subId: "22372", childId: "22378" },
                     { extensionCategory: "Kids Snacks & Lunch", subId: "22379", childId: "22384" },
                     { extensionCategory: "Snacking", subId: "22379", childId: "22383" },
-                    { extensionCategory: "Carrots, Onions & Root Veg", subId: "22379", childId: "22386" },
                 ]
             },
             {
@@ -572,7 +582,7 @@ const categories = [
                     { extensionCategory: "Spinach & Rocket", subId: "22372", childId: "22376" },
                     { extensionCategory: "Beetroot & Carrot", subId: "22372", childId: "22374" },
                     { extensionCategory: "Sprouts", subId: "22372", childId: "22378" },
-                    { extensionCategory: "Organic Salad", subId: "22372", childId: "22374" },
+                    { extensionCategory: "Organic Salad", subId: "22372", childId: "22370" },
                     { extensionCategory: "Salad Vegetables", subId: "22372", childId: "22374" },
                 ]
             },
@@ -624,17 +634,16 @@ const categories = [
                 subCategory: "Health Foods",
                 childItems: [
                     // for pantry
-                    { extensionCategory: "Breakfast & Spreads", catId: '22770', subId: "22832", childId: "22834" },
+                    { extensionCategory: "Breakfast & Spreads", catId: '22770', subId: "24007", childId: "22834" },
                     { extensionCategory: "Pasta, Rice & Grains", catId: '22770', subId: "22832", childId: "22835" },
                     { extensionCategory: "Cooking Needs", catId: '22770', subId: "22832", childId: "22835" },
-                    { extensionCategory: "Gluten Free", catId: '22770', subId: "22832", childId: "22838" },
-                    { extensionCategory: "Vegan", catId: '22770', subId: "24007", childId: "22840" },
+                    { extensionCategory: "Gluten Free", catId: '22770', subId: "22832", childId: "22840" },
+                    { extensionCategory: "Vegan", catId: '22770', subId: "22832", childId: "22840" },
                     { extensionCategory: "Dairy Free", catId: '22770', subId: "22832", childId: "22840" },
-                    { extensionCategory: "Sweet & Savoury Snacks", catId: '22770', subId: "22889", childId: "22890" },
+                    { extensionCategory: "Sweet & Savoury Snacks", catId: '22770', subId: "22832", childId: "22840" },
                     { extensionCategory: "Confectionery", catId: '22770', subId: "22889", childId: "22894" },
                     { extensionCategory: "Dried Fruit, Nuts & Seeds",  catId: '22770', subId: "22771", childId: "22781" },
                     { extensionCategory: "Baking", catId: '22770', subId: "22771", childId: "22774" },
-                    { extensionCategory: "Cooking Needs",  catId: '22770', subId: "22832", childId: "22835" },
                     { extensionCategory: "Drinks",  catId: '22770', subId: "22832", childId: "22840" },
                 ]
             },
@@ -645,7 +654,7 @@ const categories = [
                     { extensionCategory: "Women's Health", subId: "22450", childId: "23916" },
                     { extensionCategory: "Men's Health", subId: "22450", childId: "23916"},
                     { extensionCategory: "Pregnancy & Family Planning", subId: "22450", childId: "23916" },
-                    { extensionCategory: "Cold, Flu & Allergies", subId: "22450", childId: "23916" },
+                    { extensionCategory: "Cold, Flu & Allergies", subId: "22450", childId: "22417" },
                     { extensionCategory: "Multi Vitamins", subId: "22450", childId: "23916" },
                     { extensionCategory: "Digestion & Probiotics", subId: "22450", childId: "23872" },
                     { extensionCategory: "Fatigue, Stress & Sleep", subId: "22450", childId: "23916" },
@@ -692,6 +701,7 @@ const categories = [
                 subCategory: "Cosmetics",
                 childItems: [
                     { extensionCategory: "Complexion", subId: "22400", childId: "23851"  },
+                    { extensionCategory: "Eyes", subId: "22400", childId: "23851"  },
                     { extensionCategory: "Cheeks", subId: "22400", childId: "23852"  },
                     { extensionCategory: "Lips", subId: "22400", childId: "22402"  },
                 ]
@@ -713,14 +723,14 @@ const categories = [
                     { extensionCategory: "Lip Care", subId: "23883", childId: "23890" },
                     { extensionCategory: "Body Moisturiser", subId: "23883", childId: "23885" },
                     { extensionCategory: "Fragrance", subId: "23883", childId: "23885" },
-                    { extensionCategory: "Self-Tanning", subId: "23883", childId: "23891" },
+                    { extensionCategory: "Self Tanning", subId: "23883", childId: "23891" },
                     { extensionCategory: "Sun Protection", subId: "23883", childId: "23892" },
                 ]
             },
             {
                 subCategory: "Hair Care",
                 childItems: [
-                    { extensionCategory: "Hair Treatments", subId: "22423", childId: "23906" },
+                    { extensionCategory: "Hair Treatments", subId: "22423", childId: "23904" },
                     { extensionCategory: "Styling Products", subId: "22423", childId: "23905" },
                     { extensionCategory: "Hair Accessories & Brushes", subId: "22423", childId: "23906" },
                 ]
@@ -732,25 +742,8 @@ const categories = [
                     { extensionCategory: "Semi Permanent", subId: "22423", childId: "23903" },
                     { extensionCategory: "Touch Up", subId: "22423", childId: "23903" },
                     { extensionCategory: "Colour Remover", subId: "22423", childId: "23903" },
-                    { extensionCategory: "Colour Remover", subId: "23864", childId: "23898" },
                 ]
             },
-        ]
-    },
-    //////////////////////////////////////Beauty & Personal Care
-    {
-        category: "Beauty & Personal Care",
-        id: "22394",
-        subCategories: [
-            {
-                subCategory: "Women's Hair Removal",
-                childItems: [
-                    { extensionCategory: "Women's Blades & Razors", subId: "23864", childId: "23898" },
-                    { extensionCategory: "Waxes & Creams", subId: "23864", childId: "23901" },
-                ]
-            },
-           
-            
         ]
     },
     //////////////////////////////////////Personal Care
@@ -774,11 +767,9 @@ const categories = [
                     { extensionCategory: "Bubble Bath & Salts", subId: '23883', childId: '23887' },
                     { extensionCategory: "Female Deodorants", subId: '22440', childId: '23920' },
                     { extensionCategory: "Female Body Sprays", subId: '22440', childId: '23920' },
-                    { extensionCategory: "Cotton Wool & Cotton Buds", subId: '22016', childId: '23821' },
+                    { extensionCategory: "Cotton Wool & Cotton Buds", subId: '22414', childId: '22418' },
                     { extensionCategory: "Wipes & Tissues", subId: '22440', childId: '23896' },
-                    
-                    //// No Proper Schema
-                    //{ extensionCategory: "Shower & Bath Accessories", subId: '22016', childId: '23821' },
+                    { extensionCategory: "Shower & Bath Accessories", subId: '23883', childId: '23887' },
                 ]
             },
             {
@@ -907,7 +898,7 @@ const categories = [
                     { extensionCategory: "Sandwich & Freezer Bags", subId: "22552", childId: "22564" },
                     { extensionCategory: "Water Filtration", subId: "22537", childId: "23979" },
                     { extensionCategory: "Waste Bins", subId: "22552", childId: "22557" },
-                ]
+                ] 
             },
             {
                 subCategory: "Laundry",
@@ -947,16 +938,7 @@ const categories = [
         category: "Home & Lifestyle",
         id: '22459',
         subCategories: [
-            {
-                subCategory: "Dining & Entertaining",
-                childItems: [
-                    { extensionCategory: "Glassware & Bar Accessories", subId: "22579", childId: "22581" },
-                    { extensionCategory: "Dinnerware & Crockery", subId: "22579", childId: "22581" },
-                    { extensionCategory: "Cutlery", subId: "22579", childId: "22581" },
-                    { extensionCategory: "Serveware", subId: "22579", childId: "22581" },
-                    { extensionCategory: "Table Linen & Placemats", subId: "22579", childId: "22581" },
-                ]
-            },
+           
             {
                 subCategory: "Party Supplies",
                 childItems: [
@@ -971,21 +953,23 @@ const categories = [
                 childItems: [
                     { extensionCategory: "Lunch Boxes & Drink Bottles", subId: "22552", childId: "22560" },
                     { extensionCategory: "Food Storage Containers", subId: "22552", childId: "22560" },
-                    { extensionCategory: "Kitchen Utensils", subId: "22552", childId: "23928" },
-                    { extensionCategory: "Pots & Pans", subId: "22552", childId: "22553" },
-                    { extensionCategory: "Bakeware & Oven Trays", subId: "22552", childId: "22553" },
-                    { extensionCategory: "Chopping Boards", subId: "22552", childId: "22553" },
-                    { extensionCategory: "Knives", subId: "22552", childId: "22553" },
-                    { extensionCategory: "Kitchen Organisation", subId: "22552", childId: "22553" },
+                    { extensionCategory: "Kitchen Utensils", subId: "22552", childId: "22560" },
+                    { extensionCategory: "Pots & Pans", subId: "22552", childId: "22560" },
+                    { extensionCategory: "Bakeware & Oven Trays", subId: "22552", childId: "22560" },
+                    { extensionCategory: "Chopping Boards", subId: "22552", childId: "22560" },
+                    { extensionCategory: "Knives", subId: "22552", childId: "22560" },
+                    { extensionCategory: "Kitchen Organisation", subId: "22552", childId: "22560" },
                 ]
             },
             {
                 subCategory: "Home Appliances",
-                childItems: [
-                    { extensionCategory: "Heating & Cooling", subId: "22579", childId: "22580" }, 
+                childItems: [ 
                     { extensionCategory: "Ironing & Laundry", subId: "22566", childId: "22568" }, 
                     { extensionCategory: "Vacuums & Floor Cleaners", subId: "22475", childId: "22482" }, 
                     { extensionCategory: "Air Dehumidifiers", subId: "22475", childId: "22486" }  
+
+                    // No taxonomy or proper schema
+                    // { extensionCategory: "Heating & Cooling", subId: "", childId: "" },
                 ]
             },
             {
@@ -1025,47 +1009,82 @@ const categories = [
                     { extensionCategory: "Office Furniture", subId: "22594", childId: "22594" },
                 ]
             },
-            // No Barcodes Products
+            {
+                subCategory: "Books & Magazines",
+                childItems: [
+                    { extensionCategory: "Magazines", subId: "22594", childId: "22594" },
+                    { extensionCategory: "Children's", subId: "22594", childId: "22594" },
+                    { extensionCategory: "Teens & Young Adults", subId: "22594", childId: "22594" },
+                    { extensionCategory: "Fiction & Literature", subId: "22594", childId: "22594" },
+                    { extensionCategory: "Non-Fiction", subId: "22594", childId: "22594" },
+                ]
+            },
+            {
+                subCategory: "Toys & Games",
+                childItems: [
+                    { extensionCategory: "Arts & Craft", subId: "22594", childId: "22594" },
+                ]
+            },
+            {
+                subCategory: "Home Decor & Furniture",
+                childItems: [
+                    { extensionCategory: "Candles & Home Fragrance", subId: "22579", childId: "22580" },
+                ]
+            },
+
+            {
+                subCategory: "Outdoor Living",
+                childItems: [
+                    { extensionCategory: "Barbecues & Accessories", subId: "22519", childId: "22523" },
+                    { extensionCategory: "Picnicware", subId: "22519", childId: "22523" },
+                    { extensionCategory: "Lighting", subId: "22519", childId: "22523" },
+                    { extensionCategory: "Outdoor Structures & Shades", subId: "22519", childId: "22523" },
+                    { extensionCategory: "Pools, Spas & Saunas", subId: "22519", childId: "22523" }
+                ]
+            },
+
+             // No taxonomy or schema
+            // {
+            //     subCategory: "Dining & Entertaining",
+            //     childItems: [
+            //         { extensionCategory: "Glassware & Bar Accessories", subId: "", childId: "" },
+            //         { extensionCategory: "Dinnerware & Crockery", subId: "", childId: "" },
+            //         { extensionCategory: "Cutlery", subId: "", childId: "" },
+            //         { extensionCategory: "Serveware", subId: "22579", childId: "" },
+            //         { extensionCategory: "Table Linen & Placemats", subId: "", childId: "" },
+            //     ]
+            // },
+
+            // No Barcodes Products & No proper taxonomy
             // {
             //     subCategory: "Toys & Games",
             //     childItems: [
-            //         { extensionCategory: "Toys", subId: "22594", childId: "22594" },
-            //         { extensionCategory: "Board Games & Puzzles", subId: "22594", childId: "22594" },
-            //         { extensionCategory: "Dolls & Action Figures", subId: "22594", childId: "22594" },
-            //         { extensionCategory: "Sport & Outdoor Toys", subId: "22594", childId: "22594" },
-            //         { extensionCategory: "Toy Cars & Trucks", subId: "22594", childId: "22594" },
-            //         { extensionCategory: "Model Building & Construction", subId: "22594", childId: "22594" },
-            //         { extensionCategory: "Educational & Early Learning", subId: "22594", childId: "22594" },
-            //         { extensionCategory: "Electronic Toys", subId: "22594", childId: "22594" },
-            //         { extensionCategory: "Arts & Craft", subId: "22594", childId: "22594" },
-            //         { extensionCategory: "Dress Up & Costumes", subId: "22594", childId: "22594" },
+            //         { extensionCategory: "Toys", subId: "", childId: "" },
+            //         { extensionCategory: "Board Games & Puzzles", subId: "", childId: "" },
+            //         { extensionCategory: "Dolls & Action Figures", subId: "", childId: "" },
+            //         { extensionCategory: "Sport & Outdoor Toys", subId: "", childId: "" },
+            //         { extensionCategory: "Toy Cars & Trucks", subId: "", childId: "" },
+            //         { extensionCategory: "Model Building & Construction", subId: "", childId: "" },
+            //         { extensionCategory: "Educational & Early Learning", subId: "", childId: "" },
+            //         { extensionCategory: "Electronic Toys", subId: "", childId: "" },
+            //         { extensionCategory: "Arts & Craft", subId: "", childId: "" },
+            //         { extensionCategory: "Dress Up & Costumes", subId: "", childId: "" },
             //     ]
             // },
-            // No Barcodes Products
-            // {
-            //     subCategory: "Books & Magazines",
-            //     childItems: [
-            //         { extensionCategory: "Magazines", subId: "22594", childId: "22594" },
-            //         { extensionCategory: "Children's", subId: "22594", childId: "22594" },
-            //         { extensionCategory: "Teens & Young Adults", subId: "22594", childId: "22594" },
-            //         { extensionCategory: "Fiction & Literature", subId: "22594", childId: "22594" },
-            //         { extensionCategory: "Non-Fiction", subId: "22594", childId: "22594" },
-            //     ]
-            // },
-            // No Barcode Products
+           
+            // No Barcode Products & No proper taxonomy or schema
             // {
             //     subCategory: "Luggage & Travel",
             //     childItems: [
-            //         { extensionCategory: "Suitcases", catId: '22394', subId: "22414", childId: "23917" },
-            //         { extensionCategory: "Travel Bags", catId: '22394', subId: "22414", childId: "23917" },
-            //         { extensionCategory: "Travel Accessories", catId: '22394', subId: "22414", childId: "23917" },
+            //         { extensionCategory: "Suitcases", catId: '', subId: "", childId: "" },
+            //         { extensionCategory: "Travel Bags", catId: '', subId: "", childId: "" },
+            //         { extensionCategory: "Travel Accessories", catId: '', subId: "", childId: "" },
             //     ]
             // },
-            // No Barcode Products
+            // No Barcode Products & No proper taxonomy or schema
             // {
             //     subCategory: "Home Decor & Furniture",
             //     childItems: [
-            //         { extensionCategory: "Candles & Home Fragrance", subId: "22579", childId: "22580" },
             //         // No Schema or Taxonomy
             //         { extensionCategory: "Cushions & Covers", subId: "", childId: "" },
             //         { extensionCategory: "Blankets & Throws", subId: "", childId: "" },
@@ -1081,7 +1100,7 @@ const categories = [
             //         { extensionCategory: "Rugs & Doormats", subId: "", childId: "" }
             //     ]
             // },
-            // No Barcode Products
+            // No Barcode Products & No proper taxonomy or schema
             // {
             //     subCategory: "Kitchen Appliances",
             //     childItems: [
@@ -1094,7 +1113,7 @@ const categories = [
             //         { extensionCategory: "Refrigerators", subId: "", childId: "" },
             //     ]
             // },
-            // No Barcode Products
+            // No Barcode Products & No proper taxonomy or schema
             // {
             //     subCategory: "Manchester & Bedding",
             //     childItems: [
@@ -1199,7 +1218,7 @@ const categories = [
                 subCategory: "Canned Food & Instant Meals",
                 childItems: [
                     { extensionCategory: "Instant Meals & Sides", subId: "22796", childId: "22809" },
-                    { extensionCategory: "Instant Noodles", subId: "22796", childId: "22809" },
+                    { extensionCategory: "Instant Noodles", subId: "22796", childId: "22810" },
                     { extensionCategory: "Baked Beans & Spaghetti", subId: "22796", childId: "22797" },
                     { extensionCategory: "Canned Soup & Soup Ingredients", subId: "22796", childId: "22804" },
                     { extensionCategory: "Canned Tuna", subId: "22796", childId: "22806" },
@@ -1230,7 +1249,7 @@ const categories = [
                     { extensionCategory: "Pizza & Pasta Sauce", subId: "22878", childId: "22881" },
                     { extensionCategory: "Marinades & Seasoning", subId: "22878", childId: "22879" },
                     { extensionCategory: "Soy & Asian Sauces", subId: "22878", childId: "22884" },
-                    { extensionCategory: "Sweet Chilli & Hot Sauce", subId: "22878", childId: "22886" },
+                    { extensionCategory: "Sweet Chilli & Hot Sauce", subId: "22811", childId: "22819" },
                     { extensionCategory: "Simmer Sauce & Recipe Bases", subId: "22878", childId: "22883" },
                     { extensionCategory: "Stock & Gravy", subId: "22878", childId: "22885" },
                     { extensionCategory: "Tomato & BBQ Sauce", subId: "22811", childId: "22820" },
@@ -1356,13 +1375,14 @@ const categories = [
                     { extensionCategory: "Frozen Dog Food", subId: "23373", childId: "22937" },
                     { extensionCategory: "Trays & Cans Dog Food", subId: "23373", childId: "22959" },
                     { extensionCategory: "Puppy Food", subId: "23373", childId: "22939" },
+                    { extensionCategory: "Dry Dog Food", subId: "23373", childId: "22959" },
                    
                     // { extensionCategory: "Dog Healthcare", subId: "", childId: "" },
                     // { extensionCategory: "Dog Collars & Leads", subId: "", childId: "" },
                     // { extensionCategory: "Dog Treats & Milk", subId: "", childId: "" },
                     // { extensionCategory: "Dog Bedding & Carriers", subId: "", childId: "" },
                     // { extensionCategory: "Dog Grooming, Accessories & Toys", subId: "", childId: "" },
-                    // { extensionCategory: "Dry Dog Food", subId: "", childId: "" },
+                    
                 ]
             },
             {
@@ -1390,7 +1410,7 @@ const categories = [
             {
                 subCategory: "Poultry",
                 childItems: [
-                    { extensionCategory: "Kebabs & Marinated", subId: "24059", childId: "24059" },
+                    { extensionCategory: "Kebabs & Marinated", subId: "22714", childId: "23935" },
                     { extensionCategory: "Deli Chicken", catId:"24023", subId: "24024", childId: "24046" },
                     { extensionCategory: "Fresh Chicken", subId: "24059", childId: "24059" },
                     { extensionCategory: "Free Range Chicken", subId: "24059", childId: "24059" },
@@ -1421,12 +1441,10 @@ const categories = [
                     { extensionCategory: "Prawns", subId: "22758", childId: "22766" },
                     { extensionCategory: "Seafood Entertaining", subId: "22758", childId: "22762" },
                     { extensionCategory: "Frozen Prepacked Seafood", subId: "22758", childId: "22667" },
-                    { extensionCategory: "Squid, Octopus & Marinara", subId: "22758", childId: "22763" },
                     { extensionCategory: "Squid, Octopus & Marinara", subId: "22758", childId: "22769" },
                     { extensionCategory: "Crab & Lobster", subId: "22758", childId: "22759" },
                     { extensionCategory: "Oysters, Mussels & Scallops", subId: "22758", childId: "22764" },
-                    { extensionCategory: "Oysters, Mussels & Scallops", subId: "22758", childId: "22765" },
-                    { extensionCategory: "Sauce & Condiments", catId: "22770", subId: "22811", childId: "22812" },
+                    { extensionCategory: "Sauce & Condiments", catId: "22770", subId: "22811", childId: "22815" },
                 ]
             },
             {

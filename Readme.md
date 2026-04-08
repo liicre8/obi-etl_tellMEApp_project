@@ -7,19 +7,19 @@
 
 ## A. Scraping Woolworths
 
-### ✅ 1. `index2.js` — General Scrape
-* **Location**: Set only `nsw` in `constant/location.js`
+### ✅ 1. General Scrape
+* **Location**: Set only `nsw` in `woolworths/index.js`
 * **CATEGORY Limit**: Only **5 category ID objects at a time** in `const CATEGORY`
 * **Run**:
 ```bash
-node woolworths/index2
+node woolworths/index
 ```
 
-### ✅ 2. `index.js` — Targeted Scrape
+### ✅ 2. Targeted Scrape
 * **CATEGORY**: Use only:
    * `Fruit & Vegetables`
    * `Poultry, Meat & Seafood`
-* **Locations**: Set **all locations** in `constant/location.js`
+* **Locations**: Set **all locations** in `woolworths/constant/location.js`
 * **Run**:
 ```bash
 node woolworths/index
@@ -27,7 +27,7 @@ node woolworths/index
 
 ## B. Scraping Coles
 
-### ✅ 1. `index2.js` — General Scrape
+### ✅ 1. `index.js` — General Scrape
 * **CATEGORIES**: Limit to **50** in `coles/constant/categories.js` (`const CATEGORIES`), comment out the rest
 * **Location**: Set only `nsw` in `coles/constant/location.js`
 
@@ -41,10 +41,10 @@ node coles/getCookies
 
 Then:
 ```bash
-node coles/index2
+node coles/index
 ```
 
-### ✅ 2. `index1.js` — Targeted Scrape
+### ✅ 2. `index.js` — Targeted Scrape
 * **CATEGORIES**: Limit to 50, only:
    * `Fruit & Vegetables`
    * `Poultry, Meat & Seafood`
@@ -52,16 +52,17 @@ node coles/index2
 
 **👁 CAPTCHA Handling:**
 ```bash
-node coles/getCookies
 # Solve CAPTCHA manually if needed
+node coles/getCookies
+
 ```
 
 Then:
 ```bash
-node coles/index1
+node coles/index
 ```
 
-## C. Process Process Data
+## C. Process Data
 
 ### ✅ 1. Setup Barcodes (After Coles Scraping)
 Coles store products doesn't have barcodes.
@@ -90,6 +91,8 @@ Delete old data:
 rm coles/0ColesAll.json
 rm coles/0WoolworthsAll.json
 rm coles/colesOutput.json
+rm coles/PackedMatched.json
+
 rm coles/matched
 ```
 
@@ -166,11 +169,7 @@ node coles/updateBarcodes
 ```bash
 node 01MatchedP-Barcode
 ```
-### ✅ 3. Cleaned Match Products
-```bash
-node transformMatched
-```
-### ✅ 4. Push Matched to External API
+### ✅ 3. Push Matched to External API
 ```bash
 node 02pushMatchedToAPI
 ```

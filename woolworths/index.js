@@ -40,8 +40,8 @@ const userAgents = [
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
 ];
 
-const mylocation = ["nsw", "vic", "qld", "wa", "sa", "tas", "act", "nt"];
-// const mylocation = ["nsw"];
+// const mylocation = [ "nsw", "vic", "qld", "wa", "sa", "tas", "act", "nt" ];
+const mylocation = ["nsw"];
 
 const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
   const prices = [];
@@ -127,16 +127,18 @@ let pageReset = 0;
 let booool = false;
 const WOOLWORTHS_API_ENDPOINT = "https://www.woolworths.com.au/apis/ui/browse/category";
 const CATEGORIES = [
+  // Scraping products in one location
   //[1]// { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' },
-  // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' },
-  // { id: '1_9834884', name: 'Nappies', url: '/shop/browse/baby/nappies', location: '/shop/browse/baby/nappies' },
-  // { id: '1_67E0CDB', name: 'Wipes & Changing', url: '/shop/browse/baby/wipes-changing', location: '/shop/browse/baby/wipes-changing' },
-  // { id: '1_CDCF6CF', name: 'Baby Food', url: '/shop/browse/baby/baby-food', location: '/shop/browse/baby/baby-food' },
-  // { id: '1_261C240', name: 'Baby Formula & Toddler Milk', url: '/shop/browse/baby/baby-formula-toddler-milk', location: '/shop/browse/baby/baby-formula-toddler-milk' },
-  // { id: '1_EA73E9D', name: 'Bath & Skincare', url: '/shop/browse/baby/bath-skincare', location: '/shop/browse/baby/bath-skincare' },
+  { id: '1_9834884', name: 'Nappies', url: '/shop/browse/baby/nappies', location: '/shop/browse/baby/nappies' },
+  { id: '1_67E0CDB', name: 'Wipes & Changing', url: '/shop/browse/baby/wipes-changing', location: '/shop/browse/baby/wipes-changing' },
+  { id: '1_CDCF6CF', name: 'Baby Food', url: '/shop/browse/baby/baby-food', location: '/shop/browse/baby/baby-food' },
+  { id: '1_261C240', name: 'Baby Formula & Toddler Milk', url: '/shop/browse/baby/baby-formula-toddler-milk', location: '/shop/browse/baby/baby-formula-toddler-milk' },
+  { id: '1_EA73E9D', name: 'Bath & Skincare', url: '/shop/browse/baby/bath-skincare', location: '/shop/browse/baby/bath-skincare' },
   // { id: '1_F711B70', name: 'Bottles & Baby Feeding', url: '/shop/browse/baby/bottles-baby-feeding', location: '/shop/browse/baby/bottles-baby-feeding' },
   // { id: '1_6C80D4E', name: 'Health & Safety', url: '/shop/browse/baby/health-safety', location: '/shop/browse/baby/health-safety' },
   // { id: '1_07A6F29', name: 'Pregnancy Care & Family Planning', url: '/shop/browse/baby/pregnancy-care-family-planning', location: '/shop/browse/baby/pregnancy-care-family-planning' },
+  // { id: '1_A500F4B', name: 'Toys & Playtime', url: '/shop/browse/baby/toys-playtime', location: '/shop/browse/baby/toys-playtime' },
+  // { id: '1_E07A831', name: 'Baby & Toddler Clothing', url: '/shop/browse/baby/baby-toddler-clothing', location: '/shop/browse/baby/baby-toddler-clothing' },
   
   //[2]// { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' },
   // { id: '1_5402F90', name: 'In-Store Bakery', url: '/shop/browse/bakery/in-store-bakery', location: '/shop/browse/bakery/in-store-bakery' },
@@ -242,7 +244,11 @@ const CATEGORIES = [
   // { id: '1_6D2541E', name: 'Kitchenware & Storage', url: '/shop/browse/home-lifestyle/kitchenware-storage', location: '/shop/browse/home-lifestyle/kitchenware-storage' },
   // { id: '1_3D142C0', name: 'Clothing & Accessories', url: '/shop/browse/home-lifestyle/clothing-accessories', location: '/shop/browse/home-lifestyle/clothing-accessories' },
   // { id: '1_CAAEDBB', name: 'Stationery & Office Supplies', url: '/shop/browse/home-lifestyle/stationery-office-supplies', location: '/shop/browse/home-lifestyle/stationery-office-supplies' },
-   
+  // { id: '1_0D0883E', name: 'Books & Magazines', url: '/shop/browse/home-lifestyle/books-magazines', location: '/shop/browse/home-lifestyle/books-magazines' },
+  // { id: '1_5D95D1A', name: 'Arts & Craft', url: '/shop/browse/home-lifestyle/toys-games/arts-craft', location: '/shop/browse/home-lifestyle/toys-games/arts-craft' },
+  // { id: '1_042F261', name: 'Candles & Home Fragrance', url: '/shop/browse/home-lifestyle/home-decor-furniture/candles-home-fragrance', location: '/shop/browse/home-lifestyle/home-decor-furniture/candles-home-fragrance' },
+  // { id: '1_9741CCD', name: 'Outdoor Living', url: '/shop/browse/home-lifestyle/outdoor-living', location: '/shop/browse/home-lifestyle/outdoor-living' },
+
   //[14]// { id: '1_717445A', name: 'Snacks & Confectionery', url: '/shop/browse/snacks-confectionery', location: '/shop/browse/snacks-confectionery' },
   // { id: '1_B3139DF', name: 'Confectionery', url: '/shop/browse/snacks-confectionery/confectionery', location: '/shop/browse/snacks-confectionery/confectionery' },
   // { id: '1_12FABCA', name: 'Gum, Mints & Lozenges', url: '/shop/browse/snacks-confectionery/gum-mints-lozenges', location: '/shop/browse/snacks-confectionery/gum-mints-lozenges' },
@@ -252,7 +258,6 @@ const CATEGORIES = [
   // { id: '1_99CAF0C', name: 'Snacks', url: '/shop/browse/snacks-confectionery/snacks', location: '/shop/browse/snacks-confectionery/snacks' },
   // { id: '1_6F15A6A', name: 'Biscuits & Crackers', url: '/shop/browse/snacks-confectionery/biscuits-crackers', location: '/shop/browse/snacks-confectionery/biscuits-crackers' },
 
-  
   // Scraping Products in All Locations
   //[1]// { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' },
   // { id: '1-5931EE89', name: 'Fruit', url: '/shop/browse/fruit-veg/fruit', location: '/shop/browse/fruit-veg/fruit' },
@@ -266,10 +271,10 @@ const CATEGORIES = [
   //[2]// { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
   // { id: '1_2B67965', name: 'Poultry', url: '/shop/browse/poultry-meat-seafood/poultry', location: '/shop/browse/poultry-meat-seafood/poultry' },
   // { id: '1_CED9B86', name: 'Meat', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
-  { id: '1_D610306', name: 'Seafood', url: '/shop/browse/poultry-meat-seafood/seafood', location: '/shop/browse/poultry-meat-seafood/seafood' },
-  { id: '1_3643AAB', name: 'Mince', url: '/shop/browse/poultry-meat-seafood/mince', location: '/shop/browse/poultry-meat-seafood/mince' },
-  { id: '1_F3CEF67', name: 'BBQ Meat', url: '/shop/browse/poultry-meat-seafood/bbq-meat', location: '/shop/browse/poultry-meat-seafood/bbq-meat' },
-  { id: '1_073D435', name: 'Organic Meat & Poultry', url: '/shop/browse/poultry-meat-seafood/organic-meat-poultry', location: '/shop/browse/poultry-meat-seafood/organic-meat-poultry' },
+  // { id: '1_D610306', name: 'Seafood', url: '/shop/browse/poultry-meat-seafood/seafood', location: '/shop/browse/poultry-meat-seafood/seafood' },
+  // { id: '1_3643AAB', name: 'Mince', url: '/shop/browse/poultry-meat-seafood/mince', location: '/shop/browse/poultry-meat-seafood/mince' },
+  // { id: '1_F3CEF67', name: 'BBQ Meat', url: '/shop/browse/poultry-meat-seafood/bbq-meat', location: '/shop/browse/poultry-meat-seafood/bbq-meat' },
+  // { id: '1_073D435', name: 'Organic Meat & Poultry', url: '/shop/browse/poultry-meat-seafood/organic-meat-poultry', location: '/shop/browse/poultry-meat-seafood/organic-meat-poultry' },
 ];
 const WOOLWORTHS_URL = "https://www.woolworths.com.au";
 const SPEED_LIMIT = 20;

@@ -4,7 +4,7 @@ const path = require('path');
 require('dotenv').config();
 
 // Dates
-const yesterdayDate = '7-10-2025';
+const yesterdayDate = '8-20-2025';
 const todayDate = process.env.FOLDER_DATE; 
 
 if (!todayDate) {
@@ -24,7 +24,7 @@ if (!fs.existsSync(unmatchedAuditPath)) {
 
 function readJSON(filePath) {
   try {
-    return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    return JSON.parse(fs.readFileSync(filePath, 'utf-8'));  
   } catch (error) {
     console.error(`Error reading JSON file ${filePath}:`, error.message);
     return null;
@@ -186,7 +186,6 @@ function compareUnmatched(shop) {
 
 // Main execution
 console.log('🚀 Starting unmatched data comparison...');
-console.log(`📅 Comparing ${yesterdayDate} vs ${todayDate}`);
 
 // Run for both shops
 compareUnmatched('coles');

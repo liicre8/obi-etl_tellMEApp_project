@@ -1,3 +1,4 @@
+// File: cole.getProduct.js
 import categories from './constant/getProducts.js';
 import fs from 'fs';
 import path from 'path';
@@ -7,149 +8,150 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 
-const RESET = '\x1b[0m';
-const CYAN = '\x1b[36m';
-const GREEN = '\x1b[32m';
-const YELLOW = '\x1b[33m';
+const RESET   = '\x1b[0m';
+const CYAN    = '\x1b[36m';
+const GREEN   = '\x1b[32m';
+const YELLOW  = '\x1b[33m';
 const MAGENTA = '\x1b[35m';
 
 const getData = async () => {
   await dbConnect();
-  let data = [];
+  let data  = [];
   let total = 0;
 
   for (const categ of categories) {
-
-
+    // Normalize category name
     let category = categ.category;
     if (category === 'Chips, Chocolates & Snacks') category = 'Pantry';
-    let defaultCatId = categ.id;
+    const defaultCatId = categ.id;
 
-    const products = await Product.find({ category: category }).exec();
+    // Fetch with case-insensitive matching and stable order
+    const products = await Product
+      .find({ category: new RegExp(`^${category}$`, 'i') })
+      .sort({ _id: 1 })
+      .exec();
 
-    const productsData = products.map((product) => {
-      const productObj = product.toObject();
+    console.log(`${CYAN}🔄 Fetched ${products.length} products for category "${category}"${RESET}`);
 
-      // ✅ Skip if prices array is empty or image is missing
-      if (productObj.prices.length === 0 || productObj.image_url === "N/A") return false;
+    const productsData = products
+      .map(product => {
+        const obj = product.toObject();
 
-      // ✅ Filter out prices with null values
-      const validPrices = productObj.prices
-        .filter((priceObj) => priceObj.price !== null)
-        .map(({ _id, ...rest }) => rest); // Remove _id
+        // Skip if no prices or missing image
+        if (!obj.prices.length || obj.image_url === 'N/A') return null;
 
-      // ✅ Skip the product if no valid prices remain
-      if (validPrices.length === 0) return false;
+        // Filter out null prices
+        const validPrices = obj.prices
+          .filter(p => p.price != null)
+          .map(({ _id, ...rest }) => rest);
 
-      let subId = '';
-      let childId = '';
-      let finalCategoryId = defaultCatId;
+        if (!validPrices.length) return null;
 
-      const matchedCategory = categories.find((cat) => cat.category === category);
-      if (matchedCategory) {
-        const sub = matchedCategory.subCategories.find(
-          (sub) => sub.subCategory === productObj.subCategory
-        );
-        if (sub) {
-          const child = sub.childItems.find(
-            (item) => item.extensionCategory === productObj.extensionCategory
-          );
-          if (child) {
-            subId = child.subId ?? '';
-            childId = child.childId ?? '';
-            if (child.catId) {
-              finalCategoryId = child.catId;
+        // Determine final category IDs
+        let subId         = '';
+        let childId       = '';
+        let finalCategory = defaultCatId;
+        const matchCat = categories.find(cat => cat.category === categ.category);
+
+        if (matchCat) {
+          const sub = matchCat.subCategories.find(s => s.subCategory === obj.subCategory);
+          if (sub) {
+            const child = sub.childItems.find(i => i.extensionCategory === obj.extensionCategory);
+            if (child) {
+              subId   = child.subId    || '';
+              childId = child.childId  || '';
+              finalCategory = child.catId || defaultCatId;
             }
           }
-        }
-      } else {
-        console.warn(`⚠️ Category "${category}" not found in getProducts.js`);
-      }
-
-      return {
-        source_url: productObj.source_url || null,
-        name: productObj.name || null,
-        image_url: productObj.image_url || null,
-        source_id: `${productObj.coles_product_id}` || null,
-        barcode: productObj.barcode || '',
-        category_id: finalCategoryId || '',
-        subcategory_id: subId || '',
-        subsubcategory_id: childId || '',
-        shop: productObj.shop || null,
-        weight: productObj.weight || '',
-        prices: validPrices,
-      };
-    }).filter(Boolean); // ✅ Remove skipped entries (false/null)
-
-    if (productsData.length > 0) {
-      const baseFolder = `./coles/data/${process.env.FOLDER_DATE}`;
-      const folderPath = path.join(baseFolder);
-      const toPush = [category, productsData.length];
-      data.push(toPush);
-
-      if (!fs.existsSync(folderPath)) {
-        fs.mkdirSync(folderPath, { recursive: true });
-        console.log(`📁 Created folder: ${folderPath}`);
-      }
-
-      const fileName = `${category}.json`;
-      const filePath = path.join(folderPath, fileName);
-
-      try {
-        if (fs.existsSync(filePath)) {
-          console.log(`📦 File already exists: ${filePath}. Skipping save.`);
-          const existingData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-          const combinedData = [...existingData, ...productsData];
-
-          // ✅ Deduplicate based on source_id, shop, and IDs
-          const uniqueProducts = combinedData.reduce((acc, item) => {
-            const exists = acc.some(
-              (t) =>
-                t.source_id === item.source_id &&
-                t.shop === item.shop &&
-                t.category_id === item.category_id &&
-                (t.subcategory_id === item.subcategory_id || (!t.subcategory_id && !item.subcategory_id)) &&
-                (t.subsubcategory_id === item.subsubcategory_id || (!t.subsubcategory_id && !item.subsubcategory_id))
-            );
-            if (!exists) acc.push(item);
-            return acc;
-          }, []);
-
-          total += uniqueProducts.length;
-          fs.writeFileSync(filePath, JSON.stringify(uniqueProducts, null, 2));
         } else {
-          const uniqueProducts = productsData.reduce((acc, item) => {
-            const exists = acc.some(
-              (t) =>
-                t.source_id === item.source_id &&
-                t.shop === item.shop &&
-                t.category_id === item.category_id &&
-                (t.subcategory_id === item.subcategory_id || (!t.subcategory_id && !item.subcategory_id)) &&
-                (t.subsubcategory_id === item.subsubcategory_id || (!t.subsubcategory_id && !item.subsubcategory_id))
-            );
-            if (!exists) acc.push(item);
-            return acc;
-          }, []);
-
-          total += uniqueProducts.length;
-          fs.writeFileSync(filePath, JSON.stringify(uniqueProducts, null, 2));
-          console.log(`✅ Data saved to ${filePath}`);
+          console.warn(`⚠️ Category "${category}" not found in getProducts.js`);
         }
 
-        console.log(`📊 Total products for "${category}":`, total);
-      } catch (error) {
-        console.error('❌ Error writing data to file:', error);
+        return {
+          source_url:       obj.source_url || null,
+          name:             obj.name       || null,
+          image_url:        obj.image_url  || null,
+          source_id:        obj.coles_product_id || null,
+          barcode:          obj.barcode    || '',
+          category_id:      finalCategory  || '',
+          subcategory_id:   subId          || '',
+          subsubcategory_id: childId       || '',
+          shop:             obj.shop       || null,
+          weight:           obj.weight     || '',
+          prices:           validPrices,
+        };
+      })
+      .filter(Boolean);
+
+    if (!productsData.length) continue;
+
+    // Prepare output folder & file
+    const baseFolder = `./coles/data/${process.env.FOLDER_DATE}`;
+    const folderPath = path.join(baseFolder);
+    const filePath   = path.join(folderPath, `${category}.json`);
+
+    if (!fs.existsSync(folderPath)) {
+      fs.mkdirSync(folderPath, { recursive: true });
+      console.log(`📁 Created folder: ${folderPath}`);
+    }
+
+    try {
+      let uniqueProducts = [];
+
+      if (fs.existsSync(filePath)) {
+        console.log(`📦 File already exists: ${filePath}. Merging...`);
+        const existing = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+        const combined = [...existing, ...productsData];
+
+        // Deduplicate
+        uniqueProducts = combined.reduce((acc, item) => {
+          const exists = acc.some(t =>
+            t.source_id === item.source_id &&
+            t.shop      === item.shop      &&
+            t.category_id === item.category_id &&
+            (t.subcategory_id === item.subcategory_id || (!t.subcategory_id && !item.subcategory_id)) &&
+            (t.subsubcategory_id === item.subsubcategory_id || (!t.subsubcategory_id && !item.subsubcategory_id))
+          );
+          if (!exists) acc.push(item);
+          return acc;
+        }, []);
+      } else {
+        // First-time write: just dedupe the batch
+        uniqueProducts = productsData.reduce((acc, item) => {
+          const exists = acc.some(t =>
+            t.source_id === item.source_id &&
+            t.shop      === item.shop      &&
+            t.category_id === item.category_id &&
+            (t.subcategory_id === item.subcategory_id || (!t.subcategory_id && !item.subcategory_id)) &&
+            (t.subsubcategory_id === item.subsubcategory_id || (!t.subsubcategory_id && !item.subsubcategory_id))
+          );
+          if (!exists) acc.push(item);
+          return acc;
+        }, []);
+        console.log(`✅ Data saved to ${filePath}`);
       }
+
+      total += uniqueProducts.length;
+      fs.writeFileSync(filePath, JSON.stringify(uniqueProducts, null, 2));
+      console.log(`📊 Total products for "${category}":`, uniqueProducts.length);
+      data.push([category, uniqueProducts.length]);
+
+    } catch (err) {
+      console.error('❌ Error writing data to file:', err);
     }
   }
 
+  // Summary
   console.log(`${CYAN}\n🧮 Final Summary of All Categories:${RESET}`);
   data.forEach(([cat, count]) => {
-  console.log(`${GREEN}- ${cat}:${RESET} ${YELLOW}${count}${RESET}`);
+    console.log(`${GREEN}- ${cat}:${RESET} ${YELLOW}${count}${RESET}`);
   });
 
-  const grandTotal = data.reduce((acc, [, count]) => acc + count, 0);
+  const grandTotal = data.reduce((sum, [, count]) => sum + count, 0);
+  const mongoCount = await Product.countDocuments({});
+
   console.log(`${MAGENTA}\n📦 Grand Total Products Across All Categories: ${YELLOW}${grandTotal}${RESET}`);
+  console.log(`${MAGENTA}🧾 MongoDB countDocuments({}): ${YELLOW}${mongoCount}${RESET}`);
 };
 
 (async () => {

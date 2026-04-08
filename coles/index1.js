@@ -1,4 +1,4 @@
-// File Path: coles/index1.js
+// File Path: coles/index2.js
 import puppeteer from 'puppeteer-extra';
 import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import safeNavigate from './controllers/helpers/coles/safeNavigate.js';
@@ -7,14 +7,10 @@ import locations from './constant/location.js';
 import categories from './constant/categories.js';
 import Product from './models/products.js';
 import dbConnect from './db/dbConnect.js';
-import fs from 'fs/promises';
-import path from 'path';
 import chalk from 'chalk';
-import fs2 from 'fs';
-
+import fs from 'fs';
 puppeteer.use(StealthPlugin());
-
-const categoriesId = JSON.parse(fs2.readFileSync(`./constant/categories.json`, 'utf8'));
+const categoriesId = JSON.parse(fs.readFileSync(`./constant/categories.json`, 'utf8'));
 const userAgents = [
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0',
@@ -32,7 +28,6 @@ puppeteer.use(StealthPlugin());
 function delay(time) {
   return new Promise((resolve) => setTimeout(resolve, time));
 }
-
 const captcha = async (page, url) => {
   let doloop = false;
   let i = 1;
@@ -57,26 +52,19 @@ const captcha = async (page, url) => {
   }
 };
 
-
 const scraper = async () => {
   await dbConnect();
   let browser;
-
   try {
     browser = await puppeteer.launch({
       headless: false,
       args: [
-        `--proxy-server=http=api.scraperapi.com:8001`
+       `--proxy-server=http=api.scraperapi.com:8001`,
+       // `--proxy-server=socks5://127.0.0.1:9050`
       ],
-      // // Chrome
-       executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
-       userDataDir: 'C:\\Users\\OBI - Wilslie\\AppData\\Local\\Google\\Chrome\\User Data\\Person 1',
-      // // BraveBrowser
-      //  userDataDir: 'C:\\Users\\OBI - Wilslie\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data\\Person 1'
-      //  executablePath: 'C:\\Users\\OBI - Wilslie\\AppData\\Local\\BraveSoftware\\Brave-Browser\\Application\\Brave.exe',
-     
+      executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
+      userDataDir: 'C:\\Users\\OBI - Wilslie\\AppData\\Local\\Google\\Chrome\\User Data\\Person 1',
     });
-
     for (const loc of locations) {
       let page2;
       page2 = await browser.newPage();
@@ -84,31 +72,26 @@ const scraper = async () => {
         Referer: 'https://www.coles.com.au/',
       });
 
-      // to clear storage data of coles website
-      await page2.goto('https://www.coles.com.au/');
+// to clear storage data of coles website
+await page2.goto('https://www.coles.com.au/');
       
-      const client = await page2.target().createCDPSession();
+const client = await page2.target().createCDPSession();
 
-      await client.send('Storage.clearDataForOrigin', {
-            origin: 'https://www.coles.com.au/',
-            storageTypes: 'all' // You can also specify 'local_storage', 'indexeddb', 'cache_storage'
-      });
+await client.send('Storage.clearDataForOrigin', {
+  origin: 'https://www.coles.com.au/',
+  storageTypes: 'all' // You can also specify 'local_storage', 'indexeddb', 'cache_storage'
+});
 
-      const loadedCookies = JSON.parse(fs2.readFileSync('./coles/colesCookies.json', 'utf-8'));
+      const loadedCookies = JSON.parse(fs.readFileSync('./coles/colesCookies.json', 'utf-8'));
       await page2.setCookie(...loadedCookies);
       await safeNavigate(page2, 'https://www.coles.com.au');
       await page2.setUserAgent('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36');
       await delay(3000);
-
       // await page2.reload();
-      //await delay(5000);
-
-      await new Promise(resolve => setTimeout(resolve, Math.floor(Math.random() * 3000) + 5000));
-      const a = await handleSteps(page2, loc, 'https://coles.com.au'); 
-
+      await delay(5000);
+     //   const a = await handleSteps(page2, loc, 'https://coles.com.au'); 
       // const cookies = await page2.cookies();
       // fs.writeFileSync('./coles/colesCookies.json', JSON.stringify(cookies, null, 2));
-
       await Promise.allSettled(
         categories.map(async (categ, index) => {
           let category;
@@ -150,12 +133,15 @@ const scraper = async () => {
                   let targetURL = url;
            try {
                     // page = (await browser.newPage()).removeAllListeners('request');
+
                     const SCRAPER_API_KEY = '0e6c546a09c1e1d91e23cc4683a91174';
+
                     page = await browser.newPage();
                     await page.authenticate({
                       username: SCRAPER_API_KEY,
                       password: ''
                     });
+
                     await page.setViewport({
                       width: 316, // Width of the browser
                       height: 743, // Height of the browser
@@ -209,7 +195,7 @@ const scraper = async () => {
                           return Array.from(products).map((product) => {
                             const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
                               const prices = [];
-                               
+
                               // Clean the unit string
                               const cleanUnit = (unit, itemName = 'N/A') => {
                                 if (!unit) return 'N/A';
@@ -230,141 +216,69 @@ const scraper = async () => {
                                 return cleaned;
                               };
 
-
-                              let loc;
-                              if (location.toLowerCase() === 'Sydney, NSW 2000'.toLowerCase()) loc = 'NSW';
-                              if (location.toLowerCase() === 'Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145'.toLowerCase()) loc = 'VIC';
-                              if (location.toLowerCase() === 'Kedron, QLD 4031'.toLowerCase()) loc = 'QLD';
-                              if (location.toLowerCase() === 'Perth, WA 6000'.toLowerCase()) loc = 'WA';
-                              if (location.toLowerCase() === 'Kilburn, SA 5084'.toLowerCase()) loc = 'SA';
-                              if (location.toLowerCase() === 'Hobart, TAS 7000'.toLowerCase()) loc = 'TAS';
-                              if (location.toLowerCase() === 'Acton, ACT 2601'.toLowerCase()) loc = 'ACT';
-                              if (location.toLowerCase() === 'Casuarina, NT 0810'.toLowerCase()) loc = 'NT';
                               if (priceInCents && priceInCentsPerUnits) {
-                                if (loc.toLowerCase() === 'nsw') {
+                                  // Convert unit to uppercase if it exists
+                                  const upperCaseUnit = unit ? unit.toUpperCase() : unit;
+                                
                                   prices.push({
                                     state: 'nsw'.toUpperCase(),
                                     price: parseFloat(Number(priceInCents).toFixed(2)),
                                     price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
                                     price_unit: cleanUnit(unit ? unit.toUpperCase() : 'N/A'),
-
                                   });
-                                }
-                                if (loc.toLowerCase() === 'vic') {
-                                  prices.push({
-                                    state: 'vic'.toUpperCase(),
-                                    price: parseFloat(Number(priceInCents).toFixed(2)),
-                                    price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-                                    price_unit: cleanUnit(unit ? unit.toUpperCase() : 'N/A'),
-
-                                  });
-                                }
-                                if (loc.toLowerCase() === 'qld') {
-                                  prices.push({
-                                    state: 'qld'.toUpperCase(),
-                                    price: parseFloat(Number(priceInCents).toFixed(2)),
-                                    price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-                                    price_unit: cleanUnit(unit ? unit.toUpperCase() : 'N/A'),
-
-                                  });
-                                }
-                                if (loc.toLowerCase() === 'wa') {
-                                  prices.push({
-                                    state: 'wa'.toUpperCase(),
-                                    price: parseFloat(Number(priceInCents).toFixed(2)),
-                                    price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-                                    price_unit: cleanUnit(unit ? unit.toUpperCase() : 'N/A'),
-
-                                  });
-                                }
-                                if (loc.toLowerCase() === 'sa') {
-                                  prices.push({
-                                    state: 'sa'.toUpperCase(),
-                                    price: parseFloat(Number(priceInCents).toFixed(2)),
-                                    price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-                                    price_unit: cleanUnit(unit ? unit.toUpperCase() : 'N/A'),
-
-                                  });
-                                }
-                                if (loc.toLowerCase() === 'tas') {
-                                  prices.push({
-                                    state: 'tas'.toUpperCase(),
-                                    price: parseFloat(Number(priceInCents).toFixed(2)),
-                                    price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-                                    price_unit: cleanUnit(unit ? unit.toUpperCase() : 'N/A'),
-
-                                  });
-                                }
-                                if (loc.toLowerCase() === 'act') {
-                                  prices.push({
-                                    state: 'act'.toUpperCase(),
-                                    price: parseFloat(Number(priceInCents).toFixed(2)),
-                                    price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-                                    price_unit: cleanUnit(unit ? unit.toUpperCase() : 'N/A'),
-
-                                  });
-                                }
-                                if (loc.toLowerCase() === 'nt') {
-                                  prices.push({
-                                    state: 'nt'.toUpperCase(),
-                                    price: parseFloat(Number(priceInCents).toFixed(2)),
-                                    price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-                                    price_unit: cleanUnit(unit ? unit.toUpperCase() : 'N/A'),
-
-                                  });
-                                }
                               }
 
                               return prices;
                             };
                             const href = product.querySelector('.product__image_area a')?.href || 'N/A';
 
-                           let weight = 'N/A';
-                           let coles_product_id = 'N/A';
-                           let unit = 'N/A';
-                           
-                           if (href !== 'N/A') {
-                             const parts = href.split('-'); // Uncomment if needed
-                             const potentialWeight = parts.length > 2 ? parts[parts.length - 2] : 'N/A';
-                           
-                             if (/\d/.test(potentialWeight)) {
-                               weight = potentialWeight;
-                               // Optional: derive fallback unit from weight
-                               // unit = weight.replace(/[\d\s]/g, '');
-                             } else {
-                               weight = parts.length > 3 ? parts[parts.length - 3] + potentialWeight : 'N/A';
-                               // unit = potentialWeight;
-                             }
-                           
-                             coles_product_id = parts.length > 0 ? parts[parts.length - 1] : 'N/A';
-                           }
-                           
-                           // Extract and convert price to cents
-                           const priceText = product.querySelector('.price__value')?.textContent.trim() || 'N/A';
-                           let pricePerUnit = 'N/A';
-                           if (priceText !== 'N/A' && priceText.startsWith('$')) {
-                             pricePerUnit = Math.round(parseFloat(priceText.replace('$', '')) * 100);
-                           }
-                           
-                           // Extract price per unit value
-                           const pricePerUnitText = product.querySelector('.price__calculation_method')?.textContent.trim() || 'N/A';
-                           let priceInCents = 'N/A';
-                           if (pricePerUnitText !== 'N/A') {
-                             const match = pricePerUnitText.match(/\$(\d+(\.\d+)?)/); // Extract $x.xx
-                             if (match && match[1]) {
-                               priceInCents = Math.round(parseFloat(match[1]) * 100);
-                             }
-                           
-                             // Extract full unit (e.g., "1EA", "100g") and convert to uppercase
-                             const unitMatch = pricePerUnitText.match(/per\s+(.*)$/i);
-                             if (unitMatch && unitMatch[1]) {
-                               unit = unitMatch[1].trim().toUpperCase();
-                             }
-                           }
-                           
-                           let sub = subCategory;
-                           let ext = extensionCategory;
-                           
+                            let weight = 'N/A';
+                            let coles_product_id = 'N/A';
+                            let unit = 'N/A';
+
+                            if (href !== 'N/A') {
+                              const parts = href.split('-');
+                              const potentialWeight = parts.length > 2 ? parts[parts.length - 2] : 'N/A';
+
+                              if (/\d/.test(potentialWeight)) {
+                                weight = potentialWeight;
+                                // unit = weight.replace(/[\d\s]/g, '');
+                              } else {
+                                weight = parts.length > 3 ? parts[parts.length - 3] + potentialWeight : 'N/A';
+                                // unit = potentialWeight;
+                              }
+
+                              coles_product_id = parts.length > 0 ? parts[parts.length - 1] : 'N/A';
+                            }
+
+                            // Extract and convert price to cents
+                            const priceText = product.querySelector('.price__value')?.textContent.trim() || 'N/A';
+                            let pricePerUnit = 'N/A';
+                            if (priceText !== 'N/A' && priceText.startsWith('$')) {
+                              pricePerUnit = Math.round(parseFloat(priceText.replace('$', '')) * 100);
+                            }
+                            
+                            // Extract price per unit value
+                            const pricePerUnitText = product.querySelector('.price__calculation_method')?.textContent.trim() || 'N/A';
+                            let priceInCents = 'N/A';
+                            if (pricePerUnitText !== 'N/A') {
+                              const match = pricePerUnitText.match(/\$(\d+(\.\d+)?)/); // Extract $x.xx
+                              if (match && match[1]) {
+                                priceInCents = Math.round(parseFloat(match[1]) * 100);
+                              }
+                            
+                              // Extract full unit (e.g., "1EA", "100g")
+                              const unitMatch = pricePerUnitText.match(/per\s+(.*)$/i);
+                              if (unitMatch && unitMatch[1]) {
+                                unit = unitMatch[1].trim();
+                              }
+                            }
+                            let sub;
+                            sub = subCategory;
+
+                            let ext;
+                            ext = extensionCategory;
+
                             // }
                             let categId = '';
                             const matchedCategory = categoriesId.find((cat) => cat.name === category);
@@ -397,7 +311,7 @@ const scraper = async () => {
                       );
 
                       if (productData.length > 0) {
-                         console.log(
+                        console.log(
                           chalk.green(`[SCRAPED] Found `) +
                           chalk.yellow(`${productData.length}`) +
                           chalk.green(` products from "${extensionCategory}"`)
@@ -453,18 +367,17 @@ const scraper = async () => {
                       await page.close();
                     }
                   }
-                  console.log(chalk.green('✔️ Done Child Items:'), chalk.cyan(extensionCategory));
+                  console.log('done Child Items:', extensionCategory);
                 })
               );
-              console.log(chalk.green('✔️ Done Sub Category:'), chalk.cyan(subCategory));
+              console.log('done Sub Category:', subCategory);
             })
           );
-          console.log(chalk.green('✔️ Done Category:'), chalk.cyan(category));
+          console.log('done Category:', category);
         })
       );
     }
     console.log('done all');
-
   } catch (error) {
     console.error('Error:', error);
   }

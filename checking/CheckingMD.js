@@ -5,7 +5,7 @@ const categories = require('../constant/categories');
 require('dotenv').config();
 
 // Config
-const yesterdayDate = '7-10-2025';
+const yesterdayDate = '8-21-2025';
 const todayDate = process.env.FOLDER_DATE;
 
 if (!todayDate) {
@@ -176,7 +176,9 @@ const csvOutputFile = path.join(auditOutputPath, 'price_changes_matched.csv');
 const BOM = '\uFEFF';
 fs.writeFileSync(csvOutputFile, BOM + csvContent, 'utf-8');
 
+
 console.log(`✅ Price change CSV saved to: ${csvOutputFile}`);
+console.log(`📅 Comparing ${yesterdayDate} vs ${todayDate}`);
 console.log(`📊 Matched total price changes recorded: ${auditRows.length}`);
 
 // Optional: Log first few rows for debugging
@@ -189,52 +191,3 @@ if (auditRows.length > 0) {
 }
 
 
-//File: src/matched/5-6-2025/ by ID Category
-
-//In ENV:
-//FOLDER_DATE="5-6-2025"
-
-// File: src/constant/categories.js
-// This categories.js will be guide, since there is Level 1 ID on here 
-
-// ID's on each folder need to access, inside on here is the json data:
-// "name": "Baby",
-// "id": "22015",
-
-// "name": "Bakery",
-// "id": "22060",
-
-// "name": "Dairy, Eggs & Fridge",
-// "id": "22089",
-
-// "name": "Deli & Chilled Meats",
-// "id": "24023",
-
-// "name": "Drinks",
-// "id": "22164",
-
-// "name": "Freezer",
-// "id": "22280",
-
-// "name": "Fruit & Veg",
-// "id": "22351",
-
-// "name": "Health & Beauty",
-// "id": "22394",
-
-//"name": "Household",
-//"id": "22459",
-
-//"name": "Pantry",
-//"id": "22770",
-
-// "name": "Pet",
-//"id": "22916",
-
-//"name": "Poultry, Meat & Seafood",
-//"id": "22713",
-
-
-//Inside those ID folder is the json files that has id's: 22016-23820.json this the example of it.
-
-// The code should be compare datas from the date folder 5-6-2025 and today's data 5-7-2025
