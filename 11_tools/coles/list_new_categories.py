@@ -61,4 +61,5 @@ if __name__ == "__main__":
 
 
 # 1) To show the list of new categories
+# Run this command:s
 # py 11_tools/coles/list_new_categories.py

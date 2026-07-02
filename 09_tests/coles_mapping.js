@@ -17,7 +17,7 @@ const categories = [
                     { extensionCategory: "Nappies 18 Months+ (10kg+)", subId: "22048", childId: "22050" },
                     { extensionCategory: "Swimming Nappies", subId: "22048", childId: "22058" },
                     { extensionCategory: "Nighttime Nappies", subId: "22048", childId: "22054" },
-                    // { extensionCategory: "Reusable Nappies", subId: "22048", childId: "" },
+                    { extensionCategory: "Reusable Nappies", subId: "22048", childId: "" },
                 ]
             },
             {

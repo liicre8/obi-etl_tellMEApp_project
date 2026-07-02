@@ -1,2 +1,1 @@
-// File: 07_configs/constants/coles_gcaptcha.js
 export const GOOGLE_RECAPTCHA_V3_KEY = 'dd6e16a7-972e-47d2-93d0-96642fb6d8de'

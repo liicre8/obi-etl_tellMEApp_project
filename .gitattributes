@@ -1,0 +1,13 @@
+# 1. Force GitHub to explicitly detect and count Python files
+**/*.py linguist-detectable=true
+
+# 2. Ensure standard JavaScript files are tracked as programming code
+**/*.js linguist-detectable=true
+**/*.js linguist-language=JavaScript
+
+# 3. Keep lock files and builds in the repo, but hide them from the language bar
+package-lock.json linguist-vendored
+pnpm-lock.yaml linguist-vendored
+node_modules/** linguist-vendored
+dist/**/*.js linguist-vendored
+build/**/*.js linguist-vendored

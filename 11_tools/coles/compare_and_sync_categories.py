@@ -254,4 +254,5 @@ if __name__ == "__main__":
 
 
 # 1) To compare the old vs new coles categories
+# Run this command:
 # py -3 11_tools/coles/compare_and_sync_categories.py --sync

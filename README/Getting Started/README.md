@@ -27,7 +27,7 @@ npm run blocked Coles "Back-to-School"
 npm run blocked Woolworths "Easter"
 ```
 
-These commands will update your blocked categories configuration.
+These commands will update your blocked categories configuration before scraping.
 
 ### Getting Cookies
 

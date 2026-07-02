@@ -81,6 +81,7 @@ if __name__ == "__main__":
 
 
 # 1) To insert the aisle
+# Run this command:
 # py 11_tools/coles/insert_aisle_entry.py
 # Enter the target file keyword (e.g., 'baby', 'bakery'): dairy-eggs-fridge
     # baby
