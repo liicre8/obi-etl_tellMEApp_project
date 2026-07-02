@@ -16,6 +16,3 @@ Thumbs.db
 
 # VS Code settings (optional)
 .vscode/
-
-# Ignore Prettier config
-.prettierrc

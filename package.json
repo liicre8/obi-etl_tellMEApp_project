@@ -1,7 +1,8 @@
 {
-  "name": "retail-data-pipeline",
+  "name": "wools&cools-retail-data-pipeline",
   "version": "1.0.0",
   "description": "“Browser Retail Scraper” data pipeline",
+  "author": "Wils{li} <dev.wilsdpl@gmail.com >",
   "type": "module",
   "scripts": {
     "start": "npm run all",
